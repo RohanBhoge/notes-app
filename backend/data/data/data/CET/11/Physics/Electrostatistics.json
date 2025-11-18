@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "chapter": "Electrostatics",
+    "question": "The SI unit of electric charge is:",
+    "question_latex": "",
+    "image_url": "",
+    "options": [
+      "Volt",
+      "Coulomb",
+      "Ampere",
+      "Ohm"
+    ],
+    "answer": "Coulomb",
+    "difficulty": "easy",
+    "marks": 1
+  },
+  {
+    "id": 2,
+    "chapter": "Electrostatics",
+    "question": "Two like charges placed close to each other will:",
+    "question_latex": "",
+    "image_url": "",
+    "options": [
+      "Attract each other",
+      "Repel each other",
+      "Neutralize each other",
+      "Produce no force"
+    ],
+    "answer": "Repel each other",
+    "difficulty": "easy",
+    "marks": 1
+  },
+  {
+    "id": 3,
+    "chapter": "Electrostatics",
+    "question": "The force between two charges in vacuum varies as:",
+    "question_latex": "F \\propto \\frac{1}{r^2}",
+    "image_url": "",
+    "options": [
+      "r",
+      "1/r",
+      "1/r²",
+      "r²"
+    ],
+    "answer": "1/r²",
+    "difficulty": "easy",
+    "marks": 1
+  },
+  {
+    "id": 4,
+    "chapter": "Electrostatics",
+    "question": "Coulomb's law is applicable for:",
+    "question_latex": "",
+    "image_url": "",
+    "options": [
+      "Stationary charges only",
+      "Moving charges only",
+      "Charges in motion and rest",
+      "Neutral bodies"
+    ],
+    "answer": "Stationary charges only",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": 5,
+    "chapter": "Electrostatics",
+    "question": "The SI unit of electric field is:",
+    "question_latex": "E = \\frac{F}{q}",
+    "image_url": "",
+    "options": [
+      "N/C",
+      "C/N",
+      "J/C",
+      "V/A"
+    ],
+    "answer": "N/C",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": 6,
+    "chapter": "Electrostatics",
+    "question": "Electric field inside a conductor is:",
+    "question_latex": "",
+    "image_url": "",
+    "options": [
+      "Maximum",
+      "Minimum",
+      "Zero",
+      "Infinite"
+    ],
+    "answer": "Zero",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": 7,
+    "chapter": "Electrostatics",
+    "question": "Electric potential is defined as:",
+    "question_latex": "V = W/q",
+    "image_url": "",
+    "options": [
+      "Work done per unit charge",
+      "Charge per unit work",
+      "Force per unit charge",
+      "Charge per unit mass"
+    ],
+    "answer": "Work done per unit charge",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": 8,
+    "chapter": "Electrostatics",
+    "question": "The SI unit of electric potential is:",
+    "question_latex": "",
+    "image_url": "",
+    "options": [
+      "Volt",
+      "Watt",
+      "Coulomb",
+      "Henry"
+    ],
+    "answer": "Volt",
+    "difficulty": "easy",
+    "marks": 1
+  },
+  {
+    "id": 9,
+    "chapter": "Electrostatics",
+    "question": "Electric lines of force never:",
+    "question_latex": "",
+    "image_url": "",
+    "options": [
+      "Start from positive charge",
+      "End on negative charge",
+      "Intersect each other",
+      "Form closed loops"
+    ],
+    "answer": "Intersect each other",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": 10,
+    "chapter": "Electrostatics",
+    "question": "Capacitance of a capacitor depends on:",
+    "question_latex": "",
+    "image_url": "",
+    "options": [
+      "Shape and size of plates",
+      "Distance between plates",
+      "Medium between plates",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "difficulty": "medium",
+    "marks": 1
+  }
+]
