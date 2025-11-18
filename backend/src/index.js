@@ -11,6 +11,7 @@ dotenv.config();
 const app = express();
 
 const CORS_ORIGIN = process.env.CORS_ORIGIN || "http://localhost:5173";
+port = process.env.CORS_ORIGIN;
 
 // --- Middleware ---
 app.use(express.json({ limit: "5mb" }));
@@ -46,5 +47,13 @@ process.on("SIGINT", async () => {
   process.exit(0);
 });
 
+app.get("/", (req, res) => {
+  res.send("API Working");
+});
+
+app.listen(port, () =>
+  console.log(`sever started on port 
+     ${port}`)
+);
 // --- Export app for Vercel serverless ---
 export default app;
