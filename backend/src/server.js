@@ -9,9 +9,31 @@ import authRouter from "./routes/authRouter.js";
 dotenv.config();
 
 const app = express();
+const CORS_ORIGIN = "http://localhost:5173";
 
-const CORS_ORIGIN = process.env.CORS_ORIGIN || "http://localhost:5173";
-const port = process.env.PORT || 5000;
+// --- 1. Define the Whitelist of Allowed Frontend Origins ---
+// Ensure all possible development ports are included.
+const ALLOWED_ORIGINS = [
+  "http://localhost:5173",
+  "http://localhost:5174", // ⬅️ THIS MUST BE ADDED TO FIX THE CURRENT ERROR
+  "http://localhost:5175",
+  // Add any other ports your frontend might use
+];
+
+// --- 2. Fix Port Assignment ---
+const port = process.env.PORT || 5000; // Use a dedicated PORT variable, defaulting to 5000
+
+// --- Middleware ---
+app.use(express.json({ limit: "5mb" }));
+
+// 🚀 CRITICAL FIX: Apply the permissive CORS whitelist
+app.use(
+  cors({
+    origin: ALLOWED_ORIGINS,
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"], // Ensure OPTIONS is included for preflight
+    credentials: true,
+  })
+);
 
 // --- Middleware ---
 app.use(express.json({ limit: "5mb" }));

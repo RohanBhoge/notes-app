@@ -1,20 +1,42 @@
-import React, { useMemo, useState } from "react";
+import React, { useMemo } from "react";
+
+// MODIFIED Helper to split array for row-wise interleaving
+const splitIntoTwo = (arr) => {
+  const left = [];
+  const right = [];
+
+  arr.forEach((item, index) => {
+    // Items with odd index (1, 3, 5, etc. -> Q2, Q4, Q6) go to the right column
+    if ((index + 1) % 2 === 0) {
+      right.push(item);
+    } else {
+      // Items with even index (0, 2, 4, etc. -> Q1, Q3, Q5) go to the left column
+      left.push(item);
+    }
+  });
+  return [left, right];
+};
 
 const formatDateDDMMYYYY = (isoDate) => {
   if (!isoDate) return "";
+  // Check if it's already in YYYY-MM-DD format from a date picker
   const parts = isoDate.split("-");
   if (parts.length === 3) {
     return `${parts[2]}/${parts[1]}/${parts[0]}`; // DD/MM/YYYY
   }
-  return isoDate;
+
+  // Fallback for Date object parsing (original file's logic)
+  const d = new Date(isoDate);
+  // Check if the date is valid before formatting
+  if (isNaN(d.getTime())) return isoDate;
+
+  const day = String(d.getDate()).padStart(2, "0");
+  const month = String(d.getMonth() + 1).padStart(2, "0");
+  const year = d.getFullYear();
+  return `${day}/${month}/${year}`;
 };
 
-// Helper to split array for two columns
-const splitIntoTwo = (arr) => {
-  const mid = Math.ceil(arr.length / 2);
-  return [arr.slice(0, mid), arr.slice(mid)];
-};
-
+// Simplified component based on GenerateTemplate's structure
 const GeneratedTemplate = ({
   className: localClassName,
   examName: localExamName,
@@ -23,226 +45,257 @@ const GeneratedTemplate = ({
   examDuration,
   totalMarks,
   onBack,
-  generatedPaper, // ⬅️ The full JSON response (response.data)
+  generatedPaper, // The full JSON response (response.data)
 }) => {
-  // 💡 NEW STATE: Controls the display mode (Questions or Answers)
-  const [showAnswers, setShowAnswers] = useState(false); // --- 1. Data Extraction ---
+  // --- 1. Data Extraction (Keep relevant parts) ---
 
-  const paperData = generatedPaper?.data || {}; // Access the detailed array of question objects
+  const paperData = generatedPaper?.data || {};
   const questions = paperData?.metadata?.original_questions_array || [];
-  const answersString = paperData?.paper_answers || ""; // Use backend data where available, fallback to local state/props
 
-  const paperId = paperData.paper_id || "N/A";
+  // Use data from generatedPaper first, then fallback to local props
   const finalMarks = paperData.marks || totalMarks;
   const finalExamName = paperData.exam_name || localExamName;
   const finalClassName = paperData.class || localClassName;
-  const seed = paperData?.metadata?.seed || "N/A";
-  const zipPath = paperData?.metadata?.zip_path || "N/A";
   const questionCount = questions.length;
+
   const formattedDate = useMemo(
     () =>
       paperData.exam_date
         ? formatDateDDMMYYYY(paperData.exam_date)
         : formatDateDDMMYYYY(examDate),
     [paperData.exam_date, examDate]
-  ); // --- 2. Content Rendering Helpers ---
+  );
 
-  // Maps the compact answers string ("A1: Answer | A2: Answer | ...") into a display array
-  const answerItems = useMemo(() => {
-    if (!showAnswers || !answersString) return [];
-    return answersString
-      .split(" | ")
-      .map((item) => {
-        const match = item.match(/^A(\d+):\s*(.*)/);
-        return match ? { qno: parseInt(match[1]), answer: match[2] } : null;
-      })
-      .filter(Boolean);
-  }, [showAnswers, answersString]); // Render a single question block
+  // Split content into two columns using the new interleaving logic
+  const [leftContent, rightContent] = useMemo(
+    () => splitIntoTwo(questions),
+    [questions]
+  );
 
-  console.log("generated paper in template is", generatedPaper);
+  // --- 2. Content Rendering Helper (Modified to accept offset) ---
 
-  const renderQuestion = (q, idx, offset) => {
-    const qno = offset + idx + 1;
+  // Renders a single question block, adapted for the simple layout
+  const renderQuestion = (q, idx, offset = 0) => {
+    // Determine the original question number
+    let qno;
+    if (offset === 0) {
+      // Left column: Q1, Q3, Q5... (index * 2 + 1)
+      qno = idx * 2 + 1;
+    } else {
+      // Right column: Q2, Q4, Q6... (index * 2 + 2)
+      qno = idx * 2 + 2;
+    }
+
     const text = q.question || "Question text not available.";
     const marks = q.marks || 1;
-    let optsHtml = "";
+
+    let optsHtml = null;
     if (Array.isArray(q.options) && q.options.length) {
       optsHtml = (
-        <ol className="options-list">
-                   {" "}
+        <ol className="ml-5 list-[lower-alpha] mt-1 text-[16px]">
           {q.options.map((opt, i) => (
             <li key={i}>{opt}</li>
           ))}
-                 {" "}
         </ol>
       );
     }
 
+    // Only render if the calculated question number is within the total count
+    if (qno > questionCount) return null;
+
     return (
-      <div key={qno} className="question">
-               {" "}
-        <div className="qtext">
-                    <strong>Q{qno}.</strong> {text}       {" "}
+      <div key={qno} className="mb-4 question-item">
+        {/* Question Number and Text */}
+        <div className="flex">
+          <strong className="mr-2">{qno}.</strong>
+          <p className="flex-1">{text}</p>
+          <span className="ml-auto font-normal text-gray-600 whitespace-nowrap">
+            ({marks} marks)
+          </span>
         </div>
-                {optsHtml}        <div className="marks">({marks} marks)</div> 
-           {" "}
+
+        {/* Options */}
+        {optsHtml}
       </div>
     );
   };
 
-  // Render a single answer block
-  const renderAnswer = (item) => (
-    <div key={item.qno} className="answer">
-      <strong>Q{item.qno}.</strong> {item.answer}
-    </div>
-  ); // Split content into two columns for the view
-
-  const contentToSplit = showAnswers ? answerItems : questions;
-  const [leftContent, rightContent] = splitIntoTwo(contentToSplit);
-
   return (
     <div className="bg-slate-50 p-6 rounded-lg font-[Poppins]">
-           {" "}
+      {/* 1. Print Styles (Includes all fixes) */}
       <style>
-               {" "}
         {`
-          /* CSS directly translated from server.js's makeTwoColumnHtml */
-          :root { --max-w:1100px; --gap:32px; --divider:1px solid #e1e1e1; }
-          .container-paper { max-width: var(--max-w); margin: 0 auto; }
-          .card-header { background:#fff; padding:18px; border-radius:8px; border:1px solid #e8e8e8; margin-bottom:14px; text-align:center; font-family: "Times New Roman", Cambria, serif; }
-          .card-header h1 { margin:0 0 6px 0; font-size:24px; }
-          .meta { margin-top:6px; font-size:14px; }
-          .paper-body { background:#fff; padding:20px; border-radius:8px; border:1px solid #eaeaea; position:relative; overflow:visible; }
+          @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+          /* NEW: Define page borders */
+          @page {
+              margin: 0.5in;
+              border: 1px solid black; /* BORDER FOR EVERY PAGE */
+          }
+          
+          /* Two Column Styles */
+          .columns-q { 
+            display: flex; 
+            gap: 24px; 
+            padding-top: 10px; 
+            /* Fix: Ensures columns stretch to min-height for middle line visibility */
+            align-items: stretch; 
+            min-height: inherit; 
+          }
+          .col-q { 
+            flex: 1 1 50%; 
+            padding: 0 16px; 
+            height: 100%; 
+          }
+          .col-q.left { 
+            border-right: 1px solid #e1e1e1; /* The Middle Line */
+          }
+          .question-item {
+              padding-bottom: 10px;
+          }
+          
+          /* Watermark Styling for Screen & Print */
           .watermark { 
             pointer-events:none; 
-            position:absolute; 
+            position:absolute; /* Default screen position */
             left:50%; 
             top:50%; 
             transform:translate(-50%,-50%) rotate(-28deg); 
             font-size:72px; 
             font-weight:800; 
             color:#000; 
-            opacity:0.06; 
+            opacity:0.06; /* Screen Transparency */
             z-index:1; 
             white-space:nowrap; 
           }
-          .columns-q { display:flex; gap:var(--gap); position:relative; z-index:2; }
-          .col-q { flex:1 1 0; padding:0 12px; box-sizing:border-box; }
-          .col-q.left { border-right: var(--divider); padding-right: 28px; }
-          .question { margin-bottom:20px; }
-          .qtext { margin-bottom:8px; font-size:16px; font-family: "Times New Roman", Cambria, serif; }
-          .options-list { margin-left:22px; margin-top:6px; list-style-type: lower-alpha; }
-          .options-list li { margin-bottom:6px; font-size: 14px; }
-          .marks { margin-top:6px; font-size:13px; color:#444; }
-          .seedbox { font-size:12px; color:#666; position:absolute; right:10px; bottom:10px; z-index:3; }
-          
-          /* Answer Specific Styles */
-          .answer { margin-bottom: 15px; font-size: 16px; font-weight: 500; }
-          
-          /* Print Overrides */
-          @media print { 
-            body { font-family: "Times New Roman", Cambria, serif !important; margin: 0; }
-            .container-paper { max-width: 100%; margin: 0; }
-            .watermark { opacity: 0.08 !important; }
+
+          /* Print overrides */
+          @media print {
+            body * { visibility: hidden !important; }
+            #print-area, #print-area * { visibility: visible !important; }
+
+            /* Reset the default border on #print-area for print to prevent double border */
+            #print-area {
+              position: absolute;
+              left: 0;
+              top: 0;
+              width: 100%;
+              margin: 0;
+              padding: 0;
+              box-shadow: none !important;
+              font-family: 'EB Garamond', serif !important;
+              height: 100vh !important;
+              border: none !important; /* Remove border from #print-area element */
+            }
+
             .no-print { display: none !important; }
-            .columns-q { flex-direction: row !important; }
-            .col-q.left { border-right: 1px solid #e1e1e1; padding-right: 28px; }
+
+            /* FIX: Use fixed position on the BODY during print to force repeat on every page */
+            .watermark { 
+                position: fixed !important; 
+                opacity: 0.3 !important; /* Increased print opacity */
+                /* Ensure it centers relative to the viewport/page */
+                left: 50%;
+                top: 50%;
+                transform:translate(-50%,-50%) rotate(-28deg); 
+            }
+
+            /* Ensure two columns and page break rules */
+            .columns-q {
+                display: flex !important;
+                align-items: stretch !important;
+                min-height: inherit !important; 
+            }
+            .col-q {
+                height: 100% !important; 
+            }
+            .col-q.left {
+                border-right: 1px solid #e1e1e1 !important;
+            }
+            .question-item {
+                page-break-inside: avoid;
+            }
           }
-          @media (max-width:700px) { .columns-q { flex-direction:column; } .col-q.left { border-right:none; padding-right:0; } }
-        `}
-             {" "}
+        `}
       </style>
-            {/* Buttons (No Print) */}     {" "}
+
+      {/* 2. Buttons (No Print) */}
       <div className="flex justify-between items-center mb-6 no-print">
-               {" "}
         <button
           onClick={onBack}
           className="px-4 py-2 bg-gray-200 rounded-lg hover:bg-gray-300"
         >
-                    Back        {" "}
+          Back
         </button>
-               {" "}
-        <div className="flex gap-2">
-          {/* 💡 NEW BUTTON: Toggle Answer View */}
+
+        <div>
           <button
-            onClick={() => setShowAnswers((prev) => !prev)}
-            className={`px-4 py-2 rounded-lg text-white font-semibold transition-colors duration-200 ${
-              showAnswers
-                ? "bg-red-600 hover:bg-red-700"
-                : "bg-orange-500 hover:bg-orange-600"
-            }`}
+            onClick={() => window.print()}
+            className="px-4 py-2 bg-blue-600 text-white rounded-lg mr-2 hover:bg-blue-700"
           >
-            {showAnswers ? "Hide Answers" : "Show Answers"}
+            Print
           </button>
           <button
             onClick={() => window.print()}
-            className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700"
+            className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700"
           >
-            Print / Save as PDF
+            Save as PDF
           </button>
-                 {" "}
         </div>
-             {" "}
       </div>
-            {/* Printable Content */}     {" "}
-      <div id="print-area" className="container-paper bg-white">
-                {/* Header Card (Dynamic Title) */}       {" "}
-        <div className="card-header">
-                    <h1>{showAnswers ? "Answer Sheet" : "Question Paper"}</h1> 
-                 {" "}
-          <div style={{ fontWeight: 700 }}>
-            Final Mock Test - Class {finalClassName || "N/A"}
+
+      {/* 3. Printable Content */}
+      <div
+        id="print-area"
+        className="bg-white p-8 rounded-xl max-w-4xl mx-auto relative" // Removed the Tailwind border class here
+      >
+        <div className="watermark">Bisugen pvt.ltd.</div>{" "}
+        {/* WATERMARK ELEMENT - Now fixed in print */}
+        {/* ✅ Header with Larger Font - UNCHANGED */}
+        <div className="border border-black p-4">
+          <div className="flex justify-between items-start font-semibold text-[17px]">
+            {/* Left - Class */}
+            <div>Class: {finalClassName || "N/A"}</div>
+
+            {/* Center - Exam Name */}
+            <div className="text-center flex-1 font-bold text-[20px]">
+              {finalExamName || "EXAM NAME"}
+            </div>
+
+            {/* Right - Left aligned text but positioned right */}
+            <div className="flex flex-col text-[16px] leading-[1.5] items-start gap-1">
+              <span>Date: {formattedDate || "--/--/----"}</span>
+              <span>Time: {examDuration || "--"}</span>
+              <span>Marks: {finalMarks || "--"}</span>
+            </div>
           </div>
-                   {" "}
-          <div className="meta">
-                        <strong>Subject:</strong> {subjectName || "N/A"}{" "}
-            &nbsp;&nbsp;             <strong>Exam:</strong>{" "}
-            {finalExamName || "N/A"} &nbsp;&nbsp;            {" "}
-            <strong>Time:</strong> {examDuration || "30"} Minutes &nbsp;&nbsp;  
-                      <strong>Marks:</strong> {finalMarks || "0"}         {" "}
+
+          {/* Subject full width */}
+          <div className="text-[17px] font-semibold">
+            Subject: {subjectName || "_"}
           </div>
-                 {" "}
         </div>
-                {/* Paper Body */}       {" "}
-        <div className="paper-body">
-                    <div className="watermark">Bisugen pvt.ltd.</div>         {" "}
-          {questionCount === 0 && !showAnswers ? (
+        {/* Questions - Two Columns (Row-wise split) */}
+        <div className="mt-8 min-h-[600px] text-[17px] leading-8 font-[EB Garamond]">
+          {questionCount === 0 ? (
             <div className="text-center text-gray-500 py-20">
-              No questions were generated for the selected filters.
+              No questions were generated.
             </div>
           ) : (
             <div className="columns-q">
-                              {/* Left Column */}               {" "}
+              {/* Left Column (Q1, Q3, Q5, ...) */}
               <div className="col-q left">
-                                 {" "}
-                {showAnswers
-                  ? leftContent.map(renderAnswer)
-                  : leftContent.map((q, idx) => renderQuestion(q, idx, 0))}
-                               {" "}
+                {leftContent.map((q, idx) => renderQuestion(q, idx, 0))}
               </div>
-                              {/* Right Column */}               {" "}
+
+              {/* Right Column (Q2, Q4, Q6, ...) */}
               <div className="col-q right">
-                                 {" "}
-                {showAnswers
-                  ? rightContent.map(renderAnswer)
-                  : rightContent.map((q, idx) =>
-                      renderQuestion(q, idx, leftContent.length)
-                    )}
-                               {" "}
+                {rightContent.map((q, idx) => renderQuestion(q, idx, 1))}
               </div>
-                         {" "}
             </div>
           )}
-                   {" "}
-          <div className="seedbox">
-                        Source: {zipPath} &nbsp; Seed: {seed} &nbsp; Items:{" "}
-            {questionCount}         {" "}
-          </div>
-                 {" "}
         </div>
-             {" "}
       </div>
-         {" "}
     </div>
   );
 };

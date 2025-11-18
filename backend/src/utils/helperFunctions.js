@@ -268,17 +268,6 @@ async function getStudentByEmail(email) {
   }
 }
 
-/**
- * 2. Creates a new student record, linking it to the organization via the Admin user_id.
- * * @param {number} adminUserId - Foreign key linking to the 'users' table.
- * @param {string} studentUserName - Student's unique username (e.g., email prefix).
- * @param {string} email - Student's email (must be unique).
- * @param {string} passwordHash - Hashed password.
- * @param {string | null} fullName - Student's full name.
- * @param {string | null} std - Student's current standard/grade.
- * @param {string | null} classVal - Student's class name/section.
- * @returns {Promise<number>} - The ID of the newly created student row.
- */
 async function createStudent(
   adminUserId,
   studentUserName,
@@ -321,6 +310,53 @@ async function createStudent(
   }
 }
 
+async function createOrganizationNotification(userId, content, eventDate) {
+  let connection;
+  try {
+    connection = await pool.getConnection();
+
+    const insertQuery = `
+            INSERT INTO notifications 
+            (user_id, content, event_date) 
+            VALUES (?, ?, ?)
+        `;
+
+    const values = [userId, content, eventDate];
+
+    const [result] = await connection.execute(insertQuery, values);
+    return result.insertId;
+  } catch (error) {
+    console.error("DB Error in createOrganizationNotification:", error);
+    throw error;
+  } finally {
+    if (connection) connection.release();
+  }
+}
+
+async function getOrganizationNotifications(userId) {
+  let connection;
+  try {
+    connection = await pool.getConnection();
+
+    const today = new Date().toISOString().split("T")[0];
+
+    const query = `
+            SELECT id, content, event_date, created_at
+            FROM notifications
+            WHERE user_id = ? AND (event_date IS NULL OR event_date >= ?)
+            ORDER BY event_date ASC, created_at DESC
+        `;
+
+    const [rows] = await connection.execute(query, [userId, today]);
+    return rows;
+  } catch (error) {
+    console.error("DB Error in getOrganizationNotifications:", error);
+    throw error;
+  } finally {
+    if (connection) connection.release();
+  }
+}
+
 export {
   createUser,
   getUserByEmail,
@@ -332,4 +368,6 @@ export {
   createStudent,
   getAdminByUserName,
   getStudentByEmail,
+  createOrganizationNotification,
+  getOrganizationNotifications,
 };
