@@ -1,0 +1,56 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Node.js (Frontend and/or Backend)
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+build/
+dist/
+coverage/
+
+# Python (Backend, if applicable)
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+*.log
+
+# Java (Backend, if applicable)
+target/
+.classpath
+.project
+.settings/
+*.log
+
+# Other compiled output or build artifacts
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Temporary files
+*~
+*.bak
+*.swp
+temp/
+tmp/
+
+# Sensitive data (e.g., API keys, database credentials)
+# These should be handled with environment variables or a secure configuration management system
+# and not committed directly to version control.
+# Example:
+# config.js
+# credentials.json
