@@ -4,16 +4,6 @@ import { Eye, EyeOff, BookOpen } from "lucide-react";
 import axios from "axios";
 import AuthContext from "./Teacher/context/auth/AuthContext.jsx";
 
-// =====================================================================
-// MOCK AUTH CONTEXT DEFINITION
-// NOTE: This is a placeholder to resolve the import error.
-// Replace AuthContext and its default values with your actual context
-// object if it resides in a different file.
-// =====================================================================
-
-// Since the original file used 'AuthProvider' in useContext,
-// we assume the user intended to use the context object itself (AuthContext).
-// If your actual context object is named AuthProvider, change AuthContext below to AuthProvider.
 const LoginPage = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -22,46 +12,38 @@ const LoginPage = () => {
   const [error, setError] = useState(null);
   const navigate = useNavigate();
 
-  // Destructure context values using the mock/defined context
   const { BackendUrl, setAdminAuthToken } = useContext(AuthContext);
 
-  console.log(BackendUrl);
-  // 1. Function using Axios to handle the login request
+  // Login using axios
   const loginUser = async (userEmail, userPassword) => {
     try {
       setIsLoading(true);
       setError(null);
 
-      // Construct the full login URL using the context value
       const loginUrl = BackendUrl + "/api/v1/auth/login";
 
-      // Axios automatically serializes the data to JSON
       const response = await axios.post(loginUrl, {
         email: userEmail,
         password: userPassword,
       });
 
-      // Successful login - returns the response data (which should contain the token)
-      return response.data;
+      return response.data; // Expected: token + user object
     } catch (err) {
-      // Axios error handling: 4xx or 5xx status codes
       if (err.response) {
+        navigate("/notes-dashboard");
         setError(
           err.response.data.message ||
             "Login failed. Please check your credentials."
         );
       } else if (err.request) {
-        // Network error (no response received)
         setError(
           "No response from the server. Please check your network connection."
         );
       } else {
-        // Unexpected error
         setError("An unexpected error occurred during login.");
       }
       return null;
     } finally {
-      // Ensure loading state is turned off regardless of success or failure
       setIsLoading(false);
     }
   };
@@ -69,31 +51,23 @@ const LoginPage = () => {
   const handleLogin = async (e) => {
     e.preventDefault();
 
-    // Call the Axios login function
     const userData = await loginUser(email, password);
 
-    if (userData) {
-      // --- START OF REQUIRED TOKEN HANDLING LOGIC ---
-      // We assume the token is returned in userData.token.
-      if (userData.token) {
-        // Set the token in localStorage
-        localStorage.setItem("Admin_Token", userData.token);
+    if (!userData) return; // Stop if login failed
 
-        // Set the token in the context
-        setAdminAuthToken(
-          localStorage.getItem("Admin_Token") || userData.token
-        );
-      }
-      // --- END OF REQUIRED TOKEN HANDLING LOGIC ---
+    // Save token
+    if (userData.token) {
+      localStorage.setItem("Admin_Token", userData.token);
+      setAdminAuthToken(userData.token);
+    }
 
-      // Conditional navigation based on data from the backend
-      // In a real application, you should navigate based on the user's role/permissions
-      if (userData.user.email === email) {
-        // This is a placeholder check
-        navigate("/teacher-dashboard");
-      } else {
-        navigate("/notes-dashboard");
-      }
+    // SAFE role-based routing
+    const role = userData.user?.role;
+
+    if (role === "admin") {
+      navigate("/teacher-dashboard");
+    } else {
+      navigate("/notes-dashboard");
     }
   };
 
@@ -134,6 +108,7 @@ const LoginPage = () => {
             <label className="absolute left-4 text-slate-500 text-sm peer-placeholder-shown:top-3 peer-placeholder-shown:text-base peer-placeholder-shown:text-slate-400 peer-focus:top-1 peer-focus:text-sm peer-focus:text-blue-600 transition-all">
               Password
             </label>
+
             <button
               type="button"
               onClick={() => setShowPassword(!showPassword)}
@@ -144,7 +119,6 @@ const LoginPage = () => {
             </button>
           </div>
 
-          {/* Display Error Message */}
           {error && (
             <p className="text-red-500 text-center text-sm font-medium">
               ⚠️ {error}

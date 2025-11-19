@@ -1,7 +1,7 @@
-import React from 'react';
-import ExamButton from './ExamButton';
-import NoticeBoard from './NoticeBoard';
-import Calendercomponent from '../../Notes/Dashboard/Calendercomponent';
+import React from "react";
+import ExamButton from "./ExamButton";
+import NoticeBoard from "./NoticeBoard";
+import Calendercomponent from "../../Notes/Dashboard/Calendercomponent";
 
 const DashboardContent = ({ notices, handleExamClick }) => {
   return (
@@ -13,15 +13,16 @@ const DashboardContent = ({ notices, handleExamClick }) => {
           <div className="flex items-center justify-between">
             <div>
               <p className="text-slate-600 text-lg">
-                Welcome back,  👋 <br />
+                Welcome back, 👋 <br />
                 Here's your learning overview and progress insights.
               </p>
             </div>
             <div className="bg-blue-100 text-blue-800 font-semibold px-4 py-2 rounded-xl shadow-inner">
-              🕒 {new Date().toLocaleDateString('en-US', {
-                weekday: 'long',
-                month: 'short',
-                day: 'numeric',
+              🕒
+              {new Date().toLocaleDateString("en-US", {
+                weekday: "long",
+                month: "short",
+                day: "numeric",
               })}
             </div>
           </div>
@@ -32,6 +33,7 @@ const DashboardContent = ({ notices, handleExamClick }) => {
           <ExamButton exam="CET" handleExamClick={handleExamClick} />
           <ExamButton exam="JEE" handleExamClick={handleExamClick} />
           <ExamButton exam="NEET" handleExamClick={handleExamClick} />
+          <ExamButton exam="Board" handleExamClick={handleExamClick} />
         </div>
 
         {/* Notice Board */}

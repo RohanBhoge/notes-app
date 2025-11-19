@@ -1,7 +1,9 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useContext } from "react";
 import Calendar from "react-calendar";
 import "react-calendar/dist/Calendar.css";
 import { X } from "lucide-react";
+import axios from "axios";
+import AuthContext from "../../Teacher/context/auth/AuthContext.jsx";
 
 const CalendarComponent = () => {
   const [selectedDate, setSelectedDate] = useState(null);
@@ -9,7 +11,10 @@ const CalendarComponent = () => {
   const [showAddReminder, setShowAddReminder] = useState(false);
   const [newReminder, setNewReminder] = useState("");
 
-  // Auto delete past reminders
+  // Access token and URL from context
+  const { adminAuthToken, BackendUrl } = useContext(AuthContext);
+
+  // Auto delete past reminders (Local state logic maintained)
   useEffect(() => {
     const today = new Date();
     setReminders((prev) =>
@@ -20,19 +25,53 @@ const CalendarComponent = () => {
     );
   }, []);
 
-  const handleAddReminder = () => {
-    if (!newReminder.trim()) return;
-    const reminder = {
-      id: Date.now(),
-      text: newReminder,
-      date: selectedDate,
-    };
-    setReminders([...reminders, reminder]);
-    setNewReminder("");
-    setShowAddReminder(false);
+  const handleAddReminder = async () => {
+    if (!newReminder.trim() || !selectedDate) return;
+
+    // 1. Format date to YYYY-MM-DD for the API
+    // We explicitly construct this to avoid timezone shifts often caused by toISOString()
+    const year = selectedDate.getFullYear();
+    const month = String(selectedDate.getMonth() + 1).padStart(2, "0");
+    const day = String(selectedDate.getDate()).padStart(2, "0");
+    const formattedDate = `${year}-${month}-${day}`;
+
+    try {
+      // 2. Call the API
+      const response = await axios.post(
+        `${BackendUrl}/api/v1/notification/store-notification`,
+        {
+          content: newReminder,
+          event_date: formattedDate,
+        },
+        {
+          headers: {
+            Authorization: `Bearer ${adminAuthToken}`,
+          },
+        }
+      );
+
+      // 3. If successful, update the local UI state
+      if (response.data.success) {
+        const reminder = {
+          id: Date.now(), // Using timestamp for local key, or use response.data.id if API returns it
+          text: newReminder,
+          date: selectedDate,
+        };
+        setReminders([...reminders, reminder]);
+        setNewReminder("");
+        setShowAddReminder(false);
+        // Optional: Show success message
+        // alert("Notification saved!");
+      }
+    } catch (error) {
+      console.error("Error saving notification:", error);
+      alert("Failed to save notification. Please try again.");
+    }
   };
 
   const handleDeleteReminder = (id) => {
+    // Currently handles local deletion only.
+    // If you have a delete API, add the axios call here.
     setReminders(reminders.filter((r) => r.id !== id));
   };
 

@@ -18,6 +18,7 @@ const PaperProvider = (props) => {
     chapters: [],
     count: 10,
   });
+  console.log(paperData.chapters);
 
   return (
     <PaperContext.Provider

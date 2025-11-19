@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import Sidebar from "../Components/Teacher/Layout/Sidebar";
 import TopBar from "../Components/Teacher/Layout/TopBar";
 import DashboardContent from "../Components/Teacher/Dashboard/DashboardContent";
@@ -466,18 +466,10 @@ const TeacherDashboard = () => {
     console.log("mode is", mode); // Auto-select ALL chapters if mode is NOT 'Random' (i.e., Fixed or null/initial)
     if (mode !== "Random") {
       initialChapterSelection = availableChaptersForView;
-    } // If mode is 'Random', initialChapterSelection remains []
-    // 3. Prepare the checkedChapters UI state object (Crucial for display sync)
+    } 
     const newCheckedChapters = {};
     if (initialChapterSelection.length > 0) {
       initialChapterSelection.forEach((chapter) => {
-        // NOTE: The chapter keys in checkedChapters include a prefix (e.g., 'col1-')
-        // To properly initialize checkedChapters, you need to use the key format
-        // expected by renderChapterList if possible, but here we just use the raw chapter name.
-        // A safer approach requires knowing the column key, but since we don't have it,
-        // we will reset checkedChapters entirely based on the raw name, hoping
-        // the renderChapterList logic is flexible or reset happens correctly.
-        // For now, let's just use the raw chapter name for the key:
         newCheckedChapters[chapter] = true;
       });
     } // 4. Update paperData state
@@ -518,50 +510,53 @@ const TeacherDashboard = () => {
     setIsSidebarOpen(false);
   };
 
+  // ... (TeacherDashboard component body) ...
+  // Inside TeacherDashboard component
+
   const handleCheckboxChange = (chapterKey) => {
-    let isChapterCurrentlySelected; // 1. Update the UI tracking state (checkedChapters object)
+    // This variable will hold the calculated final state of the checkbox (true/false)
+    let isChapterBecomingSelected; // 1. Update the UI tracking state (checkedChapters object)
 
     setCheckedChapters((prev) => {
       // Determine the TOGGLED state of the current chapter
-      isChapterCurrentlySelected = !prev[chapterKey]; // Return the new state for the checkmarks
+      isChapterBecomingSelected = !prev[chapterKey];
 
-      console.log("toggling chapter:", isChapterCurrentlySelected);
+      // 🚀 CRITICAL STEP: Immediately call the context setter inside this callback
+      // to ensure it sees the correct calculated value (isChapterBecomingSelected).
+      const rawChapterName = chapterKey.split("-").slice(1).join("-");
+
+      setPaperData((prevData) => {
+        const currentChaptersArray = prevData.chapters || [];
+        let updatedChaptersArray;
+
+        if (isChapterBecomingSelected) {
+          // ADD: If selection is TRUE, add the raw chapter name (if not already present)
+          if (!currentChaptersArray.includes(rawChapterName)) {
+            updatedChaptersArray = [...currentChaptersArray, rawChapterName];
+          } else {
+            updatedChaptersArray = currentChaptersArray;
+          }
+        } else {
+          // REMOVE: If selection is FALSE, filter it out
+          updatedChaptersArray = currentChaptersArray.filter(
+            (c) => c !== rawChapterName
+          );
+        }
+
+        console.log("updated chapters array is", updatedChaptersArray);
+        return {
+          ...prevData,
+          chapters: updatedChaptersArray,
+        };
+      }); // Return the new UI state for the checkmarks
+
       return {
         ...prev,
-        [chapterKey]: isChapterCurrentlySelected,
+        [chapterKey]: isChapterBecomingSelected,
       };
     });
-
-    // 💡 IMPORTANT: Extract the raw chapter name from the key (e.g., 'col1-1. Motion in Plane' -> '1. Motion in Plane')
-    const rawChapterName = chapterKey.split("-").slice(1).join("-"); // 2. Update the API payload state (paperData.chapters array)
-
-    setPaperData((prevData) => {
-      // Get the current list of selected chapters from paperData
-      const currentChaptersArray = prevData.chapters || [];
-      let updatedChaptersArray;
-
-      if (isChapterCurrentlySelected) {
-        // If selecting (TRUE), add the raw chapter name if it's not already present
-        if (!currentChaptersArray.includes(rawChapterName)) {
-          updatedChaptersArray = [...currentChaptersArray, rawChapterName];
-        } else {
-          updatedChaptersArray = currentChaptersArray;
-        }
-      } else {
-        // If deselecting (FALSE), remove the raw chapter name
-        updatedChaptersArray = currentChaptersArray.filter(
-          (c) => c !== rawChapterName
-        );
-      }
-
-      console.log("updated chapters array is", updatedChaptersArray);
-      return {
-        ...prevData,
-        chapters: updatedChaptersArray,
-      };
-    });
-    console.log("paper data ", paperData);
   };
+  // ... (rest of the TeacherDashboard component continues)
 
   return (
     <div className="flex h-screen bg-slate-50">
