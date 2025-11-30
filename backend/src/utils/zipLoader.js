@@ -16,7 +16,7 @@ const ZIP_POSSIBLE_PATHS = [
 
 let _zipCache = { timestamp: 0, questions: null, sourcePath: null };
 
-export function normalizeKey(s) {
+function normalizeKey(s) {
   if (s === null || s === undefined) return "";
   return String(s)
     .toLowerCase()
@@ -354,4 +354,5 @@ export {
   seededShuffle,
   loadQuestionsFromZip,
   matchesFiltersObj,
+  normalizeKey,
 };

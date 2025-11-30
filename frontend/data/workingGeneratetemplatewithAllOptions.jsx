@@ -8,9 +8,10 @@ import React, {
 // 💡 MOCK IMPORTS - REPLACE WITH ACTUAL IMPLEMENTATION IN YOUR PROJECT
 import axios from "axios";
 import AuthContext from "../context/auth/AuthContext.jsx";
-import PaperContext from "../context/paper/PaperContext.jsx";
-import { useNavigate } from "react-router-dom";
+import PaperContext from "../context/paper/PaperContext";
 // END MOCK IMPORTS
+
+// --- Helper Functions ---
 
 // Split questions into two columns (odd indices left, even indices right)
 const splitIntoTwo = (arr) => {
@@ -42,42 +43,17 @@ const formatDateDDMMYYYY = (isoDate) => {
 
 // Function to calculate the Composite Key (ChapterName::ID) for replacement tracking
 const getCompositeKey = (q) => {
+  // Rely on the most stable identifiers available in the question object
   const qId = String(q.id || q.qno || q.paper_id || "unknown");
   const qChapter = String(q.chapter || q.chapter_name || "unknown");
   return `${qChapter}::${qId}`;
 };
 
 const REPLACEMENT_API_URL = "http://localhost:5000/api/v1/paper/replacements";
-const STORE_PAPER_API_URL = "http://localhost:5000/api/v1/paper/store-paper";
-
-// --- Mark Allocation Helper ---
-const getQuestionMark = (exam, subject) => {
-    const normSubject = subject ? subject.trim() : '';
-    const normExam = exam ? exam.toUpperCase() : '';
-
-    switch (normExam) {
-        case 'CET':
-            // CET: Math is 2 marks; Physics, Chemistry, Biology are 1 mark.
-            if (normSubject === 'Maths') {
-                return 2;
-            } else if (['Physics', 'Chemistry', 'Biology'].includes(normSubject)) {
-                return 1;
-            }
-            return 1; // Default for other CET subjects
-        
-        case 'NEET':
-        case 'JEE':
-            // NEET/JEE: 4 marks per question for every subject.
-            return 4;
-            
-        default:
-            // Fallback to 1 mark if exam type is unknown
-            return 1; 
-    }
-};
 
 // --- Main Component ---
 
+// CORRECTED: Destructure props properly
 const GeneratedTemplate = ({
   className,
   examName,
@@ -85,32 +61,32 @@ const GeneratedTemplate = ({
   examDate,
   examDuration,
   totalMarks,
-  onBack, 
+  onBack,
+  generatedPaper, // This is the API response (backendPaperData) passed from ChaptersPage
 }) => {
   const { adminAuthToken } = useContext(AuthContext);
-  const { exam, standards, subjects, setShowGenerateOptions, showGenerateOptions, backendPaperData } =
+  const { exam, standards, subjects, backendPaperData } =
     useContext(PaperContext);
 
-  const apiData = backendPaperData?.data || backendPaperData || {};
+  // 💡 Extract data from the generatedPaper prop. Use 'data' field or fallback to the whole object.
+  const apiData = generatedPaper?.data || generatedPaper || {};
   const originalQuestions = apiData?.metadata?.original_questions_array || [];
 
-  console.log("[DEBUG] Generated Paper Data (Prop):", backendPaperData); 
-
+  // --- UI/View States ---
   const [useColumns, setUseColumns] = useState(true);
-  const [viewMode, setViewMode] = useState("questions_only");
-  const [paperStored, setPaperStored] = useState(false);
+  const [showGenerateOptions, setShowGenerateOptions] = useState(false);
+  const [viewMode, setViewMode] = useState("questions_only"); // 'questions_only', 'with_answers', 'with_solutions'
 
+  // --- Replacement States ---
   const [replaceMode, setReplaceMode] = useState(false);
   const [selectedReplaceQuestions, setSelectedReplaceQuestions] = useState([]);
   const [replacementPool, setReplacementPool] = useState([]);
   const [isFetching, setIsFetching] = useState(false);
   const [error, setError] = useState(null);
-  const [backOptions,setBakcOptions]=useState(null)
 
   const [displayedQuestions, setDisplayedQuestions] =
     useState(originalQuestions);
 
-  const navigate= useNavigate()
   // Derived view states
   const showAnswers =
     viewMode === "with_answers" || viewMode === "with_solutions";
@@ -118,6 +94,7 @@ const GeneratedTemplate = ({
 
   // Sync original questions when the paper data changes (e.g., first load)
   useEffect(() => {
+    // Deep copy the original array for mutability in replacements
     setDisplayedQuestions(JSON.parse(JSON.stringify(originalQuestions)));
     setSelectedReplaceQuestions([]);
     setReplacementPool([]);
@@ -127,93 +104,15 @@ const GeneratedTemplate = ({
   const formattedDate = formatDateDDMMYYYY(examDate);
   const questionCount = displayedQuestions.length;
 
-  const finalExamName = exam;
-  const finalClassName = standards;
+  const finalExamName = apiData.exam_name || examName;
+  const finalClassName = apiData.class || className;
   const finalMarks = apiData.marks || totalMarks;
-  const finalSubject = subjects;
+  const finalSubject = apiData.subject || subjectName;
 
   const [leftContent, rightContent] = useMemo(
     () => splitIntoTwo(displayedQuestions),
     [displayedQuestions]
   );
-
-  // --- Storage Logic ---
-
-  const storeGeneratedPaper = useCallback(
-    async (data) => {
-      if (paperStored) return true;
-      if (!data.paper_id) {
-        console.error("[DEBUG] Store Error: Missing paper_id in API response.");
-        return false;
-      }
-
-      try {
-        console.log("[DEBUG] Storing Paper Payload:", data);
-        const response = await axios.post(STORE_PAPER_API_URL, data, {
-          headers: { Authorization: `Bearer ${adminAuthToken}` },
-        });
-        
-        console.log("[DEBUG] Store API Response:", response.data);
-        
-        console.log("Paper stored successfully!");
-        setPaperStored(true);
-        setError(null); // Clear any previous error on success
-        return true;
-      } catch (err) {
-        console.error(
-          "[DEBUG] Store Paper API Error:",
-          err.response?.data || err.message
-        );
-        setError(
-          `Warning: Failed to permanently store paper on the backend. Status: ${
-            err.response?.status || "Network Error"
-          }`
-        );
-        return false;
-      }
-    },
-    [paperStored, adminAuthToken]
-  );
-
-  // 💡 NEW HANDLER: Called when the initial 'Generate' button is clicked
-  const handleInitialGenerate = useCallback(async () => {
-    // 1. Attempt to store the paper
-    await storeGeneratedPaper(apiData);
-
-    // 2. Show the print options regardless of storage success/failure (as requested)
-    setShowGenerateOptions(true);
-  }, [storeGeneratedPaper, apiData, setShowGenerateOptions]);
-
-  // --- Back Button Logic ---
-
-  /** * Handles backing out of the Print Options section. */
-  const handleBackFromPrintOptions = () => {
-    setShowGenerateOptions(false);
-    setViewMode("questions_only"); // Reset view mode to default
-  };
-
-  /** * Handles general navigation logic: */
-  const handleGlobalBack = () => {
-    console.log("show generate options",showGenerateOptions);
-    
-    if (showGenerateOptions) {
-      handleBackFromPrintOptions();
-      navigate("/teacher-dashboard")
-    } else if (replaceMode) {
-      // If currently in select/replace mode, cancel selection
-      setReplaceMode(false);
-      setSelectedReplaceQuestions([]);
-      setReplacementPool([]);
-      setError(null);
-    } else {
-      // If in the main view (Default state), go back to the dashboard/previous section
-      if (onBack) {
-        onBack();
-      }
-    }
-  };
-
-  // --- Replacement Logic ---
 
   // Handler for selecting a question to be replaced
   const handleQuestionSelection = (questionObject) => {
@@ -221,22 +120,25 @@ const GeneratedTemplate = ({
 
     setSelectedReplaceQuestions((prevSelected) => {
       const isSelected = prevSelected.some((q) => getCompositeKey(q) === key);
-      return isSelected
-        ? prevSelected.filter((q) => getCompositeKey(q) !== key)
-        : [...prevSelected, questionObject];
+
+      if (isSelected) {
+        return prevSelected.filter((q) => getCompositeKey(q) !== key);
+      } else {
+        return [...prevSelected, questionObject];
+      }
     });
   };
 
-  // 💡 EFFECT HOOK: Triggers when replacementPool is filled
+  // 💡 EFFECT HOOK: Triggers when replacementPool is filled to perform the swap
   useEffect(() => {
     if (replacementPool.length > 0) {
-      console.log(`[DEBUG] Performing replacement swap for ${replacementPool.length} question(s).`);
       setDisplayedQuestions((prevQuestions) => {
         let nextQuestions = [...prevQuestions];
         let replacementIndex = 0;
 
         selectedReplaceQuestions.forEach((selectedQ) => {
           const selectedKey = getCompositeKey(selectedQ);
+
           const indexToReplace = nextQuestions.findIndex(
             (q) => getCompositeKey(q) === selectedKey
           );
@@ -246,7 +148,10 @@ const GeneratedTemplate = ({
             replacementIndex < replacementPool.length
           ) {
             const newQuestion = replacementPool[replacementIndex];
+
+            // CRITICAL: Preserve the original index (qno) from the replaced question
             newQuestion.qno = selectedQ.qno;
+
             nextQuestions[indexToReplace] = newQuestion;
             replacementIndex++;
           }
@@ -255,6 +160,7 @@ const GeneratedTemplate = ({
         return nextQuestions;
       });
 
+      // Reset states after successful replacement
       setSelectedReplaceQuestions([]);
       setReplacementPool([]);
       setReplaceMode(false);
@@ -272,7 +178,9 @@ const GeneratedTemplate = ({
     setIsFetching(true);
     setError(null);
 
+    // 1. Prepare Request Body
     const overallUsedKeys = displayedQuestions.map(getCompositeKey);
+
     const chapterRequestsMap = selectedReplaceQuestions.reduce((map, q) => {
       const chapterName = q.chapter || "unknown_chapter";
       map.set(chapterName, (map.get(chapterName) || 0) + 1);
@@ -281,32 +189,45 @@ const GeneratedTemplate = ({
 
     const replacementRequests = Array.from(
       chapterRequestsMap,
-      ([chapter, count]) => ({ chapter, count })
+      ([chapter, count]) => ({
+        chapter,
+        count,
+      })
     );
-    
-    const replacementPayload = {
-        exam: exam,
-        standards: standards,
-        subjects: subjects,
-        overallUsedKeys: overallUsedKeys,
-        replacementRequests: replacementRequests,
-    };
-    
-    console.log("[DEBUG] Replacement Request Payload:", replacementPayload);
 
+    // 💡 CRITICAL FIX: Use the data derived from PROPS/API RESPONSE for the replacement payload
+    console.log(
+      "api data and replcemnt quations ",
+      apiData,
+      "replacement",
+      replacementRequests,
+      "overallUsedKeys",
+      overallUsedKeys
+    );
 
+    const apiExam = apiData.exam_name || apiData.exam || examName;
+    const apiStandards = apiData.class || className;
+    const apiSubjects = apiData.subject || subjectName;
+
+    console.log(apiData, apiStandards, apiSubjects);
     try {
       const response = await axios.post(
-        REPLACEMENT_API_URL,
-        replacementPayload,
+        REPLACEMENT_API_URL, // Use the globally defined constant REPLACEMENT_API_URL
+        {
+          exam: exam,
+          standards: standards,
+          subjects: subjects,
+          overallUsedKeys: overallUsedKeys,
+          replacementRequests: replacementRequests,
+        },
         { headers: { Authorization: `Bearer ${adminAuthToken}` } }
       );
 
       if (response.data.success) {
-        console.log("[DEBUG] Replacement API Success. New Questions:", response.data.replacementQuestions);
         setReplacementPool(response.data.replacementQuestions || []);
       } else {
-        console.error("[DEBUG] Replacement API Error (Backend Fail):", response.data);
+        // Log the exact error message from the backend
+        console.error("Replacement API Error:", response.data);
         setError(
           response.data.message || "Failed to fetch replacement options."
         );
@@ -314,9 +235,10 @@ const GeneratedTemplate = ({
       }
     } catch (err) {
       console.error(
-        "[DEBUG] Replacement API Error (Network/Server):",
+        "Replacement API Error:",
         err.response?.data || err.message
       );
+      // NOTE: 404/Network errors are handled here
       setError(
         "Could not connect to replacement service or server issue (404/500)."
       );
@@ -337,10 +259,9 @@ const GeneratedTemplate = ({
   };
 
   // Handler for printing with a specific view mode
-  const handleGeneratePrint = useCallback(async (mode) => {
+  const handleGeneratePrint = useCallback((mode) => {
     // 1. Set the desired view mode
     setViewMode(mode);
-    console.log(`[DEBUG] Setting viewMode to '${mode}' before printing.`);
 
     // 2. Wait for the state update
     setTimeout(() => {
@@ -348,8 +269,18 @@ const GeneratedTemplate = ({
     }, 100);
   }, []);
 
+  // Handler for back button
+  const handleBack = () => {
+    setShowGenerateOptions(false);
+    setViewMode("questions_only"); // Reset view mode to default
+    if (onBack) {
+      onBack();
+    }
+  };
+
   // Renders a single question block
   const renderQuestion = (q, idx, col) => {
+    // Determine the correct question number based on layout
     const qno =
       q.qno || (useColumns ? (col === 0 ? idx * 2 + 1 : idx * 2 + 2) : idx + 1);
     const key = getCompositeKey(q);
@@ -357,12 +288,8 @@ const GeneratedTemplate = ({
       (sq) => getCompositeKey(sq) === key
     );
 
-    // 💡 Calculate Mark: Use the fixed exam scheme based on current context
-    const calculatedMark = getQuestionMark(finalExamName, finalSubject);
-
     let optsHtml = null;
-    // 💡 Defensive check for q.options
-    if (q.options && Array.isArray(q.options) && q.options.length) {
+    if (Array.isArray(q.options) && q.options.length) {
       optsHtml = (
         <ol className="ml-5 list-[lower-alpha] mt-1 text-[15px]">
           {q.options.map((opt, i) => (
@@ -399,7 +326,7 @@ const GeneratedTemplate = ({
           <strong className="mr-2">{qno}.</strong>
           <p className="flex-1">{q.question}</p>
           <span className="ml-auto font-normal text-gray-700 whitespace-nowrap">
-            ({calculatedMark} M)
+            ({q.marks || 1} M)
           </span>
         </div>
 
@@ -427,9 +354,9 @@ const GeneratedTemplate = ({
   };
 
   return (
-    <div className="bg-slate-50 p-6 rounded-lg font-[Times New Roman]">
+    <div className="bg-slate-50 p-6 rounded-lg font-[Poppins]">
       <style>
-        {/* ... (Your existing styles here) ... */}
+        {/* ... (Your existing styles here, including print and toggle styles) ... */}
         {`
           @page { margin: 10mm; }
           .columns-q { display: flex; gap: 20px; }
@@ -445,7 +372,7 @@ const GeneratedTemplate = ({
           input:checked + .toggle-slider:before { transform: translateX(32px); }
           @media print {
             body * { visibility: hidden; }
-            #print-area, #print-area * { visibility: visible; } 
+            #print-area, #print-area * { visibility: visible; }
             #print-area { position: absolute; top: 0; left: 0; width: 100%; }
             .no-print { display: none !important; }
             .watermark-print {
@@ -459,28 +386,11 @@ const GeneratedTemplate = ({
         `}
       </style>
 
+      {/* Control Panel (Replacement, Toggles, Print) */}
       <div className="no-print flex justify-between items-center mb-4 gap-4">
-        {/* Left Side - Back Button & Toggles */}
+        {/* Left Side - Toggles */}
         <div className="flex items-center gap-6">
-          {/* 💡 CONDITIONAL BACK BUTTON */}
-          <button
-            onClick={handleGlobalBack}
-            className={`px-4 py-2 rounded-lg text-white font-semibold transition-colors duration-300 
-            ${
-              replaceMode || showGenerateOptions
-                ? "bg-gray-500 hover:bg-gray-600"
-                : "bg-slate-600 hover:bg-slate-700"
-            }
-            `}
-          >
-            {/* If in print options, back goes to dashboard, otherwise it goes one step back (cancel/exit) */}
-            {showGenerateOptions
-              ? "Back to Dashboard"
-              : replaceMode
-              ? "Cancel Selection"
-              : "Back"}
-          </button>
-
+          {/* Column Layout Toggle */}
           <div className="flex items-center gap-3">
             <span className="text-gray-700 font-medium">
               {useColumns ? "Column Layout" : "Single Layout"}
@@ -502,7 +412,6 @@ const GeneratedTemplate = ({
           {!showGenerateOptions && (
             <>
               {/* Select Questions Button & Replace Button */}
-              {/* NOTE: We keep the Cancel button outside of handleGlobalBack because it handles state reset *within* this section */}
               <button
                 onClick={() => setReplaceMode((prev) => !prev)}
                 className={`px-4 py-2 rounded-lg text-white font-semibold transition-colors duration-300 ${
@@ -525,9 +434,9 @@ const GeneratedTemplate = ({
                 </button>
               )}
 
-              {/* Initial Generate Button 💡 Calls new handler to store paper */}
+              {/* Initial Generate Button */}
               <button
-                onClick={handleInitialGenerate}
+                onClick={() => setShowGenerateOptions(true)}
                 className="bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 font-semibold"
               >
                 Generate
@@ -535,9 +444,18 @@ const GeneratedTemplate = ({
             </>
           )}
 
+          {/* SECTION 2: Back and Print Options (After clicking Generate) */}
           {showGenerateOptions && (
             <>
-              {/* Print Options - Triggers only print/view mode change */}
+              {/* Back Button */}
+              <button
+                onClick={handleBack}
+                className="bg-gray-500 text-white px-4 py-2 rounded-lg hover:bg-gray-600 font-semibold"
+              >
+                Back
+              </button>
+
+              {/* Print Options */}
               <button
                 onClick={() => handleGeneratePrint("questions_only")}
                 className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 font-semibold"
@@ -561,14 +479,17 @@ const GeneratedTemplate = ({
         </div>
       </div>
 
+      {/* Display Error/Loading */}
       {error && (
         <div className="no-print text-red-500 text-center mb-4">{error}</div>
       )}
 
+      {/* Watermark for Print */}
       <div className="watermark-print">Bisugen Pvt. Ltd.</div>
 
+      {/* Printable Question Paper */}
       <div id="print-area" className="bg-white p-8 rounded-xl border relative">
-  
+        {/* Header Section */}
         <div className="border border-black p-4">
           <div className="flex justify-between font-semibold text-[16px]">
             <span>Class: {finalClassName}</span>
@@ -587,6 +508,8 @@ const GeneratedTemplate = ({
             Subject: {finalSubject}
           </div>
         </div>
+
+        {/* Questions - Conditional Layout */}
         <div className="mt-6 text-[17px] leading-8 font-serif">
           {questionCount === 0 ? (
             <div className="text-center text-gray-500 py-20">

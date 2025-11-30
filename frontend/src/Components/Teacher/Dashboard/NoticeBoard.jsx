@@ -1,12 +1,15 @@
 import React, { useEffect, useState, useContext } from "react";
 import axios from "axios";
 import { Bell, ChevronRight } from "lucide-react";
-import { AnimatePresence } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import AuthContext from "../context/auth/AuthContext.jsx";
 
 const NoticeBoard = () => {
   const [notices, setNotices] = useState([]);
   const { adminAuthToken, BackendUrl } = useContext(AuthContext);
+  console.log(adminAuthToken);
+
+  const token = "YOUR_BEARER_TOKEN_FROM_CONTEXT";
 
   useEffect(() => {
     const fetchNotifications = async () => {
@@ -20,8 +23,11 @@ const NoticeBoard = () => {
           }
         );
 
+        console.log(response.data);
         if (response.data.success) {
+          // Transform API data to match UI structure
           const formattedNotices = response.data.notifications.map((note) => {
+            // Logic to determine if a notice is "New" (e.g., created in the last 3 days)
             const createdDate = new Date(note.created_at);
             const today = new Date();
             const diffTime = Math.abs(today - createdDate);
@@ -31,7 +37,7 @@ const NoticeBoard = () => {
             return {
               id: note.id, // Use unique ID for React keys
               text: note.content, // Map 'content' to 'text'
-              isNew: isRecent,
+              isNew: isRecent, // Calculated boolean
             };
           });
 
@@ -42,7 +48,7 @@ const NoticeBoard = () => {
       }
     };
 
-    if (adminAuthToken) {
+    if (token) {
       fetchNotifications();
     }
   }, [adminAuthToken]);
@@ -108,7 +114,6 @@ const NoticeBoard = () => {
             ))}
           </AnimatePresence>
 
-          {/* Optional: Show a message if no notices exist */}
           {notices.length === 0 && (
             <div className="text-center text-slate-400 py-4">
               No notifications available.

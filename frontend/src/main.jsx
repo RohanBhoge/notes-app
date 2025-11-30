@@ -9,6 +9,7 @@ import NotesDashboard from "./pages/NotesDashboard";
 import OmrIntegratedPage from "./Components/Teacher/pages/test";
 import PaperProvider from "./Components/Teacher/context/paper/PaperProvider.jsx";
 import AuthProvider from "./Components/Teacher/context/auth/AuthProvider.jsx";
+import GeneratedTemplate from "./Components/Teacher/Dashboard/GeneratedTemplate.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -21,6 +22,8 @@ createRoot(document.getElementById("root")).render(
             <Route path="/teacher-dashboard" element={<TeacherDashboard />} />
             <Route path="/notes-dashboard" element={<NotesDashboard />} />
             <Route path="/test" element={<OmrIntegratedPage />} />
+            <Route path="/paper-view" element={<GeneratedTemplate />} />
+            {/* <Route path="/exam-paper" element={<GeneratedTemplate />} /> */}
             {/* <Route path="/paper-history" element={<PaperHistoryPage/>}/>
         <Route path="omr-page" element={<OmrPage/>}/> */}
 

@@ -1,14 +1,11 @@
 import React, { useEffect, useState, useCallback, useContext } from "react";
 import axios from "axios";
-// Corrected path reference based on the error: Assuming OmrPage is a peer component.
-// NOTE: I'm using OmrPage here as specified by the context, but in a real project, this might be ./OmrIntegratedPage.jsx
 import OmrPage from "./OmrPage";
 import PaperContext from "../context/paper/PaperContext.jsx";
-import AuthProvider from "../context/auth/AuthProvider.jsx";
 import AuthContext from "../context/auth/AuthContext.jsx";
+import { useNavigate } from "react-router-dom";
 
 function updatePaperInService(paper) {
-  // This should eventually be a PUT/POST API call to update the status in the DB
   console.log(
     "SIMULATION: Status update needed in database for paper:",
     paper.paperId
@@ -20,147 +17,276 @@ function clearAllHistory() {
     window.confirm(
       "Delete all paper history? (This requires a backend API DELETE call)"
     )
+
   ) {
     console.log("SIMULATION: Sending DELETE request to backend...");
     return true;
   }
   return false;
 }
-// -----------------------------------------------------------------------------------------
 
-/* ------------------------------ Main Component ------------------------------ */
+const DELETE_API_URL = "http://localhost:5000/api/v1/paper/delete-paper";
 
 const PaperHistoryPage = ({ setActiveSection }) => {
   const [papers, setPapers] = useState([]);
   const [search, setSearch] = useState("");
   const [activeView, setActiveView] = useState("history");
   const [selectedPaper, setSelectedPaper] = useState(null);
-  const { form, setForm } = useContext(PaperContext);
+  // 💡 Destructure setShowGenerateOptions from PaperContext
+  const { setForm, setBackendPaperData, setShowGenerateOptions } = useContext(PaperContext);
   const { adminAuthToken, BackendUrl } = useContext(AuthContext);
-  // New States for API status
+
   const [loading, setLoading] = useState(false);
   const [fetchError, setFetchError] = useState(null);
+  const [isFetchingPaper, setIsFetchingPaper] = useState(false);
+  const navigate = useNavigate()
 
-  // --- API Fetch Function ---
-  const fetchPapers = useCallback(async (searchTerm = "") => {
+  // 💡 NEW STATES for Deletion/Selection
+  const [deleteMode, setDeleteMode] = useState(false);
+  const [selectedPaperIds, setSelectedPaperIds] = useState(new Set());
+
+  // --- API Fetch Function for History List (omitted for brevity) ---
+  const fetchPapers = useCallback(
+    async (searchTerm = "") => {
+      setLoading(true);
+      setFetchError(null);
+      try {
+        const response = await axios.get(
+          BackendUrl + "/api/v1/paper/get-paper-history",
+          {
+            headers: {
+              Authorization: `Bearer ${adminAuthToken}`,
+            },
+          }
+        );
+
+        if (response.data.success) {
+          let fetchedPapers = response.data.papers;
+
+          if (searchTerm) {
+            fetchedPapers = fetchedPapers.filter((p) =>
+              Object.values(p).some((val) =>
+                String(val).toLowerCase().includes(searchTerm.toLowerCase())
+              )
+            );
+          }
+
+          const mappedPapers = fetchedPapers
+            .map((p) => ({
+              paperId: p.paper_id,
+              examName: p.exam_name,
+              className: p.class,
+              subjectName: p.subject,
+              examDate: p.exam_date,
+              totalMarks: p.marks,
+              examDuration: p.exam_duration || "N/A",
+              status: p.status || "checked",
+              generatedPaper: p,
+            }))
+            .sort((a, b) => {
+              if (a.examDate && b.examDate)
+                return new Date(b.examDate) - new Date(a.examDate);
+              return 0;
+            });
+
+          setPapers(mappedPapers);
+        } else {
+          setFetchError(
+            response.data.message || "Unknown error fetching history."
+          );
+        }
+      } catch (error) {
+        console.error("API Fetch Error:", error);
+        setFetchError(
+          "Failed to connect to the history API. Check server status."
+        );
+      } finally {
+        setLoading(false);
+      }
+    },
+    [adminAuthToken, BackendUrl]
+  );
+
+  // --- API Fetch Function for Single Paper View ---
+  const handleView = useCallback(
+    async (paperSummary) => {
+      setIsFetchingPaper(true);
+      setFetchError(null);
+      const paperId = paperSummary.paperId;
+
+      console.log(`[DEBUG] Attempting to fetch full paper for ID: ${paperId}`);
+
+      try {
+        const fetchUrl = `${BackendUrl}/api/v1/paper/get-paper/${paperId}`;
+        console.log(`[DEBUG] Fetching from URL: ${fetchUrl}`);
+
+        const response = await axios.get(
+          fetchUrl,
+          {
+            headers: {
+              Authorization: `Bearer ${adminAuthToken}`,
+            },
+          }
+        );
+
+        const fullPaperData = response.data;
+        console.log("[DEBUG] Full Paper Data Received:", fullPaperData);
+
+        setBackendPaperData(fullPaperData);
+
+        const paperToView = {
+          ...paperSummary,
+          generatedPaper: fullPaperData,
+        };
+
+        setSelectedPaper(paperToView);
+        console.log("[DEBUG] Data passed to GeneratedTemplate:", paperToView);
+
+        if (setShowGenerateOptions) {
+          console.log("[DEBUG] Setting showGenerateOptions to true.");
+          setShowGenerateOptions(true);
+        }
+
+        setActiveView("view_template");
+        if (typeof setActiveSection === "function")
+          setActiveSection("view_template");
+
+        navigate("/paper-view")
+      } catch (error) {
+        console.error(
+          "API Fetch Error for single paper:",
+          error.response?.data || error.message
+        );
+        setFetchError(`Failed to fetch paper content (ID: ${paperId}).`);
+      } finally {
+        setIsFetchingPaper(false);
+      }
+    },
+    [adminAuthToken, BackendUrl, setBackendPaperData, setActiveSection, setShowGenerateOptions]
+  );
+
+  // --- Selection/Deletion Handlers ---
+
+  // Toggles selection mode and clears selected IDs
+  const handleToggleDeleteMode = () => {
+    setDeleteMode(prev => !prev);
+    setSelectedPaperIds(new Set()); // Clear selection when exiting/entering mode
+  };
+
+  // Toggles a single paper's selection
+  const handleSelectToggle = (paperId) => {
+    setSelectedPaperIds(prev => {
+      const next = new Set(prev);
+      if (next.has(paperId)) {
+        next.delete(paperId);
+      } else {
+        next.add(paperId);
+      }
+      console.log(`[DEBUG] Toggled paper ID ${paperId}. Current selection count: ${next.size}`);
+      return next;
+    });
+  };
+
+  // Toggles selection of all papers
+  const handleSelectAllToggle = () => {
+    const allIds = papers.map(p => p.paperId);
+    if (selectedPaperIds.size === allIds.length) {
+      setSelectedPaperIds(new Set()); // Deselect all
+      console.log("[DEBUG] Deselected all papers.");
+    } else {
+      setSelectedPaperIds(new Set(allIds)); // Select all
+      console.log(`[DEBUG] Selected all ${allIds.length} papers.`);
+    }
+  };
+
+  // Deletes selected papers via API
+  const handleDeleteSelected = async () => {
+    const idsToDelete = Array.from(selectedPaperIds);
+
+    if (idsToDelete.length === 0) {
+      alert("Please select at least one paper to delete.");
+      return;
+    }
+
+    if (!window.confirm(`Are you sure you want to delete ${idsToDelete.length} paper(s)?`)) {
+      return;
+    }
+
     setLoading(true);
     setFetchError(null);
-    console.log(adminAuthToken);
+    console.log("[DEBUG] Deletion Payload:", { paper_ids: idsToDelete });
+
     try {
-      // Fetch all paper summaries from the backend
-      const response = await axios.get(
-        BackendUrl + "/api/v1/paper/get-paper-history",
-        {
-          // FIXES: Uses 'headers' (plural) and the dynamic 'adminAuthToken'
-          headers: {
-            Authorization: `Bearer ${adminAuthToken}`,
+      console.log("ids to delte", idsToDelete, "token", adminAuthToken);
+
+      const response = await axios.delete(
+        DELETE_API_URL,
+        { // <-- This is the only config object (Argument 2)
+          data: { // <-- Place the request body here
+            "paper_ids": idsToDelete
           },
+          headers: {
+            Authorization: `Bearer ${adminAuthToken}`
+          }
         }
       );
 
       if (response.data.success) {
-        let fetchedPapers = response.data.papers;
-
-        // Client-side filtering based on current search term
-        if (searchTerm) {
-          fetchedPapers = fetchedPapers.filter((p) =>
-            Object.values(p).some((val) =>
-              String(val).toLowerCase().includes(searchTerm.toLowerCase())
-            )
-          );
-        }
-
-        // Map the DB structure to the component's expected names and sort
-        const mappedPapers = fetchedPapers
-          .map((p) => ({
-            // Map DB keys to frontend keys
-            paperId: p.paper_id,
-            examName: p.exam_name,
-            className: p.class,
-            subjectName: p.subject,
-            examDate: p.exam_date, // Formatted by backend for display
-            totalMarks: p.totalMarks,
-            status: p.status || "checked", // Assuming a default status if missing
-          }))
-          .sort((a, b) => {
-            // Sort by examDate (newest first)
-            if (a.examDate && b.examDate)
-              return new Date(b.examDate) - new Date(a.examDate);
-            return 0;
-          });
-
-        setPapers(mappedPapers);
+        alert(`Successfully deleted ${idsToDelete.length} paper(s).`);
+        console.log("[DEBUG] Deletion API Success:", response.data);
+        setDeleteMode(false);
+        setSelectedPaperIds(new Set());
+        fetchPapers();
       } else {
-        setFetchError(
-          response.data.message || "Unknown error fetching history."
-        );
+        setFetchError(response.data.message || "Failed to delete papers.");
+        console.error("[DEBUG] Deletion API Error:", response.data);
       }
     } catch (error) {
-      console.error("API Fetch Error:", error);
-      setFetchError(
-        "Failed to connect to the history API. Check server status."
-      );
+      console.error("API Deletion Error:", error);
+      setFetchError("Failed to connect to the deletion API.");
     } finally {
       setLoading(false);
     }
-  }, []);
+  };
 
-  // Load all papers initially on component mount
   useEffect(() => {
-    // Only run fetchPapers() when search state is empty initially
     if (!search) {
       fetchPapers(search);
     }
-  }, []); // Runs once on mount
+  }, [fetchPapers]);
 
-  // Re-trigger fetch/filter when search changes
   useEffect(() => {
-    // If search term is present, refetch/refilter the displayed list
     if (search) {
-      // Note: For large datasets, fetchPapers(search) should hit the API
-      // with a query parameter. Here we rely on the initial fetch and filter locally.
       fetchPapers(search);
     }
   }, [search, fetchPapers]);
 
   const refresh = () => {
     setSearch("");
-    fetchPapers(""); // Fetch all papers without search filter
+    fetchPapers("");
   };
 
   const handleDeleteAll = () => {
-    if (
-      !window.confirm(
-        "Delete all paper history? (Requires backend implementation)"
-      )
-    )
-      return;
-
-    if (clearAllHistory()) {
-      // Simulate success
-      setPapers([]);
-    }
+    // Repurposed to toggle the delete selection mode
+    handleToggleDeleteMode();
   };
 
   const handleCheck = (paper) => {
-    // Set selected paper for detailed view
-    console.log("paper from handlecheck", paper);
     setForm(paper);
-    console.log(form);
-    // setSelectedPaper(paper);
+    setSelectedPaper(paper);
     setActiveView("omr");
     if (typeof setActiveSection === "function") setActiveSection("omr");
   };
 
   const onPaperSaved = (updatedPaper) => {
-    updatePaperInService(updatedPaper); // Simulate update
-    fetchPapers(); // Reload the list to reflect any changes
+    updatePaperInService(updatedPaper);
+    fetchPapers();
   };
 
   const handleBack = () => {
     setActiveView("history");
     setSelectedPaper(null);
-    fetchPapers(); // Reload list
+    fetchPapers();
     if (typeof setActiveSection === "function")
       setActiveSection("paperHistory");
   };
@@ -175,6 +301,17 @@ const PaperHistoryPage = ({ setActiveSection }) => {
             </h1>
 
             <div className="flex items-center gap-2">
+              {/* 💡 NEW Select All/Cancel Button */}
+              {deleteMode && (
+                <button
+                  onClick={handleSelectAllToggle}
+                  disabled={loading || isFetchingPaper}
+                  className="bg-indigo-100 text-indigo-700 px-3 py-2 rounded-md text-sm hover:bg-indigo-200 disabled:opacity-50"
+                >
+                  {selectedPaperIds.size === papers.length ? 'Deselect All' : 'Select All'}
+                </button>
+              )}
+
               <input
                 type="text"
                 placeholder="Search..."
@@ -185,25 +322,38 @@ const PaperHistoryPage = ({ setActiveSection }) => {
 
               <button
                 onClick={refresh}
-                disabled={loading}
+                disabled={loading || deleteMode}
                 className="bg-slate-100 text-slate-700 px-3 py-2 rounded-md text-sm hover:bg-slate-200 disabled:opacity-50"
               >
                 {loading ? "Loading..." : "Refresh"}
               </button>
 
-              <button
-                onClick={handleDeleteAll}
-                className="flex items-center gap-1 bg-red-100 text-red-700 px-3 py-2 rounded-md text-sm hover:bg-red-200"
-              >
-                🗑️ Delete All
-              </button>
+              {deleteMode ? (
+                <>
+                  <button
+                    onClick={handleDeleteSelected}
+                    disabled={selectedPaperIds.size === 0 || loading}
+                    className="flex items-center gap-1 bg-red-600 text-white px-3 py-2 rounded-md text-sm hover:bg-red-700 disabled:opacity-50"
+                  >
+                    🗑️ Delete ({selectedPaperIds.size})
+                  </button>
+                  <button
+                    onClick={handleToggleDeleteMode}
+                    className="bg-gray-400 text-white px-3 py-2 rounded-md text-sm hover:bg-gray-500"
+                  >
+                    Cancel
+                  </button>
+                </>
+              ) : (
+                <button
+                  onClick={handleToggleDeleteMode}
+                  className="flex items-center gap-1 bg-red-100 text-red-700 px-3 py-2 rounded-md text-sm hover:bg-red-200"
+                >
+                  🗑️ Select for Deletion
+                </button>
+              )}
             </div>
           </div>
-
-          <p className="text-slate-600 mb-4">
-            Data loaded from **MySQL Backend API**. Click Check to evaluate
-            bundle.
-          </p>
 
           {fetchError && (
             <div className="p-3 mb-4 bg-red-100 text-red-700 border border-red-300 rounded-lg">
@@ -211,10 +361,11 @@ const PaperHistoryPage = ({ setActiveSection }) => {
             </div>
           )}
 
-          <div className="overflow-hidden  rounded-lg border border-slate-200">
+          <div className="overflow-hidden  rounded-lg border border-slate-200">
             <table className="w-full border-collapse text-left">
               <thead className="bg-slate-100 text-slate-700 text-sm">
                 <tr>
+                  {deleteMode && <th className="py-3 px-4 w-1">Sel.</th>}
                   <th className="py-3 px-4">Sr. No.</th>
                   <th className="py-3 px-4">Exam Name</th>
                   <th className="py-3 px-4">Class</th>
@@ -224,20 +375,23 @@ const PaperHistoryPage = ({ setActiveSection }) => {
                   <th className="py-3 px-4">Paper ID</th>
                   <th className="py-3 px-4">Status</th>
                   <th className="py-3 px-4">Check</th>
+                  <th className="py-3 px-4">View</th>
                 </tr>
               </thead>
 
               <tbody>
-                {loading ? (
+                {loading || isFetchingPaper ? (
                   <tr>
-                    <td colSpan="10" className="text-center py-8 text-blue-500">
-                      Loading data from backend...
+                    <td colSpan={deleteMode ? 11 : 10} className="text-center py-8 text-blue-500">
+                      {isFetchingPaper
+                        ? "Fetching paper details..."
+                        : "Loading data from backend..."}
                     </td>
                   </tr>
                 ) : papers.length === 0 ? (
                   <tr>
                     <td
-                      colSpan="10"
+                      colSpan={deleteMode ? 11 : 10}
                       className="text-center py-8 text-slate-500"
                     >
                       No matching papers in the database.
@@ -249,6 +403,17 @@ const PaperHistoryPage = ({ setActiveSection }) => {
                       key={p.paperId}
                       className="border-t hover:bg-slate-50 transition-all"
                     >
+                      {/* 💡 Selection Checkbox */}
+                      {deleteMode && (
+                        <td className="py-3 px-4">
+                          <input
+                            type="checkbox"
+                            checked={selectedPaperIds.has(p.paperId)}
+                            onChange={() => handleSelectToggle(p.paperId)}
+                            className="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 rounded focus:ring-red-500"
+                          />
+                        </td>
+                      )}
                       <td className="py-3 px-4">{idx + 1}</td>
                       <td className="py-3 px-4">{p.examName}</td>
                       <td className="py-3 px-4">{p.className}</td>
@@ -275,9 +440,19 @@ const PaperHistoryPage = ({ setActiveSection }) => {
                       <td className="py-3 px-4">
                         <button
                           onClick={() => handleCheck(p)}
-                          className="px-3 py-1 bg-blue-100 text-blue-700 border border-blue-200 rounded-md text-sm hover:bg-blue-200"
+                          disabled={deleteMode}
+                          className="px-3 py-1 bg-blue-100 text-blue-700 border border-blue-200 rounded-md text-sm hover:bg-blue-200 disabled:opacity-50"
                         >
                           Check
+                        </button>
+                      </td>
+                      <td className="py-3 px-4">
+                        <button
+                          onClick={() => handleView(p)}
+                          disabled={isFetchingPaper || deleteMode}
+                          className="px-3 py-1 bg-indigo-100 text-indigo-700 border border-indigo-200 rounded-md text-sm hover:bg-indigo-200 disabled:opacity-50"
+                        >
+                          View
                         </button>
                       </td>
                     </tr>
@@ -294,6 +469,19 @@ const PaperHistoryPage = ({ setActiveSection }) => {
           paper={selectedPaper}
           onBack={handleBack}
           onSaved={onPaperSaved}
+        />
+      )}
+
+      {activeView === "view_template" && selectedPaper && (
+        <GeneratedTemplate
+          className={selectedPaper.className}
+          examName={selectedPaper.examName}
+          subjectName={selectedPaper.subjectName}
+          examDate={selectedPaper.examDate}
+          examDuration={selectedPaper.examDuration}
+          totalMarks={selectedPaper.totalMarks}
+          generatedPaper={selectedPaper.generatedPaper}
+          onBack={handleBack}
         />
       )}
     </div>

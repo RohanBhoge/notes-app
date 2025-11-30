@@ -1,0 +1,437 @@
+{
+    "paper_id": "CET-2025-11-868",
+    "exam_name": "CET",
+    "class": "11th Grade",
+    "subject": "Physics",
+    "exam_date": "2025-11-21",
+    "marks": 30,
+    "paper_questions": "Q1: A car of mass 1000 kg accelerates uniformly from rest to 10 m/s in 5 seconds. Find the force applied. | Q2: Sound is a form of which type of wave in air? | Q3: Which phenomenon explains the formation of a rainbow? | Q4: Ultrasonic waves have frequencies: | Q5: Which of the following lenses is used to correct myopia (short-sightedness)? | Q6: A liquid evaporates faster when: | Q7: The SI unit of heat is: | Q8: Newton’s Second Law gives the definition of which physical quantity? | Q9: What is the magnification produced by a plane mirror? | Q10: In a forward-biased diode, the depletion region: | Q11: The conductivity of a semiconductor increases with: | Q12: Electric field inside a conductor is: | Q13: Which impurity is added to form a p-type semiconductor? | Q14: The acceleration due to gravity at a height h above the Earth’s surface is given by? | Q15: If a satellite orbits Earth close to its surface, its orbital speed is given by? | Q16: The latent heat of fusion is defined as: | Q17: If two equal and opposite forces act on a body, what happens to the body’s motion? | Q18: The increase in length of a rod due to heating is called: | Q19: When a body is in equilibrium, the net force on it is? | Q20: The quantity that remains constant in isothermal process is: | Q21: Electric lines of force never: | Q22: Two like charges placed close to each other will: | Q23: The process of adding impurities to a semiconductor is called: | Q24: The speed of light in glass is 2 × 10⁸ m/s. What is the refractive index of glass (c = 3 × 10⁸ m/s)? | Q25: At 0°C, the state of water can be: | Q26: In an n-type semiconductor, the majority carriers are: | Q27: Critical angle is the angle of incidence for which the angle of refraction is: | Q28: A block of 2 kg is acted upon by two forces 3 N east and 4 N north. Find the resultant acceleration. | Q29: Which device is used for rectification? | Q30: The energy gap in an intrinsic semiconductor is:",
+    "paper_answers": "A1: 2000 N | A2: Longitudinal wave | A3: Dispersion | A4: Greater than 20 kHz | A5: Concave lens | A6: Surface area is large | A7: Joule | A8: Force | A9: 1 | A10: Narrows | A11: Increase in temperature | A12: Zero | A13: Trivalent impurities | A14: g' = gleft(1 - 2h/Rright) | A15: v = √gR | A16: Heat required to change solid to liquid at constant temperature | A17: Remains unchanged | A18: Thermal expansion | A19: Zero | A20: Temperature | A21: Intersect each other | A22: Repel each other | A23: Doping | A24: 1.5 | A25: Both solid and liquid | A26: Electrons | A27: 90° | A28: 2.5 m/s² | A29: pn Junction Diode | A30: Very small (≈ 1 eV)",
+    "metadata": {
+        "seed": "mi8ffgelz49m",
+        "question_count": 30,
+        "zip_path": "C:\\Users\\bhoge\\OneDrive\\Documents\\Desktop\\QPG\\backend\\data\\data.zip",
+        "original_questions_array": [
+            {
+                "qno": 1,
+                "question": "A car of mass 1000 kg accelerates uniformly from rest to 10 m/s in 5 seconds. Find the force applied.",
+                "options": [
+                    "1000 N",
+                    "2000 N",
+                    "3000 N",
+                    "4000 N"
+                ],
+                "answer": "2000 N",
+                "id": 4,
+                "chapter": "Laws of Motion",
+                "marks": 1
+            },
+            {
+                "qno": 2,
+                "question": "Sound is a form of which type of wave in air?",
+                "options": [
+                    "Transverse wave",
+                    "Longitudinal wave",
+                    "Electromagnetic wave",
+                    "Standing wave"
+                ],
+                "answer": "Longitudinal wave",
+                "id": 1,
+                "chapter": "Sound",
+                "marks": 1
+            },
+            {
+                "qno": 3,
+                "question": "Which phenomenon explains the formation of a rainbow?",
+                "options": [
+                    "Reflection",
+                    "Refraction",
+                    "Dispersion",
+                    "Diffraction"
+                ],
+                "answer": "Dispersion",
+                "id": 5,
+                "chapter": "Optics",
+                "marks": 1
+            },
+            {
+                "qno": 4,
+                "question": "Ultrasonic waves have frequencies:",
+                "options": [
+                    "Less than 20 Hz",
+                    "Between 20 Hz and 20 kHz",
+                    "Greater than 20 kHz",
+                    "Exactly 20 kHz"
+                ],
+                "answer": "Greater than 20 kHz",
+                "id": 7,
+                "chapter": "Sound",
+                "marks": 1
+            },
+            {
+                "qno": 5,
+                "question": "Which of the following lenses is used to correct myopia (short-sightedness)?",
+                "options": [
+                    "Convex lens",
+                    "Concave lens",
+                    "Cylindrical lens",
+                    "Plano-convex lens"
+                ],
+                "answer": "Concave lens",
+                "id": 2,
+                "chapter": "Optics",
+                "marks": 1
+            },
+            {
+                "qno": 6,
+                "question": "A liquid evaporates faster when:",
+                "options": [
+                    "Temperature is low",
+                    "Humidity is high",
+                    "Surface area is large",
+                    "Air is still"
+                ],
+                "answer": "Surface area is large",
+                "id": 10,
+                "chapter": "Thermal Properties of Matter",
+                "marks": 1
+            },
+            {
+                "qno": 7,
+                "question": "The SI unit of heat is:",
+                "options": [
+                    "Calorie",
+                    "Joule",
+                    "Watt",
+                    "Newton"
+                ],
+                "answer": "Joule",
+                "id": 1,
+                "chapter": "Thermal Properties of Matter",
+                "marks": 1
+            },
+            {
+                "qno": 8,
+                "question": "Newton’s Second Law gives the definition of which physical quantity?",
+                "options": [
+                    "Force",
+                    "Momentum",
+                    "Inertia",
+                    "Mass"
+                ],
+                "answer": "Force",
+                "id": 2,
+                "chapter": "Laws of Motion",
+                "marks": 1
+            },
+            {
+                "qno": 9,
+                "question": "What is the magnification produced by a plane mirror?",
+                "options": [
+                    "Zero",
+                    "Less than 1",
+                    "1",
+                    "Greater than 1"
+                ],
+                "answer": "1",
+                "id": 8,
+                "chapter": "Optics",
+                "marks": 1
+            },
+            {
+                "qno": 10,
+                "question": "In a forward-biased diode, the depletion region:",
+                "options": [
+                    "Widens",
+                    "Narrows",
+                    "Remains constant",
+                    "Disappears completely"
+                ],
+                "answer": "Narrows",
+                "id": 7,
+                "chapter": "Semiconductors",
+                "marks": 1
+            },
+            {
+                "qno": 11,
+                "question": "The conductivity of a semiconductor increases with:",
+                "options": [
+                    "Decrease in temperature",
+                    "Increase in temperature",
+                    "No change with temperature",
+                    "Freezing"
+                ],
+                "answer": "Increase in temperature",
+                "id": 10,
+                "chapter": "Semiconductors",
+                "marks": 1
+            },
+            {
+                "qno": 12,
+                "question": "Electric field inside a conductor is:",
+                "options": [
+                    "Maximum",
+                    "Minimum",
+                    "Zero",
+                    "Infinite"
+                ],
+                "answer": "Zero",
+                "id": 6,
+                "chapter": "Electrostatics",
+                "marks": 1
+            },
+            {
+                "qno": 13,
+                "question": "Which impurity is added to form a p-type semiconductor?",
+                "options": [
+                    "Pentavalent impurities",
+                    "Trivalent impurities",
+                    "Both pentavalent and trivalent",
+                    "None"
+                ],
+                "answer": "Trivalent impurities",
+                "id": 4,
+                "chapter": "Semiconductors",
+                "marks": 1
+            },
+            {
+                "qno": 14,
+                "question": "The acceleration due to gravity at a height h above the Earth’s surface is given by?",
+                "options": [
+                    "g' = gleft(1 - 2h/Rright)",
+                    "g' = gleft(1 + 2h/Rright)",
+                    "g' = gleft(1 - h/Rright)",
+                    "g' = gleft(1 + h/2Rright)"
+                ],
+                "answer": "g' = gleft(1 - 2h/Rright)",
+                "id": 4,
+                "chapter": "Gravitation",
+                "marks": 1
+            },
+            {
+                "qno": 15,
+                "question": "If a satellite orbits Earth close to its surface, its orbital speed is given by?",
+                "options": [
+                    "v = √gR",
+                    "v = √2gR",
+                    "v = gR",
+                    "v = g/R"
+                ],
+                "answer": "v = √gR",
+                "id": 9,
+                "chapter": "Gravitation",
+                "marks": 1
+            },
+            {
+                "qno": 16,
+                "question": "The latent heat of fusion is defined as:",
+                "options": [
+                    "Heat required to change solid to liquid at constant temperature",
+                    "Heat required to change liquid to gas at constant temperature",
+                    "Heat required to raise temperature of 1 kg substance by 1°C",
+                    "Heat lost when temperature decreases"
+                ],
+                "answer": "Heat required to change solid to liquid at constant temperature",
+                "id": 5,
+                "chapter": "Thermal Properties of Matter",
+                "marks": 1
+            },
+            {
+                "qno": 17,
+                "question": "If two equal and opposite forces act on a body, what happens to the body’s motion?",
+                "options": [
+                    "Remains unchanged",
+                    "Accelerates",
+                    "Stops",
+                    "Changes direction"
+                ],
+                "answer": "Remains unchanged",
+                "id": 9,
+                "chapter": "Laws of Motion",
+                "marks": 1
+            },
+            {
+                "qno": 18,
+                "question": "The increase in length of a rod due to heating is called:",
+                "options": [
+                    "Thermal stress",
+                    "Thermal expansion",
+                    "Latent heat",
+                    "Heat capacity"
+                ],
+                "answer": "Thermal expansion",
+                "id": 3,
+                "chapter": "Thermal Properties of Matter",
+                "marks": 1
+            },
+            {
+                "qno": 19,
+                "question": "When a body is in equilibrium, the net force on it is?",
+                "options": [
+                    "Zero",
+                    "Constant",
+                    "Variable",
+                    "Equal to mg"
+                ],
+                "answer": "Zero",
+                "id": 7,
+                "chapter": "Laws of Motion",
+                "marks": 1
+            },
+            {
+                "qno": 20,
+                "question": "The quantity that remains constant in isothermal process is:",
+                "options": [
+                    "Volume",
+                    "Pressure",
+                    "Temperature",
+                    "Density"
+                ],
+                "answer": "Temperature",
+                "id": 2,
+                "chapter": "Thermal Properties of Matter",
+                "marks": 1
+            },
+            {
+                "qno": 21,
+                "question": "Electric lines of force never:",
+                "options": [
+                    "Start from positive charge",
+                    "End on negative charge",
+                    "Intersect each other",
+                    "Form closed loops"
+                ],
+                "answer": "Intersect each other",
+                "id": 9,
+                "chapter": "Electrostatics",
+                "marks": 1
+            },
+            {
+                "qno": 22,
+                "question": "Two like charges placed close to each other will:",
+                "options": [
+                    "Attract each other",
+                    "Repel each other",
+                    "Neutralize each other",
+                    "Produce no force"
+                ],
+                "answer": "Repel each other",
+                "id": 2,
+                "chapter": "Electrostatics",
+                "marks": 1
+            },
+            {
+                "qno": 23,
+                "question": "The process of adding impurities to a semiconductor is called:",
+                "options": [
+                    "Ionization",
+                    "Doping",
+                    "Decay",
+                    "Diffusion"
+                ],
+                "answer": "Doping",
+                "id": 5,
+                "chapter": "Semiconductors",
+                "marks": 1
+            },
+            {
+                "qno": 24,
+                "question": "The speed of light in glass is 2 × 10⁸ m/s. What is the refractive index of glass (c = 3 × 10⁸ m/s)?",
+                "options": [
+                    "1.33",
+                    "1.5",
+                    "2.0",
+                    "3.0"
+                ],
+                "answer": "1.5",
+                "id": 1,
+                "chapter": "Optics",
+                "marks": 1
+            },
+            {
+                "qno": 25,
+                "question": "At 0°C, the state of water can be:",
+                "options": [
+                    "Only solid",
+                    "Only liquid",
+                    "Both solid and liquid",
+                    "Neither solid nor liquid"
+                ],
+                "answer": "Both solid and liquid",
+                "id": 4,
+                "chapter": "Thermal Properties of Matter",
+                "marks": 1
+            },
+            {
+                "qno": 26,
+                "question": "In an n-type semiconductor, the majority carriers are:",
+                "options": [
+                    "Electrons",
+                    "Holes",
+                    "Neutral atoms",
+                    "Ions"
+                ],
+                "answer": "Electrons",
+                "id": 3,
+                "chapter": "Semiconductors",
+                "marks": 1
+            },
+            {
+                "qno": 27,
+                "question": "Critical angle is the angle of incidence for which the angle of refraction is:",
+                "options": [
+                    "0°",
+                    "45°",
+                    "90°",
+                    "180°"
+                ],
+                "answer": "90°",
+                "id": 9,
+                "chapter": "Optics",
+                "marks": 1
+            },
+            {
+                "qno": 28,
+                "question": "A block of 2 kg is acted upon by two forces 3 N east and 4 N north. Find the resultant acceleration.",
+                "options": [
+                    "2.5 m/s²",
+                    "3.5 m/s²",
+                    "5.0 m/s²",
+                    "4.5 m/s²"
+                ],
+                "answer": "2.5 m/s²",
+                "id": 6,
+                "chapter": "Laws of Motion",
+                "marks": 1
+            },
+            {
+                "qno": 29,
+                "question": "Which device is used for rectification?",
+                "options": [
+                    "Zener diode",
+                    "LED",
+                    "pn Junction Diode",
+                    "Solar cell"
+                ],
+                "answer": "pn Junction Diode",
+                "id": 8,
+                "chapter": "Semiconductors",
+                "marks": 1
+            },
+            {
+                "qno": 30,
+                "question": "The energy gap in an intrinsic semiconductor is:",
+                "options": [
+                    "Zero",
+                    "Very small (≈ 1 eV)",
+                    "Very large",
+                    "Infinite"
+                ],
+                "answer": "Very small (≈ 1 eV)",
+                "id": 2,
+                "chapter": "Semiconductors",
+                "marks": 1
+            }
+        ]
+    }
+}

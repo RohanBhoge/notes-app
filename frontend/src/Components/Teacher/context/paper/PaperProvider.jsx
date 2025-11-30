@@ -18,7 +18,14 @@ const PaperProvider = (props) => {
     chapters: [],
     count: 10,
   });
-  console.log(paperData.chapters);
+
+  const [exam, setExam] = useState("");
+  const [standards, setStandards] = useState([]);
+  const [subjects, setSubjects] = useState([]);
+  const [backendPaperData, setBackendPaperData] = useState(null);
+  const [showGenerateOptions, setShowGenerateOptions] = useState(false);
+
+  console.log("replacement Data", exam, standards, subjects);
 
   return (
     <PaperContext.Provider
@@ -27,6 +34,16 @@ const PaperProvider = (props) => {
         setForm,
         paperData,
         setPaperData,
+        exam,
+        setExam,
+        standards,
+        setStandards,
+        subjects,
+        setSubjects,
+        backendPaperData,
+        setBackendPaperData,
+        showGenerateOptions,
+        setShowGenerateOptions,
       }}
     >
       {props.children}

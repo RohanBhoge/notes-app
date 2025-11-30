@@ -77,7 +77,7 @@ const chaptersData = {
         "16. Green Chemistry and Nanochemistry",
       ],
     },
-    Mathematics: {
+    Maths: {
       "11th": [
         "1. Trigonometry 2",
         "2. Straight Line",
@@ -204,7 +204,7 @@ const chaptersData = {
         "17. Practical Chemistry",
       ],
     },
-    Mathematics: {
+    Maths: {
       "11th": [
         "1. Sets",
         "2. Relations and Functions",
@@ -363,8 +363,8 @@ const chaptersData = {
 };
 
 const examSubjects = {
-  CET: ["Physics", "Chemistry", "Mathematics", "Biology"],
-  JEE: ["Physics", "Chemistry", "Mathematics"],
+  CET: ["Physics", "Chemistry", "Maths", "Biology"],
+  JEE: ["Physics", "Chemistry", "Maths"],
   NEET: ["Physics", "Chemistry", "Biology"],
 };
 
@@ -378,13 +378,14 @@ const TeacherDashboard = () => {
   const [mode, setMode] = useState(null);
   const [numberOfQuestions, setNumberOfQuestions] = useState("30");
   const [chapters, setChapters] = useState({});
-  const { paperData, setPaperData } = useContext(PaperContext);
+  const { paperData, setPaperData, setExam, setStandards, setSubjects } =
+    useContext(PaperContext);
 
   const notices = [
     { text: "Class 12 Pre-Boards from 20 Sept.", isNew: true },
     { text: "Physics Lab sessions start next week", isNew: true },
     { text: "Chemistry doubt clearing session on Friday", isNew: false },
-    { text: "Mathematics Mock Test - 25th September", isNew: false },
+    { text: "Maths Mock Test - 25th September", isNew: false },
     { text: "Biology Chapter revision classes", isNew: false },
     { text: "Annual Science Exhibition preparations", isNew: false },
     { text: "Parent-Teacher meeting scheduled for October 5th", isNew: true },
@@ -393,6 +394,7 @@ const TeacherDashboard = () => {
 
   const handleExamClick = (exam) => {
     setSelectedExam(exam);
+    setExam(exam);
     console.log(exam);
     setPaperData((prevData) => ({
       ...prevData,
@@ -422,6 +424,7 @@ const TeacherDashboard = () => {
     console.log("class selected is", cls);
     console.log("paper data ", paperData);
     setSelectedClass(cls);
+    setStandards(cls);
     setActiveSection("subjects");
     setMode(null);
     setIsSidebarOpen(false);
@@ -466,7 +469,7 @@ const TeacherDashboard = () => {
     console.log("mode is", mode); // Auto-select ALL chapters if mode is NOT 'Random' (i.e., Fixed or null/initial)
     if (mode !== "Random") {
       initialChapterSelection = availableChaptersForView;
-    } 
+    }
     const newCheckedChapters = {};
     if (initialChapterSelection.length > 0) {
       initialChapterSelection.forEach((chapter) => {
@@ -505,6 +508,7 @@ const TeacherDashboard = () => {
     console.log("subject selected is", subject);
     console.log("paper data ", paperData); // Still shows old state
     setSelectedSubject(clickedSubject);
+    setSubjects(clickedSubject);
     setChapters(chaptersData[selectedExam][clickedSubject]); // Pass the raw structure to ChaptersPage component
     setActiveSection("chapters");
     setIsSidebarOpen(false);

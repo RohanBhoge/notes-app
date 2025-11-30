@@ -4,7 +4,6 @@ import dotenv from "dotenv";
 import {
   createUser,
   getUserByEmail,
-  getUserByFullName,
   createStudent,
   getAdminByUserName,
   getStudentByEmail,
@@ -33,31 +32,6 @@ const register = async (req, res) => {
     res.status(201).json({ token, user: { id: userId, email, full_name } });
   } catch (err) {
     console.error("Register error", err);
-    res.status(500).json({ error: "Server error" });
-  }
-};
-
-const login = async (req, res) => {
-  try {
-    const { email, password } = req.body;
-    if (!email || !password)
-      return res.status(400).json({ error: "Email and password required" });
-
-    const user = await getUserByEmail(email);
-    if (!user) return res.status(401).json({ error: "Invalid credentials" });
-
-    const ok = await bcrypt.compare(password, user.password_hash);
-    if (!ok) return res.status(401).json({ error: "Invalid credentials" });
-
-    const token = jwt.sign({ sub: user.id }, JWT_SECRET, {
-      expiresIn: JWT_EXPIRES_IN,
-    });
-    res.json({
-      token,
-      user: { id: user.id, email: user.email, full_name: user.full_name },
-    });
-  } catch (err) {
-    console.error("Login error", err);
     res.status(500).json({ error: "Server error" });
   }
 };

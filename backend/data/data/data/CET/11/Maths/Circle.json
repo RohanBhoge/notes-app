@@ -130,7 +130,7 @@
   {
     "id": 9,
     "chapter": "Circle",
-    "question": "A line segment joining any two points on the circle is called:",
+    "question": "The slope of the line $3x+5y+1=0$ is $m_1 = -\\frac{3}{5}$. \\nThe slope of a line perpendicular to it is $m = -\\frac{1}{m_1} = -\\frac{1}{(-3/5)} = \\frac{5}{3}$. \\nSince this line is represented by the pair of lines $kx^2+2xy-3y^2=0$, substituting $y/x = m$ gives $k + 2m - 3m^2 = 0$. \\nSubstitute $m = \\frac{5}{3}$: \\n$$k + 2\\left(\\frac{5}{3}\\right) - 3\\left(\\frac{5}{3}\\right)^2 = 0$$ \\n$$k + \\frac{10}{3} - 3\\left(\\frac{25}{9}\\right) = 0$$ \\n$$k + \\frac{10}{3} - \\frac{25}{3} = 0$$ \\n$$k - \\frac{15}{3} = 0 \\implies k - 5 = 0 \\implies k = 5$$.",
     "question_latex": "",
     "image_url": "",
     "options": [
