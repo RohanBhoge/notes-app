@@ -12,18 +12,6 @@ function updatePaperInService(paper) {
   );
   return true;
 }
-function clearAllHistory() {
-  if (
-    window.confirm(
-      "Delete all paper history? (This requires a backend API DELETE call)"
-    )
-
-  ) {
-    console.log("SIMULATION: Sending DELETE request to backend...");
-    return true;
-  }
-  return false;
-}
 
 const DELETE_API_URL = "http://localhost:5000/api/v1/paper/delete-paper";
 
@@ -41,11 +29,9 @@ const PaperHistoryPage = ({ setActiveSection }) => {
   const [isFetchingPaper, setIsFetchingPaper] = useState(false);
   const navigate = useNavigate()
 
-  // 💡 NEW STATES for Deletion/Selection
   const [deleteMode, setDeleteMode] = useState(false);
   const [selectedPaperIds, setSelectedPaperIds] = useState(new Set());
 
-  // --- API Fetch Function for History List (omitted for brevity) ---
   const fetchPapers = useCallback(
     async (searchTerm = "") => {
       setLoading(true);
@@ -107,7 +93,6 @@ const PaperHistoryPage = ({ setActiveSection }) => {
     [adminAuthToken, BackendUrl]
   );
 
-  // --- API Fetch Function for Single Paper View ---
   const handleView = useCallback(
     async (paperSummary) => {
       setIsFetchingPaper(true);
@@ -165,15 +150,11 @@ const PaperHistoryPage = ({ setActiveSection }) => {
     [adminAuthToken, BackendUrl, setBackendPaperData, setActiveSection, setShowGenerateOptions]
   );
 
-  // --- Selection/Deletion Handlers ---
-
-  // Toggles selection mode and clears selected IDs
   const handleToggleDeleteMode = () => {
     setDeleteMode(prev => !prev);
-    setSelectedPaperIds(new Set()); // Clear selection when exiting/entering mode
+    setSelectedPaperIds(new Set()); 
   };
 
-  // Toggles a single paper's selection
   const handleSelectToggle = (paperId) => {
     setSelectedPaperIds(prev => {
       const next = new Set(prev);
@@ -187,19 +168,17 @@ const PaperHistoryPage = ({ setActiveSection }) => {
     });
   };
 
-  // Toggles selection of all papers
   const handleSelectAllToggle = () => {
     const allIds = papers.map(p => p.paperId);
     if (selectedPaperIds.size === allIds.length) {
-      setSelectedPaperIds(new Set()); // Deselect all
+      setSelectedPaperIds(new Set()); 
       console.log("[DEBUG] Deselected all papers.");
     } else {
-      setSelectedPaperIds(new Set(allIds)); // Select all
+      setSelectedPaperIds(new Set(allIds)); 
       console.log(`[DEBUG] Selected all ${allIds.length} papers.`);
     }
   };
 
-  // Deletes selected papers via API
   const handleDeleteSelected = async () => {
     const idsToDelete = Array.from(selectedPaperIds);
 
@@ -221,8 +200,8 @@ const PaperHistoryPage = ({ setActiveSection }) => {
 
       const response = await axios.delete(
         DELETE_API_URL,
-        { // <-- This is the only config object (Argument 2)
-          data: { // <-- Place the request body here
+        { 
+          data: {
             "paper_ids": idsToDelete
           },
           headers: {
@@ -267,7 +246,6 @@ const PaperHistoryPage = ({ setActiveSection }) => {
   };
 
   const handleDeleteAll = () => {
-    // Repurposed to toggle the delete selection mode
     handleToggleDeleteMode();
   };
 

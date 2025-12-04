@@ -1,9 +1,11 @@
 import axios from "axios";
 
-const API_URL = import.meta.env.REACT_APP_API_URL || "http://localhost:5000/api/v1";
+const API_URL = import.meta.env.REACT_APP_API_URL || "https://notes-app-plum-three.vercel.app/api/v1";
 
 export const registerUser = async (userData) => {
   const res = await axios.post(`${API_URL}/auth/register`, userData);
+  console.log(res.data);
+  
   return res.data;
 };
     

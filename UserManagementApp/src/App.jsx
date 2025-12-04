@@ -1,18 +1,19 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./App.css";
-import Header from "./components/Header";
-import UserList from "./components/UserList";
 import RegisterUser from "./components/RegisterUser";
+import LoginPage from "./pages/LoginPage";
+import HomePage from "./pages/HomePage";
+import RegisterPage from "./pages/RegisterPage";
 
 const App = () => {
   return (  
     <Router>
-      <Header />
-      <main style={{ padding: "1rem" }}>
+      <main style={{ padding: "1rem" }}>  
         <Routes>
-          <Route path="/" element={<UserList />} />
-          <Route path="/register" element={<RegisterUser />} />
+          <Route path="/" element={<LoginPage />} />
+          <Route path="/home" element={<HomePage />} />
+          <Route path="/register" element={<RegisterPage />} />
         </Routes>
       </main>
     </Router>

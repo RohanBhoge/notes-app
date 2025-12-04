@@ -8,7 +8,7 @@ const AuthProvider = (props) => {
       : null
   );
 
-  const BackendUrl = "http://localhost:5000";
+  const BackendUrl = import.meta.env.VITE_BACKEND_URL || "https://notes-app-plum-three.vercel.app";
 
   console.log(adminAuthToken);
   return (

@@ -26,7 +26,6 @@ function savePapersToService(arr) {
     return false;
   }
 }
-// END Utility functions
 
 const ChaptersPage = ({
   selectedClass,
@@ -52,7 +51,8 @@ const ChaptersPage = ({
   const [savedOnce, setSavedOnce] = useState(false);
   const { setBackendPaperData, backendPaperData } = useContext(PaperContext);
 
-  const { paperData, setPaperData } = useContext(PaperContext);
+  const { paperData, setPaperData,marks,
+        setMarks } = useContext(PaperContext);
   // const [backendPaperData, setBackendPaperData] = useState(null);
   const [isGenerating, setIsGenerating] = useState(false); // 💡 New loading state
   const { adminAuthToken, BackendUrl } = useContext(AuthContext);
@@ -339,7 +339,6 @@ const ChaptersPage = ({
                   onChange={(e) => setTotalMarks(e.target.value)}
                   className="w-full mt-1 border border-slate-300 rounded-lg px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
                   placeholder="e.g. 100"
-                  min="1"
                 />
               </div>
             </div>
@@ -400,7 +399,7 @@ const ChaptersPage = ({
         </>
       ) : (
         <GeneratedTemplate
-          className={className}
+          className={className}   
           examName={examName}
           subjectName={selectedSubject}
           examDate={examDate}

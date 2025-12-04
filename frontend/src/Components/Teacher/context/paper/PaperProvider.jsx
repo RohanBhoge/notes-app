@@ -24,6 +24,7 @@ const PaperProvider = (props) => {
   const [subjects, setSubjects] = useState([]);
   const [backendPaperData, setBackendPaperData] = useState(null);
   const [showGenerateOptions, setShowGenerateOptions] = useState(false);
+  const [marks, setMarks] = useState(null);
 
   console.log("replacement Data", exam, standards, subjects);
 
@@ -44,6 +45,8 @@ const PaperProvider = (props) => {
         setBackendPaperData,
         showGenerateOptions,
         setShowGenerateOptions,
+        marks,
+        setMarks,
       }}
     >
       {props.children}
