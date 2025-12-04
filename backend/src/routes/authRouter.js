@@ -3,6 +3,8 @@ import {
   adminLogin,
   studentRegister,
   studentLogin,
+  deleteUser,
+  getAllUsersController
 } from "../controllers/authController.js";
 import { Router } from "express";
 
@@ -11,6 +13,8 @@ const router = Router();
 // Admin routes
 router.post("/register", adminRegister);
 router.post("/login", adminLogin);
+router.delete("/delete-user", deleteUser);
+router.get("/get-users", getAllUsersController);
 
 // Student routes
 router.post("/register/student", studentRegister);

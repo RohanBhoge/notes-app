@@ -79,7 +79,7 @@ async function ensureTablesExist() {
         } finally {
             if (connection) connection.release();
         }
-    }
+  }
 
 async function createUser(email, password_hash, full_name = null) {
   await ensureTablesExist();
@@ -176,6 +176,25 @@ async function getUserByEmail(email) {
     if (connection) connection.release();
   }
 }
+async function deleteUserByEmail(email) {
+  let connection;
+  try {
+    connection = await pool.getConnection();
+
+    const [result] = await connection.execute(
+      `DELETE FROM users WHERE email = ?`,
+      [email]
+    );
+
+    return result.affectedRows; // 1 = deleted, 0 = not found
+  } catch (error) {
+    console.error("DB Error in deleteUserByEmail:", error);
+    throw error;
+  } finally {
+    if (connection) connection.release();
+  }
+}
+
 
 async function getUserByFullName(fullName) {
   let connection;
@@ -248,7 +267,6 @@ async function createNewPaperForUser(userId, data) {
     if (connection) connection.release();
   }
 }
-
 
 async function getPapersByUserId(userId) {
   let connection;
@@ -448,6 +466,27 @@ async function getOrganizationNotifications(userId) {
   }
 }
 
+async function getAllUsers() {
+  let connection;
+  try {
+    connection = await pool.getConnection();
+
+    const [rows] = await connection.execute(
+      `SELECT id, email, full_name, username, created_at, updated_at 
+       FROM users 
+       ORDER BY created_at DESC`
+    );
+
+    return rows;
+  } catch (error) {
+    console.error("DB Error in getAllUsers:", error);
+    throw error;
+  } finally {
+    if (connection) connection.release();
+  }
+}
+
+
 export {
   createUser,
   getUserByEmail,
@@ -461,4 +500,6 @@ export {
   getStudentByEmail,
   createOrganizationNotification,
   getOrganizationNotifications,
+  deleteUserByEmail,
+  getAllUsers
 };
