@@ -149,10 +149,10 @@ async function getUserByEmail(email) {
   try {
     connection = await pool.getConnection();
     try {
-      const [rows] = await connection.execute(
-        `SELECT id, email, password_hash, full_name, created_at FROM users WHERE email = ? LIMIT 1`,
-        [email]
-      );
+  const [rows] = await connection.execute(
+      `SELECT id, email, password_hash, full_name, is_active, created_at FROM users WHERE email = ? LIMIT 1`,
+      [email]
+);
       return rows.length ? rows[0] : null;
     } catch (err) {
       if (err && err.code === "ER_BAD_FIELD_ERROR") {
@@ -194,7 +194,6 @@ async function deleteUserByEmail(email) {
     if (connection) connection.release();
   }
 }
-
 
 async function getUserByFullName(fullName) {
   let connection;
@@ -423,7 +422,7 @@ async function createOrganizationNotification(userId, content, eventDate) {
   let connection;
   try {
     connection = await pool.getConnection();
-
+    
     const insertQuery = `
             INSERT INTO notifications 
             (user_id, content, event_date) 
@@ -493,7 +492,52 @@ async function getAllUsers() {
   }
 }
 
+async function ensureActiveColumnExists() {
+    let connection;
+    try {
+        connection = await pool.getConnection();
 
+        const [rows] = await connection.execute(
+            `SELECT COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS 
+             WHERE TABLE_SCHEMA = ? AND TABLE_NAME = 'users' AND COLUMN_NAME = 'is_active'`,
+            [DB_NAME]
+        );
+
+        if (rows.length === 0) {
+            console.log("Adding 'is_active' column to the 'users' table...");
+            await connection.execute(`
+                ALTER TABLE users
+                ADD COLUMN is_active BOOLEAN NOT NULL DEFAULT TRUE
+            `);
+            console.log("'is_active' column added successfully.");
+        } else {
+            console.log("'is_active' column already exists. Skipping migration.");
+        }
+    } catch (error) {
+        console.error("Critical DB Initialization Error (Alter Table):", error);
+    } finally {
+        if (connection) connection.release();
+    }
+}
+
+async function deactivateUser(userId) {
+    let connection;
+    try {
+        connection = await pool.getConnection();
+        const updateQuery = `
+            UPDATE users 
+            SET is_active = FALSE 
+            WHERE id = ?
+        `;
+        const [result] = await connection.execute(updateQuery, [userId]);
+        return result.affectedRows;
+    } catch (error) {
+        console.error("DB Error in deactivateUser:", error);
+        throw new Error("Database error during user deactivation.");
+    } finally {
+        if (connection) connection.release();
+    }
+}
 export {
   createUser,
   getUserByEmail,
@@ -508,5 +552,7 @@ export {
   createOrganizationNotification,
   getOrganizationNotifications,
   deleteUserByEmail,
-  getAllUsers
+  getAllUsers,
+  deactivateUser,
+  ensureActiveColumnExists
 };

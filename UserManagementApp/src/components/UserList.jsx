@@ -12,7 +12,6 @@ const UserList = () => {
       const data = await getAllUsers();
       setUsers(data.users || []);
     } catch (err) {
-      // Use a more distinct class for error messages
       setMessage("Error fetching users");
     } finally {
       setLoading(false);

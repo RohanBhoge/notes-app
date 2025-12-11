@@ -8,7 +8,8 @@ import {
   getAdminByUserName,
   getStudentByEmail,
   deleteUserByEmail,
-  getAllUsers
+  getAllUsers,
+  deactivateUser
 } from "../utils/helperFunctions.js";
 
 dotenv.config();
@@ -163,36 +164,40 @@ const studentLogin = async (req, res) => {
 // We keep the original admin login function, but need a mechanism to call both.
 
 const adminLogin = async (req, res) => {
-  // Renaming original 'login' to 'adminLogin' internally for clarity
-  try {
-    const { email, password } = req.body;
-    if (!email || !password)
-      return res.status(400).json({ error: "Email and password required" });
+  try {
+    const { email, password } = req.body;
+    if (!email || !password)
+      return res.status(400).json({ error: "Email and password required" });
 
-    const user = await getUserByEmail(email);
-    if (!user)
-      return res.status(404).json({ error: "User not found as admin" }); // Use 404 to distinguish
+    const user = await getUserByEmail(email);
+    
+    if (!user)
+      return res.status(404).json({ error: "User not found as admin" });
 
-    const ok = await bcrypt.compare(password, user.password_hash);
-    if (!ok) return res.status(401).json({ error: "Invalid password" });
+    if (user.is_active === 0 || user.is_active === false) {
+        console.log(`Deactivated user attempted login: ${email}`);
+        return res.status(401).json({ error: "Your account is currently deactivated." });
+    }
 
-    // JWT payload for admin
-    const token = jwt.sign({ sub: user.id, role: "admin" }, JWT_SECRET, {
-      expiresIn: JWT_EXPIRES_IN,
-    });
-    res.json({
-      token,
-      user: {
-        id: user.id,
-        email: user.email,
-        full_name: user.full_name,
-        role: "admin",
-      },
-    });
-  } catch (err) {
-    console.error("Admin Login error", err);
-    res.status(500).json({ error: "Server error" });
-  }
+    const ok = await bcrypt.compare(password, user.password_hash);
+    if (!ok) return res.status(401).json({ error: "Invalid password" });
+
+    const token = jwt.sign({ sub: user.id, role: "admin" }, JWT_SECRET, {
+      expiresIn: JWT_EXPIRES_IN,
+    });
+    res.json({
+      token,
+      user: {
+        id: user.id,
+        email: user.email,
+        full_name: user.full_name,
+        role: "admin",
+      },
+    });
+  } catch (err) {
+    console.error("Admin Login error", err);
+    res.status(500).json({ error: "Server error" });
+  }
 };
 
 const deleteUser = async (req, res) => {
@@ -236,5 +241,25 @@ const getAllUsersController = async (req, res) => {
   }
 };
 
+const handleDeactivateUser = async (req, res) => {
+    const { userId } = req.body; 
 
-export { register as adminRegister, adminLogin, studentRegister, studentLogin, deleteUser,getAllUsersController};
+    if (!userId) {
+        return res.status(400).json({ success: false, message: "Missing user ID." });
+    }
+
+    try {
+        const affectedRows = await deactivateUser(userId);
+        
+        if (affectedRows > 0) {
+            return res.status(200).json({ success: true, message: "User deactivated successfully." });
+        } else {
+            return res.status(404).json({ success: false, message: "User not found or already deactivated." });
+        }
+    } catch (error) {
+        console.error("Deactivation API Error:", error);
+        return res.status(500).json({ success: false, message: "Server error during deactivation." });
+    }
+};
+
+export { register as adminRegister, adminLogin, studentRegister, studentLogin, deleteUser,getAllUsersController,handleDeactivateUser};

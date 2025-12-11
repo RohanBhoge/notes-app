@@ -176,11 +176,12 @@ const GeneratedTemplate = ({
           "[DEBUG] Store Paper API Error:",
           err.response?.data || err.message
         );
-        setError(
-          `Warning: Failed to permanently store paper on the backend. Status: ${
-            err.response?.status || "Network Error"
-          }`
-        );
+        // setError(
+        //   `Warning: Failed to store paper or Paper already exist. Status:   ${
+        //     err.response?.status || "Network Error"
+        //   }`
+        // );
+        alert(`Warning: Failed to store paper or Paper already exist. Status:   ${err.response?.status || "Network Error"}`);
         return false;
       }
     },

@@ -26,7 +26,7 @@ const DashboardContent = ({ notices, handleExamClick }) => {
           </div>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
           <ExamButton exam="CET" handleExamClick={handleExamClick} />
           <ExamButton exam="JEE" handleExamClick={handleExamClick} />
           <ExamButton exam="NEET" handleExamClick={handleExamClick} />

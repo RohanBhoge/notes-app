@@ -196,28 +196,21 @@ const storePaper = async (req, res) => {
   }
 };
 
-// paperController.js (Corrected getReplaceableQuestions)
-
-// ... (imports remain the same) ...
-
 const getReplaceableQuestions = async (req, res) => {
   try {
-    // 1. Authorization & Input Validation
     const userId = req.user?.id;
     if (!userId) {
       return res.status(401).json({ success: false, message: "Unauthorized" });
     }
 
-    // 💡 FIX 1: Safely handle empty strings or non-array inputs for context filters
     const {
       exam,
-      standards, // May be a string like "11th" or an array ["11th", "12th"]
-      subjects, // May be a string or array
+      standards,
+      subjects,
       overallUsedKeys = [],
       replacementRequests = [],
     } = req.body;
 
-    // Normalize string inputs (if any) into arrays for helper function consistency
     const standardArr = Array.isArray(standards)
       ? standards
       : String(standards || "")
@@ -236,53 +229,50 @@ const getReplaceableQuestions = async (req, res) => {
         success: false,
         message: "Replacement request list is required.",
       });
-    } // 2. Setup Global Exclusion Set (Composite Key: Chapter::ID)
+    }
 
-    const globalExclusionSet = new Set(overallUsedKeys.map(String)); // 3. Data Retrieval
+    const globalExclusionSet = new Set(overallUsedKeys.map(String));
 
     const zipRes = await loadQuestionsFromZip();
 
-    // 💡 FIX 2: If zip loading failed, throw the specific error message provided by zipLoader.js
     if (!zipRes.ok) {
       const loadError = new Error(
         zipRes.error || "ZIP file could not be loaded."
       );
       loadError.status = 500;
-      throw loadError; // Throw the error to the outer catch block
+      throw loadError;
     }
     const allQ = zipRes.questions || [];
 
     const finalReplacements = [];
-    let totalNeeded = 0; // 4. Fulfillment Loop: Iterate through each requested chapter batch
+    let totalNeeded = 0;
 
     for (const request of replacementRequests) {
       const { chapter, count } = request;
       const replacementCount = Number(count) > 0 ? Number(count) : 1;
-      totalNeeded += replacementCount; // Ensure chapter name is not empty
+      totalNeeded += replacementCount;
 
       if (!chapter) continue;
 
-      const chaptersArr = [chapter]; // Target this single chapter for inclusion // Find all potential candidates for this specific chapter, using the full filter set
+      const chaptersArr = [chapter]; 
 
       const validPool = allQ.filter((q) => {
-        // A. Global Context & Relevance Check (Uses the robust utility)
         const isContextMatch = matchesFiltersObj(q, {
           exam,
           standardArr,
           subjectArr,
-          chaptersArr, // Now includes the specific chapter filter
+          chaptersArr, 
         });
 
-        // B. Exclusion Check (Only check questions that passed the relevance filter)
         if (isContextMatch) {
           const qId = String(q.id || q.qno || "N/A");
           const qChapter = String(q.chapter || q.chapter_name || "N/A");
           const compositeKey = `${qChapter}::${qId}`;
 
           if (globalExclusionSet.has(compositeKey)) {
-            return false; // Exclude questions ALREADY used
+            return false; 
           }
-          return true; // Include unused, matching question
+          return true; 
         }
         return false;
       });

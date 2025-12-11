@@ -35,13 +35,13 @@ const SubjectsPage = ({
              {" "}
         {isBoardExam ? (
           // 💡 Display 'Coming Soon' message for Board Exams
-          <div className="p-8 bg-yellow-50 border-2 border-yellow-300 rounded-xl text-center">
+          <div className="p-8 bg-yellow-50 border-2 border-balck-300 rounded-xl text-center">
                        {" "}
-            <h2 className="text-2xl font-semibold text-yellow-800 mb-2">
+            <h2 className="text-2xl font-semibold text-black-800 mb-2">
                             Coming Soon! 🛠️            {" "}
             </h2>
                        {" "}
-            <p className="text-yellow-700">
+            <p className="text-black-700">
                             We are currently optimizing the interface for the{" "}
               {selectedExam} pattern. Please choose a different exam type for
               now.            {" "}

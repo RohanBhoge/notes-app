@@ -26,8 +26,6 @@ function normalizeKey(s) {
     .trim();
 }
 
-// --- Hashing and Shuffling (EXPORTS ADDED) ---
-
 function xfnv1a(str) {
   let h = 2166136261 >>> 0;
   for (let i = 0; i < str.length; i++) {
@@ -44,8 +42,6 @@ function mulberry32(a) {
     return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
   };
 }
-
-// --- ZIP Loading and Caching (EXPORTS ADDED) ---
 
 function findZipPath() {
   for (const p of ZIP_POSSIBLE_PATHS) {
@@ -73,7 +69,7 @@ function tryParseJsonText(raw) {
     if (m) {
       try {
         return JSON.parse(m[1]);
-      } catch {}
+      } catch { }
     }
     const lines = raw
       .split(/\r?\n/)
@@ -83,14 +79,12 @@ function tryParseJsonText(raw) {
     for (const L of lines) {
       try {
         arr.push(JSON.parse(L));
-      } catch {}
+      } catch { }
     }
     if (arr.length) return arr;
     return null;
   }
 }
-
-// --- HTML/LaTeX/Text Utilities (EXPORTS ADDED) ---
 
 async function loadQuestionsFromZip({ force = false } = {}) {
   const zipPath = findZipPath();
@@ -222,54 +216,54 @@ function latexToText(sIn) {
       .split("")
       .map(
         (ch) =>
-          ({
-            0: "⁰",
-            1: "¹",
-            2: "²",
-            3: "³",
-            4: "⁴",
-            5: "⁵",
-            6: "⁶",
-            7: "⁷",
-            8: "⁸",
-            9: "⁹",
-            "-": "⁻",
-          }[ch] || ch)
+        ({
+          0: "⁰",
+          1: "¹",
+          2: "²",
+          3: "³",
+          4: "⁴",
+          5: "⁵",
+          6: "⁶",
+          7: "⁷",
+          8: "⁸",
+          9: "⁹",
+          "-": "⁻",
+        }[ch] || ch)
       )
       .join("")
   );
   s = s.replace(
     /\^(-?\d)/g,
     (_, n) =>
-      ({
-        0: "⁰",
-        1: "¹",
-        2: "²",
-        3: "³",
-        4: "⁴",
-        5: "⁵",
-        6: "⁶",
-        7: "⁷",
-        8: "⁸",
-        9: "⁹",
-        "-": "⁻",
-      }[n] || `^${n}`)
+    ({
+      0: "⁰",
+      1: "¹",
+      2: "²",
+      3: "³",
+      4: "⁴",
+      5: "⁵",
+      6: "⁶",
+      7: "⁷",
+      8: "⁸",
+      9: "⁹",
+      "-": "⁻",
+    }[n] || `^${n}`)
   );
   s = s.replace(
     /_([0-9])/g,
     (_, n) =>
-      ({
-        0: "₀",
-        1: "₁",
-        2: "₂",
-        3: "₃",
-        4: "₄",
-        5: "₅",
-        6: "₆",
-        7: "₇",
-        8: "₈",
-        9: "₉",
-      }[n] || `_${n}`)
+    ({
+      0: "₀",
+      1: "₁",
+      2: "₂",
+      3: "₃",
+      4: "₄",
+      5: "₅",
+      6: "₆",
+      7: "₇",
+      8: "₈",
+      9: "₉",
+    }[n] || `_${n}`)
   );
   s = s.replace(/\\(cos|sin|tan|log|ln|sec|cosec|cot)\b/g, "$1");
   s = s.replace(/\\([a-zA-Z]+)/g, "$1");
@@ -298,8 +292,6 @@ function matchesFiltersObj(q, { exam, standardArr, subjectArr, chaptersArr }) {
       ? q._meta.subject
       : q.subject ?? q.chapter ?? q.topic ?? ""
   );
-
-  // 1. Exam Match (Still single check)
   if (
     nExamFilter &&
     !qExam.includes(nExamFilter) &&
@@ -307,7 +299,6 @@ function matchesFiltersObj(q, { exam, standardArr, subjectArr, chaptersArr }) {
   )
     return false;
 
-  // 2. Standard Match (Must match ANY standard in the list)
   if (nStdFilters.length > 0) {
     const isStandardMatch = nStdFilters.some(
       (f) => qStd.includes(f) || f.includes(qStd)
@@ -315,7 +306,6 @@ function matchesFiltersObj(q, { exam, standardArr, subjectArr, chaptersArr }) {
     if (!isStandardMatch) return false;
   }
 
-  // 3. Subject Match (Must match ANY subject in the list)
   if (nSubjFilters.length > 0) {
     const isSubjectMatch = nSubjFilters.some(
       (f) => qSubj.includes(f) || f.includes(qSubj)
@@ -323,7 +313,6 @@ function matchesFiltersObj(q, { exam, standardArr, subjectArr, chaptersArr }) {
     if (!isSubjectMatch) return false;
   }
 
-  // 4. Chapter Match (Must match ANY chapter in the list)
   if (Array.isArray(chaptersArr) && chaptersArr.length > 0) {
     const normFilters = chaptersArr.map((c) => normalizeKey(c)).filter(Boolean);
     const qch = normalizeKey(
