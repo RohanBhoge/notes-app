@@ -143,7 +143,6 @@ import React, {
                questions = questions.map((q, i) => {
                    if (!q.solution && i < solParts.length) {
                        const solText = solParts[i];
-                       // Remove the prefix "S{num}:" or "S{num} " etc
                        const cleanedSol = solText.replace(/^S\d+\s*[:\.]\s*/i, '');
                        q.solution = cleanedSol;
                    }
@@ -169,8 +168,6 @@ import React, {
     const finalExamDate = apiData.exam_date || examDate;
     console.log("finalExamDate", finalExamDate);
     const formattedDate = formatDateDDMMYYYY(finalExamDate);
-    // 💡 Priority: 1. API Data (if viewing stored), 2. Prop (from History), 3. Context (from New Generation)
-    // 💡 Priority: 1. API Data (if viewing stored), 2. Prop (from History), 3. Context (from New Generation)
     const rawDuration = apiData.duration || propExamDuration || examDuration;
     const finalExamDuration = rawDuration || "N/A";
     
@@ -214,9 +211,6 @@ import React, {
           console.log("Frontend Calculated Mark Per Question:", baseQuestionMark);
           console.groupEnd();
           
-          // User requested debugger to evaluate the situation
-          debugger; 
-          
           const response = await axios.post(STORE_PAPER_API_URL, data, {
             headers: { Authorization: `Bearer ${adminAuthToken}` },
           });
@@ -252,8 +246,11 @@ import React, {
         ...apiData,
         exam_date: finalExamDate,
         marks: totalCalculatedMarks,
-        duration: finalExamDuration, // 💡 Added duration to storage payload
+        duration: finalExamDuration,
+        class: standards
       };
+
+      console.log("[DEBUG] Store Payload:", payload);
 
       await storeGeneratedPaper(payload);
 
@@ -369,7 +366,7 @@ import React, {
       
       const replacementPayload = {
           exam: exam,
-          standards: standards,
+          class: standards,
           subjects: subjects,
           overallUsedKeys: overallUsedKeys,
           replacementRequests: replacementRequests,

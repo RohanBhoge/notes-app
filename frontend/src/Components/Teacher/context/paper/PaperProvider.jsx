@@ -13,11 +13,13 @@ const PaperProvider = (props) => {
 
   const [paperData, setPaperData] = useState({
     exam: "",
-    standard: "",
+    class: "",
     subject: "",
     chapters: [],
     count: 10,
   });
+
+  console.log("form Data", paperData);
 
   const [exam, setExam] = useState("");
   const [standards, setStandards] = useState([]);

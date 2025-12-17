@@ -94,8 +94,6 @@ const ChaptersPage = () => {
   let secondColHeader = "";
   let neetColumns = [];
 
-  // ... (Chapter definition logic)
-
   if (isNeetBiology) {
     neetColumns = [
       { header: "11th Zoology", chapters: chapters?.Zoology?.["11th"] || [] },
@@ -370,6 +368,7 @@ console.log("today_date", new Date().toISOString().split("T")[0]);
           </div>
           {mode === "Random" && (
             <div className="mb-6">
+              <p className="mb-2 ml-2">Number of Questions:</p>
               <input
                 type="number"
                 placeholder="Enter number of questions"

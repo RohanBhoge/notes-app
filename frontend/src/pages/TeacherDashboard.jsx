@@ -373,8 +373,7 @@ const TeacherDashboard = () => {
   const navigate = useNavigate();
   const location = useLocation();
   
-  //  derive activeSection from location for Sidebar highligting 
-  const getActiveSection = () => {
+    const getActiveSection = () => {
     const path = location.pathname;
     if (path.includes('/omr')) return 'omr';
     if (path.includes('/paperHistory')) return 'paperHistory';
@@ -386,7 +385,6 @@ const TeacherDashboard = () => {
   }
   const activeSection = getActiveSection();
 
-  // Helper to maintain compatibility with existing child components calling setActiveSection
   const setActiveSection = (section) => {
     if (section === 'dashboard') {
         navigate('/teacher-dashboard');
@@ -418,13 +416,14 @@ const TeacherDashboard = () => {
   ];
 
   const handleExamClick = (exam) => {
+
     setSelectedExam(exam);
     setExam(exam);
     console.log(exam);
     setPaperData((prevData) => ({
       ...prevData,
       exam: exam,
-      standard: "",
+      class: "",
       subject: "",
       chapters: [],
     }));
@@ -437,11 +436,9 @@ const TeacherDashboard = () => {
 
   const handleClassClick = (cls) => {
     setPaperData((prevData) => ({
-      ...prevData, // Preserve the existing exam value from the state
-      exam: prevData.exam, // Overwrite standard with the new class value (single selection)
-
-      standard: cls, // Clear dependent fields as the selected class has changed
-
+      ...prevData,
+      exam: prevData.exam,
+      class: cls,
       subject: "",
       chapters: [],
     }));
@@ -453,13 +450,13 @@ const TeacherDashboard = () => {
     setActiveSection("subjects");
     setMode(null);
     setIsSidebarOpen(false);
-  }; // --- Helper function to determine full chapters list for auto-selection ---
+  };
 
   const getFullChapterList = (exam, subject, cls) => {
-    let fullList = []; // Handle NEET Biology's nested structure
+    let fullList = [];
 
     if (exam === "NEET" && subject === "Biology") {
-      const data = chaptersData.NEET.Biology; // Merge all 11th and 12th chapters from Botany and Zoology
+      const data = chaptersData.NEET.Biology;
       fullList = [
         ...(data.Botany?.["11th"] || []),
         ...(data.Botany?.["12th"] || []),
@@ -500,7 +497,7 @@ const TeacherDashboard = () => {
       initialChapterSelection.forEach((chapter) => {
         newCheckedChapters[chapter] = true;
       });
-    } // 4. Update paperData state
+    } 
 
     setPaperData((prevData) => {
       // --- Toggling Logic (Handles Multiple Subject Selection) ---
@@ -520,15 +517,14 @@ const TeacherDashboard = () => {
       return {
         ...prevData,
         exam: prevData.exam,
-        standard: prevData.standard,
-        subject: newSubjects.join(","), // 🚀 CRITICAL CHANGE: Set chapters for the API payload
-        chapters: initialChapterSelection, // 💡 Default count to 30 if mode is Fixed (not Random) and count is not set
+        class: prevData.class,
+        subject: newSubjects.join(","),
+        chapters: initialChapterSelection,
         count: mode !== "Random" ? 30 : prevData.count,
       };
     });
 
-    // 5. Update checkedChapters UI state here to reflect the new selection
-    setCheckedChapters(newCheckedChapters); // 6. Update UI states for ChaptersPage
+    setCheckedChapters(newCheckedChapters);
 
     console.log("subject selected is", subject);
     console.log("paper data ", paperData); // Still shows old state

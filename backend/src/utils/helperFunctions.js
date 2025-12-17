@@ -179,7 +179,7 @@ async function getUserByEmail(email) {
         );
         if (!rows2.length) return null;
         const r = rows2[0];
-
+        console.log(r);
         return {
           id: r.id,
           email: r.email,

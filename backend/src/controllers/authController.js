@@ -260,11 +260,12 @@ const adminLogin = async (req, res) => {
     res.json({
       token,
       user: {
-        id: user.id,
-        email: user.email,
-        full_name: user.full_name,
-        role: "admin",
-        logo_url: logoUrl, // ADDED: Send the full URL to the frontend
+        id: user.id,
+        email: user.email,
+        full_name: user.full_name,
+        role: "admin",
+        logo_url: logoUrl,
+        watermark: user.watermark,
       },
     });
   } catch (err) {
