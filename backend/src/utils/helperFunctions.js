@@ -503,7 +503,7 @@ async function getAllUsers() {
     connection = await pool.getConnection();
 
     const [rows] = await connection.execute(
-      `SELECT id, email, full_name, username, created_at, updated_at, is_active 
+      `SELECT id, email, full_name, username, created_at, updated_at, is_active, logo, watermark
        FROM users 
        ORDER BY created_at DESC`
     );
