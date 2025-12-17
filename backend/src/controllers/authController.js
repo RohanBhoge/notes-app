@@ -38,6 +38,18 @@ const getObjectURL = (key) => {
 const register = async (req, res) => {
   try {
     const { email, password, full_name, watermark, class_name } = req.body;
+
+    // --- DEBUG LOG START ---
+    console.log("------------------------------------------------");
+    console.log("REGISTER REQUEST RECEIVED");
+    console.log("req.body:", req.body);
+    console.log("req.file:", req.file);
+    if (req.file) {
+      console.log("Buffer length:", req.file.buffer ? req.file.buffer.length : "undefined");
+    }
+    console.log("------------------------------------------------");
+    // --- DEBUG LOG END ---
+
     if (!email || !password)
       return res.status(400).json({ error: "Email and password required" });
     const existing = await getUserByEmail(email);
@@ -89,6 +101,7 @@ const register = async (req, res) => {
     });
     res.status(201).json({
       token,
+      file,
       user: {
         id: userId,
         email,

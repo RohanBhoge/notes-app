@@ -197,6 +197,7 @@ async function getUserByEmail(email) {
     if (connection) connection.release();
   }
 }
+
 async function deleteUserByEmail(email) {
   let connection;
   try {
