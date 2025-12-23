@@ -10,7 +10,8 @@ import { pool } from './config/mySQLConfig.js';
 import { paperRouter } from './routes/paperRouter.js';
 import authRouter from './routes/authRouter.js';
 import notificationRouter from './routes/notificationRouter.js';
-import { ensureUserColumnsExist } from './utils/helperFunctions.js';
+import { ensureUserColumnsExist, checkSubscriptionExpirations } from './utils/helperFunctions.js';
+import cron from 'node-cron';
 
 dotenv.config();
 
@@ -85,6 +86,13 @@ app.listen(port, async () => {
   try {
     await ensureUserColumnsExist();
     console.log('Database initialized successfully.');
+
+    // Schedule subscription check every day at midnight
+    cron.schedule('0 0 * * *', async () => {
+      console.log('Running daily subscription expiration check...');
+      await checkSubscriptionExpirations();
+    });
+
   } catch (error) {
     console.error(
       'Failed to initialize database schema. Check connection/permissions.');

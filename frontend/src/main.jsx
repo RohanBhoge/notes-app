@@ -25,6 +25,8 @@ import GeneratedTemplate from "./Components/Teacher/Dashboard/GeneratedTemplate.
 import LandingPage from "./pages/LandingPage.jsx";
 import ContactPage from "./Components/contactUs.jsx";
 
+import ProtectedRoute from "./Components/ProtectedRoute.jsx";
+
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <BrowserRouter>
@@ -32,29 +34,32 @@ createRoot(document.getElementById("root")).render(
         <PaperProvider>
           <Routes>
             <Route path="/" element={<LandingPage />} />
-            <Route path="/admin-dashboard" element={<AdminDashboard1 />} />
             <Route path="/login-page" element={<LoginPage />} />
-            <Route path="/teacher-dashboard" element={<TeacherDashboard />}>
-                <Route index element={<DashboardContent />} />
-                <Route path="exam" element={<ExamClasses />} />
-                <Route path="subjects" element={<SubjectsPage />} />
-                <Route path="chapters" element={<ChaptersPage />} />
-                <Route path="omr" element={<OmrPage />} />
-                <Route path="paperHistory" element={<PaperHistoryPage />} />
-                <Route path="settings" element={<SettingsPage />} />
-            </Route>
-
-            <Route path="/notes-dashboard" element={<NotesDashboard />}>
-                <Route index element={<NotesDashboardContent />} />
-                <Route path="exam" element={<ExamSelection />} />
-                <Route path="chapters" element={<NotesChaptersPage />} />
-                <Route path="settings" element={<SettingsPage />} />
-            </Route>    
-            
-            
-            {/* <Route path="/test" element={<OmrIntegratedPage />} /> */}
-            <Route path="/paper-view" element={<GeneratedTemplate />} />
             <Route path="/contact-us" element={<ContactPage />} />
+
+            <Route element={<ProtectedRoute />}>
+              <Route path="/admin-dashboard" element={<AdminDashboard1 />} />
+              <Route path="/teacher-dashboard" element={<TeacherDashboard />}>
+                  <Route index element={<DashboardContent />} />
+                  <Route path="exam" element={<ExamClasses />} />
+                  <Route path="subjects" element={<SubjectsPage />} />
+                  <Route path="chapters" element={<ChaptersPage />} />
+                  <Route path="omr" element={<OmrPage />} />
+                  <Route path="paperHistory" element={<PaperHistoryPage />} />
+                  <Route path="settings" element={<SettingsPage />} />
+              </Route>
+  
+              <Route path="/notes-dashboard" element={<NotesDashboard />}>
+                  <Route index element={<NotesDashboardContent />} />
+                  <Route path="exam" element={<ExamSelection />} />
+                  <Route path="chapters" element={<NotesChaptersPage />} />
+                  <Route path="settings" element={<SettingsPage />} />
+              </Route>    
+              
+              
+              {/* <Route path="/test" element={<OmrIntegratedPage />} /> */}
+              <Route path="/paper-view" element={<GeneratedTemplate />} />
+            </Route>
           </Routes>
         </PaperProvider>
       </AuthProvider>

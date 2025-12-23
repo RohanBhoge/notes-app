@@ -16,6 +16,7 @@
     "axios": "^1.13.2",
     "framer-motion": "^12.23.24",
     "jspdf": "^3.0.3",
+    "jwt-decode": "^4.0.0",
     "lucide-react": "^0.544.0",
     "qpg-backend": "file:../backend",
     "react": "^19.1.1",

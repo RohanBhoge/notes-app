@@ -153,6 +153,21 @@ async function createUser(email, password_hash, full_name, watermark, logokey) {
       values.push(logokey);
     }
 
+    // Set Subscription: 1 Year from NOW
+    if (colSet.has('subscription_start_date')) {
+      insertCols.push('subscription_start_date');
+      placeholders.push('?');
+      values.push(new Date());
+    }
+    if (colSet.has('subscription_end_date')) {
+      insertCols.push('subscription_end_date');
+      placeholders.push('?');
+      const endDate = new Date();
+      endDate.setFullYear(endDate.getFullYear() + 1);
+      values.push(endDate);
+    }
+
+
     if (insertCols.length === 0) {
       throw new Error(
         'No known user columns present in database to insert into.'
@@ -178,7 +193,7 @@ async function getUserByEmail(email) {
     connection = await pool.getConnection();
     try {
       const [rows] = await connection.execute(
-        `SELECT id, email, password_hash, full_name, is_active, created_at, watermark, class_name, logo FROM users WHERE email = ? LIMIT 1`,
+        `SELECT id, email, password_hash, full_name, is_active, created_at, watermark, class_name, logo, subscription_start_date, subscription_end_date FROM users WHERE email = ? LIMIT 1`,
         [email]
       );
       return rows.length ? rows[0] : null;
@@ -505,13 +520,24 @@ async function getAllUsers() {
   try {
     connection = await pool.getConnection();
 
-    const [rows] = await connection.execute(
-      `SELECT id, email, full_name, username, created_at, updated_at, is_active, logo, watermark
-       FROM users 
-       ORDER BY created_at DESC`
-    );
+    // Dynamically check columns to avoid error if subscription columns don't exist yet
+    // Or just try specific query and fallback
+    try {
+      const [rows] = await connection.execute(
+        `SELECT id, email, full_name, username, created_at, updated_at, is_active, logo, watermark, subscription_start_date, subscription_end_date
+        FROM users 
+        ORDER BY created_at DESC`
+      );
+      return rows;
+    } catch (e) {
+      const [rows] = await connection.execute(
+        `SELECT id, email, full_name, username, created_at, updated_at, is_active, logo, watermark
+        FROM users 
+        ORDER BY created_at DESC`
+      );
+      return rows;
+    }
 
-    return rows;
   } catch (error) {
     console.error('DB Error in getAllUsers:', error);
     throw error;
@@ -520,9 +546,6 @@ async function getAllUsers() {
   }
 }
 
-/**
- * Toggles a user's activation status.
- */
 async function toggleUserActivationStatus(userId) {
   let connection;
   try {
@@ -541,12 +564,27 @@ async function toggleUserActivationStatus(userId) {
     const newStatus = currentStatus === 1 ? 0 : 1;
     const newStatusText = newStatus === 1 ? 'Activated' : 'Deactivated';
 
-    const updateQuery = `
-            UPDATE users 
-            SET is_active = ?
-            WHERE id = ?
-        `;
-    const [result] = await connection.execute(updateQuery, [newStatus, userId]);
+    // If activating, reset subscription to 1 year from now
+    let updateQuery;
+    let params;
+
+    if (newStatus === 1) {
+      updateQuery = `
+          UPDATE users 
+          SET is_active = ?, subscription_start_date = NOW(), subscription_end_date = DATE_ADD(NOW(), INTERVAL 1 YEAR)
+          WHERE id = ?
+      `;
+      params = [newStatus, userId];
+    } else {
+      updateQuery = `
+          UPDATE users 
+          SET is_active = ?
+          WHERE id = ?
+      `;
+      params = [newStatus, userId];
+    }
+
+    const [result] = await connection.execute(updateQuery, params);
 
     return {
       affectedRows: result.affectedRows,
@@ -560,53 +598,83 @@ async function toggleUserActivationStatus(userId) {
   }
 }
 
-/**
- * Ensures user columns exist (specifically 'logo').
- */
 async function ensureUserColumnsExist() {
   let connection;
   try {
     connection = await pool.getConnection();
 
-    const [rows] = await connection.execute(
-      `SELECT COLUMN_NAME, DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS 
-             WHERE TABLE_SCHEMA = ? AND TABLE_NAME = 'users' AND COLUMN_NAME = 'logo'`,
-      [DB_NAME]
-    );
+    const columnsToCheck = [
+      { name: 'logo', type: 'varchar' },
+      { name: 'subscription_start_date', type: 'datetime' },
+      { name: 'subscription_end_date', type: 'datetime' },
+    ];
 
-    let shouldAdd = false;
+    for (const col of columnsToCheck) {
+      const [rows] = await connection.execute(
+        `SELECT COLUMN_NAME, DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS
+               WHERE TABLE_SCHEMA = ? AND TABLE_NAME = 'users' AND COLUMN_NAME = ?`,
+        [DB_NAME, col.name]
+      );
 
-    if (rows.length > 0) {
-      const colType = rows[0].DATA_TYPE;
-      console.log(`'logo' column exists. Type: ${colType}`);
+      let shouldAdd = false;
 
-      // If exists but not varchar, drop it
-      if (colType !== 'varchar') {
-        console.log(
-          "Column type is incorrect (expected 'varchar'). Dropping column..."
-        );
-        await connection.execute(`ALTER TABLE users DROP COLUMN logo`);
-        console.log("'logo' column dropped.");
-        shouldAdd = true;
+      if (rows.length > 0) {
+        const colType = rows[0].DATA_TYPE;
+        console.log(`'${col.name}' column exists. Type: ${colType}`);
+        // Basic type validation (loose)
+        if (col.type === 'varchar' && colType !== 'varchar') {
+          // Handle specific alteration if needed, for now mainly focusing on 'logo' drop logic from original code
+          if (col.name === 'logo') {
+            console.log("Column type incorrect. Dropping...");
+            await connection.execute(`ALTER TABLE users DROP COLUMN ${col.name}`);
+            shouldAdd = true;
+          }
+        }
       } else {
-        console.log(
-          "'logo' column is already correct (VARCHAR). Skipping migration."
-        );
+        shouldAdd = true;
       }
-    } else {
-      shouldAdd = true;
+
+      if (shouldAdd) {
+        console.log(`Adding '${col.name}' column...`);
+        let typeDef = '';
+        if (col.type === 'varchar') typeDef = 'VARCHAR(255) DEFAULT NULL';
+        if (col.type === 'datetime') typeDef = 'DATETIME DEFAULT NULL';
+
+        await connection.execute(`
+                  ALTER TABLE users
+                  ADD COLUMN ${col.name} ${typeDef}
+              `);
+        console.log(`'${col.name}' column added successfully.`);
+      }
     }
 
-    if (shouldAdd) {
-      console.log("Adding 'logo' column (VARCHAR) to 'users'...");
-      await connection.execute(`
-                ALTER TABLE users
-                ADD COLUMN logo VARCHAR(255) DEFAULT NULL
-            `);
-      console.log("'logo' column added successfully.");
-    }
   } catch (error) {
     console.error('Critical DB Initialization Error (Alter Table):', error);
+  } finally {
+    if (connection) connection.release();
+  }
+}
+
+/**
+ * Checks for expired subscriptions and deactivates users.
+ */
+async function checkSubscriptionExpirations() {
+  let connection;
+  try {
+    connection = await pool.getConnection();
+    const [result] = await connection.execute(`
+      UPDATE users 
+      SET is_active = 0 
+      WHERE is_active = 1 
+      AND subscription_end_date IS NOT NULL 
+      AND subscription_end_date < NOW()
+    `);
+
+    if (result.affectedRows > 0) {
+      console.log(`Deactivated ${result.affectedRows} users due to expired subscription.`);
+    }
+  } catch (error) {
+    console.error('Error checking subscription expirations:', error);
   } finally {
     if (connection) connection.release();
   }
@@ -628,4 +696,5 @@ export {
   getAllUsers,
   toggleUserActivationStatus,
   ensureUserColumnsExist,
+  checkSubscriptionExpirations
 };

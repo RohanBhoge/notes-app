@@ -283,6 +283,15 @@ const adminLogin = async (req, res) => {
     }
     console.log('Generated S3 URL:', logoUrl);
 
+    // Calculate remaining subscription days
+    let remainingDays = null;
+    if (user.subscription_end_date) {
+      const endDate = new Date(user.subscription_end_date);
+      const now = new Date();
+      const diffTime = endDate - now;
+      remainingDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+    }
+
     const token = jwt.sign({ sub: user.id, role: 'admin' }, JWT_SECRET, {
       expiresIn: JWT_EXPIRES_IN,
     });
@@ -295,6 +304,8 @@ const adminLogin = async (req, res) => {
         role: 'admin',
         logo_url: logoUrl,
         watermark: user.watermark,
+        subscription_end_date: user.subscription_end_date,
+        remaining_days: remainingDays
       },
     });
   } catch (err) {

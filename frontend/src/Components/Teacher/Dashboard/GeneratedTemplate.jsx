@@ -89,6 +89,7 @@ import React, {
     examDate,
     totalMarks,
     examDuration: propExamDuration,
+    mode, // Receive mode prop
     onBack,
   }) => {
     const { adminAuthToken, watermark,logo  } = useContext(AuthContext);
@@ -101,6 +102,10 @@ import React, {
     console.log("[DEBUG] Generated Paper Data (Prop):", backendPaperData); 
 
     console.log("[DEBUG] Generated Paper Data (Prop):", logo); 
+    
+    // 💡 LOGIC: Determine mode from prop (generation) or metadata (history retrieval)
+    const effectiveMode = mode || apiData?.metadata?.mode;
+
     const [useColumns, setUseColumns] = useState(true);
     const [viewMode, setViewMode] = useState("questions_only"); 
     const [paperStored, setPaperStored] = useState(false);
@@ -164,7 +169,9 @@ import React, {
     
     const finalExamName = apiData.exam || apiData.exam_name || exam;
     const finalClassName = apiData.class || apiData.standard || standards;
-    const finalMarks = apiData.marks || totalMarks;
+    // 💡 FIX: In Random (Custom) mode, prioritize the user-input 'totalMarks' prop over backend 'marks'.
+    // Backend sums up marks (e.g. 10 * 1 = 10), but we want the user's custom total (e.g. 50).
+    const finalMarks = (effectiveMode === 'Random' && totalMarks) ? totalMarks : (apiData.marks || totalMarks);
     const finalSubject = apiData.subject || subjects;
     const finalExamDate = apiData.exam_date || examDate;
     console.log("finalExamDate", finalExamDate);
@@ -180,12 +187,22 @@ import React, {
     });
 
     const baseQuestionMark = useMemo(() => {
+        // 💡 IF Custom Selection (Random) AND totalMarks is provided, distribute evenly
+        if (effectiveMode === 'Random' && finalMarks && questionCount > 0) {
+            const distributedMark = Number(finalMarks) / questionCount;
+            // Optional: formatting to 2 decimals if needed, but keeping as number for calc
+            return distributedMark % 1 === 0 ? distributedMark : Number(distributedMark.toFixed(2));
+        }
+
         return getQuestionMark(finalExamName, finalSubject);
-    }, [finalExamName, finalSubject]);
+    }, [finalExamName, finalSubject, effectiveMode, finalMarks, questionCount]);
 
     const totalCalculatedMarks = useMemo(() => {
+        if (effectiveMode === 'Random' && finalMarks) {
+            return Number(finalMarks);
+        }
         return questionCount * baseQuestionMark;
-    }, [questionCount, baseQuestionMark]);
+    }, [questionCount, baseQuestionMark, effectiveMode, finalMarks]);
 
     
     const [leftContent, rightContent] = useMemo(
@@ -248,7 +265,11 @@ import React, {
         exam_date: finalExamDate,
         marks: totalCalculatedMarks,
         duration: finalExamDuration,
-        class: standards
+        class: standards,
+        metadata: {
+            ...(apiData.metadata || {}),
+            mode: effectiveMode // 💡 IMPORTANT: Persist mode so history view knows how to calculate marks
+        }
       };
 
       console.log("[DEBUG] Store Payload:", payload);
@@ -429,8 +450,8 @@ import React, {
         (sq) => getCompositeKey(sq) === key
       );
 
-      // 💡 Calculate Mark: Use the fixed exam scheme based on current context
-      const calculatedMark = getQuestionMark(finalExamName, finalSubject);
+      // 💡 Calculate Mark: Use the dynamic baseQuestionMark
+      const calculatedMark = baseQuestionMark;
 
       // 💡 LOGIC CHANGE: If in Answer Key mode, render only the essential answer data.
       if (isAnswerKeyMode) {
