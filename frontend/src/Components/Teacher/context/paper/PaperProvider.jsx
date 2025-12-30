@@ -1,4 +1,4 @@
-import PaperContext from "./paperContext.jsx";
+import PaperContext from "./PaperContext.jsx";
 import { useState } from "react";
 
 const PaperProvider = (props) => {

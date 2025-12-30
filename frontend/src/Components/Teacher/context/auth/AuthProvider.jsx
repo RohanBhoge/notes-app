@@ -37,10 +37,12 @@ const AuthProvider = (props) => {
       ? localStorage.getItem("Watermark")
       : null
   );
-  const rawBackendUrl = import.meta.env.VITE_BACKEND_URL;
-  const BackendUrl = rawBackendUrl.startsWith("https://") 
-  ? rawBackendUrl.replace("https://", "http://") 
-  : rawBackendUrl;
+  // const rawBackendUrl = import.meta.env.VITE_BACKEND_URL;
+  // // const BackendUrl = rawBackendUrl.startsWith("https://") 
+  // // ? rawBackendUrl.replace("https://", "http://") 
+  // // : rawBackendUrl;
+
+const BackendUrl = import.meta.env.VITE_BACKEND_URL || "https://notes-app-plum-three.vercel.app/";
 
   // Auto-logout effect
   useEffect(() => {
