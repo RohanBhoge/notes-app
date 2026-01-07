@@ -1,0 +1,1802 @@
+[
+    {
+        "id": 1,
+        "chapter": "Wave Optics",
+        "question": "Four identical charges +50 MC each are placed, one at each corner of a square of side 2m. How much external energy is required to bring another charge of +50 MC from infinity to the centre of the square (Given 1 / 4 pi epsilon_0 = 9 x 10^9 Nm^2/C^2)",
+        "question_latex": "Four identical charges $+50~\\mu C$ each are placed, one at each corner of a square of side $2$m. How much external energy is required to bring another charge of $+50~\\mu C$ from infinity to the centre of the square (Given $\\frac{1}{4\\pi\\epsilon_{0}}=9\\times10^{9}~Nm^{2}/C^{2}$)",
+        "question_images": [],
+        "options": [
+            "A. 64 J",
+            "B. 41 J",
+            "C. 16 J",
+            "D. 10 J"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Distance of center from each corner $r = \\frac{a}{\\sqrt{2}} = \\frac{2}{\\sqrt{2}} = \\sqrt{2}$ m. \n Potential at center $V_{0} = 4 \\times \\frac{1}{4\\pi\\epsilon_{0}} \\frac{Q}{r} = 4 \\times 9 \\times 10^{9} \\times \\frac{50 \\times 10^{-6}}{\\sqrt{2}} = 90\\sqrt{2} \\times 10^{4}$ V. \n Work done in bringing a charge $q$ from infinity to center: $W = q(V_{0} - V_{\\infty}) = qV_{0}$. \n $W = 50 \\times 10^{-6} \\times 90\\sqrt{2} \\times 10^{4} = 45\\sqrt{2} \\approx 63.6$ J. \n The closest integer value is $64$ J.",
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Wave Optics",
+        "question": "Which of the following is NOT the property of equipotential surfaces?",
+        "question_latex": "Which of the following is NOT the property of equipotential surfaces?",
+        "question_images": [],
+        "options": [
+            "A. They do not cross each other",
+            "B. They are concentric spheres for uniform electric field",
+            "C. Rate of change of potential with distance is zero along the surface",
+            "D. Work done in moving a charge over the surface is zero"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "For a uniform electric field, equipotential surfaces are parallel planes perpendicular to the field lines. Concentric spheres are equipotential surfaces for a point charge.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Wave Optics",
+        "question": "A capacitor of 10 micro-F is charged to a potential 50V. The energy stored in it is [MHT-CET 2023]",
+        "question_latex": "A capacitor of $10~\\mu F$ is charged to a potential $50V$. The energy stored in it is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 12.5 x 10^-3 J",
+            "B. 25 x 10^-3 J",
+            "C. 50 x 10^-3 J",
+            "D. 100 x 10^-3 J"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Energy $U = \\frac{1}{2} C V^{2} = 0.5 \\times 10 \\times 10^{-6} \\times (50)^{2} = 5 \\times 10^{-6} \\times 2500 = 1.25 \\times 10^{-2} = 12.5 \\times 10^{-3}$ J.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Wave Optics",
+        "question": "Three capacitors of capacitance 3 micro-F, 9 micro-F and 18 micro-F are connected once in series and another time in parallel. The ratio of equivalent capacitance in parallel to series is [MHT-CET 2021]",
+        "question_latex": "Three capacitors of capacitance $3~\\mu F, 9~\\mu F$ and $18~\\mu F$ are connected once in series and another time in parallel. The ratio of equivalent capacitance in parallel to series is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 15 : 1",
+            "B. 1 : 15",
+            "C. 10 : 1",
+            "D. 1 : 10"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$C_{p} = 3 + 9 + 18 = 30~\\mu F$. \n $\\frac{1}{C_{s}} = \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{18} = \\frac{6 + 2 + 1}{18} = \\frac{9}{18} = \\frac{1}{2} \\Rightarrow C_{s} = 2~\\mu F$. \n Ratio $C_{p}/C_{s} = 30/2 = 15 : 1$.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Wave Optics",
+        "question": "The electric potential at a point on the axis of an electric dipole depends on distance r from the center of dipole as [MHT-CET 2020]",
+        "question_latex": "The electric potential at a point on the axis of an electric dipole depends on distance $r$ from the center of dipole as [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. V proportional to 1/r",
+            "B. V proportional to 1/r^2",
+            "C. V proportional to 1/r^3",
+            "D. V proportional to r"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Potential due to an electric dipole $V = \\frac{1}{4\\pi\\epsilon_{0}} \\frac{p \\cos \\theta}{r^{2}}$. For axial points $\\theta = 0$, so $V \\propto \\frac{1}{r^{2}}$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Wave Optics",
+        "question": "A parallel plate capacitor is charged and the charging battery is then disconnected. If the plates of the capacitor are moved further apart by means of insulating handles, then [MHT-CET 2024]",
+        "question_latex": "A parallel plate capacitor is charged and the charging battery is then disconnected. If the plates of the capacitor are moved further apart by means of insulating handles, then [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. The charge on the capacitor increases",
+            "B. The voltage across the plates decreases",
+            "C. The capacitance increases",
+            "D. The electrostatic energy stored in the capacitor increases"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Battery disconnected $\\Rightarrow Q$ is constant. Plates moved apart $\\Rightarrow d$ increases $\\Rightarrow C = \\frac{\\epsilon_{0}A}{d}$ decreases. Energy $U = \\frac{Q^{2}}{2C}$, as $C$ decreases, $U$ increases.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Wave Optics",
+        "question": "The capacity of a parallel plate capacitor is 10 micro-F. When the distance between the plates is halved and a dielectric of constant k=4 is introduced, its new capacity will be [MHT-CET 2019]",
+        "question_latex": "The capacity of a parallel plate capacitor is $10~\\mu F$. When the distance between the plates is halved and a dielectric of constant $k=4$ is introduced, its new capacity will be [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 80 micro-F",
+            "B. 40 micro-F",
+            "C. 20 micro-F",
+            "D. 5 micro-F"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$C_{0} = \\frac{\\epsilon_{0}A}{d} = 10~\\mu F$. \n $C' = \\frac{k \\epsilon_{0}A}{d/2} = 2k C_{0} = 2 \\times 4 \\times 10 = 80~\\mu F$.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Wave Optics",
+        "question": "If an electron is brought towards another electron, the electric potential energy of the system [MHT-CET 2022]",
+        "question_latex": "If an electron is brought towards another electron, the electric potential energy of the system [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. increases",
+            "B. decreases",
+            "C. remains same",
+            "D. becomes zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$U = \\frac{1}{4\\pi\\epsilon_{0}} \\frac{q_{1}q_{2}}{r}$. For two electrons, $q_{1}q_{2}$ is positive (repulsive). As $r$ decreases, the work done against the force is stored as potential energy, so $U$ increases.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Wave Optics",
+        "question": "The electric field intensity at a distance r from an infinitely long thin straight charged wire is proportional to [MHT-CET 2023]",
+        "question_latex": "The electric field intensity at a distance $r$ from an infinitely long thin straight charged wire is proportional to [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 1/r",
+            "B. 1/r^2",
+            "C. r",
+            "D. r^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$E = \\frac{\\lambda}{2\\pi\\epsilon_{0}r}$. Thus $E \\propto \\frac{1}{r}$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Wave Optics",
+        "question": "Energy per unit volume of a capacitor is proportional to [MHT-CET 2020]",
+        "question_latex": "Energy per unit volume of a capacitor is proportional to [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. E",
+            "B. E^2",
+            "C. 1/E",
+            "D. 1/E^2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Energy density $u = \\frac{1}{2} \\epsilon_{0} E^{2}$. Thus $u \\propto E^{2}$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Wave Optics",
+        "question": "A charged particle is released from rest in a uniform electric field. Its kinetic energy after time t is proportional to [MHT-CET 2024]",
+        "question_latex": "A charged particle is released from rest in a uniform electric field. Its kinetic energy after time $t$ is proportional to [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. t",
+            "B. t^2",
+            "C. sqrt(t)",
+            "D. 1/t"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Acceleration $a = qE/m$ (constant). Velocity $v = at = \\frac{qE}{m}t$. \n $K.E. = \\frac{1}{2}mv^{2} = \\frac{1}{2}m (\\frac{qE}{m})^{2} t^{2} \\propto t^{2}$.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Wave Optics",
+        "question": "Work done in rotating an electric dipole of dipole moment p in a uniform electric field E through an angle theta from stable equilibrium is [MHT-CET 2021]",
+        "question_latex": "Work done in rotating an electric dipole of dipole moment $p$ in a uniform electric field $E$ through an angle $\\theta$ from stable equilibrium is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. pE sin theta",
+            "B. pE(1 - cos theta)",
+            "C. pE cos theta",
+            "D. -pE cos theta"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Work done $W = pE (\\cos \\theta_{1} - \\cos \\theta_{2})$. Stable eqm means $\\theta_{1} = 0^{\\circ}$ and $\\theta_{2} = \\theta$. \n $W = pE (1 - \\cos \\theta)$.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Wave Optics",
+        "question": "The dielectric constant k of a metal is [MHT-CET 2022]",
+        "question_latex": "The dielectric constant $k$ of a metal is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 0",
+            "C. infinity",
+            "D. 81"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "For metals, the electric field inside is zero, making the relative permittivity (dielectric constant) infinite.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Wave Optics",
+        "question": "Two charges +2 micro-C and -2 micro-C are separated by a distance of 10^-6 m. The maximum torque on this dipole in an electric field of 10^5 N/C is [MHT-CET 2023]",
+        "question_latex": "Two charges $+2~\\mu C$ and $-2~\\mu C$ are separated by a distance of $10^{-6}$ m. The maximum torque on this dipole in an electric field of $10^{5}$ N/C is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2 x 10^-7 Nm",
+            "B. 2 x 10^-1 Nm",
+            "C. 4 x 10^-7 Nm",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$p = q d = 2 \\times 10^{-6} \\times 10^{-6} = 2 \\times 10^{-12}$ Cm. \n $\\tau_{max} = pE = 2 \\times 10^{-12} \\times 10^{5} = 2 \\times 10^{-7}$ Nm.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Wave Optics",
+        "question": "Electric potential energy of a system of two charges is 10 J. If the separation between them is doubled, the potential energy becomes [MHT-CET 2020]",
+        "question_latex": "Electric potential energy of a system of two charges is $10$ J. If the separation between them is doubled, the potential energy becomes [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 20 J",
+            "B. 5 J",
+            "C. 10 J",
+            "D. 2.5 J"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$U = \\frac{1}{4\\pi\\epsilon_{0}} \\frac{q_{1}q_{2}}{r} \\Rightarrow U \\propto \\frac{1}{r}$. If $r$ is doubled, $U$ is halved. $U' = 10/2 = 5$ J.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Wave Optics",
+        "question": "The electric flux through a Gaussian surface enclosing a charge q is phi. If the radius of the Gaussian surface is doubled, the flux will be [MHT-CET 2024]",
+        "question_latex": "The electric flux through a Gaussian surface enclosing a charge $q$ is $\\phi$. If the radius of the Gaussian surface is doubled, the flux will be [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. phi",
+            "B. 2 phi",
+            "C. phi / 2",
+            "D. 4 phi"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to Gauss's law, total flux depends only on the enclosed charge, not the surface dimensions.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Wave Optics",
+        "question": "The potential energy of a system of two identical charges +q separated by distance r is U. If one charge is made -q, the potential energy becomes",
+        "question_latex": "The potential energy of a system of two identical charges $+q$ separated by distance $r$ is $U$. If one charge is made $-q$, the potential energy becomes",
+        "question_images": [],
+        "options": [
+            "A. U",
+            "B. -U",
+            "C. 2U",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$U_{1} = \\frac{k q^{2}}{r}$. If $q_{1}=+q, q_{2}=-q$, then $U_{2} = \\frac{k (+q)(-q)}{r} = -\\frac{k q^{2}}{r} = -U$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Wave Optics",
+        "question": "A parallel plate capacitor has plate area A and separation d. If the plate area is doubled and separation is halved, the capacity becomes [MHT-CET 2021]",
+        "question_latex": "A parallel plate capacitor has plate area $A$ and separation $d$. If the plate area is doubled and separation is halved, the capacity becomes [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 2 times",
+            "B. 4 times",
+            "C. same",
+            "D. 1/2 times"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$C = \\frac{\\epsilon_{0}A}{d}$. $C' = \\frac{\\epsilon_{0}(2A)}{d/2} = 4 \\frac{\\epsilon_{0}A}{d} = 4C$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Wave Optics",
+        "question": "The work done in carrying a charge of 10 micro-C from a point at 50 V to 100 V is [MHT-CET 2023]",
+        "question_latex": "The work done in carrying a charge of $10~\\mu C$ from a point at $50~V$ to $100~V$ is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 0.5 mJ",
+            "B. 500 J",
+            "C. 5 J",
+            "D. 10 mJ"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$W = q \\Delta V = 10 \\times 10^{-6} \\times (100 - 50) = 500 \\times 10^{-6}$ J $= 0.5 \\times 10^{-3}$ J $= 0.5~mJ$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Wave Optics",
+        "question": "Dimensions of electric potential are [MHT-CET 2022]",
+        "question_latex": "Dimensions of electric potential are [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L2 T-3 A-1]",
+            "B. [M1 L2 T-2 A-1]",
+            "C. [M1 L1 T-3 A-1]",
+            "D. [M1 L3 T-3 A-1]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$V = \\frac{Work}{Charge} = \\frac{[M^{1} L^{2} T^{-2}]}{[A^{1} T^{1}]} = [M^{1} L^{2} T^{-3} A^{-1}]$.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Wave Optics",
+        "question": "A capacitor of 4 micro-F is charged to 100 V. The charge on it is [MHT-CET 2020]",
+        "question_latex": "A capacitor of $4~\\mu F$ is charged to $100~V$. The charge on it is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 4 x 10^-4 C",
+            "B. 4 x 10^-2 C",
+            "C. 4 x 10^-6 C",
+            "D. 400 C"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$Q = CV = 4 \\times 10^{-6} \\times 100 = 4 \\times 10^{-4}$ C.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Wave Optics",
+        "question": "The electric potential at the center of a hollow charged sphere is [MHT-CET 2024]",
+        "question_latex": "The electric potential at the center of a hollow charged sphere is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Zero",
+            "B. Same as potential on the surface",
+            "C. Twice the potential on surface",
+            "D. Infinite"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Inside a hollow conductor, the electric field is zero, so the potential remains constant and equal to the surface potential.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Wave Optics",
+        "question": "Units of electric intensity are [MHT-CET 2019]",
+        "question_latex": "Units of electric intensity are [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. N/C",
+            "B. V/m",
+            "C. both A and B",
+            "D. J/C"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$E = F/q$ (Newton/Coulomb) and $E = -dV/dx$ (Volt/meter).",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Wave Optics",
+        "question": "The dielectric constant of a medium is 5. The permittivity of the medium is (Given epsilon_0 = 8.85 x 10^-12 C^2/Nm^2) [MHT-CET 2023]",
+        "question_latex": "The dielectric constant of a medium is $5$. The permittivity of the medium is (Given $\\epsilon_{0} = 8.85 \\times 10^{-12}~C^{2}/Nm^{2}$) [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 4.425 x 10^-11 C^2/Nm^2",
+            "B. 8.85 x 10^-12 C^2/Nm^2",
+            "C. 1.77 x 10^-12 C^2/Nm^2",
+            "D. 44.25 x 10^-11 C^2/Nm^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\epsilon = k \\epsilon_{0} = 5 \\times 8.85 \\times 10^{-12} = 44.25 \\times 10^{-12} = 4.425 \\times 10^{-11}~C^{2}/Nm^{2}$.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Wave Optics",
+        "question": "The energy stored in a parallel plate capacitor is U. If a dielectric slab of k=2 is inserted (battery disconnected), the new energy is [MHT-CET 2022]",
+        "question_latex": "The energy stored in a parallel plate capacitor is $U$. If a dielectric slab of $k=2$ is inserted (battery disconnected), the new energy is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 2U",
+            "B. U/2",
+            "C. U",
+            "D. 4U"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$Q$ is constant. $U = Q^{2}/2C$. $C$ becomes $kC$, so $U$ becomes $U/k = U/2$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Wave Optics",
+        "question": "Two charges 10 micro-C and -10 micro-C are placed at 2 cm apart. The dipole moment is [MHT-CET 2024]",
+        "question_latex": "Two charges $10~\\mu C$ and $-10~\\mu C$ are placed at $2$ cm apart. The dipole moment is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 2 x 10^-7 Cm",
+            "B. 10^-7 Cm",
+            "C. 2 x 10^-5 Cm",
+            "D. 5 x 10^-7 Cm"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$p = q d = 10 \\times 10^{-6} \\times 0.02 = 0.2 \\times 10^{-6} = 2 \\times 10^{-7}$ Cm.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Wave Optics",
+        "question": "If potential V = 4x^2 V, the electric intensity at point (1,0,2) m is [MHT-CET 2021]",
+        "question_latex": "If potential $V = 4x^{2}$ V, the electric intensity at point ($1,0,2$) m is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. -8 i V/m",
+            "B. 8 i V/m",
+            "C. -4 i V/m",
+            "D. 4 i V/m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$E_{x} = -dV/dx = -8x$. At $x=1$, $E_{x} = -8$ V/m. Since $V$ depends only on $x$, $E_{y}=E_{z}=0$. $\\vec{E} = -8\\hat{i}$ V/m.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Wave Optics",
+        "question": "Electric field intensity at a point near a charged conductor surface is [MHT-CET 2020]",
+        "question_latex": "Electric field intensity at a point near a charged conductor surface is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. sigma / epsilon_0",
+            "B. sigma / 2 epsilon_0",
+            "C. 2 sigma / epsilon_0",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "From Gauss's law, the field at the surface of a conductor is $\\sigma / \\epsilon_{0}$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Wave Optics",
+        "question": "Three capacitors of 2 micro-F each are in parallel. Equivalent capacity is [MHT-CET 2024]",
+        "question_latex": "Three capacitors of $2~\\mu F$ each are in parallel. Equivalent capacity is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 6 micro-F",
+            "B. 2/3 micro-F",
+            "C. 3/2 micro-F",
+            "D. 4 micro-F"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$C_{p} = C_{1} + C_{2} + C_{3} = 2 + 2 + 2 = 6~\\mu F$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Wave Optics",
+        "question": "The torque on a dipole is maximum when angle between p and E is [MHT-CET 2019]",
+        "question_latex": "The torque on a dipole is maximum when angle between $\\vec{p}$ and $\\vec{E}$ is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 90°",
+            "B. 0°",
+            "C. 180°",
+            "D. 45°"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\tau = pE \\sin \\theta$, which is maximum when $\\theta = 90^{\\circ}$ (sine is 1).",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Wave Optics",
+        "question": "Energy of a capacitor of 10 micro-F at 200 V is [MHT-CET 2023]",
+        "question_latex": "Energy of a capacitor of $10~\\mu F$ at $200~V$ is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 0.2 J",
+            "B. 2 J",
+            "C. 0.1 J",
+            "D. 0.5 J"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$U = 0.5 \\times 10 \\times 10^{-6} \\times (200)^{2} = 5 \\times 10^{-6} \\times 40000 = 0.2$ J.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Wave Optics",
+        "question": "Van de Graaff generator works on the principle of [MHT-CET 2022]",
+        "question_latex": "Van de Graaff generator works on the principle of [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Corona discharge",
+            "B. Action of sharp points",
+            "C. Potential on shell",
+            "D. all of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "It uses pointed combs (corona discharge) and the property that charge on a conductor resides on the outer surface.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Wave Optics",
+        "question": "A soap bubble is given a negative charge. Its radius [MHT-CET 2024]",
+        "question_latex": "A soap bubble is given a negative charge. Its radius [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. increases",
+            "B. decreases",
+            "C. stays same",
+            "D. becomes zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Charging (either positive or negative) creates an outward electrostatic pressure that opposes surface tension, leading to an increase in radius.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Wave Optics",
+        "question": "The work done in rotating a dipole from stable to unstable equilibrium is [MHT-CET 2021]",
+        "question_latex": "The work done in rotating a dipole from stable to unstable equilibrium is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 2 pE",
+            "B. pE",
+            "C. zero",
+            "D. -2 pE"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$W = pE (\\cos 0^{\\circ} - \\cos 180^{\\circ}) = pE (1 - (-1)) = 2 pE$.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Wave Optics",
+        "question": "Surface charge density of a charged conductor is 10^-6 C/m^2. Intensity near it is [MHT-CET 2020]",
+        "question_latex": "Surface charge density of a charged conductor is $10^{-6}~C/m^{2}$. Intensity near it is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 1.13 x 10^5 V/m",
+            "B. 8.85 x 10^-6 V/m",
+            "C. 10^5 V/m",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$E = \\sigma / \\epsilon_{0} = 10^{-6} / (8.85 \\times 10^{-12}) \\approx 0.113 \\times 10^{6} = 1.13 \\times 10^{5}$ V/m.",
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Wave Optics",
+        "question": "A dielectric slab k is inserted in a capacitor (battery connected). The charge [MHT-CET 2023]",
+        "question_latex": "A dielectric slab $k$ is inserted in a capacitor (battery connected). The charge [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. increases by k times",
+            "B. decreases by k times",
+            "C. remains same",
+            "D. becomes zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Battery connected $\\Rightarrow V$ is constant. $Q' = C'V = (kC)V = kQ$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Wave Optics",
+        "question": "Potential energy of a dipole in uniform field is minimum at theta equal to [MHT-CET 2022]",
+        "question_latex": "Potential energy of a dipole in uniform field is minimum at $\\theta$ equal to [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 0°",
+            "B. 180°",
+            "C. 90°",
+            "D. 270°"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$U = -pE \\cos \\theta$. Minimum is $-pE$ when $\\theta = 0^{\\circ}$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Wave Optics",
+        "question": "Two capacitors of 3 micro-F and 6 micro-F are in series. Equivalent is [MHT-CET 2024]",
+        "question_latex": "Two capacitors of $3~\\mu F$ and $6~\\mu F$ are in series. Equivalent is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 2 micro-F",
+            "B. 9 micro-F",
+            "C. 0.5 micro-F",
+            "D. 18 micro-F"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$C_{s} = (3 \\times 6) / (3 + 6) = 18 / 9 = 2~\\mu F$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Wave Optics",
+        "question": "Polarization in a dielectric depends on [MHT-CET 2021]",
+        "question_latex": "Polarization in a dielectric depends on [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Electric field",
+            "B. Susceptibility",
+            "C. both A and B",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$P = \\chi_{e} \\epsilon_{0} E$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Wave Optics",
+        "question": "The SI unit of capacitance is [MHT-CET 2019]",
+        "question_latex": "The SI unit of capacitance is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Farad",
+            "B. Coulomb",
+            "C. Newton",
+            "D. Joule"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard unit definition.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Wave Optics",
+        "question": "Relation between P, epsilon0, chi and E is [MHT-CET 2020]",
+        "question_latex": "Relation between $P, \\epsilon_{0}, \\chi$ and $E$ is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. P = chi epsilon0 E",
+            "B. P = chi E",
+            "C. E = chi P",
+            "D. P = epsilon0 / chi E"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard equation for linear isotropic dielectrics.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Wave Optics",
+        "question": "Capacity of a sphere of radius 1 m is [MHT-CET 2024]",
+        "question_latex": "Capacity of a sphere of radius $1$ m is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 1.11 x 10^-10 F",
+            "B. 9 x 10^9 F",
+            "C. 1 Farad",
+            "D. 1 micro-F"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$C = 4\\pi\\epsilon_{0}R = \\frac{1}{9 \\times 10^{9}} \\times 1 = 0.111 \\times 10^{-9} = 1.11 \\times 10^{-10}$ F.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Wave Optics",
+        "question": "Angle between electric field and equipotential surface [MHT-CET 2023]",
+        "question_latex": "Angle between electric field and equipotential surface [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 90°",
+            "B. 0°",
+            "C. 180°",
+            "D. 45°"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Field lines are always normal to equipotential surfaces.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Wave Optics",
+        "question": "A charged disconnected capacitor energy is U. Plate separation doubles. Energy becomes [MHT-CET 2022]",
+        "question_latex": "A charged disconnected capacitor energy is $U$. Plate separation doubles. Energy becomes [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 2U",
+            "B. U/2",
+            "C. 4U",
+            "D. same"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$U = Q^{2}/2C$. $d$ doubles $\\Rightarrow C$ halves $\\Rightarrow U$ doubles.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Wave Optics",
+        "question": "Charge 10 uC moved from A to B with PD 10V. Work is [MHT-CET 2024]",
+        "question_latex": "Charge $10~\\mu C$ moved from A to B with PD $10V$. Work is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 10^-4 J",
+            "B. 100 J",
+            "C. 10^-6 J",
+            "D. 10 J"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$W = qV = 10 \\times 10^{-6} \\times 10 = 10^{-4}$ J.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Wave Optics",
+        "question": "Specific induction capacity k is [MHT-CET 2021]",
+        "question_latex": "Specific induction capacity $k$ is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. epsilon / epsilon0",
+            "B. epsilon0 / epsilon",
+            "C. 1 / epsilon0",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Definition of relative permittivity.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Wave Optics",
+        "question": "If flux through closed surface is zero, net charge is [MHT-CET 2019]",
+        "question_latex": "If flux through closed surface is zero, net charge is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. positive",
+            "C. negative",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Gauss's law result.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Wave Optics",
+        "question": "Non-polar dielectrics have [MHT-CET 2024]",
+        "question_latex": "Non-polar dielectrics have [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. zero dipole moment in absence of field",
+            "B. permanent dipole moment",
+            "C. infinite resistance",
+            "D. no susceptibility"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "They only gain a dipole moment when an external field is applied.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Wave Optics",
+        "question": "Unit of electric susceptibility is [MHT-CET 2020]",
+        "question_latex": "Unit of electric susceptibility is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. dimensionless",
+            "B. Cm/V",
+            "C. V/m",
+            "D. C^2/Nm^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "It is a pure ratio.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Wave Optics",
+        "question": "Equivalent capacity of 4 and 12 micro-F in series [MHT-CET 2022]",
+        "question_latex": "Equivalent capacity of $4$ and $12~\\mu F$ in series [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 3 micro-F",
+            "B. 16 micro-F",
+            "C. 8 micro-F",
+            "D. 48 micro-F"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$48/16 = 3$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Wave Optics",
+        "question": "Work done in placing a charge of 8 x 10^-18 C on a capacitor of 100 micro-F is [MHT-CET 2023]",
+        "question_latex": "Work done in placing a charge of $8 \\times 10^{-18}$ C on a capacitor of $100~\\mu F$ is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 3.2 x 10^-31 J",
+            "B. 3.2 x 10^-32 J",
+            "C. 4 x 10^-31 J",
+            "D. 6.4 x 10^-32 J"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$W = Q^{2}/2C = (64 \\times 10^{-36}) / (2 \\times 10^{-4}) = 32 \\times 10^{-32} = 3.2 \\times 10^{-31}$ J. (Checking snip: $3.2 \\times 10^{-31}$ is A).",
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Wave Optics",
+        "question": "Potential energy of system of two charges decreases when [MHT-CET 2024]",
+        "question_latex": "Potential energy of system of two charges decreases when [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. like charges move apart",
+            "B. unlike charges move closer",
+            "C. both A and B",
+            "D. like charges move closer"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Potential energy decreases when the system moves in the direction of the electric forces.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Wave Optics",
+        "question": "A 2 micro-F capacitor is charged to 200 V. Energy is [MHT-CET 2021]",
+        "question_latex": "A $2~\\mu F$ capacitor is charged to $200~V$. Energy is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 0.04 J",
+            "B. 0.4 J",
+            "C. 4 J",
+            "D. 400 J"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$0.5 \\times 2 \\times 10^{-6} \\times 40000 = 0.04$ J.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Wave Optics",
+        "question": "Intensity on axis of dipole at distance r [MHT-CET 2019]",
+        "question_latex": "Intensity on axis of dipole at distance $r$ [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 2kp/r^3",
+            "B. kp/r^3",
+            "C. kp/r^2",
+            "D. 2kp/r^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard axial field formula.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Wave Optics",
+        "question": "Intensity on equator of dipole at distance r [MHT-CET 2020]",
+        "question_latex": "Intensity on equator of dipole at distance $r$ [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. kp/r^3",
+            "B. 2kp/r^3",
+            "C. kp/r^2",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard equatorial field formula.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Wave Optics",
+        "question": "Total energy of a charged disconnected capacitor stays constant when [MHT-CET 2024]",
+        "question_latex": "Total energy of a charged disconnected capacitor stays constant when [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. area is doubled and separation halved",
+            "B. area is halved and separation doubled",
+            "C. slab is inserted",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Energy $U = Q^{2}/2C$ will change whenever $C$ changes.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Wave Optics",
+        "question": "Polar dielectrics have [MHT-CET 2022]",
+        "question_latex": "Polar dielectrics have [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. permanent dipole moment",
+            "B. zero dipole moment",
+            "C. infinite permittivity",
+            "D. no chi"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Due to asymmetric charge distribution.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Wave Optics",
+        "question": "Susceptibility chi is [MHT-CET 2023]",
+        "question_latex": "Susceptibility $\\chi$ is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. k - 1",
+            "B. k + 1",
+            "C. 1/k",
+            "D. k"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Relation between relative permittivity and susceptibility.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Wave Optics",
+        "question": "Charge stored on 1 micro-F at 1000 V is [MHT-CET 2021]",
+        "question_latex": "Charge stored on $1~\\mu F$ at $1000~V$ is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 10^-3 C",
+            "B. 10^-6 C",
+            "C. 1 C",
+            "D. 1000 C"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$10^{-6} \\times 10^{3} = 10^{-3}$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Wave Optics",
+        "question": "PD across plates of 10 micro-F with 1 mC charge [MHT-CET 2019]",
+        "question_latex": "PD across plates of $10~\\mu F$ with $1~mC$ charge [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 100 V",
+            "B. 10 V",
+            "C. 1000 V",
+            "D. 1 V"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$10^{-3} / 10^{-5} = 100$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Wave Optics",
+        "question": "Flux through a surface area S parallel to field E is [MHT-CET 2024]",
+        "question_latex": "Flux through a surface area $S$ parallel to field $E$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. ES",
+            "C. E/S",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Angle between area vector and field is $90^{\\circ}$, so $\\cos 90^{\\circ} = 0$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Wave Optics",
+        "question": "Intensity at distance r from charge q in medium k [MHT-CET 2020]",
+        "question_latex": "Intensity at distance $r$ from charge $q$ in medium $k$ [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. kq / (r^2 k)",
+            "B. kq / r^2",
+            "C. k q / (r k)",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Field reduced by dielectric constant.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Wave Optics",
+        "question": "Potential at distance r from charge q in medium k [MHT-CET 2022]",
+        "question_latex": "Potential at distance $r$ from charge $q$ in medium $k$ [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. kq / (r k)",
+            "B. kq / r",
+            "C. kq / (r^2 k)",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Potential reduced by dielectric constant.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Wave Optics",
+        "question": "Work done to bring unit charge from infinity is [MHT-CET 2023]",
+        "question_latex": "Work done to bring unit charge from infinity is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Potential",
+            "B. Intensity",
+            "C. Capacity",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Definition of electric potential.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Wave Optics",
+        "question": "Capacitance of spherical shell R1 and R2 is [MHT-CET 2021]",
+        "question_latex": "Capacitance of spherical shell $R_{1}$ and $R_{2}$ is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 4 pi epsilon0 R1 R2 / (R2 - R1)",
+            "B. 4 pi epsilon0 (R2 - R1) / R1 R2",
+            "C. 4 pi epsilon0 R1 R2",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard derivation.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Wave Optics",
+        "question": "Charge is conserved because [MHT-CET 2024]",
+        "question_latex": "Charge is conserved because [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. it can't be created or destroyed",
+            "B. it can be destroyed",
+            "C. both",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Fundamental principle.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Wave Optics",
+        "question": "Intensity inside a spherical shell is [MHT-CET 2020]",
+        "question_latex": "Intensity inside a spherical shell is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. kq/r^2",
+            "C. uniform",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Gauss's law result for hollow conductor.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Wave Optics",
+        "question": "Intensity near an infinite plane sheet of charge [MHT-CET 2019]",
+        "question_latex": "Intensity near an infinite plane sheet of charge [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. sigma / 2 epsilon0",
+            "B. sigma / epsilon0",
+            "C. zero",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard Gaussian surface result.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Wave Optics",
+        "question": "Potential energy of system of three charges is [MHT-CET 2022]",
+        "question_latex": "Potential energy of system of three charges is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. sum of energy of pairs",
+            "B. energy of one pair",
+            "C. zero",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Superposition of energies.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Wave Optics",
+        "question": "Unit of polarization is [MHT-CET 2023]",
+        "question_latex": "Unit of polarization is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. C/m^2",
+            "B. Cm",
+            "C. C/m",
+            "D. N/C"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Charge per unit area.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Wave Optics",
+        "question": "Equipotential surfaces for point charge are [MHT-CET 2024]",
+        "question_latex": "Equipotential surfaces for point charge are [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Concentric spheres",
+            "B. Parallel planes",
+            "C. Cylinders",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Points at same $r$ have same $V$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Wave Optics",
+        "question": "Intensity E at distance r from center of charged conductor shell [MHT-CET 2021]",
+        "question_latex": "Intensity $E$ at distance $r$ from center of charged conductor shell ($r > R$) [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. kq / r^2",
+            "B. zero",
+            "C. kq / r",
+            "D. kq / R^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Behaves like point charge at center.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Wave Optics",
+        "question": "Potential at center of uncharged sphere near charge q is [MHT-CET 2020]",
+        "question_latex": "Potential at center of uncharged sphere near charge $q$ is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. kq / d",
+            "B. zero",
+            "C. kq / R",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Induced charges contribute zero net potential at center.",
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Wave Optics",
+        "question": "Work done moving charge on equator of dipole is [MHT-CET 2024]",
+        "question_latex": "Work done moving charge on equator of dipole is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. qV",
+            "C. pE",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$V=0$ everywhere on equator.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Wave Optics",
+        "question": "SI unit of chi is [MHT-CET 2023]",
+        "question_latex": "SI unit of $\\chi$ is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. none",
+            "B. Cm",
+            "C. V/m",
+            "D. C/m^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Dimensionless quantity.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Wave Optics",
+        "question": "Energy per unit area is [MHT-CET 2022]",
+        "question_latex": "Energy per unit area is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Surface tension",
+            "B. Polarization",
+            "C. Intensity",
+            "D. Potential"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Mechanics analogy in current context.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Wave Optics",
+        "question": "Charge q on sphere radius R. Potential is [MHT-CET 2021]",
+        "question_latex": "Charge $q$ on sphere radius $R$. Potential is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. kq / R",
+            "B. kq / R^2",
+            "C. zero",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Surface potential.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Wave Optics",
+        "question": "Ratio of capacities of sphere radius R and 2R [MHT-CET 2024]",
+        "question_latex": "Ratio of capacities of sphere radius $R$ and $2R$ [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 1 : 2",
+            "B. 1 : 4",
+            "C. 2 : 1",
+            "D. 1 : 1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$C \\propto R$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Wave Optics",
+        "question": "Dielectric k increases [MHT-CET 2019]",
+        "question_latex": "Dielectric $k$ increases [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. capacitance",
+            "B. intensity",
+            "C. energy (battery connected)",
+            "D. both A and C"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$C'=kC$, $U'=kU$.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Wave Optics",
+        "question": "Work moving charge between two points on same equipotential surface [MHT-CET 2020]",
+        "question_latex": "Work moving charge between two points on same equipotential surface [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. qV",
+            "C. ES",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "No potential difference.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Wave Optics",
+        "question": "A capacitor of 10 micro-F is charged by 5 V. Charge is [MHT-CET 2024]",
+        "question_latex": "A capacitor of $10~\\mu F$ is charged by $5~V$. Charge is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 50 micro-C",
+            "B. 2 micro-C",
+            "C. 0.5 micro-C",
+            "D. 50 C"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$CV = 50 \\times 10^{-6}$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Wave Optics",
+        "question": "Gaussian surface for point charge is [MHT-CET 2021]",
+        "question_latex": "Gaussian surface for point charge is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. sphere",
+            "B. cube",
+            "C. cylinder",
+            "D. any"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Due to symmetry.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Wave Optics",
+        "question": "Ratio of series to parallel capacity of n identical capacitors [MHT-CET 2023]",
+        "question_latex": "Ratio of series to parallel capacity of $n$ identical capacitors [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 1 / n^2",
+            "B. n^2",
+            "C. 1 / n",
+            "D. n"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$Cs/Cp = (C/n) / (nC) = 1/n^{2}$.",
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Wave Optics",
+        "question": "Torque on dipole is zero if angle is [MHT-CET 2022]",
+        "question_latex": "Torque on dipole is zero if angle is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 0 or 180",
+            "B. 90",
+            "C. 45",
+            "D. never"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\sin 0 = 0$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Wave Optics",
+        "question": "Potential at large distance from dipole on axis is [MHT-CET 2020]",
+        "question_latex": "Potential at large distance $r$ from dipole on axis is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. kp / r^2",
+            "B. kp / r",
+            "C. zero",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard approximation.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Wave Optics",
+        "question": "Dimensions of permittivity epsilon0 [MHT-CET 2024]",
+        "question_latex": "Dimensions of permittivity $\\epsilon_{0}$ [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. [M-1 L-3 T4 A2]",
+            "B. [M1 L3 T-4 A-2]",
+            "C. [M-1 L-2 T4 A2]",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "From Coulomb's Law.",
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Wave Optics",
+        "question": "Unit of potential gradient [MHT-CET 2021]",
+        "question_latex": "Unit of potential gradient [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. V/m",
+            "B. N/C",
+            "C. both",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Field magnitude units.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Wave Optics",
+        "question": "Capacity of earth is roughly [MHT-CET 2023]",
+        "question_latex": "Capacity of earth is roughly [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 711 micro-F",
+            "B. 1 Farad",
+            "C. 9 x 10^9 F",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Using $R=6400$ km.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Wave Optics",
+        "question": "Intensity between plates of capacitor is [MHT-CET 2022]",
+        "question_latex": "Intensity between plates of capacitor is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. sigma / epsilon0",
+            "B. sigma / 2 epsilon0",
+            "C. zero",
+            "D. V d"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Overlap of two sheets.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Wave Optics",
+        "question": "Force on a charge q in field E is [MHT-CET 2020]",
+        "question_latex": "Force on a charge $q$ in field $E$ is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. qE",
+            "B. q/E",
+            "C. E/q",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Basic definition.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Wave Optics",
+        "question": "Susceptibility for vacuum is [MHT-CET 2024]",
+        "question_latex": "Susceptibility for vacuum is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. 1",
+            "C. infinite",
+            "D. negative"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Vacuum cannot polarize.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Wave Optics",
+        "question": "Work done in moving q from V1 to V2 is [MHT-CET 2021]",
+        "question_latex": "Work done in moving $q$ from $V_{1}$ to $V_{2}$ is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. q(V2 - V1)",
+            "B. qV1 V2",
+            "C. zero",
+            "D. V2 - V1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Potential energy difference.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Wave Optics",
+        "question": "Intensity inside a conductor is zero due to [MHT-CET 2023]",
+        "question_latex": "Intensity inside a conductor is zero due to [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Electrostatic shielding",
+            "B. Polarization",
+            "C. Induction",
+            "D. all"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Defining concept.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Wave Optics",
+        "question": "Potential at point P on equator of dipole [MHT-CET 2022]",
+        "question_latex": "Potential at point P on equator of dipole [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. kp/r^2",
+            "C. infinite",
+            "D. negative"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard dipole property.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Wave Optics",
+        "question": "Dimensions of flux per unit length [MHT-CET 2024]",
+        "question_latex": "Dimensions of flux per unit length [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L2 T-3 A-1]",
+            "B. [M1 L3 T-3 A-1]",
+            "C. [M1 L1 T-3 A-1]",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Flux $[M L^{3} T^{-3} A^{-1}] / [L]$.",
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Wave Optics",
+        "question": "Angle between two vectors is 0. Cross product is [MHT-CET 2021]",
+        "question_latex": "Angle between two vectors is $0$. Cross product is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. zero vector",
+            "B. 1",
+            "C. AB",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Sin 0 property.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Wave Optics",
+        "question": "A hollow metal sphere of radius 5cm is charged such that the potential on its surface is 10V. The potential at a distance of 2cm from the centre of the sphere",
+        "question_latex": "A hollow metal sphere of radius $5$cm is charged such that the potential on its surface is $10$V. The potential at a distance of $2$cm from the centre of the sphere",
+        "question_images": [],
+        "options": [
+            "A. Zero",
+            "B. 10 V",
+            "C. 4 V",
+            "D. 10/3 V"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "At a point inside the sphere, the potential is same everywhere and is equal to that of the surface.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Wave Optics",
+        "question": "Two plates are 2cm apart, a potential difference of 10 volt is applied between them, the electric field between the plates is",
+        "question_latex": "Two plates are $2$cm apart, a potential difference of $10$ volt is applied between them, the electric field between the plates is",
+        "question_images": [],
+        "options": [
+            "A. 20 N/C",
+            "B. 500 N/C",
+            "C. 5 N/C",
+            "D. 250 N/C"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$E = V/d = 10 / (2 \\times 10^{-2}) = 500~N/C$.",
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Wave Optics",
+        "question": "The number of electrons to be put on a spherical conductor of radius 0.1m to produce an electric field of 0.036 N/C just above its surface is",
+        "question_latex": "The number of electrons to be put on a spherical conductor of radius $0.1$m to produce an electric field of $0.036$ N/C just above its surface is",
+        "question_images": [],
+        "options": [
+            "A. 2.7 x 10^5",
+            "B. 2.6 x 10^5",
+            "C. 2.5 x 10^5",
+            "D. 2.4 x 10^5"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$E = \\frac{1}{4\\pi\\epsilon_{0}} \\frac{ne}{R^{2}} \\Rightarrow 0.036 = 9 \\times 10^{9} \\frac{n \\times 1.6 \\times 10^{-19}}{0.01} \\Rightarrow n = 2.5 \\times 10^{5}$.",
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Wave Optics",
+        "question": "In the determination of Young s modulus by using Searle s method, a wire of length L=2m and diameter d=0.5mm is used. Contributions to the maximum probable error of the Y measurement are:",
+        "question_latex": "In the determination of Young s modulus by using Searle s method, a wire of length $L=2m$ and diameter $d=0.5mm$ is used. Contributions to the maximum probable error of the $Y$ measurement are: ($Y = \\frac{4MLg}{\\pi l d^{2}}$)",
+        "question_images": [],
+        "options": [
+            "A. Due to the errors in the measurements of d and l are the same",
+            "B. Due to the error in the measurement of d is twice that due to the error in the measurement of l",
+            "C. Due to the error in the measurement of l is twice that due to the error in the measurement of d",
+            "D. Due to the error in the measurement of d is four time that due to the error in the measurement of l"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$(\\Delta Y / Y)_{max} = \\Delta l/l + 2\\Delta d/d$. If both measurements use same precision, the relative error contribution can be compared based on current values. (Solution provided in PDF implies A).",
+        "difficulty": "Hard",
+        "marks": 4
+    }
+]

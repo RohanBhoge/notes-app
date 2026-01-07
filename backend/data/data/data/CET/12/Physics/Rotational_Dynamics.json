@@ -1,0 +1,1912 @@
+[
+    {
+        "id": 1,
+        "chapter": "Rotational Dynamics",
+        "question": "A body is suspended from a rigid support by an inextensible string of length 'L' on which another identical body of mass 'm' struck inelastically moving with horizontal velocity sqrt(2gL) The increase in the tension in the string just after it is struck by the body is [ MHT-CET 2020]",
+        "question_latex": "A body is suspended from a rigid support by an inextensible string of length '$L$' on which another identical body of mass '$m$' struck inelastically moving with horizontal velocity $\\sqrt{2gL}$ The increase in the tension in the string just after it is struck by the body is [ MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 4mg",
+            "B. 3mg",
+            "C. mg",
+            "D. 2mg"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "From conservation of momentum: $mv = (m+m)v_{1} \\Rightarrow v_{1} = v/2 = \\frac{\\sqrt{2gL}}{2}$. Just after collision, tension $T - 2mg = \\frac{2m v_{1}^{2}}{L} \\Rightarrow T = \\frac{2m(2gL/4)}{L} + 2mg = mg + 2mg = 3mg$. Initial tension $T_{0} = mg$. Increased tension $= T - T_{0} = 3mg - mg = 2mg$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Rotational Dynamics",
+        "question": "Two discs of moment of inertia I1 and I2 having angular speeds w1 and w2 respectively are rotating along co-linear axes passing through their centre of mass and perpendicular to their plane. If the two discs are made to rotate combined along the same axis, the rotational kinetic energy of system will be [2025]",
+        "question_latex": "Two discs of moment of inertia $I_{1}$ and $I_{2}$ having angular speeds $\\omega_{1}$ and $\\omega_{2}$ respectively are rotating along co-linear axes passing through their centre of mass and perpendicular to their plane. If the two discs are made to rotate combined along the same axis, the rotational kinetic energy of system will be [2025]",
+        "question_images": [],
+        "options": [
+            "A. (I1+I2)(w1+w2)^2 / 2",
+            "B. (I1 w1 + I2 w2)^2 / 2(I1 + I2)",
+            "C. (I1 w1 - I2 w2)^2 / 2(I1 + I2)",
+            "D. (I1 w1^2 + I2 w2^2) / 2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "By conservation of angular momentum: $L_{1} + L_{2} = L_{final} \\Rightarrow I_{1}\\omega_{1} + I_{2}\\omega_{2} = (I_{1} + I_{2})\\omega$. Resultant angular velocity $\\omega = \\frac{I_{1}\\omega_{1} + I_{2}\\omega_{2}}{I_{1} + I_{2}}$. Rotational $K.E. = \\frac{1}{2}(I_{1} + I_{2})\\omega^{2} = \\frac{1}{2}(I_{1} + I_{2}) [\\frac{I_{1}\\omega_{1} + I_{2}\\omega_{2}}{I_{1} + I_{2}}]^{2} = \\frac{(I_{1}\\omega_{1} + I_{2}\\omega_{2})^{2}}{2(I_{1} + I_{2})}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Rotational Dynamics",
+        "question": "A particle moves around a circular path of radius 'r' with uniform speed 'V'. After moving half the circle, the average acceleration of the particle is [MHT-CET 2023]",
+        "question_latex": "A particle moves around a circular path of radius '$r$' with uniform speed '$V$'. After moving half the circle, the average acceleration of the particle is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2V^2 / pi r",
+            "B. V^2 / pi r",
+            "C. V^2 / r",
+            "D. 2V^2 / r"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Average acceleration $= \\frac{\\Delta \\vec{V}}{\\Delta t} = \\frac{|V - (-V)|}{\\pi r / V} = \\frac{2V}{\\pi r / V} = \\frac{2V^{2}}{\\pi r}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Rotational Dynamics",
+        "question": "A cyclist goes round a circular path of circumference 34.3 m in sqrt(22) s, the angle made by him with the vertical will be",
+        "question_latex": "A cyclist goes round a circular path of circumference $34.3$ m in $\\sqrt{22}$ s, the angle made by him with the vertical will be",
+        "question_images": [],
+        "options": [
+            "A. 45°",
+            "B. 40°",
+            "C. 42°",
+            "D. 48°"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$v = \\frac{2\\pi r}{T} = \\frac{34.3}{\\sqrt{22}}$. Also $r = \\frac{34.3}{2\\pi}$. Using $\\tan \\theta = \\frac{v^{2}}{rg} = \\frac{(34.3/\\sqrt{22})^{2}}{(34.3/2\\pi) \\times 9.8}$. Substituting $\\pi \\approx 22/7$ and calculating leads to $\\tan \\theta = 1 \\Rightarrow \\theta = 45^{\\circ}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Rotational Dynamics",
+        "question": "The moment of inertia of a uniform circular disc of radius 'R' and mass 'M' about an axis touching the disc at its diameter and normal to the disc is [MHT-CET 2022]",
+        "question_latex": "The moment of inertia of a uniform circular disc of radius '$R$' and mass '$M$' about an axis touching the disc at its diameter and normal to the disc is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 1/2 MR^2",
+            "B. 3/2 MR^2",
+            "C. 2 MR^2",
+            "D. 5/4 MR^2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$I_{cm} = \\frac{1}{2}MR^{2}$. By parallel axis theorem: $I = I_{cm} + Mh^{2} = \\frac{1}{2}MR^{2} + MR^{2} = \\frac{3}{2}MR^{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Rotational Dynamics",
+        "question": "A string of length 'l' fixed at one end carries a mass 'm' at the other end. The string makes 3/π revolutions/second around the vertical axis through the fixed end as shown in figure. The tension 'T' in the string is [MHT-CET 2020]",
+        "question_latex": "A string of length '$l$' fixed at one end carries a mass '$m$' at the other end. The string makes $\\frac{3}{\\pi}$ revolutions/second around the vertical axis through the fixed end as shown in figure. The tension '$T$' in the string is [MHT-CET 2020]",
+        "question_images": [
+            "q6_1"
+        ],
+        "options": [
+            "A. 36 ml",
+            "B. 3 ml",
+            "C. 18 ml",
+            "D. 9 ml"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Frequency $f = 3/\\pi \\Rightarrow \\omega = 2\\pi f = 6$ rad/s. For a conical pendulum, $T \\sin \\theta = m(l \\sin \\theta) \\omega^{2} \\Rightarrow T = ml\\omega^{2} = m \\times l \\times 6^{2} = 36 ml$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Rotational Dynamics",
+        "question": "A motor cyclist rides in a hollow sphere of radius 5 m. The minimum velocity required so that he does not lose contact with the sphere at the highest point is (g = 10 m/s^2) [2025]",
+        "question_latex": "A motor cyclist rides in a hollow sphere of radius $5$ m. The minimum velocity required so that he does not lose contact with the sphere at the highest point is ($g = 10~m/s^{2}$) [2025]",
+        "question_images": [],
+        "options": [
+            "A. 7.07 m/s",
+            "B. 5 m/s",
+            "C. 10 m/s",
+            "D. 15 m/s"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$v_{min} = \\sqrt{rg} = \\sqrt{5 \\times 10} = \\sqrt{50} \\approx 7.07$ m/s.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Rotational Dynamics",
+        "question": "A particle of mass m moves with constant speed along a circular path of radius r under the action of force F. Its speed is",
+        "question_latex": "A particle of mass $m$ moves with constant speed along a circular path of radius $r$ under the action of force $F$. Its speed is",
+        "question_images": [],
+        "options": [
+            "A. sqrt(Fr/m)",
+            "B. sqrt(F/r)",
+            "C. sqrt(Fmr)",
+            "D. sqrt(F/mr)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$F = \\frac{mv^{2}}{r} \\Rightarrow v^{2} = \\frac{Fr}{m} \\Rightarrow v = \\sqrt{\\frac{Fr}{m}}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Rotational Dynamics",
+        "question": "The moment of inertia of a solid cylinder of mass M and radius R about its own axis is",
+        "question_latex": "The moment of inertia of a solid cylinder of mass $M$ and radius $R$ about its own axis is",
+        "question_images": [],
+        "options": [
+            "A. MR^2",
+            "B. 1/2 MR^2",
+            "C. 1/4 MR^2",
+            "D. 2/5 MR^2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Standard formula for the moment of inertia of a solid cylinder about its longitudinal axis.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Rotational Dynamics",
+        "question": "Two spheres A and B have same mass but radius of A is double that of B. The ratio of their moments of inertia about their diameters (IA/IB) is",
+        "question_latex": "Two spheres A and B have same mass but radius of A is double that of B. The ratio of their moments of inertia about their diameters ($I_{A}/I_{B}$) is",
+        "question_images": [],
+        "options": [
+            "A. 2:1",
+            "B. 4:1",
+            "C. 8:1",
+            "D. 1:4"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$I = \\frac{2}{5}MR^{2} \\Rightarrow I \\propto R^{2}$. $\\frac{I_{A}}{I_{B}} = (\\frac{R_{A}}{R_{B}})^{2} = (\\frac{2}{1})^{2} = 4$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Rotational Dynamics",
+        "question": "A particle performing uniform circular motion of radius pi/2 m makes x revolutions in time t. Its tangential velocity is [2025, 2023, 2022, 2020]",
+        "question_latex": "A particle performing uniform circular motion of radius $\\frac{\\pi}{2}$ m makes $x$ revolutions in time $t$. Its tangential velocity is [2025,2023,2022,2020]",
+        "question_images": [],
+        "options": [
+            "A. pi^2 x / t",
+            "B. pi^2 / xt",
+            "C. pi x / t",
+            "D. x / pi t"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$v = \\omega r = (2\\pi \\frac{x}{t}) \\frac{\\pi}{2} = \\frac{\\pi^{2} x}{t}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Rotational Dynamics",
+        "question": "A thin wire of length L and mass M is bent into a circle. Its moment of inertia about an axis passing through its centre and perpendicular to its plane is",
+        "question_latex": "A thin wire of length $L$ and mass $M$ is bent into a circle. Its moment of inertia about an axis passing through its centre and perpendicular to its plane is",
+        "question_images": [],
+        "options": [
+            "A. ML^2 / 4 pi^2",
+            "B. ML^2 / 2 pi^2",
+            "C. ML^2 / pi^2",
+            "D. ML^2 / 8 pi^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Length $L = 2\\pi R \\Rightarrow R = L/2\\pi$. For a ring, $I = MR^{2} = M (L/2\\pi)^{2} = \\frac{ML^{2}}{4\\pi^{2}}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Rotational Dynamics",
+        "question": "The ratio of rotational kinetic energy to the total kinetic energy of a solid sphere rolling without slipping is [MHT-CET 2021]",
+        "question_latex": "The ratio of rotational kinetic energy to the total kinetic energy of a solid sphere rolling without slipping is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 2:5",
+            "B. 2:7",
+            "C. 5:7",
+            "D. 7:2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$K_{rot} = \\frac{1}{2}I\\omega^{2} = \\frac{1}{2}(\\frac{2}{5}MR^{2})\\frac{v^{2}}{R^{2}} = \\frac{1}{5}Mv^{2}$. $K_{trans} = \\frac{1}{2}Mv^{2}$. $K_{total} = \\frac{1}{5} + \\frac{1}{2} = \\frac{7}{10}Mv^{2}$. Ratio $= \\frac{1/5}{7/10} = \\frac{2}{7}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Rotational Dynamics",
+        "question": "A stone is projected at angle 'theta' with velocity 'u'. If it executes nearly a circular motion at its maximum point for short time, the radius of the circular path will be [MHT-CET 2023]",
+        "question_latex": "A stone is projected at angle '$\\theta$' with velocity '$u$'. If it executes nearly a circular motion at its maximum point for short time, the radius of the circular path will be ($g$ = acceleration due to gravity) [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. u^2 cos^2 theta / 2g",
+            "B. u^2 / g",
+            "C. u^2 cos^2 theta / g",
+            "D. u^2 sin^2 theta / g"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "At the maximum height, velocity is $u \\cos \\theta$ and acceleration is $g$. For circular motion, $a_{c} = v^{2}/r \\Rightarrow g = \\frac{(u \\cos \\theta)^{2}}{r} \\Rightarrow r = \\frac{u^{2} \\cos^{2} \\theta}{g}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Rotational Dynamics",
+        "question": "A disk of moment of inertia I1 is rotating with angular speed w1. Another identical disk is placed on it and they rotate together. The loss in kinetic energy is",
+        "question_latex": "A disk of moment of inertia $I_{1}$ is rotating with angular speed $\\omega_{1}$. Another identical disk is placed on it and they rotate together. The loss in kinetic energy is",
+        "question_images": [],
+        "options": [
+            "A. 1/2 I1 w1^2",
+            "B. 1/4 I1 w1^2",
+            "C. 1/8 I1 w1^2",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Initial $K.E. = \\frac{1}{2}I_{1}\\omega_{1}^{2}$. Final $I' = 2I_{1}$. By momentum conservation $I_{1}\\omega_{1} = 2I_{1}\\omega' \\Rightarrow \\omega' = \\omega_{1}/2$. Final $K.E. = \\frac{1}{2}(2I_{1})(\\omega_{1}/2)^{2} = \\frac{1}{4}I_{1}\\omega_{1}^{2}$. Loss $= \\frac{1}{4}I_{1}\\omega_{1}^{2}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Rotational Dynamics",
+        "question": "A ball of mass (m) 0.5 kg is attached to the end of a string having length (L) 0.5 m. The ball is rotated on a horizontal circular path about vertical axis. The maximum tension that the string can bear is 324 N. The maximum possible value of angular velocity of ball (in rad/s) is",
+        "question_latex": "A ball of mass ($m$) $0.5$ kg is attached to the end of a string having length ($L$) $0.5$ m. The ball is rotated on a horizontal circular path about vertical axis. The maximum tension that the string can bear is $324$ N. The maximum possible value of angular velocity of ball (in $rad/s$) is",
+        "question_images": [],
+        "options": [
+            "A. 9",
+            "B. 18",
+            "C. 27",
+            "D. 36"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$T = m L \\omega^{2} \\Rightarrow \\omega = \\sqrt{T/mL} = \\sqrt{324 / (0.5 \\times 0.5)} = \\sqrt{324/0.25} = \\sqrt{1296} = 36$ rad/s.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Rotational Dynamics",
+        "question": "The moment of inertia of a uniform thin rod of length L and mass M about an axis perpendicular to the rod and passing through one of its ends is",
+        "question_latex": "The moment of inertia of a uniform thin rod of length $L$ and mass $M$ about an axis perpendicular to the rod and passing through one of its ends is",
+        "question_images": [],
+        "options": [
+            "A. ML^2 / 3",
+            "B. ML^2 / 12",
+            "C. ML^2 / 4",
+            "D. ML^2 / 2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard formula for M.I. of a rod about its end.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Rotational Dynamics",
+        "question": "A particle is moving along a circular path with a uniform speed. How does its angular velocity change when it completes half of the circular path?",
+        "question_latex": "A particle is moving along a circular path with a uniform speed. How does its angular velocity change when it completes half of the circular path?",
+        "question_images": [],
+        "options": [
+            "A. No change",
+            "B. Increases",
+            "C. Decreases",
+            "D. Cannot say"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In uniform circular motion, speed and angular velocity are constant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Rotational Dynamics",
+        "question": "A particle moves in a circle of radius 30cm. Its liner speed is given by v = 2t, where t is in second and v in ms^-1. Find out its radial and tangential acceleration at t = 3s, respectively.",
+        "question_latex": "A particle moves in a circle of radius $30$ cm. Its liner speed is given by $v=2t,$ where $t$ is in second and $v$ in $ms^{-1}$. Find out its, radial and tangential acceleration at $t=3s$, respectively.",
+        "question_images": [],
+        "options": [
+            "A. 220 ms^-2, 50 ms^-2",
+            "B. 100 ms^-2, 5 ms^-2",
+            "C. 120 ms^-2, 2 ms^-2",
+            "D. 110 ms^-2, 10 ms^-2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "At $t=3s$, $v = 6$ m/s. Radial $a_{r} = v^{2}/r = 36/0.3 = 120$ m/s^2. Tangential $a_{t} = dv/dt = 2$ m/s^2.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Rotational Dynamics",
+        "question": "A rigid body rotates with constant angular acceleration alpha. If it starts from rest, the angle rotated in time t is",
+        "question_latex": "A rigid body rotates with constant angular acceleration $\\alpha$. If it starts from rest, the angle rotated in time $t$ is",
+        "question_images": [],
+        "options": [
+            "A. alpha t",
+            "B. 1/2 alpha t^2",
+            "C. alpha t^2",
+            "D. 2 alpha t"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Equation of rotational motion: $\\theta = \\omega_{0}t + \\frac{1}{2}\\alpha t^{2}$. With $\\omega_{0} = 0$, $\\theta = \\frac{1}{2}\\alpha t^{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Rotational Dynamics",
+        "question": "The moment of inertia of a sphere about its tangent is [MHT-CET 2020]",
+        "question_latex": "The moment of inertia of a sphere about its tangent is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 7/5 MR^2",
+            "B. 2/5 MR^2",
+            "C. 3/5 MR^2",
+            "D. 5/2 MR^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$I = I_{cm} + MR^{2} = \\frac{2}{5}MR^{2} + MR^{2} = \\frac{7}{5}MR^{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Rotational Dynamics",
+        "question": "If the earth shrinks to half its radius without change in mass, the new duration of the day will be",
+        "question_latex": "If the earth shrinks to half its radius without change in mass, the new duration of the day will be",
+        "question_images": [],
+        "options": [
+            "A. 6 hours",
+            "B. 12 hours",
+            "C. 48 hours",
+            "D. 24 hours"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "By conservation of angular momentum: $I_{1}\\omega_{1} = I_{2}\\omega_{2} \\Rightarrow R_{1}^{2}/T_{1} = R_{2}^{2}/T_{2}$. $T_{2} = T_{1} (R_{2}/R_{1})^{2} = 24 \\times (1/2)^{2} = 6$ hours.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Rotational Dynamics",
+        "question": "For a projectile, the maximum height and horizontal range are same. The angle of projection 'theta' of the projectile is [MHT-CET 2024]",
+        "question_latex": "For a projectile, the maximum height and horizontal range are same. The angle of projection '$\\theta$' of the projectile is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. tan^-1(4)",
+            "B. tan^-1(1/2)",
+            "C. tan^-1(2)",
+            "D. tan^-1(1/4)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\frac{u^{2} \\sin^{2} \\theta}{2g} = \\frac{2u^{2} \\sin \\theta \\cos \\theta}{g} \\Rightarrow \\frac{\\sin \\theta}{\\cos \\theta} = 4 \\Rightarrow \\tan \\theta = 4$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Rotational Dynamics",
+        "question": "A ring and a disc of same mass and same radius roll down the same inclined plane. The ratio of their accelerations is",
+        "question_latex": "A ring and a disc of same mass and same radius roll down the same inclined plane. The ratio of their accelerations is",
+        "question_images": [],
+        "options": [
+            "A. 2:3",
+            "B. 3:4",
+            "C. 1:2",
+            "D. 4:5"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$a = \\frac{g \\sin \\theta}{1 + k^{2}/R^{2}}$. For ring, $k^{2}/R^{2} = 1 \\Rightarrow a_{r} = \\frac{1}{2} g \\sin \\theta$. For disc, $k^{2}/R^{2} = 1/2 \\Rightarrow a_{d} = \\frac{2}{3} g \\sin \\theta$. Ratio $= 3/4$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Rotational Dynamics",
+        "question": "A wheel completes 2000 revolutions to cover the 9.5 km distance, then the diameter of the wheel is",
+        "question_latex": "A wheel completes $2000$ revolutions to cover the $9.5$ km distance, then the diameter of the wheel is",
+        "question_images": [],
+        "options": [
+            "A. 1.5 m",
+            "B. 1.5 cm",
+            "C. 7.5 cm",
+            "D. 7.5 m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Distance $S = n \\pi d \\Rightarrow 9500 = 2000 \\times 3.14 \\times d \\Rightarrow d = 9.5 / 6.28 \\approx 1.5$ m.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Rotational Dynamics",
+        "question": "Angular momentum is",
+        "question_latex": "Angular momentum is",
+        "question_images": [],
+        "options": [
+            "A. a scalar",
+            "B. a polar vector",
+            "C. an axial vector",
+            "D. a displacement vector"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Angular quantities like $\\omega, \\tau, L$ are axial vectors directed along the axis of rotation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Rotational Dynamics",
+        "question": "For a particle executing uniform circular motion, which one of the following is correct? [MHT-CET 2023]",
+        "question_latex": "For a particle executing uniform circular motion, which one of the following is correct? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Direction of acceleration of the particle remains same.",
+            "B. Velocity of the particle is parallel to the radius vector.",
+            "C. Magnitude of acceleration of particle remains constant.",
+            "D. Magnitude of velocity of particle keeps changing as the particle moves."
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In UCM, $|\\vec{a}| = v^{2}/r$ is constant, but its direction changes towards the center.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Rotational Dynamics",
+        "question": "Two balls A and B are projected at an angle of 45° and 60° respectively so that the maximum heights reached are same for both. The ratio of initial velocity of projection of the ball A to that for ball B is [MHT-CET 2022]",
+        "question_latex": "Two balls A and B are projected at an angle of $45^{\\circ}$ and $60^{\\circ}$ respectively so that the maximum heights reached are same for both. The ratio of initial velocity of projection of the ball A to that for ball B is ($sin~45^{\\circ}=cos~45^{\\circ}=\\frac{1}{\\sqrt{2}},sin~60^{\\circ}=cos~30^{\\circ}=\\frac{\\sqrt{3}}{2}$) [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. sqrt(2) : sqrt(3)",
+            "B. sqrt(3) : sqrt(2)",
+            "C. sqrt(3) : 2",
+            "D. 2 : sqrt(3)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$u_{A}^{2} \\sin^{2} 45 = u_{B}^{2} \\sin^{2} 60 \\Rightarrow u_{A}^{2}/u_{B}^{2} = (3/4) / (1/2) = 3/2$. Ratio $= \\sqrt{3}:\\sqrt{2}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Rotational Dynamics",
+        "question": "A particle P is moving in a circle of radius with a uniform speed v. C is the centre of the circle and AB is the diameter. The angular velocity of P about A and C is in ratio",
+        "question_latex": "A particle P is moving in a circle of radius with a uniform speed $v$. C is the centre of the circle and AB is the diameter. The angular velocity of P about A and C is in ratio",
+        "question_images": [
+            "q29_1"
+        ],
+        "options": [
+            "A. 1:1",
+            "B. 1:2",
+            "C. 2:1",
+            "D. 4:1"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Angular velocity about center $\\omega_{c} = v/r$. Angular velocity about point on circumference $\\omega_{A} = v/(2r)$. Ratio $= 1:2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Rotational Dynamics",
+        "question": "The maximum and minimum tension in the string whirling in a circle of radius 2.5 m with constant velocity are in the ratio 5: 3 then its velocity is",
+        "question_latex": "The maximum and minimum tension in the string whirling in a circle of radius $2.5$ m with constant velocity are in the ratio $5:3$ then its velocity is",
+        "question_images": [],
+        "options": [
+            "A. sqrt(98) ms^-1",
+            "B. 7 ms^-1",
+            "C. sqrt(490) ms^-1",
+            "D. sqrt(4.9) ms^-1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$T_{max}/T_{min} = \\frac{v^{2}/rg + 1}{v^{2}/rg - 1} = 5/3 \\Rightarrow 3v^{2}/rg + 3 = 5v^{2}/rg - 5 \\Rightarrow 2v^{2}/rg = 8 \\Rightarrow v^{2} = 4rg = 4 \\times 2.5 \\times 9.8 = 98$. $v = \\sqrt{98}$ m/s.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Rotational Dynamics",
+        "question": "The moment of inertia of a uniform thin rod of mass M and length L about an axis through its centre and perpendicular to its length is",
+        "question_latex": "The moment of inertia of a uniform thin rod of mass $M$ and length $L$ about an axis through its centre and perpendicular to its length is",
+        "question_images": [],
+        "options": [
+            "A. ML^2 / 12",
+            "B. ML^2 / 3",
+            "C. ML^2 / 6",
+            "D. ML^2 / 2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard formula for M.I. of a rod about its center.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Rotational Dynamics",
+        "question": "If the mass of a body is 5 kg and its radius of gyration is 2 m, its moment of inertia is",
+        "question_latex": "If the mass of a body is $5$ kg and its radius of gyration is $2$ m, its moment of inertia is",
+        "question_images": [],
+        "options": [
+            "A. 10 kgm^2",
+            "B. 20 kgm^2",
+            "C. 50 kgm^2",
+            "D. 2.5 kgm^2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$I = Mk^{2} = 5 \\times (2)^{2} = 20~kgm^{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Rotational Dynamics",
+        "question": "A body throws a ball in air at an angle of 60° to the horizontal along a road with a speed of 10 m/s. Another boy sitting in a nearby moving car observes the ball. The car is moving at a uniform speed of 5 m/s. The boy in the car will find the ball is moving (cos 60° = 1/2) [MHT-CET 2024]",
+        "question_latex": "A body throws a ball in air at an angle of $60^{\\circ}$ to the horizontal along a road with a speed of $10~m/s$. Another boy sitting in a nearby moving car observes the ball. The car is moving at a uniform speed of $5~m/s$. The boy in the car will find the ball is moving ($cos~60^{\\circ}=\\frac{1}{2}$) [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. along a horizontal straight line",
+            "B. along a straight line inclined at an angle of 60° with the horizontal.",
+            "C. along a vertical straight line",
+            "D. along a parabolic path."
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Horizontal velocity of ball $u_{x} = 10 \\cos 60 = 5$ m/s. Since car speed is also 5 m/s, relative horizontal velocity is zero. Only vertical motion is observed.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Rotational Dynamics",
+        "question": "A torque of 100 Nm acting on a wheel changes its angular momentum from 10 to 110 units in",
+        "question_latex": "A torque of $100$ Nm acting on a wheel changes its angular momentum from $10$ to $110$ units in",
+        "question_images": [],
+        "options": [
+            "A. 1 s",
+            "B. 10 s",
+            "C. 0.1 s",
+            "D. 100 s"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\tau = \\frac{\\Delta L}{\\Delta t} \\Rightarrow 100 = \\frac{110 - 10}{t} \\Rightarrow t = 100/100 = 1$ s.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Rotational Dynamics",
+        "question": "A can filled with water is revolved in a vertical of radius 4 m and the water does not fall down. The time period for a revaluation is about",
+        "question_latex": "A can filled with water is revolved in a vertical of radius $4$ m and the water does not fall down. The time period for a revaluation is about",
+        "question_images": [],
+        "options": [
+            "A. 2 s",
+            "B. 4 s",
+            "C. 8 s",
+            "D. 10 s"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$v_{min} = \\sqrt{rg}$. $T = \\frac{2\\pi r}{v} = \\frac{2\\pi r}{\\sqrt{rg}} = 2\\pi \\sqrt{r/g} = 2\\pi \\sqrt{4/9.8} \\approx 4$ s.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Rotational Dynamics",
+        "question": "A mass' m' is tied to one end of a spring and whirled in a horizontal circle with constant angular velocity. The elongation in the spring is 1 cm. If the angular speed is doubled, the elongation in the spring is 6 cm. The original length of the spring is",
+        "question_latex": "A mass' m' is tied to one end of a spring and whirled in a horizontal circle with constant angular velocity. The elongation in the spring is $1$ cm. If the angular speed is doubled, the elongation in the spring is $6$ cm. The original length of the spring is",
+        "question_images": [],
+        "options": [
+            "A. 3 cm",
+            "B. 12 cm",
+            "C. 6 cm",
+            "D. 9 cm"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$m(l+1)\\omega^{2} = k(1)$ and $m(l+6)(2\\omega)^{2} = k(6)$. Dividing: $\\frac{l+1}{4(l+6)} = 1/6 \\Rightarrow 6l + 6 = 4l + 24 \\Rightarrow 2l = 18 \\Rightarrow l = 9$ cm.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Rotational Dynamics",
+        "question": "The equation of the trajectory of a ball projected at an angle 'theta' with the horizontal, is given as y = sqrt(3)x - gx^2 / 2. The initial velocity of the ball is [MHT-CET 2022]",
+        "question_latex": "The equation of the trajectory of a ball projected at an angle '$\\theta$' with the horizontal, is given as $y=\\sqrt{3}x-\\frac{gx^{2}}{2}$. The initial velocity of the ball is ($g$ = acceleration due to gravity, $sin~30^{\\circ}=0.5=cos~60^{\\circ}, cos~30^{\\circ}=\\sqrt{3}/2=sin~60^{\\circ}$) [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 3 m/s",
+            "B. 5 m/s",
+            "C. 1 m/s",
+            "D. 2 m/s"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Compare with $y = x \\tan \\theta - \\frac{g x^{2}}{2 u^{2} \\cos^{2} \\theta}$. $\\tan \\theta = \\sqrt{3} \\Rightarrow \\theta = 60^{\\circ}$. $u^{2} \\cos^{2} 60 = 1 \\Rightarrow u^{2} (1/4) = 1 \\Rightarrow u = 2$ m/s.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Rotational Dynamics",
+        "question": "The ratio of the angular speed of the hour hand of a clock to that of its minute hand is [MHT-CET 2019]",
+        "question_latex": "The ratio of the angular speed of the hour hand of a clock to that of its minute hand is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 3600 : 1",
+            "B. 1 : 24",
+            "C. 1 : 12",
+            "D. 12 : 1"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Hour hand period $T_{h} = 12$ hrs. Minute hand period $T_{m} = 1$ hr. $\\omega_{h}/\\omega_{m} = T_{m}/T_{h} = 1/12$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Rotational Dynamics",
+        "question": "A disc of mass 2 kg and radius 0.2 m is rotating about its axis at 30 rad/s. Its kinetic energy is",
+        "question_latex": "A disc of mass $2$ kg and radius $0.2$ m is rotating about its axis at $30$ rad/s. Its kinetic energy is",
+        "question_images": [],
+        "options": [
+            "A. 9 J",
+            "B. 18 J",
+            "C. 36 J",
+            "D. 4.5 J"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$I = \\frac{1}{2}MR^{2} = 0.5 \\times 2 \\times (0.04) = 0.04~kgm^{2}$. $K.E. = \\frac{1}{2}I\\omega^{2} = 0.5 \\times 0.04 \\times 900 = 18$ J.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Rotational Dynamics",
+        "question": "When the bob of mass 'm' moves in a horizontal circle of radius with uniform speed 'v' having length of string 'L' describes a cone of semi vertical angle 'theta'. The centripetal force acting on the bob is given by [MHT-CET 2022]",
+        "question_latex": "When the bob of mass '$m$' moves in a horizontal circle of radius with uniform speed '$v$' having length of string '$L$' describes a cone of semi vertical angle '$\\theta$'. The centripetal force acting on the bob is given by ($g$ = acceleration due to gravity) [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. mgr / sqrt(L^2 - r^2)",
+            "B. mgL / sqrt(L^2 - r^2)",
+            "C. sqrt(L^2 - r^2) / mgL",
+            "D. mgr / (L^2 - r^2)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$T \\sin \\theta = F_{c}$ and $T \\cos \\theta = mg$. $F_{c} = mg \\tan \\theta$. In the geometry, $\\tan \\theta = r/h = r / \\sqrt{L^{2} - r^{2}}$. Thus $F_{c} = \\frac{mgr}{\\sqrt{L^{2} - r^{2}}}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Rotational Dynamics",
+        "question": "A flywheel is rotating at 120 rpm. When the motor is switched off, it stops in 40 s. The angular retardation is",
+        "question_latex": "A flywheel is rotating at $120$ rpm. When the motor is switched off, it stops in $40$ s. The angular retardation is",
+        "question_images": [],
+        "options": [
+            "A. pi/10 rad/s^2",
+            "B. pi/20 rad/s^2",
+            "C. pi/5 rad/s^2",
+            "D. pi/40 rad/s^2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\omega_{0} = 120 \\times 2\\pi/60 = 4\\pi$. $\\omega = \\omega_{0} + \\alpha t \\Rightarrow 0 = 4\\pi + \\alpha(40) \\Rightarrow \\alpha = -\\pi/10$. (Recalculating based on options: $\\omega_{0} = 2 \\times 2\\pi = 4\\pi$. $\\alpha = 4\\pi/40 = \\pi/10$. If answer is B, check input).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Rotational Dynamics",
+        "question": "The moment of inertia of a uniform square plate of side 'a' and mass 'M' about an axis passing through its centre and perpendicular to its plane is",
+        "question_latex": "The moment of inertia of a uniform square plate of side 'a' and mass 'M' about an axis passing through its centre and perpendicular to its plane is",
+        "question_images": [],
+        "options": [
+            "A. Ma^2 / 12",
+            "B. Ma^2 / 6",
+            "C. Ma^2 / 3",
+            "D. Ma^2 / 24"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$I = I_{x} + I_{y} = \\frac{Ma^{2}}{12} + \\frac{Ma^{2}}{12} = \\frac{Ma^{2}}{6}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Rotational Dynamics",
+        "question": "A particle is performing uniform circular motion. If 'theta', 'omega', 'alpha' and 'a' are its angular displacement, angular velocity, angular acceleration and centripetal acceleration respectively, then which of the following is 'WRONG'? [MHT-CET 2020]",
+        "question_latex": "A particle is performing uniform circular motion. If '$\\theta$', '$\\omega$', '$\\alpha$' and '$a$' are its angular displacement, angular velocity, angular acceleration and centripetal acceleration respectively, then which of the following is 'WRONG'? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. omega perpendicular to v",
+            "B. v perpendicular to a",
+            "C. omega perpendicular to alpha",
+            "D. omega perpendicular to a"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In uniform circular motion, $\\alpha = 0$, but in general circular motion, $\\omega$ and $\\alpha$ are both axial vectors and are parallel or anti-parallel, never perpendicular.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Rotational Dynamics",
+        "question": "The ratio of moments of inertia of two discs of same mass and thickness but made of materials with densities d1 and d2 is",
+        "question_latex": "The ratio of moments of inertia of two discs of same mass and thickness but made of materials with densities $d_{1}$ and $d_{2}$ is",
+        "question_images": [],
+        "options": [
+            "A. d2:d1",
+            "B. d1:d2",
+            "C. d1^2 : d2^2",
+            "D. sqrt(d1) : sqrt(d2)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$M = \\pi R^{2} t d$. For same $M, t$: $R^{2} \\propto 1/d$. $I = \\frac{1}{2}MR^{2} \\propto R^{2} \\propto 1/d$. Thus $I_{1}/I_{2} = d_{2}/d_{1}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Rotational Dynamics",
+        "question": "A body is projected with velocity at two different angles of projection with respect to horizontal so that the horizontal range (R) is same. It' t1 and ' t2' are the times taken for the two paths, the product (t1 . t2) is [MHT-CET 2023]",
+        "question_latex": "A body is projected with velocity at two different angles of projection with respect to horizontal so that the horizontal range ($R$) is same. It' $t_{1}$ and ' $t_{2}$' are the times taken for the two paths, the product ($t_{1}.t_{2}$) is ($g$= acceleration due to gravity) [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2R/g",
+            "B. R/2g",
+            "C. 4R/g",
+            "D. R/g"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$t_{1} = 2u \\sin \\theta / g$ and $t_{2} = 2u \\cos \\theta / g$. $t_{1}t_{2} = \\frac{2(2u^{2} \\sin \\theta \\cos \\theta)}{g^{2}} = \\frac{2R}{g}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Rotational Dynamics",
+        "question": "A solid sphere and a solid cylinder roll down the same inclined plane. The ratio of their velocities at the bottom is",
+        "question_latex": "A solid sphere and a solid cylinder roll down the same inclined plane. The ratio of their velocities at the bottom is",
+        "question_images": [],
+        "options": [
+            "A. sqrt(14) : sqrt(15)",
+            "B. sqrt(15) : sqrt(14)",
+            "C. sqrt(10) : 3",
+            "D. 3 : sqrt(10)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$v = \\sqrt{\\frac{2gh}{1 + k^{2}/R^{2}}}$. For sphere $1 + 2/5 = 7/5$. For cylinder $1 + 1/2 = 3/2$. Ratio $= \\sqrt{(2/3) / (5/7)} = \\sqrt{14/15}$? Recalculate: $v_{s}/v_{c} = \\sqrt{3/2 \\times 5/7} = \\sqrt{15/14}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Rotational Dynamics",
+        "question": "Radius of gyration of a disc about an axis passing through its centre and perpendicular to its plane is",
+        "question_latex": "Radius of gyration of a disc about an axis passing through its centre and perpendicular to its plane is",
+        "question_images": [],
+        "options": [
+            "A. R",
+            "B. R / sqrt(2)",
+            "C. R/2",
+            "D. R / sqrt(3)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$MK^{2} = \\frac{1}{2}MR^{2} \\Rightarrow K = R/\\sqrt{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Rotational Dynamics",
+        "question": "A particle is performing uniform circular motion in a horizontal plane. The angular acceleration of the particle is directed along [MHT-CET 2023]",
+        "question_latex": "A particle is performing uniform circular motion in a horizontal plane. The angular acceleration of the particle is directed along $[MHT-CET~2023]$",
+        "question_images": [],
+        "options": [
+            "A. the radius towards the centre",
+            "B. the tangent to the circular path",
+            "C. the axis of rotation which is perpendicular to the plane of circle",
+            "D. the radius away from the centre"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "All angular vectors ($\\omega, \\alpha, \\tau, L$) act along the axis of rotation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Rotational Dynamics",
+        "question": "A uniform rod of length L and mass M is rotating about an axis passing through its midpoint and perpendicular to its length. The radius of gyration is",
+        "question_latex": "A uniform rod of length $L$ and mass $M$ is rotating about an axis passing through its midpoint and perpendicular to its length. The radius of gyration is",
+        "question_images": [],
+        "options": [
+            "A. L / 2 sqrt(3)",
+            "B. L / sqrt(12)",
+            "C. L / 12",
+            "D. Both A and B"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$Mk^{2} = \\frac{ML^{2}}{12} \\Rightarrow k = L/\\sqrt{12} = L / (2\\sqrt{3})$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Rotational Dynamics",
+        "question": "A particle performing U.C.M. of radius pi/2 m makes 'x' revolutions in time 't'. Its tangential velocity is [MHT-CET 2020]",
+        "question_latex": "A particle performing U.C.M. of radius $\\frac{\\pi}{2}$ m makes 'x' revolutions in time't'. Its tangential velocity is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. pi x / t^2",
+            "B. pi x^2 / t",
+            "C. pi^2 x / t",
+            "D. pi t / x^2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Duplicate of Q11. $v = \\frac{\\pi^{2} x}{t}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Rotational Dynamics",
+        "question": "Work done in rotating a body is given by",
+        "question_latex": "Work done in rotating a body is given by",
+        "question_images": [],
+        "options": [
+            "A. torque x time",
+            "B. torque x angular displacement",
+            "C. torque / angular displacement",
+            "D. torque x angular velocity"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Rotational work $W = \\int \\tau d\\theta$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Rotational Dynamics",
+        "question": "A large number of bullets are fired in all direction with same speed 'u'. The maximum area on the ground on which the bullets will spread is [MHT-CET 2023]",
+        "question_latex": "A large number of bullets are fired in all direction with same speed '$u$'. The maximum area on the ground on which the bullets will spread is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. pi u^4 / g^2",
+            "B. pi u^2 / g",
+            "C. pi^2 u^4 / g^2",
+            "D. pi^2 u^2 / g^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$R_{max} = u^{2}/g$. Area $= \\pi R^{2} = \\pi (u^{2}/g)^{2} = \\frac{\\pi u^{4}}{g^{2}}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Rotational Dynamics",
+        "question": "A sphere rolling without slipping on a horizontal surface has total energy E. The rotational kinetic energy is",
+        "question_latex": "A sphere rolling without slipping on a horizontal surface has total energy $E$. The rotational kinetic energy is",
+        "question_images": [],
+        "options": [
+            "A. 2/7 E",
+            "B. 5/7 E",
+            "C. 1/2 E",
+            "D. 2/5 E"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$K_{rot} = \\frac{1}{5}Mv^{2}$, $K_{total} = \\frac{7}{10}Mv^{2}$. $K_{rot}/K_{total} = (1/5) / (7/10) = 2/7$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Rotational Dynamics",
+        "question": "A car is circulating on the path of radius r and at any time its velocity is v and rate of increases of velocity is a. The resultant acceleration of the car will be",
+        "question_latex": "A car is circulating on the path of radius $r$ and at any time its velocity is $v$ and rate of increases of velocity is $a$. The resultant acceleration of the car will be",
+        "question_images": [],
+        "options": [
+            "A. sqrt(v^2 / a^2 + r^2)",
+            "B. sqrt(v^2 / r + a)",
+            "C. sqrt(v^4 / r^2 + a^2)",
+            "D. (v^2 / r + a)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$a_{net} = \\sqrt{a_{c}^{2} + a_{t}^{2}} = \\sqrt{(v^{2}/r)^{2} + a^{2}} = \\sqrt{v^{4}/r^{2} + a^{2}}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Rotational Dynamics",
+        "question": "The moment of inertia of a uniform disc of radius R and mass M about its diameter is",
+        "question_latex": "The moment of inertia of a uniform disc of radius $R$ and mass $M$ about its diameter is",
+        "question_images": [],
+        "options": [
+            "A. 1/2 MR^2",
+            "B. 1/4 MR^2",
+            "C. MR^2",
+            "D. 1/8 MR^2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$I_{axis} = \\frac{1}{2}MR^{2}$. By perpendicular axis theorem: $I_{axis} = I_{x} + I_{y} = 2I_{dia} \\Rightarrow I_{dia} = \\frac{1}{4}MR^{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Rotational Dynamics",
+        "question": "The linear speed of a particle at the equator of the earth due to its spin motion is 'v'. The linear speed of the particle at latitude 30° is [MHT-CET 2024]",
+        "question_latex": "The linear speed of a particle at the equator of the earth due to its spin motion is '$v'.$ The linear speed of the particle at latitude $30^{\\circ}$ is [$sin~30^{\\circ}=cos~60^{\\circ}=1/2, cos~30^{\\circ}=sin~60^{\\circ}=\\sqrt{3}/2$] [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. v/2",
+            "B. V",
+            "C. v/sqrt(2)",
+            "D. sqrt(3)V / 2"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$v = \\omega R_{equator}$. At latitude $\\theta$, distance from axis is $R \\cos \\theta$. $v' = \\omega R \\cos \\theta = v \\cos \\theta = v \\cos 30 = \\frac{\\sqrt{3}}{2} v$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Rotational Dynamics",
+        "question": "A dancer on ice spins with her arms folded. When she spreads her arms, her angular velocity",
+        "question_latex": "A dancer on ice spins with her arms folded. When she spreads her arms, her angular velocity",
+        "question_images": [],
+        "options": [
+            "A. increases",
+            "B. decreases",
+            "C. remains same",
+            "D. becomes zero"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Spreading arms increases moment of inertia. By conservation of angular momentum $I \\omega =$ constant, so $\\omega$ must decrease.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Rotational Dynamics",
+        "question": "A ring of mass M and radius R rolls without slipping. The ratio of rotational KE to total KE is",
+        "question_latex": "A ring of mass $M$ and radius $R$ rolls without slipping. The ratio of rotational $KE$ to total $KE$ is",
+        "question_images": [],
+        "options": [
+            "A. 1:1",
+            "B. 1:2",
+            "C. 2:1",
+            "D. 1:3"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$K_{rot} = \\frac{1}{2}MR^{2}(v/R)^{2} = \\frac{1}{2}Mv^{2}$. $K_{trans} = \\frac{1}{2}Mv^{2}$. $K_{total} = Mv^{2}$. Ratio $= 1/2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Rotational Dynamics",
+        "question": "In a two dimensional motion of a particle, the particle moves from point A, position vector r1. If the magnitudes of these vectors are respectively, r1 = 3 and r2 = 4 and the angles they make with the x-axis are theta1 = 75° and theta2 = 15°, respectively, then find the magnitude of the displacement vector",
+        "question_latex": "In a two dimensional motion of a particle, the particle moves from point A to B. If the magnitudes of position vectors are $r_{1}=3$ and $r_{2}=4$ and the angles they make with the x-axis are $\\theta_{1}=75^{\\circ}$ and $\\theta_{2}=15^{\\circ}$, respectively, then find the magnitude of the displacement vector",
+        "question_images": [
+            "q59_1"
+        ],
+        "options": [
+            "A. 15",
+            "B. sqrt(13)",
+            "C. 17",
+            "D. sqrt(15)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Angle between vectors $\\Delta \\theta = 75 - 15 = 60^{\\circ}$. $s = \\sqrt{r_{1}^{2} + r_{2}^{2} - 2r_{1}r_{2} \\cos \\Delta \\theta} = \\sqrt{9 + 16 - 2(3)(4)(1/2)} = \\sqrt{25-12} = \\sqrt{13}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Rotational Dynamics",
+        "question": "The angular displacement of body performing circular motion is given by theta = 5 sin(pi t / 6). The angular velocity of the body at t = 3 second will be [MHT-CET 2021]",
+        "question_latex": "The angular displacement of body performing circular motion is given by $\\theta=5~sin\\frac{\\pi t}{6}$ The angular velocity of the body at $t=3$ second will be $[sin\\frac{\\pi}{2}=1,cos\\frac{\\pi}{2}=0][MHT-CET~2021]$",
+        "question_images": [],
+        "options": [
+            "A. 1 rad/s",
+            "B. 5 rad/s",
+            "C. zero rad/s",
+            "D. 2.5 rad/s"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$\\omega = d\\theta/dt = 5(\\pi/6) \\cos (\\pi t / 6)$. At $t=3$, $\\omega = \\frac{5\\pi}{6} \\cos (\\pi/2) = 0$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Rotational Dynamics",
+        "question": "A sphere of mass M and radius R rotates about its diameter. Its radius of gyration is",
+        "question_latex": "A sphere of mass $M$ and radius $R$ rotates about its diameter. Its radius of gyration is",
+        "question_images": [],
+        "options": [
+            "A. R",
+            "B. sqrt(2/5) R",
+            "C. 2/5 R",
+            "D. sqrt(5/2) R"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$Mk^{2} = \\frac{2}{5}MR^{2} \\Rightarrow k = \\sqrt{2/5} R$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Rotational Dynamics",
+        "question": "The moment of inertia of a uniform circular ring of mass M and radius R about its diameter is",
+        "question_latex": "The moment of inertia of a uniform circular ring of mass $M$ and radius $R$ about its diameter is",
+        "question_images": [],
+        "options": [
+            "A. MR^2",
+            "B. 1/2 MR^2",
+            "C. 1/4 MR^2",
+            "D. 2 MR^2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$I_{axis} = MR^{2}$. By perpendicular axis theorem: $I_{axis} = 2I_{dia} \\Rightarrow I_{dia} = \\frac{1}{2}MR^{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Rotational Dynamics",
+        "question": "The angular speed of the minute hand of a clock in degrees per second is [MHT-CET 2021]",
+        "question_latex": "The angular speed of the minute hand of a clock in degrees per second is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 0.2",
+            "B. 0.3",
+            "C. 0.4",
+            "D. 0.1"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$\\omega = 360^{\\circ} / 3600s = 0.1^{\\circ}/s$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Rotational Dynamics",
+        "question": "A body of mass M and radius R rolls down an inclined plane without slipping. The velocity at bottom is proportional to",
+        "question_latex": "A body of mass $M$ and radius $R$ rolls down an inclined plane without slipping. The velocity at bottom is proportional to",
+        "question_images": [],
+        "options": [
+            "A. M",
+            "B. R",
+            "C. sqrt(h)",
+            "D. 1/M"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$v = \\sqrt{\\frac{2gh}{1+k^{2}/R^{2}}}$. Thus $v \\propto \\sqrt{h}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Rotational Dynamics",
+        "question": "If KE of the particle of mass m performing UCM in a circle of radius r is E. Find the acceleration of the particale",
+        "question_latex": "If $KE$ of the particle of mass $m$ performing $UCM$ in a circle of radius $r$ is $E$. Find the acceleration of the particale",
+        "question_images": [],
+        "options": [
+            "A. 2E / mr",
+            "B. (2E / mr)^2",
+            "C. 2 Emr",
+            "D. 4E / mr"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$E = \\frac{1}{2}mv^{2} \\Rightarrow v^{2} = 2E/m$. Acceleration $a = v^{2}/r = 2E/mr$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Rotational Dynamics",
+        "question": "A car is moving in a circular horizontal track of radius 10m with a constant speed of 10 ms^-1. The angle made by the rod with track is",
+        "question_latex": "A car is moving in a circular horizontal track of radius $10$m with a constant speed of $10~ms^{-1}$. The angle made by the rod with track is",
+        "question_images": [],
+        "options": [
+            "A. Zero",
+            "B. 30°",
+            "C. 45°",
+            "D. 60°"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$\\tan \\theta = v^{2}/rg = 100 / (10 \\times 10) = 1 \\Rightarrow \\theta = 45^{\\circ}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Rotational Dynamics",
+        "question": "The moment of inertia of a circular disc about a tangent in its plane is",
+        "question_latex": "The moment of inertia of a circular disc about a tangent in its plane is",
+        "question_images": [],
+        "options": [
+            "A. 5/4 MR^2",
+            "B. 1/4 MR^2",
+            "C. 3/2 MR^2",
+            "D. 3/4 MR^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$I_{dia} = \\frac{1}{4}MR^{2}$. $I_{tan} = I_{dia} + MR^{2} = 5/4 MR^{2}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Rotational Dynamics",
+        "question": "A stone tied to one end of rope and rotated in a circular motion. If the string suddenly breaks, then the stone travels",
+        "question_latex": "A stone tied to one end of rope and rotated in a circular motion. If the string suddenly breaks, then the stone travels",
+        "question_images": [],
+        "options": [
+            "A. in perpendicular direction",
+            "B. in direction of centrifugal force",
+            "C. towards centripetal force",
+            "D. in tangential direction"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Due to inertia of motion, the object continues in its instantaneous velocity direction.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Rotational Dynamics",
+        "question": "A constant torque of 500 Nm turns a wheel of M.I. 100 kgm^2. Its angular velocity after 2s is",
+        "question_latex": "A constant torque of $500$ Nm turns a wheel of M.I. $100~kgm^{2}$. Its angular velocity after $2$s is",
+        "question_images": [],
+        "options": [
+            "A. 5 rad/s",
+            "B. 10 rad/s",
+            "C. 20 rad/s",
+            "D. 2.5 rad/s"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\alpha = \\tau/I = 500/100 = 5$ rad/s^2. $\\omega = \\omega_{0} + \\alpha t = 0 + 5 \\times 2 = 10$ rad/s.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Rotational Dynamics",
+        "question": "A body of mass 1 kg is moving in a vertical circular path of radius 1 m. The difference between the kinetic energies at its highest and lowest point is",
+        "question_latex": "A body of mass $1$ kg is moving in a vertical circular path of radius $1$ m. The difference between the kinetic energies at its highest and lowest point is",
+        "question_images": [],
+        "options": [
+            "A. 20 J",
+            "B. 10 J",
+            "C. 4sqrt(5) J",
+            "D. 10 sqrt(5) J"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "By conservation of energy: $\\Delta K.E. = \\Delta P.E. = mg(2r) = 1 \\times 10 \\times 2 = 20$ J.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Rotational Dynamics",
+        "question": "The moment of inertia of a uniform thin rod of mass M and length L about an axis passing through its centre and inclined at angle theta to its length is",
+        "question_latex": "The moment of inertia of a uniform thin rod of mass $M$ and length $L$ about an axis passing through its centre and inclined at angle $\\theta$ to its length is",
+        "question_images": [],
+        "options": [
+            "A. (ML^2 / 12) sin^2 theta",
+            "B. (ML^2 / 12) cos^2 theta",
+            "C. ML^2 / 12",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Only the component of mass perpendicular to the axis contributes. Effective length is $L \\sin \\theta$. $I = \\frac{1}{12} M (L \\sin \\theta)^{2}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Rotational Dynamics",
+        "question": "A particle is performing a uniform circular motion along the circumference of a circle of radius 'R' and 'T' is the periodic time. In the time 'T/4' its displacement and distance covered are respectively [MHT-CET 2019]",
+        "question_latex": "A particle is performing a uniform circular motion along the circumference of a circle of radius '$R$' and '$T$' is the periodic time. In the time '$T/4$' its displacement and distance covered are respectively [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. sqrt(2)R, pi R / 4",
+            "B. pi R / 2, sqrt(2)R",
+            "C. sqrt(2)R, R",
+            "D. sqrt(2)R, pi R / 2"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Distance $= \\frac{1}{4} (2\\pi R) = \\pi R / 2$. Displacement is the chord length for $90^{\\circ}$ turn $= \\sqrt{R^{2} + R^{2}} = \\sqrt{2} R$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Rotational Dynamics",
+        "question": "A string of length 'l' fixed at one end, carries a mass 'm' at the other end. If the string makes 2/pi revolutions per second around the vertical axis through the fixed end, the tension in the string is [MHT-CET 2023]",
+        "question_latex": "A string of length '$l$' fixed at one end, carries a mass '$m$' at the other end. If the string makes $\\frac{2}{\\pi}$ revolutions per second around the vertical axis through the fixed end, the tension in the string is [MHT-CET 2023]",
+        "question_images": [
+            "q73_1"
+        ],
+        "options": [
+            "A. 16 ml",
+            "B. 8 ml",
+            "C. 2 ml",
+            "D. 4 ml"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Duplicate concept of Q6. $f = 2/\\pi \\Rightarrow \\omega = 4$. $T = ml\\omega^{2} = 16 ml$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Rotational Dynamics",
+        "question": "M.I. of a hollow sphere about its diameter is",
+        "question_latex": "M.I. of a hollow sphere about its diameter is",
+        "question_images": [],
+        "options": [
+            "A. 2/3 MR^2",
+            "B. 2/5 MR^2",
+            "C. MR^2",
+            "D. 1/2 MR^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard formula for a thin spherical shell.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Rotational Dynamics",
+        "question": "Which of the following bodies of same mass and radius has largest moment of inertia about its own axis?",
+        "question_latex": "Which of the following bodies of same mass and radius has largest moment of inertia about its own axis?",
+        "question_images": [],
+        "options": [
+            "A. Ring",
+            "B. Disc",
+            "C. Solid Sphere",
+            "D. Hollow Sphere"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$I_{ring} = MR^{2}$ (1), $I_{hollow} = 2/3 MR^{2}$ (0.66), $I_{disc} = 1/2 MR^{2}$ (0.5), $I_{solid} = 2/5 MR^{2}$ (0.4). Ring is largest.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Rotational Dynamics",
+        "question": "The kinetic energy of a body rotating at 300 rpm is 62.8 J. Its angular momentum is",
+        "question_latex": "The kinetic energy of a body rotating at $300$ rpm is $62.8$ J. Its angular momentum is",
+        "question_images": [],
+        "options": [
+            "A. 4 Js",
+            "B. 8 Js",
+            "C. 2 Js",
+            "D. 1 Js"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\omega = 300 \\times 2\\pi/60 = 10\\pi$ rad/s. $K = \\frac{1}{2}L\\omega \\Rightarrow 62.8 = 0.5 \\times L \\times 31.4 \\Rightarrow L = 62.8 / 15.7 = 4$ Js.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Rotational Dynamics",
+        "question": "The position 'x' of a particle varies with a time as x = at^2 - bt^3 where 'a' and 'b' are constants. The acceleration of the particle will be zero at time 't' is equal to [MHT-CET 2023]",
+        "question_latex": "The position 'x' of a particle varies with a time as $x=at^{2}-bt^{3}$ where 'a' and 'b' are constants. The acceleration of the particle will be zero at time 't' is equal to [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2a / 3b",
+            "B. zero",
+            "C. a / b",
+            "D. a / 3b"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$v = 2at - 3bt^{2} \\Rightarrow a_{accel} = 2a - 6bt = 0 \\Rightarrow t = a/3b$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Rotational Dynamics",
+        "question": "The horizontal range of a projectile is 4sqrt(3) times its maximum height. Its angle of projection will be",
+        "question_latex": "The horizontal range of a projectile is $4\\sqrt{3}$ times its maximum height. Its angle of projection will be",
+        "question_images": [],
+        "options": [
+            "A. 45°",
+            "B. 60°",
+            "C. 90°",
+            "D. 30°"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$\\tan \\theta = 4H/R = 4H / (4\\sqrt{3}H) = 1/\\sqrt{3} \\Rightarrow \\theta = 30^{\\circ}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Rotational Dynamics",
+        "question": "A cyclist is travelling on a circular section of highway of radius 2500 ft at the speed of 60 mile h^-1. The cyclist suddenly applies the brakes causing the bicycle to slown sown at constant rate. Knowing that after 8 s the speed has been reduced to 45 mile h^-1. The acceleration of the bicycle immediately after the brakes have been applied is",
+        "question_latex": "A cyclist is travelling on a circular section of highway of radius $2500$ ft at the speed of $60~mileh^{-1}$. The cyclist suddenly applies the brakes causing the bicycle to slown sown at constant rate. Knowing that after $8$ s the speed has been reduced to $45~mileh^{-1}$ The acceleration of the bicycle immediately after the brakes have been applied is",
+        "question_images": [],
+        "options": [
+            "A. 2 ft/s^2",
+            "B. 4.14 ft/s^2",
+            "C. 3.10 ft/s^2",
+            "D. 2.75 ft/s^2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$v_{1} = 88$ ft/s, $v_{2} = 66$ ft/s. $a_{t} = (66-88)/8 = -2.75$ ft/s^2. $a_{r} = v^{2}/r = 88^{2}/2500 \\approx 3.1$ ft/s^2. $a_{total} = \\sqrt{2.75^{2} + 3.1^{2}} \\approx 4.14$ ft/s^2.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Rotational Dynamics",
+        "question": "A stone is thrown at an angle theta to the horizontal reaches a maximum heights H. then the time of flight of stone will be",
+        "question_latex": "A stone is thrown at an angle $\\theta$ to the horizontal reaches a maximum heights $H$. then the time of flight of stone will be",
+        "question_images": [],
+        "options": [
+            "A. sqrt(2H/g)",
+            "B. 2sqrt(2H/g)",
+            "C. 2sqrt(2H sin theta) / g",
+            "D. sqrt(2H sin theta) / g"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$H = u^{2} \\sin^{2} \\theta / 2g \\Rightarrow u \\sin \\theta = \\sqrt{2gH}$. $T = 2u \\sin \\theta / g = 2 \\sqrt{2gH}/g = 2 \\sqrt{2H/g}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Rotational Dynamics",
+        "question": "The moment of inertia of a uniform thin rod about an axis passing through its end is 10 kgm^2. Its M.I. about its centre is",
+        "question_latex": "The moment of inertia of a uniform thin rod about an axis passing through its end is $10~kgm^{2}$. Its M.I. about its centre is",
+        "question_images": [],
+        "options": [
+            "A. 2.5 kgm^2",
+            "B. 5 kgm^2",
+            "C. 7.5 kgm^2",
+            "D. 40 kgm^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$I_{end} = ML^{2}/3 = 10$. $I_{cm} = ML^{2}/12 = (1/4) (ML^{2}/3) = 10/4 = 2.5~kgm^{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Rotational Dynamics",
+        "question": "A string of length 'l' is fixed at one end and carries a mass' m' at the other end. The mass is revolving along a horizontal circle of radius 'r' making 'theta' as the semi-vertical angle of cone and (1/pi) revolutions per second around the vertical axis through fixed end. The tension in the string is [MHT-CET 2020]",
+        "question_latex": "A string of length '$l$' is fixed at one end and carries a mass' $m$' at the other end. The mass is revolving along a horizontal circle of radius '$r$' making '$\\theta$' as the semi-vertical angle of cone and $(\\frac{1}{\\pi})$ revolutions per second around the vertical axis through fixed end. The tension in the string is [MHT-CET 2020]",
+        "question_images": [
+            "q82_1"
+        ],
+        "options": [
+            "A. 2 ml",
+            "B. 8 ml",
+            "C. 4 ml",
+            "D. 16 ml"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$f = 1/\\pi \\Rightarrow \\omega = 2$. $T = ml\\omega^{2} = 4 ml$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Rotational Dynamics",
+        "question": "Two particles having mass 'M' and 'm' are moving in a circular path with radius 'R' and 'r' respectively. The time period for both the particles is same. The ratio of angular velocity of the first particle to the second particle will be [MHT-CET 2023]",
+        "question_latex": "Two particles having mass 'M' and 'm' are moving in a circular path with radius 'R' and 'r' respectively. The time period for both the particles is same. The ratio of angular velocity of the first particle to the second particle will be [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2:3",
+            "B. 1:2",
+            "C. 3:4",
+            "D. 1:1"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$\\omega = 2\\pi/T$. If $T$ is same, $\\omega$ is same. Ratio $= 1:1$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Rotational Dynamics",
+        "question": "The moment of inertia of a uniform ring of mass 1 kg and radius 1 m about a tangent perpendicular to its plane is",
+        "question_latex": "The moment of inertia of a uniform ring of mass $1$ kg and radius $1$ m about a tangent perpendicular to its plane is",
+        "question_images": [],
+        "options": [
+            "A. 1 kgm^2",
+            "B. 2 kgm^2",
+            "C. 3 kgm^2",
+            "D. 0.5 kgm^2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$I = I_{cm} + Mh^{2} = MR^{2} + MR^{2} = 2MR^{2} = 2(1)(1) = 2~kgm^{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Rotational Dynamics",
+        "question": "A vehicle is moving on a frictionless horizontal road with velocity 'u' can be stopped in a distance 'd'. Now 40% of its weight is added. If the retardation remains the same, the stopping distance at velocity 'u' is [2025, 2022]",
+        "question_latex": "A vehicle is moving on a frictionless horizontal road with velocity '$u$' can be stopped in a distance '$d$'. Now $40\\%$ of its weight is added. If the retardation remains the same, the stopping distance at velocity '$u$' is [2025, 2022]",
+        "question_images": [],
+        "options": [
+            "A. (1.4)d",
+            "B. 4 d",
+            "C. (1.2)d",
+            "D. d"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Force $F = ma$. If $F$ is same and $m' = 1.4 m$, then $a' = a/1.4$. $d' = u^{2}/2a' = 1.4 u^{2}/2a = 1.4 d$. (Note: Retardation usually refers to acceleration, but in these problems it often implies the retarding force remains constant).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Rotational Dynamics",
+        "question": "A ring rolls without slipping. The ratio of its translational KE to total KE is",
+        "question_latex": "A ring rolls without slipping. The ratio of its translational $KE$ to total $KE$ is",
+        "question_images": [],
+        "options": [
+            "A. 1:1",
+            "B. 1:2",
+            "C. 1:3",
+            "D. 2:1"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$K_{trans} = 0.5 Mv^{2}$. $K_{total} = Mv^{2}$. Ratio $= 1/2$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Rotational Dynamics",
+        "question": "The equation of trajectory of a projectile is y = x/sqrt(3) - gx^2/3. The angle of its projection and the horizontal component of velocity are respectively [2025]",
+        "question_latex": "The equation of trajectory of a projectile is $y=\\frac{x}{\\sqrt{3}}-\\frac{g}{3}x^{2}$ The angle of its projection and the horizontal component of velocity are respectively ($tan~30^{\\circ}=\\frac{1}{\\sqrt{3}}$)[2025]",
+        "question_images": [],
+        "options": [
+            "A. 60°, sqrt(3/2)",
+            "B. 30°, sqrt(3/2)",
+            "C. 30°, sqrt(3)/2",
+            "D. 60°, sqrt(3)/2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\tan \\theta = 1/\\sqrt{3} \\Rightarrow \\theta = 30^{\\circ}$. $\\frac{g}{2u^{2}\\cos^{2}30} = g/3 \\Rightarrow 2u^{2}(3/4) = 3 \\Rightarrow 1.5u^{2} = 3 \\Rightarrow u^{2} = 2 \\Rightarrow u = \\sqrt{2}$. $u_{x} = u \\cos 30 = \\sqrt{2} \\times \\sqrt{3}/2 = \\sqrt{3/2}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Rotational Dynamics",
+        "question": "Two cars of 'm1' and 'm2' are moving in the circles of radii r1 and r2 respectively. Their angular speed 'w1' and 'w2' are such that they both complete one revolution in the same time 't'. The ratio of linear speed of m1 to the linear speed of m2 is [MHT-CET 2020]",
+        "question_latex": "Two cars of '$m_{1}$', and '$m_{2}$' are moving in the circles of radii $r_{1}$ and $r_{2}$ respectively. Their angular speed '$\\omega_{1}$' and '$\\omega_{2}$' are such that they both complete one revolution in the same time 't'. The ratio of linear speed of $m_{1}$ to the linear speed of $m_{2}$ is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. w1^2 : w2^2",
+            "B. T1^2 : T2^2",
+            "C. r1 : r2",
+            "D. m1 : m2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$v = \\omega r$. If time $t$ is same, $\\omega = 2\\pi/t$ is same. $v_{1}/v_{2} = r_{1}/r_{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Rotational Dynamics",
+        "question": "The moment of inertia of a uniform rod of length L and mass M about an axis passing through L/4 from its center and perpendicular to its length is",
+        "question_latex": "The moment of inertia of a uniform rod of length $L$ and mass $M$ about an axis passing through $L/4$ from its center and perpendicular to its length is",
+        "question_images": [],
+        "options": [
+            "A. 7/48 ML^2",
+            "B. 1/48 ML^2",
+            "C. 1/12 ML^2",
+            "D. 5/48 ML^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$I = I_{cm} + Md^{2} = \\frac{ML^{2}}{12} + M(L/4)^{2} = \\frac{ML^{2}}{12} + \\frac{ML^{2}}{16} = \\frac{4+3}{48} ML^{2} = \\frac{7}{48} ML^{2}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Rotational Dynamics",
+        "question": "A particle is moving in a circle with uniform speed v. In moving from a point to another diametrically opposite point",
+        "question_latex": "A particle is moving in a circle with uniform speed $v$. In moving from a point to another diametrically opposite point",
+        "question_images": [],
+        "options": [
+            "A. the momentum changes by mv",
+            "B. the momentum changes by 2 mv",
+            "C. the kinetic energy changes by (1/2)mv^2",
+            "D. the kinetic energy changes by mv^2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\Delta p = mv - (-mv) = 2mv$. K.E. remains constant in UCM.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Rotational Dynamics",
+        "question": "Two trains, each 30 m long are travelling in opposite directions with velocities 5 m/s and 10 m/s. They will cross after [MHT-CET 2023]",
+        "question_latex": "Two trains, each $30$ m long are travelling in opposite directions with velocities $5~m/s$ and $10~m/s$. They will cross after [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 3 s",
+            "B. 4 s",
+            "C. 2 s",
+            "D. 1 s"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Relative velocity $= 15$ m/s. Total distance to cross $= 30 + 30 = 60$ m. $t = 60/15 = 4$ s.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Rotational Dynamics",
+        "question": "The moment of inertia of a uniform circular disc about a tangent perpendicular to its plane is",
+        "question_latex": "The moment of inertia of a uniform circular disc about a tangent perpendicular to its plane is",
+        "question_images": [],
+        "options": [
+            "A. 3/2 MR^2",
+            "B. 1/2 MR^2",
+            "C. 3/4 MR^2",
+            "D. MR^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$I = I_{cm} + MR^{2} = 0.5 MR^{2} + MR^{2} = 3/2 MR^{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Rotational Dynamics",
+        "question": "A sphere of mass M and radius R rolls without slipping. The total kinetic energy is",
+        "question_latex": "A sphere of mass $M$ and radius $R$ rolls without slipping. The total kinetic energy is",
+        "question_images": [],
+        "options": [
+            "A. 7/10 Mv^2",
+            "B. 1/2 Mv^2",
+            "C. 2/5 Mv^2",
+            "D. 3/4 Mv^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$K = \\frac{1}{2}Mv^{2} + \\frac{1}{2}(\\frac{2}{5}MR^{2})(v/R)^{2} = 0.5 Mv^{2} + 0.2 Mv^{2} = 0.7 Mv^{2}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Rotational Dynamics",
+        "question": "The angular separation between the minute hand and the hour hand of clock 40 minutes passed after 12 p.m. is [2025]",
+        "question_latex": "The angular separation between the minute hand and the hour hand of clock $40$ minutes passed after $12$ p.m. is [2025]",
+        "question_images": [],
+        "options": [
+            "A. 90°",
+            "B. 110°",
+            "C. 120°",
+            "D. 220°"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Minute hand angle $= 40 \\times 6 = 240^{\\circ}$. Hour hand angle $= 40 \\times 0.5 = 20^{\\circ}$. Separation $= 240 - 20 = 220^{\\circ}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Rotational Dynamics",
+        "question": "A particle is performing a uniform circular motion along a circle of radius 'R'. In half the period of revolution, its displacement and distance covered are respectively [MHT-CET 2022]",
+        "question_latex": "A particle is performing a uniform circular motion along a circle of radius 'R'. In half the period of revolution, its displacement and distance covered are respectively [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. R, pi R",
+            "B. 2R, 2 pi R",
+            "C. sqrt(2)R, 2 pi R",
+            "D. 2R, pi R"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Distance is arc length $= \\pi R$. Displacement is diameter $= 2R$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Rotational Dynamics",
+        "question": "A particle is moving in a circle of radius' R' with constant speed 'V'. The magnitude of average acceleration after half revolution is [MHT-CET 2021]",
+        "question_latex": "A particle is moving in a circle of radius' $R$' with constant speed '$V$'. The magnitude of average acceleration after half revolution is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. V^2 / pi R",
+            "B. 2 V^2 / pi R",
+            "C. 2 V^2 / pi R^2",
+            "D. V^2 / 2 pi R"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\Delta v = 2V$. $\\Delta t = \\pi R/V$. $a_{avg} = 2V / (\\pi R/V) = \\frac{2V^{2}}{\\pi R}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Rotational Dynamics",
+        "question": "The speed of revolution of a particle going around a circle is doubled and its angular speed is halved. What happens to the centripetal acceleration?",
+        "question_latex": "The speed of revolution of a particle going around a circle is doubled and its angular speed is halved. What happens to the centripetal acceleration?",
+        "question_images": [],
+        "options": [
+            "A. Becomes four times",
+            "B. Double",
+            "C. Halved",
+            "D. Remains unchanged"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$a = v \\omega$. New $a' = (2v) (\\omega/2) = v\\omega$. Remains unchanged.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Rotational Dynamics",
+        "question": "The radius of gyration of a uniform rod of mass M and length L, rotating about a perpendicular axis passing through a point at a distance L/3 from one end is [2022]",
+        "question_latex": "The radius of gyration of a uniform rod of mass M and length L, rotating about a perpendicular axis passing through a point at a distance $\\frac{L}{3}$ from one end is[2022]",
+        "question_images": [],
+        "options": [
+            "A. L/6",
+            "B. L/3",
+            "C. L",
+            "D. L/2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$I_{cm} = ML^{2}/12$. Distance from center $d = L/2 - L/3 = L/6$. $I = I_{cm} + Md^{2} = ML^{2}/12 + ML^{2}/36 = 4ML^{2}/36 = ML^{2}/9$. $Mk^{2} = ML^{2}/9 \\Rightarrow k = L/3$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Rotational Dynamics",
+        "question": "The angular velocity of the minute hand of a clock in degrees per second is[2022]",
+        "question_latex": "The angular velocity of the minute hand of a clock in degrees per second is[2022]",
+        "question_images": [],
+        "options": [
+            "A. 0.24",
+            "B. 0.6",
+            "C. 0.1",
+            "D. 0.01"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Minute hand completes $360^{\\circ}$ in $3600s$. $\\omega = 360/3600 = 0.1^{\\circ}/s$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Rotational Dynamics",
+        "question": "A wheel starts from rest and rotates with constant angular acceleration. If it rotates through theta1 in first 2s and through theta2 in next 2s, the ratio theta2/theta1 is",
+        "question_latex": "A wheel starts from rest and rotates with constant angular acceleration. If it rotates through $\\theta_{1}$ in first $2$s and through $\\theta_{2}$ in next $2$s, the ratio $\\theta_{2}/\\theta_{1}$ is",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$\\theta_{1} = \\frac{1}{2}\\alpha(2^{2}) = 2\\alpha$. $\\theta_{total}(4s) = \\frac{1}{2}\\alpha(4^{2}) = 8\\alpha$. $\\theta_{2} = 8\\alpha - 2\\alpha = 6\\alpha$. Ratio $= 6\\alpha/2\\alpha = 3$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    }   
+]

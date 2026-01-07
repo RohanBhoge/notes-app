@@ -1,172 +1,1902 @@
 [
   {
     "id": 1,
-    "chapter": "Adsorption and Colloids",
-    "question": "The phenomenon of accumulation of molecules at the surface of a solid or liquid is called:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Absorption and Colloids",
+    "question": "Choose the correct option: Butter has the dispersion medium and dispersed phase",
+    "question_latex": "Choose the correct option: Butter has the dispersion medium and dispersed phase",
+    "question_images": [],
     "options": [
-      "Absorption",
-      "Adsorption",
-      "Diffusion",
-      "Sedimentation"
+      "A. solid and liquid",
+      "B. liquid and solid",
+      "C. solid and gas",
+      "D. solid and solid"
     ],
-    "answer": "Adsorption",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The phenomenon of accumulation of molecules at the..."
+    "option_images": [],
+    "answer": "A. solid and liquid",
+    "solution": "Butter is an example of a gel where the dispersion medium is a solid and the dispersed phase is a liquid.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 2,
-    "chapter": "Adsorption and Colloids",
-    "question": "The substance whose surface adsorbs particles is known as:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Absorption and Colloids",
+    "question": "A colloidal system has particle size.",
+    "question_latex": "A colloidal system has particle size.",
+    "question_images": [],
     "options": [
-      "Adsorbate",
-      "Adsorbent",
-      "Colloid",
-      "Solute"
+      "A. 10^-5 m to 10^-7 m",
+      "B. 10^-4 m to 10^-10 m",
+      "C. 10^-9 m to 10^-12 m",
+      "D. 10^-6 m to 10^-9 m"
     ],
-    "answer": "Adsorbent",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The substance whose surface adsorbs particles is k..."
+    "option_images": [],
+    "answer": "D. 10^-6 m to 10^-9 m",
+    "solution": "Colloidal particles have diameters ranging from $10^{-9} \\ m$ to $10^{-6} \\ m$ (1 nm to 1000 nm).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 3,
-    "chapter": "Adsorption and Colloids",
-    "question": "The substance that gets adsorbed on the surface is called:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Absorption and Colloids",
+    "question": "Fruit Jam is an example of",
+    "question_latex": "Fruit Jam is an example of",
+    "question_images": [],
     "options": [
-      "Solvent",
-      "Adsorbent",
-      "Adsorbate",
-      "Dispersion medium"
+      "A. sol",
+      "B. gel",
+      "C. emulsion",
+      "D. True solution"
     ],
-    "answer": "Adsorbate",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The substance that gets adsorbed on the surface is..."
+    "option_images": [],
+    "answer": "B. gel",
+    "solution": "Fruit jams are gels where a liquid is dispersed in a solid network.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 4,
-    "chapter": "Adsorption and Colloids",
-    "question": "Colloids are examples of:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is NOT a characteristic of chemisorption? [MHT-CET 2023]",
+    "question_latex": "Which of the following is NOT a characteristic of chemisorption? [MHT-CET 2023]",
+    "question_images": [],
     "options": [
-      "True solutions",
-      "Suspensions",
-      "Heterogeneous system",
-      "Homogeneous solid"
+      "A. It is irreversible in nature.",
+      "B. It takes place due to formation of chemical bond between adsorbent and adsorbate.",
+      "C. Heat of adsorption lies in the range of 40 to 200 kJ/mol.",
+      "D. It is non-specific in nature."
     ],
-    "answer": "Heterogeneous system",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: Colloids are examples of:..."
+    "option_images": [],
+    "answer": "D. It is non-specific in nature.",
+    "solution": "Chemisorption is highly specific as it involves the formation of a chemical bond, which only occurs between specific adsorbents and adsorbates.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 5,
-    "chapter": "Adsorption and Colloids",
-    "question": "The size of colloidal particles lies between:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Absorption and Colloids",
+    "question": "The migration of colloidal particles under the influence of an electric field is known as",
+    "question_latex": "The migration of colloidal particles under the influence of an electric field is known as",
+    "question_images": [],
     "options": [
-      "1 to 10 Å",
-      "10⁻⁹ to 10⁻⁷ m",
-      "1 to 100 cm",
-      "1 to 10 m"
+      "A. Electro-osmosis",
+      "B. Cataphoresis",
+      "C. Electrophoresis",
+      "D. Both B and C"
     ],
-    "answer": "10⁻⁹ to 10⁻⁷ m",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The size of colloidal particles lies between:..."
+    "option_images": [],
+    "answer": "D. Both B and C",
+    "solution": "The movement of colloidal particles toward an electrode is called electrophoresis, also known as cataphoresis (specifically for cations) or anaphoresis.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 6,
-    "chapter": "Adsorption and Colloids",
-    "question": "The process used to convert a precipitate into a colloidal solution is:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Absorption and Colloids",
+    "question": "Freshly prepared precipitate of ferric hydroxide can be converted into a colloidal sol by adding a small amount of FeCl3 solution. This process is called",
+    "question_latex": "Freshly prepared precipitate of ferric hydroxide can be converted into a colloidal sol by adding a small amount of $FeCl_3$ solution. This process is called",
+    "question_images": [],
     "options": [
-      "Peptization",
-      "Dialysis",
-      "Condensation",
-      "Diffusion"
+      "A. Coagulation",
+      "B. Dialysis",
+      "C. Peptization",
+      "D. Diffusion"
     ],
-    "answer": "Peptization",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The process used to convert a precipitate into a c..."
+    "option_images": [],
+    "answer": "C. Peptization",
+    "solution": "Peptization is the process of converting a precipitate into a colloidal sol by shaking it with dispersion medium in the presence of an electrolyte (peptizing agent).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 7,
-    "chapter": "Adsorption and Colloids",
-    "question": "Which of the following is a method to purify colloids?",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is an example of a homogeneous catalysis? [MHT-CET 2021]",
+    "question_latex": "Which of the following is an example of a homogeneous catalysis? [MHT-CET 2021]",
+    "question_images": [],
     "options": [
-      "Evaporation",
-      "Dialysis",
-      "Crystallization",
-      "Electroplating"
+      "A. Oxidation of SO2 in Lead chamber process.",
+      "B. Synthesis of Ammonia by Haber's process.",
+      "C. Hydrogenation of vegetable oils.",
+      "D. Decomposition of KClO3 using MnO2."
     ],
-    "answer": "Dialysis",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: Which of the following is a method to purify collo..."
+    "option_images": [],
+    "answer": "A. Oxidation of SO2 in Lead chamber process.",
+    "solution": "In the Lead chamber process, the reactants ($SO_2, O_2$) and catalyst ($NO$) are all in the same gaseous phase, making it homogeneous.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 8,
-    "chapter": "Adsorption and Colloids",
-    "question": "The scattering of light by colloidal particles is called:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Absorption and Colloids",
+    "question": "Freundlich adsorption isotherm is given by the expression",
+    "question_latex": "Freundlich adsorption isotherm is given by the expression",
+    "question_images": [],
     "options": [
-      "Tyndall effect",
-      "Brownian motion",
-      "Bohr effect",
-      "Faraday effect"
+      "A. x/m = kP^n",
+      "B. x/m = kP^{1/n}",
+      "C. m/x = kP^n",
+      "D. x/m = k log P"
     ],
-    "answer": "Tyndall effect",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The scattering of light by colloidal particles is ..."
+    "option_images": [],
+    "answer": "B. x/m = kP^{1/n}",
+    "solution": "The empirical relationship between the quantity of gas adsorbed and pressure at constant temperature is $\\frac{x}{m} = kP^{1/n}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 9,
-    "chapter": "Adsorption and Colloids",
-    "question": "Which motion explains stability of colloids?",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Absorption and Colloids",
+    "question": "The heat of adsorption in physical adsorption is approximately",
+    "question_latex": "The heat of adsorption in physical adsorption is approximately",
+    "question_images": [],
     "options": [
-      "Tyndall motion",
-      "Brownian motion",
-      "Harmonic motion",
-      "Linear motion"
+      "A. 100 - 400 kJ/mol",
+      "B. 40 - 100 kJ/mol",
+      "C. 20 - 40 kJ/mol",
+      "D. 10 - 20 kJ/mol"
     ],
-    "answer": "Brownian motion",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: Which motion explains stability of colloids?..."
+    "option_images": [],
+    "answer": "C. 20 - 40 kJ/mol",
+    "solution": "Physisorption involves weak van der Waals forces, so the enthalpy of adsorption is low ($20-40 \\ kJ/mol$).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 10,
-    "chapter": "Adsorption and Colloids",
-    "question": "A colloidal system where liquid is dispersed in another liquid is called:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Absorption and Colloids",
+    "question": "Whipped cream is a colloidal sol of",
+    "question_latex": "Whipped cream is a colloidal sol of",
+    "question_images": [],
     "options": [
-      "Aerosol",
-      "Emulsion",
-      "Sol",
-      "Gel"
+      "A. Gas in liquid",
+      "B. Liquid in gas",
+      "C. Liquid in liquid",
+      "D. Solid in liquid"
     ],
-    "answer": "Emulsion",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: A colloidal system where liquid is dispersed in an..."
+    "option_images": [],
+    "answer": "A. Gas in liquid",
+    "solution": "Whipped cream is a foam where air (gas) is dispersed in a liquid medium.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Absorption and Colloids",
+    "question": "Which among the following is used in the purification of water by removing suspended impurities?",
+    "question_latex": "Which among the following is used in the purification of water by removing suspended impurities?",
+    "question_images": [],
+    "options": [
+      "A. NaCl",
+      "B. Alum",
+      "C. KNO3",
+      "D. BaCl2"
+    ],
+    "option_images": [],
+    "answer": "B. Alum",
+    "solution": "Alum ($Al^{3+}$ ions) causes coagulation of suspended clay particles in water, making them settle down.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Absorption and Colloids",
+    "question": "Gold number gives an indication of",
+    "question_latex": "Gold number gives an indication of",
+    "question_images": [],
+    "options": [
+      "A. Purity of gold",
+      "B. Charge on gold sol",
+      "C. Protective power of a lyophilic colloid",
+      "D. Size of gold particles"
+    ],
+    "option_images": [],
+    "answer": "C. Protective power of a lyophilic colloid",
+    "solution": "Gold number is the minimum amount of protective colloid (in mg) required to prevent the coagulation of 10 mL of gold sol by 1 mL of 10% NaCl.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Absorption and Colloids",
+    "question": "Tyndall effect is observed in",
+    "question_latex": "Tyndall effect is observed in",
+    "question_images": [],
+    "options": [
+      "A. True solution",
+      "B. Colloidal solution",
+      "C. Precipitate",
+      "D. Solvent"
+    ],
+    "option_images": [],
+    "answer": "B. Colloidal solution",
+    "solution": "Colloidal particles are large enough to scatter light, which is known as the Tyndall effect.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Absorption and Colloids",
+    "question": "Adsorption is always an",
+    "question_latex": "Adsorption is always an",
+    "question_images": [],
+    "options": [
+      "A. Endothermic process",
+      "B. Exothermic process",
+      "C. Isothermal process",
+      "D. Adiabatic process"
+    ],
+    "option_images": [],
+    "answer": "B. Exothermic process",
+    "solution": "Adsorption leads to a decrease in surface energy, which is released as heat. Thus $\\Delta H$ is always negative.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Absorption and Colloids",
+    "question": "According to Hardy-Schulze rule, the coagulating power of an ion depends on",
+    "question_latex": "According to Hardy-Schulze rule, the coagulating power of an ion depends on",
+    "question_images": [],
+    "options": [
+      "A. Size only",
+      "B. Charge only",
+      "C. Both magnitude and sign of charge",
+      "D. Atomic weight"
+    ],
+    "option_images": [],
+    "answer": "C. Both magnitude and sign of charge",
+    "solution": "The power to coagulate a sol depends on the valency (magnitude) and the opposite nature (sign) of the charge of the ion.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is a lyophilic sol?",
+    "question_latex": "Which of the following is a lyophilic sol?",
+    "question_images": [],
+    "options": [
+      "A. Gold sol",
+      "B. Silver sol",
+      "C. Gum",
+      "D. Ferric hydroxide sol"
+    ],
+    "option_images": [],
+    "answer": "C. Gum",
+    "solution": "Substances like gum, gelatin, starch, and rubber which form sols directly on mixing with solvent are lyophilic.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Absorption and Colloids",
+    "question": "The sky looks blue because of",
+    "question_latex": "The sky looks blue because of",
+    "question_images": [],
+    "options": [
+      "A. Dispersion of light",
+      "B. Scattering of light",
+      "C. Refraction of light",
+      "D. Reflection of light"
+    ],
+    "option_images": [],
+    "answer": "B. Scattering of light",
+    "solution": "The blue color of the sky is due to the scattering of sunlight by dust particles and water molecules (Tyndall effect/Rayleigh scattering).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Absorption and Colloids",
+    "question": "The zig-zag motion of colloidal particles is called",
+    "question_latex": "The zig-zag motion of colloidal particles is called",
+    "question_images": [],
+    "options": [
+      "A. Tyndall effect",
+      "B. Brownian motion",
+      "C. Electrophoresis",
+      "D. Coagulation"
+    ],
+    "option_images": [],
+    "answer": "B. Brownian motion",
+    "solution": "Brownian motion is the continuous zig-zag movement of colloidal particles caused by unbalanced bombardment by molecules of the dispersion medium.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Absorption and Colloids",
+    "question": "Which ion has maximum coagulating power for a negatively charged As2S3 sol?",
+    "question_latex": "Which ion has maximum coagulating power for a negatively charged $As_2S_3$ sol?",
+    "question_images": [],
+    "options": [
+      "A. Na+",
+      "B. Ba2+",
+      "C. Al3+",
+      "D. Cl-"
+    ],
+    "option_images": [],
+    "answer": "C. Al3+",
+    "solution": "For a negative sol, the ion with the highest positive charge ($Al^{3+}$) has the greatest coagulating power according to Hardy-Schulze rule.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Absorption and Colloids",
+    "question": "An emulsion is a colloidal system containing",
+    "question_latex": "An emulsion is a colloidal system containing",
+    "question_images": [],
+    "options": [
+      "A. Liquid in solid",
+      "B. Gas in liquid",
+      "C. Liquid in liquid",
+      "D. Solid in liquid"
+    ],
+    "option_images": [],
+    "answer": "C. Liquid in liquid",
+    "solution": "Emulsions are liquid-liquid colloidal systems, such as milk or hair cream.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Absorption and Colloids",
+    "question": "In physical adsorption, gas molecules are held on solid surface by",
+    "question_latex": "In physical adsorption, gas molecules are held on solid surface by",
+    "question_images": [],
+    "options": [
+      "A. Chemical bonds",
+      "B. van der Waals forces",
+      "C. Hydrogen bonds",
+      "D. Ionic bonds"
+    ],
+    "option_images": [],
+    "answer": "B. van der Waals forces",
+    "solution": "Physisorption occurs due to weak, non-specific van der Waals forces.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Absorption and Colloids",
+    "question": "The substance that lowers the surface tension of a liquid is called",
+    "question_latex": "The substance that lowers the surface tension of a liquid is called",
+    "question_images": [],
+    "options": [
+      "A. Catalyst",
+      "B. Surfactant",
+      "C. Adsorbent",
+      "D. Enzyme"
+    ],
+    "option_images": [],
+    "answer": "B. Surfactant",
+    "solution": "Surfactants (Surface Active Agents) reduce the surface tension of the liquid in which they are dissolved.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is used in the preparation of ice cream to prevent the growth of large ice crystals?",
+    "question_latex": "Which of the following is used in the preparation of ice cream to prevent the growth of large ice crystals?",
+    "question_images": [],
+    "options": [
+      "A. Gum",
+      "B. Gelatin",
+      "C. Alum",
+      "D. NaCl"
+    ],
+    "option_images": [],
+    "answer": "B. Gelatin",
+    "solution": "Gelatin acts as a protective colloid that prevents the aggregation of ice crystals and stabilizes the emulsion.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Absorption and Colloids",
+    "question": "The process of removing dissolved impurities from a colloidal sol using a semipermeable membrane is",
+    "question_latex": "The process of removing dissolved impurities from a colloidal sol using a semipermeable membrane is",
+    "question_images": [],
+    "options": [
+      "A. Electrophoresis",
+      "B. Coagulation",
+      "C. Dialysis",
+      "D. Peptization"
+    ],
+    "option_images": [],
+    "answer": "C. Dialysis",
+    "solution": "Dialysis is the purification method where ions/small molecules diffuse through a membrane while colloidal particles remain.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Absorption and Colloids",
+    "question": "Enzymes are examples of",
+    "question_latex": "Enzymes are examples of",
+    "question_images": [],
+    "options": [
+      "A. Heterogeneous catalysts",
+      "B. Bio-catalysts",
+      "C. Inorganic catalysts",
+      "D. Reducing agents"
+    ],
+    "option_images": [],
+    "answer": "B. Bio-catalysts",
+    "solution": "Enzymes are complex nitrogenous organic compounds produced by living cells that catalyze biochemical reactions.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Absorption and Colloids",
+    "question": "Adsorption of gases on solid surface is generally",
+    "question_latex": "Adsorption of gases on solid surface is generally",
+    "question_images": [],
+    "options": [
+      "A. Unimolecular layer in physisorption",
+      "B. Multimolecular layer in physisorption",
+      "C. Unimolecular layer in chemisorption",
+      "D. Both B and C"
+    ],
+    "option_images": [],
+    "answer": "D. Both B and C",
+    "solution": "Physisorption can form multiple layers, while chemisorption is limited to a single layer (unimolecular) due to bond formation.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Absorption and Colloids",
+    "question": "The efficiency of an adsorbent increases with",
+    "question_latex": "The efficiency of an adsorbent increases with",
+    "question_images": [],
+    "options": [
+      "A. Increase in surface area",
+      "B. Increase in particle size",
+      "C. Decrease in pressure",
+      "D. Increase in temperature"
+    ],
+    "option_images": [],
+    "answer": "A. Increase in surface area",
+    "solution": "Since adsorption is a surface phenomenon, finely divided substances (higher surface area) are better adsorbents.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Absorption and Colloids",
+    "question": "Fog is a colloidal solution of",
+    "question_latex": "Fog is a colloidal solution of",
+    "question_images": [],
+    "options": [
+      "A. Liquid in gas",
+      "B. Gas in liquid",
+      "C. Solid in gas",
+      "D. Gas in solid"
+    ],
+    "option_images": [],
+    "answer": "A. Liquid in gas",
+    "solution": "Fog is an aerosol where water droplets (liquid) are dispersed in air (gas).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is used in gas masks to adsorb poisonous gases?",
+    "question_latex": "Which of the following is used in gas masks to adsorb poisonous gases?",
+    "question_images": [],
+    "options": [
+      "A. Silica gel",
+      "B. Activated charcoal",
+      "C. Alumina",
+      "D. Animal charcoal"
+    ],
+    "option_images": [],
+    "answer": "B. Activated charcoal",
+    "solution": "Activated charcoal has a very high surface area and is used to adsorb toxic gases in masks.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Absorption and Colloids",
+    "question": "Milk is stabilized by the presence of",
+    "question_latex": "Milk is stabilized by the presence of",
+    "question_images": [],
+    "options": [
+      "A. Lactose",
+      "B. Casein",
+      "C. Fat",
+      "D. Water"
+    ],
+    "option_images": [],
+    "answer": "B. Casein",
+    "solution": "Casein is the emulsifying agent in milk that stabilizes the fat droplets dispersed in water.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Absorption and Colloids",
+    "question": "Desorption is the process of",
+    "question_latex": "Desorption is the process of",
+    "question_images": [],
+    "options": [
+      "A. Accumulation of gas on solid",
+      "B. Removal of adsorbed substance from surface",
+      "C. Chemical bond formation",
+      "D. Diffusion of gas into solid"
+    ],
+    "option_images": [],
+    "answer": "B. Removal of adsorbed substance from surface",
+    "solution": "Desorption is the reverse of adsorption, where the adsorbate is removed from the adsorbent surface.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Absorption and Colloids",
+    "question": "The blue color of water in sea is due to",
+    "question_latex": "The blue color of water in sea is due to",
+    "question_images": [],
+    "options": [
+      "A. Presence of salts",
+      "B. Scattering of light by water molecules",
+      "C. Reflection of sky",
+      "D. Presence of algae"
+    ],
+    "option_images": [],
+    "answer": "B. Scattering of light by water molecules",
+    "solution": "Just like the sky, sea water appears blue because water molecules and suspended particles scatter shorter wavelength light (blue).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is an example of auto-catalysis?",
+    "question_latex": "Which of the following is an example of auto-catalysis?",
+    "question_images": [],
+    "options": [
+      "A. Oxidation of Oxalic acid by KMnO4",
+      "B. Decomposition of H2O2",
+      "C. Synthesis of Methanol",
+      "D. Haber's process"
+    ],
+    "option_images": [],
+    "answer": "A. Oxidation of Oxalic acid by KMnO4",
+    "solution": "In this reaction, $Mn^{2+}$ ions formed during the reaction act as a catalyst for the further reaction.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Absorption and Colloids",
+    "question": "The movement of dispersion medium under the influence of electric field is",
+    "question_latex": "The movement of dispersion medium under the influence of electric field is",
+    "question_images": [],
+    "options": [
+      "A. Electrophoresis",
+      "B. Electro-osmosis",
+      "C. Peptization",
+      "D. Coagulation"
+    ],
+    "option_images": [],
+    "answer": "B. Electro-osmosis",
+    "solution": "In electro-osmosis, the colloidal particles are prevented from moving, and the dispersion medium moves through a membrane.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Absorption and Colloids",
+    "question": "Finely divided iron is used as a catalyst in Haber's process. It is an example of",
+    "question_latex": "Finely divided iron is used as a catalyst in Haber's process. It is an example of",
+    "question_images": [],
+    "options": [
+      "A. Homogeneous catalysis",
+      "B. Heterogeneous catalysis",
+      "C. Enzyme catalysis",
+      "D. Acid-Base catalysis"
+    ],
+    "option_images": [],
+    "answer": "B. Heterogeneous catalysis",
+    "solution": "The reactants are gases ($N_2, H_2$) and the catalyst ($Fe$) is a solid, making it a heterogeneous system.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Absorption and Colloids",
+    "question": "Physical adsorption is",
+    "question_latex": "Physical adsorption is",
+    "question_images": [],
+    "options": [
+      "A. Irreversible",
+      "B. Reversible",
+      "C. Highly specific",
+      "D. High heat of adsorption"
+    ],
+    "option_images": [],
+    "answer": "B. Reversible",
+    "solution": "Physisorption is reversible because it involves weak forces; gas can be removed by reducing pressure or increasing temperature.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Absorption and Colloids",
+    "question": "As2S3 sol is a",
+    "question_latex": "$As_2S_3$ sol is a",
+    "question_images": [],
+    "options": [
+      "A. Positively charged sol",
+      "B. Negatively charged sol",
+      "C. Neutral sol",
+      "D. Lyophilic sol"
+    ],
+    "option_images": [],
+    "answer": "B. Negatively charged sol",
+    "solution": "Metal sulphides like arsenic sulphide generally form negatively charged colloidal sols.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Absorption and Colloids",
+    "question": "Shape-selective catalysis is a reaction catalyzed by",
+    "question_latex": "Shape-selective catalysis is a reaction catalyzed by",
+    "question_images": [],
+    "options": [
+      "A. Zeolites",
+      "B. Enzymes",
+      "C. Transition metals",
+      "D. Alkalies"
+    ],
+    "option_images": [],
+    "answer": "A. Zeolites",
+    "solution": "Zeolites are microporous aluminosilicates with fixed pore sizes that allow only specific molecules to react, showing shape selectivity.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Absorption and Colloids",
+    "question": "In the coagulation of a positive sol like Fe(OH)3, which ion is most effective?",
+    "question_latex": "In the coagulation of a positive sol like $Fe(OH)_3$, which ion is most effective?",
+    "question_images": [],
+    "options": [
+      "A. Cl-",
+      "B. SO42-",
+      "C. PO43-",
+      "D. [Fe(CN)6]4-"
+    ],
+    "option_images": [],
+    "answer": "D. [Fe(CN)6]4-",
+    "solution": "Coagulating power increases with the valency of the ion. Ferrocyanide (4-) is more effective than phosphate (3-), sulphate (2-), or chloride (1-).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Absorption and Colloids",
+    "question": "A catalyst used in the hydrogenation of vegetable oils is",
+    "question_latex": "A catalyst used in the hydrogenation of vegetable oils is",
+    "question_images": [],
+    "options": [
+      "A. V2O5",
+      "B. Ni",
+      "C. Fe",
+      "D. Pt"
+    ],
+    "option_images": [],
+    "answer": "B. Ni",
+    "solution": "Finely divided Nickel is the industrial catalyst used for converting oils to fats (vanaspati ghee).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Absorption and Colloids",
+    "question": "Which property defines the stability of lyophobic sols?",
+    "question_latex": "Which property defines the stability of lyophobic sols?",
+    "question_images": [],
+    "options": [
+      "A. Hydration",
+      "B. Charge on particles",
+      "C. Size of particles",
+      "D. Viscosity"
+    ],
+    "option_images": [],
+    "answer": "B. Charge on particles",
+    "solution": "Lyophobic sols are stabilized only by the electric charge on particles which prevents them from aggregating due to repulsion.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Absorption and Colloids",
+    "question": "Cottrell precipitator is used for",
+    "question_latex": "Cottrell precipitator is used for",
+    "question_images": [],
+    "options": [
+      "A. Purification of water",
+      "B. Removing carbon from smoke",
+      "C. Preparation of emulsions",
+      "D. Electrodialysis"
+    ],
+    "option_images": [],
+    "answer": "B. Removing carbon from smoke",
+    "solution": "It uses high voltage to neutralize and precipitate charged carbon particles in smoke before releasing it into the atmosphere.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Absorption and Colloids",
+    "question": "Adsorption of hydrogen on palladium is known as",
+    "question_latex": "Adsorption of hydrogen on palladium is known as",
+    "question_images": [],
+    "options": [
+      "A. Occlusion",
+      "B. Absorption",
+      "C. Syneresis",
+      "D. Sorption"
+    ],
+    "option_images": [],
+    "answer": "A. Occlusion",
+    "solution": "The adsorption of gases by metals is specifically called occlusion.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is a macromolecular colloid?",
+    "question_latex": "Which of the following is a macromolecular colloid?",
+    "question_images": [],
+    "options": [
+      "A. Sulphur sol",
+      "B. Soap solution",
+      "C. Starch sol",
+      "D. Gold sol"
+    ],
+    "option_images": [],
+    "answer": "C. Starch sol",
+    "solution": "Starch, proteins, and cellulose are natural macromolecules that form colloidal solutions where each molecule is of colloidal size.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Absorption and Colloids",
+    "question": "Enzymes work at their maximum efficiency at",
+    "question_latex": "Enzymes work at their maximum efficiency at",
+    "question_images": [],
+    "options": [
+      "A. Very high temperature",
+      "B. Very low temperature",
+      "C. Optimum temperature (310 K)",
+      "D. 273 K"
+    ],
+    "option_images": [],
+    "answer": "C. Optimum temperature (310 K)",
+    "solution": "Bio-catalysts are highly sensitive to temperature and function best at body temperature (around 310 K).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is a characteristic of multimolecular colloids?",
+    "question_latex": "Which of the following is a characteristic of multimolecular colloids?",
+    "question_images": [],
+    "options": [
+      "A. Consist of large single molecules",
+      "B. Formed by aggregation of many atoms or small molecules",
+      "C. Conduct electricity strongly",
+      "D. Unstable in nature"
+    ],
+    "option_images": [],
+    "answer": "B. Formed by aggregation of many atoms or small molecules",
+    "solution": "Examples include sulphur sol and gold sol, where thousands of small particles aggregate to reach colloidal dimensions.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Absorption and Colloids",
+    "question": "The Tyndall effect is not shown by",
+    "question_latex": "The Tyndall effect is not shown by",
+    "question_images": [],
+    "options": [
+      "A. Milk",
+      "B. Gold sol",
+      "C. Sugar solution",
+      "D. Starch sol"
+    ],
+    "option_images": [],
+    "answer": "C. Sugar solution",
+    "solution": "Sugar solution is a true solution; the solute particles are too small to scatter light.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Absorption and Colloids",
+    "question": "Freundlich adsorption isotherm fails at",
+    "question_latex": "Freundlich adsorption isotherm fails at",
+    "question_images": [],
+    "options": [
+      "A. Low pressure",
+      "B. High pressure",
+      "C. Moderate pressure",
+      "D. 273 K"
+    ],
+    "option_images": [],
+    "answer": "B. High pressure",
+    "solution": "At high pressure, the adsorption becomes independent of pressure (saturation), which the Freundlich equation does not account for.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Absorption and Colloids",
+    "question": "Delta formation at the mouth of a river is due to",
+    "question_latex": "Delta formation at the mouth of a river is due to",
+    "question_images": [],
+    "options": [
+      "A. Adsorption",
+      "B. Coagulation",
+      "C. Peptization",
+      "D. Tyndall effect"
+    ],
+    "option_images": [],
+    "answer": "B. Coagulation",
+    "solution": "When river water (colloidal clay) meets sea water (electrolytes), the clay particles coagulate and settle to form a delta.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is a physical adsorption property?",
+    "question_latex": "Which of the following is a physical adsorption property?",
+    "question_images": [],
+    "options": [
+      "A. High specificity",
+      "B. Forms unimolecular layer",
+      "C. Decreases with increase in temperature",
+      "D. Requires high activation energy"
+    ],
+    "option_images": [],
+    "answer": "C. Decreases with increase in temperature",
+    "solution": "Physisorption is exothermic; according to Le Chatelier, increasing temperature shifts equilibrium toward desorption.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Absorption and Colloids",
+    "question": "Preparation of gold sol by reducing AuCl3 with SnCl2 is",
+    "question_latex": "Preparation of gold sol by reducing $AuCl_3$ with $SnCl_2$ is",
+    "question_images": [],
+    "options": [
+      "A. Bredig's Arc method",
+      "B. Chemical method (Reduction)",
+      "C. Oxidation",
+      "D. Hydrolysis"
+    ],
+    "option_images": [],
+    "answer": "B. Chemical method (Reduction)",
+    "solution": "Reduction of metal salts is a common chemical method to produce metal sols.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Absorption and Colloids",
+    "question": "Lyophilic sols are more stable than lyophobic sols because",
+    "question_latex": "Lyophilic sols are more stable than lyophobic sols because",
+    "question_images": [],
+    "options": [
+      "A. They are more highly charged",
+      "B. They are solvated (hydrated)",
+      "C. They have larger particles",
+      "D. They show Tyndall effect"
+    ],
+    "option_images": [],
+    "answer": "B. They are solvated (hydrated)",
+    "solution": "Lyophilic particles are surrounded by a layer of dispersion medium, which provides extra stability besides the charge.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is used to stabilize emulsions?",
+    "question_latex": "Which of the following is used to stabilize emulsions?",
+    "question_images": [],
+    "options": [
+      "A. Electrolyte",
+      "B. Emulsifier",
+      "C. Peptizer",
+      "D. Catalyst"
+    ],
+    "option_images": [],
+    "answer": "B. Emulsifier",
+    "solution": "Emulsifying agents (like soap or casein) form a protective film around droplets, preventing them from coalescing.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Absorption and Colloids",
+    "question": "Blood is a",
+    "question_latex": "Blood is a",
+    "question_images": [],
+    "options": [
+      "A. Positively charged sol",
+      "B. Negatively charged sol",
+      "C. Neutral sol",
+      "D. True solution"
+    ],
+    "option_images": [],
+    "answer": "B. Negatively charged sol",
+    "solution": "Hemoglobin in blood is a colloidal particle, and blood as a whole behaves as a negatively charged sol.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Absorption and Colloids",
+    "question": "The adsorbent used in the decolorization of sugar is",
+    "question_latex": "The adsorbent used in the decolorization of sugar is",
+    "question_images": [],
+    "options": [
+      "A. Silica gel",
+      "B. Animal charcoal",
+      "C. Alum",
+      "D. Fuller's earth"
+    ],
+    "option_images": [],
+    "answer": "B. Animal charcoal",
+    "solution": "Animal charcoal is used to adsorb organic coloring matter from raw sugar solutions.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Absorption and Colloids",
+    "question": "Which among the following is an associated colloid?",
+    "question_latex": "Which among the following is an associated colloid?",
+    "question_images": [],
+    "options": [
+      "A. Proteins",
+      "B. Cellulose",
+      "C. Soap solution",
+      "D. Rubber sol"
+    ],
+    "option_images": [],
+    "answer": "C. Soap solution",
+    "solution": "Soap molecules aggregate into micelles at higher concentrations (CMC), forming associated colloids.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Absorption and Colloids",
+    "question": "ZSM-5 is a catalyst used in",
+    "question_latex": "ZSM-5 is a catalyst used in",
+    "question_images": [],
+    "options": [
+      "A. Conversion of alcohol to gasoline",
+      "B. Haber's process",
+      "C. Manufacture of H2SO4",
+      "D. Hydrogenation"
+    ],
+    "option_images": [],
+    "answer": "A. Conversion of alcohol to gasoline",
+    "solution": "ZSM-5 is a shape-selective zeolite catalyst used in the petroleum industry to dehydrate alcohols into hydrocarbons.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Absorption and Colloids",
+    "question": "The heat of adsorption in chemisorption is",
+    "question_latex": "The heat of adsorption in chemisorption is",
+    "question_images": [],
+    "options": [
+      "A. 20 - 40 kJ/mol",
+      "B. 80 - 240 kJ/mol",
+      "C. 0 - 10 kJ/mol",
+      "D. > 1000 kJ/mol"
+    ],
+    "option_images": [],
+    "answer": "B. 80 - 240 kJ/mol",
+    "solution": "Chemisorption involves strong chemical bonds, hence the energy release is high (comparable to chemical reactions).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Absorption and Colloids",
+    "question": "Which method is based on the difference in electrical properties of colloidal particles?",
+    "question_latex": "Which method is based on the difference in electrical properties of colloidal particles?",
+    "question_images": [],
+    "options": [
+      "A. Dialysis",
+      "B. Ultrafiltration",
+      "C. Electrophoresis",
+      "D. Tyndall effect"
+    ],
+    "option_images": [],
+    "answer": "C. Electrophoresis",
+    "solution": "Electrophoresis involves the movement of charged colloidal particles toward an oppositely charged electrode.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Absorption and Colloids",
+    "question": "Preparation of sols of metals like Pt, Au, and Ag can be done by",
+    "question_latex": "Preparation of sols of metals like $Pt, Au,$ and $Ag$ can be done by",
+    "question_images": [],
+    "options": [
+      "A. Peptization",
+      "B. Bredig's Arc method",
+      "C. Hydrolysis",
+      "D. Dialysis"
+    ],
+    "option_images": [],
+    "answer": "B. Bredig's Arc method",
+    "solution": "This method (electrical disintegration) involves striking an arc between metal electrodes submerged in the dispersion medium.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following acts as a protective colloid?",
+    "question_latex": "Which of the following acts as a protective colloid?",
+    "question_images": [],
+    "options": [
+      "A. Fe(OH)3",
+      "B. Gelatin",
+      "C. As2S3",
+      "D. Gold sol"
+    ],
+    "option_images": [],
+    "answer": "B. Gelatin",
+    "solution": "Lyophilic colloids like gelatin protect lyophobic colloids from coagulation by electrolytes.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Absorption and Colloids",
+    "question": "Syneresis is the process of",
+    "question_latex": "Syneresis is the process of",
+    "question_images": [],
+    "options": [
+      "A. Gel formation",
+      "B. Shrinking of gel and release of liquid",
+      "C. Swelling of gel",
+      "D. Coagulation"
+    ],
+    "option_images": [],
+    "answer": "B. Shrinking of gel and release of liquid",
+    "solution": "Syneresis is the spontaneous exudation of liquid from a gel upon standing.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Absorption and Colloids",
+    "question": "Adsorption enthalpy of N2 on iron at 80 K is -35 kJ/mol. This is",
+    "question_latex": "Adsorption enthalpy of $N_2$ on iron at 80 K is -35 kJ/mol. This is",
+    "question_images": [],
+    "options": [
+      "A. Chemisorption",
+      "B. Physisorption",
+      "C. Absorption",
+      "D. Occlusion"
+    ],
+    "option_images": [],
+    "answer": "B. Physisorption",
+    "solution": "An enthalpy of -35 kJ/mol falls in the physisorption range (20-40 kJ/mol).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Absorption and Colloids",
+    "question": "Which among the following is a solid sol?",
+    "question_latex": "Which among the following is a solid sol?",
+    "question_images": [],
+    "options": [
+      "A. Gem stones",
+      "B. Smoke",
+      "C. Cheese",
+      "D. Pumice stone"
+    ],
+    "option_images": [],
+    "answer": "A. Gem stones",
+    "solution": "Colored gem stones are solid sols where a solid is dispersed in another solid.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Absorption and Colloids",
+    "question": "The activity of a catalyst depends on",
+    "question_latex": "The activity of a catalyst depends on",
+    "question_images": [],
+    "options": [
+      "A. Strength of chemical adsorption",
+      "B. Free surface energy",
+      "C. Total surface area",
+      "D. All of the above"
+    ],
+    "option_images": [],
+    "answer": "D. All of the above",
+    "solution": "All these factors contribute to how effectively a catalyst can adsorb reactants and lower activation energy.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Absorption and Colloids",
+    "question": "Cleansing action of soap is due to",
+    "question_latex": "Cleansing action of soap is due to",
+    "question_images": [],
+    "options": [
+      "A. Adsorption",
+      "B. Emulsification",
+      "C. Coagulation",
+      "D. Hydrolysis"
+    ],
+    "option_images": [],
+    "answer": "B. Emulsification",
+    "solution": "Soap molecules form micelles around grease/oil and emulsify them in water.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Absorption and Colloids",
+    "question": "CMC stands for",
+    "question_latex": "CMC stands for",
+    "question_images": [],
+    "options": [
+      "A. Critical Mass Concentration",
+      "B. Critical Micelle Concentration",
+      "C. Constant Micelle Concentration",
+      "D. Colloidal Mass Coefficient"
+    ],
+    "option_images": [],
+    "answer": "B. Critical Micelle Concentration",
+    "solution": "CMC is the minimum concentration above which surfactant molecules begin to form micelles.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is not a surfactant?",
+    "question_latex": "Which of the following is not a surfactant?",
+    "question_images": [],
+    "options": [
+      "A. Sodium stearate",
+      "B. Cetyl trimethyl ammonium bromide",
+      "C. Glucose",
+      "D. Sodium dodecyl sulphate"
+    ],
+    "option_images": [],
+    "answer": "C. Glucose",
+    "solution": "Surfactants have polar and non-polar ends. Glucose is a simple neutral sugar.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Absorption and Colloids",
+    "question": "The coagulation of colloidal particles by an electrolyte is called",
+    "question_latex": "The coagulation of colloidal particles by an electrolyte is called",
+    "question_images": [],
+    "options": [
+      "A. Peptization",
+      "B. Flocculation",
+      "C. Dialysis",
+      "D. Diffusion"
+    ],
+    "option_images": [],
+    "answer": "B. Flocculation",
+    "solution": "Flocculation or coagulation is the aggregation of particles into larger visible masses.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Absorption and Colloids",
+    "question": "The catalyst used in Contact Process for H2SO4 is",
+    "question_latex": "The catalyst used in Contact Process for $H_2SO_4$ is",
+    "question_images": [],
+    "options": [
+      "A. Platinised asbestos",
+      "B. V2O5",
+      "C. Fe",
+      "D. Both A and B"
+    ],
+    "option_images": [],
+    "answer": "D. Both A and B",
+    "solution": "Historically Platinum was used, but currently $V_2O_5$ is preferred due to lower cost and resistance to poisoning.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Absorption and Colloids",
+    "question": "Extent of adsorption depends on",
+    "question_latex": "Extent of adsorption depends on",
+    "question_images": [],
+    "options": [
+      "A. Nature of gas",
+      "B. Nature of solid",
+      "C. Pressure and Temperature",
+      "D. All of the above"
+    ],
+    "option_images": [],
+    "answer": "D. All of the above",
+    "solution": "Adsorption is influenced by the properties of both phases and the external conditions.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is used as an adsorbent in column chromatography?",
+    "question_latex": "Which of the following is used as an adsorbent in column chromatography?",
+    "question_images": [],
+    "options": [
+      "A. Alumina",
+      "B. NaCl",
+      "C. KCl",
+      "D. Sugar"
+    ],
+    "option_images": [],
+    "answer": "A. Alumina",
+    "solution": "Alumina ($Al_2O_3$) and silica gel are standard stationary phases used as adsorbents.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Absorption and Colloids",
+    "question": "Solubility of a gas in a liquid increases with",
+    "question_latex": "Solubility of a gas in a liquid increases with",
+    "question_images": [],
+    "options": [
+      "A. Increase in temperature",
+      "B. Decrease in pressure",
+      "C. Increase in pressure",
+      "D. Stirring"
+    ],
+    "option_images": [],
+    "answer": "C. Increase in pressure",
+    "solution": "According to Henry's law, the solubility of a gas is directly proportional to its partial pressure.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Absorption and Colloids",
+    "question": "Gelatin is a",
+    "question_latex": "Gelatin is a",
+    "question_images": [],
+    "options": [
+      "A. Lyophobic sol",
+      "B. Lyophilic sol",
+      "C. True solution",
+      "D. Hydrophobic sol"
+    ],
+    "option_images": [],
+    "answer": "B. Lyophilic sol",
+    "solution": "Gelatin has a strong affinity for water (dispersion medium).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Absorption and Colloids",
+    "question": "Adsorption of gas on solid surface is",
+    "question_latex": "Adsorption of gas on solid surface is",
+    "question_images": [],
+    "options": [
+      "A. Reversible in physisorption",
+      "B. Irreversible in chemisorption",
+      "C. Specific in physisorption",
+      "D. Both A and B"
+    ],
+    "option_images": [],
+    "answer": "D. Both A and B",
+    "solution": "Physisorption is reversible and non-specific, whereas chemisorption is irreversible and specific.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is not a colloid?",
+    "question_latex": "Which of the following is not a colloid?",
+    "question_images": [],
+    "options": [
+      "A. Smoke",
+      "B. Fog",
+      "C. Brine",
+      "D. Blood"
+    ],
+    "option_images": [],
+    "answer": "C. Brine",
+    "solution": "Brine is a true solution of $NaCl$ in water.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Absorption and Colloids",
+    "question": "Peptization is used for",
+    "question_latex": "Peptization is used for",
+    "question_images": [],
+    "options": [
+      "A. Purifying a colloid",
+      "B. Converting a precipitate into a sol",
+      "C. Precipitating a colloid",
+      "D. Measuring particle size"
+    ],
+    "option_images": [],
+    "answer": "B. Converting a precipitate into a sol",
+    "solution": "By adding an electrolyte with a common ion, the precipitate particles acquire a charge and disperse.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is an example of a gas in solid colloid?",
+    "question_latex": "Which of the following is an example of a gas in solid colloid?",
+    "question_images": [],
+    "options": [
+      "A. Pumice stone",
+      "B. Smoke",
+      "C. Mist",
+      "D. Ruby glass"
+    ],
+    "option_images": [],
+    "answer": "A. Pumice stone",
+    "solution": "Pumice stone is a solid foam where gas is trapped within the solid structure.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Absorption and Colloids",
+    "question": "Gold sols are prepared by Bredig's arc method. SnCl2 is added as",
+    "question_latex": "Gold sols are prepared by Bredig's arc method. $SnCl_2$ is added as",
+    "question_images": [],
+    "options": [
+      "A. Reducing agent",
+      "B. Stabilizing agent",
+      "C. Peptizing agent",
+      "D. Protective colloid"
+    ],
+    "option_images": [],
+    "answer": "A. Reducing agent",
+    "solution": "In chemical preparation of gold sol, $SnCl_2$ reduces $Au^{3+}$ to metallic gold particles.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Absorption and Colloids",
+    "question": "The process of precipitation of a colloidal sol by the addition of excess electrolyte is",
+    "question_latex": "The process of precipitation of a colloidal sol by the addition of excess electrolyte is",
+    "question_images": [],
+    "options": [
+      "A. Dialysis",
+      "B. Coagulation",
+      "C. Peptization",
+      "D. Sorption"
+    ],
+    "option_images": [],
+    "answer": "B. Coagulation",
+    "solution": "Electrolytes neutralize the surface charge of colloids, allowing them to aggregate.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is used as an emulsifier?",
+    "question_latex": "Which of the following is not a surfactant?",
+    "question_images": [],
+    "options": [
+      "A. Soap",
+      "B. Detergent",
+      "C. Lyophilic colloid",
+      "D. All of the above"
+    ],
+    "option_images": [],
+    "answer": "D. All of the above",
+    "solution": "Soaps, detergents, and lyophilic proteins are common emulsifiers.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Absorption and Colloids",
+    "question": "Dialysis is used for",
+    "question_latex": "Dialysis is used for",
+    "question_images": [],
+    "options": [
+      "A. Preparation of colloid",
+      "B. Purification of colloid",
+      "C. Coagulation of colloid",
+      "D. Stabilization of colloid"
+    ],
+    "option_images": [],
+    "answer": "B. Purification of colloid",
+    "solution": "It removes excess electrolytes and crystalloids.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Absorption and Colloids",
+    "question": "In Freundlich adsorption isotherm, the value of 1/n is",
+    "question_latex": "In Freundlich adsorption isotherm, the value of $1/n$ is",
+    "question_images": [],
+    "options": [
+      "A. always 1",
+      "B. between 0 and 1",
+      "C. between 1 and 10",
+      "D. always 0"
+    ],
+    "option_images": [],
+    "answer": "B. between 0 and 1",
+    "solution": "The power term $1/n$ usually lies between 0 and 1 for typical adsorption systems.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Absorption and Colloids",
+    "question": "Which among the following is an auto-catalytic reaction?",
+    "question_latex": "Which among the following is an auto-catalytic reaction?",
+    "question_images": [],
+    "options": [
+      "A. Acid hydrolysis of an ester",
+      "B. Synthesis of ammonia",
+      "C. Inversion of cane sugar",
+      "D. Both A and C"
+    ],
+    "option_images": [],
+    "answer": "A. Acid hydrolysis of an ester",
+    "solution": "One of the products, the acid ($CH_3COOH$), increases the concentration of $H^+$ ions which catalyzes the reaction further.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Absorption and Colloids",
+    "question": "Blue color of ferric hydroxide sol is due to",
+    "question_latex": "Blue color of ferric hydroxide sol is due to",
+    "question_images": [],
+    "options": [
+      "A. Absorption of light",
+      "B. Scattering of light",
+      "C. Refraction",
+      "D. Emission"
+    ],
+    "option_images": [],
+    "answer": "B. Scattering of light",
+    "solution": "The color of colloidal solutions depends on the wavelength of scattered light.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Absorption and Colloids",
+    "question": "In Langmuir adsorption isotherm, the surface area covered is",
+    "question_latex": "In Langmuir adsorption isotherm, the surface area covered is",
+    "question_images": [],
+    "options": [
+      "A. Directly proportional to pressure at low P",
+      "B. Independent of pressure at high P",
+      "C. Both A and B",
+      "D. Proportional to T"
+    ],
+    "option_images": [],
+    "answer": "C. Both A and B",
+    "solution": "Langmuir model predicts linear growth at low pressure and saturation (independence) at high pressure.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Absorption and Colloids",
+    "question": "Silica gel is used for",
+    "question_latex": "Silica gel is used for",
+    "question_images": [],
+    "options": [
+      "A. Removing moisture from air",
+      "B. Adsorbing coloring matter",
+      "C. Adsorbing poisonous gases",
+      "D. Coagulating water"
+    ],
+    "option_images": [],
+    "answer": "A. Removing moisture from air",
+    "solution": "Silica gel is an effective desiccant that adsorbs water vapor.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Absorption and Colloids",
+    "question": "The movement of colloidal particles defines",
+    "question_latex": "The movement of colloidal particles defines",
+    "question_images": [],
+    "options": [
+      "A. Kinetic property",
+      "B. Optical property",
+      "C. Electrical property",
+      "D. Chemical property"
+    ],
+    "option_images": [],
+    "answer": "A. Kinetic property",
+    "solution": "Brownian motion and diffusion are kinetic properties of colloids.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Absorption and Colloids",
+    "question": "The coagulating power of cations for negatively charged sol is in order",
+    "question_latex": "The coagulating power of cations for negatively charged sol is in order",
+    "question_images": [],
+    "options": [
+      "A. Na+ > Mg2+ > Al3+",
+      "B. Al3+ > Mg2+ > Na+",
+      "C. Mg2+ > Na+ > Al3+",
+      "D. Al3+ > Na+ > Mg2+"
+    ],
+    "option_images": [],
+    "answer": "B. Al3+ > Mg2+ > Na+",
+    "solution": "As per Hardy-Schulze rule: power $\\propto (charge)^n$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is a physical adsorption characteristic?",
+    "question_latex": "Which of the following is a physical adsorption characteristic?",
+    "question_images": [],
+    "options": [
+      "A. Irreversibility",
+      "B. Non-specificity",
+      "C. High enthalpy of adsorption",
+      "D. Unimolecular layer"
+    ],
+    "option_images": [],
+    "answer": "B. Non-specificity",
+    "solution": "Any gas can be physically adsorbed on any solid to some extent.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Absorption and Colloids",
+    "question": "Emulsification is the process of",
+    "question_latex": "Emulsification is the process of",
+    "question_images": [],
+    "options": [
+      "A. Coagulating an emulsion",
+      "B. Preparing an emulsion",
+      "C. Breaking an emulsion",
+      "D. Purifying an emulsion"
+    ],
+    "option_images": [],
+    "answer": "B. Preparing an emulsion",
+    "solution": "It involves the dispersion of one liquid into another with the help of a stabilizer.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Absorption and Colloids",
+    "question": "In electrophoresis",
+    "question_latex": "In electrophoresis",
+    "question_images": [],
+    "options": [
+      "A. Solvent moves",
+      "B. Colloidal particles move",
+      "C. Both move",
+      "D. None moves"
+    ],
+    "option_images": [],
+    "answer": "B. Colloidal particles move",
+    "solution": "Specifically, the dispersed phase particles move toward the oppositely charged electrode.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following is least adsorbed by solid adsorbent? [MHT-CET 2024]",
+    "question_latex": "Which of the following is least adsorbed by solid adsorbent? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. N2",
+      "B. SO2",
+      "C. Cl2",
+      "D. NH3"
+    ],
+    "option_images": [],
+    "answer": "A. N2",
+    "solution": "Easily liquefiable gases (high $T_c$) are adsorbed more strongly. $N_2$ has a very low critical temperature compared to $NH_3$ or $SO_2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Absorption and Colloids",
+    "question": "Tyndall cone is formed during",
+    "question_latex": "Tyndall cone is formed during",
+    "question_images": [],
+    "options": [
+      "A. Passing of light through sol",
+      "B. Coagulation",
+      "C. Dialysis",
+      "D. Brownian motion"
+    ],
+    "option_images": [],
+    "answer": "A. Passing of light through sol",
+    "solution": "The bright cone of scattered light seen when a beam passes through a colloidal sol is the Tyndall cone.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Absorption and Colloids",
+    "question": "Sorption is a process where",
+    "question_latex": "Sorption is a process where",
+    "question_images": [],
+    "options": [
+      "A. Only adsorption occurs",
+      "B. Only absorption occurs",
+      "C. Both adsorption and absorption occur together",
+      "D. No change in concentration"
+    ],
+    "option_images": [],
+    "answer": "C. Both adsorption and absorption occur together",
+    "solution": "When surface accumulation and bulk penetration happen simultaneously, the process is called sorption.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Absorption and Colloids",
+    "question": "Whipped cream is an example of which type of colloid?",
+    "question_latex": "Whipped cream is an example of which type of colloid?",
+    "question_images": [],
+    "options": [
+      "A. Foam",
+      "B. Aerosol",
+      "C. Emulsion",
+      "D. Sol"
+    ],
+    "option_images": [],
+    "answer": "A. Foam",
+    "solution": "A foam is a colloidal dispersion of gas in a liquid.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Absorption and Colloids",
+    "question": "Which among the following is a property of lyophilic colloids? [MHT-CET 2022]",
+    "question_latex": "Which among the following is a property of lyophilic colloids? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Surface tension of dispersed phase and dispersion medium is nearly same.",
+      "B. Viscosity of dispersed phase and dispersion medium is nearly same.",
+      "C. These are precipitated by adding small amount of electrolyte.",
+      "D. These are self-stabilized."
+    ],
+    "option_images": [],
+    "answer": "D. These are self-stabilized.",
+    "solution": "Lyophilic colloids are intrinsic colloids that are highly stable and don't require external stabilizers.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Absorption and Colloids",
+    "question": "Which from following property is used to prevent movement of dispersed phase particles from one compartment to other through semipermeable membrane? [2025]",
+    "question_latex": "Which from following property is used to prevent movement of dispersed phase particles from one compartment to other through semipermeable membrane? [2025]",
+    "question_images": [],
+    "options": [
+      "A. Optical property",
+      "B. Electrophoresis",
+      "C. Electroosmosis",
+      "D. Brownian motion"
+    ],
+    "option_images": [],
+    "answer": "C. Electroosmosis",
+    "solution": "Electroosmosis involves the movement of the dispersion medium while the charged colloidal particles are kept stationary.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Absorption and Colloids",
+    "question": "Which of the following compounds forms a colloidal solution when dissolved in water? [MHT-CET 2020]",
+    "question_latex": "Which of the following compounds forms a colloidal solution when dissolved in water? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. Starch",
+      "B. Glucose",
+      "C. Common salt",
+      "D. Ammonium chloride"
+    ],
+    "option_images": [],
+    "answer": "A. Starch",
+    "solution": "Starch is a macromolecule that forms a lyophilic colloidal solution.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Absorption and Colloids",
+    "question": "Which from following gases is least adsorbed by solid adsorbent? [MHT-CET 2024]",
+    "question_latex": "Which from following gases is least adsorbed by solid adsorbent? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. N2",
+      "B. SO2",
+      "C. Cl2",
+      "D. NH3"
+    ],
+    "option_images": [],
+    "answer": "A. N2",
+    "solution": "The amount of gas adsorbed increases with its critical temperature. Nitrogen has the lowest $T_c$ among the given gases.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   }
 ]

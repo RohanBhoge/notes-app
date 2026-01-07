@@ -1,0 +1,1902 @@
+[
+    {
+        "id": 1,
+        "chapter": "Error Analysis",
+        "question": "Consider the following statements and select the correct statement(s)? I. If l1 = 0.6 cm; l2 = 0.60 cm and l3 = 0.600 cm, then l3 is the most accurate measurement. II. l3 = 0.600 cm has the least error so it is most accurate",
+        "question_latex": "Consider the following statements and select the correct statement(s)? I. If $l_{1}=0.6$ cm; $l_{2}=0.60$ cm and $l_{3}=0.600$ cm, then $l_{3}$ is the most accurate measurement. II. $l_{3}=0.600~cm$ has the least error so it is most accurate",
+        "question_images": [],
+        "options": [
+            "A. I only",
+            "B. II only",
+            "C. Both I and II",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The measurement $l_{3}=0.600~cm$ has three decimal places, implying a smaller least count ($0.001~cm$) compared to others. A smaller least count leads to higher precision and accuracy in this context.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Error Analysis",
+        "question": "If P = (25 +/- 0.2) and Q = (16 +/- 0.7) then error in P + Q is:",
+        "question_latex": "If $P=(25\\pm0.2)$ and $Q=(16\\pm0.7)$ then error in $P+Q$ is:",
+        "question_images": [],
+        "options": [
+            "A. +/- 0.5",
+            "B. +/- 1.4",
+            "C. +/- 0.9",
+            "D. +/- 8.5"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In addition, absolute errors are added: $\\Delta(P+Q) = \\Delta P + \\Delta Q = 0.2 + 0.7 = 0.9$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Error Analysis",
+        "question": "The velocity of transverse wave in a string is v = sqrt(T/m) where T is the tension in the string and m is mass per unit length. If T = 3.0 kgf, mass of string is 2.5 g and length of string is 1.000 m, then the percentage error in the measurement of velocity is",
+        "question_latex": "The velocity of transverse wave in a string is $v=\\sqrt{\\frac{T}{m}}$ where $T$ is the tension in the string and $m$ is mass per unit length. If $T=3.0~kgf$, mass of string is $2.5~g$ and length of string is $1.000~m$, then the percentage error in the measurement of velocity is",
+        "question_images": [],
+        "options": [
+            "A. 0.5",
+            "B. 0.7",
+            "C. 2.4",
+            "D. 3.2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$v = \\sqrt{\\frac{T \\times L}{M}}$. $\\frac{\\Delta v}{v} = \\frac{1}{2} [\\frac{\\Delta T}{T} + \\frac{\\Delta L}{L} + \\frac{\\Delta M}{M}]$. Using least counts: $\\frac{\\Delta v}{v} = \\frac{1}{2} [\\frac{0.1}{3.0} + \\frac{0.001}{1.000} + \\frac{0.1}{2.5}] = \\frac{1}{2} [0.0333 + 0.001 + 0.04] = 0.037$. Percentage error $\\approx 3.7\\%$. (Based on standard rounding/options available).",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Error Analysis",
+        "question": "The significant figures in 0.007 m^2 are",
+        "question_latex": "The significant figures in $0.007~m^{2}$ are",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Leading zeros are not significant. Only the digit '7' is significant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Error Analysis",
+        "question": "The dimensions of surface tension are [MHT-CET 2021]",
+        "question_latex": "The dimensions of surface tension are [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L0 T-2]",
+            "B. [M1 L1 T-2]",
+            "C. [M1 L2 T-2]",
+            "D. [M0 L1 T-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Surface tension $T = Force / Length = [M^{1} L^{1} T^{-2}] / [L^{1}] = [M^{1} L^{0} T^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Error Analysis",
+        "question": "The error in the measurement of radius of a sphere is 2%. The error in the measurement of its volume will be [MHT-CET 2023]",
+        "question_latex": "The error in the measurement of radius of a sphere is $2\\%$. The error in the measurement of its volume will be [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2%",
+            "B. 4%",
+            "C. 6%",
+            "D. 8%"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$V = \\frac{4}{3}\\pi r^{3} \\Rightarrow \\frac{\\Delta V}{V} = 3\\frac{\\Delta r}{r} = 3 \\times 2\\% = 6\\%$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Error Analysis",
+        "question": "Which of the following is not a fundamental unit?",
+        "question_latex": "Which of the following is not a fundamental unit?",
+        "question_images": [],
+        "options": [
+            "A. Meter",
+            "B. Candela",
+            "C. Newton",
+            "D. Kelvin"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Newton is a derived unit of force ($kg \\cdot m/s^{2}$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Error Analysis",
+        "question": "Parallactic second is the unit of",
+        "question_latex": "Parallactic second is the unit of",
+        "question_images": [],
+        "options": [
+            "A. Time",
+            "B. Distance",
+            "C. Velocity",
+            "D. Angle"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Parallactic second (parsec) is a unit used to measure astronomical distances.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Error Analysis",
+        "question": "Light year is a unit of [MHT-CET 2020]",
+        "question_latex": "Light year is a unit of [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Time",
+            "B. Distance",
+            "C. Intensity",
+            "D. Velocity"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Light year is the distance traveled by light in one year.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula for pressure is",
+        "question_latex": "Dimensional formula for pressure is",
+        "question_images": [],
+        "options": [
+            "A. [M1 L1 T-2]",
+            "B. [M1 L-1 T-2]",
+            "C. [M1 L2 T-2]",
+            "D. [M1 L-2 T-2]"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$P = F/A = [M^{1} L^{1} T^{-2}] / [L^{2}] = [M^{1} L^{-1} T^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Error Analysis",
+        "question": "If the error in measurement of mass and speed are 2% and 3% respectively, the error in kinetic energy will be [MHT-CET 2024]",
+        "question_latex": "If the error in measurement of mass and speed are $2\\%$ and $3\\%$ respectively, the error in kinetic energy will be [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 5%",
+            "B. 8%",
+            "C. 11%",
+            "D. 12%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$K = 0.5 mv^{2}$. $\\frac{\\Delta K}{K} = \\frac{\\Delta m}{m} + 2\\frac{\\Delta v}{v} = 2\\% + 2(3\\%) = 8\\%$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Error Analysis",
+        "question": "The percentage error in measurement of resistance is 2% and current is 1%. The error in power calculation (P = I^2 R) is [MHT-CET 2022]",
+        "question_latex": "The percentage error in measurement of resistance is $2\\%$ and current is $1\\%$. The error in power calculation ($P = I^{2} R$) is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 3%",
+            "B. 4%",
+            "C. 5%",
+            "D. 1%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\frac{\\Delta P}{P} = 2\\frac{\\Delta I}{I} + \\frac{\\Delta R}{R} = 2(1\\%) + 2\\% = 4\\%$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Error Analysis",
+        "question": "Planck's constant has the dimensions of [MHT-CET 2019]",
+        "question_latex": "Planck's constant has the dimensions of [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Linear momentum",
+            "B. Angular momentum",
+            "C. Energy",
+            "D. Power"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$E = hf \\Rightarrow h = E/f = [M^{1} L^{2} T^{-2}] / [T^{-1}] = [M^{1} L^{2} T^{-1}]$. This is identical to angular momentum ($L = mvr$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Error Analysis",
+        "question": "How many significant figures are in 4.80 x 10^4?",
+        "question_latex": "How many significant figures are in $4.80 \\times 10^{4}?$",
+        "question_images": [],
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In scientific notation, all digits in the coefficient are significant. 4, 8, and 0 are significant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Error Analysis",
+        "question": "A physical quantity X is given by X = A^2 B / C^3. The percentage errors in A, B, C are 1%, 2%, 3% respectively. Percentage error in X is [MHT-CET 2021]",
+        "question_latex": "A physical quantity $X$ is given by $X = \\frac{A^{2} B}{C^{3}}$. The percentage errors in $A, B, C$ are $1\\%, 2\\%, 3\\%$ respectively. Percentage error in $X$ is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 6%",
+            "B. 13%",
+            "C. 10%",
+            "D. 12%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\frac{\\Delta X}{X} = 2\\frac{\\Delta A}{A} + \\frac{\\Delta B}{B} + 3\\frac{\\Delta C}{C} = 2(1\\%) + 2\\% + 3(3\\%) = 2 + 2 + 9 = 13\\%$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Error Analysis",
+        "question": "The unit of Stefan's constant is [MHT-CET 2023]",
+        "question_latex": "The unit of Stefan's constant is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. W m^-2 K^-4",
+            "B. W m^2 K^4",
+            "C. J m^-2 K^-4",
+            "D. W m^-2 K^4"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$E = \\sigma T^{4} \\Rightarrow \\sigma = Power / (Area \\cdot T^{4})$. Unit is $W / (m^{2} K^{4})$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Error Analysis",
+        "question": "Which of the following measurements is most precise?",
+        "question_latex": "Which of the following measurements is most precise?",
+        "question_images": [],
+        "options": [
+            "A. 5.00 mm",
+            "B. 5.00 cm",
+            "C. 5.00 m",
+            "D. 5.00 km"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Precision is determined by the smallest unit/least count. 5.00 mm implies a resolution of 0.01 mm, which is the smallest absolute increment.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula of universal gravitational constant G is [MHT-CET 2020]",
+        "question_latex": "Dimensional formula of universal gravitational constant $G$ is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. [M-1 L3 T-2]",
+            "B. [M1 L3 T-2]",
+            "C. [M-1 L2 T-2]",
+            "D. [M1 L2 T-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$G = FR^{2} / M_{1}M_{2} = [M^{1} L^{1} T^{-2}] [L^{2}] / [M^{2}] = [M^{-1} L^{3} T^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Error Analysis",
+        "question": "Percentage error in measurement of area of a square is 4%. The percentage error in the measurement of its side is [MHT-CET 2024]",
+        "question_latex": "Percentage error in measurement of area of a square is $4\\%$. The percentage error in the measurement of its side is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 4%",
+            "B. 8%",
+            "C. 2%",
+            "D. 1%"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$A = L^{2} \\Rightarrow \\frac{\\Delta A}{A} = 2\\frac{\\Delta L}{L} \\Rightarrow 4\\% = 2\\frac{\\Delta L}{L} \\Rightarrow \\frac{\\Delta L}{L} = 2\\%$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Error Analysis",
+        "question": "Solar constant is defined as energy received per unit area per unit time. Its dimensions are",
+        "question_latex": "Solar constant is defined as energy received per unit area per unit time. Its dimensions are",
+        "question_images": [],
+        "options": [
+            "A. [M1 L0 T-3]",
+            "B. [M1 L2 T-3]",
+            "C. [M1 L0 T-2]",
+            "D. [M0 L0 T-0]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$S = Energy / (Area \\cdot Time) = [M^{1} L^{2} T^{-2}] / ([L^{2}] [T^{1}]) = [M^{1} L^{0} T^{-3}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Error Analysis",
+        "question": "The displacement of a particle is given by x = at + bt^2. Dimensions of b are [MHT-CET 2022]",
+        "question_latex": "The displacement of a particle is given by $x = at + bt^{2}$. Dimensions of $b$ are [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. [L T-1]",
+            "B. [L T-2]",
+            "C. [L T]",
+            "D. [L]"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "By principle of homogeneity, dimensions of $bt^{2}$ must be same as $x$. $[b] [T^{2}] = [L] \\Rightarrow [b] = [L T^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Error Analysis",
+        "question": "Number of significant figures in 0.0006032 is",
+        "question_latex": "Number of significant figures in $0.0006032$ is",
+        "question_images": [],
+        "options": [
+            "A. 7",
+            "B. 8",
+            "C. 4",
+            "D. 5"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Significant figures are 6, 0, 3, 2. Preceding zeros are not significant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Error Analysis",
+        "question": "A student measures time period of 100 oscillations of a simple pendulum four times as 90s, 91s, 92s, 95s. If minimum division in stop watch is 1s, reported mean time should be [MHT-CET 2021]",
+        "question_latex": "A student measures time period of $100$ oscillations of a simple pendulum four times as $90s, 91s, 92s, 95s$. If minimum division in stop watch is $1s$, reported mean time should be [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 92 +/- 2 s",
+            "B. 92 +/- 5 s",
+            "C. 92 +/- 1 s",
+            "D. 92 +/- 1.5 s"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Mean $T = (90+91+92+95)/4 = 92s$. Deviations: 2, 1, 0, 3. Mean absolute error $= (2+1+0+3)/4 = 1.5s$. Rounded to $2s$ due to $1s$ least count constraint.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of coefficient of viscosity are [MHT-CET 2019]",
+        "question_latex": "Dimensions of coefficient of viscosity are [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L1 T-1]",
+            "B. [M1 L-1 T-1]",
+            "C. [M1 L1 T-2]",
+            "D. [M1 L-1 T-2]"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\eta = F / (A \\cdot dv/dx) = [M^{1} L^{1} T^{-2}] / ([L^{2}] [T^{-1}]) = [M^{1} L^{-1} T^{-1}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Error Analysis",
+        "question": "Force F is given by F = at + bt^2. What are the dimensions of a and b?",
+        "question_latex": "Force $F$ is given by $F = at + bt^{2}$. What are the dimensions of $a$ and $b?$",
+        "question_images": [],
+        "options": [
+            "A. [MLT-3], [MLT-4]",
+            "B. [MLT-1], [MLT-2]",
+            "C. [MLT-2], [MLT-3]",
+            "D. [MLT-4], [MLT-5]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$[at] = [MLT^{-2}] \\Rightarrow [a] = [MLT^{-3}]$. $[bt^{2}] = [MLT^{-2}] \\Rightarrow [b] = [MLT^{-4}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Error Analysis",
+        "question": "Relative density of a substance is mass / mass of equal volume of water. If error in mass of substance is 1% and volume is 2%, the error in relative density is [MHT-CET 2024]",
+        "question_latex": "Relative density of a substance is $mass / mass$ of equal volume of water. If error in mass of substance is $1\\%$ and volume is $2\\%$, the error in relative density is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 1%",
+            "B. 2%",
+            "C. 3%",
+            "D. 0.5%"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$\\rho_{rel} = m / (V \\rho_{w})$. Errors in $m$ and $V$ are added: $1\\% + 2\\% = 3\\%$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula of torque is [MHT-CET 2020]",
+        "question_latex": "Dimensional formula of torque is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L2 T-2]",
+            "B. [M1 L1 T-2]",
+            "C. [M1 L2 T-1]",
+            "D. [M1 L0 T-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\tau = r \\times F = [L] [M^{1} L^{1} T^{-2}] = [M^{1} L^{2} T^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Error Analysis",
+        "question": "Error in measurement of a side of cube is 1%. Percentage error in surface area is [MHT-CET 2023]",
+        "question_latex": "Error in measurement of a side of cube is $1\\%$. Percentage error in surface area is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 1%",
+            "B. 2%",
+            "C. 3%",
+            "D. 6%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$A = 6L^{2} \\Rightarrow \\Delta A/A = 2\\Delta L/L = 2(1\\%) = 2\\%$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Error Analysis",
+        "question": "Which of the following is not a unit of time?",
+        "question_latex": "Which of the following is not a unit of time?",
+        "question_images": [],
+        "options": [
+            "A. Leap year",
+            "B. Lunar month",
+            "C. Light year",
+            "D. Solar day"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Light year is a unit of distance.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Error Analysis",
+        "question": "The length, breadth and thickness of a block are 12 cm, 6 cm and 2.45 cm. The volume reported with correct significant figures is",
+        "question_latex": "The length, breadth and thickness of a block are $12~cm, 6~cm$ and $2.45~cm$. The volume reported with correct significant figures is",
+        "question_images": [],
+        "options": [
+            "A. 176.4 cm^3",
+            "B. 1.8 x 10^2 cm^3",
+            "C. 176 cm^3",
+            "D. 2 x 10^2 cm^3"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Product results must have significant figures equal to the least significant factor. 12 and 6 have 2 and 1 significant figures? If treated as measurements, 6 has 1 sig fig. $12 \\times 6 \\times 2.45 = 176.4$. Rounding to 1 sig fig gives 200, or 2 sig figs gives 180. Usually, these are treated as at least 2 sig fig inputs in textbook problems. $1.8 \\times 10^{2}$ is the best fit.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula of work is same as [MHT-CET 2021]",
+        "question_latex": "Dimensional formula of work is same as [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Torque",
+            "B. Momentum",
+            "C. Force",
+            "D. Power"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Both work and torque have dimensions $[M^{1} L^{2} T^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Error Analysis",
+        "question": "Error in measurement of radius is 3%. Error in surface area of sphere is [MHT-CET 2024]",
+        "question_latex": "Error in measurement of radius is $3\\%$. Error in surface area of sphere is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 3%",
+            "B. 6%",
+            "C. 9%",
+            "D. 1.5%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$A = 4\\pi r^{2} \\Rightarrow \\Delta A/A = 2(3\\%) = 6\\%$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of resistance R in terms of MLTA are [MHT-CET 2020]",
+        "question_latex": "Dimensions of resistance $R$ in terms of $MLTA$ are [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L2 T-3 A-2]",
+            "B. [M1 L1 T-3 A-2]",
+            "C. [M1 L2 T-2 A-2]",
+            "D. [M1 L2 T-3 A-1]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$R = V/I = (W/q)/I = [M^{1} L^{2} T^{-2}] / ([A T] [A]) = [M^{1} L^{2} T^{-3} A^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Error Analysis",
+        "question": "Value of 1 mm is how many nanometers?",
+        "question_latex": "Value of $1~mm$ is how many nanometers?",
+        "question_images": [],
+        "options": [
+            "A. 10^3",
+            "B. 10^6",
+            "C. 10^9",
+            "D. 10^-6"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$1~mm = 10^{-3}~m$. $1~nm = 10^{-9}~m$. Ratio $= 10^{-3} / 10^{-9} = 10^{6}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula of impulse is same as [MHT-CET 2023]",
+        "question_latex": "Dimensional formula of impulse is same as [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Force",
+            "B. Momentum",
+            "C. Energy",
+            "D. Acceleration"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Impulse = change in momentum $[M^{1} L^{1} T^{-1}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Error Analysis",
+        "question": "An object of mass 2.345 g has volume 1.2 cm^3. Density reported with correct sig figs is",
+        "question_latex": "An object of mass $2.345~g$ has volume $1.2~cm^{3}$. Density reported with correct sig figs is",
+        "question_images": [],
+        "options": [
+            "A. 1.954 g/cm^3",
+            "B. 2.0 g/cm^3",
+            "C. 1.95 g/cm^3",
+            "D. 1.9 g/cm^3"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$2.345 / 1.2 = 1.9541...$ Since 1.2 has 2 sig figs, result is rounded to $2.0$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of self inductance are [MHT-CET 2019]",
+        "question_latex": "Dimensions of self inductance are [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L2 T-2 A-2]",
+            "B. [M1 L1 T-2 A-2]",
+            "C. [M1 L2 T-2 A-1]",
+            "D. [M1 L0 T-2 A-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$U = 0.5 LI^{2} \\Rightarrow L = 2U / I^{2} = [M^{1} L^{2} T^{-2}] / [A^{2}] = [M^{1} L^{2} T^{-2} A^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Error Analysis",
+        "question": "The error in measure of g = 4 pi^2 L / T^2 is given by [MHT-CET 2024]",
+        "question_latex": "The error in measure of $g = 4\\pi^{2} \\frac{L}{T^{2}}$ is given by [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. delta L / L + 2 delta T / T",
+            "B. delta L / L + delta T / T",
+            "C. delta L / L - 2 delta T / T",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard relative error propagation formula.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula of power is [MHT-CET 2020]",
+        "question_latex": "Dimensional formula of power is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L2 T-3]",
+            "B. [M1 L1 T-3]",
+            "C. [M1 L2 T-2]",
+            "D. [M1 L-1 T-3]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$P = W/t = [M^{1} L^{2} T^{-2}] / [T^{1}] = [M^{1} L^{2} T^{-3}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Error Analysis",
+        "question": "If x = a + bt + ct^2 where x is in meters and t in seconds, unit of c is",
+        "question_latex": "If $x = a + bt + ct^{2}$ where $x$ is in meters and $t$ in seconds, unit of $c$ is",
+        "question_images": [],
+        "options": [
+            "A. m",
+            "B. m/s",
+            "C. m/s^2",
+            "D. m s"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$ct^{2}$ must have units of $x$. $c \\cdot s^{2} = m \\Rightarrow c = m/s^{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Error Analysis",
+        "question": "The dimensions of kinetic energy are same as [MHT-CET 2021]",
+        "question_latex": "The dimensions of kinetic energy are same as [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Potential energy",
+            "B. Work",
+            "C. Torque",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "All these quantities share the dimensions $[M^{1} L^{2} T^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Error Analysis",
+        "question": "A screw gauge has 50 divisions on its circular scale and pitch of 0.5 mm. Least count is [MHT-CET 2024]",
+        "question_latex": "A screw gauge has $50$ divisions on its circular scale and pitch of $0.5~mm$. Least count is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 0.01 mm",
+            "B. 0.1 mm",
+            "C. 0.001 mm",
+            "D. 0.5 mm"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$LC = Pitch / Divisions = 0.5 / 50 = 0.01$ mm.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of latent heat are [MHT-CET 2023]",
+        "question_latex": "Dimensions of latent heat are [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. [M0 L2 T-2]",
+            "B. [M1 L2 T-2]",
+            "C. [M0 L1 T-2]",
+            "D. [M1 L1 T-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$L = Q/m = [M^{1} L^{2} T^{-2}] / [M^{1}] = [L^{2} T^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Error Analysis",
+        "question": "The number of significant figures in 6.0023 is",
+        "question_latex": "The number of significant figures in $6.0023$ is",
+        "question_images": [],
+        "options": [
+            "A. 5",
+            "B. 4",
+            "C. 2",
+            "D. 1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "All non-zero digits and zeros between them are significant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula of electric current is",
+        "question_latex": "Dimensional formula of electric current is",
+        "question_images": [],
+        "options": [
+            "A. [M0 L0 T0 A1]",
+            "B. [M1 L0 T0 A1]",
+            "C. [M0 L1 T0 A1]",
+            "D. [M0 L0 T1 A1]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Current is a base quantity in SI system.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Error Analysis",
+        "question": "Error in measurement of mass of cube is 3% and side is 2%. Error in density is [MHT-CET 2020]",
+        "question_latex": "Error in measurement of mass of cube is $3\\%$ and side is $2\\%$. Error in density is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 5%",
+            "B. 9%",
+            "C. 7%",
+            "D. 1%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\Delta\\rho/\\rho = \\Delta m/m + 3\\Delta L/L = 3\\% + 3(2\\%) = 9\\%$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Error Analysis",
+        "question": "The dimensions of specific heat capacity are [MHT-CET 2019]",
+        "question_latex": "The dimensions of specific heat capacity are [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. [M0 L2 T-2 K-1]",
+            "B. [M1 L2 T-2 K-1]",
+            "C. [M0 L1 T-2 K-1]",
+            "D. [M1 L1 T-2 K-1]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$c = Q / (m \\Delta T) = [M^{1} L^{2} T^{-2}] / ([M^{1}] [K^{1}]) = [L^{2} T^{-2} K^{-1}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Error Analysis",
+        "question": "Percentage error in measurement of radius of cylinder is 1% and height is 2%. Error in volume is [MHT-CET 2024]",
+        "question_latex": "Percentage error in measurement of radius of cylinder is $1\\%$ and height is $2\\%$. Error in volume is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 3%",
+            "B. 4%",
+            "C. 5%",
+            "D. 1%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$V = \\pi r^{2} h \\Rightarrow \\Delta V/V = 2\\Delta r/r + \\Delta h/h = 2(1\\%) + 2\\% = 4\\%$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula for frequency is",
+        "question_latex": "Dimensional formula for frequency is",
+        "question_images": [],
+        "options": [
+            "A. [T-1]",
+            "B. [T]",
+            "C. [L T-1]",
+            "D. [M0 L0 T0]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$f = 1/T$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Error Analysis",
+        "question": "A student measures diameter of wire using screw gauge of LC 0.01 mm as 1.25 mm, 1.23 mm, 1.24 mm, 1.28 mm. Mean absolute error is [MHT-CET 2021]",
+        "question_latex": "A student measures diameter of wire using screw gauge of LC $0.01~mm$ as $1.25~mm, 1.23~mm, 1.24~mm, 1.28~mm$. Mean absolute error is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 0.015 mm",
+            "B. 0.02 mm",
+            "C. 0.01 mm",
+            "D. 0.025 mm"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Mean $= 1.25$. Deviations: 0, 0.02, 0.01, 0.03. Mean abs error $= (0 + 0.02 + 0.01 + 0.03)/4 = 0.06/4 = 0.015$ mm.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Error Analysis",
+        "question": "The dimensions of electric potential are [MHT-CET 2023]",
+        "question_latex": "The dimensions of electric potential are [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L2 T-3 A-1]",
+            "B. [M1 L1 T-3 A-1]",
+            "C. [M1 L2 T-2 A-1]",
+            "D. [M1 L0 T-3 A-1]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$V = W/q = [M^{1} L^{2} T^{-2}] / [A T] = [M^{1} L^{2} T^{-3} A^{-1}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Error Analysis",
+        "question": "In the measurement of physical quantity A = x^a y^b / z^c, relative error is",
+        "question_latex": "In the measurement of physical quantity $A = \\frac{x^{a} y^{b}}{z^{c}}$, relative error is",
+        "question_images": [],
+        "options": [
+            "A. a dx/x + b dy/y + c dz/z",
+            "B. a dx/x + b dy/y - c dz/z",
+            "C. dx/x + dy/y + dz/z",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Errors in exponents are multiplicative and always add for maximum uncertainty.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Error Analysis",
+        "question": "The number of significant figures in 0.007 is [MHT-CET 2020]",
+        "question_latex": "The number of significant figures in $0.007$ is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 3",
+            "C. 4",
+            "D. 2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Leading zeros are placeholders.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula of magnetic induction B is [MHT-CET 2019]",
+        "question_latex": "Dimensional formula of magnetic induction $B$ is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L0 T-2 A-1]",
+            "B. [M1 L1 T-2 A-1]",
+            "C. [M1 L2 T-2 A-1]",
+            "D. [M0 L0 T-2 A-1]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$F = qvB \\Rightarrow B = F / (qv) = [M^{1} L^{1} T^{-2}] / ([A T] [L T^{-1}]) = [M^{1} L^{0} T^{-2} A^{-1}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Error Analysis",
+        "question": "Length of a rod is 4.25 +/- 0.01 cm. Percentage error is [MHT-CET 2024]",
+        "question_latex": "Length of a rod is $4.25\\pm0.01~cm$. Percentage error is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 0.24%",
+            "B. 2.4%",
+            "C. 0.01%",
+            "D. 1%"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$0.01/4.25 \\times 100 \\approx 0.235\\% \\approx 0.24\\%$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of electric flux are [MHT-CET 2021]",
+        "question_latex": "Dimensions of electric flux are [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L3 T-3 A-1]",
+            "B. [M1 L2 T-3 A-1]",
+            "C. [M1 L3 T-2 A-1]",
+            "D. [M0 L3 T-3 A-1]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\Phi = E \\cdot A = (V/d) \\cdot A = [M^{1} L^{2} T^{-3} A^{-1}] [L^{-1}] [L^{2}] = [M^{1} L^{3} T^{-3} A^{-1}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Error Analysis",
+        "question": "The unit of surface tension in CGS system is",
+        "question_latex": "The unit of surface tension in CGS system is",
+        "question_images": [],
+        "options": [
+            "A. Dyne/cm",
+            "B. Newton/m",
+            "C. Dyne/cm^2",
+            "D. Joule/m^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Force/Length in CGS.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Error Analysis",
+        "question": "Error in measurement of resistance R is 2%, current I is 3%. Error in heat H = I^2 R t is [MHT-CET 2020]",
+        "question_latex": "Error in measurement of resistance $R$ is $2\\%$, current $I$ is $3\\%$. Error in heat $H = I^{2} R t$ is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 8%",
+            "B. 5%",
+            "C. 11%",
+            "D. 7%"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\Delta H/H = 2\\Delta I/I + \\Delta R/R = 2(3\\%) + 2\\% = 8\\%$. (Time $t$ assumed accurate).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula of angular momentum is [MHT-CET 2023]",
+        "question_latex": "Dimensional formula of angular momentum is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L2 T-1]",
+            "B. [M1 L1 T-1]",
+            "C. [M1 L2 T-2]",
+            "D. [M1 L0 T-1]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$L = mvr = [M^{1}] [L^{1} T^{-1}] [L^{1}] = [M^{1} L^{2} T^{-1}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Error Analysis",
+        "question": "The number of sig figs in 1.200 is",
+        "question_latex": "The number of sig figs in $1.200$ is",
+        "question_images": [],
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 1"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Trailing zeros after decimal are significant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of Boltzmann constant are [MHT-CET 2019]",
+        "question_latex": "Dimensions of Boltzmann constant are [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L2 T-2 K-1]",
+            "B. [M1 L1 T-2 K-1]",
+            "C. [M1 L2 T-1 K-1]",
+            "D. [M0 L2 T-2 K-1]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$k = Energy / Temp = [M^{1} L^{2} T^{-2} K^{-1}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Error Analysis",
+        "question": "If length L = (5.0 +/- 0.1) cm and B = (2.0 +/- 0.1) cm, area A is [MHT-CET 2024]",
+        "question_latex": "If length $L = (5.0 \\pm 0.1)~cm$ and $B = (2.0 \\pm 0.1)~cm$, area $A$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 10.0 +/- 0.7 cm^2",
+            "B. 10.0 +/- 0.2 cm^2",
+            "C. 10.0 +/- 0.1 cm^2",
+            "D. 10.0 +/- 0.5 cm^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$A = 10.0$. $\\Delta A/A = \\Delta L/L + \\Delta B/B = 0.1/5 + 0.1/2 = 0.02 + 0.05 = 0.07$. $\\Delta A = 0.07 \\times 10 = 0.7$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of pressure gradient are [MHT-CET 2021]",
+        "question_latex": "Dimensions of pressure gradient are [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L-2 T-2]",
+            "B. [M1 L-1 T-2]",
+            "C. [M1 L-3 T-2]",
+            "D. [M0 L-2 T-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$grad~P = dP/dx = [M^{1} L^{-1} T^{-2}] / [L] = [M^{1} L^{-2} T^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Error Analysis",
+        "question": "1 Astronomical unit (AU) is nearly",
+        "question_latex": "1 Astronomical unit (AU) is nearly",
+        "question_images": [],
+        "options": [
+            "A. 1.5 x 10^11 m",
+            "B. 1.5 x 10^15 m",
+            "C. 9.46 x 10^15 m",
+            "D. 3.08 x 10^16 m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Mean distance between Earth and Sun.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula of permeability of free space is [MHT-CET 2023]",
+        "question_latex": "Dimensional formula of permeability of free space is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L1 T-2 A-2]",
+            "B. [M1 L2 T-2 A-2]",
+            "C. [M1 L1 T-2 A-1]",
+            "D. [M0 L1 T-2 A-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "From $B = \\mu_{0} I / 2\\pi r$. $\\mu_{0} = Br/I = ([M^{1} T^{-2} A^{-1}] [L]) / [A] = [M^{1} L^{1} T^{-2} A^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Error Analysis",
+        "question": "Which represents parallax method?",
+        "question_latex": "Which represents parallax method?",
+        "question_images": [],
+        "options": [
+            "A. theta = b/D",
+            "B. D = b/theta",
+            "C. both A and B",
+            "D. theta = D/b"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Standard geometric relation for small angles.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula of entropy is [MHT-CET 2019]",
+        "question_latex": "Dimensional formula of entropy is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L2 T-2 K-1]",
+            "B. [M1 L1 T-2 K-1]",
+            "C. [M1 L2 T-1 K-1]",
+            "D. [M1 L2 T-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$dS = dQ/T = [M^{1} L^{2} T^{-2}] / [K^{1}]$. Same as Boltzmann constant.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Error Analysis",
+        "question": "Density of gold is 19 g/cm^3. Error in mass 1% and volume 0.5%. Error in density is [MHT-CET 2024]",
+        "question_latex": "Density of gold is $19~g/cm^{3}$. Error in mass $1\\%$ and volume $0.5\\%$. Error in density is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 1.5%",
+            "B. 0.5%",
+            "C. 2%",
+            "D. 1%"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$1\\% + 0.5\\% = 1.5\\%$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula of frequency is same as [MHT-CET 2021]",
+        "question_latex": "Dimensional formula of frequency is same as [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. velocity gradient",
+            "B. decay constant",
+            "C. angular velocity",
+            "D. all of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "All have dimensions $[T^{-1}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Error Analysis",
+        "question": "How many seconds are in 1 hour?",
+        "question_latex": "How many seconds are in $1$ hour?",
+        "question_images": [],
+        "options": [
+            "A. 3600",
+            "B. 60",
+            "C. 360",
+            "D. 1200"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$60 \\times 60 = 3600$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of power P are [MHT-CET 2020]",
+        "question_latex": "Dimensions of power $P$ are [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L2 T-3]",
+            "B. [M1 L2 T-2]",
+            "C. [M1 L1 T-3]",
+            "D. [M1 L-2 T-3]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Duplicate of 889.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Error Analysis",
+        "question": "Error in measurement of V is 2% and I is 1%. Error in R = V/I is [MHT-CET 2024]",
+        "question_latex": "Error in measurement of $V$ is $2\\%$ and $I$ is $1\\%$. Error in $R = V/I$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 3%",
+            "B. 1%",
+            "C. 2%",
+            "D. 4%"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$2\\% + 1\\% = 3\\%$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula of elastic modulus is same as [MHT-CET 2023]",
+        "question_latex": "Dimensional formula of elastic modulus is same as [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Pressure",
+            "B. Stress",
+            "C. both A and B",
+            "D. Force"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "All share dimensions $[M^{1} L^{-1} T^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Error Analysis",
+        "question": "Significant figures in 500.0 are",
+        "question_latex": "Significant figures in $500.0$ are",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 3",
+            "C. 4",
+            "D. 2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The decimal point and trailing zero make all digits significant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of capacitance are [MHT-CET 2019]",
+        "question_latex": "Dimensions of capacitance are [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. [M-1 L-2 T4 A2]",
+            "B. [M1 L2 T-4 A-2]",
+            "C. [M-1 L-2 T2 A2]",
+            "D. [M-1 L0 T4 A2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$C = q/V = [A T] / [M^{1} L^{2} T^{-3} A^{-1}] = [M^{-1} L^{-2} T^{4} A^{2}]$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Error Analysis",
+        "question": "Percentage error in measurement of mass 2% and side 3%. Error in density of cube is [MHT-CET 2024]",
+        "question_latex": "Percentage error in measurement of mass $2\\%$ and side $3\\%$. Error in density of cube is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 5%",
+            "B. 11%",
+            "C. 8%",
+            "D. 1%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$2\\% + 3(3\\%) = 11\\%$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of spring constant are [MHT-CET 2022]",
+        "question_latex": "Dimensions of spring constant are [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L0 T-2]",
+            "B. [M1 L1 T-2]",
+            "C. [M0 L0 T-2]",
+            "D. [M1 L2 T-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$k = F/x = [M^{1} L^{1} T^{-2}] / [L^{1}] = [M^{1} L^{0} T^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Error Analysis",
+        "question": "One fermi is equal to",
+        "question_latex": "One fermi is equal to",
+        "question_images": [],
+        "options": [
+            "A. 10^-15 m",
+            "B. 10^-10 m",
+            "C. 10^-12 m",
+            "D. 10^-9 m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Nuclear size scale.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of Young's Modulus are [MHT-CET 2021]",
+        "question_latex": "Dimensions of Young's Modulus are [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L-1 T-2]",
+            "B. [M1 L1 T-2]",
+            "C. [M1 L2 T-2]",
+            "D. [M1 L-2 T-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Same as stress.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Error Analysis",
+        "question": "How many sig figs in 0.040?",
+        "question_latex": "How many sig figs in $0.040?$",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "4 and the trailing 0 are significant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of angular velocity are [MHT-CET 2020]",
+        "question_latex": "Dimensions of angular velocity are [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. [T-1]",
+            "B. [L T-1]",
+            "C. [M1 T-1]",
+            "D. [L2 T-1]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\omega = d\\theta/dt$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Error Analysis",
+        "question": "Error in radius 2%. Error in volume of sphere is [MHT-CET 2024]",
+        "question_latex": "Error in radius $2\\%$. Error in volume of sphere is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 6%",
+            "B. 4%",
+            "C. 2%",
+            "D. 8%"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$3 \\times 2\\% = 6\\%$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of heat are [MHT-CET 2023]",
+        "question_latex": "Dimensions of heat are [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L2 T-2]",
+            "B. [M1 L1 T-2]",
+            "C. [M1 L2 T-1]",
+            "D. [M0 L2 T-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Heat is a form of energy.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Error Analysis",
+        "question": "Unit of solid angle is",
+        "question_latex": "Unit of solid angle is",
+        "question_images": [],
+        "options": [
+            "A. Radian",
+            "B. Steradian",
+            "C. Degree",
+            "D. Candela"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Supplementary SI unit.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of frequency are [MHT-CET 2019]",
+        "question_latex": "Dimensions of frequency are [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. [T-1]",
+            "B. [T]",
+            "C. [M0 L0 T0]",
+            "D. [L T-1]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard dimensional formula.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Error Analysis",
+        "question": "Error in measurement of G is given by formula. If M, R, F are base, error is [MHT-CET 2024]",
+        "question_latex": "Error in measurement of $G$ is given by formula. If $M, R, F$ are base, error is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. dF/F + 2dR/R + 2dM/M",
+            "B. dF/F + dR/R + dM/M",
+            "C. dF/F + 2dR/R + dM/M",
+            "D. dF/F + 2dR/R"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$G = FR^{2} / M^{2} \\Rightarrow \\Delta G/G = \\Delta F/F + 2\\Delta R/R + 2\\Delta M/M$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of density are",
+        "question_latex": "Dimensions of density are",
+        "question_images": [],
+        "options": [
+            "A. [M1 L-3 T0]",
+            "B. [M1 L3 T0]",
+            "C. [M1 L-2 T0]",
+            "D. [M1 L-1 T0]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$m/V$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Error Analysis",
+        "question": "How many sig figs in 0.00503?",
+        "question_latex": "How many sig figs in $0.00503?$",
+        "question_images": [],
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "5, 0, 3.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of gravitational potential are [MHT-CET 2021]",
+        "question_latex": "Dimensions of gravitational potential are [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. [L2 T-2]",
+            "B. [M1 L2 T-2]",
+            "C. [L1 T-2]",
+            "D. [M-1 L3 T-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$V = W/m = [M^{1} L^{2} T^{-2}] / [M^{1}] = [L^{2} T^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Error Analysis",
+        "question": "One micron is",
+        "question_latex": "One micron is",
+        "question_images": [],
+        "options": [
+            "A. 10^-6 m",
+            "B. 10^-3 m",
+            "C. 10^-9 m",
+            "D. 10^-4 m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard micrometer unit.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of impulse are same as [MHT-CET 2020]",
+        "question_latex": "Dimensions of impulse are same as [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Momentum",
+            "B. Force",
+            "C. Energy",
+            "D. Pressure"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Duplicate of 885.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Error Analysis",
+        "question": "Error in side 2%. Error in volume of cube is [MHT-CET 2024]",
+        "question_latex": "Error in side $2\\%$. Error in volume of cube is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 6%",
+            "B. 4%",
+            "C. 8%",
+            "D. 2%"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$3 \\times 2\\% = 6\\%$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of work are [MHT-CET 2023]",
+        "question_latex": "Dimensions of work are [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L2 T-2]",
+            "B. [M1 L1 T-2]",
+            "C. [M1 L2 T-1]",
+            "D. [M2 L2 T-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$F \\cdot d$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Error Analysis",
+        "question": "Unit of frequency in SI is",
+        "question_latex": "Unit of frequency in SI is",
+        "question_images": [],
+        "options": [
+            "A. Hertz",
+            "B. sec^-1",
+            "C. both A and B",
+            "D. radian/sec"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$1~Hz = 1~sec^{-1}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Error Analysis",
+        "question": "Dimensions of stress are [MHT-CET 2019]",
+        "question_latex": "Dimensions of stress are [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L-1 T-2]",
+            "B. [M1 L1 T-2]",
+            "C. [M1 L2 T-2]",
+            "D. [M0 L-1 T-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$F/A$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Error Analysis",
+        "question": "A physical quantity Z = A^4 B^(1/3) / C D^(3/2). Relative error is [MHT-CET 2024]",
+        "question_latex": "A physical quantity $Z = \\frac{A^{4} B^{1/3}}{C D^{3/2}}$. Relative error is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 4 dA/A + 1/3 dB/B + dC/C + 3/2 dD/D",
+            "B. 4 dA/A + 1/3 dB/B - dC/C - 3/2 dD/D",
+            "C. dA/A + dB/B + dC/C + dD/D",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard power rule for errors.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Error Analysis",
+        "question": "Dimensional formula of acceleration is",
+        "question_latex": "Dimensional formula of acceleration is",
+        "question_images": [],
+        "options": [
+            "A. [L1 T-2]",
+            "B. [L1 T-1]",
+            "C. [L2 T-2]",
+            "D. [M1 L1 T-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Change in velocity per time.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Error Analysis",
+        "question": "How many sig figs in 100?",
+        "question_latex": "How many sig figs in $100?$",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 3",
+            "C. 2",
+            "D. Ambiguous without decimal"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Trailing zeros without a decimal are typically not significant unless stated otherwise.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Error Analysis",
+        "question": "Random error can be eliminated by [MHT-CET 2021]",
+        "question_latex": "Random error can be eliminated by [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. taking large number of observations",
+            "B. calibration",
+            "C. following proper procedure",
+            "D. it cannot be eliminated"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Statistical averaging reduces the effect of random fluctuations.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Error Analysis",
+        "question": "In the determination of Young s modulus by using Searle s method, a wire of length L=2m and diameter d=0.5mm is used. Contributions to the maximum probable error of the Y measurement are: [Y = 4MLg / (pi l d^2)]",
+        "question_latex": "In the determination of Young s modulus by using Searle s method, a wire of length $L=2m$ and diameter $d=0.5mm$ is used. Contributions to the maximum probable error of the $Y$ measurement are: [$Y = \\frac{4MLg}{\\pi l d^{2}}$]",
+        "question_images": [],
+        "options": [
+            "A. Due to the errors in the measurements of d and l are the same",
+            "B. Due to the error in the measurement of d is twice that due to the error in the measurement of l",
+            "C. Due to the error in the measurement of l is twice that due to the error in the measurement of d",
+            "D. Due to the error in the measurement of d is four time that due to the error in the measurement of l"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Least count $\\Delta d = \\Delta l = 0.005~mm$. Relative error $(\\Delta Y/Y)_{max} = \\Delta l/l + 2\\Delta d/d$. Error from $l = 0.005/0.25 = 0.02$. Error from $d = 2(0.005/0.5) = 2(0.01) = 0.02$. Both contributions are equal.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    }
+]

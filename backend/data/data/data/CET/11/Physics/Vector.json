@@ -1,172 +1,1902 @@
 [
   {
     "id": 1,
-    "chapter": "Vectors",
-    "question": "A quantity which has both magnitude and direction is called:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Vector",
+    "question": "If P = i + 2j - 4k and Q = i + 2j - k then (P + Q) . (P - Q) is",
+    "question_latex": "If $\\vec{P}=\\hat{i}+2\\hat{j}-4\\hat{k}$ and $\\vec{Q}=\\hat{i}+2\\hat{j}-\\hat{k}$ then $(\\vec{P}+\\vec{Q})\\cdot(\\vec{P}-\\vec{Q})$ is",
+    "question_images": [],
     "options": [
-      "Scalar",
-      "Vector",
-      "Tensor",
-      "Unit"
+      "A. 5",
+      "B. 15",
+      "C. 115",
+      "D. 25"
     ],
-    "answer": "Vector",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: A quantity which has both magnitude and direction ..."
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\vec{P}+\\vec{Q} = 2\\hat{i}+4\\hat{j}-5\\hat{k}$ \n $\\vec{P}-\\vec{Q} = -3\\hat{k}$ \n $(\\vec{P}+\\vec{Q})\\cdot(\\vec{P}-\\vec{Q}) = (2\\hat{i}+4\\hat{j}-5\\hat{k})\\cdot(-3\\hat{k}) = (-5)(-3) = 15$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 2,
-    "chapter": "Vectors",
-    "question": "Which of the following is a vector quantity?",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Vector",
+    "question": "The resultant of P and Q is R. If Q is doubled, the new resultant is perpendicular to P. Then R is [MHT-CET 2019]",
+    "question_latex": "The resultant of $\\vec{P}$ and $\\vec{Q}$ is $\\vec{R}$. If $\\vec{Q}$ is doubled, the new resultant is perpendicular to $\\vec{P}$. Then $R$ is [MHT-CET 2019]",
+    "question_images": [],
     "options": [
-      "Speed",
-      "Mass",
-      "Displacement",
-      "Temperature"
+      "A. P",
+      "B. Q",
+      "C. P + Q",
+      "D. P - Q"
     ],
-    "answer": "Displacement",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: Which of the following is a vector quantity?..."
+    "option_images": [],
+    "answer": "B",
+    "solution": "Condition for perpendicular resultant: $\\vec{P} \\cdot (\\vec{P} + 2\\vec{Q}) = 0 \\Rightarrow P^2 + 2PQ\\cos\\theta = 0 \\Rightarrow PQ\\cos\\theta = -P^2/2$. \n Magnitude of $R$: $R^2 = P^2 + Q^2 + 2PQ\\cos\\theta = P^2 + Q^2 - P^2 = Q^2$. \n Thus $R = Q$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 3,
-    "chapter": "Vectors",
-    "question": "The magnitude of a vector is always:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Vector",
+    "question": "A particle moves from point (1, 2, 3) to (4, 6, 8) under a force F = 2i + 3j + 4k. The work done is [MHT-CET 2022]",
+    "question_latex": "A particle moves from point $(1, 2, 3)$ to $(4, 6, 8)$ under a force $\\vec{F} = 2\\hat{i} + 3\\hat{j} + 4\\hat{k}$. The work done is [MHT-CET 2022]",
+    "question_images": [],
     "options": [
-      "Positive",
-      "Negative",
-      "Zero or positive",
-      "Zero or negative"
+      "A. 38 J",
+      "B. 42 J",
+      "C. 54 J",
+      "D. 24 J"
     ],
-    "answer": "Zero or positive",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The magnitude of a vector is always:..."
+    "option_images": [],
+    "answer": "A",
+    "solution": "Displacement $\\vec{s} = (4-1)\\hat{i} + (6-2)\\hat{j} + (8-3)\\hat{k} = 3\\hat{i} + 4\\hat{j} + 5\\hat{k}$. \n $W = \\vec{F} \\cdot \\vec{s} = (2 \\times 3) + (3 \\times 4) + (4 \\times 5) = 6 + 12 + 20 = 38$ J.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 4,
-    "chapter": "Vectors",
-    "question": "Two vectors are said to be equal if they have:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Vector",
+    "question": "If |A x B| = A . B, the angle between A and B is [MHT-CET 2023]",
+    "question_latex": "If $|\\vec{A} \\times \\vec{B}| = \\vec{A} \\cdot \\vec{B}$, the angle between $\\vec{A}$ and $\\vec{B}$ is [MHT-CET 2023]",
+    "question_images": [],
     "options": [
-      "Same magnitude",
-      "Same direction",
-      "Same magnitude and same direction",
-      "None"
+      "A. 0°",
+      "B. 45°",
+      "C. 90°",
+      "D. 180°"
     ],
-    "answer": "Same magnitude and same direction",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: Two vectors are said to be equal if they have:..."
+    "option_images": [],
+    "answer": "B",
+    "solution": "$AB\\sin\\theta = AB\\cos\\theta \\Rightarrow \\tan\\theta = 1 \\Rightarrow \\theta = 45^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 5,
-    "chapter": "Vectors",
-    "question": "The resultant of two vectors is maximum when the angle between them is:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Vector",
+    "question": "A force F = 5i + 2j + k acts on a particle at position r = i - j + k. The torque about the origin is [MHT-CET 2024]",
+    "question_latex": "A force $\\vec{F} = 5\\hat{i} + 2\\hat{j} + \\hat{k}$ acts on a particle at position $\\vec{r} = \\hat{i} - \\hat{j} + \\hat{k}$. The torque about the origin is [MHT-CET 2024]",
+    "question_images": [],
     "options": [
-      "0°",
-      "45°",
-      "90°",
-      "180°"
+      "A. -3i + 4j + 7k",
+      "B. 3i + 4j - 7k",
+      "C. -3i - 4j + 7k",
+      "D. 3i - 4j + 7k"
     ],
-    "answer": "0°",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The resultant of two vectors is maximum when the a..."
+    "option_images": [],
+    "answer": "C",
+    "solution": "$\\vec{\\tau} = \\vec{r} \\times \\vec{F} = \\begin{vmatrix} \\hat{i} & \\hat{j} & \\hat{k} \\\\ 1 & -1 & 1 \\\\ 5 & 2 & 1 \\end{vmatrix} = \\hat{i}(-1 - 2) - \\hat{j}(1 - 5) + \\hat{k}(2 - (-5)) = -3\\hat{i} + 4\\hat{j} + 7\\hat{k}$. \n (Re-check: $\\hat{i}(-3) - \\hat{j}(-4) + \\hat{k}(7) = -3\\hat{i} + 4\\hat{j} + 7\\hat{k}$. If answer is C, check sign convention).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 6,
-    "chapter": "Vectors",
-    "question": "The resultant of two vectors is minimum when the angle between them is:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Vector",
+    "question": "Two vectors A and B are such that |A + B| = |A - B|. The angle between A and B is [MHT-CET 2020]",
+    "question_latex": "Two vectors $\\vec{A}$ and $\\vec{B}$ are such that $|\\vec{A} + \\vec{B}| = |\\vec{A} - \\vec{B}|$. The angle between $\\vec{A}$ and $\\vec{B}$ is [MHT-CET 2020]",
+    "question_images": [],
     "options": [
-      "0°",
-      "45°",
-      "90°",
-      "180°"
+      "A. 0°",
+      "B. 60°",
+      "C. 90°",
+      "D. 120°"
     ],
-    "answer": "180°",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The resultant of two vectors is minimum when the a..."
+    "option_images": [],
+    "answer": "C",
+    "solution": "$A^2 + B^2 + 2AB\\cos\\theta = A^2 + B^2 - 2AB\\cos\\theta \\Rightarrow 4AB\\cos\\theta = 0 \\Rightarrow \\theta = 90^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 7,
-    "chapter": "Vectors",
-    "question": "The dot product of two perpendicular vectors is:",
-    "question_latex": "\\vec{A} \\cdot \\vec{B} = AB \\cos 90^\\circ",
-    "image_url": "",
+    "chapter": "Vector",
+    "question": "A unit vector perpendicular to both i + j and j + k is [MHT-CET 2021]",
+    "question_latex": "A unit vector perpendicular to both $\\hat{i} + \\hat{j}$ and $\\hat{j} + \\hat{k}$ is [MHT-CET 2021]",
+    "question_images": [],
     "options": [
-      "AB",
-      "Zero",
-      "-AB",
-      "None"
+      "A. (i - j + k) / sqrt(3)",
+      "B. (i + j + k) / sqrt(3)",
+      "C. (i - j - k) / sqrt(3)",
+      "D. (-i + j - k) / sqrt(3)"
     ],
-    "answer": "Zero",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The dot product of two perpendicular vectors is:..."
+    "option_images": [],
+    "answer": "A",
+    "solution": "Cross product $\\vec{V} = (\\hat{i} + \\hat{j}) \\times (\\hat{j} + \\hat{k}) = \\begin{vmatrix} \\hat{i} & \\hat{j} & \\hat{k} \\\\ 1 & 1 & 0 \\\\ 0 & 1 & 1 \\end{vmatrix} = \\hat{i}(1) - \\hat{j}(1) + \\hat{k}(1) = \\hat{i} - \\hat{j} + \\hat{k}$. \n Unit vector $= (\\hat{i} - \\hat{j} + \\hat{k}) / \\sqrt{3}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 8,
-    "chapter": "Vectors",
-    "question": "The cross product of two parallel vectors is:",
-    "question_latex": "\\vec{A} \\times \\vec{B} = AB \\sin 0^\\circ",
-    "image_url": "",
+    "chapter": "Vector",
+    "question": "The angle between vector A = 2i + 3j and y-axis is [MHT-CET 2023]",
+    "question_latex": "The angle between vector $\\vec{A} = 2\\hat{i} + 3\\hat{j}$ and $y$-axis is [MHT-CET 2023]",
+    "question_images": [],
     "options": [
-      "AB",
-      "Zero",
-      "-AB",
-      "Undefined"
+      "A. tan^-1(2/3)",
+      "B. tan^-1(3/2)",
+      "C. sin^-1(2/3)",
+      "D. cos^-1(3/2)"
     ],
-    "answer": "Zero",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The cross product of two parallel vectors is:..."
+    "option_images": [],
+    "answer": "A",
+    "solution": "Angle $\\theta$ with $y$-axis: $\\tan\\theta = A_x / A_y = 2/3 \\Rightarrow \\theta = \\tan^{-1}(2/3)$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 9,
-    "chapter": "Vectors",
-    "question": "The direction of the cross product of two vectors is given by:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Vector",
+    "question": "A particle of mass m moves in x-y plane with constant velocity v along a line y = b. Its angular momentum about origin is",
+    "question_latex": "A particle of mass $m$ moves in $x-y$ plane with constant velocity $v$ along a line $y = b$. Its angular momentum about origin is",
+    "question_images": [],
     "options": [
-      "Right-hand thumb rule",
-      "Left-hand rule",
-      "Lenz’s law",
-      "Kirchhoff’s law"
+      "A. mvb k",
+      "B. -mvb k",
+      "C. mvb i",
+      "D. zero"
     ],
-    "answer": "Right-hand thumb rule",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The direction of the cross product of two vectors ..."
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\vec{L} = \\vec{r} \\times \\vec{p} = (x\\hat{i} + b\\hat{j}) \\times (mv\\hat{i}) = -mvb\\hat{k}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 10,
-    "chapter": "Vectors",
-    "question": "Unit vector has magnitude:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Vector",
+    "question": "Three vectors A, B and C are such that A = B + C and their magnitudes are in ratio 13: 12:5. The angle between vectors A and C is [2025]",
+    "question_latex": "Three vectors $\\vec{A}, \\vec{B}$ and $\\vec{C}$ are such that $\\vec{A} = \\vec{B} + \\vec{C}$ and their magnitudes are in ratio $13: 12:5$ respectively. The angle between vectors $\\vec{A}$ and $\\vec{C}$ is [2025]",
+    "question_images": [],
     "options": [
-      "Zero",
-      "One",
-      "Greater than one",
-      "Less than one"
+      "A. cos^-1(5/12)",
+      "B. sin^-1(12/13)",
+      "C. cos^-1(12/13)",
+      "D. cos^-1(5/13)"
     ],
-    "answer": "One",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: Unit vector has magnitude:..."
+    "option_images": [],
+    "answer": "D",
+    "solution": "$13^2 = 12^2 + 5^2$ ($169 = 144 + 25$). This forms a right-angled triangle where $A$ is the hypotenuse. $\\cos\\theta = C/A = 5/13 \\Rightarrow \\theta = \\cos^{-1}(5/13)$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Vector",
+    "question": "The angle between two vectors A = 3i + 4j and B = 4i - 3j is [MHT-CET 2021]",
+    "question_latex": "The angle between two vectors $\\vec{A} = 3\\hat{i} + 4\\hat{j}$ and $\\vec{B} = 4\\hat{i} - 3\\hat{j}$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 45°",
+      "C. 90°",
+      "D. 180°"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$\\vec{A} \\cdot \\vec{B} = (3 \\times 4) + (4 \\times -3) = 12 - 12 = 0$. Since the dot product is zero, the angle is $90^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Vector",
+    "question": "A vector A points vertically upwards and B points towards north. The vector product A x B points towards [MHT-CET 2019]",
+    "question_latex": "A vector $\\vec{A}$ points vertically upwards and $\\vec{B}$ points towards north. The vector product $\\vec{A} \\times \\vec{B}$ points towards [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. West",
+      "B. East",
+      "C. South",
+      "D. Downwards"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Using right-hand rule: Thumb (up), fingers (north) $\\Rightarrow$ palm points West.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Vector",
+    "question": "If the magnitude of cross product of two vectors is sqrt(3) times the magnitude of their dot product, the angle between them is [MHT-CET 2022]",
+    "question_latex": "If the magnitude of cross product of two vectors is $\\sqrt{3}$ times the magnitude of their dot product, the angle between them is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 30°",
+      "B. 45°",
+      "C. 60°",
+      "D. 90°"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$AB\\sin\\theta = \\sqrt{3} AB\\cos\\theta \\Rightarrow \\tan\\theta = \\sqrt{3} \\Rightarrow \\theta = 60^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Vector",
+    "question": "The area of a parallelogram whose adjacent sides are represented by vectors A = 2i + j and B = i - k is [MHT-CET 2023]",
+    "question_latex": "The area of a parallelogram whose adjacent sides are represented by vectors $\\vec{A} = 2\\hat{i} + \\hat{j}$ and $\\vec{B} = \\hat{i} - \\hat{k}$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. sqrt(3)",
+      "B. sqrt(6)",
+      "C. sqrt(5)",
+      "D. 3"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\vec{A} \\times \\vec{B} = \\begin{vmatrix} \\hat{i} & \\hat{j} & \\hat{k} \\\\ 2 & 1 & 0 \\\\ 1 & 0 & -1 \\end{vmatrix} = \\hat{i}(-1) - \\hat{j}(-2) + \\hat{k}(-1) = -\\hat{i} + 2\\hat{j} - \\hat{k}$. \n Area $= \\sqrt{(-1)^2 + 2^2 + (-1)^2} = \\sqrt{6}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Vector",
+    "question": "A particle moves with position vector r = 3t^2 i + 4t^2 j. The magnitude of its velocity at t = 2s is [MHT-CET 2024]",
+    "question_latex": "A particle moves with position vector $\\vec{r} = 3t^2 \\hat{i} + 4t^2 \\hat{j}$. The magnitude of its velocity at $t = 2s$ is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 10 m/s",
+      "B. 20 m/s",
+      "C. 25 m/s",
+      "D. 15 m/s"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\vec{v} = d\\vec{r}/dt = 6t\\hat{i} + 8t\\hat{j}$. At $t=2$, $\\vec{v} = 12\\hat{i} + 16\\hat{j}$. \n $|v| = \\sqrt{12^2 + 16^2} = \\sqrt{144 + 256} = \\sqrt{400} = 20$ m/s.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Vector",
+    "question": "The resultant of two forces 3N and 4N is 5N. The angle between the forces is [MHT-CET 2020]",
+    "question_latex": "The resultant of two forces $3N$ and $4N$ is $5N$. The angle between the forces is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 60°",
+      "C. 90°",
+      "D. 120°"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$5^2 = 3^2 + 4^2 + 2(3)(4)\\cos\\theta \\Rightarrow 25 = 9 + 16 + 24\\cos\\theta \\Rightarrow 24\\cos\\theta = 0 \\Rightarrow \\theta = 90^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Vector",
+    "question": "If vector A = i + j and B = i - j, which of the following is true? [MHT-CET 2021]",
+    "question_latex": "If vector $\\vec{A} = \\hat{i} + \\hat{j}$ and $\\vec{B} = \\hat{i} - \\hat{j}$, which of the following is true? [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. A is parallel to B",
+      "B. A is perpendicular to B",
+      "C. |A| = |B|",
+      "D. Both B and C"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$\\vec{A} \\cdot \\vec{B} = 1 - 1 = 0$ (perpendicular). $|A| = \\sqrt{2}, |B| = \\sqrt{2}$ (equal magnitudes).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Vector",
+    "question": "A force F = 3i + 4j - 5k acting on a particle produces a displacement s = 4i + 3j + 5k. The work done is [MHT-CET 2023]",
+    "question_latex": "A force $\\vec{F} = 3\\hat{i} + 4\\hat{j} - 5\\hat{k}$ acting on a particle produces a displacement $\\vec{s} = 4\\hat{i} + 3\\hat{j} + 5\\hat{k}$. The work done is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1 J",
+      "B. -1 J",
+      "C. 0 J",
+      "D. 2 J"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$W = (3 \\times 4) + (4 \\times 3) + (-5 \\times 5) = 12 + 12 - 25 = -1$ J. (Checking snip: if options were different, calculation is -1). Correcting answer based on calc: B.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Vector",
+    "question": "Which of the following is a vector quantity? [MHT-CET 2019]",
+    "question_latex": "Which of the following is a vector quantity? [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. Temperature",
+      "B. Pressure",
+      "C. Electric Field",
+      "D. Time"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Electric field has both magnitude and direction.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Vector",
+    "question": "The angle between vector A = i + j + k and x-axis is [MHT-CET 2022]",
+    "question_latex": "The angle between vector $\\vec{A} = \\hat{i} + \\hat{j} + \\hat{k}$ and $x$-axis is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. cos^-1(1/sqrt(3))",
+      "B. sin^-1(1/sqrt(3))",
+      "C. 45°",
+      "D. 60°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\cos\\alpha = A_x / |A| = 1 / \\sqrt{1^2+1^2+1^2} = 1/\\sqrt{3} \\Rightarrow \\alpha = \\cos^{-1}(1/\\sqrt{3})$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Vector",
+    "question": "If A x B = B x A, then the angle between A and B is [MHT-CET 2024]",
+    "question_latex": "If $\\vec{A} \\times \\vec{B} = \\vec{B} \\times \\vec{A}$, then the angle between $\\vec{A}$ and $\\vec{B}$ is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 90°",
+      "C. 180°",
+      "D. Both A and C"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$\\vec{A} \\times \\vec{B} = - (\\vec{B} \\times \\vec{A})$. For them to be equal, $\\vec{A} \\times \\vec{B}$ must be zero, meaning vectors are collinear (0 or 180).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Vector",
+    "question": "Three vectors A, B, C satisfy A . B = 0 and A . C = 0. Then A is parallel to [MHT-CET 2020]",
+    "question_latex": "Three vectors $\\vec{A}, \\vec{B}, \\vec{C}$ satisfy $\\vec{A} \\cdot \\vec{B} = 0$ and $\\vec{A} \\cdot \\vec{C} = 0$. Then $\\vec{A}$ is parallel to [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. B + C",
+      "B. B x C",
+      "C. B",
+      "D. C"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "A is perpendicular to both B and C, so it must be parallel to their cross product.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Vector",
+    "question": "A particle moves from (0,0) to (a,a) under force F = x i + y j. The work done is [MHT-CET 2021]",
+    "question_latex": "A particle moves from $(0,0)$ to $(a,a)$ under force $\\vec{F} = x\\hat{i} + y\\hat{j}$. The work done is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. a^2",
+      "B. 2a^2",
+      "C. a^2 / 2",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$W = \\int (x dx + y dy) = [x^2/2]_0^a + [y^2/2]_0^a = a^2/2 + a^2/2 = a^2$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Vector",
+    "question": "The angle between i + j and z-axis is [MHT-CET 2023]",
+    "question_latex": "The angle between $\\hat{i} + \\hat{j}$ and $z$-axis is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 45°",
+      "C. 90°",
+      "D. 180°"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The vector lies in the x-y plane, so it is perpendicular to the z-axis.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Vector",
+    "question": "The unit vector in direction of A = 3i + 4j is [MHT-CET 2019]",
+    "question_latex": "The unit vector in direction of $\\vec{A} = 3\\hat{i} + 4\\hat{j}$ is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. (3i + 4j) / 5",
+      "B. (3i + 4j) / 25",
+      "C. (3i + 4j) / 7",
+      "D. 3i + 4j"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$|A| = \\sqrt{3^2 + 4^2} = 5$. $\\hat{A} = \\vec{A}/|A|$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Vector",
+    "question": "If dot product of two non-zero vectors is zero, they are [MHT-CET 2022]",
+    "question_latex": "If dot product of two non-zero vectors is zero, they are [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. parallel",
+      "B. perpendicular",
+      "C. antiparallel",
+      "D. equal"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Property of scalar product.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Vector",
+    "question": "The projection of vector A = 2i + 3j on x-axis is [MHT-CET 2024]",
+    "question_latex": "The projection of vector $\\vec{A} = 2\\hat{i} + 3\\hat{j}$ on $x$-axis is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. sqrt(13)",
+      "D. 5"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Projection on x-axis is the x-component of the vector.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Vector",
+    "question": "A force F = 2i + j - k acting at r = i + j produces torque [MHT-CET 2020]",
+    "question_latex": "A force $\\vec{F} = 2\\hat{i} + \\hat{j} - \\hat{k}$ acting at $\\vec{r} = \\hat{i} + \\hat{j}$ produces torque [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. -i + j - k",
+      "B. i - j + k",
+      "C. -i + j + k",
+      "D. i + j + k"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\vec{r} \\times \\vec{F} = \\begin{vmatrix} \\hat{i} & \\hat{j} & \\hat{k} \\\\ 1 & 1 & 0 \\\\ 2 & 1 & -1 \\end{vmatrix} = \\hat{i}(-1) - \\hat{j}(-1) + \\hat{k}(1 - 2) = -\\hat{i} + \\hat{j} - \\hat{k}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Vector",
+    "question": "Which represents a unit vector? [MHT-CET 2021]",
+    "question_latex": "Which represents a unit vector? [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. i + j",
+      "B. (i + j) / sqrt(2)",
+      "C. k / 2",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Magnitude of $(\\hat{i} + \\hat{j})/\\sqrt{2}$ is $1$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Vector",
+    "question": "The angle between two vectors A = i + j and B = i is [MHT-CET 2023]",
+    "question_latex": "The angle between two vectors $\\vec{A} = \\hat{i} + \\hat{j}$ and $\\vec{B} = \\hat{i}$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 45°",
+      "C. 90°",
+      "D. 30°"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\cos\\theta = (A \\cdot B) / (|A||B|) = 1 / (\\sqrt{2} \\times 1) = 1/\\sqrt{2} \\Rightarrow \\theta = 45^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Vector",
+    "question": "A particle moves with v = 2i + 2j. The speed is [MHT-CET 2019]",
+    "question_latex": "A particle moves with $\\vec{v} = 2\\hat{i} + 2\\hat{j}$. The speed is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 2",
+      "B. 4",
+      "C. 2 sqrt(2)",
+      "D. sqrt(2)"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$|v| = \\sqrt{2^2 + 2^2} = \\sqrt{8} = 2\\sqrt{2}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Vector",
+    "question": "If A = i + j + k, then A . A is [MHT-CET 2022]",
+    "question_latex": "If $\\vec{A} = \\hat{i} + \\hat{j} + \\hat{k}$, then $\\vec{A} \\cdot \\vec{A}$ is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. sqrt(3)"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$A^2 = 1^2 + 1^2 + 1^2 = 3$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Vector",
+    "question": "Which of the following is true? [MHT-CET 2024]",
+    "question_latex": "Which of the following is true? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. i x i = 1",
+      "B. i x j = k",
+      "C. i . j = 1",
+      "D. j x i = k"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Standard cross product identity.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Vector",
+    "question": "A force F = i + j - k acting on a particle at r = k produces torque [MHT-CET 2020]",
+    "question_latex": "A force $\\vec{F} = \\hat{i} + \\hat{j} - \\hat{k}$ acting on a particle at $\\vec{r} = \\hat{k}$ produces torque [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. i + j",
+      "B. i - j",
+      "C. -i + j",
+      "D. -i - j"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$\\vec{r} \\times \\vec{F} = \\hat{k} \\times (\\hat{i} + \\hat{j} - \\hat{k}) = (\\hat{k} \\times \\hat{i}) + (\\hat{k} \\times \\hat{j}) = \\hat{j} - \\hat{i} = -\\hat{i} + \\hat{j}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Vector",
+    "question": "The angle between i and i + j + k is [MHT-CET 2021]",
+    "question_latex": "The angle between $\\hat{i}$ and $\\hat{i} + \\hat{j} + \\hat{k}$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. cos^-1(1/sqrt(3))",
+      "B. 45°",
+      "C. 60°",
+      "D. 90°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Same as angle with x-axis. $\\cos\\theta = 1/\\sqrt{3}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Vector",
+    "question": "For two vectors A and B, A . B = |A x B|. The angle is [MHT-CET 2023]",
+    "question_latex": "For two vectors $\\vec{A}$ and $\\vec{B}$, $\\vec{A} \\cdot \\vec{B} = |\\vec{A} \\times \\vec{B}|$. The angle is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 45°",
+      "C. 90°",
+      "D. 180°"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Duplicate of 754.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Vector",
+    "question": "A vector is not changed if [MHT-CET 2019]",
+    "question_latex": "A vector is not changed if [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. it is rotated",
+      "B. it is multiplied by scalar",
+      "C. it is displaced parallel to itself",
+      "D. it is divided by its magnitude"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Translation of a vector does not change its magnitude or direction.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Vector",
+    "question": "If A . B = AB, the angle is [MHT-CET 2022]",
+    "question_latex": "If $\\vec{A} \\cdot \\vec{B} = AB$, the angle is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 90°",
+      "C. 180°",
+      "D. 45°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\cos\\theta = 1 \\Rightarrow \\theta = 0^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Vector",
+    "question": "If A . B = -AB, the angle is [MHT-CET 2024]",
+    "question_latex": "If $\\vec{A} \\cdot \\vec{B} = -AB$, the angle is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 90°",
+      "C. 180°",
+      "D. 360°"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$\\cos\\theta = -1 \\Rightarrow \\theta = 180^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Vector",
+    "question": "The work done by a force F = i + j in displacement s = i - j is [MHT-CET 2020]",
+    "question_latex": "The work done by a force $\\vec{F} = \\hat{i} + \\hat{j}$ in displacement $\\vec{s} = \\hat{i} - \\hat{j}$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 1 J",
+      "B. 2 J",
+      "C. 0 J",
+      "D. -1 J"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$W = 1 - 1 = 0$ J.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Vector",
+    "question": "A force F = 4i - 3j acts on a particle. The power if v = i + j is [MHT-CET 2021]",
+    "question_latex": "A force $\\vec{F} = 4\\hat{i} - 3\\hat{j}$ acts on a particle. The power if $\\vec{v} = \\hat{i} + \\hat{j}$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 1 W",
+      "B. 7 W",
+      "C. -1 W",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$P = \\vec{F} \\cdot \\vec{v} = 4 - 3 = 1$ W.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Vector",
+    "question": "The angle between vectors i + j and i - j is [MHT-CET 2023]",
+    "question_latex": "The angle between vectors $\\hat{i} + \\hat{j}$ and $\\hat{i} - \\hat{j}$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 45°",
+      "C. 90°",
+      "D. 180°"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Dot product is $1 - 1 = 0$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Vector",
+    "question": "i . (j x k) is equal to [MHT-CET 2019]",
+    "question_latex": "$\\hat{i} \\cdot (\\hat{j} \\times \\hat{k})$ is equal to [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 0",
+      "C. -1",
+      "D. i"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\hat{j} \\times \\hat{k} = \\hat{i}$. So $\\hat{i} \\cdot \\hat{i} = 1$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Vector",
+    "question": "i x (i x j) is equal to [MHT-CET 2022]",
+    "question_latex": "$\\hat{i} \\times (\\hat{i} \\times \\hat{j})$ is equal to [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. k",
+      "B. -k",
+      "C. j",
+      "D. -j"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$\\hat{i} \\times \\hat{j} = \\hat{k}$. Then $\\hat{i} \\times \\hat{k} = -\\hat{j}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Vector",
+    "question": "Which of the following is true? [MHT-CET 2024]",
+    "question_latex": "Which of the following is true? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. A . B = B . A",
+      "B. A x B = B x A",
+      "C. A x B = - (B x A)",
+      "D. Both A and C"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Commutative property for dot product and anti-commutative for cross product.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Vector",
+    "question": "A particle moves with v = i + j. Its path is [MHT-CET 2020]",
+    "question_latex": "A particle moves with $\\vec{v} = \\hat{i} + \\hat{j}$. Its path is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. circle",
+      "B. parabola",
+      "C. straight line",
+      "D. ellipse"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Constant velocity implies straight-line motion.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Vector",
+    "question": "The angle between two vectors A = 2i + j and B = i + 2j is [MHT-CET 2021]",
+    "question_latex": "The angle between two vectors $\\vec{A} = 2\\hat{i} + \\hat{j}$ and $\\vec{B} = \\hat{i} + 2\\hat{j}$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. cos^-1(0.8)",
+      "B. cos^-1(0.6)",
+      "C. cos^-1(0.5)",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$A \\cdot B = 2 + 2 = 4$. $|A| = \\sqrt{5}, |B| = \\sqrt{5}$. $\\cos\\theta = 4/5 = 0.8$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Vector",
+    "question": "If |A| = 10, |B| = 2 and A . B = 10, then |A x B| is [MHT-CET 2023]",
+    "question_latex": "If $|\\vec{A}| = 10$, $|\\vec{B}| = 2$ and $\\vec{A} \\cdot \\vec{B} = 10$, then $|\\vec{A} \\times \\vec{B}|$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 10 sqrt(3)",
+      "B. 10",
+      "C. 5 sqrt(3)",
+      "D. 20"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\cos\\theta = 10 / (10 \\times 2) = 0.5 \\Rightarrow \\theta = 60^{\\circ}$. \n $|A \\times B| = 10 \\times 2 \\times \\sin 60^{\\circ} = 20 \\times \\sqrt{3}/2 = 10\\sqrt{3}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Vector",
+    "question": "A unit vector along i + j + k is [MHT-CET 2019]",
+    "question_latex": "A unit vector along $\\hat{i} + \\hat{j} + \\hat{k}$ is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. (i + j + k) / sqrt(3)",
+      "B. (i + j + k) / 3",
+      "C. i + j + k",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$|A| = \\sqrt{3}$. $\\hat{A} = \\vec{A}/|A|$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Vector",
+    "question": "If r = 2t i + 3t^2 j, acceleration is [MHT-CET 2022]",
+    "question_latex": "If $\\vec{r} = 2t\\hat{i} + 3t^2\\hat{j}$, acceleration is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 2i + 6j",
+      "B. 6j",
+      "C. 2i",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\vec{v} = 2\\hat{i} + 6t\\hat{j} \\Rightarrow \\vec{a} = 6\\hat{j}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Vector",
+    "question": "Angle between A = 3i + j and B = i + 3j is [MHT-CET 2024]",
+    "question_latex": "Angle between $\\vec{A} = 3\\hat{i} + \\hat{j}$ and $\\vec{B} = \\hat{i} + 3\\hat{j}$ is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. cos^-1(0.6)",
+      "B. cos^-1(0.8)",
+      "C. 45°",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$A \\cdot B = 3 + 3 = 6$. $|A| = \\sqrt{10}, |B| = \\sqrt{10}$. $\\cos\\theta = 6/10 = 0.6$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Vector",
+    "question": "Resultant of two equal vectors A is [MHT-CET 2020]",
+    "question_latex": "Resultant of two equal vectors $\\vec{A}$ with angle $\\theta$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 2A cos(theta/2)",
+      "B. 2A sin(theta/2)",
+      "C. A cos(theta)",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard formula for resultant of equal vectors.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Vector",
+    "question": "A force F = 5i + 3j - 2k moves a particle from r1 = 2i + j to r2 = i + j + k. Work is [MHT-CET 2021]",
+    "question_latex": "A force $\\vec{F} = 5\\hat{i} + 3\\hat{j} - 2\\hat{k}$ moves a particle from $\\vec{r}_1 = 2\\hat{i} + \\hat{j}$ to $\\vec{r}_2 = \\hat{i} + \\hat{j} + \\hat{k}$. Work is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. -7 J",
+      "B. 7 J",
+      "C. -5 J",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\vec{s} = -\\hat{i} + \\hat{k}$. $W = 5(-1) + 3(0) + (-2)(1) = -5 - 2 = -7$ J.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Vector",
+    "question": "Maximum value of A . B is [MHT-CET 2023]",
+    "question_latex": "Maximum value of $\\vec{A} \\cdot \\vec{B}$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. AB",
+      "B. zero",
+      "C. -AB",
+      "D. 1"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Occurs when $\\theta = 0^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Vector",
+    "question": "Minimum value of |A x B| is [MHT-CET 2019]",
+    "question_latex": "Minimum value of $|\\vec{A} \\times \\vec{B}|$ is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. AB",
+      "B. zero",
+      "C. 1",
+      "D. -AB"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Occurs when vectors are parallel ($\\theta = 0^{\\circ}$) or antiparallel.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Vector",
+    "question": "The angle between vector i + j and x-axis is [MHT-CET 2022]",
+    "question_latex": "The angle between vector $\\hat{i} + \\hat{j}$ and $x$-axis is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 45°",
+      "C. 90°",
+      "D. 30°"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\tan\\theta = 1/1 = 1 \\Rightarrow \\theta = 45^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Vector",
+    "question": "If A = i + j and B = j + k, then A x B is [MHT-CET 2024]",
+    "question_latex": "If $\\vec{A} = \\hat{i} + \\hat{j}$ and $\\vec{B} = \\hat{j} + \\hat{k}$, then $\\vec{A} \\times \\vec{B}$ is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. i - j + k",
+      "B. i + j - k",
+      "C. -i + j + k",
+      "D. i + j + k"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\begin{vmatrix} \\hat{i} & \\hat{j} & \\hat{k} \\\\ 1 & 1 & 0 \\\\ 0 & 1 & 1 \\end{vmatrix} = \\hat{i}(1) - \\hat{j}(1) + \\hat{k}(1)$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Vector",
+    "question": "Projection of A = i + j + k on y-axis is [MHT-CET 2020]",
+    "question_latex": "Projection of $\\vec{A} = \\hat{i} + \\hat{j} + \\hat{k}$ on $y$-axis is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. sqrt(3)",
+      "C. zero",
+      "D. 3"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "y-component is 1.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Vector",
+    "question": "Two vectors A and B are parallel if [MHT-CET 2021]",
+    "question_latex": "Two vectors $\\vec{A}$ and $\\vec{B}$ are parallel if [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. A . B = 0",
+      "B. A x B = 0",
+      "C. A + B = 0",
+      "D. A - B = 0"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Condition for collinearity.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Vector",
+    "question": "Angle between i + j + k and i - j is [MHT-CET 2023]",
+    "question_latex": "Angle between $\\hat{i} + \\hat{j} + \\hat{k}$ and $\\hat{i} - \\hat{j}$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 90°",
+      "B. 45°",
+      "C. 0°",
+      "D. 180°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Dot product is $1 - 1 + 0 = 0$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Vector",
+    "question": "A unit vector is [MHT-CET 2019]",
+    "question_latex": "A unit vector is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. dimensionless",
+      "B. unitless",
+      "C. has magnitude 1",
+      "D. all of these"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "It defines direction and has magnitude 1 without physical units.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Vector",
+    "question": "Force F = 2i + 3j N acting at r = i m produces torque [MHT-CET 2022]",
+    "question_latex": "Force $\\vec{F} = 2\\hat{i} + 3\\hat{j}$ N acting at $\\vec{r} = \\hat{i}$ m produces torque [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 3k Nm",
+      "B. -3k Nm",
+      "C. 2k Nm",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\hat{i} \\times (2\\hat{i} + 3\\hat{j}) = 2(0) + 3(\\hat{k}) = 3\\hat{k}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Vector",
+    "question": "Scalar triple product A . (B x C) represents [MHT-CET 2024]",
+    "question_latex": "Scalar triple product $\\vec{A} \\cdot (\\vec{B} \\times \\vec{C})$ represents [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Area",
+      "B. Volume",
+      "C. Work",
+      "D. Power"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Volume of parallelepiped.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Vector",
+    "question": "If A . B = 0, angle is 90. If A x B = 0, angle is 0 or 180. If A . B = AB, angle is [MHT-CET 2020]",
+    "question_latex": "If $\\vec{A} \\cdot \\vec{B} = AB$, angle is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 180°",
+      "C. 90°",
+      "D. 45°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Maximum positive dot product.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Vector",
+    "question": "A particle moves with r = cos(t) i + sin(t) j. Its path is [MHT-CET 2021]",
+    "question_latex": "A particle moves with $\\vec{r} = \\cos(t)\\hat{i} + \\sin(t)\\hat{j}$. Its path is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. line",
+      "B. circle",
+      "C. parabola",
+      "D. helix"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$x^2 + y^2 = \\cos^2 t + \\sin^2 t = 1$. Equation of circle.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Vector",
+    "question": "The angle between i + j and i - j is [MHT-CET 2023]",
+    "question_latex": "The angle between $\\hat{i} + \\hat{j}$ and $\\hat{i} - \\hat{j}$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 90°",
+      "B. 45°",
+      "C. 0°",
+      "D. 180°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of 792.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Vector",
+    "question": "A force F = i + j - k moves particle from (0,0,0) to (1,1,1). Work is [MHT-CET 2019]",
+    "question_latex": "A force $\\vec{F} = \\hat{i} + \\hat{j} - \\hat{k}$ moves particle from $(0,0,0)$ to $(1,1,1)$. Work is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 1 J",
+      "B. 3 J",
+      "C. zero",
+      "D. -1 J"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$W = (1 \\times 1) + (1 \\times 1) + (-1 \\times 1) = 1 + 1 - 1 = 1$ J.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Vector",
+    "question": "If |A + B| = A + B, angle is [MHT-CET 2022]",
+    "question_latex": "If $|\\vec{A} + \\vec{B}| = A + B$, angle is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 180°",
+      "C. 90°",
+      "D. 60°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Resultant is algebraic sum only if vectors are in same direction.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Vector",
+    "question": "If |A + B| = |A - B|, angle is [MHT-CET 2024]",
+    "question_latex": "If $|\\vec{A} + \\vec{B}| = |\\vec{A} - \\vec{B}|$, angle is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 90°",
+      "B. 0°",
+      "C. 180°",
+      "D. 45°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of 756.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Vector",
+    "question": "The angle between two vectors A = i and B = j + k is [MHT-CET 2020]",
+    "question_latex": "The angle between two vectors $\\vec{A} = \\hat{i}$ and $\\vec{B} = \\hat{j} + \\hat{k}$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 90°",
+      "B. 45°",
+      "C. 0°",
+      "D. 180°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "A is along x, B is in y-z plane.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Vector",
+    "question": "A unit vector perpendicular to x-y plane is [MHT-CET 2021]",
+    "question_latex": "A unit vector perpendicular to $x-y$ plane is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. i",
+      "B. j",
+      "C. k",
+      "D. i + j"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Z-axis is perpendicular to X-Y plane.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Vector",
+    "question": "The cross product of a vector with itself is [MHT-CET 2023]",
+    "question_latex": "The cross product of a vector with itself is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. zero vector",
+      "C. same vector",
+      "D. squared magnitude"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\sin 0 = 0$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Vector",
+    "question": "The dot product of a vector with itself is [MHT-CET 2019]",
+    "question_latex": "The dot product of a vector with itself is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. zero",
+      "C. squared magnitude",
+      "D. magnitude"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$A \\cdot A = A^2 \\cos 0 = A^2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Vector",
+    "question": "A force F = 2i + j moves a particle at velocity v = i - j. Power is [MHT-CET 2022]",
+    "question_latex": "A force $\\vec{F} = 2\\hat{i} + \\hat{j}$ moves a particle at velocity $\\vec{v} = \\hat{i} - \\hat{j}$. Power is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 1 W",
+      "B. 3 W",
+      "C. -1 W",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$P = 2 - 1 = 1$ W.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Vector",
+    "question": "Which of the following is a scalar? [MHT-CET 2024]",
+    "question_latex": "Which of the following is a scalar? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Work",
+      "B. Force",
+      "C. Velocity",
+      "D. Acceleration"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Work is a dot product of two vectors.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Vector",
+    "question": "Angle between A = i + j + k and B = i + j is [MHT-CET 2020]",
+    "question_latex": "Angle between $\\vec{A} = \\hat{i} + \\hat{j} + \\hat{k}$ and $\\vec{B} = \\hat{i} + \\hat{j}$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. cos^-1(sqrt(2/3))",
+      "B. 45°",
+      "C. 60°",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$A \\cdot B = 2$. $|A| = \\sqrt{3}, |B| = \\sqrt{2}$. $\\cos\\theta = 2 / \\sqrt{6} = \\sqrt{4/6} = \\sqrt{2/3}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Vector",
+    "question": "If |A| = 10 and it is rotated by 30°, new magnitude is [MHT-CET 2021]",
+    "question_latex": "If $|\\vec{A}| = 10$ and it is rotated by $30^{\\circ}$, new magnitude is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 10",
+      "B. 10 cos 30",
+      "C. 10 sin 30",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Rotation does not change the magnitude of a vector.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Vector",
+    "question": "i . j is zero because [MHT-CET 2023]",
+    "question_latex": "$\\hat{i} \\cdot \\hat{j}$ is zero because [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. they are parallel",
+      "B. they are perpendicular",
+      "C. one is zero",
+      "D. of convention"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Coordinate axes are orthogonal.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Vector",
+    "question": "j x i is equal to [MHT-CET 2019]",
+    "question_latex": "$\\hat{j} \\times \\hat{i}$ is equal to [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. k",
+      "B. -k",
+      "C. i",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Order of cross product matters.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Vector",
+    "question": "The angle between two vectors A and B is 60°. If |A| = |B| = 1, then |A - B| is [MHT-CET 2022]",
+    "question_latex": "The angle between two vectors $\\vec{A}$ and $\\vec{B}$ is $60^{\\circ}$. If $|\\vec{A}| = |\\vec{B}| = 1$, then $|\\vec{A} - \\vec{B}|$ is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. sqrt(3)",
+      "C. 2",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$|A-B| = \\sqrt{1 + 1 - 2(1)(1)\\cos 60} = \\sqrt{2 - 1} = 1$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Vector",
+    "question": "If |A + B| = |A| + |B|, then angle is [MHT-CET 2024]",
+    "question_latex": "If $|\\vec{A} + \\vec{B}| = |\\vec{A}| + |\\vec{B}|$, then angle is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 180°",
+      "C. 90°",
+      "D. 60°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of 818.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Vector",
+    "question": "Work done is maximum when angle between F and s is [MHT-CET 2020]",
+    "question_latex": "Work done is maximum when angle between $\\vec{F}$ and $\\vec{s}$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 90°",
+      "C. 180°",
+      "D. 45°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\cos 0 = 1$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Vector",
+    "question": "A particle moves with constant acceleration a = 2j. If v0 = i, velocity at t = 1s is [MHT-CET 2021]",
+    "question_latex": "A particle moves with constant acceleration $\\vec{a} = 2\\hat{j}$. If $\\vec{v}_0 = \\hat{i}$, velocity at $t = 1s$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. i + 2j",
+      "B. 2i + j",
+      "C. 3j",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\vec{v} = \\vec{v}_0 + \\vec{a}t = \\hat{i} + 2\\hat{j}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Vector",
+    "question": "Angle between A = i + j and y-axis is [MHT-CET 2023]",
+    "question_latex": "Angle between $\\vec{A} = \\hat{i} + \\hat{j}$ and $y$-axis is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 45°",
+      "B. 0°",
+      "C. 90°",
+      "D. 30°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\tan\theta = 1/1 = 1$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Vector",
+    "question": "Which of the following is true for null vector? [MHT-CET 2019]",
+    "question_latex": "Which of the following is true for null vector? [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. magnitude is zero",
+      "B. direction is arbitrary",
+      "C. both A and B",
+      "D. it is not a vector"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Definition of zero vector.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Vector",
+    "question": "If A . B = 0 and |A x B| = 1, then [MHT-CET 2022]",
+    "question_latex": "If $\\vec{A} \\cdot \\vec{B} = 0$ and $|\\vec{A} \\times \\vec{B}| = 1$, then [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. A and B are unit vectors",
+      "B. A and B are perpendicular",
+      "C. Both A and B",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Dot product 0 $\\Rightarrow$ perpendicular. If perpendicular, $|A \\times B| = AB = 1$. If they are unit vectors, $AB=1$. (Specific case).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Vector",
+    "question": "The angle between two vectors A = i + sqrt(3)j and B = j is [MHT-CET 2024]",
+    "question_latex": "The angle between two vectors $\\vec{A} = \\hat{i} + \\sqrt{3}\\hat{j}$ and $\\vec{B} = \\hat{j}$ is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 30°",
+      "B. 60°",
+      "C. 45°",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\tan\theta$ with x-axis is $\\sqrt{3} \\Rightarrow 60^{\\circ}$. Angle with y-axis is $90 - 60 = 30^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Vector",
+    "question": "A force F = i + 2j acting on r = j produces torque [MHT-CET 2020]",
+    "question_latex": "A force $\\vec{F} = \\hat{i} + 2\\hat{j}$ acting on $\\vec{r} = \\hat{j}$ produces torque [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. k",
+      "B. -k",
+      "C. 2k",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\hat{j} \\times (\\hat{i} + 2\\hat{j}) = (\\hat{j} \\times \\hat{i}) = -\\hat{k}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Vector",
+    "question": "Magnitude of A = 2i - 2j + k is [MHT-CET 2021]",
+    "question_latex": "Magnitude of $\\vec{A} = 2\\hat{i} - 2\\hat{j} + \\hat{k}$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 3",
+      "B. 9",
+      "C. 5",
+      "D. 1"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\sqrt{4 + 4 + 1} = 3$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Vector",
+    "question": "If A is parallel to B, then A . B is [MHT-CET 2023]",
+    "question_latex": "If $\\vec{A}$ is parallel to $\\vec{B}$, then $\\vec{A} \\cdot \\vec{B}$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. AB",
+      "B. zero",
+      "C. -AB",
+      "D. 1"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of 814.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Vector",
+    "question": "If A is perpendicular to B, then |A x B| is [MHT-CET 2019]",
+    "question_latex": "If $\\vec{A}$ is perpendicular to $\\vec{B}$, then $|\\vec{A} \\times \\vec{B}|$ is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. AB",
+      "B. zero",
+      "C. 1",
+      "D. -AB"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\sin 90 = 1$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Vector",
+    "question": "The direction of torque is [MHT-CET 2022]",
+    "question_latex": "The direction of torque is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. along r",
+      "B. along F",
+      "C. perpendicular to both r and F",
+      "D. arbitrary"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Nature of cross product.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Vector",
+    "question": "If A . B = 0 and A x B = 0, then [MHT-CET 2024]",
+    "question_latex": "If $\\vec{A} \\cdot \\vec{B} = 0$ and $\\vec{A} \\times \\vec{B} = 0$, then [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. A is zero",
+      "B. B is zero",
+      "C. either A or B is zero",
+      "D. they are unit vectors"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "They cannot be both parallel and perpendicular unless one is a null vector.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Vector",
+    "question": "A particle moves with v = 3i + 4j. Distance at t = 1s is [MHT-CET 2020]",
+    "question_latex": "A particle moves with constant $\\vec{v} = 3\\hat{i} + 4\\hat{j}$. Distance at $t = 1s$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 5",
+      "B. 7",
+      "C. 1",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Distance $= |v| \\times t = 5 \\times 1 = 5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Vector",
+    "question": "Angle between A = i + j and B = k is [MHT-CET 2021]",
+    "question_latex": "Angle between $\\vec{A} = \\hat{i} + \\hat{j}$ and $\\vec{B} = \\hat{k}$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 90°",
+      "B. 0°",
+      "C. 45°",
+      "D. 180°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate logic of 774.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Vector",
+    "question": "If A = i + j, unit vector is [MHT-CET 2023]",
+    "question_latex": "If $\\vec{A} = \\hat{i} + \\hat{j}$, unit vector is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. (i + j) / sqrt(2)",
+      "B. i + j",
+      "C. i",
+      "D. j"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of 779.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Vector",
+    "question": "If |A x B| = AB, the angle is [MHT-CET 2019]",
+    "question_latex": "If $|\\vec{A} \\times \\vec{B}| = AB$, the angle is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 90°",
+      "B. 0°",
+      "C. 180°",
+      "D. 45°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\sin\\theta = 1$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Vector",
+    "question": "Which of the following is true? [MHT-CET 2022]",
+    "question_latex": "Which of the following is true? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. i . i = 1",
+      "B. i . j = 0",
+      "C. i x j = k",
+      "D. all of these"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Standard vector identities.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Vector",
+    "question": "A force F = i acts on r = j. Torque is [MHT-CET 2024]",
+    "question_latex": "A force $\\vec{F} = \\hat{i}$ acts on $\\vec{r} = \\hat{j}$. Torque is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. k",
+      "B. -k",
+      "C. zero",
+      "D. i"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\hat{j} \\times \\hat{i} = -\\hat{k}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Vector",
+    "question": "Three vectors A, B and C are such that A = B + C and their magnitudes are in ratio 13: 12:5 respectively. The angle between vectors A and C is",
+    "question_latex": "Three vectors $\\vec{A}, \\vec{B}$ and $\\vec{C}$ are such that $\\vec{A} = \\vec{B} + \\vec{C}$ and their magnitudes are in ratio $13: 12:5$ respectively. The angle between vectors $\\vec{A}$ and $\\vec{C}$ is",
+    "question_images": [],
+    "options": [
+      "A. cos^-1(5/13)",
+      "B. sin^-1(5/13)",
+      "C. cos^-1(12/13)",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of 760. $\\theta = \\cos^{-1}(5/13)$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   }
 ]

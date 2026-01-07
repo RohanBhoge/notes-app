@@ -1,0 +1,1902 @@
+[
+    {
+        "id": 1,
+        "chapter": "Magnetic Materials",
+        "question": "Which one of the following is a diamagnetic substance?* [MHT-CET 2019]",
+        "question_latex": "Which one of the following is a diamagnetic substance?* [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Water",
+            "B. Chromium",
+            "C. Aluminium",
+            "D. Manganese"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Water is a diamagnetic substance. Chromium, Aluminium, and Manganese are paramagnetic.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Magnetic Materials",
+        "question": "The space within a current carrying toroid is filled with tungsten of susceptibility 6.8 x 10^-5. The percentage increase in the magnetic field is",
+        "question_latex": "The space within a current carrying toroid is filled with tungsten of susceptibility $6.8\\times10^{-5}$. The percentage increase in the magnetic field is",
+        "question_images": [],
+        "options": [
+            "A. 2.8 x 10^-3 %",
+            "B. 6.8 x 10^-3 %",
+            "C. 4.8 x 10^-3 %",
+            "D. 5.8 x 10^-3 %"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Magnetic field $B = B_{0}(1 + \\chi)$. \n Increase in field $\\Delta B = B - B_{0} = \\chi B_{0}$. \n Percentage increase $= \\frac{\\Delta B}{B_{0}} \\times 100 = \\chi \\times 100 = 6.8 \\times 10^{-5} \\times 100 = 6.8 \\times 10^{-3}\\%$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Magnetic Materials",
+        "question": "The magnetic susceptibility of a paramagnetic material is 400 at 300 K. Its value at 600 K will be [MHT-CET 2021]",
+        "question_latex": "The magnetic susceptibility of a paramagnetic material is $400$ at $300~K$. Its value at $600~K$ will be [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 200",
+            "B. 800",
+            "C. 100",
+            "D. 600"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to Curie's Law, $\\chi \\propto 1/T$. \n $\\frac{\\chi_{2}}{\\chi_{1}} = \\frac{T_{1}}{T_{2}} = \\frac{300}{600} = \\frac{1}{2}$. \n $\\chi_{2} = 400 / 2 = 200$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Magnetic Materials",
+        "question": "A magnetising field of 1600 A/m produces a magnetic flux of 2.4 x 10^-5 Wb in an iron bar of cross-sectional area 0.2 cm^2. The susceptibility of the iron bar is [MHT-CET 2022]",
+        "question_latex": "A magnetising field of $1600~A/m$ produces a magnetic flux of $2.4 \\times 10^{-5}~Wb$ in an iron bar of cross-sectional area $0.2~cm^{2}$. The susceptibility of the iron bar is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 596",
+            "B. 597",
+            "C. 598",
+            "D. 599"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B = \\frac{\\Phi}{A} = \\frac{2.4 \\times 10^{-5}}{0.2 \\times 10^{-4}} = 1.2$ T. \n $B = \\mu_{0}(H + M) = \\mu_{0}H(1 + \\chi)$. \n $1.2 = (4\\pi \\times 10^{-7}) \\times 1600 \\times (1 + \\chi) \\Rightarrow 1 + \\chi \\approx 596.8 \\Rightarrow \\chi \\approx 596$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Magnetic Materials",
+        "question": "The relative permeability of a material is 0.999. The material is [MHT-CET 2023]",
+        "question_latex": "The relative permeability of a material is $0.999$. The material is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Diamagnetic",
+            "B. Paramagnetic",
+            "C. Ferromagnetic",
+            "D. Non-magnetic"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For diamagnetic materials, $\\mu_{r} < 1$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Magnetic Materials",
+        "question": "An electron revolves in a circle of radius r with velocity v. The magnetic dipole moment is [MHT-CET 2020]",
+        "question_latex": "An electron revolves in a circle of radius $r$ with velocity $v$. The magnetic dipole moment is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. evr / 2",
+            "B. evr",
+            "C. ev / 2r",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$M = IA = (e/T) (\\pi r^{2}) = (ev / 2\\pi r) (\\pi r^{2}) = evr / 2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Magnetic Materials",
+        "question": "The Curie temperature of iron is 1043 K. If the temperature of iron is 1100 K, it will be [MHT-CET 2024]",
+        "question_latex": "The Curie temperature of iron is $1043~K$. If the temperature of iron is $1100~K$, it will be [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Ferromagnetic",
+            "B. Paramagnetic",
+            "C. Diamagnetic",
+            "D. Superconducting"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Above Curie temperature, a ferromagnetic material becomes paramagnetic.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Magnetic Materials",
+        "question": "Magnetic susceptibility of a diamagnetic substance is [MHT-CET 2019]",
+        "question_latex": "Magnetic susceptibility of a diamagnetic substance is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. small and negative",
+            "B. small and positive",
+            "C. large and positive",
+            "D. large and negative"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Diamagnetic substances have a weak opposition to external fields, so $\\chi$ is small and negative.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Magnetic Materials",
+        "question": "The units of magnetization are [MHT-CET 2022]",
+        "question_latex": "The units of magnetization are [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. A/m",
+            "B. Am",
+            "C. Am^2",
+            "D. T"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Magnetization $M = \\frac{\\text{Net dipole moment}}{\\text{Volume}} = \\frac{Am^{2}}{m^{3}} = A/m$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Magnetic Materials",
+        "question": "Bohr magneton is given by [MHT-CET 2021]",
+        "question_latex": "Bohr magneton is given by [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. eh / 4 pi m",
+            "B. eh / 2 pi m",
+            "C. e / 2 m",
+            "D. m h / 2 pi e"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard expression for the smallest magnetic dipole moment of an electron.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Magnetic Materials",
+        "question": "Magnetic intensity H has units of [MHT-CET 2023]",
+        "question_latex": "Magnetic intensity $H$ has units of [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. A/m",
+            "B. Am",
+            "C. T",
+            "D. Wb"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Both $M$ and $H$ have the same units, Ampere per meter ($A/m$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Magnetic Materials",
+        "question": "Gyromagnetic ratio of an electron is [MHT-CET 2020]",
+        "question_latex": "Gyromagnetic ratio of an electron is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. e / 2m",
+            "B. 2m / e",
+            "C. m / 2e",
+            "D. eh / 4 pi m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The ratio of magnetic moment to angular momentum is $e/2m$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Magnetic Materials",
+        "question": "A paramagnetic substance is placed in a non-uniform magnetic field. It moves from [MHT-CET 2024]",
+        "question_latex": "A paramagnetic substance is placed in a non-uniform magnetic field. It moves from [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. weaker to stronger field",
+            "B. stronger to weaker field",
+            "C. does not move",
+            "D. rotates only"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Paramagnetic substances are weakly attracted to magnets and move toward regions of higher field strength.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Magnetic Materials",
+        "question": "If magnetization of a substance is 10 A/m and intensity is 100 A/m, susceptibility is [MHT-CET 2019]",
+        "question_latex": "If magnetization of a substance is $10~A/m$ and intensity is $100~A/m$, susceptibility is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 0.1",
+            "B. 10",
+            "C. 0.01",
+            "D. 1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\chi = M/H = 10 / 100 = 0.1$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Magnetic Materials",
+        "question": "Which of the following is not true for ferromagnetic substances? [MHT-CET 2022]",
+        "question_latex": "Which of the following is not true for ferromagnetic substances? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. they have large positive susceptibility",
+            "B. they obey Curie-Weiss law",
+            "C. their susceptibility is independent of temperature",
+            "D. they show hysteresis"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Susceptibility of ferromagnets decreases significantly as temperature increases.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Magnetic Materials",
+        "question": "Unit of magnetic permeability is [MHT-CET 2021]",
+        "question_latex": "Unit of magnetic permeability is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. T m / A",
+            "B. T A / m",
+            "C. T / m A",
+            "D. Wb / A"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B = \\mu H \\Rightarrow \\mu = B/H = Tesla / (A/m) = T \\cdot m / A$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Magnetic Materials",
+        "question": "A substance with susceptibility -1 x 10^-5 is [MHT-CET 2023]",
+        "question_latex": "A substance with susceptibility $-1 \\times 10^{-5}$ is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Diamagnetic",
+            "B. Paramagnetic",
+            "C. Ferromagnetic",
+            "D. Superconductor"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Negative susceptibility is the defining trait of diamagnetism.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Magnetic Materials",
+        "question": "Soft iron is used in electromagnets because [MHT-CET 2020]",
+        "question_latex": "Soft iron is used in electromagnets because [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. high permeability and low retentivity",
+            "B. low permeability and high retentivity",
+            "C. high permeability and high retentivity",
+            "D. low permeability and low retentivity"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Electromagnets need to become magnetic easily and lose magnetism quickly when current stops.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Magnetic Materials",
+        "question": "The hysteresis loop for steel compared to soft iron is [MHT-CET 2024]",
+        "question_latex": "The hysteresis loop for steel compared to soft iron is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. narrower and longer",
+            "B. wider and longer",
+            "C. wider and shorter",
+            "D. narrower and shorter"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Steel has higher retentivity and much higher coercivity, leading to a broader (wider) area loop.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Magnetic Materials",
+        "question": "If magnetic field inside a core is 1.5 T and magnetization is 10^6 A/m, then H is [MHT-CET 2019]",
+        "question_latex": "If magnetic field inside a core is $1.5$ T and magnetization is $10^{6}~A/m$, then $H$ is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 1.9 x 10^5 A/m",
+            "B. 1.5 x 10^6 A/m",
+            "C. 0.5 x 10^6 A/m",
+            "D. 10^6 A/m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B = \\mu_{0}(H + M) \\Rightarrow H = B/\\mu_{0} - M$. \n $H = \\frac{1.5}{4\\pi \\times 10^{-7}} - 10^{6} \\approx 1.19 \\times 10^{6} - 10^{6} = 0.19 \\times 10^{6} = 1.9 \\times 10^{5}~A/m$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Magnetic Materials",
+        "question": "At Curie point, the ferromagnetic material becomes [MHT-CET 2022]",
+        "question_latex": "At Curie point, the ferromagnetic material becomes [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Paramagnetic",
+            "B. Diamagnetic",
+            "C. Superconductor",
+            "D. Semi-magnetic"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Duplicate of Q7.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Magnetic Materials",
+        "question": "Which of the following has susceptibility independent of temperature? [MHT-CET 2021]",
+        "question_latex": "Which of the following has susceptibility independent of temperature? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Diamagnetic",
+            "B. Paramagnetic",
+            "C. Ferromagnetic",
+            "D. None"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Diamagnetism is an orbital property nearly unaffected by thermal vibrations.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Magnetic Materials",
+        "question": "Work done to demagnetize a sample is proportional to [MHT-CET 2023]",
+        "question_latex": "Work done to demagnetize a sample is proportional to [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. area of hysteresis loop",
+            "B. perimeter of loop",
+            "C. retentivity",
+            "D. coercivity only"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The area enclosed by the B-H loop represents the energy lost per unit volume per cycle.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Magnetic Materials",
+        "question": "A magnetic dipole moment M is placed in a field B. The torque is [MHT-CET 2024]",
+        "question_latex": "A magnetic dipole moment $M$ is placed in a field $B$. The torque is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. M x B",
+            "B. M . B",
+            "C. B x M",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard vector expression for torque on a dipole.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Magnetic Materials",
+        "question": "The value of magnetic induction at the poles of Earth is [MHT-CET 2020]",
+        "question_latex": "The value of magnetic induction at the poles of Earth is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. minimum",
+            "C. maximum",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Field lines are most concentrated at the magnetic poles.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Magnetic Materials",
+        "question": "Angle of dip at the magnetic equator is [MHT-CET 2019]",
+        "question_latex": "Angle of dip at the magnetic equator is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 0°",
+            "B. 90°",
+            "C. 45°",
+            "D. 180°"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "At the equator, the earth's magnetic field is horizontal.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Magnetic Materials",
+        "question": "Susceptibility of a paramagnetic substance is 10^-3 at 27°C. At what temperature will it be 0.5 x 10^-3? [MHT-CET 2022]",
+        "question_latex": "Susceptibility of a paramagnetic substance is $10^{-3}$ at $27^{\\circ}C$. At what temperature will it be $0.5 \\times 10^{-3}?$ [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 327°C",
+            "B. 600 K",
+            "C. both A and B",
+            "D. 54°C"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$T_{1} = 300~K$. $\\chi_{2} = \\chi_{1}/2 \\Rightarrow T_{2} = 2T_{1} = 600~K = 327^{\\circ}C$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Magnetic Materials",
+        "question": "A superconductor is a perfect [MHT-CET 2021]",
+        "question_latex": "A superconductor is a perfect [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Diamagnet",
+            "B. Paramagnet",
+            "C. Ferromagnet",
+            "D. Conductor only"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Meissner effect: superconductors expel all magnetic fields, acting as perfect diamagnets ($\\chi = -1$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Magnetic Materials",
+        "question": "Example of a paramagnetic substance is [MHT-CET 2024]",
+        "question_latex": "Example of a paramagnetic substance is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Gold",
+            "B. Iron",
+            "C. Aluminium",
+            "D. Copper"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Aluminium is paramagnetic. Iron is ferromagnetic. Gold and Copper are diamagnetic.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Magnetic Materials",
+        "question": "Hysteresis area represents [MHT-CET 2023]",
+        "question_latex": "Hysteresis area represents [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Energy loss per cycle",
+            "B. Magnetization",
+            "C. Retentivity",
+            "D. Coercivity"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The loop area is directly proportional to the thermal energy generated per cycle of magnetization.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Magnetic Materials",
+        "question": "The relationship between B, H and M is [MHT-CET 2020]",
+        "question_latex": "The relationship between $B, H$ and $M$ is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. B = mu0 (H + M)",
+            "B. H = B + M",
+            "C. M = mu0 (B + H)",
+            "D. B = H + mu0 M"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Total magnetic induction is the sum of field due to external current and internal magnetization.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Magnetic Materials",
+        "question": "Permanent magnets are made of [MHT-CET 2019]",
+        "question_latex": "Permanent magnets are made of [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Soft iron",
+            "B. Steel",
+            "C. Copper",
+            "D. Aluminium"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Materials with high retentivity and high coercivity (like steel or Alnico) are best for permanent magnets.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Magnetic Materials",
+        "question": "Susceptibility of copper is -0.98 x 10^-5. It is [MHT-CET 2022]",
+        "question_latex": "Susceptibility of copper is $-0.98 \\times 10^{-5}$. It is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Diamagnetic",
+            "B. Paramagnetic",
+            "C. Ferromagnetic",
+            "D. Non-magnetic"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Negative susceptibility implies diamagnetism.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Magnetic Materials",
+        "question": "The magnetic moment of an atom is due to [MHT-CET 2024]",
+        "question_latex": "The magnetic moment of an atom is due to [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. orbital motion of electrons",
+            "B. spin motion of electrons",
+            "C. nuclear spin",
+            "D. all of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Electronic contributions (spin and orbital) are dominant, but nuclear spin also contributes a small amount.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Magnetic Materials",
+        "question": "Relation between magnetic field B and magnetic intensity H is",
+        "question_latex": "Relation between magnetic field $B$ and magnetic intensity $H$ is",
+        "question_images": [],
+        "options": [
+            "A. B = mu H",
+            "B. H = mu B",
+            "C. B = mu / H",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Magnetic permeability $\\mu$ is the proportionality constant between $B$ and $H$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Magnetic Materials",
+        "question": "Domain theory explains [MHT-CET 2023]",
+        "question_latex": "Domain theory explains [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Ferromagnetism",
+            "B. Paramagnetism",
+            "C. Diamagnetism",
+            "D. all of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Domains are regions of aligned spins characteristic of ferromagnetic materials.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Magnetic Materials",
+        "question": "The coercivity of a small magnet where the ferromagnet gets demagnetized is 3 x 10^3 Am^-1. The current required to be passed in a solenoid of length 10 cm and 100 turns is",
+        "question_latex": "The coercivity of a small magnet where the ferromagnet gets demagnetized is $3 \\times 10^{3}~Am^{-1}$. The current required to be passed in a solenoid of length $10$ cm and $100$ turns is",
+        "question_images": [],
+        "options": [
+            "A. 3 A",
+            "B. 0.3 A",
+            "C. 30 A",
+            "D. 3.5 A"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$H = nI = (N/L)I \\Rightarrow 3 \\times 10^{3} = (100 / 0.1) I \\Rightarrow 3000 = 1000 I \\Rightarrow I = 3$ A.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Magnetic Materials",
+        "question": "Which of the following is correct for magnetic susceptibility? [MHT-CET 2021]",
+        "question_latex": "Which of the following is correct for magnetic susceptibility? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. it is a dimensionless scalar",
+            "B. it is a vector",
+            "C. unit is Am",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Susceptibility $\\chi = M/H$ is the ratio of two identical physical quantities.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Magnetic Materials",
+        "question": "A magnetic material has relative permeability 4000. It is [MHT-CET 2024]",
+        "question_latex": "A magnetic material has relative permeability $4000$. It is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Ferromagnetic",
+            "B. Paramagnetic",
+            "C. Diamagnetic",
+            "D. non-magnetic"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Extremely high relative permeability is characteristic of ferromagnets.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Magnetic Materials",
+        "question": "Curie-Weiss law is applicable [MHT-CET 2022]",
+        "question_latex": "Curie-Weiss law is applicable [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. above Curie temperature",
+            "B. below Curie temperature",
+            "C. only at 0 K",
+            "D. for superconductors"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "It describes the paramagnetic behavior of ferromagnetic materials above $T_{c}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Magnetic Materials",
+        "question": "Unit of Bohr magneton is [MHT-CET 2021]",
+        "question_latex": "Unit of Bohr magneton is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Am^2",
+            "B. A/m",
+            "C. T",
+            "D. Wb"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "It is a unit of magnetic dipole moment.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Magnetic Materials",
+        "question": "For a paramagnetic substance, if temperature is doubled, magnetization [MHT-CET 2023]",
+        "question_latex": "For a paramagnetic substance, if temperature is doubled, magnetization [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. is halved",
+            "B. is doubled",
+            "C. quadruples",
+            "D. stays same"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$M \\propto \\chi \\propto 1/T$. Doubling temperature halves the magnetization.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Magnetic Materials",
+        "question": "Meissner effect is associated with [MHT-CET 2024]",
+        "question_latex": "Meissner effect is associated with [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Superconductors",
+            "B. Semi-conductors",
+            "C. Conductors",
+            "D. Insulators"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard effect in superconductivity.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Magnetic Materials",
+        "question": "A bar magnet has length 10 cm and pole strength 5 Am. Its magnetic moment is [MHT-CET 2020]",
+        "question_latex": "A bar magnet has length $10$ cm and pole strength $5~Am$. Its magnetic moment is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 0.5 Am^2",
+            "B. 50 Am^2",
+            "C. 5 Am^2",
+            "D. 1 Am^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$M = m \\times L = 5 \\times 0.1 = 0.5~Am^{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Magnetic Materials",
+        "question": "Which of the following is not a ferromagnetic material? [MHT-CET 2019]",
+        "question_latex": "Which of the following is not a ferromagnetic material? [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Cobalt",
+            "B. Nickel",
+            "C. Platinum",
+            "D. Gadolinium"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Platinum is paramagnetic.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Magnetic Materials",
+        "question": "The value of relative permeability for air is [MHT-CET 2022]",
+        "question_latex": "The value of relative permeability for air is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 0",
+            "C. infinite",
+            "D. 4 pi x 10^-7"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Nearly same as vacuum.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Magnetic Materials",
+        "question": "Energy stored in a magnetic material depends on [MHT-CET 2021]",
+        "question_latex": "Energy stored in a magnetic material depends on [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. B and H",
+            "B. B and M",
+            "C. H and M",
+            "D. M only"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$U = \\int B \\cdot dH$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Magnetic Materials",
+        "question": "Hysteresis loss is small for [MHT-CET 2023]",
+        "question_latex": "Hysteresis loss is small for [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Soft iron",
+            "B. Steel",
+            "C. Alnico",
+            "D. Hard iron"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Soft iron has a narrow loop area.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Magnetic Materials",
+        "question": "Magnetic field induction B unit Tesla is [MHT-CET 2024]",
+        "question_latex": "Magnetic field induction $B$ unit Tesla is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Wb / m^2",
+            "B. N / Am",
+            "C. both A and B",
+            "D. Joule / Am^2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Interchangeable definitions of Tesla.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Magnetic Materials",
+        "question": "Relative permeability is ratio of [MHT-CET 2020]",
+        "question_latex": "Relative permeability is ratio of [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. permeability of medium to air",
+            "B. air to medium",
+            "C. flux to field",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\mu_{r} = \\mu / \\mu_{0}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Magnetic Materials",
+        "question": "Current I in a circular loop area A gives moment M = IA. If loop is square side L, moment is [MHT-CET 2022]",
+        "question_latex": "Current $I$ in a circular loop area $A$ gives moment $M = IA$. If loop is square side $L$, moment is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. I L^2",
+            "B. 4 I L",
+            "C. I L",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Moment is product of current and area enclosed.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Magnetic Materials",
+        "question": "Potential energy of dipole in stable equilibrium is [MHT-CET 2021]",
+        "question_latex": "Potential energy of dipole in stable equilibrium is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. -MB",
+            "B. MB",
+            "C. zero",
+            "D. 2 MB"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Occurs when $\\theta = 0^{\\circ}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Magnetic Materials",
+        "question": "Susceptibility for superconductors is [MHT-CET 2023]",
+        "question_latex": "Susceptibility for superconductors is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. -1",
+            "B. +1",
+            "C. zero",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Perfect diamagnetism.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Magnetic Materials",
+        "question": "Torque on magnet is maximum when angle is [MHT-CET 2024]",
+        "question_latex": "Torque on magnet is maximum when angle is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 90°",
+            "B. 0°",
+            "C. 180°",
+            "D. 45°"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\tau = MB \\sin \\theta$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Magnetic Materials",
+        "question": "Retentivity is [MHT-CET 2019]",
+        "question_latex": "Retentivity is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. residual magnetism after removing field",
+            "B. field needed to demagnetize",
+            "C. maximum field possible",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Definition from hysteresis loop.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Magnetic Materials",
+        "question": "Coercivity is [MHT-CET 2020]",
+        "question_latex": "Coercivity is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. reverse field required to zero induction",
+            "B. residual magnetism",
+            "C. saturation field",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Definition from hysteresis loop.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Magnetic Materials",
+        "question": "Dimensions of Bohr magneton [MHT-CET 2022]",
+        "question_latex": "Dimensions of Bohr magneton [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. [M0 L2 T0 A1]",
+            "B. [M1 L2 T-1 A1]",
+            "C. [M0 L2 T-1 A1]",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Same as magnetic dipole moment ($Am^{2}$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Magnetic Materials",
+        "question": "Magnetic potential energy in field B is U. If dipole is reversed, change in energy [MHT-CET 2021]",
+        "question_latex": "Magnetic potential energy in field $B$ is $U$. If dipole is reversed, change in energy is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 2U",
+            "B. -2U",
+            "C. zero",
+            "D. U"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Initially $U_{1} = -MB \\cos 0 = -MB$. After reversal $U_{2} = -MB \\cos 180 = +MB$. Change $= MB - (-MB) = 2MB$. If $U = -MB$, change is $-2U$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Magnetic Materials",
+        "question": "A substance has high permeability. It is [MHT-CET 2023]",
+        "question_latex": "A substance has high permeability. It is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Ferromagnetic",
+            "B. Paramagnetic",
+            "C. Diamagnetic",
+            "D. non-magnetic"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Ferromagnets concentrate flux lines greatly.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Magnetic Materials",
+        "question": "Permeability of free space is [MHT-CET 2024]",
+        "question_latex": "Permeability of free space is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 4 pi x 10^-7 T m / A",
+            "B. 4 pi x 10^7 T m / A",
+            "C. 1.26 x 10^-6 T m / A",
+            "D. Both A and C"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Value and alternate representation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Magnetic Materials",
+        "question": "Paramagnetism is due to [MHT-CET 2019]",
+        "question_latex": "Paramagnetism is due to [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. permanent dipoles in atoms",
+            "B. induced dipoles",
+            "C. overlapping bands",
+            "D. zero net moment"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Atoms/molecules have unpaired spins.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Magnetic Materials",
+        "question": "Work done to demagnetize sample is zero for [MHT-CET 2022]",
+        "question_latex": "Work done to demagnetize sample is zero for [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Diamagnetic",
+            "B. Paramagnetic",
+            "C. Ferromagnetic",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Paramagnets do not show hysteresis; loop area is zero.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Magnetic Materials",
+        "question": "Relative permeability mur and chi relation [MHT-CET 2021]",
+        "question_latex": "Relative permeability $\\mu_{r}$ and $\\chi$ relation is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. mur = 1 + chi",
+            "B. chi = 1 + mur",
+            "C. mur = chi - 1",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Fundamental property.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Magnetic Materials",
+        "question": "Dip angle at pole is [MHT-CET 2023]",
+        "question_latex": "Dip angle at pole is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 90°",
+            "B. 0°",
+            "C. 45°",
+            "D. 180°"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Field is vertical at magnetic poles.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Magnetic Materials",
+        "question": "Magnetic field inside solenoid with core k [MHT-CET 2024]",
+        "question_latex": "Magnetic field inside solenoid with core $\\mu_{r}$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. mu0 mur n I",
+            "B. mu0 n I",
+            "C. zero",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard formula.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Magnetic Materials",
+        "question": "Ferromagnetic becomes paramagnetic at [MHT-CET 2020]",
+        "question_latex": "Ferromagnetic becomes paramagnetic at [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Curie temperature",
+            "B. absolute zero",
+            "C. room temperature",
+            "D. melting point"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Transition point.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Magnetic Materials",
+        "question": "Susceptibility of vacuum is [MHT-CET 2019]",
+        "question_latex": "Susceptibility of vacuum is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. 1",
+            "C. infinite",
+            "D. -1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Vacuum has no atoms to magnetize.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Magnetic Materials",
+        "question": "Intensity of magnetization M unit is [MHT-CET 2022]",
+        "question_latex": "Intensity of magnetization $M$ unit is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. A / m",
+            "B. Am",
+            "C. Am^2",
+            "D. Wb"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Duplicate of Q9.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Magnetic Materials",
+        "question": "A magnet is cut into two halves along its axis. Magnetic moment of each part [MHT-CET 2021]",
+        "question_latex": "A magnet is cut into two halves along its axis. Magnetic moment of each part [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. halves",
+            "B. same",
+            "C. doubles",
+            "D. quadruples"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Pole strength is halved.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Magnetic Materials",
+        "question": "A magnet is cut into two halves perpendicular to axis. Moment of each part [MHT-CET 2024]",
+        "question_latex": "A magnet is cut into two halves perpendicular to axis. Moment of each part [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. halves",
+            "B. same",
+            "C. doubles",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Length is halved.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Magnetic Materials",
+        "question": "Ratio of M/L for electron is e/2m. L is [MHT-CET 2023]",
+        "question_latex": "Ratio of $M/L$ for electron is $e/2m$. $L$ is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Angular momentum",
+            "B. Length",
+            "C. Linear momentum",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard gyro-magnetic definition.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Magnetic Materials",
+        "question": "Susceptibility for iron is high. It is [MHT-CET 2020]",
+        "question_latex": "Susceptibility for iron is high. It is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Ferromagnetic",
+            "B. Paramagnetic",
+            "C. Diamagnetic",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Characteristic property.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Magnetic Materials",
+        "question": "Unit of coercivity [MHT-CET 2024]",
+        "question_latex": "Unit of coercivity [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. A / m",
+            "B. Am",
+            "C. Tesla",
+            "D. Gauss"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "It is a value of $H$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Magnetic Materials",
+        "question": "Relative permeability of paramagnetic substance is [MHT-CET 2023]",
+        "question_latex": "Relative permeability of paramagnetic substance is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. slightly more than 1",
+            "B. slightly less than 1",
+            "C. zero",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Weak attraction property.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Magnetic Materials",
+        "question": "Curie constant unit [MHT-CET 2021]",
+        "question_latex": "Curie constant $C$ unit in $\\chi = C/T$ is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. K",
+            "B. K^-1",
+            "C. dimensionless",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\chi$ is unitless, so $C$ must have units of Temperature.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Magnetic Materials",
+        "question": "Meissner effect proves perfect diamagnetism. True or False? [MHT-CET 2024]",
+        "question_latex": "Meissner effect proves perfect diamagnetism. True or False? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only at high temp",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Expulsion of $B$ means $\\chi = -1$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Magnetic Materials",
+        "question": "A magnetising field H produces M. Susceptibility is [MHT-CET 2020]",
+        "question_latex": "A magnetising field $H$ produces $M$. Susceptibility is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. M / H",
+            "B. H / M",
+            "C. M H",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Definition.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Magnetic Materials",
+        "question": "Magnetic moment of electron is mB. mB is [MHT-CET 2022]",
+        "question_latex": "Magnetic moment of electron is $\\mu_{B}$. $\\mu_{B}$ is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Bohr Magneton",
+            "B. Curie constant",
+            "C. Susceptibility",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard constant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Magnetic Materials",
+        "question": "In paramagnetic substance, individual atoms have net magnetic moment? [MHT-CET 2023]",
+        "question_latex": "In paramagnetic substance, individual atoms have net magnetic moment? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Yes",
+            "B. No",
+            "C. zero",
+            "D. constant"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Resulting from unpaired electrons.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Magnetic Materials",
+        "question": "In diamagnetic substance, net magnetic moment of atom is [MHT-CET 2021]",
+        "question_latex": "In diamagnetic substance, net magnetic moment of atom is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. high",
+            "C. low",
+            "D. constant"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "All electrons are paired.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Magnetic Materials",
+        "question": "Which of the following show hysteresis? [MHT-CET 2024]",
+        "question_latex": "Which of the following show hysteresis? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Ferromagnetic",
+            "B. Paramagnetic",
+            "C. Diamagnetic",
+            "D. all of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Only ferromagnets have irreversible domain changes.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Magnetic Materials",
+        "question": "Magnetic field lines are continuous. True or False? [MHT-CET 2020]",
+        "question_latex": "Magnetic field lines are continuous. True or False? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only for magnets",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "They form closed loops.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Magnetic Materials",
+        "question": "SI unit of pole strength m is [MHT-CET 2019]",
+        "question_latex": "SI unit of pole strength $m$ is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Am",
+            "B. Am^2",
+            "C. A/m",
+            "D. Wb"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard unit.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Magnetic Materials",
+        "question": "Ratio of magnetic moment M to angular momentum L is [MHT-CET 2022]",
+        "question_latex": "Ratio of $M/L$ is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. constant for electron",
+            "B. varies with speed",
+            "C. zero",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "It is $e/2m$, a fundamental ratio.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Magnetic Materials",
+        "question": "Core of electromagnet should have low coercivity. True or False? [MHT-CET 2021]",
+        "question_latex": "Core of electromagnet should have low coercivity. True or False? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only for large ones",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "To ensure magnetism is lost easily.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Magnetic Materials",
+        "question": "Paramagnetic material moves toward stronger field? [MHT-CET 2023]",
+        "question_latex": "Paramagnetic material moves toward stronger field? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Yes",
+            "B. No",
+            "C. stays rest",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Attraction property.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Magnetic Materials",
+        "question": "Torque on a magnet depends on angle theta. [MHT-CET 2024]",
+        "question_latex": "Torque on a magnet depends on angle $\\theta$. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only for bar magnet",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\tau = MB \\sin \\theta$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Magnetic Materials",
+        "question": "Relative permeability of diamagnetic substance is [MHT-CET 2020]",
+        "question_latex": "Relative permeability of diamagnetic substance is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. < 1",
+            "B. > 1",
+            "C. = 1",
+            "D. negative"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Since $\\chi$ is negative.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Magnetic Materials",
+        "question": "Susceptibility unit [MHT-CET 2019]",
+        "question_latex": "Susceptibility unit [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. none",
+            "B. A/m",
+            "C. Am",
+            "D. Tesla"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Dimensionless quantity.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Magnetic Materials",
+        "question": "A magnet is cut into three equal parts perpendicular to axis. Moment of each part [MHT-CET 2022]",
+        "question_latex": "A magnet is cut into three equal parts perpendicular to axis. Moment of each part [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. M/3",
+            "B. 3M",
+            "C. same",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Length is $L/3$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Magnetic Materials",
+        "question": "Curie Temperature of cobalt is higher than iron? [MHT-CET 2021]",
+        "question_latex": "Curie Temperature of cobalt is higher than iron? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. they are same",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Cobalt has one of the highest Curie temperatures ($\\approx 1388 K$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Magnetic Materials",
+        "question": "Bohr magneton value is [MHT-CET 2024]",
+        "question_latex": "Bohr magneton value is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 9.27 x 10^-24 Am^2",
+            "B. 1.6 x 10^-19 Am^2",
+            "C. 6.6 x 10^-34 Am^2",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Duplicate of Q65 logic.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Magnetic Materials",
+        "question": "Magnetic field B = mu0(H + M). True or False? [MHT-CET 2023]",
+        "question_latex": "Magnetic field $B = \\mu_{0}(H + M)$. True or False? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only for vacuum",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Fundamental vector relation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Magnetic Materials",
+        "question": "Potential energy of magnet is max at 180. [MHT-CET 2022]",
+        "question_latex": "Potential energy of magnet is max at $180^{\\circ}$. [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only if field is high",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Unstable equilibrium point.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Magnetic Materials",
+        "question": "Paramagnetic obeys Curie Law? [MHT-CET 2020]",
+        "question_latex": "Paramagnetic obeys Curie Law? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Yes",
+            "B. No",
+            "C. only at 0K",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard physics result.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Magnetic Materials",
+        "question": "If 'e' is charge on an electron, 'r' radius of circular orbit and ' v' orbital velocity, then the circulating current (1) is proportional to [MHT-CET 2020]",
+        "question_latex": "If 'e' is charge on an electron, 'r' radius of circular orbit and 'v' orbital velocity, then the circulating current (1) is proportional to [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. e^1 r^-1 v^-1",
+            "B. e^1 v^1 r^-1",
+            "C. v^1 r^1 e^-1",
+            "D. e^1 r^1 v^-1"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$I = q/T = e / (2\\pi r/v) = ev / 2\\pi r$. Hence $I \\propto e v r^{-1}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Magnetic Materials",
+        "question": "Two magnets have their lengths in the ratio 2: 3 and their pole strength in the ratio 3:4 The ratio of their magnetic moments is",
+        "question_latex": "Two magnets have their lengths in the ratio $2: 3$ and their pole strength in the ratio $3:4$ The ratio of their magnetic moments is",
+        "question_images": [],
+        "options": [
+            "A. 4:1",
+            "B. 1:2",
+            "C. 1:4",
+            "D. 2:1"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$M = m \\times L$. Ratio $M_{1}/M_{2} = (2/3) \\times (3/4) = 2/4 = 1/2$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Magnetic Materials",
+        "question": "Core of electromagnets are made of ferromagnetic material which has :",
+        "question_latex": "Core of electromagnets are made of ferromagnetic material which has :",
+        "question_images": [],
+        "options": [
+            "A. Low permeability and high retentivity",
+            "B. High permeability and low retentivity",
+            "C. Low permeability and low retentivity",
+            "D. High permeability and high retentivity"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "High permeability for strong magnetism; low retentivity to lose magnetism quickly when current is off.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Magnetic Materials",
+        "question": "The electron in a hydrogen atom circles around the proton in 1.5941 x 10^-18 s. The equivalent current due to motion of the electron is [MHT-CET 2021]",
+        "question_latex": "The electron in a hydrogen atom circles around the proton in $1.5941 \\times 10^{-18}$ s. The equivalent current due to motion of the electron is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 1 A",
+            "B. 0.1 A",
+            "C. 10 A",
+            "D. 0.01 A"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$I = e/T = 1.6 \\times 10^{-19} / (1.6 \\times 10^{-18}) \\approx 0.1$ A.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Magnetic Materials",
+        "question": "Magnetic permeability of a vacuum is mu0. For a medium with relative permeability mur, the absolute permeability is [MHT-CET 2024]",
+        "question_latex": "Magnetic permeability of a vacuum is $\\mu_{0}$. For a medium with relative permeability $\\mu_{r}$, the absolute permeability is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. mu0 mur",
+            "B. mu0 / mur",
+            "C. mur / mu0",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "By definition of relative permeability.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    }
+]

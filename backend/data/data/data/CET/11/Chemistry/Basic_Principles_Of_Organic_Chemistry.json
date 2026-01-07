@@ -1,172 +1,1902 @@
 [
   {
     "id": 1,
-    "chapter": "Basic Principles of Organic Chemistry",
-    "question": "Organic chemistry is the study of compounds mainly containing:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "On exciting Cl2 molecules by UV light, we get",
+    "question_latex": "On exciting $Cl_2$ molecules by UV light, we get",
+    "question_images": [],
     "options": [
-      "Carbon",
-      "Hydrogen",
-      "Oxygen",
-      "Nitrogen"
+      "A. Cl•",
+      "B. Cl+",
+      "C. Cl-",
+      "D. All of these"
     ],
-    "answer": "Carbon",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for the question about Organic chemistry."
+    "option_images": [],
+    "answer": "A. Cl•",
+    "solution": "Covalent bonds are cleaved in a homolytic way in the presence of UV light. This results in the formation of chlorine free radicals: $Cl-Cl \\xrightarrow{UV} \\dot{Cl} + \\dot{Cl}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 2,
-    "chapter": "Basic Principles of Organic Chemistry",
-    "question": "The compound having the same molecular formula but different structural formula is called:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "The predominant product for the reaction of R3N-CH=CH2 with HBr is",
+    "question_latex": "The predominant product for the reaction of $R_3\\overset{+}{N}-CH=CH_2$ with $HBr$ is",
+    "question_images": [],
     "options": [
-      "Isomers",
-      "Alkanes",
-      "Homologs",
-      "Aromatics"
+      "A. R3N-CH(Br)-CH3",
+      "B. R3N-CH2-CH2-Br",
+      "C. R3N-CH(Br)-CH2-Br",
+      "D. No reaction"
     ],
-    "answer": "Isomers",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for the question about Isomers."
+    "option_images": [],
+    "answer": "B. R3N-CH2-CH2-Br",
+    "solution": "Due to the electron-withdrawing tendency (-I effect) of the $R_3\\overset{+}{N}$ group, the carbocation will form at the terminal carbon (farther from the positive nitrogen) to minimize repulsion. Addition of $Br^-$ then yields the anti-Markovnikov product.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
   },
   {
     "id": 3,
-    "chapter": "Basic Principles of Organic Chemistry",
-    "question": "The series of organic compounds differing by -CH₂ group is called:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "The hybridization and geometry observed for methyl carbocation is [MHT-CET 2021]",
+    "question_latex": "The hybridization and geometry observed for methyl carbocation is [MHT-CET 2021]",
+    "question_images": [],
     "options": [
-      "Isomeric series",
-      "Homologous series",
-      "Parallel series",
-      "Organic series"
+      "A. sp3, tetrahedral",
+      "B. sp2, trigonal planar",
+      "C. sp, linear",
+      "D. sp2, pyramidal"
     ],
-    "answer": "Homologous series",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for the question about Homologous series."
+    "option_images": [],
+    "answer": "B. sp2, trigonal planar",
+    "solution": "In a carbocation, the carbon is $sp^2$ hybridized with one empty p-orbital. This leads to a trigonal planar geometry with bond angles of $120^\\circ$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 4,
-    "chapter": "Basic Principles of Organic Chemistry",
-    "question": "The general formula of alkanes is:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following is most stable carbocation? [MHT-CET 2023]",
+    "question_latex": "Which of the following is most stable carbocation? [MHT-CET 2023]",
+    "question_images": [],
     "options": [
-      "CnH2n",
-      "CnH2n+2",
-      "CnH2n-2",
-      "CnH2n+1"
+      "A. (CH3)3C+",
+      "B. (CH3)2CH+",
+      "C. CH3CH2+",
+      "D. CH3+"
     ],
-    "answer": "CnH2n+2",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for the question about Alkanes formula."
+    "option_images": [],
+    "answer": "A. (CH3)3C+",
+    "solution": "The stability of carbocations follows the order: $3^\\circ > 2^\\circ > 1^\\circ > \\text{methyl}$. Tertiary butyl carbocation is stabilized by nine hyperconjugative structures and inductive (+I) effects of three methyl groups.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 5,
-    "chapter": "Basic Principles of Organic Chemistry",
-    "question": "A covalent bond formed by sharing two pairs of electrons is:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Identify the incorrect statement about resonance effect. [MHT-CET 2024]",
+    "question_latex": "Identify the incorrect statement about resonance effect. [MHT-CET 2024]",
+    "question_images": [],
     "options": [
-      "Single bond",
-      "Double bond",
-      "Triple bond",
-      "Coordinate bond"
+      "A. It is a permanent effect.",
+      "B. It involves delocalization of pi electrons.",
+      "C. It involves movement of sigma electrons.",
+      "D. It accounts for the stability of benzene."
     ],
-    "answer": "Double bond",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for the question about Double bond."
+    "option_images": [],
+    "answer": "C. It involves movement of sigma electrons.",
+    "solution": "Resonance only involves the delocalization of $\\pi$ electrons and lone pairs. Sigma ($\\sigma$) bonds remain localized and do not move during resonance.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 6,
-    "chapter": "Basic Principles of Organic Chemistry",
-    "question": "Which of the following is not a type of isomerism?",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "The displacement of electrons in a multiple bond in the presence of an attacking reagent is called",
+    "question_latex": "The displacement of electrons in a multiple bond in the presence of an attacking reagent is called",
+    "question_images": [],
     "options": [
-      "Structural isomerism",
-      "Geometrical isomerism",
-      "Optical isomerism",
-      "Covalent isomerism"
+      "A. Inductive effect",
+      "B. Electromeric effect",
+      "C. Resonance effect",
+      "D. Hyperconjugation"
     ],
-    "answer": "Covalent isomerism",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for the question about Isomerism types."
+    "option_images": [],
+    "answer": "B. Electromeric effect",
+    "solution": "The electromeric effect is a temporary effect involving the complete transfer of a shared pair of $\\pi$-electrons to one of the atoms joined by a multiple bond at the requirement of an attacking reagent.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 7,
-    "chapter": "Basic Principles of Organic Chemistry",
-    "question": "The electron-pair movement in organic reaction mechanisms is represented by:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "What is the IUPAC name of CH3-CH(OH)-CH2-CH2-COOH? [MHT-CET 2022]",
+    "question_latex": "What is the IUPAC name of $CH_3-CH(OH)-CH_2-CH_2-COOH$? [MHT-CET 2022]",
+    "question_images": [],
     "options": [
-      "Curved arrows",
-      "Straight arrows",
-      "Square brackets",
-      "Dots"
+      "A. 4-hydroxypentanoic acid",
+      "B. 2-hydroxypentanoic acid",
+      "C. 4-hydroxybutanoic acid",
+      "D. 2-pentanol-5-oic acid"
     ],
-    "answer": "Curved arrows",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for the question about reaction mechanisms."
+    "option_images": [],
+    "answer": "A. 4-hydroxypentanoic acid",
+    "solution": "The principal functional group is the carboxylic acid (-COOH), which gets locant 1. The chain has 5 carbons (pentan-). The hydroxyl group (-OH) is a substituent at carbon 4.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 8,
-    "chapter": "Basic Principles of Organic Chemistry",
-    "question": "The positively charged species in organic reactions are called:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Electrophiles are",
+    "question_latex": "Electrophiles are",
+    "question_images": [],
     "options": [
-      "Free radicals",
-      "Carbanions",
-      "Carbocations",
-      "Electrons"
+      "A. Lewis bases",
+      "B. Lewis acids",
+      "C. Nucleus loving",
+      "D. Electron rich"
     ],
-    "answer": "Carbocations",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for the question about Carbocations."
+    "option_images": [],
+    "answer": "B. Lewis acids",
+    "solution": "Electrophiles are electron-deficient species that can accept a pair of electrons, making them Lewis acids.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 9,
-    "chapter": "Basic Principles of Organic Chemistry",
-    "question": "The movement of shared pair of electrons towards the more electronegative atom is called:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following group has the highest -I effect? [MHT-CET 2021]",
+    "question_latex": "Which of the following group has the highest -I effect? [MHT-CET 2021]",
+    "question_images": [],
     "options": [
-      "Inductive effect",
-      "Resonance",
-      "Hyperconjugation",
-      "Tautomerism"
+      "A. -NO2",
+      "B. -F",
+      "C. -Cl",
+      "D. -COOH"
     ],
-    "answer": "Inductive effect",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for the question about Inductive effect."
+    "option_images": [],
+    "answer": "A. -NO2",
+    "solution": "The order of negative inductive effect (-I) is: $-NO_2 > -CN > -COOH > -F > -Cl > -Br > -I$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 10,
-    "chapter": "Basic Principles of Organic Chemistry",
-    "question": "The delocalization of electrons in a conjugated system is known as:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following represents a pair of isomers?",
+    "question_latex": "Which of the following represents a pair of isomers?",
+    "question_images": [],
     "options": [
-      "Hyperconjugation",
-      "Resonance",
-      "Polarity",
-      "Substitution"
+      "A. CH3OCH3 and CH3CH2OH",
+      "B. CH3CHO and CH3COCH3",
+      "C. C2H5OH and CH3CH2OH",
+      "D. CH3COOH and CH3COOCH3"
     ],
-    "answer": "Resonance",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for the question about Resonance."
+    "option_images": [],
+    "answer": "A. CH3OCH3 and CH3CH2OH",
+    "solution": "Dimethyl ether ($C_2H_6O$) and ethanol ($C_2H_6O$) have the same molecular formula but different functional groups, making them functional isomers.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Nucleophiles are",
+    "question_latex": "Nucleophiles are",
+    "question_images": [],
+    "options": [
+      "A. Electron loving",
+      "B. Lewis acids",
+      "C. Electron rich species",
+      "D. Positively charged"
+    ],
+    "option_images": [],
+    "answer": "C. Electron rich species",
+    "solution": "Nucleophiles are 'nucleus loving' species that have a lone pair of electrons or a negative charge to donate to an electron-deficient center.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "The number of hyperconjugative structures in propene is",
+    "question_latex": "The number of hyperconjugative structures in propene is",
+    "question_images": [],
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 6",
+      "D. 2"
+    ],
+    "option_images": [],
+    "answer": "B. 4",
+    "solution": "The number of hyperconjugative structures is usually $n+1$, where $n$ is the number of $\\alpha$-hydrogens. Propene ($CH_3-CH=CH_2$) has 3 $\\alpha$-hydrogens, so it has $3+1=4$ structures (including the original Lewis structure).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "IUPAC name of CH3-CH=CH-C≡CH is [MHT-CET 2020]",
+    "question_latex": "IUPAC name of $CH_3-CH=CH-C \\equiv CH$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. Pent-3-en-1-yne",
+      "B. Pent-2-en-4-yne",
+      "C. Pent-1-yn-3-ene",
+      "D. Pent-4-yn-2-ene"
+    ],
+    "option_images": [],
+    "answer": "A. Pent-3-en-1-yne",
+    "solution": "Numbering starts from the end that gives lower locants to the multiple bonds. The triple bond at the terminal gets locant 1, and the double bond gets 3. The name is pent-3-en-1-yne.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Tautomerism is exhibited by",
+    "question_latex": "Tautomerism is exhibited by",
+    "question_images": [],
+    "options": [
+      "A. CH3CHO",
+      "B. CH3COCH3",
+      "C. Nitroethane",
+      "D. All of these"
+    ],
+    "option_images": [],
+    "answer": "D. All of these",
+    "solution": "Tautomerism (keto-enol or nitro-aci) requires an $\\alpha$-hydrogen adjacent to a multiple bond ($C=O$ or $N=O$). All these compounds possess $\\alpha$-hydrogens.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following is an example of +M effect? [MHT-CET 2023]",
+    "question_latex": "Which of the following is an example of $+M$ effect? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. -NO2",
+      "B. -CN",
+      "C. -NH2",
+      "D. -CHO"
+    ],
+    "option_images": [],
+    "answer": "C. -NH2",
+    "solution": "Groups that have a lone pair of electrons to donate to the conjugated system show $+M$ (or $+R$) effect. $-NH_2$ has a lone pair on Nitrogen.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Lassaigne's test is used for the detection of",
+    "question_latex": "Lassaigne's test is used for the detection of",
+    "question_images": [],
+    "options": [
+      "A. Nitrogen",
+      "B. Sulphur",
+      "C. Halogens",
+      "D. All of these"
+    ],
+    "option_images": [],
+    "answer": "D. All of these",
+    "solution": "Lassaigne's test involves fusing the organic compound with sodium metal to convert N, S, and halogens into inorganic ions ($CN^-$, $S^{2-}$, $X^-$) for detection.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "The number of sigma and pi bonds in but-1-en-3-yne are",
+    "question_latex": "The number of sigma and pi bonds in but-1-en-3-yne are",
+    "question_images": [],
+    "options": [
+      "A. 7 sigma, 3 pi",
+      "B. 8 sigma, 2 pi",
+      "C. 6 sigma, 4 pi",
+      "D. 9 sigma, 1 pi"
+    ],
+    "option_images": [],
+    "answer": "A. 7 sigma, 3 pi",
+    "solution": "Structure: $CH_2=CH-C \\equiv CH$. Sigma bonds: 4 $C-H$ and 3 $C-C = 7$. Pi bonds: 1 in double bond and 2 in triple bond $= 3$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Correct order of stability of free radicals is",
+    "question_latex": "Correct order of stability of free radicals is",
+    "question_images": [],
+    "options": [
+      "A. 1° > 2° > 3°",
+      "B. 3° > 2° > 1°",
+      "C. 2° > 3° > 1°",
+      "D. All are equally stable"
+    ],
+    "option_images": [],
+    "answer": "B. 3° > 2° > 1°",
+    "solution": "Free radicals are electron-deficient and are stabilized by hyperconjugation and inductive effects of alkyl groups. Tertiary ($3^\\circ$) radicals have the most stabilization.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Identify the chain isomer of pentane. [MHT-CET 2024]",
+    "question_latex": "Identify the chain isomer of pentane. [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 2-methylbutane",
+      "B. 2-methylpropane",
+      "C. Cyclopentane",
+      "D. But-2-ene"
+    ],
+    "option_images": [],
+    "answer": "A. 2-methylbutane",
+    "solution": "Pentane ($C_5H_{12}$) has three chain isomers: n-pentane, 2-methylbutane (isopentane), and 2,2-dimethylpropane (neopentane).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following is a neutral electrophile? [MHT-CET 2021]",
+    "question_latex": "Which of the following is a neutral electrophile? [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. AlCl3",
+      "B. H3O+",
+      "C. NO2+",
+      "D. Cl-"
+    ],
+    "option_images": [],
+    "answer": "A. AlCl3",
+    "solution": "$AlCl_3$ is a Lewis acid with an incomplete octet on Aluminum, but it has no net charge, making it a neutral electrophile.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "A mixture of two volatile liquids with boiling points differing by 10-15 K can be separated by",
+    "question_latex": "A mixture of two volatile liquids with boiling points differing by 10-15 K can be separated by",
+    "question_images": [],
+    "options": [
+      "A. Simple distillation",
+      "B. Fractional distillation",
+      "C. Steam distillation",
+      "D. Vacuum distillation"
+    ],
+    "option_images": [],
+    "answer": "B. Fractional distillation",
+    "solution": "Fractional distillation is used when the boiling point difference between two liquids is small (less than 25 K).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "In the Lassaigne's test for nitrogen, the Prussian blue color is due to the formation of",
+    "question_latex": "In the Lassaigne's test for nitrogen, the Prussian blue color is due to the formation of",
+    "question_images": [],
+    "options": [
+      "A. Na4[Fe(CN)6]",
+      "B. Fe4[Fe(CN)6]3",
+      "C. Fe3[Fe(CN)6]2",
+      "D. Na3[Fe(CN)6]"
+    ],
+    "option_images": [],
+    "answer": "B. Fe4[Fe(CN)6]3",
+    "solution": "Ferric ferrocyanide (Prussian blue) is formed by the reaction of ferric ions with sodium ferrocyanide.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "The displacement of sigma electrons toward a more electronegative atom is",
+    "question_latex": "The displacement of sigma electrons toward a more electronegative atom is",
+    "question_images": [],
+    "options": [
+      "A. Resonance",
+      "B. Inductive effect",
+      "C. Electromeric effect",
+      "D. Mesomeric effect"
+    ],
+    "option_images": [],
+    "answer": "B. Inductive effect",
+    "solution": "The inductive effect is a permanent displacement of $\\sigma$-electrons along a saturated carbon chain due to the presence of an electronegative atom or group.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following has zero dipole moment?",
+    "question_latex": "Which of the following has zero dipole moment?",
+    "question_images": [],
+    "options": [
+      "A. CH2Cl2",
+      "B. CH4",
+      "C. CH3Cl",
+      "D. CHCl3"
+    ],
+    "option_images": [],
+    "answer": "B. CH4",
+    "solution": "Methane ($CH_4$) is a perfectly symmetrical tetrahedral molecule. The individual $C-H$ bond dipoles cancel each other out.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Chromatography is used for",
+    "question_latex": "Chromatography is used for",
+    "question_images": [],
+    "options": [
+      "A. Separation of mixtures",
+      "B. Purification of compounds",
+      "C. Identification of compounds",
+      "D. All of the above"
+    ],
+    "option_images": [],
+    "answer": "D. All of the above",
+    "solution": "Chromatography is a versatile technique used to separate components of a mixture, purify substances, and test their purity.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "What is the suffix used for aldehydes in IUPAC nomenclature? [MHT-CET 2024]",
+    "question_latex": "What is the suffix used for aldehydes in IUPAC nomenclature? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. -ol",
+      "B. -one",
+      "C. -al",
+      "D. -oic acid"
+    ],
+    "option_images": [],
+    "answer": "C. -al",
+    "solution": "The IUPAC suffix for aldehydes is '-al' (e.g., methanal, ethanal).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Heterolytic cleavage of a C-X bond results in",
+    "question_latex": "Heterolytic cleavage of a $C-X$ bond results in",
+    "question_images": [],
+    "options": [
+      "A. Free radicals",
+      "B. Ions",
+      "C. Only carbocations",
+      "D. Only carbanions"
+    ],
+    "option_images": [],
+    "answer": "B. Ions",
+    "solution": "In heterolytic cleavage, both electrons of the shared pair go to one of the atoms, resulting in the formation of a cation and an anion.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "C-C bond length in benzene is",
+    "question_latex": "$C-C$ bond length in benzene is",
+    "question_images": [],
+    "options": [
+      "A. 1.54 Å",
+      "B. 1.34 Å",
+      "C. 1.39 Å",
+      "D. 1.20 Å"
+    ],
+    "option_images": [],
+    "answer": "C. 1.39 Å",
+    "solution": "Due to resonance, the $C-C$ bonds in benzene are intermediate between a single bond ($1.54 \\ \\AA$) and a double bond ($1.34 \\ \\AA$), measuring $1.39 \\ \\AA$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Hyperconjugation is also known as",
+    "question_latex": "Hyperconjugation is also known as",
+    "question_images": [],
+    "options": [
+      "A. Inductive effect",
+      "B. Baker-Nathan effect",
+      "C. No bond resonance",
+      "D. Both B and C"
+    ],
+    "option_images": [],
+    "answer": "D. Both B and C",
+    "solution": "Hyperconjugation involves the delocalization of $\\sigma$-electrons of $C-H$ bonds of an alkyl group directly attached to an atom of an unsaturated system. It is called no-bond resonance or the Baker-Nathan effect.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following is a nucleophile? [MHT-CET 2022]",
+    "question_latex": "Which of the following is a nucleophile? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. BF3",
+      "B. NH3",
+      "C. AlCl3",
+      "D. CH3+"
+    ],
+    "option_images": [],
+    "answer": "B. NH3",
+    "solution": "Ammonia ($NH_3$) has a lone pair of electrons on the nitrogen atom which it can donate, making it a nucleophile.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Primary, secondary and tertiary alcohols are",
+    "question_latex": "Primary, secondary and tertiary alcohols are",
+    "question_images": [],
+    "options": [
+      "A. Chain isomers",
+      "B. Position isomers",
+      "C. Functional isomers",
+      "D. Tautomers"
+    ],
+    "option_images": [],
+    "answer": "B. Position isomers",
+    "solution": "They differ in the position of the hydroxyl group on the carbon skeleton (e.g., propan-1-ol and propan-2-ol).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "In steam distillation, the liquid boils at a temperature",
+    "question_latex": "In steam distillation, the liquid boils at a temperature",
+    "question_images": [],
+    "options": [
+      "A. Equal to its boiling point",
+      "B. Higher than its boiling point",
+      "C. Lower than its boiling point",
+      "D. 373 K"
+    ],
+    "option_images": [],
+    "answer": "C. Lower than its boiling point",
+    "solution": "In steam distillation, the mixture boils when the sum of vapor pressures of water and the organic liquid equals atmospheric pressure. Thus, the liquid boils below its normal boiling point.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Presence of sulphur in organic compound is detected by adding which reagent to Lassaigne's extract? [MHT-CET 2021]",
+    "question_latex": "Presence of sulphur in organic compound is detected by adding which reagent to Lassaigne's extract? [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. Sodium nitroprusside",
+      "B. Ferric chloride",
+      "C. Silver nitrate",
+      "D. Barium chloride"
+    ],
+    "option_images": [],
+    "answer": "A. Sodium nitroprusside",
+    "solution": "Sodium nitroprusside reacts with sulfide ions ($S^{2-}$) in the extract to give a deep violet color, confirming the presence of sulphur.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Mesomeric effect is",
+    "question_latex": "Mesomeric effect is",
+    "question_images": [],
+    "options": [
+      "A. Temporary effect",
+      "B. Permanent effect",
+      "C. Observed in saturated compounds",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "B. Permanent effect",
+    "solution": "The mesomeric (resonance) effect is a permanent effect that describes the delocalization of electrons in a conjugated system.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following is most acidic? [MHT-CET 2023]",
+    "question_latex": "Which of the following is most acidic? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. CH3COOH",
+      "B. ClCH2COOH",
+      "C. Cl2CHCOOH",
+      "D. Cl3CCOOH"
+    ],
+    "option_images": [],
+    "answer": "D. Cl3CCOOH",
+    "solution": "The -I effect of Chlorine atoms stabilizes the carboxylate anion. More Chlorine atoms lead to greater stabilization and higher acidity. Trichloroacetic acid is the strongest.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "The number of structural isomers for C4H10 is",
+    "question_latex": "The number of structural isomers for $C_4H_{10}$ is",
+    "question_images": [],
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "option_images": [],
+    "answer": "A. 2",
+    "solution": "Butane ($C_4H_{10}$) has two structural isomers: n-butane and isobutane (2-methylpropane).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Glycerol can be purified by",
+    "question_latex": "Glycerol can be purified by",
+    "question_images": [],
+    "options": [
+      "A. Simple distillation",
+      "B. Vacuum distillation",
+      "C. Steam distillation",
+      "D. Sublimation"
+    ],
+    "option_images": [],
+    "answer": "B. Vacuum distillation",
+    "solution": "Glycerol has a high boiling point and decomposes at or below its boiling point. It is purified by distillation under reduced pressure (vacuum distillation).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "In Duma's method for estimation of nitrogen, the gas collected is",
+    "question_latex": "In Duma's method for estimation of nitrogen, the gas collected is",
+    "question_images": [],
+    "options": [
+      "A. NH3",
+      "B. N2",
+      "C. NO2",
+      "D. N2O"
+    ],
+    "option_images": [],
+    "answer": "B. N2",
+    "solution": "In Duma's method, the organic compound is heated with copper oxide to convert nitrogen into $N_2$ gas, which is collected and measured.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following is not an electrophile? [MHT-CET 2024]",
+    "question_latex": "Which of the following is not an electrophile? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. H+",
+      "B. BF3",
+      "C. NH3",
+      "D. AlCl3"
+    ],
+    "option_images": [],
+    "answer": "C. NH3",
+    "solution": "Electrophiles are electron-deficient. $NH_3$ is electron-rich due to a lone pair on Nitrogen, making it a nucleophile.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "An example of a heterocycle compound is [MHT-CET 2020]",
+    "question_latex": "An example of a heterocycle compound is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. Benzene",
+      "B. Cyclohexane",
+      "C. Pyridine",
+      "D. Anthracene"
+    ],
+    "option_images": [],
+    "answer": "C. Pyridine",
+    "solution": "Heterocyclic compounds contain a ring consisting of carbon and at least one other element (e.g., Nitrogen in Pyridine).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Kjeldahl's method is not applicable to",
+    "question_latex": "Kjeldahl's method is not applicable to",
+    "question_images": [],
+    "options": [
+      "A. Nitro compounds",
+      "B. Azo compounds",
+      "C. Pyridine",
+      "D. All of these"
+    ],
+    "option_images": [],
+    "answer": "D. All of these",
+    "solution": "Kjeldahl's method fails for compounds where nitrogen is in the ring (Pyridine), in nitro groups ($-NO_2$), or in azo groups ($-N=N-$) as they don't convert to ammonium sulfate.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following has +I effect? [MHT-CET 2022]",
+    "question_latex": "Which of the following has $+I$ effect? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. -CH3",
+      "B. -Cl",
+      "C. -OH",
+      "D. -NO2"
+    ],
+    "option_images": [],
+    "answer": "A. -CH3",
+    "solution": "Alkyl groups like methyl ($-CH_3$) push electron density away and show a positive inductive effect.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "What is the hybridisation of carbon in a carbanion?",
+    "question_latex": "What is the hybridisation of carbon in a carbanion?",
+    "question_images": [],
+    "options": [
+      "A. sp",
+      "B. sp2",
+      "C. sp3",
+      "D. dsp2"
+    ],
+    "option_images": [],
+    "answer": "C. sp3",
+    "solution": "A carbanion has 3 bond pairs and 1 lone pair on carbon, making it $sp^3$ hybridized with a pyramidal geometry.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "IUPAC name of (CH3)2CH-CH2-CH(Cl)-CH3 is",
+    "question_latex": "IUPAC name of $(CH_3)_2CH-CH_2-CH(Cl)-CH_3$ is",
+    "question_images": [],
+    "options": [
+      "A. 2-chloro-4-methylpentane",
+      "B. 4-chloro-2-methylpentane",
+      "C. 1-chloro-1,3-dimethylbutane",
+      "D. 2-isopropyl-4-chlorobutane"
+    ],
+    "option_images": [],
+    "answer": "A. 2-chloro-4-methylpentane",
+    "solution": "Longest chain has 5 carbons. Numbering from right gives substituents at 2 and 4. Chlorine comes alphabetically before methyl.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Homologous series have same",
+    "question_latex": "Homologous series have same",
+    "question_images": [],
+    "options": [
+      "A. Physical properties",
+      "B. Molecular formula",
+      "C. General formula",
+      "D. Boiling point"
+    ],
+    "option_images": [],
+    "answer": "C. General formula",
+    "solution": "Members of a homologous series share the same general formula (e.g., $C_nH_{2n+2}$ for alkanes) and similar chemical properties.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which process is used to separate naphthalene from common salt?",
+    "question_latex": "Which process is used to separate naphthalene from common salt?",
+    "question_images": [],
+    "options": [
+      "A. Distillation",
+      "B. Sublimation",
+      "C. Crystallization",
+      "D. Filtration"
+    ],
+    "option_images": [],
+    "answer": "B. Sublimation",
+    "solution": "Naphthalene is a sublimable solid, whereas sodium chloride is not. Heating the mixture allows naphthalene to vaporize and deposit separately.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "A covalent bond can undergo",
+    "question_latex": "A covalent bond can undergo",
+    "question_images": [],
+    "options": [
+      "A. Homolysis only",
+      "B. Heterolysis only",
+      "C. Both homolysis and heterolysis",
+      "D. Neither"
+    ],
+    "option_images": [],
+    "answer": "C. Both homolysis and heterolysis",
+    "solution": "Depending on conditions (light, heat, solvent), a covalent bond can break symmetrically (homolysis) or unsymmetrically (heterolysis).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "The number of carbons in the principal chain of CH3-CH(CH3)-CH2-CH3 is",
+    "question_latex": "The number of carbons in the principal chain of $CH_3-CH(CH_3)-CH_2-CH_3$ is",
+    "question_images": [],
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 2"
+    ],
+    "option_images": [],
+    "answer": "B. 4",
+    "solution": "The longest continuous carbon chain in isopentane contains 4 carbons (butane chain).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following shows the lowest -I effect?",
+    "question_latex": "Which of the following shows the lowest $-I$ effect?",
+    "question_images": [],
+    "options": [
+      "A. -F",
+      "B. -Cl",
+      "C. -Br",
+      "D. -I"
+    ],
+    "option_images": [],
+    "answer": "D. -I",
+    "solution": "Inductive effect depends on electronegativity. Iodine is the least electronegative halogen, so it has the weakest -I effect.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Identify the non-aromatic compound from following. [MHT-CET 2023]",
+    "question_latex": "Identify the non-aromatic compound from following. [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. Benzene",
+      "B. Naphthalene",
+      "C. Cyclohexene",
+      "D. Anthracene"
+    ],
+    "option_images": [],
+    "answer": "C. Cyclohexene",
+    "solution": "Cyclohexene is a non-conjugated cyclic alkene. It does not fulfill Huckel's rule ($4n+2$) and is non-aromatic.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Crystallization is based on the difference in",
+    "question_latex": "Crystallization is based on the difference in",
+    "question_images": [],
+    "options": [
+      "A. Boiling points",
+      "B. Solubilities",
+      "C. Volatilities",
+      "D. Densities"
+    ],
+    "option_images": [],
+    "answer": "B. Solubilities",
+    "solution": "Crystallization exploits the difference in solubility of a compound and its impurities in a suitable solvent at different temperatures.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "What is the product of homolytic cleavage of CH3-CH3?",
+    "question_latex": "What is the product of homolytic cleavage of $CH_3-CH_3$?",
+    "question_images": [],
+    "options": [
+      "A. CH3+ and CH3-",
+      "B. 2CH3•",
+      "C. CH3-CH2+ and H-",
+      "D. C2H6"
+    ],
+    "option_images": [],
+    "answer": "B. 2CH3•",
+    "solution": "In homolysis, the bond breaks such that each fragment gets one electron, forming two methyl free radicals.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Stability of carbanions follows the order",
+    "question_latex": "Stability of carbanions follows the order",
+    "question_images": [],
+    "options": [
+      "A. 3° > 2° > 1°",
+      "B. 1° > 2° > 3°",
+      "C. Methyl > 1° > 2° > 3°",
+      "D. Both B and C"
+    ],
+    "option_images": [],
+    "answer": "D. Both B and C",
+    "solution": "Carbanions are electron-rich. Alkyl groups are electron-donating (+I), which destabilizes the negative charge. Thus, less substituted carbanions are more stable.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "The correct priority order for IUPAC nomenclature is [MHT-CET 2021]",
+    "question_latex": "The correct priority order for IUPAC nomenclature is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. -COOH > -SO3H > -COOR > -COCl",
+      "B. -SO3H > -COOH > -COOR > -COCl",
+      "C. -COOR > -COCl > -COOH > -SO3H",
+      "D. -COCl > -COOR > -SO3H > -COOH"
+    ],
+    "option_images": [],
+    "answer": "A. -COOH > -SO3H > -COOR > -COCl",
+    "solution": "The priority order of principal functional groups is: Carboxylic acid > Sulfonic acid > Ester > Acid halide.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "A species having a carbon atom with 6 valence electrons and a positive charge is",
+    "question_latex": "A species having a carbon atom with 6 valence electrons and a positive charge is",
+    "question_images": [],
+    "options": [
+      "A. Free radical",
+      "B. Carbocation",
+      "C. Carbanion",
+      "D. Carbene"
+    ],
+    "option_images": [],
+    "answer": "B. Carbocation",
+    "solution": "A carbocation has three shared pairs of electrons (6 total) and lacks a pair to complete the octet, resulting in a positive charge.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Metamerism is shown by",
+    "question_latex": "Metamerism is shown by",
+    "question_images": [],
+    "options": [
+      "A. Ethers",
+      "B. Ketones",
+      "C. Secondary amines",
+      "D. All of these"
+    ],
+    "option_images": [],
+    "answer": "D. All of these",
+    "solution": "Metamerism arises due to unequal distribution of alkyl groups on either side of a polyvalent functional group.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "In Kjeldahl's method, nitrogen is estimated as",
+    "question_latex": "In Kjeldahl's method, nitrogen is estimated as",
+    "question_images": [],
+    "options": [
+      "A. N2",
+      "B. NH3",
+      "C. (NH4)2SO4",
+      "D. HNO3"
+    ],
+    "option_images": [],
+    "answer": "B. NH3",
+    "solution": "The compound is digested to form $(NH_4)_2SO_4$, which is then treated with $NaOH$ to liberate $NH_3$ gas. This $NH_3$ is titrated for estimation.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following is an electrophilic addition reaction?",
+    "question_latex": "Which of the following is an electrophilic addition reaction?",
+    "question_images": [],
+    "options": [
+      "A. CH4 + Cl2 -> CH3Cl + HCl",
+      "B. CH2=CH2 + HBr -> CH3-CH2Br",
+      "C. CH3Br + KOH -> CH3OH + KBr",
+      "D. Benzene + Cl2 -> Chlorobenzene"
+    ],
+    "option_images": [],
+    "answer": "B. CH2=CH2 + HBr -> CH3-CH2Br",
+    "solution": "Alkenes undergo electrophilic addition where the electrophile ($H^+$ from $HBr$) attacks the $\\pi$-bond first.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Differential extraction is used to separate a compound from",
+    "question_latex": "Differential extraction is used to separate a compound from",
+    "question_images": [],
+    "options": [
+      "A. Aqueous solution",
+      "B. Solid mixture",
+      "C. Gas mixture",
+      "D. Liquid-liquid mixture"
+    ],
+    "option_images": [],
+    "answer": "A. Aqueous solution",
+    "solution": "A compound is extracted from an aqueous solution by shaking it with an organic solvent in which it is more soluble.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following is an ambident nucleophile? [MHT-CET 2022]",
+    "question_latex": "Which of the following is an ambident nucleophile? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. -OH",
+      "B. -CN",
+      "C. -NH2",
+      "D. -Cl"
+    ],
+    "option_images": [],
+    "answer": "B. -CN",
+    "solution": "Ambident nucleophiles have two nucleophilic centers and can attack through either (e.g., $C$ or $N$ in cyanide).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "The number of p-p overlaps in ethyne is",
+    "question_latex": "The number of $p-p$ overlaps in ethyne is",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "option_images": [],
+    "answer": "B. 2",
+    "solution": "In ethyne ($HC \\equiv CH$), there are two $\\pi$ bonds formed by the lateral overlap of two sets of unhybridized p-orbitals.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Fractional crystallization is used when",
+    "question_latex": "Fractional crystallization is used when",
+    "question_images": [],
+    "options": [
+      "A. Solubilities are very different",
+      "B. Solubilities are nearly same",
+      "C. Compound is liquid",
+      "D. Compound is volatile"
+    ],
+    "option_images": [],
+    "answer": "B. Solubilities are nearly same",
+    "solution": "When solubilities of two compounds are close, repeated steps of crystallization (fractionation) are required to separate them.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which effect involves delocalization of electrons of a C-H bond of an alkyl group?",
+    "question_latex": "Which effect involves delocalization of electrons of a $C-H$ bond of an alkyl group?",
+    "question_images": [],
+    "options": [
+      "A. Inductive",
+      "B. Resonance",
+      "C. Hyperconjugation",
+      "D. Electromeric"
+    ],
+    "option_images": [],
+    "answer": "C. Hyperconjugation",
+    "solution": "Hyperconjugation involves the interaction of $\\sigma$-electrons of $C-H$ bonds with adjacent empty p-orbitals or $\\pi$-orbitals.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "IUPAC name of CH2=CH-CH(CH3)2 is [MHT-CET 2023]",
+    "question_latex": "IUPAC name of $CH_2=CH-CH(CH_3)_2$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 3-methylbut-1-ene",
+      "B. Isopentene",
+      "C. 2-methylbut-3-ene",
+      "D. 1,1-dimethylprop-2-ene"
+    ],
+    "option_images": [],
+    "answer": "A. 3-methylbut-1-ene",
+    "solution": "The double bond gets priority for numbering. Principal chain has 4 carbons. Methyl is at carbon 3.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Halogens in organic compounds are estimated by",
+    "question_latex": "Halogens in organic compounds are estimated by",
+    "question_images": [],
+    "options": [
+      "A. Duma's method",
+      "B. Kjeldahl's method",
+      "C. Carius method",
+      "D. Liebig's method"
+    ],
+    "option_images": [],
+    "answer": "C. Carius method",
+    "solution": "The Carius method involves heating the compound with fuming nitric acid and silver nitrate to form silver halide, which is then weighed.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following is a tertiary carbocation?",
+    "question_latex": "Which of the following is a tertiary carbocation?",
+    "question_images": [],
+    "options": [
+      "A. CH3CH2+",
+      "B. (CH3)2CH+",
+      "C. (CH3)3C+",
+      "D. CH3+"
+    ],
+    "option_images": [],
+    "answer": "C. (CH3)3C+",
+    "solution": "A tertiary carbocation has the positive charge on a carbon atom bonded to three other carbon atoms.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "An example of a positional isomer of but-1-ene is [MHT-CET 2024]",
+    "question_latex": "An example of a positional isomer of but-1-ene is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. But-2-ene",
+      "B. Cyclobutane",
+      "C. 2-methylpropene",
+      "D. Butane"
+    ],
+    "option_images": [],
+    "answer": "A. But-2-ene",
+    "solution": "But-1-ene and but-2-ene have the same carbon chain but the double bond is at different positions.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "A reagent that attacks at the site of high electron density is",
+    "question_latex": "A reagent that attacks at the site of high electron density is",
+    "question_images": [],
+    "options": [
+      "A. Electrophile",
+      "B. Nucleophile",
+      "C. Free radical",
+      "D. Solvent"
+    ],
+    "option_images": [],
+    "answer": "A. Electrophile",
+    "solution": "Electrophiles are electron-loving and seek out regions of high electron density (like $\\pi$-bonds or negative charges).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Estimation of Phosphorus is done as",
+    "question_latex": "Estimation of Phosphorus is done as",
+    "question_images": [],
+    "options": [
+      "A. Mg2P2O7",
+      "B. P2O5",
+      "C. Na3PO4",
+      "D. H3PO4"
+    ],
+    "option_images": [],
+    "answer": "A. Mg2P2O7",
+    "solution": "Phosphorus is precipitated as magnesium ammonium phosphate, which on ignition yields magnesium pyrophosphate ($Mg_2P_2O_7$) for weighing.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following is most stable? [MHT-CET 2022]",
+    "question_latex": "Which of the following is most stable? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Primary radical",
+      "B. Secondary radical",
+      "C. Tertiary radical",
+      "D. Methyl radical"
+    ],
+    "option_images": [],
+    "answer": "C. Tertiary radical",
+    "solution": "Tertiary radicals are stabilized by the maximum number of hyperconjugative interactions from adjacent alkyl groups.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "The principle of paper chromatography is [MHT-CET 2019]",
+    "question_latex": "The principle of paper chromatography is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. Adsorption",
+      "B. Partition",
+      "C. Capillary action",
+      "D. Volatility"
+    ],
+    "option_images": [],
+    "answer": "B. Partition",
+    "solution": "Paper chromatography is a type of partition chromatography where the stationary phase is water trapped in the paper fibers and the mobile phase is the solvent.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "What is the formal charge on the carbon of a methyl radical?",
+    "question_latex": "What is the formal charge on the carbon of a methyl radical?",
+    "question_images": [],
+    "options": [
+      "A. +1",
+      "B. -1",
+      "C. 0",
+      "D. +0.5"
+    ],
+    "option_images": [],
+    "answer": "C. 0",
+    "solution": "Formal charge $= VE - NE - \\frac{1}{2}BE = 4 - 1 - \\frac{1}{2}(6) = 0$. Radicals are electrically neutral.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Functional isomers of C3H6O are",
+    "question_latex": "Functional isomers of $C_3H_6O$ are",
+    "question_images": [],
+    "options": [
+      "A. Propanal and Propanone",
+      "B. Propanol and Propanal",
+      "C. Ethanol and Methanal",
+      "D. Propanal and Butanal"
+    ],
+    "option_images": [],
+    "answer": "A. Propanal and Propanone",
+    "solution": "Aldehydes and ketones with the same carbon count are functional isomers. Both have the formula $C_3H_6O$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "In the Carius method, the mass of AgCl obtained is 0.1435 g. What is the mass of chlorine? (Ag=108, Cl=35.5)",
+    "question_latex": "In the Carius method, the mass of $AgCl$ obtained is $0.1435 \\ g$. What is the mass of chlorine? ($Ag=108, Cl=35.5$)",
+    "question_images": [],
+    "options": [
+      "A. 0.0355 g",
+      "B. 0.108 g",
+      "C. 0.1435 g",
+      "D. 0.071 g"
+    ],
+    "option_images": [],
+    "answer": "A. 0.0355 g",
+    "solution": "$AgCl$ mol wt $= 143.5$. Mass of $Cl = \\frac{35.5}{143.5} \\times 0.1435 = 0.0355 \\ g$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following is a secondary nucleophile?",
+    "question_latex": "Which of the following is a secondary nucleophile?",
+    "question_images": [],
+    "options": [
+      "A. -OH",
+      "B. -OR",
+      "C. R2NH",
+      "D. All of these"
+    ],
+    "option_images": [],
+    "answer": "C. R2NH",
+    "solution": "Secondary amines ($R_2NH$) have a lone pair on nitrogen bonded to two alkyl groups, acting as nucleophiles.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "The Rf value in chromatography is always",
+    "question_latex": "The $R_f$ value in chromatography is always",
+    "question_images": [],
+    "options": [
+      "A. > 1",
+      "B. < 1",
+      "C. = 1",
+      "D. Negative"
+    ],
+    "option_images": [],
+    "answer": "B. < 1",
+    "solution": "$R_f = \\frac{\\text{Distance traveled by substance}}{\\text{Distance traveled by solvent}}$. Since the substance cannot travel further than the solvent, $R_f$ is always less than 1 (or equal to 1 if it travels with the front).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "What is the shape of ethyne molecule?",
+    "question_latex": "What is the shape of ethyne molecule?",
+    "question_images": [],
+    "options": [
+      "A. Tetrahedral",
+      "B. Trigonal planar",
+      "C. Linear",
+      "D. V-shaped"
+    ],
+    "option_images": [],
+    "answer": "C. Linear",
+    "solution": "Carbon in ethyne is $sp$ hybridized, leading to a linear molecular geometry with $180^\\circ$ bond angles.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Stereoisomers have same",
+    "question_latex": "Stereoisomers have same",
+    "question_images": [],
+    "options": [
+      "A. Molecular formula",
+      "B. Structural formula",
+      "C. Both A and B",
+      "D. Spatial arrangement"
+    ],
+    "option_images": [],
+    "answer": "C. Both A and B",
+    "solution": "Stereoisomers have the same atoms and connectivity but differ in the 3D arrangement of atoms in space.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following is not a common electrophile?",
+    "question_latex": "Which of the following is not a common electrophile?",
+    "question_images": [],
+    "options": [
+      "A. H+",
+      "B. NO2+",
+      "C. H2O",
+      "D. CH3+"
+    ],
+    "option_images": [],
+    "answer": "C. H2O",
+    "solution": "Water has two lone pairs on oxygen, making it a nucleophile, not an electrophile.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Percentage of Carbon in organic compound is estimated as",
+    "question_latex": "Percentage of Carbon in organic compound is estimated as",
+    "question_images": [],
+    "options": [
+      "A. CO2",
+      "B. CO",
+      "C. CH4",
+      "D. C"
+    ],
+    "option_images": [],
+    "answer": "A. CO2",
+    "solution": "Liebig's method involves complete combustion to form $CO_2$. The increase in mass of the potash bulbs gives the mass of $CO_2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Identify the functional group in CH3-CO-CH3. [MHT-CET 2024]",
+    "question_latex": "Identify the functional group in $CH_3-CO-CH_3$. [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Aldehyde",
+      "B. Ketone",
+      "C. Ester",
+      "D. Ether"
+    ],
+    "option_images": [],
+    "answer": "B. Ketone",
+    "solution": "The carbonyl group ($C=O$) bonded to two alkyl groups characterizes a ketone.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which among the following contains most acidic hydrogen? [MHT-CET 2021]",
+    "question_latex": "Which among the following contains most acidic hydrogen? [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. Ethane",
+      "B. Ethene",
+      "C. Ethyne",
+      "D. Methane"
+    ],
+    "option_images": [],
+    "answer": "C. Ethyne",
+    "solution": "Acidity of hydrocarbons increases with s-character ($sp > sp^2 > sp^3$). Ethyne ($sp$) has 50% s-character, making its hydrogens significantly more acidic.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Inductive effect is observed in",
+    "question_latex": "Inductive effect is observed in",
+    "question_images": [],
+    "options": [
+      "A. Sigma bonds only",
+      "B. Pi bonds only",
+      "C. Both sigma and pi",
+      "D. Ionic bonds"
+    ],
+    "option_images": [],
+    "answer": "A. Sigma bonds only",
+    "solution": "The inductive effect is the transmission of charge through $\\sigma$-bonds in a chain of atoms.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following is a nucleophilic substitution reaction?",
+    "question_latex": "Which of the following is a nucleophilic substitution reaction?",
+    "question_images": [],
+    "options": [
+      "A. CH2=CH2 + H2 -> CH3-CH3",
+      "B. CH3Br + NaOH -> CH3OH + NaBr",
+      "C. CH4 + Cl2 -> CH3Cl",
+      "D. CH2=CH2 + Br2 -> BrCH2CH2Br"
+    ],
+    "option_images": [],
+    "answer": "B. CH3Br + NaOH -> CH3OH + NaBr",
+    "solution": "The $OH^-$ nucleophile replaces the $Br^-$ group on the alkyl chain.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Estimation of Halogen is done using",
+    "question_latex": "Estimation of Halogen is done using",
+    "question_images": [],
+    "options": [
+      "A. AgCl",
+      "B. AgBr",
+      "C. AgI",
+      "D. Any of these"
+    ],
+    "option_images": [],
+    "answer": "D. Any of these",
+    "solution": "Depending on the halogen present (Cl, Br, or I), the corresponding silver halide precipitate is weighed in the Carius method.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "What is the IUPAC name of CH3-CH(C2H5)-CH2-CH3?",
+    "question_latex": "What is the IUPAC name of $CH_3-CH(C_2H_5)-CH_2-CH_3$?",
+    "question_images": [],
+    "options": [
+      "A. 2-ethylbutane",
+      "B. 3-methylpentane",
+      "C. 2-methylpentane",
+      "D. 3-ethylbutane"
+    ],
+    "option_images": [],
+    "answer": "B. 3-methylpentane",
+    "solution": "The longest continuous chain contains 5 carbons (pentane). The methyl branch is at the middle carbon (3).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Detection of Nitrogen and Sulphur together in Lassaigne's test gives",
+    "question_latex": "Detection of Nitrogen and Sulphur together in Lassaigne's test gives",
+    "question_images": [],
+    "options": [
+      "A. Prussian blue",
+      "B. Blood red color",
+      "C. White precipitate",
+      "D. Violet color"
+    ],
+    "option_images": [],
+    "answer": "B. Blood red color",
+    "solution": "If both N and S are present, sodium thiocyanate ($NaSCN$) is formed, which reacts with $Fe^{3+}$ to give blood-red $[Fe(SCN)]^{2+}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following has -I effect? [MHT-CET 2021]",
+    "question_latex": "Which of the following has $-I$ effect? [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. -COOH",
+      "B. -CH3",
+      "C. -C2H5",
+      "D. -H"
+    ],
+    "option_images": [],
+    "answer": "A. -COOH",
+    "solution": "Carboxylic acid group is electron-withdrawing and shows a negative inductive effect.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Stability of carbocations increases with",
+    "question_latex": "Stability of carbocations increases with",
+    "question_images": [],
+    "options": [
+      "A. Increasing +I effect",
+      "B. Increasing hyperconjugation",
+      "C. Increasing resonance",
+      "D. All of the above"
+    ],
+    "option_images": [],
+    "answer": "D. All of the above",
+    "solution": "Carbocations are electron-deficient and are stabilized by any effect that donates or delocalizes electron density toward the positive carbon.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "What is the hybridisation of carbon in CH2=CH2?",
+    "question_latex": "What is the hybridisation of carbon in $CH_2=CH_2$?",
+    "question_images": [],
+    "options": [
+      "A. sp",
+      "B. sp2",
+      "C. sp3",
+      "D. dsp2"
+    ],
+    "option_images": [],
+    "answer": "B. sp2",
+    "solution": "Each carbon forms three $\\sigma$ bonds and one $\\pi$ bond, requiring $sp^2$ hybridization.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Tautomerism is a special case of",
+    "question_latex": "Tautomerism is a special case of",
+    "question_images": [],
+    "options": [
+      "A. Chain isomerism",
+      "B. Position isomerism",
+      "C. Functional isomerism",
+      "D. Metamerism"
+    ],
+    "option_images": [],
+    "answer": "C. Functional isomerism",
+    "solution": "Tautomers differ in the position of a hydrogen atom and a double bond, effectively creating different functional groups in equilibrium.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Percentage of Nitrogen by Duma's method is calculated as",
+    "question_latex": "Percentage of Nitrogen by Duma's method is calculated as",
+    "question_images": [],
+    "options": [
+      "A. (28/22400) * (V/W) * 100",
+      "B. (14/22400) * (V/W) * 100",
+      "C. (28/11200) * (V/W) * 100",
+      "D. (V/W) * 100"
+    ],
+    "option_images": [],
+    "answer": "A. (28/22400) * (V/W) * 100",
+    "solution": "Using molar volume at STP: 1 mole ($28 \\ g$) of $N_2$ occupies $22400 \\ cm^3$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Electromeric effect is",
+    "question_latex": "Electromeric effect is",
+    "question_images": [],
+    "options": [
+      "A. Permanent",
+      "B. Temporary",
+      "C. Observed in alkanes",
+      "D. Permanent in carbonyls"
+    ],
+    "option_images": [],
+    "answer": "B. Temporary",
+    "solution": "It only occurs in the presence of an attacking reagent and disappears once the reagent is removed.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which of the following is most basic? [MHT-CET 2023]",
+    "question_latex": "Which of the following is most basic? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. NH3",
+      "B. CH3NH2",
+      "C. (CH3)2NH",
+      "D. (CH3)3N"
+    ],
+    "option_images": [],
+    "answer": "C. (CH3)2NH",
+    "solution": "In aqueous solution, the basicity order of methyl amines is $2^\\circ > 1^\\circ > 3^\\circ > NH_3$ due to the combined effects of inductive (+I), solvation, and steric hindrance.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Isomers of C2H6O are",
+    "question_latex": "Isomers of $C_2H_6O$ are",
+    "question_images": [],
+    "options": [
+      "A. Ethanol and Methoxymethane",
+      "B. Ethanol and Ethanal",
+      "C. Ethanal and Ethanoic acid",
+      "D. Methanol and Methanal"
+    ],
+    "option_images": [],
+    "answer": "A. Ethanol and Methoxymethane",
+    "solution": "Ethyl alcohol and dimethyl ether are functional isomers with the formula $C_2H_6O$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Column chromatography is based on",
+    "question_latex": "Column chromatography is based on",
+    "question_images": [],
+    "options": [
+      "A. Differential adsorption",
+      "B. Differential partition",
+      "C. Boiling point difference",
+      "D. Size difference"
+    ],
+    "option_images": [],
+    "answer": "A. Differential adsorption",
+    "solution": "Components move through the column at different rates based on their affinity for the adsorbent (stationary phase).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "What is the principal functional group for selection for IUPAC nomenclature in a polyfunctional compound? [MHT-CET 2024]",
+    "question_latex": "What is the principal functional group for selection for IUPAC nomenclature in a polyfunctional compound? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. -SO3H > -COCl > -CN",
+      "B. -CN > -SO3H > -COCl",
+      "C. -COCl > -CN > -SO3H",
+      "D. -COCl > -SO3H > -CN"
+    ],
+    "option_images": [],
+    "answer": "A. -SO3H > -COCl > -CN",
+    "solution": "The seniority order of functional groups determines the principal group. Sulfonic acid ranks higher than acid halides, which rank higher than nitriles.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which free radical from following is least stable? [MHT-CET 2022]",
+    "question_latex": "Which free radical from following is least stable? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. CH3CH2•",
+      "B. (CH3)3C•",
+      "C. (CH3)2CH•",
+      "D. CH3•"
+    ],
+    "option_images": [],
+    "answer": "D. CH3•",
+    "solution": "Methyl radical has no alkyl groups for hyperconjugative or inductive stabilization, making it the least stable radical.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "Which one of the following carbanions is the least stable?",
+    "question_latex": "Which one of the following carbanions is the least stable?",
+    "question_images": [],
+    "options": [
+      "A. CH3CH2-",
+      "B. HC≡C-",
+      "C. (C6H5)3C-",
+      "D. (CH3)3C-"
+    ],
+    "option_images": [],
+    "answer": "D. (CH3)3C-",
+    "solution": "The tertiary butyl carbanion is the least stable because the three electron-donating methyl groups (+I effect) intensify the negative charge on the carbon.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Basic Principle of Organic Chemistry",
+    "question": "The number of carbons in the principal chain of 2,2-dimethylbutane is",
+    "question_latex": "The number of carbons in the principal chain of 2,2-dimethylbutane is",
+    "question_images": [],
+    "options": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 3"
+    ],
+    "option_images": [],
+    "answer": "A. 4",
+    "solution": "The name 'butane' signifies that the principal (longest) carbon chain contains 4 carbon atoms.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   }
 ]

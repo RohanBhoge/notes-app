@@ -1,0 +1,1902 @@
+[
+    {
+        "id": 1,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The surface of a liquid has tendency to contract and minimize surface area. This tendency is due to",
+        "question_latex": "The surface of a liquid has tendency to contract and minimize surface area. This tendency is due to",
+        "question_images": [],
+        "options": [
+            "A. viscosity",
+            "B. elasticity",
+            "C. friction",
+            "D. surface tension"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Surface tension is the property of a liquid at rest by virtue of which its free surface behaves like a stretched membrane under tension and tries to occupy the minimum surface area.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A capillary tube of radius r is immersed in water and water rise in it to a height h. the mass of water in the capillary tube is 5 g Another capillary tube of radius 2r is immersed in water, the mass of water that will rise in this tube is",
+        "question_latex": "A capillary tube of radius $r$ is immersed in water and water rise in it to a height $h$. the mass of water in the capillary tube is $5~g$ Another capillary tube of radius $2r$ is immersed in water, the mass of water that will rise in this tube is",
+        "question_images": [],
+        "options": [
+            "A. 2.5 g",
+            "B. 5.0 g",
+            "C. 10 g",
+            "D. 20 g"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Using $h = \\frac{2T \\cos \\theta}{rdg}$, the mass of liquid in the capillary is $m = \\pi r^{2}hd = \\pi r^{2} \\times (\\frac{2T \\cos \\theta}{rdg}) \\times d = \\frac{2\\pi r T \\cos \\theta}{g}$. Since $m \\propto r$, if the radius is doubled ($2r$), the mass will also be doubled: $m' = 2m = 2 \\times 5~g = 10~g$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The liquid meniscus in a capillary tube will be convex if the angle of contact is [MHT-CET 2022]",
+        "question_latex": "The liquid meniscus in a capillary tube will be convex if the angle of contact is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. less than 90°",
+            "B. equal to 90°",
+            "C. greater than 90°",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "When the angle of contact is obtuse (greater than $90^{\\circ}$), the liquid does not wet the solid and the meniscus is convex (e.g., mercury in glass).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A liquid rises to a height of 1.8 cm in a glass capillary 'A'. Another glass capillary 'B' having diameter 90% of capillary 'A' is immersed in the same liquid. The rise of liquid in capillary 'B' is [MHT-CET 2023]",
+        "question_latex": "A liquid rises to a height of $1.8$ cm in a glass capillary 'A'. Another glass capillary 'B' having diameter $90\\%$ of capillary 'A' is immersed in the same liquid. The rise of liquid in capillary 'B' is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2.5 cm",
+            "B. 1.62 cm",
+            "C. 2.0 cm",
+            "D. 1.8 cm"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "According to Jurin's Law, $h \\propto \\frac{1}{r}$ or $h_{1}r_{1} = h_{2}r_{2}$. Given $r_{2} = 0.9 r_{1}$, we have $1.8 \\times r_{1} = h_{2} \\times 0.9 r_{1} \\Rightarrow h_{2} = \\frac{1.8}{0.9} = 2.0$ cm.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Work done in blowing a soap bubble of radius 10 cm is (Surface tension of soap solution is 3/100 N/m) [MHT-CET 2022]",
+        "question_latex": "Work done in blowing a soap bubble of radius $10$ cm is (Surface tension of soap solution is $3/100~N/m$) [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 7.54 x 10^-3 J",
+            "B. 3.77 x 10^-3 J",
+            "C. 1.88 x 10^-3 J",
+            "D. 15.08 x 10^-3 J"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For a soap bubble, work done $W = T \\times 2 \\Delta A = T \\times 2 \\times (4\\pi r^{2}) = 8\\pi r^{2}T$. $W = 8 \\times 3.14 \\times (0.1)^{2} \\times 0.03 = 8 \\times 3.14 \\times 0.01 \\times 0.03 = 0.007536$ J $\\approx 7.54 \\times 10^{-3}$ J.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Two small drops of mercury, each of radius R, coalesce to form a single large drop. The ratio of the total surface energy before and after the coalescence is",
+        "question_latex": "Two small drops of mercury, each of radius $R$, coalesce to form a single large drop. The ratio of the total surface energy before and after the coalescence is",
+        "question_images": [],
+        "options": [
+            "A. 1 : 2^1/3",
+            "B. 2^1/3 : 1",
+            "C. 2 : 1",
+            "D. 1 : 2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Volume remains constant: $2 \\times \\frac{4}{3}\\pi R^{3} = \\frac{4}{3}\\pi R'^{3} \\Rightarrow R' = 2^{1/3} R$. Initial surface energy $E_{i} = 2 \\times (4\\pi R^{2}T)$. Final surface energy $E_{f} = 4\\pi R'^{2}T = 4\\pi (2^{1/3}R)^{2}T = 4\\pi R^{2} T \\times 2^{2/3}$. Ratio $E_{i}/E_{f} = \\frac{2 \\times 4\\pi R^{2} T}{4\\pi R^{2} T \\times 2^{2/3}} = \\frac{2}{2^{2/3}} = 2^{1/3} : 1$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A liquid does not wet the solid surface if the angle of contact is",
+        "question_latex": "A liquid does not wet the solid surface if the angle of contact is",
+        "question_images": [],
+        "options": [
+            "A. 0°",
+            "B. 45°",
+            "C. 60°",
+            "D. 120°"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Wetting depends on the angle of contact. If $\\theta < 90^{\\circ}$, it wets the surface. If $\\theta > 90^{\\circ}$, it does not wet the surface.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The excess pressure inside a soap bubble of radius R is [MHT-CET 2021]",
+        "question_latex": "The excess pressure inside a soap bubble of radius $R$ is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 2T/R",
+            "B. 4T/R",
+            "C. T/R",
+            "D. 8T/R"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "A soap bubble has two free surfaces, hence the excess pressure $P = \\frac{4T}{R}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Water rises to a height h in a capillary tube. If the length of the tube is less than h, then",
+        "question_latex": "Water rises to a height $h$ in a capillary tube. If the length of the tube is less than $h$, then",
+        "question_images": [],
+        "options": [
+            "A. water will overflow like a fountain",
+            "B. water will come out of the tube and stay on the outer surface",
+            "C. water will rise up to the top and stay there with a changed radius of curvature",
+            "D. water will not rise at all"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "If the tube is of insufficient length, the liquid rises to the top and the radius of curvature of its meniscus increases such that $hR = \\text{constant}$, satisfying the equilibrium without overflowing.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "With increase in temperature, the surface tension of a liquid",
+        "question_latex": "With increase in temperature, the surface tension of a liquid",
+        "question_images": [],
+        "options": [
+            "A. increases",
+            "B. decreases",
+            "C. remains constant",
+            "D. first increases then decreases"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "As temperature increases, molecular vibrations increase and intermolecular forces decrease, leading to a decrease in surface tension.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The work done in increasing the radius of a soap bubble from 4 cm to 5 cm is [Surface tension T = 0.03 N/m] [MHT-CET 2024]",
+        "question_latex": "The work done in increasing the radius of a soap bubble from $4$ cm to $5$ cm is [Surface tension $T = 0.03~N/m$] [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 0.678 x 10^-4 J",
+            "B. 1.356 x 10^-4 J",
+            "C. 3.39 x 10^-4 J",
+            "D. 6.78 x 10^-4 J"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$W = 2T \\Delta A = 2T [4\\pi(r_{2}^{2} - r_{1}^{2})] = 8\\pi T (0.05^{2} - 0.04^{2}) = 8 \\times 3.14 \\times 0.03 \\times (0.0025 - 0.0016) = 0.7536 \\times 0.0009 = 0.00067824$ J $= 6.78 \\times 10^{-4}$ J.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Terminal velocity of a sphere of radius r falling through a viscous liquid is proportional to [MHT-CET 2020]",
+        "question_latex": "Terminal velocity of a sphere of radius $r$ falling through a viscous liquid is proportional to [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. r",
+            "B. r^2",
+            "C. 1/r",
+            "D. 1/r^2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The terminal velocity $v = \\frac{2r^{2}(\\rho-\\sigma)g}{9\\eta}$, hence $v \\propto r^{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "According to Bernoulli's theorem, for a streamlined flow of an ideal liquid, the total energy per unit mass is [MHT-CET 2022]",
+        "question_latex": "According to Bernoulli's theorem, for a streamlined flow of an ideal liquid, the total energy per unit mass is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. P/d + gh + v^2/2 = constant",
+            "B. P + dgh + dv^2/2 = constant",
+            "C. P/dg + h + v^2/2g = constant",
+            "D. Pd + gh + v^2/2 = constant"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Bernoulli's equation represents conservation of energy. Total energy per unit mass is $\\frac{P}{\\rho} + gh + \\frac{1}{2}v^{2} = \\text{constant}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A square plate of side 0.1 m is moving with velocity 0.1 m/s relative to another plate. If the viscous force is 0.2 N and coefficient of viscosity is 0.01 Poise, the distance between the plates is",
+        "question_latex": "A square plate of side $0.1$ m is moving with velocity $0.1~m/s$ relative to another plate. If the viscous force is $0.2$ N and coefficient of viscosity is $0.01$ Poise, the distance between the plates is",
+        "question_images": [],
+        "options": [
+            "A. 0.5 x 10^-5 m",
+            "B. 5 x 10^-5 m",
+            "C. 0.05 x 10^-5 m",
+            "D. 50 x 10^-5 m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$F = \\eta A \\frac{dv}{dx}$. Given $\\eta = 0.01$ Poise $= 10^{-3}$ PI, $A = 0.1^{2} = 0.01~m^{2}$, $dv = 0.1$, $F = 0.2$. $0.2 = 10^{-3} \\times 0.01 \\times \\frac{0.1}{dx} \\Rightarrow dx = \\frac{10^{-6}}{0.2} = 5 \\times 10^{-6} = 0.5 \\times 10^{-5}$ m.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The excess pressure in a bubble of radius R is P. If 27 such bubbles coalesce to form a single larger bubble, the excess pressure in the larger bubble will be [MHT-CET 2023]",
+        "question_latex": "The excess pressure in a bubble of radius $R$ is $P$. If $27$ such bubbles coalesce to form a single larger bubble, the excess pressure in the larger bubble will be [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. P/3",
+            "B. 3P",
+            "C. P/9",
+            "D. 9P"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$V_{large} = 27 V_{small} \\Rightarrow R^{3} = 27 r^{3} \\Rightarrow R = 3r$. Excess pressure $P \\propto 1/r$. $P' = P(r/R) = P/3$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A pressure of 10^6 N/m^2 is applied on a water volume of 100 litre. If the compressibility of water is 5 x 10^-10 m^2/N, the change in volume will be",
+        "question_latex": "A pressure of $10^{6}~N/m^{2}$ is applied on a water volume of $100$ litre. If the compressibility of water is $5 \\times 10^{-10}~m^{2}/N$, the change in volume will be",
+        "question_images": [],
+        "options": [
+            "A. 0.05 ml",
+            "B. 5 ml",
+            "C. 50 ml",
+            "D. 500 ml"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Compressibility $K = \\frac{1}{B} = \\frac{\\Delta V}{V \\Delta P} \\Rightarrow \\Delta V = K V \\Delta P = (5 \\times 10^{-10}) \\times 100 \\times 10^{6} = 5 \\times 10^{-2}$ litres $= 50$ ml.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "At what speed will the velocity head of a stream of water be equal to 40 cm? (g = 10 m/s^2)",
+        "question_latex": "At what speed will the velocity head of a stream of water be equal to $40$ cm? ($g = 10~m/s^{2}$)",
+        "question_images": [],
+        "options": [
+            "A. 2.8 m/s",
+            "B. 5.6 m/s",
+            "C. 8.4 m/s",
+            "D. 1.4 m/s"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Velocity head $h = \\frac{v^{2}}{2g} \\Rightarrow v = \\sqrt{2gh} = \\sqrt{2 \\times 10 \\times 0.4} = \\sqrt{8} \\approx 2.82$ m/s.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Angle of contact of a liquid with a solid surface is 90°. Then",
+        "question_latex": "Angle of contact of a liquid with a solid surface is $90^{\\circ}$. Then",
+        "question_images": [],
+        "options": [
+            "A. adhesive force = cohesive force",
+            "B. adhesive force = cohesive force / sqrt(2)",
+            "C. adhesive force = sqrt(2) x cohesive force",
+            "D. adhesive force = 2 x cohesive force"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "For $\\theta = 90^{\\circ}$, the resultant of adhesive ($F_{a}$) and cohesive ($F_{c}$) forces must be vertical. This occurs when $F_{a} = F_{c}/\\sqrt{2}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A water film is formed between two parallel wires of 10 cm length. If the distance between wires is increased by 1 mm, work done is (T = 72 x 10^-3 N/m) [MHT-CET 2021]",
+        "question_latex": "A water film is formed between two parallel wires of $10$ cm length. If the distance between wires is increased by $1$ mm, work done is ($T = 72 \\times 10^{-3}~N/m$) [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 14.4 x 10^-6 J",
+            "B. 7.2 x 10^-6 J",
+            "C. 28.8 x 10^-6 J",
+            "D. 1.44 x 10^-6 J"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Work done $W = T \\times \\Delta A = T \\times 2 \\times (l \\times dx) = 72 \\times 10^{-3} \\times 2 \\times (0.1 \\times 0.001) = 144 \\times 10^{-7} = 14.4 \\times 10^{-6}$ J.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Reynolds number depends on [MHT-CET 2024]",
+        "question_latex": "Reynolds number depends on [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. density of liquid",
+            "B. viscosity of liquid",
+            "C. velocity of liquid",
+            "D. all of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$R_{e} = \\frac{\\rho v D}{\\eta}$, thus it depends on density, velocity, diameter, and viscosity.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The speed of water in a pipe of diameter 2 cm is 0.1 m/s. The speed of water in a section where diameter is 1 cm is",
+        "question_latex": "The speed of water in a pipe of diameter $2$ cm is $0.1~m/s$. The speed of water in a section where diameter is $1$ cm is",
+        "question_images": [],
+        "options": [
+            "A. 0.2 m/s",
+            "B. 0.4 m/s",
+            "C. 0.05 m/s",
+            "D. 0.1 m/s"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Equation of continuity: $A_{1}v_{1} = A_{2}v_{2} \\Rightarrow d_{1}^{2}v_{1} = d_{2}^{2}v_{2} \\Rightarrow 2^{2} \\times 0.1 = 1^{2} \\times v_{2} \\Rightarrow v_{2} = 0.4$ m/s.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Stokes' law is valid for [MHT-CET 2020]",
+        "question_latex": "Stokes' law is valid for [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. small spherical bodies",
+            "B. large flat bodies",
+            "C. bodies of any shape",
+            "D. gaseous media only"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Stokes' law describes the viscous drag on a small spherical body moving through a fluid.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A drop of oil of radius 10^-6 m is falling through air. If the viscous force is 1.2 x 10^-13 N, the terminal velocity is (viscosity of air = 1.8 x 10^-5 PI)",
+        "question_latex": "A drop of oil of radius $10^{-6}$ m is falling through air. If the viscous force is $1.2 \\times 10^{-13}$ N, the terminal velocity is (viscosity of air $= 1.8 \\times 10^{-5}$ PI)",
+        "question_images": [],
+        "options": [
+            "A. 0.35 x 10^-3 m/s",
+            "B. 1.18 x 10^-3 m/s",
+            "C. 2.5 x 10^-3 m/s",
+            "D. 5.2 x 10^-3 m/s"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$F = 6\\pi \\eta r v \\Rightarrow v = \\frac{F}{6\\pi \\eta r} = \\frac{1.2 \\times 10^{-13}}{6 \\times 3.14 \\times 1.8 \\times 10^{-5} \\times 10^{-6}} \\approx 1.18 \\times 10^{-3}$ m/s.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "If surface tension of water is 0.072 N/m, the energy needed to double the area of a soap film of size 5 cm x 10 cm is [MHT-CET 2023]",
+        "question_latex": "If surface tension of water is $0.072~N/m$, the energy needed to double the area of a soap film of size $5$ cm x $10$ cm is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 7.2 x 10^-4 J",
+            "B. 3.6 x 10^-4 J",
+            "C. 14.4 x 10^-4 J",
+            "D. 1.8 x 10^-4 J"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Soap film has two surfaces. $\\Delta A = (50 \\times 10^{-4}) \\times 2 = 100 \\times 10^{-4} = 0.01~m^{2}$. Energy $W = 2 T \\Delta A = 2 \\times 0.072 \\times 50 \\times 10^{-4} = 7.2 \\times 10^{-4}$ J.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "For a streamlined flow of liquid through a pipe of varying cross-section, which of the following is constant?",
+        "question_latex": "For a streamlined flow of liquid through a pipe of varying cross-section, which of the following is constant?",
+        "question_images": [],
+        "options": [
+            "A. Velocity",
+            "B. Pressure",
+            "C. Rate of flow",
+            "D. Kinetic energy"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The equation of continuity states that for an incompressible fluid, the volume flow rate ($Av$) remains constant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The pressure inside two soap bubbles are 1.01 atm and 1.03 atm. The ratio of their volumes is [MHT-CET 2019]",
+        "question_latex": "The pressure inside two soap bubbles are $1.01$ atm and $1.03$ atm. The ratio of their volumes is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 3 : 1",
+            "B. 9 : 1",
+            "C. 27 : 1",
+            "D. 1 : 27"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Excess pressure $P_{ex} = P_{in} - P_{atm}$. $P_{1} = 0.01$, $P_{2} = 0.03$. $P \\propto 1/R \\Rightarrow R_{1}/R_{2} = P_{2}/P_{1} = 3/1$. Volume $V \\propto R^{3} \\Rightarrow V_{1}/V_{2} = 3^{3} = 27$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Height of water in a capillary tube of radius r is h. If the radius is halved, the height becomes [MHT-CET 2022]",
+        "question_latex": "Height of water in a capillary tube of radius $r$ is $h$. If the radius is halved, the height becomes [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. h/2",
+            "B. 2h",
+            "C. 4h",
+            "D. h"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$h \\propto 1/r$. If $r$ is halved, $h$ is doubled.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Viscosity of a gas [MHT-CET 2024]",
+        "question_latex": "Viscosity of a gas [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. increases with temperature",
+            "B. decreases with temperature",
+            "C. is independent of temperature",
+            "D. is zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In gases, viscosity is due to momentum transfer through collisions. Higher temperature increases molecular speed and collision rate, increasing viscosity.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A spherical ball of radius 1 cm falling in a viscous liquid of density 1.5 g/cc has a terminal velocity v. Another ball of same density but radius 2 cm will have terminal velocity [MHT-CET 2021]",
+        "question_latex": "A spherical ball of radius $1$ cm falling in a viscous liquid of density $1.5$ g/cc has a terminal velocity $v$. Another ball of same density but radius $2$ cm will have terminal velocity [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. v",
+            "B. 2v",
+            "C. 4v",
+            "D. 8v"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$v_{t} \\propto r^{2}$. If radius becomes $2$ cm ($2 \\times$ initial), terminal velocity becomes $2^{2} = 4$ times.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The unit of coefficient of viscosity is",
+        "question_latex": "The unit of coefficient of viscosity is",
+        "question_images": [],
+        "options": [
+            "A. N m/s",
+            "B. N s/m^2",
+            "C. N m^2/s",
+            "D. kg m/s"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The SI unit is Pascal-second ($Pa \\cdot s$) or $N \\cdot s/m^{2}$ (also known as Poiseuille).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Work done in splitting a drop of radius R into n identical droplets is",
+        "question_latex": "Work done in splitting a drop of radius $R$ into $n$ identical droplets is",
+        "question_images": [],
+        "options": [
+            "A. 4 pi R^2 T (n^1/3 - 1)",
+            "B. 4 pi R^2 T (n^2/3 - 1)",
+            "C. 4 pi R^2 T (n - 1)",
+            "D. 4 pi R^2 T (n^1/2 - 1)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Volume $V = \\frac{4}{3}\\pi R^{3} = n \\times \\frac{4}{3}\\pi r^{3} \\Rightarrow r = R/n^{1/3}$. $W = T \\times \\Delta A = T [n(4\\pi r^{2}) - 4\\pi R^{2}] = 4\\pi R^{2} T [n(n^{-2/3}) - 1] = 4\\pi R^{2} T (n^{1/3} - 1)$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Venturimeter is based on [MHT-CET 2023]",
+        "question_latex": "Venturimeter is based on [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Pascal's Law",
+            "B. Bernoulli's Theorem",
+            "C. Stokes' Law",
+            "D. Jurin's Law"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "A venturimeter is a device used to measure the flow rate of a fluid through a pipe, operating on the principle of Bernoulli's theorem.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "If a small amount of detergent is added to water, the surface tension [MHT-CET 2022]",
+        "question_latex": "If a small amount of detergent is added to water, the surface tension [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. increases",
+            "B. decreases",
+            "C. remains same",
+            "D. becomes zero"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Detergents are surface-active agents (surfactants) that disrupt the cohesive forces of water molecules at the surface, reducing surface tension.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The pressure on a swimmer 10 m below the surface of water is (P_atm = 10^5 Pa, g = 10 m/s^2)",
+        "question_latex": "The pressure on a swimmer $10$ m below the surface of water is ($P_{atm} = 10^{5}$ Pa, $g = 10~m/s^{2}$)",
+        "question_images": [],
+        "options": [
+            "A. 1 x 10^5 Pa",
+            "B. 2 x 10^5 Pa",
+            "C. 0.5 x 10^5 Pa",
+            "D. 1.1 x 10^5 Pa"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$P = P_{atm} + h\\rho g = 10^{5} + 10 \\times 1000 \\times 10 = 10^{5} + 10^{5} = 2 \\times 10^{5}$ Pa.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Water is flowing through a tube of non-uniform cross-section. If the radii of the tube at entrance and exit are in the ratio 3:2, then the ratio of velocities is [MHT-CET 2024]",
+        "question_latex": "Water is flowing through a tube of non-uniform cross-section. If the radii of the tube at entrance and exit are in the ratio $3:2$, then the ratio of velocities is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 3 : 2",
+            "B. 2 : 3",
+            "C. 9 : 4",
+            "D. 4 : 9"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$A_{1}v_{1} = A_{2}v_{2} \\Rightarrow v_{1}/v_{2} = A_{2}/A_{1} = (r_{2}/r_{1})^{2} = (2/3)^{2} = 4/9$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The density of a drop of radius R is halved. The terminal velocity [MHT-CET 2021]",
+        "question_latex": "The density of a drop of radius $R$ is halved. The terminal velocity [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. is doubled",
+            "B. is halved",
+            "C. is unchanged",
+            "D. becomes 1/4"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$v_{t} \\propto (\\rho - \\sigma)$. If $\\rho$ is halved (assuming $\\sigma \\approx 0$), then $v_{t}$ is halved.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Pascal's law is applicable for [MHT-CET 2020]",
+        "question_latex": "Pascal's law is applicable for [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. solids",
+            "B. gases",
+            "C. liquids at rest",
+            "D. liquids in motion"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Pascal's law states that pressure applied to an enclosed static fluid is transmitted undiminished to every part of the fluid.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A big drop of radius R is formed by coalescing 1000 small droplets of radius r. The surface energy [MHT-CET 2019]",
+        "question_latex": "A big drop of radius $R$ is formed by coalescing $1000$ small droplets of radius $r$. The surface energy [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. increases",
+            "B. decreases",
+            "C. remains same",
+            "D. becomes zero"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Coalescence decreases total surface area, hence reducing the total surface energy (energy is released).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The velocity of efflux from a tank 5 m high with a hole at the bottom is",
+        "question_latex": "The velocity of efflux from a tank $5$ m high with a hole at the bottom is",
+        "question_images": [],
+        "options": [
+            "A. 5 m/s",
+            "B. 10 m/s",
+            "C. 20 m/s",
+            "D. 2.5 m/s"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Torricelli's Law: $v = \\sqrt{2gh} = \\sqrt{2 \\times 10 \\times 5} = \\sqrt{100} = 10$ m/s.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Surface tension of a liquid is 5 N/m. Force on a line of length 10 cm on surface is",
+        "question_latex": "Surface tension of a liquid is $5~N/m$. Force on a line of length $10$ cm on surface is",
+        "question_images": [],
+        "options": [
+            "A. 50 N",
+            "B. 0.5 N",
+            "C. 5 N",
+            "D. 0.05 N"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$F = T \\times l = 5 \\times 0.1 = 0.5$ N.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A spherical droplet of density p and radius r falls through air of viscosity n. The viscous force is",
+        "question_latex": "A spherical droplet of density $p$ and radius $r$ falls through air of viscosity $n$. The viscous force is",
+        "question_images": [],
+        "options": [
+            "A. 6 pi n r v",
+            "B. 4 pi n r v",
+            "C. 2 pi n r v",
+            "D. pi n r v"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Direct application of Stokes' Law formula.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "When water falls as a stream from a tap, the cross-section of the stream decreases. This is due to [MHT-CET 2022]",
+        "question_latex": "When water falls as a stream from a tap, the cross-section of the stream decreases. This is due to [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. surface tension",
+            "B. viscosity",
+            "C. Bernoulli's Theorem",
+            "D. Equation of continuity"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "As water falls, its velocity $v$ increases due to gravity. By equation of continuity $Av = \\text{constant}$, the area $A$ must decrease.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The capillary rise in a tube of radius r is h. If the surface tension is doubled and radius is halved, new height is [MHT-CET 2023]",
+        "question_latex": "The capillary rise in a tube of radius $r$ is $h$. If the surface tension is doubled and radius is halved, new height is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. h",
+            "B. 2h",
+            "C. 4h",
+            "D. h/2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$h = \\frac{2T \\cos \\theta}{rdg} \\Rightarrow h \\propto T/r$. $h' = h \\times (2T/T) / (0.5r/r) = h \\times 2 / 0.5 = 4h$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A barometer is used to measure [MHT-CET 2020]",
+        "question_latex": "A barometer is used to measure [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. blood pressure",
+            "B. atmospheric pressure",
+            "C. gauge pressure",
+            "D. differential pressure"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "A barometer is a scientific instrument used in meteorology to measure atmospheric pressure.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Two glass plates have a water film between them. To separate them, a large force is needed because of",
+        "question_latex": "Two glass plates have a water film between them. To separate them, a large force is needed because of",
+        "question_images": [],
+        "options": [
+            "A. surface tension",
+            "B. viscosity",
+            "C. friction",
+            "D. weight"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The water film creates a pressure difference (lower inside) due to surface tension, resisting separation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Fluid flow is turbulent if Reynolds number is [MHT-CET 2024]",
+        "question_latex": "Fluid flow is turbulent if Reynolds number is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. < 1000",
+            "B. 1000 - 2000",
+            "C. > 3000",
+            "D. < 2000"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Flow is laminar for $R_{e} < 1000$, unstable for $1000 < R_{e} < 3000$, and turbulent for $R_{e} > 3000$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The SI unit of surface tension is [MHT-CET 2021]",
+        "question_latex": "The SI unit of surface tension is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. N/m",
+            "B. J/m^2",
+            "C. Both A and B",
+            "D. N m"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Surface tension is force per unit length ($N/m$) and also surface energy per unit area ($J/m^{2}$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A liquid rises to height h in a capillary. If the tube is tilted by angle theta, the length of liquid in tube is [MHT-CET 2022]",
+        "question_latex": "A liquid rises to height $h$ in a capillary. If the tube is tilted by angle $\\theta$, the length of liquid in tube is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. h",
+            "B. h cos theta",
+            "C. h / cos theta",
+            "D. h / sin theta"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Vertical height $h$ remains constant. Length $l = h / \\cos \\theta$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The pressure inside a soap bubble is [MHT-CET 2019]",
+        "question_latex": "The pressure inside a soap bubble is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. less than outside",
+            "B. equal to outside",
+            "C. more than outside",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Due to surface tension, the pressure on the concave side (inside) is greater than the pressure on the convex side (outside).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Dimensions of coefficient of viscosity are [MHT-CET 2023]",
+        "question_latex": "Dimensions of coefficient of viscosity are [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L1 T-1]",
+            "B. [M1 L-1 T-1]",
+            "C. [M1 L1 T-2]",
+            "D. [M1 L-1 T-2]"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\eta = \\frac{F}{A(dv/dx)} = \\frac{[MLT^{-2}]}{[L^{2}][T^{-1}]} = [M^{1} L^{-1} T^{-1}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A soap bubble of radius r is blown. Surface tension is T. Work done is [MHT-CET 2020]",
+        "question_latex": "A soap bubble of radius $r$ is blown. Surface tension is $T$. Work done is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 4 pi r^2 T",
+            "B. 8 pi r^2 T",
+            "C. 2 pi r^2 T",
+            "D. pi r^2 T"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Work done $= T \\times 2 \\times (4\\pi r^{2}) = 8\\pi r^{2}T$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Critical velocity of a liquid depends on [MHT-CET 2024]",
+        "question_latex": "Critical velocity of a liquid depends on [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. viscosity",
+            "B. density",
+            "C. radius of pipe",
+            "D. all of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$v_{c} = \\frac{R_{e} \\eta}{\\rho D}$. It depends on viscosity, density, and pipe dimension.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Pressure inside a water drop of radius 1 mm is (T = 0.07 N/m) [MHT-CET 2021]",
+        "question_latex": "Pressure inside a water drop of radius $1$ mm is ($T = 0.07~N/m$) [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 70 N/m^2",
+            "B. 140 N/m^2",
+            "C. 210 N/m^2",
+            "D. 35 N/m^2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "For a liquid drop, excess pressure $P = \\frac{2T}{R} = \\frac{2 \\times 0.07}{10^{-3}} = 140$ N/m^2.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A liquid is flowing through a horizontal pipe. At a section where area is halved, the pressure [MHT-CET 2022]",
+        "question_latex": "A liquid is flowing through a horizontal pipe. At a section where area is halved, the pressure [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. increases",
+            "B. decreases",
+            "C. remains same",
+            "D. becomes zero"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "If area is halved, velocity doubles (continuity). By Bernoulli's theorem ($P + \\frac{1}{2}\\rho v^{2} = \\text{const}$), as $v$ increases, $P$ must decrease.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Surface tension of water is 72 dyne/cm. In SI units, it is [MHT-CET 2019]",
+        "question_latex": "Surface tension of water is $72$ dyne/cm. In SI units, it is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 72 x 10^-3 N/m",
+            "B. 72 N/m",
+            "C. 0.72 N/m",
+            "D. 7.2 N/m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$1~dyne/cm = 10^{-3}~N/m$. So $72~dyne/cm = 72 \\times 10^{-3}~N/m$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The viscous drag on a sphere of radius r moving with velocity v is F. The drag on sphere of radius 2r moving with same velocity is [MHT-CET 2023]",
+        "question_latex": "The viscous drag on a sphere of radius $r$ moving with velocity $v$ is $F$. The drag on sphere of radius $2r$ moving with same velocity is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. F",
+            "B. 2F",
+            "C. 4F",
+            "D. F/2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$F = 6\\pi \\eta r v \\Rightarrow F \\propto r$. If radius is doubled ($2r$), force is doubled.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The angle of contact for pure water and clean glass is [MHT-CET 2020]",
+        "question_latex": "The angle of contact for pure water and clean glass is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 0°",
+            "B. 8°",
+            "C. 90°",
+            "D. 140°"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Pure water perfectly wets clean glass, resulting in a zero angle of contact.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Surface energy is [MHT-CET 2024]",
+        "question_latex": "Surface energy is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Potential energy per unit area",
+            "B. Kinetic energy per unit area",
+            "C. Force per unit length",
+            "D. Potential energy per unit volume"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Surface energy is defined as the work done (potential energy) in increasing the surface area by a unit amount.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A liquid rises in a capillary tube to height h. If the whole system is in free fall, the height of liquid will be [MHT-CET 2021]",
+        "question_latex": "A liquid rises in a capillary tube to height $h$. If the whole system is in free fall, the height of liquid will be [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. h",
+            "B. zero",
+            "C. fill the whole tube",
+            "D. 2h"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In free fall, effective $g = 0$. The liquid will rise to the full length of the tube because there is no weight to counteract surface tension.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The rate of flow of liquid through a pipe is V. If the radius is doubled, the rate of flow under same pressure becomes [MHT-CET 2022]",
+        "question_latex": "The rate of flow of liquid through a pipe is $V$. If the radius is doubled, the rate of flow under same pressure becomes [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 2V",
+            "B. 4V",
+            "C. 8V",
+            "D. 16V"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "By Poiseuille's law, $Q = \\frac{\\pi P r^{4}}{8\\eta l} \\Rightarrow Q \\propto r^{4}$. If radius is doubled, flow rate becomes $2^{4} = 16$ times.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Surface tension is due to [MHT-CET 2019]",
+        "question_latex": "Surface tension is due to [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. cohesive forces",
+            "B. adhesive forces",
+            "C. gravitational forces",
+            "D. electrical forces"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Surface tension originates from the unbalanced cohesive attractions between similar liquid molecules at the surface.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A soap bubble is charged. Its radius [MHT-CET 2023]",
+        "question_latex": "A soap bubble is charged. Its radius [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. increases",
+            "B. decreases",
+            "C. remains same",
+            "D. becomes zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Charging a bubble creates an outward electrostatic pressure that opposes surface tension, leading to an increase in radius.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Velocity of flow at a point in a streamline [MHT-CET 2020]",
+        "question_latex": "Velocity of flow at a point in a streamline [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. changes with time",
+            "B. remains constant with time",
+            "C. is zero",
+            "D. is infinite"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In streamline (steady) flow, the velocity of fluid particles reaching a particular point remains constant over time.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Angle of contact for mercury and glass is [MHT-CET 2024]",
+        "question_latex": "Angle of contact for mercury and glass is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 0°",
+            "B. 8°",
+            "C. 90°",
+            "D. 140°"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Mercury has a very high cohesive force relative to adhesive force with glass, resulting in a large obtuse angle of contact.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The work done in increasing the area of a soap film from 10 cm^2 to 20 cm^2 is (T = 30 dyne/cm) [MHT-CET 2021]",
+        "question_latex": "The work done in increasing the area of a soap film from $10~cm^{2}$ to $20~cm^{2}$ is ($T = 30~dyne/cm$) [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 300 erg",
+            "B. 600 erg",
+            "C. 150 erg",
+            "D. 1200 erg"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\Delta A = (20 - 10) = 10~cm^{2}$. For soap film (2 surfaces), $W = T \\times 2 \\Delta A = 30 \\times 2 \\times 10 = 600$ ergs.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Water is flowing through a tube of radius R with speed v. If the tube is narrowed to R/2, the speed becomes [MHT-CET 2022]",
+        "question_latex": "Water is flowing through a tube of radius $R$ with speed $v$. If the tube is narrowed to $R/2$, the speed becomes [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 2v",
+            "B. 4v",
+            "C. v/2",
+            "D. v/4"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Continuity: $R_{1}^{2}v_{1} = R_{2}^{2}v_{2} \\Rightarrow R^{2}v = (R/2)^{2}v_{2} \\Rightarrow v_{2} = 4v$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Dimensional formula of surface tension is [MHT-CET 2019]",
+        "question_latex": "Dimensional formula of surface tension is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L0 T-2]",
+            "B. [M1 L1 T-2]",
+            "C. [M1 L2 T-2]",
+            "D. [M0 L1 T-2]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$T = F/l = [MLT^{-2}] / [L] = [M^{1} L^{0} T^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A capillary tube of radius r is dipped in a liquid of density p and surface tension T. The height is given by [MHT-CET 2023]",
+        "question_latex": "A capillary tube of radius $r$ is dipped in a liquid of density $p$ and surface tension $T$. The height is given by [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2T cos theta / rpg",
+            "B. T cos theta / rpg",
+            "C. 4T cos theta / rpg",
+            "D. 2T / rpg cos theta"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Direct formula for capillary rise.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Pressure head is given by [MHT-CET 2020]",
+        "question_latex": "Pressure head is given by [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. P/dg",
+            "B. P/d",
+            "C. Pd",
+            "D. v^2/2g"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In Bernoulli's equation, $P/\\rho g$ is called the pressure head.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Unit of Reynolds number is [MHT-CET 2024]",
+        "question_latex": "Unit of Reynolds number is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Unitless",
+            "B. N s/m",
+            "C. kg/m s",
+            "D. m/s"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Reynolds number is a dimensionless quantity.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Radius of a drop is doubled. Surface energy becomes [MHT-CET 2021]",
+        "question_latex": "Radius of a drop is doubled. Surface energy becomes [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. doubled",
+            "B. quadrupled",
+            "C. 8 times",
+            "D. same"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$E = 4\\pi R^{2} T \\Rightarrow E \\propto R^{2}$. If radius is doubled, energy becomes $2^{2} = 4$ times.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The coefficient of viscosity for an ideal fluid is [MHT-CET 2022]",
+        "question_latex": "The coefficient of viscosity for an ideal fluid is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 0",
+            "B. 1",
+            "C. infinite",
+            "D. medium"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "An ideal fluid is assumed to be non-viscous (viscosity $= 0$) and incompressible.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The work done in blowing a soap bubble from radius R1 to R2 is [MHT-CET 2019]",
+        "question_latex": "The work done in blowing a soap bubble from radius $R_{1}$ to $R_{2}$ is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 8 pi T (R2^2 - R1^2)",
+            "B. 4 pi T (R2^2 - R1^2)",
+            "C. 8 pi T (R2 - R1)^2",
+            "D. 4 pi T (R2 - R1)^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Bubble has two surfaces. $W = T \\times 2 \\Delta A = 2T (4\\pi R_{2}^{2} - 4\\pi R_{1}^{2}) = 8\\pi T (R_{2}^{2} - R_{1}^{2})$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "If the diameter of a capillary tube is doubled, the rise of water will be [MHT-CET 2023]",
+        "question_latex": "If the diameter of a capillary tube is doubled, the rise of water will be [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. doubled",
+            "B. halved",
+            "C. same",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$h \\propto 1/D$. Doubling diameter halves the height.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Bernoulli's theorem is a statement of [MHT-CET 2020]",
+        "question_latex": "Bernoulli's theorem is a statement of [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. conservation of mass",
+            "B. conservation of momentum",
+            "C. conservation of energy",
+            "D. conservation of pressure"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Bernoulli's theorem is based on the law of conservation of energy for fluid flow.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Surface tension of a liquid at its boiling point [MHT-CET 2024]",
+        "question_latex": "Surface tension of a liquid at its boiling point [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. is maximum",
+            "B. is zero",
+            "C. is same as room temperature",
+            "D. is infinite"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Surface tension decreases with temperature and vanishes at the critical temperature/boiling point.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Excess pressure inside a liquid drop of radius 1 cm is 0.1 N/m^2. Surface tension is [MHT-CET 2021]",
+        "question_latex": "Excess pressure inside a liquid drop of radius $1$ cm is $0.1~N/m^{2}$. Surface tension is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 0.0005 N/m",
+            "B. 0.001 N/m",
+            "C. 0.01 N/m",
+            "D. 0.05 N/m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$P = 2T/R \\Rightarrow T = PR/2 = 0.1 \\times 0.01 / 2 = 0.001/2 = 0.0005$ N/m.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The flow of liquid is laminar if Reynolds number is [MHT-CET 2022]",
+        "question_latex": "The flow of liquid is laminar if Reynolds number is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. < 1000",
+            "B. > 3000",
+            "C. 2000 - 3000",
+            "D. > 2000"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Low Reynolds numbers ($< 1000$) indicate smooth, steady laminar flow.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Surface energy is work done per unit [MHT-CET 2019]",
+        "question_latex": "Surface energy is work done per unit [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. area",
+            "B. length",
+            "C. volume",
+            "D. time"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Surface energy $E = W / \\Delta A$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "For a capillary tube, the rise is 2 cm. If the tube is cut to 1 cm, water will [MHT-CET 2023]",
+        "question_latex": "For a capillary tube, the rise is $2$ cm. If the tube is cut to $1$ cm, water will [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. overflow",
+            "B. rise to top and stay",
+            "C. not rise at all",
+            "D. rise to 0.5 cm"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Water will not overflow; it will reach the top and the meniscus will flatten (radius increases).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A liquid is in steady flow through a pipe. The pressure is [MHT-CET 2020]",
+        "question_latex": "A liquid is in steady flow through a pipe. The pressure is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. higher where velocity is higher",
+            "B. lower where velocity is higher",
+            "C. same everywhere",
+            "D. independent of velocity"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "According to Bernoulli's principle, higher velocity regions correspond to lower pressure regions.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Angle of contact of water with paraffin wax is [MHT-CET 2024]",
+        "question_latex": "Angle of contact of water with paraffin wax is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 0°",
+            "B. 107°",
+            "C. 90°",
+            "D. 180°"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Water does not wet paraffin wax, resulting in an obtuse angle of contact ($\\approx 107^{\\circ}$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Force on a soap film of length 5 cm is (T = 25 dyne/cm) [MHT-CET 2021]",
+        "question_latex": "Force on a soap film of length $5$ cm is ($T = 25~dyne/cm$) [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 125 dyne",
+            "B. 250 dyne",
+            "C. 50 dyne",
+            "D. 62.5 dyne"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Soap film has two surfaces. $F = 2Tl = 2 \\times 25 \\times 5 = 250$ dynes.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The terminal velocity of a small sphere in a viscous liquid is achieved when [MHT-CET 2022]",
+        "question_latex": "The terminal velocity of a small sphere in a viscous liquid is achieved when [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. weight = upthrust + viscous drag",
+            "B. weight = viscous drag",
+            "C. upthrust = viscous drag",
+            "D. weight + upthrust = viscous drag"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Terminal velocity is reached when the net force is zero, i.e., downward weight is balanced by the sum of upward buoyant force and viscous drag.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Which of the following has unit Joule/m^2? [MHT-CET 2019]",
+        "question_latex": "Which of the following has unit $Joule/m^{2}?$ [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. surface tension",
+            "B. viscosity",
+            "C. pressure",
+            "D. volume"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Surface energy per unit area has dimensions of $J/m^{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Equation of continuity is based on [MHT-CET 2023]",
+        "question_latex": "Equation of continuity is based on [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. conservation of mass",
+            "B. conservation of momentum",
+            "C. conservation of energy",
+            "D. Newton's second law"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The continuity equation ensures that the mass of fluid entering a section equals the mass leaving it.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Rise of liquid in a capillary is 10 cm. If the radius is doubled, the rise is [MHT-CET 2020]",
+        "question_latex": "Rise of liquid in a capillary is $10$ cm. If the radius is doubled, the rise is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 5 cm",
+            "B. 20 cm",
+            "C. 10 cm",
+            "D. 2.5 cm"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$h \\propto 1/r$. Doubling radius halves the height.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Dynamic pressure is given by [MHT-CET 2024]",
+        "question_latex": "Dynamic pressure is given by [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 1/2 rho v^2",
+            "B. rho gh",
+            "C. P",
+            "D. P + 1/2 rho v^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The term $\\frac{1}{2}\\rho v^{2}$ in Bernoulli's equation is called dynamic pressure.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A soap bubble is blown. The work done is W. If it is blown to double its radius, work done is [MHT-CET 2021]",
+        "question_latex": "A soap bubble is blown. The work done is $W$. If it is blown to double its radius, work done is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 2W",
+            "B. 4W",
+            "C. 8W",
+            "D. 16W"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$W \\propto r^{2}$. Doubling radius increases work by $2^{2} = 4$ times.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Water is flowing through a pipe. Where the pipe narrows, [MHT-CET 2022]",
+        "question_latex": "Water is flowing through a pipe. Where the pipe narrows, [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. velocity increases, pressure decreases",
+            "B. velocity decreases, pressure increases",
+            "C. both increase",
+            "D. both decrease"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Narrowing leads to higher velocity (continuity) and lower pressure (Bernoulli).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A liquid drop splits into 64 identical droplets. The ratio of initial surface energy to final surface energy is [MHT-CET 2019]",
+        "question_latex": "A liquid drop splits into $64$ identical droplets. The ratio of initial surface energy to final surface energy is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 1 : 4",
+            "B. 4 : 1",
+            "C. 1 : 16",
+            "D. 16 : 1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$R = n^{1/3}r \\Rightarrow R = 64^{1/3}r = 4r$. $E_{i} = 4\\pi R^{2} T$. $E_{f} = 64 (4\\pi r^{2} T) = 64 (4\\pi (R/4)^{2} T) = 64/16 E_{i} = 4 E_{i}$. Ratio $= 1:4$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Velocity of efflux depends on [MHT-CET 2023]",
+        "question_latex": "Velocity of efflux depends on [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. height of liquid",
+            "B. area of hole",
+            "C. density of liquid",
+            "D. atmospheric pressure"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$v = \\sqrt{2gh}$ depends only on the depth of the hole from the surface.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "For a vertical capillary, the angle of contact is zero. The force due to surface tension is [MHT-CET 2020]",
+        "question_latex": "For a vertical capillary, the angle of contact is zero. The force due to surface tension is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 2 pi r T",
+            "B. pi r T",
+            "C. 4 pi r T",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$F = T \\times \\text{circumference} = 2\\pi r T$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The excess pressure in a soap bubble of radius 2 cm is (T = 0.03 N/m) [MHT-CET 2024]",
+        "question_latex": "The excess pressure in a soap bubble of radius $2$ cm is ($T = 0.03~N/m$) [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 3 N/m^2",
+            "B. 6 N/m^2",
+            "C. 1.5 N/m^2",
+            "D. 12 N/m^2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$P = 4T/R = (4 \\times 0.03) / 0.02 = 6$ N/m^2.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Viscosity of a liquid [MHT-CET 2021]",
+        "question_latex": "Viscosity of a liquid [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. increases with temperature",
+            "B. decreases with temperature",
+            "C. is constant",
+            "D. is zero"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In liquids, viscosity is mainly due to cohesive forces which weaken as temperature rises.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Newton's formula for viscous force involves A which represents",
+        "question_latex": "Newton's formula for viscous force involves A which represents",
+        "question_images": [],
+        "options": [
+            "A. area of bottom layer only",
+            "B. The cross sectional area of the layer",
+            "C. area of top layer only",
+            "D. the area of the layer parallel to the direction of flow"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "In $F = \\eta A \\frac{dv}{dx}$, $A$ is the area of contact between the layers parallel to the direction of flow.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The potential energy of a molecule on the surface of a liquid compared to the molecules inside the liquid is [MHT-CET 2023]",
+        "question_latex": "The potential energy of a molecule on the surface of a liquid compared to the molecules inside the liquid is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. less",
+            "B. zero",
+            "C. large",
+            "D. same"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Surface molecules possess excess potential energy because work must be done against inward cohesive forces to bring them to the surface.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "The surface tension may be defined as the mechanical work required to create an additional unit area of the liquid under",
+        "question_latex": "The surface tension may be defined as the mechanical work required to create an additional unit area of the liquid under",
+        "question_images": [],
+        "options": [
+            "A. Isobaric conditions",
+            "B. Isothermal conditions",
+            "C. Adiabatic conditions",
+            "D. Isometric condition"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Surface energy is defined as the work done in increasing the surface area under isothermal conditions.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "A small ball of mass' M' radius' R' and density ' rho' moves with terminal velocity through a container filled with glycerine of density 'sigma'. The viscous force acting on the ball is ( g = gravitational acceleration.) [MHT-CET 2022]",
+        "question_latex": "A small ball of mass' $M'$ radius' $R'$ and density ' $\\rho'$ moves with terminal velocity through a container filled with glycerine of density '$\\sigma$'. The viscous force acting on the ball is ( $g=$ gravitational acceleration.) [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. V g (rho - sigma)",
+            "B. Mg",
+            "C. Mg rho / sigma",
+            "D. Mg [1 - sigma/rho]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "At terminal velocity, Net force $= 0 \\Rightarrow F_{v} + F_{b} = W \\Rightarrow F_{v} = W - F_{b} = V\\rho g - V\\sigma g = Vg(\\rho-\\sigma)$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Mechanical Properties of Fluids",
+        "question": "Work done in blowing a soap bubble from radius R to 2R is",
+        "question_latex": "Work done in blowing a soap bubble from radius $R$ to $2R$ is",
+        "question_images": [],
+        "options": [
+            "A. 24 pi R^2 T",
+            "B. 12 pi R^2 T",
+            "C. 8 pi R^2 T",
+            "D. 4 pi R^2 T"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$W = 2T [4\\pi(2R)^{2} - 4\\pi R^{2}] = 8\\pi T [4R^{2} - R^{2}] = 24\\pi R^{2}T$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    }
+]

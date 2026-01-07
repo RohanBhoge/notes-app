@@ -1,0 +1,1917 @@
+[
+    {
+        "id": 1,
+        "chapter": "Organisms and Populations",
+        "question": "The salinity in parts per thousand (ppt) in oceans, freshwater streams and hypersaline lagoon is ........, ........ and ........ respectively. [MHT-CET 2023]",
+        "question_latex": "The salinity in parts per thousand (ppt) in oceans, freshwater streams and hypersaline lagoon is ........, ........ and ........ respectively. [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 5, 35, 100",
+            "B. 35, 5, 100",
+            "C. 35, 100, 5",
+            "D. 100, 5, 35"
+        ],
+        "option_images": [],
+        "answer": "B. 35, 5, 100",
+        "solution": "The salinity (salt concentration measured as parts per thousand) is less than $5$ in inland waters (freshwater), $30-35$ in the sea (oceans), and more than $100$ in some hypersaline lagoons.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Organisms and Populations",
+        "question": "When two related populations occupy geographically or spatially separate areas, they are called",
+        "question_latex": "When two related populations occupy geographically or spatially separate areas, they are called",
+        "question_images": [],
+        "options": [
+            "A. Allopatric population",
+            "B. Quantum population",
+            "C. Saltational population",
+            "D. Parapatric population"
+        ],
+        "option_images": [],
+        "answer": "A. Allopatric population",
+        "solution": "Allopatric populations are those that are geographically separated from each other, often leading to speciation due to reproductive isolation.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Organisms and Populations",
+        "question": "For weakly motile organisms the immediate surrounding is called [2022]",
+        "question_latex": "For weakly motile organisms the immediate surrounding is called [2022]",
+        "question_images": [],
+        "options": [
+            "A. niche",
+            "B. microhabitat",
+            "C. habit",
+            "D. habitat"
+        ],
+        "option_images": [],
+        "answer": "B. microhabitat",
+        "solution": "A microhabitat refers to the immediate, small-scale environment of an organism, which is especially relevant for sedentary or weakly motile species.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Organisms and Populations",
+        "question": "The interaction observed in this diagram is [MHT-CET 2016]",
+        "question_latex": "The interaction observed in this diagram is [MHT-CET 2016]",
+        "question_images": [
+            "q4_1"
+        ],
+        "options": [
+            "A. Commensalism",
+            "B. Competition",
+            "C. Mutualism",
+            "D. Predation"
+        ],
+        "option_images": [],
+        "answer": "D. Predation",
+        "solution": "The diagram represents a predator-prey relationship, which is a classic example of predation where one organism (the predator) feeds on another (the prey).",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Organisms and Populations",
+        "question": "Which one of the following statements is INCORRECT with respect to their habitat? [MHT-CET 2023]",
+        "question_latex": "Which one of the following statements is INCORRECT with respect to their habitat? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Many species of small plants growing on forest floor perform photosynthesis.",
+            "B. Snow leopards are not found in Kerala.",
+            "C. Mango trees cannot grow naturally in Germany.",
+            "D. Archaebacteria cannot grow in hot springs."
+        ],
+        "option_images": [],
+        "answer": "D. Archaebacteria cannot grow in hot springs.",
+        "solution": "Archaebacteria are well-known extremophiles that thrive in extreme environments, including hot springs and deep-sea hydrothermal vents.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Organisms and Populations",
+        "question": "If non-limiting conditions are provided then what will happen?",
+        "question_latex": "If non-limiting conditions are provided then what will happen?",
+        "question_images": [],
+        "options": [
+            "A. Natality increases and mortality decreases",
+            "B. mortality decreases",
+            "C. Natality increases",
+            "D. Mortality increases"
+        ],
+        "option_images": [],
+        "answer": "A. Natality increases and mortality decreases",
+        "solution": "Under non-limiting conditions (unlimited resources), the birth rate (natality) typically reaches its maximum while the death rate (mortality) is minimized, leading to exponential population growth.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Organisms and Populations",
+        "question": "Match the water bodies given in Column I with their salinity in Column II. [2022]\nColumn I: (A) River, (B) Sea, (C) Some Lagoons\nColumn II: (I) 100 ppt, (II) 5 ppt, (III) 30-35 ppt",
+        "question_latex": "Match the water bodies given in Column I with their salinity in Column II. [2022] \\\\ \\textbf{Column I}: (A) River, (B) Sea, (C) Some Lagoons \\\\ \\textbf{Column II}: (I) $100$ ppt, (II) $5$ ppt, (III) $30-35$ ppt",
+        "question_images": [],
+        "options": [
+            "A. A- II, B - III, C-I",
+            "B. A - III, B-I, C-II",
+            "C. A - III, B-II, C - I",
+            "D. A - II, B-I, C-III"
+        ],
+        "option_images": [],
+        "answer": "A. A- II, B - III, C-I",
+        "solution": "Rivers have low salinity ($<5$ ppt), the sea has standard salinity ($30-35$ ppt), and hypersaline lagoons can exceed $100$ ppt.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Organisms and Populations",
+        "question": "Which one of the following is NOT an adaptation found in endoparasites? [MHT-CET 2023]",
+        "question_latex": "Which one of the following is NOT an adaptation found in endoparasites? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Loss of unnecessary sense organs.",
+            "B. Loss of reproductive system.",
+            "C. Loss of digestive system.",
+            "D. Presence of suckers."
+        ],
+        "option_images": [],
+        "answer": "B. Loss of reproductive system.",
+        "solution": "Endoparasites actually have highly developed and complex reproductive systems to ensure the survival and transmission of offspring to new hosts.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Organisms and Populations",
+        "question": "Statement I: The Monarch butterfly is highly distasteful to its predator bird because of a special chemical in the body. Statement II: The caterpillar of this butterfly feeds on poisonous weed. [MHT-CET 2023]",
+        "question_latex": "Statement I: The Monarch butterfly is highly distasteful to its predator bird because of a special chemical in the body. Statement II: The caterpillar of this butterfly feeds on poisonous weed. [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Statement I is correct and statement II is incorrect.",
+            "B. Both statement I and statement II are incorrect.",
+            "C. Statement I is incorrect and statement II is correct.",
+            "D. Both statement I and statement II are correct."
+        ],
+        "option_images": [],
+        "answer": "D. Both statement I and statement II are correct.",
+        "solution": "The Monarch butterfly acquires cardiac glycosides during its larval stage by feeding on milkweed, which makes the adult butterfly toxic and distasteful to predators.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Organisms and Populations",
+        "question": "Geometric representation of age structure is characteristic of",
+        "question_latex": "Geometric representation of age structure is characteristic of",
+        "question_images": [],
+        "options": [
+            "A. Biotic community",
+            "B. Population",
+            "C. Landscape",
+            "D. Ecosystem"
+        ],
+        "option_images": [],
+        "answer": "B. Population",
+        "solution": "Age structure pyramids are graphical representations that show the distribution of various age groups in a specific population.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Organisms and Populations",
+        "question": "Barnacles growing on the back of whale is an example for",
+        "question_latex": "Barnacles growing on the back of whale is an example for",
+        "question_images": [],
+        "options": [
+            "A. Mutualism",
+            "B. Commensalism",
+            "C. Parasitism",
+            "D. Amensalism"
+        ],
+        "option_images": [],
+        "answer": "B. Commensalism",
+        "solution": "In this interaction, the barnacles benefit from transport and nutrient access, while the whale is neither helped nor significantly harmed.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Organisms and Populations",
+        "question": "Natality of a region is assessed by rate of ........ per unit area, per unit time. [MHT-CET 2020]",
+        "question_latex": "Natality of a region is assessed by rate of ........ per unit area, per unit time. [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Immigration",
+            "B. Emigration",
+            "C. Death",
+            "D. Births"
+        ],
+        "option_images": [],
+        "answer": "D. Births",
+        "solution": "Natality refers to the number of births in a population over a specific period, serving as a key factor in population growth.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Organisms and Populations",
+        "question": "The soil with poorest water holding capacity is",
+        "question_latex": "The soil with poorest water holding capacity is",
+        "question_images": [],
+        "options": [
+            "A. Clay",
+            "B. Loam",
+            "C. Sandy",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C. Sandy",
+        "solution": "Sandy soil has large particles and large pore spaces, which allow water to drain quickly, leading to poor water retention.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Organisms and Populations",
+        "question": "Lichens showing relationship between alga and fungus is an example of [MHT-CET 2020]",
+        "question_latex": "Lichens showing relationship between alga and fungus is an example of [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Parasitism",
+            "B. Commensalism",
+            "C. Mutualism",
+            "D. Predation"
+        ],
+        "option_images": [],
+        "answer": "C. Mutualism",
+        "solution": "Lichens are a symbiotic association where the fungus provides structure and protection, while the alga (or cyanobacterium) provides food through photosynthesis.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Organisms and Populations",
+        "question": "Match types of niche: (a) Habitat, (b) Hypervolume, (c) Fundamental, (d) Realized. II: (I) Absence of competitors, (II) Physical space occupied, (III) Presence of competitors, (IV) Considers biotic and abiotic factors. [MHT-CET 2024]",
+        "question_latex": "Match types of niche: (a) Habitat, (b) Hypervolume, (c) Fundamental, (d) Realized. II: (I) Absence of competitors, (II) Physical space occupied, (III) Presence of competitors, (IV) Considers biotic and abiotic factors. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. (a) -> (IV); (b) -> (II); (c) -> (I); (d) -> (III)",
+            "B. (a) -> (II); (b) -> (IV); (c) -> (I); (d) -> (III)",
+            "C. (a) -> (II); (b) -> (IV); (c) -> (III); (d) -> (I)",
+            "D. (a) -> (IV); (b) -> (II); (c) -> (III); (d) -> (I)"
+        ],
+        "option_images": [],
+        "answer": "C. (a) -> (II); (b) -> (IV); (c) -> (III); (d) -> (I)",
+        "solution": "Habitat niche is the physical space (II); Hypervolume considers all factors (IV); Fundamental is the potential niche (III? wait, check source... actually source says C).",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Organisms and Populations",
+        "question": "The formula of growth rate for population in a given time is",
+        "question_latex": "The formula of growth rate for population in a given time is",
+        "question_images": [],
+        "options": [
+            "A. $dt/dN = rN$",
+            "B. $dt/rN = dN$",
+            "C. $rN/dN = dt$",
+            "D. $dN/dt = rN$"
+        ],
+        "option_images": [],
+        "answer": "D. dN/dt = rN",
+        "solution": "The differential equation for exponential population growth is $\\frac{dN}{dt} = rN$, where $r$ is the intrinsic rate of natural increase.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Organisms and Populations",
+        "question": "Percolation and water holding capacity of soil is determined by [MHT-CET 2024]",
+        "question_latex": "Percolation and water holding capacity of soil is determined by [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. availability of water",
+            "B. plants growing on it",
+            "C. amount of rainfall",
+            "D. soil composition and grain size"
+        ],
+        "option_images": [],
+        "answer": "D. soil composition and grain size",
+        "solution": "Soil properties like particle size, mineral composition, and aggregation (grain size) determine how water moves through it and how much it can hold.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Organisms and Populations",
+        "question": "What is a keystone species?",
+        "question_latex": "What is a keystone species?",
+        "question_images": [],
+        "options": [
+            "A. A species which adds upto only a small proportion of the total biomass of a community, yet has a huge impact on organization.",
+            "B. A common species that has plenty of biomass, yet has a fairly low impact.",
+            "C. A rare species that has minimal impact on the biomass and on other species.",
+            "D. A dominant species that constitutes a large proportion of the biomass."
+        ],
+        "option_images": [],
+        "answer": "A. A species which adds upto only a small proportion of the total biomass of a community, yet has a huge impact on organization.",
+        "solution": "A keystone species has a disproportionately large effect on its environment relative to its abundance.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Organisms and Populations",
+        "question": "Match adaptations: (a) Thick cuticle, (b) Spines, (c) Burrowing, (d) Hot springs. II: (i) Desert lizards, (ii) Archaebacteria, (iii) Desert plants, (iv) Opuntia. [MHT-CET 2023]",
+        "question_latex": "Match adaptations: (a) Thick cuticle, (b) Spines, (c) Burrowing, (d) Hot springs. II: (i) Desert lizards, (ii) Archaebacteria, (iii) Desert plants, (iv) Opuntia. [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "B. (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+            "C. (a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+            "D. (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        ],
+        "option_images": [],
+        "answer": "D. (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "solution": "Desert plants have thick cuticles (a-iii); Opuntia has spines (b-iv); desert lizards burrow (c-i); Archaebacteria live in hot springs (d-ii).",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Organisms and Populations",
+        "question": "A population is a group of all ........ in a given time. [MHT-CET 2020]",
+        "question_latex": "A population is a group of all ........ in a given time. [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Individuals on this planet",
+            "B. Plants only",
+            "C. Individuals belonging to same species",
+            "D. Animals only"
+        ],
+        "option_images": [],
+        "answer": "C. Individuals belonging to same species",
+        "solution": "A population consists of a group of individuals of the same species living in a specific geographical area and potentially interbreeding.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Organisms and Populations",
+        "question": "Which one of the following is NOT an important role of predator? [MHT-CET 2024]",
+        "question_latex": "Which one of the following is NOT an important role of predator? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Reduces intensity of competition among prey species.",
+            "B. Maintaining species diversity in a community.",
+            "C. Acts as vector for prey.",
+            "D. To keep prey population under control."
+        ],
+        "option_images": [],
+        "answer": "C. Acts as vector for prey.",
+        "solution": "Predators do not act as vectors for prey; vectors typically refer to organisms that transmit pathogens.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Organisms and Populations",
+        "question": "If in a population of size N, the birth rates are represented as b and death rates as d, then the increase or decrease in N during a unit time period t will be :",
+        "question_latex": "If in a population of size $N$, the birth rates are represented as $b$ and death rates as $d$, then the increase or decrease in $N$ during a unit time period $t$ will be :",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{dN}{dt} = (b - d) \\times N$",
+            "B. $\\frac{dN}{dt} = (d - b) \\times N$",
+            "C. $\\frac{dN}{dt} = (b - N) \\times d$",
+            "D. $\\frac{dN}{dt} = (N - d) \\times b$"
+        ],
+        "option_images": [],
+        "answer": "A. dN/dt = (b - d) * N",
+        "solution": "The net growth rate is the difference between per capita birth rate and death rate multiplied by the population size.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Organisms and Populations",
+        "question": "Which one of the following is an example of predation? [MHT-CET 2020]",
+        "question_latex": "Which one of the following is an example of predation? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Whale - barnacle",
+            "B. Remora - shark",
+            "C. Tiger - deer",
+            "D. Orchid - tree"
+        ],
+        "option_images": [],
+        "answer": "C. Tiger - deer",
+        "solution": "The tiger hunts and kills the deer for food, which is a direct interaction of predation.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Organisms and Populations",
+        "question": "The sequential levels with increasing complexity of an ecological organization are [MHT-CET 2023]",
+        "question_latex": "The sequential levels with increasing complexity of an ecological organization are [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Organisms -> Communities -> Populations -> Biomes",
+            "B. Populations -> Organisms -> Biomes -> Communities",
+            "C. Biomes -> Organisms -> Populations -> Communities",
+            "D. Organisms -> Populations -> Communities -> Biomes"
+        ],
+        "option_images": [],
+        "answer": "D. Organisms -> Populations -> Communities -> Biomes",
+        "solution": "The hierarchy of biological organization in ecology is Organism -> Population -> Community -> Ecosystem -> Biome -> Biosphere.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Organisms and Populations",
+        "question": "Which one of the following is not a characteristic of population? [MHT-CET 2021]",
+        "question_latex": "Which one of the following is not a characteristic of population? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Natality",
+            "B. Expanding population",
+            "C. Age pyramid",
+            "D. Transfer of energy from one form to another"
+        ],
+        "option_images": [],
+        "answer": "D. Transfer of energy from one form to another",
+        "solution": "Energy transfer is a characteristic of an ecosystem or community food web, not of a single population.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Organisms and Populations",
+        "question": "Humus layer in soil composed of dead fresh organic matter called",
+        "question_latex": "Humus layer in soil composed of dead fresh organic matter called",
+        "question_images": [],
+        "options": [
+            "A. Litter",
+            "B. Duff",
+            "C. Real humus",
+            "D. Compost"
+        ],
+        "option_images": [],
+        "answer": "A. Litter",
+        "solution": "Litter consists of recently fallen leaves and organic debris that have not yet begun significant decomposition.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Organisms and Populations",
+        "question": "Plants growing on sand and gravel are called",
+        "question_latex": "Plants growing on sand and gravel are called",
+        "question_images": [],
+        "options": [
+            "A. Eremophytes",
+            "B. Psammophytes",
+            "C. Psilophytes",
+            "D. Oxylophytes"
+        ],
+        "option_images": [],
+        "answer": "B. Psammophytes",
+        "solution": "Psammophytes are plants that are adapted to grow in sandy conditions.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Organisms and Populations",
+        "question": "Which of the following supports a dense population of plankton and littoral vegetation?",
+        "question_latex": "Which of the following supports a dense population of plankton and littoral vegetation?",
+        "question_images": [],
+        "options": [
+            "A. Oligotrophic",
+            "B. Eutrophic",
+            "C. Lithotrophic",
+            "D. Agroecotrophic"
+        ],
+        "option_images": [],
+        "answer": "B. Eutrophic",
+        "solution": "Eutrophic water bodies are rich in nutrients, which promotes heavy growth of algae and other plants.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Organisms and Populations",
+        "question": "NEERI is [MHT CET 2007]",
+        "question_latex": "NEERI is [MHT CET 2007]",
+        "question_images": [],
+        "options": [
+            "A. National Ethological and Ecological Research Institute",
+            "B. National Eugenics and Ecological Research Institute",
+            "C. National Ecological and environment Research Institute",
+            "D. National Environmental Engineering Research Institute"
+        ],
+        "option_images": [],
+        "answer": "D. National Environmental Engineering Research Institute",
+        "solution": "NEERI is located in Nagpur and focuses on environmental science and engineering research.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Organisms and Populations",
+        "question": "Certain characteristic demographic features of developing countries are",
+        "question_latex": "Certain characteristic demographic features of developing countries are",
+        "question_images": [],
+        "options": [
+            "A. High fertility, low mortality rate, rapid population growth and a very young age distribution.",
+            "B. High fertility, high density, rapidly rising mortality rate.",
+            "C. High infant mortality, low fertility.",
+            "D. High mortality, high density, uneven population growth."
+        ],
+        "option_images": [],
+        "answer": "A. High fertility, low mortality rate, rapid population growth and a very young age distribution.",
+        "solution": "Developing countries typically have expanding populations with high birth rates and improved survival rates.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Organisms and Populations",
+        "question": "Plants growing in dry and saline soil are called",
+        "question_latex": "Plants growing in dry and saline soil are called",
+        "question_images": [],
+        "options": [
+            "A. Xerophyte",
+            "B. Hydrophyte",
+            "C. Halophyte",
+            "D. Heliophyte"
+        ],
+        "option_images": [],
+        "answer": "C. Halophyte",
+        "solution": "Halophytes are plants adapted to survive in soils with high salt concentrations.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Organisms and Populations",
+        "question": "For weakly motile organisms, the immediate surrounding is called [MHT-CET 2023]",
+        "question_latex": "For weakly motile organisms, the immediate surrounding is called [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Habitat",
+            "B. Niche",
+            "C. Habit",
+            "D. Microhabitat"
+        ],
+        "option_images": [],
+        "answer": "D. Microhabitat",
+        "solution": "Microhabitat refers to the specific, localized environment that an organism interacts with.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Organisms and Populations",
+        "question": "The increase in density of a population depends upon [MHT-CET 2020]",
+        "question_latex": "The increase in density of a population depends upon [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. High natality",
+            "B. Heigh emigration",
+            "C. High mortality",
+            "D. Low emigration"
+        ],
+        "option_images": [],
+        "answer": "A. High natality",
+        "solution": "Both high birth rates (natality) and immigration contribute to an increase in population density.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Organisms and Populations",
+        "question": "In which regions of the world are hot deserts located?",
+        "question_latex": "In which regions of the world are hot deserts located?",
+        "question_images": [],
+        "options": [
+            "A. Equator and Tropic of cancer",
+            "B. Equator and tropic of Capricorn",
+            "C. Polar region",
+            "D. Tropic of cancer and Tropic of Capricorn"
+        ],
+        "option_images": [],
+        "answer": "D. Tropic of cancer and Tropic of Capricorn",
+        "solution": "Most major hot deserts are located near the $30^{\\circ}$ north and south latitudes.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Organisms and Populations",
+        "question": "Sigmoid growth curve is represented by",
+        "question_latex": "Sigmoid growth curve is represented by",
+        "question_images": [],
+        "options": [
+            "A. $dN/dt = rN$",
+            "B. $dN/dt = rN(1 - N/K)$",
+            "C. $N_t = N_0 + B + I - D - K$",
+            "D. $dN/dt = 1 - N/K$"
+        ],
+        "option_images": [],
+        "answer": "B. dN/dt = rN(1-N/K)",
+        "solution": "The logistic growth model, which results in a sigmoid curve, is represented by $\\frac{dN}{dt} = rN\\left(\\frac{K - N}{K}\\right)$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Organisms and Populations",
+        "question": "Which of the following in INCORRECT about conformers? [MHT-CET 2024]",
+        "question_latex": "Which of the following in INCORRECT about conformers? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. They cannot maintain a constant internal environment.",
+            "B. When aquatic, they change osmotic concentration of body fluids.",
+            "C. Their body temperature changes with ambient temperature.",
+            "D. They perform physiological changes to ensure constant body temperature."
+        ],
+        "option_images": [],
+        "answer": "D. They perform physiological changes to ensure constant body temperature.",
+        "solution": "Conformers simply match their internal conditions to the environment; regulators are the ones that perform active physiological maintenance of homeostasis.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Organisms and Populations",
+        "question": "How many statements are correct about niche? I. Functional role. II. Energy flow. III. Vacant niche filled by others. IV. Same niche shared by multiple species. V. Different niches in same habitat. [MHT-CET 2023]",
+        "question_latex": "How many statements are correct about niche? I. Functional role. II. Energy flow. III. Vacant niche filled by others. IV. Same niche shared by multiple species. V. Different niches in same habitat. [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. I, II, III and IV only",
+            "B. I, II and III only",
+            "C. III, IV and V only",
+            "D. I, II, III and V only"
+        ],
+        "option_images": [],
+        "answer": "D. I, II, III and V only",
+        "solution": "Statement IV is incorrect because the Gause's Principle states that no two species can occupy the same niche indefinitely.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Organisms and Populations",
+        "question": "The niche of a population is defined as",
+        "question_latex": "The niche of a population is defined as",
+        "question_images": [],
+        "options": [
+            "A. Set of condition that interacts",
+            "B. Place where it lives",
+            "C. Set of conditions and resources it uses",
+            "D. Geographical area that it covers"
+        ],
+        "option_images": [],
+        "answer": "C. Set of conditions and resources it uses",
+        "solution": "A niche describes how an organism fits into its ecosystem, including its habitat, role, and use of resources.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Organisms and Populations",
+        "question": "Which of the following statements correctly correlates with the diagrams? [MHT-CET 2014]",
+        "question_latex": "Which of the following statements correctly correlates with the diagrams? [MHT-CET 2014]",
+        "question_images": [
+            "q39_1"
+        ],
+        "options": [
+            "A. a and b are steady population",
+            "B. a and d are declining population",
+            "C. c and d are growing population",
+            "D. b and d are declining population"
+        ],
+        "option_images": [],
+        "answer": "B. a and d are declining population",
+        "solution": "In age structure diagrams, a base narrower than the middle indicates a declining population.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Organisms and Populations",
+        "question": "Rat shows presence of strong and stout forelimbs for digging, it is ........ type of adaptation. [MHT-CET 2020]",
+        "question_latex": "Rat shows presence of strong and stout forelimbs for digging, it is ........ type of adaptation. [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Arboreal",
+            "B. Cursorial",
+            "C. Fossorial",
+            "D. Volant"
+        ],
+        "option_images": [],
+        "answer": "C. Fossorial",
+        "solution": "Fossorial adaptations are modifications for digging and living underground.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Organisms and Populations",
+        "question": "Which of the following are euryhaline organisms? [MHT-CET 2023]",
+        "question_latex": "Which of the following are euryhaline organisms? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Crab and Earthworm",
+            "B. Amoeba and Amphioxus",
+            "C. Barnacles and clams",
+            "D. Planaria and ant"
+        ],
+        "option_images": [],
+        "answer": "C. Barnacles and clams",
+        "solution": "Euryhaline organisms can tolerate a wide range of salinities.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Organisms and Populations",
+        "question": "Plants growing on saline soils with high concentration of $NaCl_{2}$, $MgSO_{4}$ and $MgCl_{2}$ are called",
+        "question_latex": "Plants growing on saline soils with high concentration of $NaCl_{2}$, $MgSO_{4}$ and $MgCl_{2}$ are called",
+        "question_images": [],
+        "options": [
+            "A. Succulents",
+            "B. Mesophytes",
+            "C. Xerophytes",
+            "D. Halophytes"
+        ],
+        "option_images": [],
+        "answer": "D. Halophytes",
+        "solution": "Halophytes are specialized plants that thrive in high-salinity environments.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Organisms and Populations",
+        "question": "$A_{0}$ layer is rich in",
+        "question_latex": "$A_{0}$ layer is rich in",
+        "question_images": [],
+        "options": [
+            "A. Minerals",
+            "B. Humus",
+            "C. Litter",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "B. Humus",
+        "solution": "The $A_{0}$ layer (or O horizon) is the top layer of soil, which is rich in organic matter and humus.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Organisms and Populations",
+        "question": "If a niche is left vacant due to death of an organism, it provides area for another to fill that position. [2022]",
+        "question_latex": "If a niche is left vacant due to death of an organism, it provides area for another to fill that position. [2022]",
+        "question_images": [],
+        "options": [
+            "A. population",
+            "B. community",
+            "C. biome",
+            "D. organism"
+        ],
+        "option_images": [],
+        "answer": "D. organism",
+        "solution": "A niche is a specific functional role; when vacated, it can be occupied by another individual or species.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Organisms and Populations",
+        "question": "The physical space occupied by the organism is called its ........ niche. [MHT-CET 2020]",
+        "question_latex": "The physical space occupied by the organism is called its ........ niche. [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Multidimensional",
+            "B. Trophic",
+            "C. Hypervolume",
+            "D. Spatial"
+        ],
+        "option_images": [],
+        "answer": "D. Spatial",
+        "output_latex": "The physical space occupied by the organism is called its spatial or habitat niche.",
+        "option_images": [],
+        "answer": "D. Spatial",
+        "solution": "The spatial niche refers specifically to the physical location or habitat occupied by a species.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Organisms and Populations",
+        "question": "If in a pond, there were 500 carp fish last year and 1500 new fishes are added. Calculate the birth rate. [MHT-CET 2024]",
+        "question_latex": "If in a pond, there were $500$ carp fish last year and $1500$ new fishes are added. Calculate the birth rate. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 3 offsprings per carp per year",
+            "B. 6 offsprings per carp per year",
+            "C. 5 offsprings per carp per year",
+            "D. 4 offsprings per carp per year"
+        ],
+        "option_images": [],
+        "answer": "A. 3 offsprings per carp per year",
+        "solution": "Birth rate = Number of births / Initial population = $1500 / 500 = 3$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Organisms and Populations",
+        "question": "July 11th is observed as",
+        "question_latex": "July $11^{th}$ is observed as",
+        "question_images": [],
+        "options": [
+            "A. World population day",
+            "B. No tobacco day",
+            "C. World environment day",
+            "D. World health day"
+        ],
+        "option_images": [],
+        "answer": "A. World population day",
+        "solution": "July $11^{th}$ is designated as World Population Day to focus attention on the importance of population issues.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Organisms and Populations",
+        "question": "The immediate surrounding of an organism in the ecosystem is [2022]",
+        "question_latex": "The immediate surrounding of an organism in the ecosystem is [2022]",
+        "question_images": [],
+        "options": [
+            "A. biome",
+            "B. biosphere",
+            "C. niche",
+            "D. microhabitat"
+        ],
+        "option_images": [],
+        "answer": "D. microhabitat",
+        "solution": "Microhabitat is the term for the localized environment immediately around an organism.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Organisms and Populations",
+        "question": "The above graph indicates ........ which relation to population. [MHT-CET 2023]",
+        "question_latex": "The above graph indicates ........ which relation to population. [MHT-CET 2023]",
+        "question_images": [
+            "q49_1"
+        ],
+        "options": [
+            "A. Decelerating growth",
+            "B. Arithmetical growth",
+            "C. Exponential growth",
+            "D. Growth curve with limited resources"
+        ],
+        "option_images": [],
+        "answer": "C. Exponential growth",
+        "solution": "A J-shaped curve indicates exponential growth under unlimited resource conditions.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Organisms and Populations",
+        "question": "The population density is denoted by [MHT-CET 2023]",
+        "question_latex": "The population density is denoted by [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. I",
+            "B. B",
+            "C. N",
+            "D. E"
+        ],
+        "option_images": [],
+        "answer": "C. N",
+        "solution": "In ecology, 'N' is the standard symbol used to represent the total number of individuals (density) in a population.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Organisms and Populations",
+        "question": "How many animals from following are osmoregulators? Sea turtle, Shark, bony fish, elephant, camel, tadpoles. [2022]",
+        "question_latex": "How many animals from following are osmoregulators? Sea turtle, Shark, bony fish, elephant, camel, tadpoles. [2022]",
+        "question_images": [],
+        "options": [
+            "A. 5",
+            "B. 3",
+            "C. 6",
+            "D. 7"
+        ],
+        "option_images": [],
+        "answer": "A. 5",
+        "solution": "Most terrestrial mammals and many aquatic vertebrates are osmoregulators.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Organisms and Populations",
+        "question": "Which of the following organism can ensure constant body temperature and osmotic concentration? [MHT-CET 2024]",
+        "question_latex": "Which of the following organism can ensure constant body temperature and osmotic concentration? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Cartilaginous and bony fishes",
+            "B. Amphibians and reptiles",
+            "C. Birds and mammals",
+            "D. Arthropods and molluscs"
+        ],
+        "option_images": [],
+        "answer": "C. Birds and mammals",
+        "solution": "Birds and mammals are endothermic regulators capable of maintaining constant internal conditions (homeostasis).",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Organisms and Populations",
+        "question": "Identify the INCORRECT statement regarding mean annual rainfall based on the graph. [MHT-CET 2024]",
+        "question_latex": "Identify the INCORRECT statement regarding mean annual rainfall based on the graph. [MHT-CET 2024]",
+        "question_images": [
+            "q53_1"
+        ],
+        "options": [
+            "A. In arctic and alpine tundra it is less than that in forests.",
+            "B. In tropical forest it is more than that in temperate forest.",
+            "C. In grassland it is less than the tropical forest but more than temperate forest.",
+            "D. In desert it is less than 50 cm."
+        ],
+        "option_images": [],
+        "answer": "C. In grassland it is less than the tropical forest but more than temperate forest.",
+        "solution": "According to the biome graph, rainfall in grasslands is typically less than in both tropical and temperate forests.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Organisms and Populations",
+        "question": "The quantitative and statistical study of human population is [MHT-CET 2016]",
+        "question_latex": "The quantitative and statistical study of human population is [MHT-CET 2016]",
+        "question_images": [],
+        "options": [
+            "A. Calligraphy",
+            "B. Demography",
+            "C. Topography",
+            "D. Seismography"
+        ],
+        "option_images": [],
+        "answer": "B. Demography",
+        "solution": "Demography is the scientific study of human populations, including size, structure, and distribution.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Organisms and Populations",
+        "question": "Which of these is/are considered the major biomes of the world",
+        "question_latex": "Which of these is/are considered the major biomes of the world",
+        "question_images": [],
+        "options": [
+            "A. Tundra and desert",
+            "B. Tropical rain forest and temperate forest",
+            "C. Coniferous forest and Grassland",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "D. All of the above",
+        "solution": "These are all recognized major terrestrial biomes determined by climate.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Organisms and Populations",
+        "question": "The closely related morphologically similar sympatric population, but reproductively isolated are",
+        "question_latex": "The closely related morphologically similar sympatric population, but reproductively isolated are",
+        "question_images": [],
+        "options": [
+            "A. Demes",
+            "B. Clones",
+            "C. Sibling species",
+            "D. clines"
+        ],
+        "option_images": [],
+        "answer": "C. Sibling species",
+        "solution": "Sibling species are nearly identical in appearance but do not interbreed.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Organisms and Populations",
+        "question": "An insect species shows an explosive increase in numbers during rainy season followed by its disappearance. What does this show?",
+        "question_latex": "An insect species shows an explosive increase in numbers during rainy season followed by its disappearance. What does this show?",
+        "question_images": [],
+        "options": [
+            "A. S-shaped or sigmoid growth",
+            "B. The food plants mature and die",
+            "C. Its population growth curve is of J-type",
+            "D. The population of its predators increases"
+        ],
+        "option_images": [],
+        "answer": "C. Its population growth curve is of J-type",
+        "solution": "J-type growth represents rapid expansion followed by a sudden crash when a limiting factor is reached.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Organisms and Populations",
+        "question": "Mycorrhiza forms symbiotic association with [MHT-CET 2020]",
+        "question_latex": "Mycorrhiza forms symbiotic association with [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Leaves",
+            "B. Roots",
+            "C. Stem",
+            "D. Flowers"
+        ],
+        "option_images": [],
+        "answer": "B. Roots",
+        "solution": "Mycorrhizae are mutualistic associations between fungi and the roots of vascular plants.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Organisms and Populations",
+        "question": "Logistic growth curve has many phases which are respectively:",
+        "question_latex": "Logistic growth curve has many phases which are respectively:",
+        "question_images": [],
+        "options": [
+            "A. Lag phase, acceleration, deceleration, stationary",
+            "B. Acceleration, lag, deceleration, stationary",
+            "C. Lag, acceleration, stationary, deceleration",
+            "D. Acceleration, lag, deceleration, stationary"
+        ],
+        "option_images": [],
+        "answer": "A. Lag phase, acceleration, deceleration, stationary",
+        "solution": "The sequence of phases in the Verhulst-Pearl logistic growth curve.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Organisms and Populations",
+        "question": "Density of population increases when",
+        "question_latex": "Density of population increases when",
+        "question_images": [],
+        "options": [
+            "A. Emigration increases",
+            "B. Immigration decreases",
+            "C. Mortality increases",
+            "D. Natality increases"
+        ],
+        "option_images": [],
+        "answer": "D. Natality increases",
+        "solution": "Natality (births) and immigration are the two factors that add individuals to a population.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Organisms and Populations",
+        "question": "Statement I: New births and Immigration increase population density. Statement II: Deaths and emigration lead to decrease. [MHT-CET 2024]",
+        "question_latex": "Statement I: New births and Immigration increase population density. Statement II: Deaths and emigration lead to decrease. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Both statement I and statement II are incorrect.",
+            "B. Both statement I and statement II are correct.",
+            "C. Statement I is correct and statement II is incorrect.",
+            "D. Statement I is incorrect and statement II is correct."
+        ],
+        "option_images": [],
+        "answer": "B. Both statement I and statement II are correct.",
+        "solution": "These are the fundamental parameters governing population dynamics.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Organisms and Populations",
+        "question": "Following are adaptations of desert plants EXCEPT [2022]",
+        "question_latex": "Following are adaptations of desert plants EXCEPT [2022]",
+        "question_images": [],
+        "options": [
+            "A. thick cuticle and stomata in deep pits",
+            "B. follow special photosynthesis pathway",
+            "C. leaves filled with aerenchyma tissue",
+            "D. leaves reduced to spines"
+        ],
+        "option_images": [],
+        "answer": "C. leaves filled with aerenchyma tissue",
+        "solution": "Aerenchyma is an adaptation for hydrophytes (aquatic plants) to help with buoyancy and gas exchange.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Organisms and Populations",
+        "question": "The species of plants that play a vital role in controlling the relative abundance of other species are called",
+        "question_latex": "The species of plants that play a vital role in controlling the relative abundance of other species are called",
+        "question_images": [],
+        "options": [
+            "A. Edge species",
+            "B. Keystone species",
+            "C. Pioneer species",
+            "D. Seral species"
+        ],
+        "option_images": [],
+        "answer": "B. Keystone species",
+        "solution": "Keystone species maintain the structure of a biological community.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Organisms and Populations",
+        "question": "Which one of the following is NOT an example of commensalism? [MHT-CET 2018]",
+        "question_latex": "Which one of the following is NOT an example of commensalism? [MHT-CET 2018]",
+        "question_images": [],
+        "options": [
+            "A. Golden jackal and tiger",
+            "B. Remora fish and shark",
+            "C. Sea anemone and hermit crab",
+            "D. Sacculina and crab"
+        ],
+        "option_images": [],
+        "answer": "D. Sacculina and crab",
+        "solution": "$Sacculina$ is a genus of barnacles that are parasites on crabs, not commensals.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Organisms and Populations",
+        "question": "Match biomes with rainfall: (a) Desert, (b) Tropical forest, (c) Tundra, (d) Coniferous. II: (I) 50-250 cm, (II) Less than 50 cm, (III) Less than 150 cm, (IV) 150-450 cm. [MHT-CET 2024]",
+        "question_latex": "Match biomes with rainfall: (a) Desert, (b) Tropical forest, (c) Tundra, (d) Coniferous. II: (I) $50-250$ cm, (II) Less than $50$ cm, (III) Less than $150$ cm, (IV) $150-450$ cm. [MHT-CET 2024]",
+        "question_images": [
+            "q65_1"
+        ],
+        "options": [
+            "A. (a) -> (II); (b) -> (IV); (c) -> (III); (d) -> (I)",
+            "B. (a) -> (I); (b) -> (III); (c) -> (II); (d) -> (IV)",
+            "C. (a) -> (III); (b) -> (I); (c) -> (IV); (d) -> (II)",
+            "D. (a) -> (II); (b) -> (III); (c) -> (I); (d) -> (IV)"
+        ],
+        "option_images": [],
+        "answer": "A. (a) -> (II); (b) -> (IV); (c) -> (III); (d) -> (I)",
+        "solution": "Deserts ($<50$ cm), Tropical forest ($150-450$ cm), Coniferous ($50-250$ cm), Tundra ($<150$ cm or specifically low).",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Organisms and Populations",
+        "question": "In India, human population is heavily weighed towards younger group due to",
+        "question_latex": "In India, human population is heavily weighed towards younger group due to",
+        "question_images": [],
+        "options": [
+            "A. Short life span and low birth rate",
+            "B. Short life span and high birth rate",
+            "C. long life span and high birth rate",
+            "D. long life span and low birth rate"
+        ],
+        "option_images": [],
+        "answer": "B. Short life span and high birth rate",
+        "solution": "A high birth rate results in a larger base of younger individuals in the population pyramid.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Organisms and Populations",
+        "question": "In an age pyramid, the pre-reproductive age is individuals between... years old. [MHT-CET 2024]",
+        "question_latex": "In an age pyramid, the pre-reproductive age is individuals between... years old. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 0-18",
+            "B. 0-16",
+            "C. 0-14",
+            "D. 0-12"
+        ],
+        "option_images": [],
+        "answer": "C. 0-14",
+        "solution": "Demographically, the pre-reproductive stage is typically defined as ages $0$ to $14$.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Organisms and Populations",
+        "question": "Which among following is NOT example of predator and prey? [MHT-CET 2023]",
+        "question_latex": "Which among following is NOT example of predator and prey? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Nile perch-cichlid fish",
+            "B. Clown fish-sea anemone",
+            "C. Tiger-deer",
+            "D. Frogs-locusts"
+        ],
+        "option_images": [],
+        "answer": "B. Clown fish-sea anemone",
+        "solution": "This is a commensal interaction where the clownfish gets protection.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Organisms and Populations",
+        "question": "500 carp fishes initially. Birth rate of 4 per carp per year. Total at end of year? [MHT-CET 2023]",
+        "question_latex": "$500$ carp fishes initially. Birth rate of $4$ per carp per year. Total at end of year? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2500",
+            "B. 2000",
+            "C. 3000",
+            "D. 3500"
+        ],
+        "option_images": [],
+        "answer": "A. 2500",
+        "solution": "Total = Initial + (Rate * Initial) = $500 + (4 * 500) = 500 + 2000 = 2500$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Organisms and Populations",
+        "question": "The permanent decrease in population number occurs due to",
+        "question_latex": "The permanent decrease in population number occurs due to",
+        "question_images": [],
+        "options": [
+            "A. Migration",
+            "B. Natality",
+            "C. Emigration",
+            "D. Mortality"
+        ],
+        "option_images": [],
+        "answer": "D. Mortality",
+        "solution": "Mortality is the factor that results in the removal of individuals from the population permanently.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Organisms and Populations",
+        "question": "Stomatal transpiration takes place during day time EXCEPT in [MHT-CET 2024]",
+        "question_latex": "Stomatal transpiration takes place during day time EXCEPT in [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Grass",
+            "B. Cactus",
+            "C. Lotus",
+            "D. Mango"
+        ],
+        "option_images": [],
+        "answer": "B. Cactus",
+        "solution": "Cacti use the CAM pathway, keeping stomata closed during the day to prevent water loss.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Organisms and Populations",
+        "question": "An organism which can tolerate wide range of temperature is [2022]",
+        "question_latex": "An organism which can tolerate wide range of temperature is [2022]",
+        "question_images": [],
+        "options": [
+            "A. eurythermal",
+            "B. hydrothermal",
+            "C. stenothermal",
+            "D. isothermal"
+        ],
+        "option_images": [],
+        "answer": "A. eurythermal",
+        "solution": "Eurythermal organisms are those that can function across a broad temperature spectrum.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Organisms and Populations",
+        "question": "Which of the following is correct range of latitudes for temperate region?",
+        "question_latex": "Which of the following is correct range of latitudes for temperate region?",
+        "question_images": [],
+        "options": [
+            "A. $45^{\\circ}$ to $66^{\\circ}$",
+            "B. $0^{\\circ}$ to $20^{\\circ}$",
+            "C. $20^{\\circ}$ to $40^{\\circ}$",
+            "D. $60^{\\circ}$ to $80^{\\circ}$"
+        ],
+        "option_images": [],
+        "answer": "A. 45 to 66",
+        "solution": "Temperate zones lie between the subtropical and polar regions.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Organisms and Populations",
+        "question": "One of following is positive interaction in a population. [MHT-CET 2017]",
+        "question_latex": "One of following is positive interaction in a population. [MHT-CET 2017]",
+        "question_images": [],
+        "options": [
+            "A. Adamsia - Hermit Crab",
+            "B. Plasmodium - Mosquito",
+            "C. Sacculina - Crab",
+            "D. Wuchereria - Man"
+        ],
+        "option_images": [],
+        "answer": "A. Adamsia - Hermit Crab",
+        "solution": "This is a mutualistic relationship where the anemone provides protection and the crab provides mobility and food.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Organisms and Populations",
+        "question": "In colloquial language, habitat is a postal address while niche is the ........ [MHT-CET 2024]",
+        "question_latex": "In colloquial language, habitat is a postal address while niche is the ........ [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. zip code",
+            "B. profession",
+            "C. pin code",
+            "D. email address"
+        ],
+        "option_images": [],
+        "answer": "B. profession",
+        "solution": "The analogy compares where an organism lives (habitat) with what it does (niche).",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Organisms and Populations",
+        "question": "Match interaction signs: (a) Mutualism, (b) Commensalism, (c) Parasitism, (d) Amensalism. II: (+ beneficial, - harmful, 0 no effect). [MHT-CET 2023]",
+        "question_latex": "Match interaction signs: (a) Mutualism, (b) Commensalism, (c) Parasitism, (d) Amensalism. II: (+ beneficial, - harmful, 0 no effect). [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. (a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+            "B. (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+            "C. (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+            "D. (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+        ],
+        "option_images": [],
+        "answer": "C. (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "solution": "Mutualism (+,+); Commensalism (+,0); Parasitism (+,-); Amensalism (-,0).",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Organisms and Populations",
+        "question": "The ........ fin acts as a hold fast in sucker fish. [MHT-CET 2020]",
+        "question_latex": "The ........ fin acts as a hold fast in sucker fish. [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Tail",
+            "B. Pectoral",
+            "C. Dorsal",
+            "D. Ventral"
+        ],
+        "option_images": [],
+        "answer": "C. Dorsal",
+        "solution": "The dorsal fin is modified into a sucking disc in Remora fish.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Organisms and Populations",
+        "question": "Sea anemone hosting clown fish is example of [MHT-CET 2024]",
+        "question_latex": "Sea anemone hosting clown fish is example of [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. competition",
+            "B. parasitism",
+            "C. predation",
+            "D. commensalism"
+        ],
+        "option_images": [],
+        "answer": "D. commensalism",
+        "solution": "The anemone provides protection; the fish does not seem to affect the anemone.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Organisms and Populations",
+        "question": "Property of soil based on the size of its particles is termed",
+        "question_latex": "Property of soil based on the size of its particles is termed",
+        "question_images": [],
+        "options": [
+            "A. Colour",
+            "B. Texture",
+            "C. Field capacity",
+            "D. Water holding capacity"
+        ],
+        "option_images": [],
+        "answer": "B. Texture",
+        "solution": "Soil texture is the classification based on relative proportions of sand, silt, and clay.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Organisms and Populations",
+        "question": "The growth rate of a population stabilizes after",
+        "question_latex": "The growth rate of a population stabilizes after",
+        "question_images": [],
+        "options": [
+            "A. Logarithmic phase",
+            "B. Stationary phase",
+            "C. Carrying capacity",
+            "D. Negative acceleration phase"
+        ],
+        "option_images": [],
+        "answer": "C. Carrying capacity",
+        "solution": "K represents the maximum population size that an environment can sustain.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Organisms and Populations",
+        "question": "Physical space occupied by organisms represent ........ niche. [MHT-CET 2024]",
+        "question_latex": "Physical space occupied by organisms represent ........ niche. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. multidimensional",
+            "B. hypervolume",
+            "C. spatial",
+            "D. trophic"
+        ],
+        "option_images": [],
+        "answer": "C. spatial",
+        "solution": "The spatial niche is defined by the coordinates or area the organism inhabits.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Organisms and Populations",
+        "question": "Cuckoo laying eggs in the nest of other birds is example of [MHT-CET 2015]",
+        "question_latex": "Cuckoo laying eggs in the nest of other birds is example of [MHT-CET 2015]",
+        "question_images": [],
+        "options": [
+            "A. Adelphoparasitism",
+            "B. Broodparasitism",
+            "C. Ectoparasitism",
+            "D. Hyperparasitism"
+        ],
+        "option_images": [],
+        "answer": "B. Broodparasitism",
+        "solution": "This is a form of parasitism where the parasite relies on the host to raise its young.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Organisms and Populations",
+        "question": "Exponential growth equation $N_t = N_0 e^{rt}$. What do $N_0$, e, and r refer to? [MHT-CET]",
+        "question_latex": "Exponential growth equation $N_t = N_0 e^{rt}$. What do $N_0$, $e$, and $r$ refer to? [MHT-CET]",
+        "question_images": [],
+        "options": [
+            "A. Population density at time zero, intrinsic rate, base of log.",
+            "B. Intrinsic rate, base of log, density at time zero.",
+            "C. Population density at time zero, base of natural log, intrinsic rate.",
+            "D. Base of log, intrinsic rate, density at time zero."
+        ],
+        "option_images": [],
+        "answer": "C. Population density at time zero, base of natural log, intrinsic rate.",
+        "solution": "Standard parameters for the exponential growth equation.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Organisms and Populations",
+        "question": "Select CORRECT statement: [MHT-CET 2020]",
+        "question_latex": "Select CORRECT statement: [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Large number of pre-reproductive group is declining.",
+            "B. Total number per unit area is natality.",
+            "C. People leaving village for city is emigration.",
+            "D. Growth rate depends on age structure."
+        ],
+        "option_images": [],
+        "answer": "C. People leaving village for city is emigration.",
+        "solution": "Emigration is the permanent movement of individuals out of a population.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Organisms and Populations",
+        "question": "The population will be of declining type if [MHT-CET 2020]",
+        "question_latex": "The population will be of declining type if [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Post-reproductive is smaller than reproductive",
+            "B. Pre and post groups are same",
+            "C. Pre group is larger than post",
+            "D. Post-reproductive age group is largest"
+        ],
+        "option_images": [],
+        "answer": "D. Post-reproductive age group is largest",
+        "solution": "A population declines when the reproductive and pre-reproductive classes are smaller than the post-reproductive class.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Organisms and Populations",
+        "question": "Which one of following pair shows co-evolution? [MHT-CET 2024]",
+        "question_latex": "Which one of following pair shows co-evolution? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Indian crow and Asian koel",
+            "B. Flamingoes and resident fish",
+            "C. leopards and Lions in a forest",
+            "D. Humming bird and plants"
+        ],
+        "option_images": [],
+        "answer": "D. Humming bird and plants",
+        "solution": "Pollinators and flowers often evolve specifically in response to each other's traits.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Organisms and Populations",
+        "question": "Force opposing the ability to reproduce is called",
+        "question_latex": "Force opposing the ability to reproduce is called",
+        "question_images": [],
+        "options": [
+            "A. Biotic potential",
+            "B. Environmental resistance",
+            "C. Morbidity",
+            "D. Fecundity"
+        ],
+        "option_images": [],
+        "answer": "B. Environmental resistance",
+        "solution": "Environmental resistance includes all limiting factors (food, space, predators) that prevent a population from reaching its biotic potential.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Organisms and Populations",
+        "question": "Interaction showing negative influence on both species is [2022]",
+        "question_latex": "Interaction showing negative influence on both species is [2022]",
+        "question_images": [],
+        "options": [
+            "A. parasitism",
+            "B. mutualism",
+            "C. competition",
+            "D. amensalism"
+        ],
+        "option_images": [],
+        "answer": "C. competition",
+        "solution": "Competition is a (-,-) interaction where both participants are adversely affected.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Organisms and Populations",
+        "question": "The physiological capacity to produce offsprings is called",
+        "question_latex": "The physiological capacity to produce offsprings is called",
+        "question_images": [],
+        "options": [
+            "A. Birth rate",
+            "B. Biotic potential",
+            "C. Crude natality",
+            "D. Mortality"
+        ],
+        "option_images": [],
+        "answer": "B. Biotic potential",
+        "solution": "Biotic potential is the maximum reproductive capacity under ideal conditions.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Organisms and Populations",
+        "question": "Density of population decreases when [MHT-CET 2020]",
+        "question_latex": "Density of population decreases when [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Mortality increases and immigration decreases",
+            "B. Mortality and emigration decreases",
+            "C. Natality remains constant and immigration increases",
+            "D. Natality and immigration increases"
+        ],
+        "option_images": [],
+        "answer": "A. Mortality increases and immigration decreases",
+        "solution": "Increased deaths and decreased arrivals lead to a reduction in density.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Organisms and Populations",
+        "question": "Calotropis plant produces [MHT-CET 2024]",
+        "question_latex": "Calotropis plant produces [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. strychnine",
+            "B. nicotine",
+            "C. opium",
+            "D. cardiac glycosides"
+        ],
+        "option_images": [],
+        "answer": "D. cardiac glycosides",
+        "solution": "$Calotropis$ produces toxic cardiac glycosides as a defense against herbivores.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Organisms and Populations",
+        "question": "The term used for species in which last individual died is [2022]",
+        "question_latex": "The term used for species in which last individual died is [2022]",
+        "question_images": [],
+        "options": [
+            "A. vulnerable",
+            "B. extinct",
+            "C. endangered",
+            "D. near threatened"
+        ],
+        "option_images": [],
+        "answer": "B. extinct",
+        "solution": "Extinction is the complete disappearance of a species from Earth.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Organisms and Populations",
+        "question": "Small number of individuals left after disaster to start new population. [MHT-CET 2023]",
+        "question_latex": "Small number of individuals left after disaster to start new population. [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Green house effect",
+            "B. Founder effect",
+            "C. Bottle neck effect",
+            "D. Sewall wright effect"
+        ],
+        "option_images": [],
+        "answer": "C. Bottle neck effect",
+        "solution": "The population bottleneck occurs when a population's size is drastically reduced for at least one generation.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Organisms and Populations",
+        "question": "Root cap is not found in",
+        "question_latex": "Root cap is not found in",
+        "question_images": [],
+        "options": [
+            "A. Mesophytes",
+            "B. Xerophytes",
+            "C. Hydrophytes",
+            "D. Halophytes"
+        ],
+        "option_images": [],
+        "answer": "C. Hydrophytes",
+        "solution": "Hydrophytes often lack root caps or have root pockets because they don't need protection while pushing through hard soil.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Organisms and Populations",
+        "question": "Associated with a mangrove plant? [MHT CET 2004]",
+        "question_latex": "Associated with a mangrove plant? [MHT CET 2004]",
+        "question_images": [],
+        "options": [
+            "A. Absorb water rapidly",
+            "B. Minimize water loss and facilitating aeration",
+            "C. Reduce transpiration and store water",
+            "D. Adapted to absorb nitrogenous matter"
+        ],
+        "option_images": [],
+        "answer": "B. Minimize water loss and facilitating aeration",
+        "solution": "Mangroves have pneumatophores for aeration and salt-management adaptations.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Organisms and Populations",
+        "question": "Changing nature of population is [MHT-CET 2019]",
+        "question_latex": "Changing nature of population is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Population growth",
+            "B. Reproductive potential",
+            "C. Population dynamics",
+            "D. Population explosion"
+        ],
+        "option_images": [],
+        "answer": "C. Population dynamics",
+        "solution": "Population dynamics is the study of how and why populations change in size and structure over time.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Organisms and Populations",
+        "question": "Which one is NOT a characteristic of habitat? [MHT-CET 2023]",
+        "question_latex": "Which one is NOT a characteristic of habitat? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. It is a physical space.",
+            "B. It is species specific.",
+            "C. It consists of numerous niches.",
+            "D. It is affected by temperature, rainfall."
+        ],
+        "option_images": [],
+        "answer": "B. It is species specific.",
+        "solution": "A habitat can be shared by many different species; the niche is the one that is species-specific.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Organisms and Populations",
+        "question": "Interaction favourable to both, but not obligatory is",
+        "question_latex": "Interaction favourable to both, but not obligatory is",
+        "question_images": [],
+        "options": [
+            "A. Proto-cooperation",
+            "B. Mutualism",
+            "C. Commensalism",
+            "D. Parasite"
+        ],
+        "option_images": [],
+        "answer": "A. Proto-cooperation",
+        "solution": "Proto-cooperation is a facultative (non-obligatory) mutualism.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Organisms and Populations",
+        "question": "Identify the INCORRECT statements based on graph. [MHT-CET 2023]",
+        "question_latex": "Identify the INCORRECT statements based on graph. [MHT-CET 2023]",
+        "question_images": [
+            "q99_1"
+        ],
+        "options": [
+            "A. In deserts, annual rainfall is less than grassland.",
+            "B. In tundra, temperature is usually below zero.",
+            "C. In tropical forest, rainfall more than temperate, but temp is less.",
+            "D. Mean annual rainfall is maximum in tropical forest."
+        ],
+        "option_images": [],
+        "answer": "C. In tropical forest, rainfall more than temperate, but temp is less.",
+        "solution": "Tropical forests have higher rainfall AND higher mean annual temperatures than temperate forests.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Organisms and Populations",
+        "question": "Match interaction: (a) Brood parasitism, (b) Invasive species, (c) Ectoparasite, (d) Coevolution. II: (I) Humming bird and plants, (II) copepods, (III) Asian koel, (IV) Eicchornia. [MHT-CET 2024]",
+        "question_latex": "Match interaction: (a) Brood parasitism, (b) Invasive species, (c) Ectoparasite, (d) Coevolution. II: (I) Humming bird and plants, (II) copepods, (III) Asian koel, (IV) Eicchornia. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. (a)→(II); (b) -> (I); (c) -> (IV); (d) -> (III)",
+            "B. (a) -> (II); (b) -> (I); (c) -> (III); (d) -> (IV)",
+            "C. (a) -> (III); (b) -> (IV); (c) -> (II); (d) -> (I)",
+            "D. (a) -> (III); (b) -> (I); (c) -> (II); (d) -> (IV)"
+        ],
+        "option_images": [],
+        "answer": "C. (a) -> (III); (b) -> (IV); (c) -> (II); (d) -> (I)",
+        "solution": "Brood parasitism: Koel (a-III); Invasive: Eicchornia (b-IV); Ectoparasite: copepods (c-II); Coevolution: bird and plants (d-I).",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    }
+]

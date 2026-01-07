@@ -1,0 +1,3807 @@
+[
+    {
+        "id": 1,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The codon sequence on mRNA is always read in 5'->3' direction and not in 3'->5' direction. This is because of",
+        "question_latex": "The codon sequence on mRNA is always read in $5^{\\prime}\\rightarrow3^{\\prime}$ direction and not in $3^{\\prime}\\rightarrow5^{\\prime}$ direction. This is because of",
+        "question_images": [],
+        "options": [
+            "A. commaless character",
+            "B. nonoverlapping character",
+            "C. non ambiguous nature",
+            "D. distinct polarity"
+        ],
+        "option_images": [],
+        "answer": "D. distinct polarity",
+        "solution": "The codon sequence on mRNA is always read in $5^{\\prime}\\rightarrow3^{\\prime}$ direction and not in $3^{\\prime}\\rightarrow5^{\\prime}$ direction because the genetic code has a distinct polarity.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Considering chronology, who among the following performed earliest experiments in the discovery of genetic material?",
+        "question_latex": "Considering chronology, who among the following performed earliest experiments in the discovery of genetic material?",
+        "question_images": [],
+        "options": [
+            "A. Hershey and chase",
+            "B. Avery, Mc Carty and Mac Leod",
+            "C. Meselson and Stahl",
+            "D. Griffith"
+        ],
+        "option_images": [],
+        "answer": "D. Griffith",
+        "solution": "Frederick Griffith performed the transformation experiments on Streptococcus pneumoniae in $1928$, which is the earliest among the listed scientific breakthroughs.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Gargi constructed m-RNA in laboratory. Which of the following codons will she have as initiating and terminating the m - RNA respectively?",
+        "question_latex": "Gargi constructed m-RNA in laboratory. Which of the following codons will she have as initiating and terminating the m - RNA respectively?",
+        "question_images": [],
+        "options": [
+            "A. AUG - UAG",
+            "B. UAC - AUG",
+            "C. GUG - UAC",
+            "D. AUG - UCA"
+        ],
+        "option_images": [],
+        "answer": "A. AUG - UAG",
+        "solution": "$AUG$ is the universal initiator codon, and $UAG$ is one of the three stop codons ($UAG, UAA, UGA$).",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The DNA strand which does not take part in transcription is called",
+        "question_latex": "The DNA strand which does not take part in transcription is called",
+        "question_images": [],
+        "options": [
+            "A. Coding strand",
+            "B. Antisense strand",
+            "C. Template strand",
+            "D. sense strand"
+        ],
+        "option_images": [],
+        "answer": "A. Coding strand",
+        "solution": "The strand with $3^{\\prime}\\rightarrow5^{\\prime}$ polarity is the template (antisense) strand. The non-transcribing $5^{\\prime}\\rightarrow3^{\\prime}$ strand is the coding (sense) strand.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "What is the ratio of labeled to unlabeled DNA strands in the second generation of Meselson and Stahl's experiment?",
+        "question_latex": "What is the ratio of labeled to unlabeled DNA strands in the second generation of Meselson and Stahl's experiment?",
+        "question_images": [],
+        "options": [
+            "A. 1:1",
+            "B. 1:3",
+            "C. 1:7",
+            "D. 3:1"
+        ],
+        "option_images": [],
+        "answer": "B. 1:3",
+        "solution": "Starting with $^{15}N$ DNA: Gen 1 has 2 hybrid molecules (2 $^{15}N$ strands, 2 $^{14}N$ strands). Gen 2 has 4 molecules (2 hybrid, 2 light), totaling 8 strands: 2 are $^{15}N$ and 6 are $^{14}N$. Ratio $= 2:6 = 1:3$.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which of the following is NOT true about a DNA molecule?",
+        "question_latex": "Which of the following is NOT true about a DNA molecule?",
+        "question_images": [],
+        "options": [
+            "A. It is composed of two polynucleotide chains.",
+            "B. The two strands have anti-parallel polarity.",
+            "C. The backbone is formed by sugar-phosphate-sugar.",
+            "D. The nitrogenous bases are linked to the phosphate group."
+        ],
+        "option_images": [],
+        "answer": "D. The nitrogenous bases are linked to the phosphate group.",
+        "solution": "Nitrogenous bases are linked to the pentose sugar via N-glycosidic bonds, not to the phosphate group.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In a nucleosome, the DNA is wrapped around a core of:",
+        "question_latex": "In a nucleosome, the DNA is wrapped around a core of:",
+        "question_images": [],
+        "options": [
+            "A. Histone octamer",
+            "B. Single histone protein",
+            "C. RNA polymerase",
+            "D. Non-histone chromosomal protein"
+        ],
+        "option_images": [],
+        "answer": "A. Histone octamer",
+        "solution": "A nucleosome consists of DNA wrapped around an octamer of two molecules each of histones $H2A, H2B, H3,$ and $H4$.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which one of the following is NOT a characteristic of the genetic material?",
+        "question_latex": "Which one of the following is NOT a characteristic of the genetic material?",
+        "question_images": [],
+        "options": [
+            "A. It should be able to generate its replica.",
+            "B. It should be unstable structurally and chemically.",
+            "C. It should provide the scope for slow changes.",
+            "D. It should be able to express itself in the form of Mendelian characters."
+        ],
+        "option_images": [],
+        "answer": "B. It should be unstable structurally and chemically.",
+        "solution": "Genetic material must be structurally and chemically stable to ensure the consistent inheritance of traits.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Who suggested that the genetic code should be a triplet?",
+        "question_latex": "Who suggested that the genetic code should be a triplet?",
+        "question_images": [],
+        "options": [
+            "A. George Gamow",
+            "B. Francis Crick",
+            "C. Har Gobind Khorana",
+            "D. Marshall Nirenberg"
+        ],
+        "option_images": [],
+        "answer": "A. George Gamow",
+        "solution": "George Gamow argued that since there are 20 amino acids and only 4 bases, the code must be a combination of 3 bases ($4^3 = 64$) to account for all amino acids.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In the Griffith experiment, which strain of Streptococcus pneumoniae was virulent?",
+        "question_latex": "In the Griffith experiment, which strain of $Streptococcus$ $pneumoniae$ was virulent?",
+        "question_images": [],
+        "options": [
+            "A. R-strain",
+            "B. S-strain",
+            "C. Both A and B",
+            "D. Neither A nor B"
+        ],
+        "option_images": [],
+        "answer": "B. S-strain",
+        "solution": "The S-strain (smooth) has a polysaccharide capsule that protects it from the host's immune system, making it virulent.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The DNA replication in DNA occurs in:",
+        "question_latex": "The DNA replication in DNA occurs in:",
+        "question_images": [],
+        "options": [
+            "A. 3' to 5' direction",
+            "B. 5' to 3' direction",
+            "C. Both A and B",
+            "D. In any direction"
+        ],
+        "option_images": [],
+        "answer": "B. 5' to 3' direction",
+        "solution": "DNA polymerase can only add new nucleotides to the $3^{\\prime}$ hydroxyl end of a growing strand, meaning synthesis always proceeds in the $5^{\\prime}\\rightarrow3^{\\prime}$ direction.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Okazaki fragments are formed during:",
+        "question_latex": "Okazaki fragments are formed during:",
+        "question_images": [],
+        "options": [
+            "A. Transcription",
+            "B. Translation",
+            "C. DNA replication",
+            "D. Transduction"
+        ],
+        "option_images": [],
+        "answer": "C. DNA replication",
+        "solution": "Okazaki fragments are short segments of DNA synthesized discontinuously on the lagging strand during DNA replication.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which enzyme is responsible for synthesizing a small RNA primer?",
+        "question_latex": "Which enzyme is responsible for synthesizing a small RNA primer?",
+        "question_images": [],
+        "options": [
+            "A. Primase",
+            "B. Ligase",
+            "C. Helicase",
+            "D. Topoisomerase"
+        ],
+        "option_images": [],
+        "answer": "A. Primase",
+        "solution": "Primase (an RNA polymerase) synthesizes a short RNA primer to provide a $3^{\\prime}$-OH group for DNA polymerase to begin synthesis.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Chargaff's rule is applicable to:",
+        "question_latex": "Chargaff's rule is applicable to:",
+        "question_images": [],
+        "options": [
+            "A. Single stranded DNA",
+            "B. Double stranded DNA",
+            "C. RNA",
+            "D. Both DNA and RNA"
+        ],
+        "option_images": [],
+        "answer": "B. Double stranded DNA",
+        "solution": "Chargaff's rule states that $A=T$ and $G=C$, which only applies to double-stranded DNA where base pairing occurs.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The width of DNA double helix is",
+        "question_latex": "The width of DNA double helix is",
+        "question_images": [],
+        "options": [
+            "A. $34 \\text{ \\AA}$",
+            "B. $20 \\text{ \\AA}$",
+            "C. $3.4 \\text{ \\AA}$",
+            "D. $10 \\text{ \\AA}$"
+        ],
+        "option_images": [],
+        "answer": "B. $20 \\text{ \\AA}$",
+        "solution": "The diameter or width of the B-DNA double helix is $20 \\text{ \\AA}$ ($2 \\text{ nm}$).",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In DNA, adenine pairs with thymine through how many hydrogen bonds?",
+        "question_latex": "In DNA, adenine pairs with thymine through how many hydrogen bonds?",
+        "question_images": [],
+        "options": [
+            "A. One",
+            "B. Two",
+            "C. Three",
+            "D. Four"
+        ],
+        "option_images": [],
+        "answer": "B. Two",
+        "solution": "Adenine and thymine are held together by two hydrogen bonds, while guanine and cytosine are held by three.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "A complete turn of the B-DNA helix contains how many base pairs?",
+        "question_latex": "A complete turn of the B-DNA helix contains how many base pairs?",
+        "question_images": [],
+        "options": [
+            "A. 5",
+            "B. 10",
+            "C. 15",
+            "D. 20"
+        ],
+        "option_images": [],
+        "answer": "B. 10",
+        "solution": "In the B-form of DNA, there are $10$ base pairs per complete $360^{\\circ}$ turn.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which molecule acts as an adapter during protein synthesis?",
+        "question_latex": "Which molecule acts as an adapter during protein synthesis?",
+        "question_images": [],
+        "options": [
+            "A. mRNA",
+            "B. rRNA",
+            "C. tRNA",
+            "D. DNA"
+        ],
+        "option_images": [],
+        "answer": "C. tRNA",
+        "solution": "tRNA acts as an adapter because it can read the genetic code on mRNA and simultaneously bind to a specific amino acid.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The process of copying genetic information from DNA to RNA is:",
+        "question_latex": "The process of copying genetic information from DNA to RNA is:",
+        "question_images": [],
+        "options": [
+            "A. Replication",
+            "B. Transcription",
+            "C. Translation",
+            "D. Mutation"
+        ],
+        "option_images": [],
+        "answer": "B. Transcription",
+        "solution": "Transcription is the synthesis of RNA using a DNA template strand.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which enzyme is used to unwind the DNA helix during replication?",
+        "question_latex": "Which enzyme is used to unwind the DNA helix during replication?",
+        "question_images": [],
+        "options": [
+            "A. Helicase",
+            "B. Ligase",
+            "C. Primase",
+            "D. Topoisomerase"
+        ],
+        "option_images": [],
+        "answer": "A. Helicase",
+        "solution": "Helicase enzyme unwinds the double-stranded DNA by breaking the hydrogen bonds between complementary nitrogenous bases.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The core of nucleosome consists of pairs of:",
+        "question_latex": "The core of nucleosome consists of pairs of:",
+        "question_images": [],
+        "options": [
+            "A. H1, H2A, H2B, H3",
+            "B. H2A, H2B, H3, H4",
+            "C. H1, H2, H3, H4",
+            "D. H1, H2A, H3, H4"
+        ],
+        "option_images": [],
+        "answer": "B. H2A, H2B, H3, H4",
+        "solution": "The histone octamer contains two molecules each of H2A, H2B, H3, and H4. H1 is the linker histone.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Who provided experimental proof for semiconservative DNA replication?",
+        "question_latex": "Who provided experimental proof for semiconservative DNA replication?",
+        "question_images": [],
+        "options": [
+            "A. Watson and Crick",
+            "B. Meselson and Stahl",
+            "C. Hershey and Chase",
+            "D. Avery and MacLeod"
+        ],
+        "option_images": [],
+        "answer": "B. Meselson and Stahl",
+        "solution": "Matthew Meselson and Franklin Stahl demonstrated the semiconservative nature of DNA replication in $1958$ using E. coli and heavy nitrogen isotopes.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The DNA strand which synthesized in Okazaki fragments is the:",
+        "question_latex": "The DNA strand which synthesized in Okazaki fragments is the:",
+        "question_images": [],
+        "options": [
+            "A. Leading strand",
+            "B. Lagging strand",
+            "C. Template strand",
+            "D. Coding strand"
+        ],
+        "option_images": [],
+        "answer": "B. Lagging strand",
+        "solution": "The lagging strand is synthesized discontinuously in the $5^{\\prime}\\rightarrow3^{\\prime}$ direction away from the replication fork, forming fragments.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Genetic code is degenerate because:",
+        "question_latex": "Genetic code is degenerate because:",
+        "question_images": [],
+        "options": [
+            "A. One codon codes for one amino acid",
+            "B. One amino acid can be coded by more than one codon",
+            "C. One codon can code for more than one amino acid",
+            "D. The code is universal"
+        ],
+        "option_images": [],
+        "answer": "B. One amino acid can be coded by more than one codon",
+        "solution": "Degeneracy means that multiple different codons can signal for the same amino acid (except for methionine and tryptophan).",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Transcription is initiated by the binding of RNA polymerase to the:",
+        "question_latex": "Transcription is initiated by the binding of RNA polymerase to the:",
+        "question_images": [],
+        "options": [
+            "A. Terminator",
+            "B. Structural gene",
+            "C. Promoter",
+            "D. Operator"
+        ],
+        "option_images": [],
+        "answer": "C. Promoter",
+        "solution": "The promoter is a specific sequence of DNA where RNA polymerase binds to start transcription.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Transformation was discovered by:",
+        "question_latex": "Transformation was discovered by:",
+        "question_images": [],
+        "options": [
+            "A. Avery",
+            "B. Hershey",
+            "C. Griffith",
+            "D. Mendel"
+        ],
+        "option_images": [],
+        "answer": "C. Griffith",
+        "solution": "Frederick Griffith discovered transformation while studying Streptococcus pneumoniae in mice.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which base is NOT found in DNA?",
+        "question_latex": "Which base is NOT found in DNA?",
+        "question_images": [],
+        "options": [
+            "A. Adenine",
+            "B. Cytosine",
+            "C. Uracil",
+            "D. Thymine"
+        ],
+        "option_images": [],
+        "answer": "C. Uracil",
+        "solution": "Uracil is found only in RNA; in DNA, it is replaced by Thymine.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "One turn of DNA helix is about:",
+        "question_latex": "One turn of DNA helix is about:",
+        "question_images": [],
+        "options": [
+            "A. $3.4 \\text{ nm}$",
+            "B. $2 \\text{ nm}$",
+            "C. $20 \\text{ nm}$",
+            "D. $0.34 \\text{ nm}$"
+        ],
+        "option_images": [],
+        "answer": "A. $3.4 \\text{ nm}$",
+        "solution": "A complete turn of the DNA double helix is $34 \\text{ \\AA}$ or $3.4 \\text{ nm}$ long.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "A polynucleotide chain has a free phosphate group at which end?",
+        "question_latex": "A polynucleotide chain has a free phosphate group at which end?",
+        "question_images": [],
+        "options": [
+            "A. 3' end",
+            "B. 5' end",
+            "C. Both ends",
+            "D. Middle"
+        ],
+        "option_images": [],
+        "answer": "B. 5' end",
+        "solution": "The $5^{\\prime}$ end of a polynucleotide chain has a free phosphate group attached to the $5^{\\prime}$ carbon of the sugar.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Who proposed the semi-conservative mode of DNA replication?",
+        "question_latex": "Who proposed the semi-conservative mode of DNA replication?",
+        "question_images": [],
+        "options": [
+            "A. Watson and Crick",
+            "B. Taylor",
+            "C. Meselson and Stahl",
+            "D. Hershey and Chase"
+        ],
+        "option_images": [],
+        "answer": "A. Watson and Crick",
+        "solution": "Watson and Crick proposed the semiconservative model in their original 1953 paper, though it was Meselson and Stahl who later proved it.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The DNA packaging in eukaryotes is done by:",
+        "question_latex": "The DNA packaging in eukaryotes is done by:",
+        "question_images": [],
+        "options": [
+            "A. DNA polymerase",
+            "B. RNA polymerase",
+            "C. Histone proteins",
+            "D. Ribosomes"
+        ],
+        "option_images": [],
+        "answer": "C. Histone proteins",
+        "solution": "Histones are positively charged basic proteins that wrap the negatively charged DNA into nucleosomes.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Linker DNA is associated with which histone?",
+        "question_latex": "Linker DNA is associated with which histone?",
+        "question_images": [],
+        "options": [
+            "A. H1",
+            "B. H2A",
+            "C. H3",
+            "D. H4"
+        ],
+        "option_images": [],
+        "answer": "A. H1",
+        "solution": "Histone H1 binds to the linker DNA region between adjacent nucleosome cores.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The backbone of DNA is made of:",
+        "question_latex": "The backbone of DNA is made of:",
+        "question_images": [],
+        "options": [
+            "A. Sugar and Base",
+            "B. Phosphate and Base",
+            "C. Sugar and Phosphate",
+            "D. Base only"
+        ],
+        "option_images": [],
+        "answer": "C. Sugar and Phosphate",
+        "solution": "The structural backbone of DNA is composed of alternating deoxyribose sugar and phosphate groups linked by phosphodiester bonds.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The leading strand is synthesized in the direction:",
+        "question_latex": "The leading strand is synthesized in the direction:",
+        "question_images": [],
+        "options": [
+            "A. 3' to 5' towards replication fork",
+            "B. 5' to 3' towards replication fork",
+            "C. 3' to 5' away from replication fork",
+            "D. 5' to 3' away from replication fork"
+        ],
+        "option_images": [],
+        "answer": "B. 5' to 3' towards replication fork",
+        "solution": "Synthesis of the leading strand occurs continuously in the $5^{\\prime}\\rightarrow3^{\\prime}$ direction as the fork opens.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In Griffith experiment, the mouse survived when injected with:",
+        "question_latex": "In Griffith experiment, the mouse survived when injected with:",
+        "question_images": [],
+        "options": [
+            "A. S-strain",
+            "B. Heat killed S-strain",
+            "C. R-strain",
+            "D. Both B and C"
+        ],
+        "option_images": [],
+        "answer": "D. Both B and C",
+        "solution": "The mouse survived when injected with non-virulent R-strain or heat-killed virulent S-strain.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Radioactive sulfur labels which part of the virus?",
+        "question_latex": "Radioactive sulfur labels which part of the virus?",
+        "question_images": [],
+        "options": [
+            "A. DNA",
+            "B. Protein coat",
+            "C. RNA",
+            "D. Both A and B"
+        ],
+        "option_images": [],
+        "answer": "B. Protein coat",
+        "solution": "Sulfur is found in amino acids like cysteine and methionine, so radioactive $^{35}S$ labels viral proteins.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The central dogma of molecular biology was proposed by:",
+        "question_latex": "The central dogma of molecular biology was proposed by:",
+        "question_images": [],
+        "options": [
+            "A. Watson",
+            "B. Crick",
+            "C. Mendel",
+            "D. Morgan"
+        ],
+        "option_images": [],
+        "answer": "B. Crick",
+        "solution": "Francis Crick proposed the Central Dogma, describing the unidirectional flow of genetic information: $DNA\\rightarrow RNA\\rightarrow Protein$.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which bond links the nitrogenous base to the pentose sugar?",
+        "question_latex": "Which bond links the nitrogenous base to the pentose sugar?",
+        "question_images": [],
+        "options": [
+            "A. Phosphodiester",
+            "B. Hydrogen",
+            "C. N-glycosidic",
+            "D. Peptide"
+        ],
+        "option_images": [],
+        "answer": "C. N-glycosidic",
+        "solution": "An N-glycosidic bond connects the $1^{\\prime}$ carbon of the pentose sugar to the nitrogenous base.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "DNA is:",
+        "question_latex": "DNA is:",
+        "question_images": [],
+        "options": [
+            "A. Positively charged and acidic",
+            "B. Negatively charged and basic",
+            "C. Negatively charged and acidic",
+            "D. Positively charged and basic"
+        ],
+        "option_images": [],
+        "answer": "C. Negatively charged and acidic",
+        "solution": "DNA is acidic due to the phosphate groups, which carry a negative charge at physiological pH.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "A nucleosome bead contains approximately how many base pairs wrapped around it?",
+        "question_latex": "A nucleosome bead contains approximately how many base pairs wrapped around it?",
+        "question_images": [],
+        "options": [
+            "A. 146",
+            "B. 200",
+            "C. 340",
+            "D. 10"
+        ],
+        "option_images": [],
+        "answer": "A. 146",
+        "solution": "Precisely $146$ base pairs of DNA are wrapped around the histone core to form a nucleosome.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "If DNA contains 30% Adenine, what is the percentage of Guanine?",
+        "question_latex": "If DNA contains 30% Adenine, what is the percentage of Guanine?",
+        "question_images": [],
+        "options": [
+            "A. 30%",
+            "B. 70%",
+            "C. 20%",
+            "D. 40%"
+        ],
+        "option_images": [],
+        "answer": "C. 20%",
+        "solution": "$A=T=30\\% \\implies A+T=60\\%$. Remaining $40\\%$ is $G+C$. Since $G=C$, Guanine is $20\\%$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "X-ray diffraction studies of DNA were primarily done by:",
+        "question_latex": "X-ray diffraction studies of DNA were primarily done by:",
+        "question_images": [],
+        "options": [
+            "A. Watson and Crick",
+            "B. Wilkins and Franklin",
+            "C. Meselson and Stahl",
+            "D. Chargaff"
+        ],
+        "option_images": [],
+        "answer": "B. Wilkins and Franklin",
+        "solution": "Maurice Wilkins and Rosalind Franklin produced the X-ray diffraction patterns that Watson and Crick used to build their model.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which of the following is an exception to the Central Dogma?",
+        "question_latex": "Which of the following is an exception to the Central Dogma?",
+        "question_images": [],
+        "options": [
+            "A. Bacteria",
+            "B. Retroviruses",
+            "C. Fungi",
+            "D. Higher plants"
+        ],
+        "option_images": [],
+        "answer": "B. Retroviruses",
+        "solution": "Retroviruses perform reverse transcription ($RNA\\rightarrow DNA$), which flows opposite to the traditional central dogma.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "RNA is preferred for which function?",
+        "question_latex": "RNA is preferred for which function?",
+        "question_images": [],
+        "options": [
+            "A. Storage of genetic info",
+            "B. Transmission of genetic info",
+            "C. Structural stability",
+            "D. Long term preservation"
+        ],
+        "option_images": [],
+        "answer": "B. Transmission of genetic info",
+        "solution": "RNA is less stable but more reactive, making it better for the transmission and expression of genetic messages.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Topoisomerase (Gyrase) function is:",
+        "question_latex": "Topoisomerase (Gyrase) function is:",
+        "question_images": [],
+        "options": [
+            "A. Unwinding DNA",
+            "B. Removing DNA primers",
+            "C. Releasing tension from unwinding",
+            "D. Joining fragments"
+        ],
+        "option_images": [],
+        "answer": "C. Releasing tension from unwinding",
+        "solution": "Topoisomerase relieves the supercoiling/torsional stress ahead of the replication fork caused by helicase unwinding.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "DNA is replicated during which phase of cell cycle?",
+        "question_latex": "DNA is replicated during which phase of cell cycle?",
+        "question_images": [],
+        "options": [
+            "A. G1 phase",
+            "B. S phase",
+            "C. G2 phase",
+            "D. M phase"
+        ],
+        "option_images": [],
+        "answer": "B. S phase",
+        "solution": "DNA synthesis occurs specifically during the S (Synthesis) phase of the interphase.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "What is the pitch of B-DNA?",
+        "question_latex": "What is the pitch of B-DNA?",
+        "question_images": [],
+        "options": [
+            "A. $0.34 \\text{ nm}$",
+            "B. $2 \\text{ nm}$",
+            "C. $3.4 \\text{ nm}$",
+            "D. $20 \\text{ nm}$"
+        ],
+        "option_images": [],
+        "answer": "C. $3.4 \\text{ nm}$",
+        "solution": "The pitch (one full turn) of the DNA helix is $3.4 \\text{ nm}$.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Histones are rich in which basic amino acids?",
+        "question_latex": "Histones are rich in which basic amino acids?",
+        "question_images": [],
+        "options": [
+            "A. Lysine and Arginine",
+            "B. Glycine and Valine",
+            "C. Glutamate and Aspartate",
+            "D. Alanine and Proline"
+        ],
+        "option_images": [],
+        "answer": "A. Lysine and Arginine",
+        "solution": "Histones are basic proteins because they contain high proportions of the basic amino acids Lysine and Arginine.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "A transcription unit in DNA is defined by three regions. Which one is NOT one of them?",
+        "question_latex": "A transcription unit in DNA is defined by three regions. Which one is NOT one of them?",
+        "question_images": [],
+        "options": [
+            "A. Promoter",
+            "B. Structural gene",
+            "C. Terminator",
+            "D. Enhancer"
+        ],
+        "option_images": [],
+        "answer": "D. Enhancer",
+        "solution": "A basic transcription unit consists of a Promoter, a Structural Gene, and a Terminator. Enhancers are regulatory elements outside the basic unit.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The total number of nitrogenous bases in the human genome is approximately",
+        "question_latex": "The total number of nitrogenous bases in the human genome is approximately",
+        "question_images": [],
+        "options": [
+            "A. $3.1 \\times 10^9$",
+            "B. $3.3 \\times 10^9$",
+            "C. $6.6 \\times 10^9$",
+            "D. $4.6 \\times 10^6$"
+        ],
+        "option_images": [],
+        "answer": "B. $3.3 \\times 10^9$",
+        "solution": "The haploid human genome ($n$) contains approximately $3.3 \\times 10^9$ base pairs.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The start codon AUG also codes for:",
+        "question_latex": "The start codon $AUG$ also codes for:",
+        "question_images": [],
+        "options": [
+            "A. Valine",
+            "B. Methionine",
+            "C. Serine",
+            "D. Phenylalanine"
+        ],
+        "option_images": [],
+        "answer": "B. Methionine",
+        "solution": "AUG has a dual function: it serves as the initiation codon and codes for the amino acid Methionine.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Nonsense codons are used for:",
+        "question_latex": "Nonsense codons are used for:",
+        "question_images": [],
+        "options": [
+            "A. Initiation",
+            "B. Elongation",
+            "C. Termination",
+            "D. Replication"
+        ],
+        "option_images": [],
+        "answer": "C. Termination",
+        "solution": "Nonsense codons ($UAA, UAG, UGA$) signal the ribosome to stop protein synthesis.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Messenger RNA (mRNA) is synthesized over DNA in which direction?",
+        "question_latex": "Messenger RNA (mRNA) is synthesized over DNA in which direction?",
+        "question_images": [],
+        "options": [
+            "A. 3' to 5'",
+            "B. 5' to 3'",
+            "C. Both ways",
+            "D. 3' to 3'"
+        ],
+        "option_images": [],
+        "answer": "B. 5' to 3'",
+        "solution": "RNA polymerase synthesizes RNA in the $5^{\\prime}\\rightarrow3^{\\prime}$ direction using a $3^{\\prime}\\rightarrow5^{\\prime}$ DNA template.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "A gene is a segment of DNA that codes for:",
+        "question_latex": "A gene is a segment of DNA that codes for:",
+        "question_images": [],
+        "options": [
+            "A. Polypeptide",
+            "B. rRNA",
+            "C. tRNA",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "D. All of the above",
+        "solution": "A cistron or gene is a segment of DNA coding for various types of RNA and proteins.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In eukaryotes, monocistronic structural genes have interrupted coding sequences called:",
+        "question_latex": "In eukaryotes, monocistronic structural genes have interrupted coding sequences called:",
+        "question_images": [],
+        "options": [
+            "A. Exons",
+            "B. Introns",
+            "C. Codons",
+            "D. Anticodons"
+        ],
+        "option_images": [],
+        "answer": "B. Introns",
+        "solution": "Introns are the non-coding intervening sequences that are removed during RNA splicing.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Exons are:",
+        "question_latex": "Exons are:",
+        "question_images": [],
+        "options": [
+            "A. Non-coding sequences",
+            "B. Coding sequences",
+            "C. Nonsense sequences",
+            "D. Linker regions"
+        ],
+        "option_images": [],
+        "answer": "B. Coding sequences",
+        "solution": "Exons are the expressed sequences of a gene that remain in the final mature mRNA.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In the lac operon, the 'i' gene codes for:",
+        "question_latex": "In the lac operon, the 'i' gene codes for:",
+        "question_images": [],
+        "options": [
+            "A. Inducer",
+            "B. Repressor",
+            "C. Beta-galactosidase",
+            "D. Permease"
+        ],
+        "option_images": [],
+        "answer": "B. Repressor",
+        "solution": "The regulator gene ($i$) constitutively produces the repressor protein.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which enzyme is NOT coded by the lac operon structural genes?",
+        "question_latex": "Which enzyme is NOT coded by the lac operon structural genes?",
+        "question_images": [],
+        "options": [
+            "A. Beta-galactosidase",
+            "B. Permease",
+            "C. Transacetylase",
+            "D. DNA polymerase"
+        ],
+        "option_images": [],
+        "answer": "D. DNA polymerase",
+        "solution": "The lac operon structural genes $z, y,$ and $a$ code for $\beta$-galactosidase, permease, and transacetylase respectively.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The inducer for the lac operon is:",
+        "question_latex": "The inducer for the lac operon is:",
+        "question_images": [],
+        "options": [
+            "A. Glucose",
+            "B. Galactose",
+            "C. Lactose",
+            "D. Sucrose"
+        ],
+        "option_images": [],
+        "answer": "C. Lactose",
+        "solution": "Lactose (or allolactose) binds to the repressor to turn the operon on.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "DNA fingerprinting identifies variations in:",
+        "question_latex": "DNA fingerprinting identifies variations in:",
+        "question_images": [],
+        "options": [
+            "A. Coding DNA",
+            "B. Exons",
+            "C. Repetitive DNA",
+            "D. rRNA"
+        ],
+        "option_images": [],
+        "answer": "C. Repetitive DNA",
+        "solution": "DNA fingerprinting targets VNTRs, which are highly variable segments of repetitive non-coding DNA.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The process of transformation was described by Griffith using which bacteria?",
+        "question_latex": "The process of transformation was described by Griffith using which bacteria?",
+        "question_images": [],
+        "options": [
+            "A. E. coli",
+            "B. Streptococcus pneumoniae",
+            "C. Bacillus subtilis",
+            "D. Salmonella typhi"
+        ],
+        "option_images": [],
+        "answer": "B. Streptococcus pneumoniae",
+        "solution": "Griffith used Diplococcus (Streptococcus) pneumoniae in his experiments.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Avery et al. found that transformation was inhibited by:",
+        "question_latex": "Avery et al. found that transformation was inhibited by:",
+        "question_images": [],
+        "options": [
+            "A. Protease",
+            "B. RNase",
+            "C. DNase",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "C. DNase",
+        "solution": "Only DNase prevented transformation, proving that DNA was the genetic material.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The radioactive isotope $^{32}P$ labels:",
+        "question_latex": "The radioactive isotope $^{32}P$ labels:",
+        "question_images": [],
+        "options": [
+            "A. Proteins",
+            "B. Lipids",
+            "C. DNA",
+            "D. Carbohydrates"
+        ],
+        "option_images": [],
+        "answer": "C. DNA",
+        "solution": "DNA contains phosphate groups which incorporate $^{32}P$.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Nitrogenous bases are of two types: Purines and Pyrimidines. Purines include:",
+        "question_latex": "Nitrogenous bases are of two types: Purines and Pyrimidines. Purines include:",
+        "question_images": [],
+        "options": [
+            "A. Adenine and Guanine",
+            "B. Cytosine and Thymine",
+            "C. Adenine and Thymine",
+            "D. Uracil and Cytosine"
+        ],
+        "option_images": [],
+        "answer": "A. Adenine and Guanine",
+        "solution": "Adenine and Guanine are double-ringed purines.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The pentose sugar in RNA is:",
+        "question_latex": "The pentose sugar in RNA is:",
+        "question_images": [],
+        "options": [
+            "A. Deoxyribose",
+            "B. Ribose",
+            "C. Glucose",
+            "D. Fructose"
+        ],
+        "option_images": [],
+        "answer": "B. Ribose",
+        "solution": "RNA stands for Ribonucleic Acid, containing ribose sugar.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "One polynucleotide chain is linked to another by:",
+        "question_latex": "One polynucleotide chain is linked to another by:",
+        "question_images": [],
+        "options": [
+            "A. Peptide bonds",
+            "B. Hydrogen bonds",
+            "C. Covalent bonds",
+            "D. Glycosidic bonds"
+        ],
+        "option_images": [],
+        "answer": "B. Hydrogen bonds",
+        "solution": "Complementary base pairs of opposite strands are held by hydrogen bonds.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The diameter of DNA is constant because of pairing between:",
+        "question_latex": "The diameter of DNA is constant because of pairing between:",
+        "question_images": [],
+        "options": [
+            "A. Purine and Purine",
+            "B. Pyrimidine and Pyrimidine",
+            "C. Purine and Pyrimidine",
+            "D. Sugar and Phosphate"
+        ],
+        "option_images": [],
+        "answer": "C. Purine and Pyrimidine",
+        "solution": "Pairing a double-ring purine with a single-ring pyrimidine maintains a uniform $2 \\text{ nm}$ diameter.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Linker DNA connects two:",
+        "question_latex": "Linker DNA connects two:",
+        "question_images": [],
+        "options": [
+            "A. Nucleosomes",
+            "B. Histones",
+            "C. Genes",
+            "D. Chromosomes"
+        ],
+        "option_images": [],
+        "answer": "A. Nucleosomes",
+        "solution": "Linker DNA is the stretch of DNA that joins adjacent nucleosomes in the 'beads on a string' structure.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "DNA is more stable than RNA because of:",
+        "question_latex": "DNA is more stable than RNA because of:",
+        "question_images": [],
+        "options": [
+            "A. Absence of 2'-OH group in sugar",
+            "B. Presence of Thymine instead of Uracil",
+            "C. Double stranded nature",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "D. All of the above",
+        "solution": "DNA's deoxyribose, thymine, and double-helix structure collectively provide superior chemical and structural stability.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "DNA replication is:",
+        "question_latex": "DNA replication is:",
+        "question_images": [],
+        "options": [
+            "A. Conservative",
+            "B. Semiconservative",
+            "C. Dispersive",
+            "D. Semi-dispersive"
+        ],
+        "option_images": [],
+        "answer": "B. Semiconservative",
+        "solution": "Each daughter DNA molecule retains one parental strand and one newly synthesized strand.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The enzyme that joins DNA fragments together is:",
+        "question_latex": "The enzyme that joins DNA fragments together is:",
+        "question_images": [],
+        "options": [
+            "A. Polymerase",
+            "B. Ligase",
+            "C. Nuclease",
+            "D. Protease"
+        ],
+        "option_images": [],
+        "answer": "B. Ligase",
+        "solution": "DNA ligase catalyzes the formation of phosphodiester bonds to join fragments.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "A triplet of bases on mRNA coding for an amino acid is:",
+        "question_latex": "A triplet of bases on mRNA coding for an amino acid is:",
+        "question_images": [],
+        "options": [
+            "A. Anticodon",
+            "B. Codon",
+            "C. Cistron",
+            "D. Recon"
+        ],
+        "option_images": [],
+        "answer": "B. Codon",
+        "solution": "The genetic information on mRNA is read in units of three bases called codons.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The non-coding intervening sequences in eukaryotic genes are:",
+        "question_latex": "The non-coding intervening sequences in eukaryotic genes are:",
+        "question_images": [],
+        "options": [
+            "A. Exons",
+            "B. Introns",
+            "C. Split genes",
+            "D. Operators"
+        ],
+        "option_images": [],
+        "answer": "B. Introns",
+        "solution": "Introns are the sequences that are transcribed but later removed before translation.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The process of protein synthesis is:",
+        "question_latex": "The process of protein synthesis is:",
+        "question_images": [],
+        "options": [
+            "A. Transcription",
+            "B. Translation",
+            "C. Transformation",
+            "D. Translocation"
+        ],
+        "option_images": [],
+        "answer": "B. Translation",
+        "solution": "Translation is the process of building a polypeptide chain from mRNA instructions.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Human Genome Project was launched in:",
+        "question_latex": "Human Genome Project was launched in:",
+        "question_images": [],
+        "options": [
+            "A. 1980",
+            "B. 1990",
+            "C. 2000",
+            "D. 2003"
+        ],
+        "option_images": [],
+        "answer": "B. 1990",
+        "solution": "The HGP was a $13$-year international project that began in $1990$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which organism's genome was sequenced first in HGP?",
+        "question_latex": "Which organism's genome was sequenced first in HGP?",
+        "question_images": [],
+        "options": [
+            "A. Human",
+            "B. Drosophila",
+            "C. Haemophilus influenzae",
+            "D. Arabidopsis"
+        ],
+        "option_images": [],
+        "answer": "C. Haemophilus influenzae",
+        "solution": "The first free-living organism to have its entire genome sequenced was the bacterium Haemophilus influenzae.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Satellite DNA is useful in:",
+        "question_latex": "Satellite DNA is useful in:",
+        "question_images": [],
+        "options": [
+            "A. Protein synthesis",
+            "B. Forensic science",
+            "C. Organ transplantation",
+            "D. Metabolism"
+        ],
+        "option_images": [],
+        "answer": "B. Forensic science",
+        "solution": "Satellite DNA contains polymorphisms used in DNA fingerprinting for forensic identification.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The total number of genes in humans is estimated to be:",
+        "question_latex": "The total number of genes in humans is estimated to be:",
+        "question_images": [],
+        "options": [
+            "A. 100,000",
+            "B. 30,000",
+            "C. 10,000",
+            "D. 3,000"
+        ],
+        "option_images": [],
+        "answer": "B. 30,000",
+        "solution": "The HGP estimated that the human genome contains approximately $20,000$ to $30,000$ genes.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which of the following is a structural gene in the lac operon?",
+        "question_latex": "Which of the following is a structural gene in the lac operon?",
+        "question_images": [],
+        "options": [
+            "A. i gene",
+            "B. p gene",
+            "C. o gene",
+            "D. z gene"
+        ],
+        "option_images": [],
+        "answer": "D. z gene",
+        "solution": "The structural genes are $z, y,$ and $a$.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Euchromatin is transcriptionally active because it is:",
+        "question_latex": "Euchromatin is transcriptionally active because it is:",
+        "question_images": [],
+        "options": [
+            "A. Loosely packed",
+            "B. Densely packed",
+            "C. Highly coiled",
+            "D. Rich in H1 histones"
+        ],
+        "option_images": [],
+        "answer": "A. Loosely packed",
+        "solution": "Loose packing allows transcription machinery access to the DNA strands.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which nitrogenous bases have single-ring structures?",
+        "question_latex": "Which nitrogenous bases have single-ring structures?",
+        "question_images": [],
+        "options": [
+            "A. Purines",
+            "B. Pyrimidines",
+            "C. Both",
+            "D. Neither"
+        ],
+        "option_images": [],
+        "answer": "B. Pyrimidines",
+        "solution": "Pyrimidines (C, T, U) are single-ringed, while Purines (A, G) are double-ringed.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The polarity of the template DNA strand is:",
+        "question_latex": "The polarity of the template DNA strand is:",
+        "question_images": [],
+        "options": [
+            "A. 5' to 3'",
+            "B. 3' to 5'",
+            "C. 5' to 5'",
+            "D. 3' to 3'"
+        ],
+        "option_images": [],
+        "answer": "B. 3' to 5'",
+        "solution": "RNA is synthesized $5^{\\prime}\\rightarrow3^{\\prime}$, so it must read a $3^{\\prime}\\rightarrow5^{\\prime}$ template.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which RNA carries the genetic code to the ribosome?",
+        "question_latex": "Which RNA carries the genetic code to the ribosome?",
+        "question_images": [],
+        "options": [
+            "A. rRNA",
+            "B. tRNA",
+            "C. mRNA",
+            "D. snRNA"
+        ],
+        "option_images": [],
+        "answer": "C. mRNA",
+        "solution": "mRNA (Messenger RNA) carries the sequence information from the nucleus to the site of protein synthesis.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The 'Beads on string' structure represents:",
+        "question_latex": "The 'Beads on string' structure represents:",
+        "question_images": [],
+        "options": [
+            "A. Genes",
+            "B. Nucleosomes",
+            "C. Base pairs",
+            "D. Polypeptides"
+        ],
+        "option_images": [],
+        "answer": "B. Nucleosomes",
+        "solution": "Nucleosomes appear as beads on the DNA 'string' under an electron microscope.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "VNTR belongs to which category of DNA?",
+        "question_latex": "$VNTR$ belongs to which category of DNA?",
+        "question_images": [],
+        "options": [
+            "A. Satellite DNA",
+            "B. Repetitive DNA",
+            "C. Coding DNA",
+            "D. Both (A) and (B)"
+        ],
+        "option_images": [],
+        "answer": "D. Both (A) and (B)",
+        "solution": "Variable Number Tandem Repeats ($VNTR$) are a type of repetitive DNA and specifically fall under the mini-satellite category of satellite DNA.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The initiation of replication in DNA occurs at:",
+        "question_latex": "The initiation of replication in DNA occurs at:",
+        "question_images": [],
+        "options": [
+            "A. Promoter",
+            "B. Ori site",
+            "C. Terminator",
+            "D. Telomere"
+        ],
+        "option_images": [],
+        "answer": "B. Ori site",
+        "solution": "Replication begins at a specific sequence called the Origin of Replication (Ori).",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Genetic information flows from DNA to RNA to Protein. This is called:",
+        "question_latex": "Genetic information flows from DNA to RNA to Protein. This is called:",
+        "question_images": [],
+        "options": [
+            "A. Reverse transcription",
+            "B. Central Dogma",
+            "C. Translation",
+            "D. Transformation"
+        ],
+        "option_images": [],
+        "answer": "B. Central Dogma",
+        "solution": "This unidirectional flow is the core principle of molecular biology.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which enzyme proofreads the DNA during replication?",
+        "question_latex": "Which enzyme proofreads the DNA during replication?",
+        "question_images": [],
+        "options": [
+            "A. Helicase",
+            "B. Primase",
+            "C. DNA Polymerase",
+            "D. Ligase"
+        ],
+        "option_images": [],
+        "answer": "C. DNA Polymerase",
+        "solution": "DNA polymerase has a $3^{\\prime}\\rightarrow5^{\\prime}$ exonuclease activity that allows it to proofread and correct mismatched bases.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The sequence of bases in mRNA is determined by:",
+        "question_latex": "The sequence of bases in mRNA is determined by:",
+        "question_images": [],
+        "options": [
+            "A. Template DNA strand",
+            "B. Coding DNA strand",
+            "C. tRNA",
+            "D. Ribosomes"
+        ],
+        "option_images": [],
+        "answer": "A. Template DNA strand",
+        "solution": "The mRNA is built complementary to the template DNA strand.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "A sequence of three bases on tRNA is called:",
+        "question_latex": "A sequence of three bases on tRNA is called:",
+        "question_images": [],
+        "options": [
+            "A. Codon",
+            "B. Anticodon",
+            "C. Cistron",
+            "D. Muton"
+        ],
+        "option_images": [],
+        "answer": "B. Anticodon",
+        "solution": "The anticodon pairs with the mRNA codon during translation.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "DNA and RNA are both polymers of:",
+        "question_latex": "DNA and RNA are both polymers of:",
+        "question_images": [],
+        "options": [
+            "A. Amino acids",
+            "B. Nucleosides",
+            "C. Nucleotides",
+            "D. Sugars"
+        ],
+        "option_images": [],
+        "answer": "C. Nucleotides",
+        "solution": "Nucleic acids are long chains of nucleotide subunits.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The distance between base pairs in a helix is:",
+        "question_latex": "The distance between base pairs in a helix is:",
+        "question_images": [],
+        "options": [
+            "A. $0.34 \\text{ nm}$",
+            "B. $3.4 \\text{ nm}$",
+            "C. $2 \\text{ nm}$",
+            "D. $20 \\text{ nm}$"
+        ],
+        "option_images": [],
+        "answer": "A. $0.34 \\text{ nm}$",
+        "solution": "Successive base pairs are separated by $3.4 \\text{ \\AA}$ or $0.34 \\text{ nm}$.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The bond between sugar and base in a nucleoside is:",
+        "question_latex": "The bond between sugar and base in a nucleoside is:",
+        "question_images": [],
+        "options": [
+            "A. Phosphodiester",
+            "B. N-glycosidic",
+            "C. Hydrogen",
+            "D. Peptide"
+        ],
+        "option_images": [],
+        "answer": "B. N-glycosidic",
+        "solution": "It links the sugar to nitrogen $9$ of purines or nitrogen $1$ of pyrimidines.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Mendel called genes as:",
+        "question_latex": "Mendel called genes as:",
+        "question_images": [],
+        "options": [
+            "A. Factors",
+            "B. Elements",
+            "C. Units",
+            "D. Cistrons"
+        ],
+        "option_images": [],
+        "answer": "A. Factors",
+        "solution": "Mendel used the term 'factors' to describe the discrete units of inheritance.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The experimental proof for Griffith's transformation was provided by:",
+        "question_latex": "The experimental proof for Griffith's transformation was provided by:",
+        "question_images": [],
+        "options": [
+            "A. Watson and Crick",
+            "B. Avery, MacLeod, and McCarty",
+            "C. Hershey and Chase",
+            "D. Meselson and Stahl"
+        ],
+        "option_images": [],
+        "answer": "B. Avery, MacLeod, and McCarty",
+        "solution": "They used biochemical analysis to prove that the transformation principle was DNA.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "DNA synthesis is semi-conservative, meaning:",
+        "question_latex": "DNA synthesis is semi-conservative, meaning:",
+        "question_images": [],
+        "options": [
+            "A. One old and one new strand in daughter DNA",
+            "B. Two old strands in daughter DNA",
+            "C. Two new strands in daughter DNA",
+            "D. Random distribution of old and new DNA"
+        ],
+        "option_images": [],
+        "answer": "A. One old and one new strand in daughter DNA",
+        "solution": "Half of the parent molecule is conserved in each daughter molecule.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The transcriptionally active region of chromatin is called",
+        "question_latex": "The transcriptionally active region of chromatin is called",
+        "question_images": [],
+        "options": [
+            "A. Heterochromatin",
+            "B. Euchromatin",
+            "C. Chromocentre",
+            "D. Nucleosome"
+        ],
+        "option_images": [],
+        "answer": "B. Euchromatin",
+        "solution": "Euchromatin is the loosely packed, light-staining region of chromatin that is transcriptionally active, whereas heterochromatin is densely packed and inactive.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The anticodon is located on",
+        "question_latex": "The anticodon is located on",
+        "question_images": [],
+        "options": [
+            "A. DNA",
+            "B. mRNA",
+            "C. r RNA",
+            "D. t RNA"
+        ],
+        "option_images": [],
+        "answer": "D. t RNA",
+        "solution": "The tRNA molecule contains the anticodon loop, which has bases complementary to the codons present on the mRNA.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Double helix model of DNA structure was given by I. James Watson II. Francis Crick III. Maurice Wilkins IV. Rosalind Franklin Choose the correct option",
+        "question_latex": "Double helix model of DNA structure was given by I. James Watson II. Francis Crick III. Maurice Wilkins IV. Rosalind Franklin Choose the correct option",
+        "question_images": [],
+        "options": [
+            "A. I and III",
+            "B. I and II",
+            "C. III and IV",
+            "D. I and IV"
+        ],
+        "option_images": [],
+        "answer": "B. I and II",
+        "solution": "James Watson and Francis Crick proposed the double helix structure of DNA in $1953$ based on X-ray diffraction data produced by Maurice Wilkins and Rosalind Franklin.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "During transcription, the DNA strand which acts as a template is called A strand and it has B polarity.",
+        "question_latex": "During transcription, the DNA strand which acts as a template is called $A$ strand and it has $B$ polarity.",
+        "question_images": [
+            "q100_1"
+        ],
+        "options": [
+            "A. Antisense; 3'->5'",
+            "B. Coding; 5'->3'",
+            "C. Sense; 3'->5'",
+            "D. Sense; 5'->3'"
+        ],
+        "option_images": [],
+        "answer": "A. Antisense; 3'->5'",
+        "solution": "The DNA strand that acts as a template is the antisense strand, and it must have $3^{\\prime}\\rightarrow5^{\\prime}$ polarity so that RNA can be synthesized in the $5^{\\prime}\\rightarrow3^{\\prime}$ direction.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 101,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Credit of disclosing genetic code goes to",
+        "question_latex": "Credit of disclosing genetic code goes to",
+        "question_images": [],
+        "options": [
+            "A. Nirenberg",
+            "B. Matthael",
+            "C. Both (a) and (b)",
+            "D. Khorana"
+        ],
+        "option_images": [],
+        "answer": "C. Both (a) and (b)",
+        "solution": "Marshall Nirenberg and Heinrich Matthaei ($1961$) provided the experimental proof for the triplet nature of the genetic code using a cell-free system.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 102,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Given below are the two statements: Statement I: Only one strand in the transcription unit functions as template and is called antisense strand. Statement II: The non-template strand of transcription unit is called sense strand.",
+        "question_latex": "Given below are the two statements: Statement I: Only one strand in the transcription unit functions as template and is called antisense strand. Statement II: The non-template strand of transcription unit is called sense strand.",
+        "question_images": [],
+        "options": [
+            "A. Statement I is incorrect but Statement II is correct.",
+            "B. Both Statement I and Statement II are correct.",
+            "C. Both Statement I and Statement II are incorrect.",
+            "D. Statement I is correct but Statement II is incorrect."
+        ],
+        "option_images": [],
+        "answer": "B. Both Statement I and Statement II are correct.",
+        "solution": "In transcription, the template strand ($3^{\\prime} \\rightarrow 5^{\\prime}$) is the antisense strand, and the other strand ($5^{\\prime} \\rightarrow 3^{\\prime}$) is the sense or coding strand.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 103,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Histone proteins, which form a major component of eukaryotic chromosomes, are rich in amino acids.",
+        "question_latex": "Histone proteins, which form a major component of eukaryotic chromosomes, are rich in amino acids.",
+        "question_images": [],
+        "options": [
+            "A. Lysine and arginine",
+            "B. Histidine and lysine",
+            "C. Arginine and valine",
+            "D. Alanine and glycine"
+        ],
+        "option_images": [],
+        "answer": "A. Lysine and arginine",
+        "solution": "Histones are basic proteins that carry a positive charge because they are rich in basic amino acid residues like lysine and arginine.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 104,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "RNA primers are removed by",
+        "question_latex": "RNA primers are removed by",
+        "question_images": [],
+        "options": [
+            "A. DNA polymerase I",
+            "B. RNA polymerase II",
+            "C. DNA polymerase II",
+            "D. DNA polymerase III"
+        ],
+        "option_images": [],
+        "answer": "A. DNA polymerase I",
+        "solution": "DNA polymerase I (Kornberg enzyme) has exonuclease activity that allows it to remove RNA primers and fill the gaps with DNA nucleotides.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 105,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In eukaryotes gene is the segment of",
+        "question_latex": "In eukaryotes gene is the segment of",
+        "question_images": [],
+        "options": [
+            "A. amino acid sequence that codes for a functional polypeptide.",
+            "B. sRNA that codes for a protein.",
+            "C. DNA that codes for functional polypeptide.",
+            "D. tRNA that codes for functional polypeptide."
+        ],
+        "option_images": [],
+        "answer": "C. DNA that codes for functional polypeptide.",
+        "solution": "A gene is defined as a segment of DNA that codes for a functional product, which can be a polypeptide or an RNA molecule.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 106,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The size of mRNA is generally related to",
+        "question_latex": "The size of mRNA is generally related to",
+        "question_images": [],
+        "options": [
+            "A. The number of anticodons it has",
+            "B. The size of the ribosome",
+            "C. The number of codons it has",
+            "D. The size of entire DNA molecule"
+        ],
+        "option_images": [],
+        "answer": "C. The number of codons it has",
+        "solution": "The length of mRNA is determined by the number of codons it contains to specify the sequence of amino acids in a protein.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 107,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "If the sequence of nucleotides in one strand of DNA is 3' TGGAAGCT5', then the sequence of nucleotides on complementary stand shall be?",
+        "question_latex": "If the sequence of nucleotides in one strand of DNA is $3^{\\prime}$ TGGAAGCT $5^{\\prime}$, then the sequence of nucleotides on complementary stand shall be?",
+        "question_images": [],
+        "options": [
+            "A. 5' AGCUUCGA 3'",
+            "B. 5' UGCTTCGU 3'",
+            "C. 5' ACCTTCGA 3'",
+            "D. 3' AGCTTCGA 5'"
+        ],
+        "option_images": [],
+        "answer": "C. 5' ACCTTCGA 3'",
+        "solution": "Following complementary base pairing ($A-T, G-C$), the strand complementary to $3^{\\prime}-TGGAAGCT-5^{\\prime}$ is $5^{\\prime}-ACCTTCGA-3^{\\prime}$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 108,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which of the following codons has no tRNA?",
+        "question_latex": "Which of the following codons has no tRNA?",
+        "question_images": [],
+        "options": [
+            "A. UAA",
+            "B. UAU",
+            "C. UGU",
+            "D. UGC"
+        ],
+        "option_images": [],
+        "answer": "A. UAA",
+        "solution": "UAA is a stop codon (nonsense codon). No tRNA has an anticodon complementary to stop codons; they are recognized by release factors.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 109,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In a segment of eukaryotic DNA, if the purine bases are 40, then what will be number of pyrimidine bases?",
+        "question_latex": "In a segment of eukaryotic DNA, if the purine bases are 40, then what will be number of pyrimidine bases?",
+        "question_images": [],
+        "options": [
+            "A. 80",
+            "B. 40",
+            "C. 60",
+            "D. 20"
+        ],
+        "option_images": [],
+        "answer": "B. 40",
+        "solution": "According to Chargaff's rule, total purines ($A+G$) equal total pyrimidines ($T+C$) in a double-stranded DNA.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 110,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "DNA element with ability to change its position is called",
+        "question_latex": "DNA element with ability to change its position is called",
+        "question_images": [],
+        "options": [
+            "A. Cistron",
+            "B. Transposon",
+            "C. Intron",
+            "D. Recon"
+        ],
+        "option_images": [],
+        "answer": "B. Transposon",
+        "solution": "Transposons are 'jumping genes'—sequences of DNA that can move around within the genome of a single cell.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 111,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "DNA is dependent on A for synthesis of proteins. DNA and RNA both can function as genetic material. But B being more stable, preferred for the storage of genetic information. For the transmission of genetic information, C is better.",
+        "question_latex": "DNA is dependent on $A$ for synthesis of proteins. DNA and RNA both can function as genetic material. But $B$ being more stable, preferred for the storage of genetic information. For the transmission of genetic information, $C$ is better.",
+        "question_images": [],
+        "options": [
+            "A. A-DNA, B-RNA, C-RNA",
+            "B. A-RNA, B-DNA, C-RNA",
+            "C. A-RNA, B-RNA, C-DNA",
+            "D. A-DNA, B-RNA, C-DNA"
+        ],
+        "option_images": [],
+        "answer": "B. A-RNA, B-DNA, C-RNA",
+        "solution": "DNA needs RNA (mRNA) to translate instructions into proteins. DNA's stability makes it the ideal storage, while RNA's flexibility is better for transmission.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 112,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "All the terminator codons begin with the nucleotide of",
+        "question_latex": "All the terminator codons begin with the nucleotide of",
+        "question_images": [],
+        "options": [
+            "A. Adenine",
+            "B. Uracil",
+            "C. Guanine",
+            "D. Cytosine"
+        ],
+        "option_images": [],
+        "answer": "B. Uracil",
+        "solution": "The three terminator (stop) codons are $UAA, UAG,$ and $UGA$. All of them start with Uracil ($U$).",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 113,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which one of the following is the correct description of Streptococcus pneumonia causing pneumonia?",
+        "question_latex": "Which one of the following is the correct description of $Streptococcus$ $pneumoniae$ causing pneumonia?",
+        "question_images": [],
+        "options": [
+            "A. non-virulent, Rough, encapsulated",
+            "B. Non-virulent, Smooth, encapsulated",
+            "C. Virulent, Smooth, encapsulated",
+            "D. Virulent, Rough, non-capsulated"
+        ],
+        "option_images": [],
+        "answer": "C. Virulent, Smooth, encapsulated",
+        "solution": "The virulent 'S' (smooth) strain of $Streptococcus$ $pneumoniae$ has a polysaccharide capsule that protects it from the host immune system.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 114,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "HGP was closely associated with the rapid development of a new area in biology called",
+        "question_latex": "HGP was closely associated with the rapid development of a new area in biology called",
+        "question_images": [],
+        "options": [
+            "A. Biotechnology",
+            "B. Bioengineering",
+            "C. Bioinformatics",
+            "D. Biogeography"
+        ],
+        "option_images": [],
+        "answer": "C. Bioinformatics",
+        "solution": "The processing and analysis of vast genomic data from the Human Genome Project led to the creation of bioinformatics.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 115,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In a double-stranded DNA, the sequence of bases in one strand is AGCTAAGC. What is the complementary sequence on the other strand?",
+        "question_latex": "In a double-stranded DNA, the sequence of bases in one strand is $AGCTAAGC$. What is the complementary sequence on the other strand?",
+        "question_images": [],
+        "options": [
+            "A. TCGATTCG",
+            "B. UCGAUUCG",
+            "C. AGCTAAGC",
+            "D. CAUTAUCG"
+        ],
+        "option_images": [],
+        "answer": "A. TCGATTCG",
+        "solution": "Based on complementary pairing ($A-T$ and $G-C$), the other strand is $TCGATTCG$.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 116,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Enzyme responsible for reverse transcription is",
+        "question_latex": "Enzyme responsible for reverse transcription is",
+        "question_images": [],
+        "options": [
+            "A. Reverse transcriptase",
+            "B. Endonuclease",
+            "C. Hydrolase",
+            "D. Polymerase"
+        ],
+        "option_images": [],
+        "answer": "A. Reverse transcriptase",
+        "solution": "Reverse transcriptase is the enzyme that synthesizes DNA from an RNA template, found in retroviruses.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 117,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The triplet on coding strand of DNA is ATG. What would be the required anticodon on corresponding tRNA during translation?",
+        "question_latex": "The triplet on coding strand of DNA is $ATG$. What would be the required anticodon on corresponding $tRNA$ during translation?",
+        "question_images": [],
+        "options": [
+            "A. UAA",
+            "B. UAG",
+            "C. UGA",
+            "D. UAC"
+        ],
+        "option_images": [],
+        "answer": "D. UAC",
+        "solution": "Coding strand $ATG$ $\\rightarrow$ mRNA codon $AUG$. The tRNA anticodon for $AUG$ is $UAC$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 118,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Operon model for regulation of transcription was proposed by",
+        "question_latex": "Operon model for regulation of transcription was proposed by",
+        "question_images": [],
+        "options": [
+            "A. Meselson and Stahl in 1998",
+            "B. Jacob and Monod in 1961",
+            "C. Watson and Crick in 1951",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "B. Jacob and Monod in 1961",
+        "solution": "Jacob and Monod proposed the operon model ($lac$ operon) to explain gene regulation in bacteria.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 119,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which one of the following is universal initiation codon?",
+        "question_latex": "Which one of the following is universal initiation codon?",
+        "question_images": [],
+        "options": [
+            "A. UAG",
+            "B. AUG",
+            "C. UAA",
+            "D. AAG"
+        ],
+        "option_images": [],
+        "answer": "B. AUG",
+        "solution": "AUG is the start codon that initiates protein synthesis and also codes for Methionine.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 120,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The Human Genome Project formally began in A and was completed in B.",
+        "question_latex": "The Human Genome Project formally began in $A$ and was completed in $B$.",
+        "question_images": [],
+        "options": [
+            "A. 1980, 2001",
+            "B. 1993, 2000",
+            "C. 1995, 2005",
+            "D. 1990, 2003"
+        ],
+        "option_images": [],
+        "answer": "D. 1990, 2003",
+        "solution": "The international HGP started in $1990$ and the final draft of the sequence was declared finished in $2003$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 121,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "During DNA replication, the term leading template is applied to the one which replicates itself in A direction and the replication is B.",
+        "question_latex": "During DNA replication, the term leading template is applied to the one which replicates itself in $A$ direction and the replication is $B$.",
+        "question_images": [],
+        "options": [
+            "A. 3'->5', Continuous",
+            "B. 5'->3', Continuous",
+            "C. 5'->3', Discontinuous",
+            "D. 3'->5', Discontinuous"
+        ],
+        "option_images": [],
+        "answer": "A. 3'->5', Continuous",
+        "solution": "The leading strand template has $3^{\\prime} \\rightarrow 5^{\\prime}$ polarity, and its synthesis ($5^{\\prime} \\rightarrow 3^{\\prime}$) is continuous.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 122,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Dr. Har Gobind Khorana prepared an artificial mRNA with repeated sequences of two nucleotides (CUC UCU CUC), this after translation has produced a polypeptide chain containing alternately arranged and amino acids respectively.",
+        "question_latex": "Dr. Har Gobind Khorana prepared an artificial mRNA with repeated sequences of two nucleotides ($CUC$ $UCU$ $CUC$), this after translation has produced a polypeptide chain containing alternately arranged and amino acids respectively.",
+        "question_images": [],
+        "options": [
+            "A. alanine, asparagine",
+            "B. serine, leucine",
+            "C. valine, serine",
+            "D. leucine, serine"
+        ],
+        "option_images": [],
+        "answer": "D. leucine, serine",
+        "solution": "In Khorana's experiment, $CUC$ codes for Leucine and $UCU$ codes for Serine, resulting in a repeating peptide chain.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 123,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which of the following is correct pair of pyrimidine bases?",
+        "question_latex": "Which of the following is correct pair of pyrimidine bases?",
+        "question_images": [],
+        "options": [
+            "A. Adenine & Thymine",
+            "B. Adenine & Guanine",
+            "C. Thymine & Cytosine",
+            "D. Guanine & Cytosine"
+        ],
+        "option_images": [],
+        "answer": "C. Thymine & Cytosine",
+        "solution": "Pyrimidines are single-ringed structures (Cytosine, Thymine, Uracil). Purines are double-ringed (Adenine, Guanine).",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 124,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "There are 64 codons in the dictionary of genetic code because",
+        "question_latex": "There are 64 codons in the dictionary of genetic code because",
+        "question_images": [],
+        "options": [
+            "A. There are 64 amino acids to be coded.",
+            "B. The genetic code is triplet.",
+            "C. The 20 codons specify the 20 amino acids and remaining codons are meaning less.",
+            "D. There are 64 types of tRNA with different codons."
+        ],
+        "option_images": [],
+        "answer": "B. The genetic code is triplet.",
+        "solution": "A triplet code using 4 bases gives $4 \\times 4 \\times 4 = 64$ unique combinations, which is sufficient to code for 20 amino acids.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 125,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "HGP or human genome project is the sequencing of complete human",
+        "question_latex": "HGP or human genome project is the sequencing of complete human",
+        "question_images": [],
+        "options": [
+            "A. RNA",
+            "B. Genome",
+            "C. Proteins",
+            "D. Enzymes"
+        ],
+        "option_images": [],
+        "answer": "B. Genome",
+        "solution": "The HGP mapped all the DNA (the genome) in a haploid set of human chromosomes.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 126,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "m RNA directs the building of proteins through a sequence of",
+        "question_latex": "$mRNA$ directs the building of proteins through a sequence of",
+        "question_images": [],
+        "options": [
+            "A. Introns",
+            "B. Codons",
+            "C. Exons",
+            "D. Anticodons"
+        ],
+        "option_images": [],
+        "answer": "B. Codons",
+        "solution": "Information on mRNA is read in triplets called codons to synthesize a specific sequence of amino acids.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 127,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In the synthesis of which of the following the DNA molecule is not directly involved?",
+        "question_latex": "In the synthesis of which of the following the DNA molecule is not directly involved?",
+        "question_images": [],
+        "options": [
+            "A. m RNA molecule",
+            "B. Protein molecule",
+            "C. Another DNA molecule",
+            "D. tRNA molecule"
+        ],
+        "option_images": [],
+        "answer": "B. Protein molecule",
+        "solution": "DNA acts as a template for RNA (mRNA, tRNA, rRNA) and for its own replication, but proteins are synthesized from an mRNA template.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 128,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Dr. Lalji Singh obtained radioactive DNA probe from Y chromosome of",
+        "question_latex": "Dr. Lalji Singh obtained radioactive DNA probe from $Y$ chromosome of",
+        "question_images": [],
+        "options": [
+            "A. Female drosophila",
+            "B. Female banded krait",
+            "C. Male drosophila",
+            "D. Male banded krait"
+        ],
+        "option_images": [],
+        "answer": "B. Female banded krait",
+        "solution": "Dr. Lalji Singh, the 'Father of Indian DNA Fingerprinting', used Banded Krait Minor ($BKM$) satellite DNA from the female krait.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 129,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which one of the following pairs is correctly matched with regard to the codon and the amino acid coded by it?",
+        "question_latex": "Which one of the following pairs is correctly matched with regard to the codon and the amino acid coded by it?",
+        "question_images": [],
+        "options": [
+            "A. UUA-Valine",
+            "B. AAA-Lysine",
+            "C. AUG-Cysteine",
+            "D. CCC-Alanine"
+        ],
+        "option_images": [],
+        "answer": "B. AAA-Lysine",
+        "solution": "AAA codes for Lysine. Other matches: UUA (Leucine), AUG (Methionine), CCC (Proline).",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 130,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "RNA that picks up the specific amino acids from the amino acid pool of cytoplasm to carry it to the ribosomes during protein synthesis is",
+        "question_latex": "RNA that picks up the specific amino acids from the amino acid pool of cytoplasm to carry it to the ribosomes during protein synthesis is",
+        "question_images": [],
+        "options": [
+            "A. mRNA",
+            "B. sRNA",
+            "C. rRNA",
+            "D. tRNA"
+        ],
+        "option_images": [],
+        "answer": "D. tRNA",
+        "solution": "Transfer RNA (tRNA) acts as an adapter molecule that delivers amino acids to the growing polypeptide chain at the ribosome.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 131,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "During translation, in protein synthesis, joining of larger and smaller subunits of ribosome require ions.",
+        "question_latex": "During translation, in protein synthesis, joining of larger and smaller subunits of ribosome require ions.",
+        "question_images": [],
+        "options": [
+            "A. $Ca^{++}$",
+            "B. $Mn^{++}$",
+            "C. $Mg^{++}$",
+            "D. $Cl^-$"
+        ],
+        "option_images": [],
+        "answer": "C. $Mg^{++}$",
+        "solution": "The association and stability of ribosomal subunits during translation depend on the concentration of Magnesium ($Mg^{++}$) ions.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 132,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The light stained and noncondensed regions of eukaryotic chromosomes are called",
+        "question_latex": "The light stained and noncondensed regions of eukaryotic chromosomes are called",
+        "question_images": [],
+        "options": [
+            "A. exons",
+            "B. introns",
+            "C. heterochromatin",
+            "D. euchromatin"
+        ],
+        "option_images": [],
+        "answer": "D. euchromatin",
+        "solution": "Euchromatin is transcriptionally active, loosely packed, and stains lightly under a microscope.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 133,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In a DNA molecule, guanine pairs with nitrogen base and linked by hydrogen bonds.",
+        "question_latex": "In a DNA molecule, guanine pairs with nitrogen base and linked by hydrogen bonds.",
+        "question_images": [],
+        "options": [
+            "A. thymine, three",
+            "B. cytosine, two",
+            "C. adenine, two",
+            "D. cytosine, three"
+        ],
+        "option_images": [],
+        "answer": "D. cytosine, three",
+        "solution": "Guanine ($G$) always pairs with Cytosine ($C$) using three hydrogen bonds.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 134,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "H1 histone is also called",
+        "question_latex": "$H_1$ histone is also called",
+        "question_images": [],
+        "options": [
+            "A. Junk histone",
+            "B. Linker histone",
+            "C. Neutral histone",
+            "D. Basic histone"
+        ],
+        "option_images": [],
+        "answer": "B. Linker histone",
+        "solution": "H1 histone serves as a linker that connects adjacent nucleosomes together in chromatin.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 135,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The regions of chromosomes, which are non condensed, light stained and transcriptionally active, are called",
+        "question_latex": "The regions of chromosomes, which are non condensed, light stained and transcriptionally active, are called",
+        "question_images": [],
+        "options": [
+            "A. Nucleosome",
+            "B. Solenoid",
+            "C. Euchromatin",
+            "D. Heterochromatin"
+        ],
+        "option_images": [],
+        "answer": "C. Euchromatin",
+        "solution": "Transcriptionally active, loosely packed DNA regions are known as euchromatin.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 136,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which one of the following scientist performed the experiment with bacteriophage to prove DNA as genetic material?",
+        "question_latex": "Which one of the following scientist performed the experiment with bacteriophage to prove DNA as genetic material?",
+        "question_images": [],
+        "options": [
+            "A. Macleod",
+            "B. Hershey and Chase",
+            "C. Griffith",
+            "D. Mc Carty"
+        ],
+        "option_images": [],
+        "answer": "B. Hershey and Chase",
+        "solution": "The Hershey-Chase 'blender' experiment ($1952$) using radioactive isotopes $^{32}P$ and $^{35}S$ proved DNA is the genetic material.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 137,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Alec Jeffreys used as genetic marker.",
+        "question_latex": "Alec Jeffreys used as genetic marker.",
+        "question_images": [],
+        "options": [
+            "A. HUMULIN",
+            "B. Radioactive probe",
+            "C. RFLP",
+            "D. VNTR"
+        ],
+        "option_images": [],
+        "answer": "D. VNTR",
+        "solution": "Sir Alec Jeffreys pioneered DNA fingerprinting using Variable Number Tandem Repeats ($VNTRs$) as markers.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 138,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "During DNA finger printing, the ds-DNA splits into ss-DNA by treatment.",
+        "question_latex": "During DNA finger printing, the ds-DNA splits into ss-DNA by treatment.",
+        "question_images": [],
+        "options": [
+            "A. Alkali",
+            "B. Agarose",
+            "C. Acid",
+            "D. Ampicillin"
+        ],
+        "option_images": [],
+        "answer": "A. Alkali",
+        "solution": "Alkaline treatment (e.g., $NaOH$) is used to denature double-stranded DNA into single strands for blotting.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 139,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The similarity between DNA and RNA is that both of them.....?",
+        "question_latex": "The similarity between DNA and RNA is that both of them.....?",
+        "question_images": [],
+        "options": [
+            "A. have similar type of sugar components",
+            "B. are polymers of nucleotides",
+            "C. are always double stranded",
+            "D. have similar pyrimidine bases"
+        ],
+        "option_images": [],
+        "answer": "B. are polymers of nucleotides",
+        "solution": "Both $DNA$ and $RNA$ are nucleic acid polymers composed of repeating nucleotide units.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 140,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "What will be the sequence of nucleotides in mRNA if DNA have ATTGGC sequence?",
+        "question_latex": "What will be the sequence of nucleotides in mRNA if DNA have $ATTGGC$ sequence?",
+        "question_images": [],
+        "options": [
+            "A. TAAGGG",
+            "B. UGATCA",
+            "C. ATAGCG",
+            "D. UAACCG"
+        ],
+        "option_images": [],
+        "answer": "D. UAACCG",
+        "solution": "mRNA is complementary to the template DNA ($A \\rightarrow U, T \\rightarrow A, G \\rightarrow C, C \\rightarrow G$). So $ATTGGC$ becomes $UAACCG$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 141,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Packaging of chromatin at higher levels require",
+        "question_latex": "Packaging of chromatin at higher levels require",
+        "question_images": [],
+        "options": [
+            "A. Additional histone proteins",
+            "B. Linker histone proteins",
+            "C. Non-histone chromosomal proteins",
+            "D. Extra chromosomal proteins"
+        ],
+        "option_images": [],
+        "answer": "C. Non-histone chromosomal proteins",
+        "solution": "Higher-order chromatin packaging requires a set of non-histone chromosomal ($NHC$) proteins.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 142,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Gene of bacteria and virus code for more than one polypeptide are called",
+        "question_latex": "Gene of bacteria and virus code for more than one polypeptide are called",
+        "question_images": [],
+        "options": [
+            "A. Overlapping gene",
+            "B. Monocistronic gene",
+            "C. Polycistronic gene",
+            "D. Non-ambiguous gene"
+        ],
+        "option_images": [],
+        "answer": "C. Polycistronic gene",
+        "solution": "Polycistronic mRNA carries information for several genes and is characteristic of prokaryotes.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 143,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In regulation of gene expression in prokaryotes: I. Lactose acts as the suppressor. II. Tryptophan acts as the inducer. III. Regulator gene produces the repressor.",
+        "question_latex": "In regulation of gene expression in prokaryotes: I. Lactose acts as the suppressor. II. Tryptophan acts as the inducer. III. Regulator gene produces the repressor.",
+        "question_images": [],
+        "options": [
+            "A. I alone correct",
+            "B. II alone correct",
+            "C. III alone correct",
+            "D. II and I are correct"
+        ],
+        "option_images": [],
+        "answer": "C. III alone correct",
+        "solution": "In an operon, the regulator gene produces the repressor. In the $lac$ operon, lactose is the inducer, not a suppressor.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 144,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The cellular factory responsible for the synthesis of proteins is",
+        "question_latex": "The cellular factory responsible for the synthesis of proteins is",
+        "question_images": [],
+        "options": [
+            "A. Mitochondria",
+            "B. Endoplasmic reticulum",
+            "C. Golgi body",
+            "D. Ribosome"
+        ],
+        "option_images": [],
+        "answer": "D. Ribosome",
+        "solution": "Ribosomes are the site of translation where mRNA information is turned into a polypeptide chain.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 145,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Molecular basis of organ differentiation depends on the modulation in transcription by",
+        "question_latex": "Molecular basis of organ differentiation depends on the modulation in transcription by",
+        "question_images": [],
+        "options": [
+            "A. RNA polymerase",
+            "B. Ribosome",
+            "C. Transcription factor",
+            "D. anticodon"
+        ],
+        "option_images": [],
+        "answer": "C. Transcription factor",
+        "solution": "Transcription factors bind to specific DNA sequences to control the rate of transcription, driving cell and organ differentiation.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 146,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Dr. Khorana prepared an artificial mRNA containing CUC UCU CUC nucleotide sequence, this resulted in the formation of a polypeptide with alternately arranged and amino acids respectively.",
+        "question_latex": "Dr. Khorana prepared an artificial mRNA containing $CUC$ $UCU$ $CUC$ nucleotide sequence, this resulted in the formation of a polypeptide with alternately arranged and amino acids respectively.",
+        "question_images": [],
+        "options": [
+            "A. Proline, glutamine",
+            "B. Glutamine, proline",
+            "C. Serine, leucine",
+            "D. Leucine, serine"
+        ],
+        "option_images": [],
+        "answer": "D. Leucine, serine",
+        "solution": "Using the triplet sequence $(CUC)(UCU)(CUC)$, the resulting amino acids are Leucine and Serine alternately.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 147,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The estimated size of genome in terms of numbers of base pairs in round worm is millions.",
+        "question_latex": "The estimated size of genome in terms of numbers of base pairs in round worm is millions.",
+        "question_images": [],
+        "options": [
+            "A. 12",
+            "B. 4.6",
+            "C. 157",
+            "D. 97"
+        ],
+        "option_images": [],
+        "answer": "D. 97",
+        "solution": "The genome size of $Caenorhabditis$ $elegans$ (roundworm) is approximately 97 million base pairs.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 148,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "During DNA finger printing, the ds DNA is split into ssDNA by treatment.",
+        "question_latex": "During DNA finger printing, the ds DNA is split into ssDNA by treatment.",
+        "question_images": [],
+        "options": [
+            "A. agarose gel",
+            "B. nitrocellulose",
+            "C. acid",
+            "D. alkali"
+        ],
+        "option_images": [],
+        "answer": "D. alkali",
+        "solution": "Denaturation of double-stranded DNA into single strands is achieved using strong alkaline solutions.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 149,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "All the 64 codons in the dictionary of genetic code were deciphered by",
+        "question_latex": "All the 64 codons in the dictionary of genetic code were deciphered by",
+        "question_images": [],
+        "options": [
+            "A. Yanofski and Sarabhai",
+            "B. Dr. Har Gobind Khorana",
+            "C. Nirenberg, Matthaei and Ochoa",
+            "D. Watson and Crick"
+        ],
+        "option_images": [],
+        "answer": "C. Nirenberg, Matthaei and Ochoa",
+        "solution": "These three scientists were pivotal in cracking the entire genetic code dictionary.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 150,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The repressor protein in the lac operon is synthesized by",
+        "question_latex": "The repressor protein in the lac operon is synthesized by",
+        "question_images": [],
+        "options": [
+            "A. structural gene",
+            "B. promoter gene",
+            "C. regulator gene",
+            "D. operator gene"
+        ],
+        "option_images": [],
+        "answer": "C. regulator gene",
+        "solution": "The regulator gene ($i$-gene) constitutively synthesizes the repressor protein that binds to the operator.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 151,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Agarose gel electrophoresis is used to separate DNA fragments. The DNA fragments separate due to",
+        "question_latex": "Agarose gel electrophoresis is used to separate DNA fragments. The DNA fragments separate due to",
+        "question_images": [],
+        "options": [
+            "A. Difference in the size of fragments",
+            "B. Positive charge on the fragments",
+            "C. Difference in their staining property",
+            "D. Difference in the base sequence in them"
+        ],
+        "option_images": [],
+        "answer": "A. Difference in the size of fragments",
+        "solution": "DNA is negatively charged; fragments move towards the positive electrode, with smaller pieces moving through the gel matrix faster.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 152,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Given below are two statements. Statement I: Sickle cell anaemia is an example of point mutation. Statement II: Anticodon is a part of tRNA and it is always represented as 3'->5'.",
+        "question_latex": "Given below are two statements. Statement I: Sickle cell anaemia is an example of point mutation. Statement II: Anticodon is a part of tRNA and it is always represented as $3^{\\prime}\\rightarrow5^{\\prime}$.",
+        "question_images": [],
+        "options": [
+            "A. Statement-I is incorrect but statement-II is correct.",
+            "B. Both statement-I and statement-II are correct.",
+            "C. Both statement-I and statement-II are incorrect.",
+            "D. Statement-I is correct but statement-II is incorrect."
+        ],
+        "option_images": [],
+        "answer": "B. Both statement-I and statement-II are correct.",
+        "solution": "Sickle cell anemia is a point mutation ($GAG \\rightarrow GUG$). tRNA anticodons are read $3^{\\prime}$ to $5^{\\prime}$ to complement mRNA codons ($5^{\\prime}$ to $3^{\\prime}$).",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 153,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which of the following is a correct sequence of different component genes in lac-operon?",
+        "question_latex": "Which of the following is a correct sequence of different component genes in lac-operon?",
+        "question_images": [],
+        "options": [
+            "A. Regulator -> Promoter -> Operator -> lac-A -> lac-Y -> lac-Z",
+            "B. Operator -> Promoter -> Regulator -> lac-Z -> lac-Y -> lac-A",
+            "C. Regulator -> Promoter -> Operator -> lac-Z -> lac-Y -> lac-A",
+            "D. Promoter -> Regulator -> Operator -> lac-Z -> lac-Y -> lac-A"
+        ],
+        "option_images": [],
+        "answer": "C. Regulator -> Promoter -> Operator -> lac-Z -> lac-Y -> lac-A",
+        "solution": "The sequence is: regulator ($i$), promoter ($P$), operator ($O$), and structural genes ($z, y, a$).",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 154,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which one of the following is applicable for t-RNA?",
+        "question_latex": "Which one of the following is applicable for $tRNA$?",
+        "question_images": [],
+        "options": [
+            "A. Folded on itself",
+            "B. Largest molecule",
+            "C. Has two strands",
+            "D. Self replicating"
+        ],
+        "option_images": [],
+        "answer": "A. Folded on itself",
+        "solution": "tRNA is single-stranded but folds into specific 2D (cloverleaf) and 3D shapes due to internal base pairing.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 155,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "How many sense codons code for 20 known essential amino acids?",
+        "question_latex": "How many sense codons code for 20 known essential amino acids?",
+        "question_images": [],
+        "options": [
+            "A. 61",
+            "B. 62",
+            "C. 63",
+            "D. 64"
+        ],
+        "option_images": [],
+        "answer": "A. 61",
+        "solution": "Out of 64 codons, 3 are stop codons (non-sense), leaving 61 sense codons that code for amino acids.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 156,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "A gene present adjacent to operator gene in Lac operon at which RNA-polymerase binds for transcription is gene.",
+        "question_latex": "A gene present adjacent to operator gene in Lac operon at which RNA-polymerase binds for transcription is gene.",
+        "question_images": [],
+        "options": [
+            "A. Regulator",
+            "B. Terminator",
+            "C. Promoter",
+            "D. Structural"
+        ],
+        "option_images": [],
+        "answer": "C. Promoter",
+        "solution": "The promoter is the specific binding site for RNA polymerase.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 157,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which one of the following explains Chargaff s rule?",
+        "question_latex": "Which one of the following explains Chargaff s rule?",
+        "question_images": [],
+        "options": [
+            "A. $A+G=T+C$",
+            "B. $A+C=G+T$",
+            "C. $A+A=C+C$",
+            "D. $A+T=G+C$"
+        ],
+        "option_images": [],
+        "answer": "A. $A+G=T+C$",
+        "solution": "Chargaff's rule states that the number of purines equals the number of pyrimidines ($A+G=T+C$).",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 158,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In Homo sapiens, the estimated gene number is",
+        "question_latex": "In $Homo$ $sapiens$, the estimated gene number is",
+        "question_images": [],
+        "options": [
+            "A. 25,000",
+            "B. 33,000",
+            "C. 68,000",
+            "D. 19,000"
+        ],
+        "option_images": [],
+        "answer": "B. 33,000",
+        "solution": "The initial results of the HGP estimated the human genome to have about 30,000 to 33,000 genes.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 159,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which statement is correct about the direction of DNA strand?",
+        "question_latex": "Which statement is correct about the direction of DNA strand?",
+        "question_images": [],
+        "options": [
+            "A. 5'->3' takes place on template strand",
+            "B. 3'->5' takes place on new strand",
+            "C. 5'->3' takes place on leading strand",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C. 5'->3' takes place on leading strand",
+        "solution": "All new DNA synthesis (leading and lagging) occurs in the $5^{\\prime} \\rightarrow 3^{\\prime}$ direction.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 160,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which one of the following is functionally similar to UGA and UAA?",
+        "question_latex": "Which one of the following is functionally similar to $UGA$ and $UAA$?",
+        "question_images": [],
+        "options": [
+            "A. AUG",
+            "B. GUG",
+            "C. AUA",
+            "D. UAG"
+        ],
+        "option_images": [],
+        "answer": "D. UAG",
+        "solution": "$UGA$, $UAA$, and $UAG$ are all stop codons.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 161,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "How many types of nucleosides occur in a DNA molecule?",
+        "question_latex": "How many types of nucleosides occur in a DNA molecule?",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "D. 4",
+        "solution": "The four nucleosides are Deoxyadenosine, Deoxyguanosine, Deoxycytidine, and Deoxythymidine.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 162,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Identify the set of correct statements: I. AUG is the initiation codon. II. Initiator tRNA is specific for methionine. III. Initiation codon is present at downstream end. IV. There are no tRNA's for stop codons. V. Stop codon is present at upstream end.",
+        "question_latex": "Identify the set of correct statements: I. $AUG$ is the initiation codon. II. Initiator $tRNA$ is specific for methionine. III. Initiation codon is present at downstream end. IV. There are no $tRNA$'s for stop codons. V. Stop codon is present at upstream end.",
+        "question_images": [],
+        "options": [
+            "A. II, IV and V only",
+            "B. I, II and IV only",
+            "C. III, IV and V only",
+            "D. II, III and V only"
+        ],
+        "option_images": [],
+        "answer": "B. I, II and IV only",
+        "solution": "Statements I, II, and IV are correct. III is wrong because AUG is at the upstream ($5^{\\prime}$) end; V is wrong because stop codons are at the downstream ($3^{\\prime}$) end.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 163,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "m-RNA synthesis is known as",
+        "question_latex": "$mRNA$ synthesis is known as",
+        "question_images": [],
+        "options": [
+            "A. Translation",
+            "B. Transcription",
+            "C. Replication",
+            "D. Duplication"
+        ],
+        "option_images": [],
+        "answer": "B. Transcription",
+        "solution": "The process of making an RNA copy of a DNA sequence is transcription.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 164,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Identity the INCORRECT statement with reference to regulation of gene expression.",
+        "question_latex": "Identity the INCORRECT statement with reference to regulation of gene expression.",
+        "question_images": [],
+        "options": [
+            "A. Polypeptide chain is formed as a result of gene expression.",
+            "B. It is a single step process by which a gene is regulated.",
+            "C. It is the metabolic physiological or environmental conditions that regulate expression",
+            "D. The development of embryo is coordinated by several sets of genes."
+        ],
+        "option_images": [],
+        "answer": "B. It is a single step process by which a gene is regulated.",
+        "solution": "Gene regulation is a multi-step process that can occur at transcriptional, processing, or translational levels.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 165,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Polycistronic transcriptional units are found in",
+        "question_latex": "Polycistronic transcriptional units are found in",
+        "question_images": [],
+        "options": [
+            "A. Prokaryotes",
+            "B. Eukaryotes",
+            "C. Mammals",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "A. Prokaryotes",
+        "solution": "mRNA that encodes several proteins is polycistronic, common in bacteria (prokaryotes).",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 166,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "UAG, UGA, UAA are termination codons",
+        "question_latex": "$UAG$, $UGA$, $UAA$ are termination codons",
+        "question_images": [],
+        "options": [
+            "A. As they code for methionine",
+            "B. As they code for two amino acids",
+            "C. As they code for one amino acid",
+            "D. As they do not code for any amino acid"
+        ],
+        "option_images": [],
+        "answer": "D. As they do not code for any amino acid",
+        "solution": "Stop codons signal the end of translation because no amino acid matches them.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 167,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The nuclease enzyme cuts bonds of polynucleotide chain.",
+        "question_latex": "The nuclease enzyme cuts bonds of polynucleotide chain.",
+        "question_images": [],
+        "options": [
+            "A. Peptide",
+            "B. Hydrogen",
+            "C. Phospho-di-ester",
+            "D. Glycosidic"
+        ],
+        "option_images": [],
+        "answer": "C. Phospho-di-ester",
+        "solution": "Nucleases hydrolyze the phosphodiester bonds of the DNA/RNA backbone.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 168,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which of the following is stop codon?",
+        "question_latex": "Which of the following is stop codon?",
+        "question_images": [],
+        "options": [
+            "A. AUG",
+            "B. UGA",
+            "C. CCA",
+            "D. GAC"
+        ],
+        "option_images": [],
+        "answer": "B. UGA",
+        "solution": "One of the three universal stop codons.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 169,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "During DNA replication, the term leading template is applied to the one which replicates itself in A direction and the replication is B.",
+        "question_latex": "During DNA replication, the term leading template is applied to the one which replicates itself in $A$ direction and the replication is $B$.",
+        "question_images": [],
+        "options": [
+            "A. 5'->3', Continuous",
+            "B. 3'->5', Continuous",
+            "C. 5'->3', Discontinuous",
+            "D. 3'->5', Discontinuous"
+        ],
+        "option_images": [],
+        "answer": "B. 3'->5', Continuous",
+        "solution": "The leading template is $3^{\\prime} \\rightarrow 5^{\\prime}$, allowing continuous $5^{\\prime} \\rightarrow 3^{\\prime}$ synthesis.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 170,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "During translation, the A site within the ribosome holds the growing amino acid chain while the B site holds the non-amino acids to be added to the chain.",
+        "question_latex": "During translation, the $A$ site within the ribosome holds the growing amino acid chain while the $B$ site holds the non-amino acids to be added to the chain.",
+        "question_images": [],
+        "options": [
+            "A. A-P, B-A",
+            "B. A-AA, B-P",
+            "C. A-A, B-B",
+            "D. A-E, B-P"
+        ],
+        "option_images": [],
+        "answer": "A. A-P, B-A",
+        "solution": "P-site (Peptidyl) holds the chain; A-site (Aminoacyl) receives the next amino acid.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 171,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The estimated size of genome in terms of number of genes in yeast is",
+        "question_latex": "The estimated size of genome in terms of number of genes in yeast is",
+        "question_images": [],
+        "options": [
+            "A. 4400",
+            "B. 19060",
+            "C. 13000",
+            "D. 6000"
+        ],
+        "option_images": [],
+        "answer": "D. 6000",
+        "solution": "The genome of Saccharomyces cerevisiae has approximately 6,000 genes.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 172,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The concept of central dogma in retroviruses is given by",
+        "question_latex": "The concept of central dogma in retroviruses is given by",
+        "question_images": [],
+        "options": [
+            "A. Temin and Baltimore",
+            "B. Meselson and Stahl",
+            "C. Watson and Crick",
+            "D. MacCarty and MacLeod"
+        ],
+        "option_images": [],
+        "answer": "A. Temin and Baltimore",
+        "solution": "They discovered reverse transcriptase, explaining how RNA genomes replicate into DNA.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 173,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which one of the following triplet codons codes amino acid phenyl alanine?",
+        "question_latex": "Which one of the following triplet codons codes amino acid phenyl alanine?",
+        "question_images": [],
+        "options": [
+            "A. UUA",
+            "B. UGC",
+            "C. UUG",
+            "D. UUU"
+        ],
+        "option_images": [],
+        "answer": "D. UUU",
+        "solution": "UUU was the first codon deciphered as coding for phenylalanine.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 174,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Time required for the formation of a peptide bond during elongation is second.",
+        "question_latex": "Time required for the formation of a peptide bond during elongation is second.",
+        "question_images": [],
+        "options": [
+            "A. 20",
+            "B. 01",
+            "C. 10",
+            "D. 0.1"
+        ],
+        "option_images": [],
+        "answer": "D. 0.1",
+        "solution": "Translation is extremely fast; peptide bond formation takes a fraction of a second.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 175,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which one of the following nitrogen base is NOT a component of RNA?",
+        "question_latex": "Which one of the following nitrogen base is NOT a component of RNA?",
+        "question_images": [],
+        "options": [
+            "A. Thymine",
+            "B. Guanine",
+            "C. Adenine",
+            "D. Cytosine"
+        ],
+        "option_images": [],
+        "answer": "A. Thymine",
+        "solution": "RNA has Uracil instead of Thymine.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 176,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The estimated size of genome in terms of number of genes in Drosophila melanogaster is.",
+        "question_latex": "The estimated size of genome in terms of number of genes in $Drosophila$ $melanogaster$ is.",
+        "question_images": [],
+        "options": [
+            "A. 19,000",
+            "B. 13,000",
+            "C. 25,000",
+            "D. 33,000"
+        ],
+        "option_images": [],
+        "answer": "B. 13,000",
+        "solution": "Fruit flies have about 13,000 to 14,000 genes.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 177,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "ESTs stands for",
+        "question_latex": "$ESTs$ stands for",
+        "question_images": [],
+        "options": [
+            "A. Expressed Sequence Tags",
+            "B. Exit Sequence Tags",
+            "C. Exon Sequence Tags",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "A. Expressed Sequence Tags",
+        "solution": "Technique focused on identifying all genes expressed as RNA.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 178,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which one of the following is a complementary base pair?",
+        "question_latex": "Which one of the following is a complementary base pair?",
+        "question_images": [],
+        "options": [
+            "A. A-G",
+            "B. T-C",
+            "C. A-U",
+            "D. T-G"
+        ],
+        "option_images": [],
+        "answer": "C. A-U",
+        "solution": "Adenine pairs with Uracil in RNA.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 179,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In a DNA molecule, adenine base constitutes 15%. What would be the percentage of guanine base?",
+        "question_latex": "In a DNA molecule, adenine base constitutes 15%. What would be the percentage of guanine base?",
+        "question_images": [],
+        "options": [
+            "A. 30%",
+            "B. 15%",
+            "C. 85%",
+            "D. 35%"
+        ],
+        "option_images": [],
+        "answer": "D. 35%",
+        "solution": "$A=T=15\\% \\implies A+T=30\\%$. Remaining $70\\%$ is $G+C$. So $G=35\\%$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 180,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In DNA fingerprinting, VNTR refers to",
+        "question_latex": "In DNA fingerprinting, $VNTR$ refers to",
+        "question_images": [],
+        "options": [
+            "A. Variable Number Tandem Repeats",
+            "B. Very Narrow Tandem Regions",
+            "C. Viral Nucleotide Transfer Rate",
+            "D. Variant Nucleotide Total Result"
+        ],
+        "option_images": [],
+        "answer": "A. Variable Number Tandem Repeats",
+        "solution": "VNTRs are highly polymorphic sequences used as genetic markers.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 181,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The restriction site G-G-A-T-C-C is cleaved by which restriction endonuclease?",
+        "question_latex": "The restriction site $G-G-A-T-C-C$ is cleaved by which restriction endonuclease?",
+        "question_images": [],
+        "options": [
+            "A. Hind I",
+            "B. Alu I",
+            "C. Eco RI",
+            "D. Bam HI"
+        ],
+        "option_images": [],
+        "answer": "D. Bam HI",
+        "solution": "Bam HI specifically recognizes the $GGATCC$ palindromic sequence.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 182,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Which of the following represents the correct sequence of nucleic acids by decreasing molecular weight?",
+        "question_latex": "Which of the following represents the correct sequence of nucleic acids by decreasing molecular weight?",
+        "question_images": [],
+        "options": [
+            "A. DNA -> mRNA -> tRNA -> rRNA",
+            "B. DNA -> mRNA -> rRNA -> tRNA",
+            "C. DNA -> rRNA -> tRNA -> mRNA",
+            "D. DNA -> tRNA -> mRNA -> rRNA"
+        ],
+        "option_images": [],
+        "answer": "B. DNA -> mRNA -> rRNA -> tRNA",
+        "solution": "DNA is genomic; mRNA varies by protein length; tRNA is smallest ($70$-$90$ bases).",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 183,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Termination of translation requires: I. stop signal II. starting codon III. release factor IV. GUG and AUG",
+        "question_latex": "Termination of translation requires: I. stop signal II. starting codon III. release factor IV. $GUG$ and $AUG$",
+        "question_images": [],
+        "options": [
+            "A. I and III",
+            "B. II and III",
+            "C. III and IV",
+            "D. I, II, III and IV"
+        ],
+        "option_images": [],
+        "answer": "A. I and III",
+        "solution": "Requires a stop codon and release factors to dissociate the complex.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 184,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Polyribosomes are",
+        "question_latex": "Polyribosomes are",
+        "question_images": [],
+        "options": [
+            "A. Total number of ribosomes in the cell.",
+            "B. Number of ribosomes linked to m -RNA.",
+            "C. Not capable of helping in protein synthesis.",
+            "D. Devoid of r-RNA."
+        ],
+        "option_images": [],
+        "answer": "B. Number of ribosomes linked to m -RNA.",
+        "solution": "Polysomes allow multiple proteins to be made from a single mRNA simultaneously.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 185,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Who proved DNA is the transforming material?",
+        "question_latex": "Who proved DNA is the transforming material?",
+        "question_images": [],
+        "options": [
+            "A. Avery, Macleod, Tulecke",
+            "B. Avery, Macleod, McCarthy",
+            "C. Zinder and Lederberg",
+            "D. Franklin, Watson and Crick"
+        ],
+        "option_images": [],
+        "answer": "B. Avery, Macleod, McCarthy",
+        "solution": "They used enzymatic digestion to prove DNA was the transforming principle from Griffith's experiment.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 186,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "According to Chargaff s rule",
+        "question_latex": "According to Chargaff s rule",
+        "question_images": [],
+        "options": [
+            "A. A=C",
+            "B. G=T",
+            "C. A+G=T+C",
+            "D. A+T/C+G = 1"
+        ],
+        "option_images": [],
+        "answer": "C. A+G=T+C",
+        "solution": "Total Purines = Total Pyrimidines.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 187,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Match column I with column II regarding lac operon.",
+        "question_latex": "Match column I with column II regarding lac operon.",
+        "question_images": [
+            "q187_1"
+        ],
+        "options": [
+            "A. A-I, B-III, C-II, D-IV",
+            "B. A-III, B-I, C-II, D-IV",
+            "C. A-II, B-III, C-IV, D-I",
+            "D. A-IV, B-III, C-II, D-I"
+        ],
+        "option_images": [],
+        "answer": "B. A-III, B-I, C-II, D-IV",
+        "solution": "Regulator: Repressor; lac-Z: beta-galactosidase; lac-Y: Permease; lac-A: Transacetylase.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 188,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The conversion of R-type to S-type in Griffith's experiment is called",
+        "question_latex": "The conversion of $R$-type to $S$-type in Griffith's experiment is called",
+        "question_images": [],
+        "options": [
+            "A. Mutation",
+            "B. Transduction",
+            "C. Transfection",
+            "D. Transformation"
+        ],
+        "option_images": [],
+        "answer": "D. Transformation",
+        "solution": "DNA uptake resulting in genetic change.",
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 189,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "UTRs are present at:",
+        "question_latex": "$UTRs$ are present at:",
+        "question_images": [],
+        "options": [
+            "A. Both 5' and 3' end on mRNA.",
+            "B. Required for efficient translation.",
+            "C. Present only at 5' end on mRNA.",
+            "D. Both A and B are correct."
+        ],
+        "option_images": [],
+        "answer": "D. Both A and B are correct.",
+        "solution": "Untranslated regions are present at both ends and are necessary for ribosome recognition and mRNA stability.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 190,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Semi-conservative replication of DNA was experimentally proved by",
+        "question_latex": "Semi-conservative replication of DNA was experimentally proved by",
+        "question_images": [],
+        "options": [
+            "A. Okazaki",
+            "B. Watson and Crick",
+            "C. Meselson and Stahl",
+            "D. Kornberg"
+        ],
+        "option_images": [],
+        "answer": "C. Meselson and Stahl",
+        "solution": "Using heavy nitrogen isotopes in E. coli.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 191,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Nuclear proteins associated with DNA molecule in eukaryotes are:",
+        "question_latex": "Nuclear proteins associated with DNA molecule in eukaryotes are:",
+        "question_images": [],
+        "options": [
+            "A. Tubulin and chitin",
+            "B. Keratin and dynein",
+            "C. Histones and non-histones",
+            "D. Actin and myosin"
+        ],
+        "option_images": [],
+        "answer": "C. Histones and non-histones",
+        "solution": "Essential for DNA packaging and regulation.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 192,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Select the correct match:",
+        "question_latex": "Select the correct match:",
+        "question_images": [],
+        "options": [
+            "A. Phenylalanine - UUU",
+            "B. Codon CUCUCU - Arginine",
+            "C. Histone - Leucine",
+            "D. Stop codons - UUU"
+        ],
+        "option_images": [],
+        "answer": "A. Phenylalanine - UUU",
+        "solution": "UUU is the codon for Phenylalanine.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 193,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Percentage of heterozygous progenies if two heterozygous individuals are crossed for a single trait?",
+        "question_latex": "Percentage of heterozygous progenies if two heterozygous individuals are crossed for a single trait?",
+        "question_images": [],
+        "options": [
+            "A. 50%",
+            "B. 75%",
+            "C. 25%",
+            "D. 100%"
+        ],
+        "option_images": [],
+        "answer": "A. 50%",
+        "solution": "$Tt \\times Tt$ results in $1 TT : 2 Tt : 1 tt$, so $50\\%$ are heterozygous.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 194,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Codons are unambiguous, means one codon code for",
+        "question_latex": "Codons are unambiguous, means one codon code for",
+        "question_images": [],
+        "options": [
+            "A. More than one amino acid",
+            "B. Two amino acids",
+            "C. Only one amino acid",
+            "D. Non-sense amino acid"
+        ],
+        "option_images": [],
+        "answer": "C. Only one amino acid",
+        "solution": "Specificity: a codon always represents the same amino acid.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 195,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In a segment of DNA with 10 base pairs, the numbers of sugar molecules are",
+        "question_latex": "In a segment of DNA with 10 base pairs, the numbers of sugar molecules are",
+        "question_images": [],
+        "options": [
+            "A. 10",
+            "B. 30",
+            "C. 20",
+            "D. 40"
+        ],
+        "option_images": [],
+        "answer": "C. 20",
+        "solution": "2 nucleotides (and thus 2 sugars) per base pair.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 196,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Who developed technique to synthesize artificial mRNA with known repeated sequences?",
+        "question_latex": "Who developed technique to synthesize artificial mRNA with known repeated sequences?",
+        "question_images": [],
+        "options": [
+            "A. F.H.C. Crick",
+            "B. Severo Ochoa",
+            "C. Dr. Har Gobind Khorana",
+            "D. Nirenberg and Matthaei"
+        ],
+        "option_images": [],
+        "answer": "C. Dr. Har Gobind Khorana",
+        "solution": "Chemical synthesis of RNA polymers.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 197,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "In a eukaryotic cell, transcription and translation take place",
+        "question_latex": "In a eukaryotic cell, transcription and translation take place",
+        "question_images": [],
+        "options": [
+            "A. Only in cytoplasm",
+            "B. In nucleus and cytoplasm",
+            "C. In cytoplasm and ribosomes",
+            "D. Only in nucleus"
+        ],
+        "option_images": [],
+        "answer": "B. In nucleus and cytoplasm",
+        "solution": "Spatial separation: RNA made in nucleus, Protein made in cytoplasm.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 198,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "AUG functions as the initiator codon in mRNA. What should be the anticodon on the tRNA molecule that picks up and brings the amino acid specified by the codon?",
+        "question_latex": "$AUG$ functions as the initiator codon in mRNA. What should be the anticodon on the tRNA molecule that picks up and brings the amino acid specified by the codon?",
+        "question_images": [],
+        "options": [
+            "A. UAC",
+            "B. TAC",
+            "C. CAU",
+            "D. GUA"
+        ],
+        "option_images": [],
+        "answer": "A. UAC",
+        "solution": "Anticodon is complementary and antiparallel.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 199,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "The process by which DNA transfers its genetic information to RNA is called",
+        "question_latex": "The process by which DNA transfers its genetic information to RNA is called",
+        "question_images": [],
+        "options": [
+            "A. translocation",
+            "B. transcription",
+            "C. translation",
+            "D. transformation"
+        ],
+        "option_images": [],
+        "answer": "B. transcription",
+        "solution": "Synthesis of RNA using DNA template.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 200,
+        "chapter": "Molecular Basis of Inheritance",
+        "question": "Transcription process in eukaryotes, occurs during A and B phases of cell cycle",
+        "question_latex": "Transcription process in eukaryotes, occurs during $A$ and $B$ phases of cell cycle",
+        "question_images": [
+            "q200_1"
+        ],
+        "options": [
+            "A. G1, S",
+            "B. prophase, metaphase",
+            "C. G1, G2",
+            "D. G2, prophase"
+        ],
+        "option_images": [],
+        "answer": "C. G1, G2",
+        "solution": "Transcription primarily happens in gap phases when metabolic activity is high.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    }
+]

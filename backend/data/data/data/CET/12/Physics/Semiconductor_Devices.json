@@ -1,0 +1,1928 @@
+[
+    {
+        "id": 1,
+        "chapter": "Semiconductor Devices",
+        "question": "What is the output y in the following circuit, when all the three inputs A, B, C are first 'zero' and then 'one'? [MHT-CET 2024]",
+        "question_latex": "What is the output $y$ in the following circuit, when all the three inputs A, B, C are first 'zero' and then 'one'? [MHT-CET 2024]",
+        "question_images": [
+            "q1_1"
+        ],
+        "options": [
+            "A. 0,0",
+            "B. 0,1",
+            "C. 1,0",
+            "D. 1,1"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The first gate is an AND gate, the second is a NAND gate. \n 1. Case (0,0,0): AND(0,0,0) = 0. NAND(0,0) = 1. \n 2. Case (1,1,1): AND(1,1,1) = 1. NAND(1,1) = 0. \n Result: 1 then 0.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Semiconductor Devices",
+        "question": "In a transistor (common emitter configuration) the ratio of power gain to voltage gain is (alpha and beta are current ratios) [2025, 2023]",
+        "question_latex": "In a transistor (common emitter configuration) the ratio of power gain to voltage gain is ($\\alpha$ and $\\beta$ are current ratios) [2025, 2023]",
+        "question_images": [],
+        "options": [
+            "A. beta / alpha",
+            "B. beta",
+            "C. alpha",
+            "D. alpha beta"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Power Gain $= \\text{Voltage Gain} \\times \\text{Current Gain}$. In CE configuration, the current gain is $\\beta$. Thus, $\\frac{\\text{Power Gain}}{\\text{Voltage Gain}} = \\beta$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Semiconductor Devices",
+        "question": "In a transistor amplifier, the base-emitter junction is forward biased and the collector-base junction is reverse biased. The current gain beta is [MHT-CET 2020]",
+        "question_latex": "In a transistor amplifier, the base-emitter junction is forward biased and the collector-base junction is reverse biased. The current gain $\\beta$ is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. IC / IB",
+            "B. IC / IE",
+            "C. IE / IB",
+            "D. IB / IC"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "By definition, in common emitter configuration, $\\beta = \\frac{I_{C}}{I_{B}}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Semiconductor Devices",
+        "question": "Which of the following is correct for the depletion layer of a p-n junction? [MHT-CET 2021]",
+        "question_latex": "Which of the following is correct for the depletion layer of a p-n junction? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. It consists of mobile charge carriers.",
+            "B. It consists of immobile ions.",
+            "C. Its width increases with forward bias.",
+            "D. It has zero resistance."
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The depletion layer is a region devoid of mobile charge carriers, containing only fixed (immobile) donor and acceptor ions.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Semiconductor Devices",
+        "question": "The energy gap of a semiconductor is 1.1 eV. This semiconductor is [MHT-CET 2022]",
+        "question_latex": "The energy gap of a semiconductor is $1.1~eV$. This semiconductor is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Silicon",
+            "B. Germanium",
+            "C. Carbon",
+            "D. Gallium Arsenide"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Silicon has an energy band gap of approximately $1.1~eV$ at room temperature.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Semiconductor Devices",
+        "question": "A Zener diode is used as [MHT-CET 2019]",
+        "question_latex": "A Zener diode is used as [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. An amplifier",
+            "B. A rectifier",
+            "C. A voltage regulator",
+            "D. An oscillator"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Zener diodes operate in the reverse breakdown region to provide a stabilized constant voltage.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Semiconductor Devices",
+        "question": "If alpha = 0.98 for a transistor, then the value of beta is [MHT-CET 2021]",
+        "question_latex": "If $\\alpha = 0.98$ for a transistor, then the value of $\\beta$ is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 49",
+            "B. 50",
+            "C. 98",
+            "D. 0.02"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\beta = \\frac{\\alpha}{1 - \\alpha} = \\frac{0.98}{1 - 0.98} = \\frac{0.98}{0.02} = 49$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Semiconductor Devices",
+        "question": "In a p-n junction diode, the thickness of the depletion layer is 10^-6 m and the potential barrier is 0.8 V. The intensity of electric field in the depletion layer is",
+        "question_latex": "In a p-n junction diode, the thickness of the depletion layer is $10^{-6}$ m and the potential barrier is $0.8$ V. The intensity of electric field in the depletion layer is",
+        "question_images": [],
+        "options": [
+            "A. 8 x 10^5 V/m",
+            "B. 10^6 V/m",
+            "C. 0.8 x 10^-6 V/m",
+            "D. 4 x 10^5 V/m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$E = \\frac{V}{d} = \\frac{0.8}{10^{-6}} = 8 \\times 10^{5}$ V/m.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Semiconductor Devices",
+        "question": "Which logic gate corresponds to the Boolean expression Y = bar{A . B}? [MHT-CET 2023]",
+        "question_latex": "Which logic gate corresponds to the Boolean expression $Y = \\overline{A \\cdot B}$? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. AND",
+            "B. OR",
+            "C. NAND",
+            "D. NOR"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The expression is the logical complement of the AND operation, which is the NAND gate.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Semiconductor Devices",
+        "question": "For a solar cell, the I-V characteristics are shown in which quadrant? [MHT-CET 2024]",
+        "question_latex": "For a solar cell, the I-V characteristics are shown in which quadrant? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. First",
+            "B. Second",
+            "C. Third",
+            "D. Fourth"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Solar cells supply power to an external load, so the characteristics are plotted in the fourth quadrant of the I-V plane.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Semiconductor Devices",
+        "question": "The process of adding impurities to a pure semiconductor is called [MHT-CET 2023]",
+        "question_latex": "The process of adding impurities to a pure semiconductor is called [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Doping",
+            "B. Diffusing",
+            "C. Rectification",
+            "D. Amplification"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Doping is the deliberate addition of atoms to an intrinsic semiconductor to change its electrical properties.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Semiconductor Devices",
+        "question": "An n-type semiconductor is [MHT-CET 2022]",
+        "question_latex": "An n-type semiconductor is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Positively charged",
+            "B. Negatively charged",
+            "C. Neutral",
+            "D. Positively or negatively charged depending on doping"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Even though electrons are majority carriers, the total number of protons equals the total number of electrons in the lattice, making it electrically neutral.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Semiconductor Devices",
+        "question": "In a p-type semiconductor, the majority charge carriers are [MHT-CET 2021]",
+        "question_latex": "In a p-type semiconductor, the majority charge carriers are [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Electrons",
+            "B. Holes",
+            "C. Protons",
+            "D. Neutrons"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Holes are the majority carriers in p-type materials due to trivalent doping.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Semiconductor Devices",
+        "question": "The conductivity of an intrinsic semiconductor [MHT-CET 2020]",
+        "question_latex": "The conductivity of an intrinsic semiconductor [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Increases with temperature",
+            "B. Decreases with temperature",
+            "C. Stays same with temperature",
+            "D. Is zero at all temperatures"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "As temperature rises, more covalent bonds break, releasing more electron-hole pairs and increasing conductivity.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Semiconductor Devices",
+        "question": "Which of the following is pentavalent? [MHT-CET 2019]",
+        "question_latex": "Which of the following is pentavalent? [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Aluminium",
+            "B. Indium",
+            "C. Phosphorus",
+            "D. Boron"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Phosphorus is from Group 15 and has 5 valence electrons.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Semiconductor Devices",
+        "question": "The knee voltage for a silicon diode is approximately [MHT-CET 2024]",
+        "question_latex": "The knee voltage for a silicon diode is approximately [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 0.3 V",
+            "B. 0.7 V",
+            "C. 1.1 V",
+            "D. 2.0 V"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Silicon diodes typically require $0.7~V$ of forward bias to overcome the potential barrier and start conducting significantly.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Semiconductor Devices",
+        "question": "In reverse bias, the width of the depletion layer [MHT-CET 2023]",
+        "question_latex": "In reverse bias, the width of the depletion layer [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Increases",
+            "B. Decreases",
+            "C. Remains same",
+            "D. Becomes zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Reverse bias pulls majority carriers away from the junction, widening the region of immobile ions.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Semiconductor Devices",
+        "question": "A half-wave rectifier converts [MHT-CET 2022]",
+        "question_latex": "A half-wave rectifier converts [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. AC to DC",
+            "B. DC to AC",
+            "C. Low voltage to high",
+            "D. High voltage to low"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Rectification is the process of converting alternating current to a pulsating direct current.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Semiconductor Devices",
+        "question": "The efficiency of a full-wave bridge rectifier is [MHT-CET 2021]",
+        "question_latex": "The efficiency of a full-wave bridge rectifier is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 40.6%",
+            "B. 81.2%",
+            "C. 100%",
+            "D. 50%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Theoretical maximum efficiency of a full-wave rectifier is double that of a half-wave rectifier.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Semiconductor Devices",
+        "question": "Ripple factor for a full-wave rectifier is [MHT-CET 2020]",
+        "question_latex": "Ripple factor for a full-wave rectifier is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 1.21",
+            "B. 0.48",
+            "C. 0.50",
+            "D. 0.10"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The ripple factor of a full-wave rectifier is lower ($0.48$) than that of a half-wave rectifier ($1.21$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Semiconductor Devices",
+        "question": "A photodiode is always used in [MHT-CET 2024]",
+        "question_latex": "A photodiode is always used in [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Forward bias",
+            "B. Reverse bias",
+            "C. Zero bias",
+            "D. Breakdown region"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Photodiodes are operated in reverse bias to maximize the sensitivity to light-induced carrier generation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Semiconductor Devices",
+        "question": "Light Emitting Diodes (LEDs) emit light due to [MHT-CET 2023]",
+        "question_latex": "Light Emitting Diodes (LEDs) emit light due to [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Photoelectric effect",
+            "B. Thermionic emission",
+            "C. Recombination of electrons and holes",
+            "D. Field emission"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Spontaneous emission occurs when electrons from the conduction band fall into holes in the valence band.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Semiconductor Devices",
+        "question": "The color of light emitted by an LED depends on [MHT-CET 2022]",
+        "question_latex": "The color of light emitted by an LED depends on [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Forward bias voltage",
+            "B. Reverse bias voltage",
+            "C. Band gap of the semiconductor",
+            "D. Amount of current"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The energy of the emitted photon ($E = hf$) is approximately equal to the band gap energy $E_{g}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Semiconductor Devices",
+        "question": "A transistor is said to be in active region when [MHT-CET 2021]",
+        "question_latex": "A transistor is said to be in active region when [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Both junctions are forward biased",
+            "B. Both junctions are reverse biased",
+            "C. BE is forward and CB is reverse biased",
+            "D. BE is reverse and CB is forward biased"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "This is the standard bias condition for linear amplification.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Semiconductor Devices",
+        "question": "The current gain of a common base transistor is 0.95. Its current gain in common emitter mode is [MHT-CET 2020]",
+        "question_latex": "The current gain of a common base transistor is $0.95$. Its current gain in common emitter mode is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 19",
+            "B. 20",
+            "C. 9.5",
+            "D. 100"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\beta = \\frac{\\alpha}{1 - \\alpha} = \\frac{0.95}{0.05} = 19$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Semiconductor Devices",
+        "question": "Which of the following is true for an ideal transistor? [MHT-CET 2019]",
+        "question_latex": "Which of the following is true for an ideal transistor? [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. IE = IC",
+            "B. IE = IC + IB",
+            "C. IB = IC",
+            "D. IE = IB"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Kirchhoff's current law applied to the transistor body.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Semiconductor Devices",
+        "question": "In an oscillator, the feedback should be [MHT-CET 2024]",
+        "question_latex": "In an oscillator, the feedback should be [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Positive",
+            "B. Negative",
+            "C. Zero",
+            "D. Out of phase by 90°"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Positive (regenerative) feedback is required to sustain oscillations according to the Barkhausen criterion.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Semiconductor Devices",
+        "question": "The gate that acts as an inverter is [MHT-CET 2023]",
+        "question_latex": "The gate that acts as an inverter is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. AND",
+            "B. OR",
+            "C. NOT",
+            "D. XOR"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "A NOT gate flips the logic state from 0 to 1 and vice versa.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Semiconductor Devices",
+        "question": "What is the output of a NAND gate if both inputs are high? [MHT-CET 2022]",
+        "question_latex": "What is the output of a NAND gate if both inputs are high? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 0",
+            "B. 1",
+            "C. High impedance",
+            "D. Oscillating"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "AND(1,1) = 1. NAND is NOT(AND), so result is 0.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Semiconductor Devices",
+        "question": "Which of the following describes the relationship between current gain parameters? [MHT-CET 2021]",
+        "question_latex": "Which of the following describes the relationship between current gain parameters? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. alpha = beta / (1 + beta)",
+            "B. beta = alpha / (1 + alpha)",
+            "C. alpha beta = 1",
+            "D. alpha + beta = 1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard algebraic relation between common-base and common-emitter current gains.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Semiconductor Devices",
+        "question": "A silicon semiconductor is doped with arsenic. It becomes [MHT-CET 2024]",
+        "question_latex": "A silicon semiconductor is doped with arsenic. It becomes [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. n-type",
+            "B. p-type",
+            "C. intrinsic",
+            "D. metal"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Arsenic is a Group 15 element (pentavalent), adding electrons to the lattice.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Semiconductor Devices",
+        "question": "The output of an OR gate is low only when [MHT-CET 2023]",
+        "question_latex": "The output of an OR gate is low only when [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. One input is low",
+            "B. One input is high",
+            "C. Both inputs are low",
+            "D. Both inputs are high"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Boolean addition: $0 + 0 = 0$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Semiconductor Devices",
+        "question": "In a transistor, the emitter is [MHT-CET 2022]",
+        "question_latex": "In a transistor, the emitter is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Heavily doped and large size",
+            "B. Lightly doped and small size",
+            "C. Heavily doped and medium size",
+            "D. Lightly doped and large size"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The emitter must provide maximum carriers, hence it is heavily doped. Its size is medium (smaller than collector).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Semiconductor Devices",
+        "question": "Threshold frequency for photo-emission is [MHT-CET 2021]",
+        "question_latex": "Threshold frequency for photo-emission is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Minimum frequency required to eject electrons",
+            "B. Maximum frequency required to eject electrons",
+            "C. Frequency at which current is maximum",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Photo-emission occurs only if $f \\ge f_{0}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Semiconductor Devices",
+        "question": "A NOR gate is equivalent to [MHT-CET 2020]",
+        "question_latex": "A NOR gate is equivalent to [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. OR + NOT",
+            "B. AND + NOT",
+            "C. OR + AND",
+            "D. NOT + NOT"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Basic definition of NOR gate.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Semiconductor Devices",
+        "question": "The resistivity of a semiconductor [MHT-CET 2019]",
+        "question_latex": "The resistivity of a semiconductor [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Lies between conductors and insulators",
+            "B. Is higher than insulators",
+            "C. Is lower than conductors",
+            "D. Is zero at room temperature"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Definition based on energy band theory.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Semiconductor Devices",
+        "question": "In an n-p-n transistor, the majority carriers in base are [MHT-CET 2024]",
+        "question_latex": "In an n-p-n transistor, the majority carriers in base are [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Electrons",
+            "B. Holes",
+            "C. Ions",
+            "D. None"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The base is p-type in an n-p-n transistor.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Semiconductor Devices",
+        "question": "Zener breakdown occurs when [MHT-CET 2023]",
+        "question_latex": "Zener breakdown occurs when [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. The depletion layer is very thin",
+            "B. The depletion layer is very thick",
+            "C. The doping is very light",
+            "D. The temperature is high"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Zener breakdown happens in heavily doped junctions where the depletion layer is narrow, allowing quantum tunneling.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Semiconductor Devices",
+        "question": "The frequency of the output of a full-wave rectifier if input is 50 Hz [MHT-CET 2022]",
+        "question_latex": "The frequency of the output of a full-wave rectifier if input is $50$ Hz [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 25 Hz",
+            "B. 50 Hz",
+            "C. 100 Hz",
+            "D. 200 Hz"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The ripple frequency is $2f$. $2 \\times 50 = 100$ Hz.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Semiconductor Devices",
+        "question": "Photovoltaic effect is the principle of [MHT-CET 2021]",
+        "question_latex": "Photovoltaic effect is the principle of [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Photodiode",
+            "B. LED",
+            "C. Solar Cell",
+            "D. Zener Diode"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Direct conversion of light energy into electrical energy.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Semiconductor Devices",
+        "question": "Silicon is a [MHT-CET 2020]",
+        "question_latex": "Silicon is a [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Metal",
+            "B. Insulator",
+            "C. Semiconductor",
+            "D. Superconductor"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Standard classification.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Semiconductor Devices",
+        "question": "Which of the following is trivalent? [MHT-CET 2019]",
+        "question_latex": "Which of the following is trivalent? [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Phosphorus",
+            "B. Antimony",
+            "C. Gallium",
+            "D. Arsenic"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Gallium is a Group 13 element used to make p-type semiconductors.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Semiconductor Devices",
+        "question": "A transistor is in cutoff region when [MHT-CET 2024]",
+        "question_latex": "A transistor is in cutoff region when [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Both junctions are forward biased",
+            "B. Both junctions are reverse biased",
+            "C. BE is forward biased",
+            "D. CB is reverse biased"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In cutoff, the transistor behaves like an open switch with zero current.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Semiconductor Devices",
+        "question": "In a n-p-n transistor, the arrow on emitter symbol points [MHT-CET 2023]",
+        "question_latex": "In a n-p-n transistor, the arrow on emitter symbol points [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Outwards",
+            "B. Inwards",
+            "C. Upwards",
+            "D. Downwards"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The arrow indicates the direction of conventional current ($p \\to n$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Semiconductor Devices",
+        "question": "The forbidden energy gap in germanium is [MHT-CET 2022]",
+        "question_latex": "The forbidden energy gap in germanium is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 1.1 eV",
+            "B. 0.7 eV",
+            "C. 0.3 eV",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Germanium band gap is lower than Silicon.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Semiconductor Devices",
+        "question": "Which represents an AND gate?",
+        "question_latex": "Which represents an AND gate?",
+        "question_images": [
+            "q46_1"
+        ],
+        "options": [
+            "A. Option A",
+            "B. Option B",
+            "C. Option C",
+            "D. Option D"
+        ],
+        "option_images": [
+            "q46_option_a1",
+            "q46_option_b1",
+            "q46_option_c1",
+            "q46_option_d1"
+        ],
+        "answer": "B",
+        "solution": "Standard D-shaped logic symbol.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Semiconductor Devices",
+        "question": "Barkhausen criterion is for [MHT-CET 2021]",
+        "question_latex": "Barkhausen criterion is for [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Amplifiers",
+            "B. Rectifiers",
+            "C. Oscillators",
+            "D. Switches"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "It defines the conditions for sustained oscillations ($A\\beta = 1$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Semiconductor Devices",
+        "question": "LEDs are typically made from [MHT-CET 2020]",
+        "question_latex": "LEDs are typically made from [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Silicon",
+            "B. Germanium",
+            "C. Gallium Arsenide",
+            "D. Copper"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Direct band gap materials like GaAs are efficient light emitters.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Semiconductor Devices",
+        "question": "A binary 111 corresponds to decimal [MHT-CET 2019]",
+        "question_latex": "A binary $111$ corresponds to decimal [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 3",
+            "B. 7",
+            "C. 9",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$4 + 2 + 1 = 7$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Semiconductor Devices",
+        "question": "For a p-n junction, forward bias resistance is [MHT-CET 2024]",
+        "question_latex": "For a p-n junction, forward bias resistance is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. High",
+            "B. Low",
+            "C. Zero",
+            "D. Infinite"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The potential barrier is lowered, allowing easy carrier flow.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Semiconductor Devices",
+        "question": "Current gain alpha of a transistor is [MHT-CET 2023]",
+        "question_latex": "Current gain $\\alpha$ of a transistor is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. IC / IE",
+            "B. IC / IB",
+            "C. IE / IB",
+            "D. IB / IC"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Definition in common base configuration.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Semiconductor Devices",
+        "question": "Base of a transistor is [MHT-CET 2022]",
+        "question_latex": "Base of a transistor is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Moderately doped and medium size",
+            "B. Heavily doped and large size",
+            "C. Lightly doped and very thin",
+            "D. Lightly doped and large size"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Necessary for high carrier transport from emitter to collector.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Semiconductor Devices",
+        "question": "An intrinsic semiconductor behaves like an insulator at [MHT-CET 2021]",
+        "question_latex": "An intrinsic semiconductor behaves like an insulator at [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 0 K",
+            "B. 100 K",
+            "C. 300 K",
+            "D. 1000 K"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Thermal excitations are non-existent at absolute zero.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Semiconductor Devices",
+        "question": "The truth table below corresponds to which gate?",
+        "question_latex": "The truth table below corresponds to which gate?",
+        "question_images": [
+            "q54_1"
+        ],
+        "options": [
+            "A. OR",
+            "B. AND",
+            "C. NOR",
+            "D. XOR"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Output is 1 if any input is 1.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Semiconductor Devices",
+        "question": "Collector current in a transistor is 10 mA and base current 0.2 mA. Emitter current is [MHT-CET 2020]",
+        "question_latex": "Collector current in a transistor is $10~mA$ and base current $0.2~mA$. Emitter current is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 9.8 mA",
+            "B. 10.2 mA",
+            "C. 50 mA",
+            "D. 2 mA"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$I_{E} = I_{C} + I_{B} = 10 + 0.2 = 10.2~mA$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Semiconductor Devices",
+        "question": "A light emitting diode (LED) is biased in [MHT-CET 2019]",
+        "question_latex": "A light emitting diode (LED) is biased in [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Forward bias",
+            "B. Reverse bias",
+            "C. Not biased",
+            "D. Forward or reverse depends on power"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Injection of carriers for recombination occurs in forward bias.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Semiconductor Devices",
+        "question": "The reverse saturation current in a diode depends on [MHT-CET 2024]",
+        "question_latex": "The reverse saturation current in a diode depends on [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Applied voltage",
+            "B. Temperature",
+            "C. Doping density",
+            "D. Area of junction"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Minority carriers are generated thermally.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Semiconductor Devices",
+        "question": "Transistor is a [MHT-CET 2023]",
+        "question_latex": "Transistor is a [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Voltage controlled device",
+            "B. Current controlled device",
+            "C. Power controlled device",
+            "D. None"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The output current $I_{C}$ is controlled by the input current $I_{B}$ in BJT.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Semiconductor Devices",
+        "question": "Boolean bar{A} + bar{B} = bar{A . B} is [MHT-CET 2022]",
+        "question_latex": "Boolean $\\bar{A} + \\bar{B} = \\overline{A \\cdot B}$ is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. De Morgan's First Theorem",
+            "B. De Morgan's Second Theorem",
+            "C. Commutative Law",
+            "D. Associative Law"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Fundamental logic transformation theorem.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Semiconductor Devices",
+        "question": "A silicon p-n junction diode current becomes zero at [MHT-CET 2021]",
+        "question_latex": "A silicon p-n junction diode current becomes zero at [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Forward bias < 0.7 V",
+            "B. Forward bias > 0.7 V",
+            "C. Reverse bias > Breakdown",
+            "D. Never"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Below barrier potential, only negligible leakage current flows.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Semiconductor Devices",
+        "question": "Holes in semiconductors represent [MHT-CET 2024]",
+        "question_latex": "Holes in semiconductors represent [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Positive mass particles",
+            "B. Absence of electron in covalent bond",
+            "C. Impurity ions",
+            "D. Protons"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Holes are virtual positive charges representing vacancies in the valence band.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Semiconductor Devices",
+        "question": "A bridge rectifier uses how many diodes? [MHT-CET 2023]",
+        "question_latex": "A bridge rectifier uses how many diodes? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Standard bridge configuration requires 4 diodes.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Semiconductor Devices",
+        "question": "Transistor is primarily used for [MHT-CET 2022]",
+        "question_latex": "Transistor is primarily used for [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Rectification",
+            "B. Amplification",
+            "C. Filtering",
+            "D. Regulation"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Control of current allows signal boosting.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Semiconductor Devices",
+        "question": "The logic gate whose output is 1 only when all inputs are high [MHT-CET 2021]",
+        "question_latex": "The logic gate whose output is $1$ only when all inputs are high [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. OR",
+            "B. AND",
+            "C. XOR",
+            "D. NAND"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Logical multiplication property.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Semiconductor Devices",
+        "question": "The valence band of a semiconductor is [MHT-CET 2020]",
+        "question_latex": "The valence band of a semiconductor is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Partially filled",
+            "B. Completely empty",
+            "C. Almost full",
+            "D. None"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "At room temperature, some electrons leave the valence band, but most stay.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Semiconductor Devices",
+        "question": "Which of the following is a Group 13 element? [MHT-CET 2019]",
+        "question_latex": "Which of the following is a Group 13 element? [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Si",
+            "B. Ge",
+            "C. Al",
+            "D. P"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Aluminium is a trivalent dopant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Semiconductor Devices",
+        "question": "In n-p-n transistor, if IE = 1 mA and alpha = 0.9, then IC = [MHT-CET 2024]",
+        "question_latex": "In n-p-n transistor, if $I_{E} = 1~mA$ and $\\alpha = 0.9$, then $I_{C} = $ [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 0.9 mA",
+            "B. 1.1 mA",
+            "C. 0.1 mA",
+            "D. 9 mA"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$I_{C} = \\alpha I_{E} = 0.9 \\times 1 = 0.9~mA$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Semiconductor Devices",
+        "question": "Zener diode is always used with [MHT-CET 2023]",
+        "question_latex": "Zener diode is always used with [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Series resistor",
+            "B. Parallel inductor",
+            "C. Forward bias",
+            "D. Zero current"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "A series resistor is necessary to limit the Zener current and prevent damage.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Semiconductor Devices",
+        "question": "Transistor gain beta depends on [MHT-CET 2022]",
+        "question_latex": "Transistor gain $\\beta$ depends on [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Base width",
+            "B. Doping level",
+            "C. Temperature",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Internal geometry and conditions affect carrier transport efficiency.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Semiconductor Devices",
+        "question": "The output of NOR gate is high only when [MHT-CET 2021]",
+        "question_latex": "The output of NOR gate is high only when [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. All inputs low",
+            "B. All inputs high",
+            "C. One input high",
+            "D. Never"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "NOT of OR. OR is 0 only for (0,0).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Semiconductor Devices",
+        "question": "Mass action law is [MHT-CET 2020]",
+        "question_latex": "Mass action law is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. ne + nh = ni",
+            "B. ne nh = ni^2",
+            "C. ne / nh = ni",
+            "D. ne nh = ni"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Product of carrier densities is constant for a given temperature.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Semiconductor Devices",
+        "question": "Donor atoms produce [MHT-CET 2019]",
+        "question_latex": "Donor atoms produce [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. n-type",
+            "B. p-type",
+            "C. intrinsic",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Group 15 dopants 'donate' electrons.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Semiconductor Devices",
+        "question": "In a bridge rectifier, the number of diodes conducting at any instant is [MHT-CET 2024]",
+        "question_latex": "In a bridge rectifier, the number of diodes conducting at any instant is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Diode pairs conduct in alternate half cycles.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Semiconductor Devices",
+        "question": "Voltage amplification is highest in [MHT-CET 2023]",
+        "question_latex": "Voltage amplification is highest in [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Common Base",
+            "B. Common Emitter",
+            "C. Common Collector",
+            "D. Zero gain in all"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "CE configuration provides both current and voltage gain.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Semiconductor Devices",
+        "question": "Which represents a NAND gate?",
+        "question_latex": "Which represents a NAND gate?",
+        "question_images": [
+            "q75_1"
+        ],
+        "options": [
+            "A. Option A",
+            "B. Option B",
+            "C. Option C",
+            "D. Option D"
+        ],
+        "option_images": [
+            "q75_option_a1",
+            "q75_option_b1",
+            "q75_option_c1",
+            "q75_option_d1"
+        ],
+        "answer": "A",
+        "solution": "AND symbol with an inversion bubble.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Semiconductor Devices",
+        "question": "Reverse breakdown due to impact ionization is [MHT-CET 2021]",
+        "question_latex": "Reverse breakdown due to impact ionization is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Zener breakdown",
+            "B. Avalanche breakdown",
+            "C. Thermal breakdown",
+            "D. Soft breakdown"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Avalanche effect involves multiplicative carrier generation.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Semiconductor Devices",
+        "question": "Energy gap of Germanium in eV is [MHT-CET 2020]",
+        "question_latex": "Energy gap of Germanium in $eV$ is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 1.1",
+            "B. 0.7",
+            "C. 0.1",
+            "D. 1.4"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Standard physical constant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Semiconductor Devices",
+        "question": "Which of the following is not a logic gate? [MHT-CET 2019]",
+        "question_latex": "Which of the following is not a logic gate? [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. XOR",
+            "B. XNOR",
+            "C. NPN",
+            "D. NOR"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "NPN is a type of bipolar junction transistor.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Semiconductor Devices",
+        "question": "In a transistor, IC = 95 mA, IE = 100 mA. Then beta is [MHT-CET 2024]",
+        "question_latex": "In a transistor, $I_{C} = 95~mA, I_{E} = 100~mA$. Then $\\beta$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 19",
+            "B. 0.95",
+            "C. 5",
+            "D. 100"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$I_{B} = I_{E} - I_{C} = 5~mA$. $\\beta = 95 / 5 = 19$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Semiconductor Devices",
+        "question": "Photo-current in photodiode is [MHT-CET 2023]",
+        "question_latex": "Photo-current in photodiode is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Proportional to light intensity",
+            "B. Independent of light intensity",
+            "C. Exponentially related to light",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Fundamental sensor property.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Semiconductor Devices",
+        "question": "A logic gate has output 0 if and only if both inputs are 1. It is [MHT-CET 2022]",
+        "question_latex": "A logic gate has output $0$ if and only if both inputs are $1$. It is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. AND",
+            "B. NAND",
+            "C. OR",
+            "D. NOR"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "NAND gate truth table property.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Semiconductor Devices",
+        "question": "A transistor is used as an amplifier in [MHT-CET 2021]",
+        "question_latex": "A transistor is used as an amplifier in [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Active region",
+            "B. Cutoff region",
+            "C. Saturation region",
+            "D. Breakdown region"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Linear operation occurs in the active region.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Semiconductor Devices",
+        "question": "Emitter current in a transistor is [MHT-CET 2020]",
+        "question_latex": "Emitter current in a transistor is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Always greater than collector current",
+            "B. Equal to collector current",
+            "C. Less than collector current",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$I_{E} = I_{C} + I_{B}$. Since $I_{B}$ is non-zero, $I_{E} > I_{C}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Semiconductor Devices",
+        "question": "Energy level above VB in n-type is [MHT-CET 2019]",
+        "question_latex": "Energy level above VB in n-type is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Donor level",
+            "B. Acceptor level",
+            "C. Fermi level",
+            "D. Minority level"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Donor levels are located just below the conduction band.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Semiconductor Devices",
+        "question": "A digital circuit that outputs 1 if any input is 1 is [MHT-CET 2024]",
+        "question_latex": "A digital circuit that outputs $1$ if any input is $1$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. AND",
+            "B. OR",
+            "C. NOT",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Basic OR operation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Semiconductor Devices",
+        "question": "LED light wavelength range is [MHT-CET 2023]",
+        "question_latex": "LED light wavelength range is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Visible to Infrared",
+            "B. UV only",
+            "C. X-rays",
+            "D. Gamma rays"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Depends on the material's band gap energy.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Semiconductor Devices",
+        "question": "Reverse bias current is of order [MHT-CET 2022]",
+        "question_latex": "Reverse bias current is of order [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. micro A to nano A",
+            "B. Ampere",
+            "C. mA",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Minority carrier current is very small.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Semiconductor Devices",
+        "question": "The gate y = bar{A + B} is [MHT-CET 2021]",
+        "question_latex": "The gate $y = \\overline{A + B}$ is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. OR",
+            "B. NOR",
+            "C. NAND",
+            "D. XOR"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Standard Boolean for NOR.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Semiconductor Devices",
+        "question": "Zener voltage is [MHT-CET 2020]",
+        "question_latex": "Zener voltage is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Breakdown voltage",
+            "B. Peak inverse voltage",
+            "C. Knee voltage",
+            "D. Barrier potential"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The voltage at which significant reverse conduction starts.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Semiconductor Devices",
+        "question": "In common emitter, current gain is [MHT-CET 2019]",
+        "question_latex": "In common emitter, current gain is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. beta",
+            "B. alpha",
+            "C. gamma",
+            "D. mu"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Definition of current gain for CE mode.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Semiconductor Devices",
+        "question": "Boolean A . A is [MHT-CET 2024]",
+        "question_latex": "Boolean $A \\cdot A$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. A",
+            "B. 1",
+            "C. 0",
+            "D. 2A"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Idempotent law in Boolean algebra.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Semiconductor Devices",
+        "question": "Majority carriers in p-type are [MHT-CET 2023]",
+        "question_latex": "Majority carriers in p-type are [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. holes",
+            "B. electrons",
+            "C. ions",
+            "D. atoms"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Duplicate of Q13 logic.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Semiconductor Devices",
+        "question": "A transistor has alpha = 0.9. Its beta is [MHT-CET 2022]",
+        "question_latex": "A transistor has $\\alpha = 0.9$. Its $\\beta$ is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 9",
+            "B. 10",
+            "C. 90",
+            "D. 1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$0.9 / 0.1 = 9$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Semiconductor Devices",
+        "question": "Diode acts as rectifier because [MHT-CET 2021]",
+        "question_latex": "Diode acts as rectifier because [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. it conducts in one direction",
+            "B. it amplifies signal",
+            "C. it has constant resistance",
+            "D. it converts heat to light"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Basic rectifying property.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Semiconductor Devices",
+        "question": "Binary 10 corresponds to [MHT-CET 2020]",
+        "question_latex": "Binary $10$ corresponds to [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 2",
+            "B. 10",
+            "C. 1",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Decimal 2.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Semiconductor Devices",
+        "question": "Which represents a photodiode characteristic?",
+        "question_latex": "Which represents a photodiode characteristic?",
+        "question_images": [
+            "q96_1"
+        ],
+        "options": [
+            "A. Forward bias",
+            "B. Reverse bias",
+            "C. Breakdown",
+            "D. Ohmic"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Operated in the third quadrant (reverse bias) where current depends on light.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Semiconductor Devices",
+        "question": "The circuit shown in following figure contains two diodes D1 and D2 each with a forward resistance of 50 ohms and with infinite backward resistance. If the battery voltage is 6V, the current through the 100 ohm resistance (in amperes) is",
+        "question_latex": "The circuit shown in following figure contains two diodes $D_{1}$ and $D_{2}$ each with a forward resistance of $50~\\Omega$ and with infinite backward resistance. If the battery voltage is $6V$, the current through the $100~\\Omega$ resistance (in amperes) is",
+        "question_images": [
+            "q97_1"
+        ],
+        "options": [
+            "A. Zero",
+            "B. 0.024",
+            "C. 0.03",
+            "D. 0.036"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "According to the given polarity, diode $D_{1}$ is forward biased while $D_{2}$ is reverse biased. Hence current will pass through $D_{1}$ only. Total resistance $= 150 + 100 = 250~\\Omega$. Current $i = \\frac{6}{250} = 0.024$ A.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Semiconductor Devices",
+        "question": "In the circuit below, A and B represent two inputs and C represents the output. The circuit represents",
+        "question_latex": "In the circuit below, A and B represent two inputs and C represents the output. The circuit represents",
+        "question_images": [
+            "q98_1"
+        ],
+        "options": [
+            "A. AND gate",
+            "B. NAND gate",
+            "C. OR gate",
+            "D. NOR gate"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Diode-resistor logic shown is an OR gate.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Semiconductor Devices",
+        "question": "To get an output Y=1 in the given logic circuit, the correct choice for the input is",
+        "question_latex": "To get an output $Y=1$ in the given logic circuit, the correct choice for the input is",
+        "question_images": [
+            "q99_1"
+        ],
+        "options": [
+            "A. A=1, B=1, C=0",
+            "B. A=1, B=0, C=1",
+            "C. A=0, B=1, C=0",
+            "D. A=1, B=1, C=1"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "This is a 3-input AND gate. All inputs must be high for high output.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Semiconductor Devices",
+        "question": "A p-n junction diode can be used as [MHT-CET 2021]",
+        "question_latex": "A p-n junction diode can be used as [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. An amplifier",
+            "B. A regulator",
+            "C. A rectifier",
+            "D. An oscillator"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "A diode is a unidirectional conductor, ideal for rectification.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    }
+]

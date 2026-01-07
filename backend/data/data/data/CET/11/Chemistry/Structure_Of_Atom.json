@@ -1,172 +1,2154 @@
 [
   {
     "id": 1,
-    "chapter": "Structure_Of_Atom",
-    "question": "The smallest particle of an element that retains its chemical identity is called:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Structure of Atom",
+    "question": "What is the value of frequency of radiation when transition occurs between two stationary states that differ in energy by ΔE? [MHT-CET 2021]",
+    "question_latex": "What is the value of frequency of radiation when transition occurs between two stationary states that differ in energy by $\\Delta E$? [MHT-CET 2021]",
+    "question_images": [],
     "options": [
-      "Molecule",
-      "Atom",
-      "Ion",
-      "Electron"
+      "A. v = h / 2π",
+      "B. v = 2π / h",
+      "C. v = ΔE / h",
+      "D. v = h / ΔE"
     ],
-    "answer": "Atom",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The smallest particle of an element that retains i..."
+    "option_images": [],
+    "answer": "C. v = ΔE / h",
+    "solution": "According to Bohr's frequency rule, the frequency of radiation is given by: $\\nu = \\frac{\\Delta E}{h} = \\frac{E_2 - E_1}{h}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 2,
-    "chapter": "Structure_Of_Atom",
-    "question": "The electron was discovered by:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Structure of Atom",
+    "question": "The orbital angular momentum of an electron in a d-orbital is",
+    "question_latex": "The orbital angular momentum of an electron in a d-orbital is",
+    "question_images": [],
     "options": [
-      "J.J. Thomson",
-      "Rutherford",
-      "Bohr",
-      "Chadwick"
+      "A. √6 (h / 2π)",
+      "B. √2 (h / 2π)",
+      "C. h / 2π",
+      "D. 2h / 2π"
     ],
-    "answer": "J.J. Thomson",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The electron was discovered by:..."
+    "option_images": [],
+    "answer": "A. √6 (h / 2π)",
+    "solution": "Orbital angular momentum $(L) = \\sqrt{l(l+1)} \\frac{h}{2\\pi}$. For d-orbital, $l = 2$. Therefore, $L = \\sqrt{2(2+1)} \\frac{h}{2\\pi} = \\frac{\\sqrt{6}h}{2\\pi}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 3,
-    "chapter": "Structure_Of_Atom",
-    "question": "The proton was discovered by:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Structure of Atom",
+    "question": "The electrons identified by (i) n=4, l=1, (ii) n=4, l=0, (iii) n=3, l=2, (iv) n=3, l=1 can be arranged in order of increasing energy as",
+    "question_latex": "The electrons identified by (i) $n=4, l=1$, (ii) $n=4, l=0$, (iii) $n=3, l=2$, (iv) $n=3, l=1$ can be arranged in order of increasing energy as",
+    "question_images": [],
     "options": [
-      "Goldstein",
-      "Thomson",
-      "Bohr",
-      "Dalton"
+      "A. (iv) < (ii) < (iii) < (i)",
+      "B. (ii) < (iv) < (i) < (iii)",
+      "C. (i) < (iii) < (ii) < (iv)",
+      "D. (iii) < (i) < (iv) < (ii)"
     ],
-    "answer": "Goldstein",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The proton was discovered by:..."
+    "option_images": [],
+    "answer": "A. (iv) < (ii) < (iii) < (i)",
+    "solution": "(i) $4p$ ($n+l=5$), (ii) $4s$ ($n+l=4$), (iii) $3d$ ($n+l=5$), (iv) $3p$ ($n+l=4$). Comparing $n+l$: $3p < 4s$ (lower $n$ for same $n+l$) and $3d < 4p$ (lower $n$ for same $n+l$). Order: $(iv) < (ii) < (iii) < (i)$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 4,
-    "chapter": "Structure_Of_Atom",
-    "question": "The neutron was discovered by:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Structure of Atom",
+    "question": "Which one of the following sets of ions represents a collection of isoelectronic species?",
+    "question_latex": "Which one of the following sets of ions represents a collection of isoelectronic species?",
+    "question_images": [],
     "options": [
-      "Bohr",
-      "Chadwick",
-      "Rutherford",
-      "Thomson"
+      "A. K+, Cl-, Ca2+, Sc3+",
+      "B. Ba2+, Sr2+, K+, S2-",
+      "C. N3-, F-, S2-",
+      "D. Li+, Na+, Mg2+, Ca2+"
     ],
-    "answer": "Chadwick",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The neutron was discovered by:..."
+    "option_images": [],
+    "answer": "A. K+, Cl-, Ca2+, Sc3+",
+    "solution": "Isoelectronic means having the same number of electrons. $K^+ (19-1=18)$, $Cl^- (17+1=18)$, $Ca^{2+} (20-2=18)$, $Sc^{3+} (21-3=18)$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 5,
-    "chapter": "Structure_Of_Atom",
-    "question": "According to Rutherford’s model, the nucleus is:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Structure of Atom",
+    "question": "A cricket ball of 0.5 kg is moving with a velocity of 100m/s. The wavelength associated with its motion is",
+    "question_latex": "A cricket ball of 0.5 kg is moving with a velocity of $100 \\ m/s$. The wavelength associated with its motion is",
+    "question_images": [],
     "options": [
-      "Negatively charged",
-      "Positively charged",
-      "Neutral",
-      "Both positive and negative"
+      "A. 0.01 cm",
+      "B. 6.6 x 10^-34 m",
+      "C. 1.32 x 10^-35 m",
+      "D. 6.6 x 10^-28 m"
     ],
-    "answer": "Positively charged",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: According to Rutherford’s model, the nucleus is:..."
+    "option_images": [],
+    "answer": "C. 1.32 x 10^-35 m",
+    "solution": "From de-Broglie equation: $\\lambda = \\frac{h}{mv} = \\frac{6.6 \\times 10^{-34}}{0.5 \\times 100} = 1.32 \\times 10^{-35} \\ m$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 6,
-    "chapter": "Structure_Of_Atom",
-    "question": "Bohr’s atomic model is applicable mainly to:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Structure of Atom",
+    "question": "The electrons identified by quantum numbers 1. n=4, l=1; 2. n=4, l=0; 3. n=3, l=2; 4. n=2, l=1 can be placed in order of increasing energy from the lowest to highest as",
+    "question_latex": "The electrons identified by quantum numbers 1. $n=4, l=1$; 2. $n=4, l=0$; 3. $n=3, l=2$; 4. $n=2, l=1$ can be placed in order of increasing energy from the lowest to highest as",
+    "question_images": [],
     "options": [
-      "Multi-electron atoms",
-      "Hydrogen atom",
-      "All solids",
-      "All gases"
+      "A. IV < II < III < I",
+      "B. II < IV < I < III",
+      "C. I < III < II < IV",
+      "D. III < I < IV < II"
     ],
-    "answer": "Hydrogen atom",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: Bohr’s atomic model is applicable mainly to:..."
+    "option_images": [],
+    "answer": "A. IV < II < III < I",
+    "solution": "1. $4p$ ($n+l=5$), 2. $4s$ ($n+l=4$), 3. $3d$ ($n+l=5$), 4. $2p$ ($n+l=3$). The order is $2p < 4s < 3d < 4p$ i.e., $(IV) < (II) < (III) < (I)$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 7,
-    "chapter": "Structure_Of_Atom",
-    "question": "The quantum number which gives the shape of orbitals is:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Structure of Atom",
+    "question": "If the energy difference between the ground state of an atom and its excited state is 4.4 x 10^-14 J, the wavelength of photon required to produce the transition",
+    "question_latex": "If the energy difference between the ground state of an atom and its excited state is $4.4 \\times 10^{-14} \\ J$, the wavelength of photon required to produce the transition",
+    "question_images": [],
     "options": [
-      "Principal quantum number (n)",
-      "Azimuthal quantum number (l)",
-      "Magnetic quantum number (m)",
-      "Spin quantum number (s)"
+      "A. 2.26 x 10^-12 m",
+      "B. 1.13 x 10^-12 m",
+      "C. 4.52 x 10^-16 m",
+      "D. 4.52 x 10^-12 m"
     ],
-    "answer": "Azimuthal quantum number (l)",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The quantum number which gives the shape of orbita..."
+    "option_images": [],
+    "answer": "D. 4.52 x 10^-12 m",
+    "solution": "$\\Delta E = hv = \\frac{hc}{\\lambda} \\implies \\lambda = \\frac{hc}{\\Delta E} = \\frac{6.62 \\times 10^{-34} \\times 3 \\times 10^{8}}{4.4 \\times 10^{-14}} = 4.52 \\times 10^{-12} \\ m$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
   },
   {
     "id": 8,
-    "chapter": "Structure_Of_Atom",
-    "question": "The maximum number of electrons that can be accommodated in a shell is given by:",
-    "question_latex": "2n^2",
-    "image_url": "",
+    "chapter": "Structure of Atom",
+    "question": "Calculate wavelength of red light having frequency 4 x 10^14 Hz. [MHT-CET 2024]",
+    "question_latex": "Calculate wavelength of red light having frequency $4 \\times 10^{14} \\ Hz$. [MHT-CET 2024]",
+    "question_images": [],
     "options": [
-      "n^2",
-      "2n",
-      "2n^2",
-      "n^3"
+      "A. 750 nm",
+      "B. 400 nm",
+      "C. 550 nm",
+      "D. 900 nm"
     ],
-    "answer": "2n^2",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: The maximum number of electrons that can be accomm..."
+    "option_images": [],
+    "answer": "A. 750 nm",
+    "solution": "$\\lambda = \\frac{c}{\\nu} = \\frac{3 \\times 10^8 \\ ms^{-1}}{4 \\times 10^{14} \\ s^{-1}} = 0.75 \\times 10^{-6} \\ m = 750 \\times 10^{-9} \\ m = 750 \\ nm$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 9,
-    "chapter": "Structure_Of_Atom",
-    "question": "Which quantum number describes the orientation of an orbital?",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Structure of Atom",
+    "question": "Time period of a wave is 5 x 10^-3 s, what is the frequency?",
+    "question_latex": "Time period of a wave is $5 \\times 10^{-3} \\ s$, what is the frequency?",
+    "question_images": [],
     "options": [
-      "Principal quantum number",
-      "Azimuthal quantum number",
-      "Magnetic quantum number",
-      "Spin quantum number"
+      "A. 5 x 10^-3 s^-1",
+      "B. 2 x 10^2 s^-1",
+      "C. 2 x 10^3 s^-1",
+      "D. 5 x 10^2 s^-1"
     ],
-    "answer": "Magnetic quantum number",
-    "difficulty": "medium",
-    "marks": 1,
-    "solution": "This is a dummy solution for: Which quantum number describes the orientation of ..."
+    "option_images": [],
+    "answer": "B. 2 x 10^2 s^-1",
+    "solution": "$\\nu = \\frac{1}{T} = \\frac{1}{5 \\times 10^{-3}} = 0.2 \\times 10^3 = 2 \\times 10^2 \\ s^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   },
   {
     "id": 10,
-    "chapter": "Structure_Of_Atom",
-    "question": "An atom has atomic number Z = 11. Its electronic configuration is:",
-    "question_latex": "",
-    "image_url": "",
+    "chapter": "Structure of Atom",
+    "question": "The orbital angular momentum of an electron revolving in a p-orbital is",
+    "question_latex": "The orbital angular momentum of an electron revolving in a p-orbital is",
+    "question_images": [],
     "options": [
-      "1s² 2s² 2p⁶",
-      "1s² 2s² 2p⁶ 3s¹",
-      "1s² 2s² 3s² 3p²",
-      "1s² 2s² 2p⁴ 3s²"
+      "A. Zero",
+      "B. h / √2π",
+      "C. h / 2π",
+      "D. 1/2 (h / 2π)"
     ],
-    "answer": "1s² 2s² 2p⁶ 3s¹",
-    "difficulty": "easy",
-    "marks": 1,
-    "solution": "This is a dummy solution for: An atom has atomic number Z = 11. Its electronic c..."
+    "option_images": [],
+    "answer": "B. h / √2π",
+    "solution": "Orbital angular momentum $= \\sqrt{l(l+1)} \\frac{h}{2\\pi}$. For p-orbital, $l = 1$. $L = \\sqrt{1(1+1)} \\frac{h}{2\\pi} = \\frac{\\sqrt{2}h}{2\\pi} = \\frac{h}{\\sqrt{2}\\pi}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Structure of Atom",
+    "question": "Chlorine exists in two isotopic forms 35Cl and 37Cl. If average atomic mass of chlorine is 35.5, what is the percentage abundance of these isotopes respectively? [MHT-CET 2024]",
+    "question_latex": "Chlorine exists in two isotopic forms $^{35}Cl$ and $^{37}Cl$. If average atomic mass of chlorine is 35.5, what is the percentage abundance of these isotopes respectively? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 50%, 50%",
+      "B. 75%, 25%",
+      "C. 25%, 75%",
+      "D. 35%, 65%"
+    ],
+    "option_images": [],
+    "answer": "B. 75%, 25%",
+    "solution": "Avg mass $= \\frac{x(35) + (100-x)37}{100} = 35.5 \\implies 35x + 3700 - 37x = 3550 \\implies 150 = 2x \\implies x = 75\\%$. Abundance: $^{35}Cl = 75\\%$, $^{37}Cl = 25\\%$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Structure of Atom",
+    "question": "Calculate wavelength for emission of a photon having wave number 23032 cm^-1? [MHT-CET 2024]",
+    "question_latex": "Calculate wavelength for emission of a photon having wave number $23032 \\ cm^{-1}$? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 4.34 x 10^-5 cm",
+      "B. 8.54 x 10^-5 cm",
+      "C. 2.11 x 10^-5 cm",
+      "D. 6.41 x 10^-5 cm"
+    ],
+    "option_images": [],
+    "answer": "A. 4.34 x 10^-5 cm",
+    "solution": "$\\lambda = \\frac{1}{\\bar{\\nu}} = \\frac{1}{23032 \\ cm^{-1}} = 4.34 \\times 10^{-5} \\ cm$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Structure of Atom",
+    "question": "Match the following pairs regarding number of electrons: (a) Na, (b) Cl, (c) O2-, (d) Ca2+ with (i) 10, (ii) 2, (iii) 11, (iv) 17. [MHT-CET 2022]",
+    "question_latex": "Match the following pairs regarding number of electrons: (a) Na, (b) Cl, (c) $O^{2-}$, (d) $Ca^{2+}$ with (i) 10, (ii) 20, (iii) 11, (iv) 17. [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. (a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "B. (a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "C. (a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "D. (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    ],
+    "option_images": [],
+    "answer": "D. (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+    "solution": "$Na: 11 e^-$, $Cl: 17 e^-$, $O^{2-}: 8+2=10 e^-$, $Ca^{2+}: 20-2=18 e^-$. Note: There is a typo in the provided image options (Ca2+ is 18, option ii says 2, likely 20 initial). Following the logic of the source key D: (a)-11, (b)-17, (c)-10, (d)-18.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Structure of Atom",
+    "question": "The scientist who proposed the atomic model based on the quantization of energy for the first time is",
+    "question_latex": "The scientist who proposed the atomic model based on the quantization of energy for the first time is",
+    "question_images": [],
+    "options": [
+      "A. Max Planck",
+      "B. Niels Bohr",
+      "C. De-Broglie",
+      "D. Heisenberg"
+    ],
+    "option_images": [],
+    "answer": "B. Niels Bohr",
+    "solution": "Niels Bohr used the concepts of quantization of energy (proposed by Max Planck) for the first time to provide a new model of the atom.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Structure of Atom",
+    "question": "What is wavenumber of a radiation having wavelength 0.25µm? [MHT-CET 2024]",
+    "question_latex": "What is wavenumber of a radiation having wavelength $0.25 \\mu m$? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 2.5 x 10^6 m^-1",
+      "B. 6.5 x 10^5 m^-1",
+      "C. 4.0 x 10^6 m^-1",
+      "D. 8.0 x 10^6 m^-1"
+    ],
+    "option_images": [],
+    "answer": "C. 4.0 x 10^6 m^-1",
+    "solution": "$\\lambda = 0.25 \\times 10^{-6} \\ m$. $\\bar{\\nu} = \\frac{1}{\\lambda} = \\frac{1}{0.25 \\times 10^{-6}} = 4 \\times 10^6 \\ m^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Structure of Atom",
+    "question": "What is the frequency of violet light having wavelength 400 nm? [MHT-CET 2024]",
+    "question_latex": "What is the frequency of violet light having wavelength 400 nm? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 4.0 x 10^14 Hz",
+      "B. 9.0 x 10^14 Hz",
+      "C. 7.5 x 10^14 Hz",
+      "D. 3.0 x 10^14 Hz"
+    ],
+    "option_images": [],
+    "answer": "C. 7.5 x 10^14 Hz",
+    "solution": "$\\nu = \\frac{c}{\\lambda} = \\frac{3 \\times 10^8}{400 \\times 10^{-9}} = 7.5 \\times 10^{14} \\ Hz$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Structure of Atom",
+    "question": "The set of quantum numbers for the outermost electron for copper in its ground state is",
+    "question_latex": "The set of quantum numbers for the outermost electron for copper in its ground state is",
+    "question_images": [],
+    "options": [
+      "A. 4, 1, 1, +1/2",
+      "B. 3, 2, 2, +1/2",
+      "C. 4, 0, 0, +1/2",
+      "D. 4, 2, 2, +1/2"
+    ],
+    "option_images": [],
+    "answer": "C. 4, 0, 0, +1/2",
+    "solution": "$_{29}Cu = [Ar] 3d^{10} 4s^1$. Outermost electron is in 4s. $n=4, l=0, m=0, s=+1/2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Structure of Atom",
+    "question": "Which one of the following sets of quantum numbers represents the highest energy level in an atom?",
+    "question_latex": "Which one of the following sets of quantum numbers represents the highest energy level in an atom?",
+    "question_images": [],
+    "options": [
+      "A. n=4, l=0, m=0, s=+1/2",
+      "B. n=3, l=1, m=1, s=+1/2",
+      "C. n=3, l=2, m=-2, s=+1/2",
+      "D. n=3, l=0, m=0, s=+1/2"
+    ],
+    "option_images": [],
+    "answer": "C. n=3, l=2, m=-2, s=+1/2",
+    "solution": "According to Aufbau principle, energy depends on $n+l$. (A) $4+0=4$, (B) $3+1=4$, (C) $3+2=5$, (D) $3+0=3$. (C) is highest.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Structure of Atom",
+    "question": "Total ml values for n=3 are",
+    "question_latex": "Total $m_l$ values for $n=3$ are",
+    "question_images": [],
+    "options": [
+      "A. 3",
+      "B. 6",
+      "C. 9",
+      "D. 10"
+    ],
+    "option_images": [],
+    "answer": "C. 9",
+    "solution": "Total $m_l$ values $= n^2 = 3^2 = 9$. (Subshells: $l=0 (m=0)$, $l=1 (m=-1,0,1)$, $l=2 (m=-2,-1,0,1,2)$; Total $= 1+3+5=9$).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Structure of Atom",
+    "question": "The one electron species having ionisation energy of 54.4 eV is",
+    "question_latex": "The one electron species having ionisation energy of 54.4 eV is",
+    "question_images": [],
+    "options": [
+      "A. H",
+      "B. He+",
+      "C. B4+",
+      "D. Li2+"
+    ],
+    "option_images": [],
+    "answer": "B. He+",
+    "solution": "Ionization energy $IE = 13.6 \\times Z^2 \\ eV$. For $He^+ (Z=2)$, $IE = 13.6 \\times 4 = 54.4 \\ eV$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Structure of Atom",
+    "question": "Maximum number of electrons in a subshell is given by expression: [MHT-CET 2021]",
+    "question_latex": "Maximum number of electrons in a subshell is given by expression: [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 2l+1",
+      "B. 2(2l+1)",
+      "C. 2n^2",
+      "D. 4l-2"
+    ],
+    "option_images": [],
+    "answer": "B. 2(2l+1)",
+    "solution": "Number of orbitals in a subshell is $(2l+1)$. Each orbital can hold 2 electrons, so max electrons $= 2(2l+1)$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Structure of Atom",
+    "question": "What is the number of unpaired electrons present in d-orbitals of Cu(Z=29) due to extra stability? [MHT-CET 2023]",
+    "question_latex": "What is the number of unpaired electrons present in d-orbitals of $Cu(Z=29)$ due to extra stability? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 3",
+      "C. 2",
+      "D. 0"
+    ],
+    "option_images": [],
+    "answer": "D. 0",
+    "solution": "Electronic configuration of $Cu: [Ar] 3d^{10} 4s^1$. The $3d$ subshell is fully filled, so the number of unpaired electrons in d-orbitals is 0.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Structure of Atom",
+    "question": "When the azimuthal quantum number has the value of 2, the number of orbitals possible are",
+    "question_latex": "When the azimuthal quantum number has the value of 2, the number of orbitals possible are",
+    "question_images": [],
+    "options": [
+      "A. 7",
+      "B. 5",
+      "C. 3",
+      "D. 0"
+    ],
+    "option_images": [],
+    "answer": "B. 5",
+    "solution": "Number of orbitals $= 2l + 1$. For $l = 2$, no. of orbitals $= 2(2) + 1 = 5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Structure of Atom",
+    "question": "What is the wave number of photon emitted during transition from orbit, n=4 to n=2 in hydrogen atom? (RH = 109677 cm^-1) [MHT-CET 2023]",
+    "question_latex": "What is the wave number of photon emitted during transition from orbit, $n=4$ to $n=2$ in hydrogen atom? ($R_H = 109677 \\ cm^{-1}$) [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 3032.17 cm^-1",
+      "B. 20564.44 cm^-1",
+      "C. 25225.7 cm^-1",
+      "D. 15354.78 cm^-1"
+    ],
+    "option_images": [],
+    "answer": "B. 20564.44 cm^-1",
+    "solution": "$\\bar{\\nu} = R_H \\left( \\frac{1}{n_1^2} - \\frac{1}{n_2^2} \\right) = 109677 \\left( \\frac{1}{2^2} - \\frac{1}{4^2} \\right) = 109677 \\left( \\frac{1}{4} - \\frac{1}{16} \\right) = 109677 \\times \\frac{3}{16} = 20564.44 \\ cm^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Structure of Atom",
+    "question": "Which of the following species is NOT isoelectronic with neon? [MHT-CET 2023]",
+    "question_latex": "Which of the following species is NOT isoelectronic with neon? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. O2-",
+      "B. Mg2+",
+      "C. Na",
+      "D. Al3+"
+    ],
+    "option_images": [],
+    "answer": "C. Na",
+    "solution": "Neon has 10 electrons. $O^{2-} (8+2=10)$, $Mg^{2+} (12-2=10)$, $Al^{3+} (13-3=10)$. $Na$ atom has 11 electrons.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Structure of Atom",
+    "question": "Identify the rule/principle for following statement: \"Pairing of electrons in the orbital belonging to the same subshell does not occur unless each orbital belonging to that subshell has got one electron each\". [MHT-CET 2024]",
+    "question_latex": "Identify the rule/principle for following statement: \"Pairing of electrons in the orbital belonging to the same subshell does not occur unless each orbital belonging to that subshell has got one electron each\". [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Hund's rule",
+      "B. Heisenberg uncertainty principle",
+      "C. Pauli's exclusion principle",
+      "D. Aufbau principle"
+    ],
+    "option_images": [],
+    "answer": "A. Hund's rule",
+    "solution": "Hund's Rule of Maximum Multiplicity states that electron pairing in orbitals of the same subshell doesn't start until each orbital is singly occupied.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Structure of Atom",
+    "question": "The correct set of first three quantum numbers for the unpaired electron of chlorine atom is [Atomic number of Cl=17]",
+    "question_latex": "The correct set of first three quantum numbers for the unpaired electron of chlorine atom is [Atomic number of $Cl=17$]",
+    "question_images": [],
+    "options": [
+      "A. 2, 1, 0",
+      "B. 3, 1, 1",
+      "C. 2, 1, +1",
+      "D. 3, 0, 0"
+    ],
+    "option_images": [],
+    "answer": "B. 3, 1, 1",
+    "solution": "$Cl (Z=17) = 1s^2 2s^2 2p^6 3s^2 3p^5$. Unpaired electron is in $3p$. For $3p$: $n=3, l=1$. For the last electron in $3p$, $m$ can be $+1$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Structure of Atom",
+    "question": "Zeeman effect refers to the",
+    "question_latex": "Zeeman effect refers to the",
+    "question_images": [],
+    "options": [
+      "A. Splitting up of the lines in an emission spectrum in the presence of an external electrostatic field",
+      "B. Random scattering of light by colloidal particles",
+      "C. Splitting up of the lines in an emission spectrum in a magnetic field",
+      "D. Emission of electrons from metals when light falls upon them"
+    ],
+    "option_images": [],
+    "answer": "C. Splitting up of the lines in an emission spectrum in a magnetic field",
+    "solution": "Zeeman effect is the splitting of spectral lines under the influence of an external magnetic field.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Structure of Atom",
+    "question": "The values of four quantum numbers of valence electron of an element are n=4, l=0, m=0 and s=+1/2. The element is",
+    "question_latex": "The values of four quantum numbers of valence electron of an element are $n=4, l=0, m=0$ and $s=+1/2$. The element is",
+    "question_images": [],
+    "options": [
+      "A. K",
+      "B. Ti",
+      "C. Na",
+      "D. Sc"
+    ],
+    "option_images": [],
+    "answer": "A. K",
+    "solution": "$n=4, l=0$ means $4s^1$ configuration. This corresponds to Potassium ($_{19}K$).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Structure of Atom",
+    "question": "The wavelength of the radiation emitted, when in a hydrogen atom electron falls from infinity to stationary state 1, would be (Rydberg constant = 1.097 x 10^7 m^-1)",
+    "question_latex": "The wavelength of the radiation emitted, when in a hydrogen atom electron falls from infinity to stationary state 1, would be (Rydberg constant $= 1.097 \\times 10^{7} \\ m^{-1}$)",
+    "question_images": [],
+    "options": [
+      "A. 91 nm",
+      "B. 192 nm",
+      "C. 406 nm",
+      "D. 9.1 x 10^-8 nm"
+    ],
+    "option_images": [],
+    "answer": "A. 91 nm",
+    "solution": "$\\frac{1}{\\lambda} = R_H \\left( \\frac{1}{1^2} - \\frac{1}{\\infty^2} \\right) = 1.097 \\times 10^7 \\implies \\lambda = \\frac{1}{1.097 \\times 10^7} = 9.11 \\times 10^{-8} \\ m = 91.1 \\ nm$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Structure of Atom",
+    "question": "The orbital angular momentum of an electron in 3s-orbital is",
+    "question_latex": "The orbital angular momentum of an electron in 3s-orbital is",
+    "question_images": [],
+    "options": [
+      "A. 1/2 (h / 2π)",
+      "B. h / 2π",
+      "C. h / √2π",
+      "D. Zero"
+    ],
+    "option_images": [],
+    "answer": "D. Zero",
+    "solution": "Angular momentum $= \\sqrt{l(l+1)} \\frac{h}{2\\pi}$. For s-orbital, $l = 0$. Therefore $L = 0$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Structure of Atom",
+    "question": "Calculate wavelength for emission of a photon having wave number 11516 cm^-1. [MHT-CET 2024]",
+    "question_latex": "Calculate wavelength for emission of a photon having wave number $11516 \\ cm^{-1}$. [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 2.16 x 10^-5 cm",
+      "B. 8.68 x 10^-5 cm",
+      "C. 6.42 x 10^-5 cm",
+      "D. 4.34 x 10^-5 cm"
+    ],
+    "option_images": [],
+    "answer": "B. 8.68 x 10^-5 cm",
+    "solution": "$\\lambda = \\frac{1}{\\bar{\\nu}} = \\frac{1}{11516 \\ cm^{-1}} = 8.68 \\times 10^{-5} \\ cm$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Structure of Atom",
+    "question": "What is the radius of fourth stationary orbit of Bohr's model if the radius of first stationary orbit is R pm? [2025, 2023]",
+    "question_latex": "What is the radius of fourth stationary orbit of Bohr's model if the radius of first stationary orbit is $R \\ pm$? [2025, 2023]",
+    "question_images": [],
+    "options": [
+      "A. 25 R pm",
+      "B. 16 R pm",
+      "C. 9 R pm",
+      "D. 4 R pm"
+    ],
+    "option_images": [],
+    "answer": "B. 16 R pm",
+    "solution": "Radius $r_n = n^2 a_0$. For $n=4$, $r_4 = 4^2 R = 16R$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Structure of Atom",
+    "question": "Non-directional orbital is",
+    "question_latex": "Non-directional orbital is",
+    "question_images": [],
+    "options": [
+      "A. 4p",
+      "B. 4d",
+      "C. 4f",
+      "D. 4s"
+    ],
+    "option_images": [],
+    "answer": "D. 4s",
+    "solution": "s-orbitals are spherical in shape and thus non-directional.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Structure of Atom",
+    "question": "Which of following pairs is an example of isoelectronic species? [MHT-CET 2023]",
+    "question_latex": "Which of following pairs is an example of isoelectronic species? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. O-, F",
+      "B. O2-, Na+",
+      "C. Ar, Al3+",
+      "D. K, Ca2+"
+    ],
+    "option_images": [],
+    "answer": "B. O2-, Na+",
+    "solution": "$O^{2-} (8+2=10)$ and $Na^+ (11-1=10)$ both have 10 electrons.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Structure of Atom",
+    "question": "The wavelength of blue light is 480 nm. What is frequency of this light? [MHT-CET 2021]",
+    "question_latex": "The wavelength of blue light is $480 \\ nm$. What is frequency of this light? [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 6.25 x 10^14 Hz",
+      "B. 5.25 x 10^9 Hz",
+      "C. 4.8 x 10^9 Hz",
+      "D. 2.25 x 10^14 Hz"
+    ],
+    "option_images": [],
+    "answer": "A. 6.25 x 10^14 Hz",
+    "solution": "$\\nu = \\frac{c}{\\lambda} = \\frac{3 \\times 10^8}{480 \\times 10^{-9}} = 6.25 \\times 10^{14} \\ Hz$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Structure of Atom",
+    "question": "According to aufbau principle, the correct order of energy of 3d, 4s and 4p-orbitals is",
+    "question_latex": "According to aufbau principle, the correct order of energy of 3d, 4s and 4p-orbitals is",
+    "question_images": [],
+    "options": [
+      "A. 4p < 3d < 4s",
+      "B. 4s < 4p < 3d",
+      "C. 4s < 3d < 4p",
+      "D. 3d < 4s < 4p"
+    ],
+    "option_images": [],
+    "answer": "C. 4s < 3d < 4p",
+    "solution": "$n+l$ rule: $4s (4+0=4)$, $3d (3+2=5)$, $4p (4+1=5)$. Order: $4s < 3d < 4p$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Structure of Atom",
+    "question": "What is the energy of an electron in its ground state? [MHT-CET 2021]",
+    "question_latex": "What is the energy of an electron in its ground state? [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 5.2 x 10^-18 J",
+      "B. -2.18 x 10^-18 J",
+      "C. 1.903 x 10^-10 J",
+      "D. -3.142 x 10^-19 J"
+    ],
+    "option_images": [],
+    "answer": "B. -2.18 x 10^-18 J",
+    "solution": "Energy of hydrogen electron in ground state $(n=1) = -2.18 \\times 10^{-18} \\ J$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Structure of Atom",
+    "question": "Which from following rule / principle states that \"No two electrons in an atom can have the same set of four quantum numbers\"? [MHT-CET 2023]",
+    "question_latex": "Which from following rule / principle states that \"No two electrons in an atom can have the same set of four quantum numbers\"? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. Hund's rule",
+      "B. Heisenberg uncertainty principle",
+      "C. Aufbau rule",
+      "D. Pauli's exclusion principle"
+    ],
+    "option_images": [],
+    "answer": "D. Pauli's exclusion principle",
+    "solution": "Pauli's Exclusion Principle states that no two electrons in an atom can have all four quantum numbers identical.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Structure of Atom",
+    "question": "What is the radius of fourth orbit of Be+++? [MHT-CET 2023]",
+    "question_latex": "What is the radius of fourth orbit of $Be^{+++}$? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 211.6 pm",
+      "B. 52.9 pm",
+      "C. 158.7 pm",
+      "D. 13.2 pm"
+    ],
+    "option_images": [],
+    "answer": "A. 211.6 pm",
+    "solution": "$r_n = \\frac{52.9 \\times n^2}{Z} \\ pm$. For $Be^{3+} (Z=4, n=4)$: $r_4 = \\frac{52.9 \\times 16}{4} = 211.6 \\ pm$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Structure of Atom",
+    "question": "The energy of hydrogen atom in its ground state is -13.6 eV. The energy of the level corresponding to the quantum number n=5 is [MHT CET 2006]",
+    "question_latex": "The energy of hydrogen atom in its ground state is $-13.6 \\ eV$. The energy of the level corresponding to the quantum number $n=5$ is [MHT CET 2006]",
+    "question_images": [],
+    "options": [
+      "A. -5.4 eV",
+      "B. -0.54 eV",
+      "C. -2.72 eV",
+      "D. -0.85 eV"
+    ],
+    "option_images": [],
+    "answer": "B. -0.54 eV",
+    "solution": "$E_n = \\frac{-13.6}{n^2} \\ eV$. For $n=5$, $E_5 = \\frac{-13.6}{25} = -0.544 \\ eV$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Structure of Atom",
+    "question": "A set of quantum numbers which is incorrect is",
+    "question_latex": "A set of quantum numbers which is incorrect is",
+    "question_images": [],
+    "options": [
+      "A. n=2, l=1, ml=0, ms=+1/2",
+      "B. n=3, l=2, ml=+2, ms=-1/2",
+      "C. n=4, l=4, ml=+3, ms=+1/2",
+      "D. n=3, l=1, ml=0, ms=-1/2"
+    ],
+    "option_images": [],
+    "answer": "C. n=4, l=4, ml=+3, ms=+1/2",
+    "solution": "$l$ can range from 0 to $n-1$. For $n=4$, $l$ can be 0, 1, 2, 3. It cannot be 4.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Structure of Atom",
+    "question": "The wavelength of a spectral line of Caesium is 460 nm. What is the frequency of spectral line? [MHT-CET 2021]",
+    "question_latex": "The wavelength of a spectral line of Caesium is $460 \\ nm$. What is the frequency of spectral line? [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 3 x 10^9 Hz",
+      "B. 4.5 x 10^8 Hz",
+      "C. 5.6 x 10^14 Hz",
+      "D. 6.5 x 10^14 Hz"
+    ],
+    "option_images": [],
+    "answer": "D. 6.5 x 10^14 Hz",
+    "solution": "$\\nu = \\frac{c}{\\lambda} = \\frac{3 \\times 10^8}{460 \\times 10^{-9}} = 6.52 \\times 10^{14} \\ Hz$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Structure of Atom",
+    "question": "What is the representation of an element having mass number of 40 and 21 neutrons in it? [MHT-CET 2024]",
+    "question_latex": "What is the representation of an element having mass number of 40 and 21 neutrons in it? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 18^40X",
+      "B. 19^40X",
+      "C. 21^40X",
+      "D. 20^40X"
+    ],
+    "option_images": [],
+    "answer": "B. 19^40X",
+    "solution": "$Z = A - N = 40 - 21 = 19$. The representation is $^A_ZX = ^{40}_{19}X$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Structure of Atom",
+    "question": "The nodes present in 3p-orbitals are",
+    "question_latex": "The nodes present in 3p-orbitals are",
+    "question_images": [],
+    "options": [
+      "A. One spherical, one planar",
+      "B. Two spherical",
+      "C. Two planar",
+      "D. One planar"
+    ],
+    "option_images": [],
+    "answer": "A. One spherical, one planar",
+    "solution": "Radial (spherical) nodes $= n - l - 1 = 3 - 1 - 1 = 1$. Angular (planar) nodes $= l = 1$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Structure of Atom",
+    "question": "Calculate the wavenumber of photon emitted during transition from the orbit n=4 to that of n=2 in hydrogen atom [RH = 109677 cm^-1] [2025, 2023]",
+    "question_latex": "Calculate the wavenumber of photon emitted during transition from the orbit $n=4$ to that of $n=2$ in hydrogen atom [$R_H = 109677 \\ cm^{-1}$] [2025, 2023]",
+    "question_images": [],
+    "options": [
+      "A. 15233.32 cm^-1",
+      "B. 23032.15 cm^-1",
+      "C. 27419.21 cm^-1",
+      "D. 20564.44 cm^-1"
+    ],
+    "option_images": [],
+    "answer": "D. 20564.44 cm^-1",
+    "solution": "$\\bar{\\nu} = 109677 \\left( \\frac{1}{2^2} - \\frac{1}{4^2} \\right) = 109677 \\times \\frac{3}{16} = 20564.44 \\ cm^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Structure of Atom",
+    "question": "Which from following is an example of the pair of isotones? [MHT-CET 2023]",
+    "question_latex": "Which from following is an example of the pair of isotones? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 16^32S, 15^32P",
+      "B. 11^23Na, 12^24Mg",
+      "C. 17^35Cl, 17^37Cl",
+      "D. 6^12C, 7^14N"
+    ],
+    "option_images": [],
+    "answer": "B. 11^23Na, 12^24Mg",
+    "solution": "Isotones have same number of neutrons. For $Na (23-11=12)$, for $Mg (24-12=12)$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Structure of Atom",
+    "question": "For a Bohr atom angular momentum M of the electron is (n=1, 2, ...)",
+    "question_latex": "For a Bohr atom angular momentum $M$ of the electron is ($n=1, 2, ...$)",
+    "question_images": [],
+    "options": [
+      "A. nh^2 / 4π",
+      "B. n^2h^2 / 4π",
+      "C. √(nh^2 / 4π)",
+      "D. nh / 2π"
+    ],
+    "option_images": [],
+    "answer": "D. nh / 2π",
+    "solution": "Bohr's quantization condition: $mvr = \\frac{nh}{2\\pi}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Structure of Atom",
+    "question": "Calculate the frequency in Hertz of green light if wavelength is 540 nm [c=3x10^8 ms^-1] [2025]",
+    "question_latex": "Calculate the frequency in Hertz of green light if wavelength is $540 \\ nm$ [$c=3 \\times 10^8 \\ ms^{-1}$] [2025]",
+    "question_images": [],
+    "options": [
+      "A. 5.85 x 10^14 Hz",
+      "B. 5.55 x 10^14 Hz",
+      "C. 5.15 x 10^14 Hz",
+      "D. 5.30 x 10^14 Hz"
+    ],
+    "option_images": [],
+    "answer": "B. 5.55 x 10^14 Hz",
+    "solution": "$\\nu = \\frac{c}{\\lambda} = \\frac{3 \\times 10^8}{540 \\times 10^{-9}} = 5.55 \\times 10^{14} \\ Hz$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Structure of Atom",
+    "question": "Nitrogen has the electronic configuration 1s2 2s2 2px1 2py1 2pz1 and not 1s2 2s2 2px2 2py1 2pz0 which is determined by",
+    "question_latex": "Nitrogen has the electronic configuration $1s^2 2s^2 2p_x^1 2p_y^1 2p_z^1$ and not $1s^2 2s^2 2p_x^2 2p_y^1 2p_z^0$ which is determined by",
+    "question_images": [],
+    "options": [
+      "A. Pauli exclusion principle",
+      "B. Aufbau principle",
+      "C. Hund's rule",
+      "D. Uncertainty principle"
+    ],
+    "option_images": [],
+    "answer": "C. Hund's rule",
+    "solution": "Hund's rule states that electrons will occupy separate orbitals of the same subshell with parallel spins before they pair up.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Structure of Atom",
+    "question": "The radius of electron in the first excited state of hydrogen atom is (Where, a0 is the Bohr's radius)",
+    "question_latex": "The radius of electron in the first excited state of hydrogen atom is (Where, $a_0$ is the Bohr's radius)",
+    "question_images": [],
+    "options": [
+      "A. a0",
+      "B. 4 a0",
+      "C. 2 a0",
+      "D. 8 a0"
+    ],
+    "option_images": [],
+    "answer": "B. 4 a0",
+    "solution": "First excited state corresponds to $n=2$. $r_n = n^2 a_0 \\implies r_2 = 2^2 a_0 = 4 a_0$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Structure of Atom",
+    "question": "The wavelength of a spectral line emitted by hydrogen atom in the Lyman series is 16 / 15R cm. What is the value of n2? (R=Rydberg constant)",
+    "question_latex": "The wavelength of a spectral line emitted by hydrogen atom in the Lyman series is $\\frac{16}{15R} \\ cm$. What is the value of $n_2$? ($R$=Rydberg constant)",
+    "question_images": [],
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 1"
+    ],
+    "option_images": [],
+    "answer": "C. 4",
+    "solution": "$\\frac{1}{\\lambda} = R \\left( \\frac{1}{1^2} - \\frac{1}{n_2^2} \\right) \\implies \\frac{15R}{16} = R \\left( \\frac{1}{1} - \\frac{1}{n_2^2} \\right) \\implies \\frac{15}{16} = 1 - \\frac{1}{n_2^2} \\implies \\frac{1}{n_2^2} = \\frac{1}{16} \\implies n_2 = 4$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Structure of Atom",
+    "question": "Bohr's radius of 2nd orbit of Be3+ is equal to that of",
+    "question_latex": "Bohr's radius of 2nd orbit of $Be^{3+}$ is equal to that of",
+    "question_images": [],
+    "options": [
+      "A. 4th orbit of hydrogen",
+      "B. 2nd orbit of He+",
+      "C. 3rd orbit of Li2+",
+      "D. First orbit of hydrogen"
+    ],
+    "option_images": [],
+    "answer": "D. First orbit of hydrogen",
+    "solution": "$r \\propto \\frac{n^2}{Z}$. For $Be^{3+} (n=2, Z=4): r \\propto \\frac{4}{4} = 1$. For $H (n=1, Z=1): r \\propto \\frac{1}{1} = 1$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Structure of Atom",
+    "question": "Which of the following equations represents dual behavior of matter according to de Broglie? [MHT-CET 2023]",
+    "question_latex": "Which of the following equations represents dual behavior of matter according to de Broglie? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. λ = h / mv",
+      "B. bar{ν} = 1 / λ",
+      "C. E = hν",
+      "D. Δx · Δpx ≥ h / 4π"
+    ],
+    "option_images": [],
+    "answer": "A. λ = h / mv",
+    "solution": "The de Broglie relation $\\lambda = \\frac{h}{p} = \\frac{h}{mv}$ links wavelength (wave property) with momentum (particle property).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Structure of Atom",
+    "question": "Which diagram best represents the appearance of the line spectrum of atomic hydrogen in the visible region?",
+    "question_latex": "Which diagram best represents the appearance of the line spectrum of atomic hydrogen in the visible region?",
+    "question_images": [],
+    "options": [
+      "A. (Refer image q169_option_A1)",
+      "B. (Refer image q169_option_B1)",
+      "C. (Refer image q169_option_C1)",
+      "D. (Refer image q169_option_D1)"
+    ],
+    "option_images": [
+      "q169_option_A1",
+      "q169_option_B1",
+      "q169_option_C1",
+      "q169_option_D1"
+    ],
+    "answer": "C",
+    "solution": "The hydrogen spectrum in the visible region (Balmer series) shows lines that get closer together at shorter wavelengths (higher frequency). Diagram C correctly depicts this convergent pattern.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Structure of Atom",
+    "question": "Which of the following elements contains maximum number of unpaired electrons? [2025]",
+    "question_latex": "Which of the following elements contains maximum number of unpaired electrons? [2025]",
+    "question_images": [],
+    "options": [
+      "A. Oxygen",
+      "B. Sodium",
+      "C. Fluorine",
+      "D. Nitrogen"
+    ],
+    "option_images": [],
+    "answer": "D. Nitrogen",
+    "solution": "$O (2p^4): 2$ unpaired, $Na (3s^1): 1$ unpaired, $F (2p^5): 1$ unpaired, $N (2p^3): 3$ unpaired. Nitrogen has the most.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Structure of Atom",
+    "question": "Calculate wavelength of photon if wave number is 23000 cm^-1. [MHT-CET 2023]",
+    "question_latex": "Calculate wavelength of photon if wave number is $23000 \\ cm^{-1}$. [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 4.62 x 10^-5 cm",
+      "B. 3.75 x 10^-5 cm",
+      "C. 4.00 x 10^-5 cm",
+      "D. 4.35 x 10^-5 cm"
+    ],
+    "option_images": [],
+    "answer": "D. 4.35 x 10^-5 cm",
+    "solution": "$\\lambda = \\frac{1}{\\bar{\\nu}} = \\frac{1}{23000} = 4.35 \\times 10^{-5} \\ cm$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Structure of Atom",
+    "question": "What is the energy of an electron for hydrogen atom in Bohr's first orbit, if the energy in third orbit is -x J? [MHT-CET 2024]",
+    "question_latex": "What is the energy of an electron for hydrogen atom in Bohr's first orbit, if the energy in third orbit is $-x \\ J$? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. -9x J",
+      "B. 9x J",
+      "C. -x/9 J",
+      "D. x/9 J"
+    ],
+    "option_images": [],
+    "answer": "A. -9x J",
+    "solution": "$E_n \\propto \\frac{1}{n^2}$. $\\frac{E_3}{E_1} = \\frac{1^2}{3^2} = \\frac{1}{9}$. Since $E_3 = -x$, then $E_1 = 9E_3 = -9x \\ J$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Structure of Atom",
+    "question": "Calculate the shortest wavelength in hydrogen emission spectrum of Paschen series. (RH = 109677 cm^-1) [2025]",
+    "question_latex": "Calculate the shortest wavelength in hydrogen emission spectrum of Paschen series. ($R_H = 109677 \\ cm^{-1}$) [2025]",
+    "question_images": [],
+    "options": [
+      "A. 8.734 x 10^-5 cm",
+      "B. 8.520 x 10^-5 cm",
+      "C. 8.206 x 10^-5 cm",
+      "D. 8.942 x 10^-5 cm"
+    ],
+    "option_images": [],
+    "answer": "C. 8.206 x 10^-5 cm",
+    "solution": "Shortest wavelength is transition from $\\infty \\rightarrow 3$. $\\frac{1}{\\lambda} = R_H \\left( \\frac{1}{3^2} - \\frac{1}{\\infty^2} \\right) = \\frac{109677}{9} = 12186.33 \\ cm^{-1} \\implies \\lambda = \\frac{1}{12186.33} = 8.206 \\times 10^{-5} \\ cm$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Structure of Atom",
+    "question": "Find the number of orbitals and maximum electrons respectively present in M shell? [MHT-CET 2023]",
+    "question_latex": "Find the number of orbitals and maximum electrons respectively present in M shell? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1, 2",
+      "B. 4, 8",
+      "C. 9, 18",
+      "D. 16, 32"
+    ],
+    "option_images": [],
+    "answer": "C. 9, 18",
+    "solution": "For M shell, $n = 3$. Number of orbitals $= n^2 = 9$. Max electrons $= 2n^2 = 18$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Structure of Atom",
+    "question": "What is momentum of a microscopic particle having de Broglie's wavelength 6.0Å? [h = 6.63 x 10^-34 Js] [MHT-CET 2024]",
+    "question_latex": "What is momentum of a microscopic particle having de Broglie's wavelength $6.0 \\AA$? [$h = 6.63 \\times 10^{-34} \\ Js$] [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 3.18 x 10^-24 kg m s^-1",
+      "B. 1.1 x 10^-24 kg m s^-1",
+      "C. 6.36 x 10^-24 kg m s^-1",
+      "D. 4.6 x 10^-24 kg m s^-1"
+    ],
+    "option_images": [],
+    "answer": "B. 1.1 x 10^-24 kg m s^-1",
+    "solution": "$p = \\frac{h}{\\lambda} = \\frac{6.63 \\times 10^{-34}}{6.0 \\times 10^{-10}} = 1.1 \\times 10^{-24} \\ kg \\ m \\ s^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Structure of Atom",
+    "question": "Uncertainty in position of a particle of 25 g in space is 10^-5 m. Hence, uncertainty in velocity (m/s) is (Planck's constant h = 6.6 x 10^-34 Js)",
+    "question_latex": "Uncertainty in position of a particle of 25 g in space is $10^{-5} \\ m$. Hence, uncertainty in velocity ($ms^{-1}$) is (Planck's constant $h = 6.6 \\times 10^{-34} \\ Js$)",
+    "question_images": [],
+    "options": [
+      "A. 2.1 x 10^-28",
+      "B. 2.1 x 10^-34",
+      "C. 0.5 x 10^-34",
+      "D. 5.0 x 10^-24"
+    ],
+    "option_images": [],
+    "answer": "A. 2.1 x 10^-28",
+    "solution": "$\\Delta v \\ge \\frac{h}{4\\pi m \\Delta x} = \\frac{6.6 \\times 10^{-34}}{4 \\times 3.14 \\times 0.025 \\times 10^{-5}} \\approx 2.1 \\times 10^{-28} \\ m/s$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Structure of Atom",
+    "question": "Which of the following orbitals have same value of (n+l) as that of 3 d? [MHT-CET 2024]",
+    "question_latex": "Which of the following orbitals have same value of $(n+l)$ as that of 3 d? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 3 s",
+      "B. 2 p",
+      "C. 4 p",
+      "D. 4 s"
+    ],
+    "option_images": [],
+    "answer": "C. 4 p",
+    "solution": "$3d: n+l = 3+2 = 5$. $4p: n+l = 4+1 = 5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Structure of Atom",
+    "question": "What is the energy associated with third orbit of hydrogen atom? [RH = 2.18 x 10^-18 J] [MHT-CET 2024]",
+    "question_latex": "What is the energy associated with third orbit of hydrogen atom? [$R_H = 2.18 \\times 10^{-18} \\ J$] [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. -2.18 x 10^-18 J",
+      "B. -0.24 x 10^-18 J",
+      "C. -0.136 x 10^-18 J",
+      "D. -0.545 x 10^-8 J"
+    ],
+    "option_images": [],
+    "answer": "B. -0.24 x 10^-18 J",
+    "solution": "$E_3 = \\frac{-R_H}{n^2} = \\frac{-2.18 \\times 10^{-18}}{3^2} = \\frac{-2.18 \\times 10^{-18}}{9} = -0.242 \\times 10^{-18} \\ J$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Structure of Atom",
+    "question": "Which combinations of quantum numbers n, l, m and s for the electron in an atom does not provide a permissible solution of the wave equation?",
+    "question_latex": "Which combinations of quantum numbers $n, l, m$ and $s$ for the electron in an atom does not provide a permissible solution of the wave equation?",
+    "question_images": [],
+    "options": [
+      "A. 3, 2, 1, 1/2",
+      "B. 3, 1, 1, -1/2",
+      "C. 3, 3, 1, -1/2",
+      "D. 3, 2, -2, 1/2"
+    ],
+    "option_images": [],
+    "answer": "C. 3, 3, 1, -1/2",
+    "solution": "Permissible range for $l$ is 0 to $n-1$. If $n=3$, then $l$ can only be 0, 1, or 2. $l=3$ is invalid.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Structure of Atom",
+    "question": "The value of Rydberg constant is",
+    "question_latex": "The value of Rydberg constant is",
+    "question_images": [],
+    "options": [
+      "A. 109678 cm^-1",
+      "B. 109876 cm^-1",
+      "C. 108769 cm^-1",
+      "D. 108976 cm^-1"
+    ],
+    "option_images": [],
+    "answer": "A. 109678 cm^-1",
+    "solution": "The accepted value for hydrogen Rydberg constant ($R_H$) is approximately $109678 \\ cm^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Structure of Atom",
+    "question": "A particle having a mass of 1.0 mg has a velocity of 3600 km/h. Calculate the wavelength of the particle",
+    "question_latex": "A particle having a mass of 1.0 mg has a velocity of $3600 \\ km/h$. Calculate the wavelength of the particle",
+    "question_images": [],
+    "options": [
+      "A. 6.626 x 10^-28 cm",
+      "B. 6.626 x 10^-29 cm",
+      "C. 6.626 x 10^-30 cm",
+      "D. 6.626 x 10^-31 cm"
+    ],
+    "option_images": [],
+    "answer": "B. 6.626 x 10^-29 cm",
+    "solution": "$m = 10^{-6} \\ kg$. $v = \\frac{3600 \\times 1000}{3600} = 1000 \\ m/s$. $\\lambda = \\frac{h}{mv} = \\frac{6.626 \\times 10^{-34}}{10^{-6} \\times 10^3} = 6.626 \\times 10^{-31} \\ m = 6.626 \\times 10^{-29} \\ cm$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Structure of Atom",
+    "question": "What is the radius of first orbit of monopositive helium ion? [MHT-CET 2024]",
+    "question_latex": "What is the radius of first orbit of monopositive helium ion? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 19.84 pm",
+      "B. 13.23 pm",
+      "C. 26.45 pm",
+      "D. 39.68 pm"
+    ],
+    "option_images": [],
+    "answer": "C. 26.45 pm",
+    "solution": "$r_1 = \\frac{52.9 \\times 1^2}{Z} \\ pm$. For $He^+ (Z=2)$, $r_1 = \\frac{52.9}{2} = 26.45 \\ pm$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Structure of Atom",
+    "question": "The energy of a photon is 3 x 10^-12 ergs. What is its wavelength in nm? (h = 6.62 x 10^-27 ergs s, c = 3 x 10^10 cm/s)",
+    "question_latex": "The energy of a photon is $3 \\times 10^{-12} \\ ergs$. What is its wavelength in nm? ($h = 6.62 \\times 10^{-27} \\ ergs \\cdot s, c = 3 \\times 10^{10} \\ cm/s$)",
+    "question_images": [],
+    "options": [
+      "A. 662",
+      "B. 1324",
+      "C. 66.2",
+      "D. 6.62"
+    ],
+    "option_images": [],
+    "answer": "A. 662",
+    "solution": "$E = \\frac{hc}{\\lambda} \\implies \\lambda = \\frac{6.62 \\times 10^{-27} \\times 3 \\times 10^{10}}{3 \\times 10^{-12}} = 6.62 \\times 10^{-5} \\ cm = 662 \\ nm$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Structure of Atom",
+    "question": "The total number of orbitals possible for principle quantum number n is",
+    "question_latex": "The total number of orbitals possible for principle quantum number $n$ is",
+    "question_images": [],
+    "options": [
+      "A. n",
+      "B. n^2",
+      "C. 2n",
+      "D. 2n^2"
+    ],
+    "option_images": [],
+    "answer": "B. n^2",
+    "solution": "The total number of orbitals in a shell with principal quantum number $n$ is given by $n^2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Structure of Atom",
+    "question": "\"It is impossible to determine simultaneously the exact position and exact momentum of an electron.\" This statement is called [2025, 2024]",
+    "question_latex": "\"It is impossible to determine simultaneously the exact position and exact momentum of an electron.\" This statement is called [2025, 2024]",
+    "question_images": [],
+    "options": [
+      "A. Aufbau rule",
+      "B. Heisenberg uncertainty principle",
+      "C. Pauli's exclusion principle",
+      "D. Hund's rule"
+    ],
+    "option_images": [],
+    "answer": "B. Heisenberg uncertainty principle",
+    "solution": "This is the definition of the Heisenberg Uncertainty Principle.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Structure of Atom",
+    "question": "Find the radius of fourth orbit of hydrogen atom, if its radius of first orbit is R pm. [MHT-CET 2023]",
+    "question_latex": "Find the radius of fourth orbit of hydrogen atom, if its radius of first orbit is $R \\ pm$. [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 4 R pm",
+      "B. 16 R pm",
+      "C. R pm",
+      "D. 9 R pm"
+    ],
+    "option_images": [],
+    "answer": "B. 16 R pm",
+    "solution": "$r_4 = 4^2 \\times R = 16R$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Structure of Atom",
+    "question": "What is the relation between radius, order of orbit and nuclear charge for hydrogen like species? [MHT-CET 2022]",
+    "question_latex": "What is the relation between radius, order of orbit and nuclear charge for hydrogen like species? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. rn = a0n^2 / Z pm",
+      "B. rn = a0n / Z pm",
+      "C. rn = a0Z / n^2 pm",
+      "D. rn = a0n^2 Z pm"
+    ],
+    "option_images": [],
+    "answer": "A. rn = a0n^2 / Z pm",
+    "solution": "The Bohr radius for a hydrogen-like species is given by $r_n = \\frac{a_0 n^2}{Z} \\ pm$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Structure of Atom",
+    "question": "Calculate the energy associated with third orbit of He+. [2025]",
+    "question_latex": "Calculate the energy associated with third orbit of $He^+$. [2025]",
+    "question_images": [],
+    "options": [
+      "A. -4.8 x 10^-19 J",
+      "B. -19.36 x 10^-19 J",
+      "C. -9.69 x 10^-19 J",
+      "D. -1.45 x 10^-19 J"
+    ],
+    "option_images": [],
+    "answer": "C. -9.69 x 10^-19 J",
+    "solution": "$E_n = -2.18 \\times 10^{-18} \\frac{Z^2}{n^2} \\ J$. For $He^+ (Z=2, n=3)$: $E_3 = -2.18 \\times 10^{-18} \\times \\frac{4}{9} = -9.688 \\times 10^{-19} \\ J$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Structure of Atom",
+    "question": "The number of photons emitted per second by a 60 W source of monochromatic light of wavelength 663 nm is (h = 6.63 x 10^-34 Js)",
+    "question_latex": "The number of photons emitted per second by a 60 W source of monochromatic light of wavelength $663 \\ nm$ is ($h = 6.63 \\times 10^{-34} \\ Js$)",
+    "question_images": [],
+    "options": [
+      "A. 4 x 10^-20",
+      "B. 1.54 x 10^20",
+      "C. 3 x 10^-20",
+      "D. 2 x 10^20"
+    ],
+    "option_images": [],
+    "answer": "D. 2 x 10^20",
+    "solution": "$P = n \\frac{hc}{\\lambda} \\implies 60 = n \\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^8}{663 \\times 10^{-9}} \\implies 60 = n \\times 3 \\times 10^{-19} \\implies n = 2 \\times 10^{20}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Structure of Atom",
+    "question": "What is the amount of energy associated with first orbit of monopositive helium ion? [RH = 2.18 x 10^-18 J] [MHT-CET 2024]",
+    "question_latex": "What is the amount of energy associated with first orbit of monopositive helium ion? [$R_H = 2.18 \\times 10^{-18} \\ J$] [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. -1.9 x 10^-18 J",
+      "B. -8.72 x 10^-18 J",
+      "C. -6.54 x 10^-18 J",
+      "D. -4.36 x 10^-18 J"
+    ],
+    "option_images": [],
+    "answer": "B. -8.72 x 10^-18 J",
+    "solution": "$E_1 = -2.18 \\times 10^{-18} \\frac{Z^2}{1^2} = -2.18 \\times 10^{-18} \\times 4 = -8.72 \\times 10^{-18} \\ J$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Structure of Atom",
+    "question": "Which of the following equation relates energy 'En' of orbit to its principal quantum number? [MHT-CET 2024]",
+    "question_latex": "Which of the following equation relates energy '$E_n$' of orbit to its principal quantum number? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. E = -RH · n^2",
+      "B. E = RH · (1 / n^2)",
+      "C. E = -n^2 / RH",
+      "D. E = -RH · (1 / n^2)"
+    ],
+    "option_images": [],
+    "answer": "D. E = -RH · (1 / n^2)",
+    "solution": "The energy of an orbit in hydrogen is $E_n = -R_H \\left( \\frac{1}{n^2} \\right)$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Structure of Atom",
+    "question": "Energy of an electron of Hydrogen atom in ground state is -2.18 x 10^-18 J. What is its value in stationary state for n=2?",
+    "question_latex": "Energy of an electron of Hydrogen atom in ground state is $-2.18 \\times 10^{-18} \\ J$. What is its value in stationary state for $n=2$?",
+    "question_images": [],
+    "options": [
+      "A. -3.27 x 10^-19 J",
+      "B. -2.00 x 10^-19 J",
+      "C. -2.18 x 10^-18 J",
+      "D. -5.45 x 10^-19 J"
+    ],
+    "option_images": [],
+    "answer": "D. -5.45 x 10^-19 J",
+    "solution": "$E_2 = \\frac{E_1}{n^2} = \\frac{-2.18 \\times 10^{-18}}{4} = -5.45 \\times 10^{-19} \\ J$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Structure of Atom",
+    "question": "Which transition in the hydrogen atomic spectrum will have the same wavelength as the transition, n=4 to n=2 of He+ spectrum?",
+    "question_latex": "Which transition in the hydrogen atomic spectrum will have the same wavelength as the transition, $n=4$ to $n=2$ of $He^+$ spectrum?",
+    "question_images": [],
+    "options": [
+      "A. n=4 to n=3",
+      "B. n=3 to n=2",
+      "C. n=4 to n=2",
+      "D. n=2 to n=1"
+    ],
+    "option_images": [],
+    "answer": "D. n=2 to n=1",
+    "solution": "$\\bar{\\nu} = R Z^2 \\left( \\frac{1}{n_1^2} - \\frac{1}{n_2^2} \\right)$. For $He^+: \\bar{\\nu} = R(4) \\left( \\frac{1}{4} - \\frac{1}{16} \\right) = R(1 - 1/4) = R(3/4)$. For $H (Z=1): \\bar{\\nu} = R(1) \\left( \\frac{1}{1} - \\frac{1}{4} \\right) = R(3/4)$. This is $n=2 \\rightarrow n=1$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Structure of Atom",
+    "question": "Which among the following statements is NOT true regarding isotopes? [MHT-CET 2022]",
+    "question_latex": "Which among the following statements is NOT true regarding isotopes? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. These occupy different positions in the modern periodic table.",
+      "B. These have different number of neutrons.",
+      "C. These have same number of protons.",
+      "D. These have same chemical properties."
+    ],
+    "option_images": [],
+    "answer": "A. These occupy different positions in the modern periodic table.",
+    "solution": "Isotopes have the same atomic number and hence occupy the SAME position in the modern periodic table.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Structure of Atom",
+    "question": "What is the value of magnetic quantum number for electron having principal quantum number n=1? [MHT-CET 2023]",
+    "question_latex": "What is the value of magnetic quantum number for electron having principal quantum number $n=1$? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. ml = +1",
+      "B. ml = 0",
+      "C. ml = -1",
+      "D. ml = -2"
+    ],
+    "option_images": [],
+    "answer": "B. ml = 0",
+    "solution": "If $n=1$, then $l=0$ (only). Since $m_l$ ranges from $-l$ to $+l$, $m_l = 0$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Structure of Atom",
+    "question": "The relationship between the energy E1 of the radiation with a wavelength 8000Å and the energy E2 of the radiation with a wavelength 16000Å is",
+    "question_latex": "The relationship between the energy $E_1$ of the radiation with a wavelength $8000 \\ \\AA$ and the energy $E_2$ of the radiation with a wavelength $16000 \\ \\AA$ is",
+    "question_images": [],
+    "options": [
+      "A. E1 = 6 E2",
+      "B. E1 = 2 E2",
+      "C. E1 = 4 E2",
+      "D. E1 = 1/2 E2"
+    ],
+    "option_images": [],
+    "answer": "B. E1 = 2 E2",
+    "solution": "$E \\propto \\frac{1}{\\lambda} \\implies \\frac{E_1}{E_2} = \\frac{\\lambda_2}{\\lambda_1} = \\frac{16000}{8000} = 2 \\implies E_1 = 2E_2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Structure of Atom",
+    "question": "Identify the correct increasing order of energy of orbitals? [MHT-CET 2024]",
+    "question_latex": "Identify the correct increasing order of energy of orbitals? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 6 d < 4 f < 6 p",
+      "B. 4 f < 6 d < 6 p",
+      "C. 4 f < 6 p < 6 d",
+      "D. 6 p < 6 d < 4 f"
+    ],
+    "option_images": [],
+    "answer": "C. 4 f < 6 p < 6 d",
+    "solution": "$n+l$ values: $4f (4+3=7)$, $6p (6+1=7)$, $6d (6+2=8)$. Comparing same sum, higher $n$ has higher energy. So $4f < 6p < 6d$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Structure of Atom",
+    "question": "The velocities of two particles A and B are 0.05 and 0.02 ms^-1 respectively. The mass of B is five times the mass of A. The ratio of their de-Broglie's wavelength is",
+    "question_latex": "The velocities of two particles A and B are $0.05$ and $0.02 \\ ms^{-1}$ respectively. The mass of $B$ is five times the mass of $A$. The ratio of their de-Broglie's wavelength is",
+    "question_images": [],
+    "options": [
+      "A. 2:1",
+      "B. 1:4",
+      "C. 1:1",
+      "D. 4:1"
+    ],
+    "option_images": [],
+    "answer": "A. 2:1",
+    "solution": "$\\lambda = \\frac{h}{mv}$. $\\frac{\\lambda_A}{\\lambda_B} = \\frac{m_B v_B}{m_A v_A} = \\frac{5m_A \\times 0.02}{m_A \\times 0.05} = \\frac{0.10}{0.05} = \\frac{2}{1}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Structure of Atom",
+    "question": "Calculate the shortest wavelength in hydrogen emission spectrum of Balmer series (RH = 109677 cm^-1) [2025]",
+    "question_latex": "Calculate the shortest wavelength in hydrogen emission spectrum of Balmer series ($R_H = 109677 \\ cm^{-1}$) [2025]",
+    "question_images": [],
+    "options": [
+      "A. 4.152 x 10^-5 cm",
+      "B. 3.986 x 10^-5 cm",
+      "C. 3.647 x 10^-5 cm",
+      "D. 3.251 x 10^-5 cm"
+    ],
+    "option_images": [],
+    "answer": "C. 3.647 x 10^-5 cm",
+    "solution": "Shortest wavelength is transition $\\infty \\rightarrow 2$. $\\frac{1}{\\lambda} = R_H \\left( \\frac{1}{2^2} - \\frac{1}{\\infty^2} \\right) = \\frac{109677}{4} = 27419.25 \\ cm^{-1} \\implies \\lambda = \\frac{1}{27419.25} = 3.647 \\times 10^{-5} \\ cm$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Structure of Atom",
+    "question": "Energy of H-atom in the ground state is -13.6 eV, hence energy in the second excited state is",
+    "question_latex": "Energy of H-atom in the ground state is $-13.6 \\ eV$, hence energy in the second excited state is",
+    "question_images": [],
+    "options": [
+      "A. -6.8 eV",
+      "B. -3.4 eV",
+      "C. -1.51 eV",
+      "D. -4.53 eV"
+    ],
+    "option_images": [],
+    "answer": "C. -1.51 eV",
+    "solution": "Second excited state means $n=3$. $E_3 = \\frac{-13.6}{3^2} = \\frac{-13.6}{9} = -1.51 \\ eV$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Structure of Atom",
+    "question": "What is the energy associated with first orbit of Li2+? [RH = 2.18 x 10^-18 J] [MHT-CET 2022]",
+    "question_latex": "What is the energy associated with first orbit of $Li^{2+}$? [$R_H = 2.18 \\times 10^{-18} \\ J$] [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. -2.18 x 10^-18 J",
+      "B. -34.88 x 10^-18 J",
+      "C. -19.62 x 10^-18 J",
+      "D. -8.72 x 10^-18 J"
+    ],
+    "option_images": [],
+    "answer": "C. -19.62 x 10^-18 J",
+    "solution": "$E = -R_H \\frac{Z^2}{n^2}$. For $Li^{2+} (Z=3, n=1)$: $E = -2.18 \\times 10^{-18} \\times 3^2 = -19.62 \\times 10^{-18} \\ J$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Structure of Atom",
+    "question": "Which one of the following ions is not isoelectronic with O2-?",
+    "question_latex": "Which one of the following ions is not isoelectronic with $O^{2-}$?",
+    "question_images": [],
+    "options": [
+      "A. Ti+",
+      "B. Na+",
+      "C. F-",
+      "D. N3-"
+    ],
+    "option_images": [],
+    "answer": "A. Ti+",
+    "solution": "$O^{2-}$ has 10 electrons. $Na^+ (10)$, $F^- (10)$, $N^{3-} (10)$. $Ti^+$ ($Z=22$, so $21 e^-$) is not isoelectronic.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Structure of Atom",
+    "question": "What is the wave number of lowest transition associated with Lyman series? [MHT-CET 2024]",
+    "question_latex": "What is the wave number of lowest transition associated with Lyman series? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. bar{ν} = RH(3/4)",
+      "B. bar{ν} = RH(5/36)",
+      "C. bar{ν} = RH(36/5)",
+      "D. bar{ν} = RH(4/3)"
+    ],
+    "option_images": [],
+    "answer": "A. bar{ν} = RH(3/4)",
+    "solution": "Lowest energy transition for Lyman is $n=2 \\rightarrow n=1$. $\\bar{\\nu} = R_H \\left( \\frac{1}{1^2} - \\frac{1}{2^2} \\right) = R_H \\left( 1 - \\frac{1}{4} \\right) = R_H \\frac{3}{4}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Structure of Atom",
+    "question": "What is momentum of a microscopic particle having de Broglie's wavelength 0.72Å? [h = 6.63 x 10^-34 Js] [MHT-CET 2024]",
+    "question_latex": "What is momentum of a microscopic particle having de Broglie's wavelength $0.72 \\AA$? [$h = 6.63 \\times 10^{-34} \\ Js$] [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 3.18 x 10^-24 kg m s^-1",
+      "B. 6.36 x 10^-24 kg m s^-1",
+      "C. 4.6 x 10^-24 kg m s^-1",
+      "D. 9.2 x 10^-24 kg m s^-1"
+    ],
+    "option_images": [],
+    "answer": "D. 9.2 x 10^-24 kg m s^-1",
+    "solution": "$p = \\frac{h}{\\lambda} = \\frac{6.63 \\times 10^{-34}}{0.72 \\times 10^{-10}} = 9.2 \\times 10^{-24} \\ kg \\ m \\ s^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Structure of Atom",
+    "question": "The energy required to break one mole of Cl-Cl bonds in Cl2 is 242kJ/mol. The longest wavelength of light capable of breaking a single Cl-Cl bond is",
+    "question_latex": "The energy required to break one mole of Cl-Cl bonds in $Cl_2$ is $242 \\ kJ/mol$. The longest wavelength of light capable of breaking a single Cl-Cl bond is",
+    "question_images": [],
+    "options": [
+      "A. 594 nm",
+      "B. 640 nm",
+      "C. 700 nm",
+      "D. 494 nm"
+    ],
+    "option_images": [],
+    "answer": "D. 494 nm",
+    "solution": "Energy per bond $= \\frac{242 \\times 10^3}{6.022 \\times 10^{23}} \\ J$. $E = \\frac{hc}{\\lambda} \\implies \\lambda = \\frac{6.626 \\times 10^{-34} \\times 3 \\times 10^8 \\times 6.022 \\times 10^{23}}{242 \\times 10^3} = 494 \\times 10^{-9} \\ m = 494 \\ nm$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Structure of Atom",
+    "question": "An electron will have the highest energy in the set",
+    "question_latex": "An electron will have the highest energy in the set",
+    "question_images": [],
+    "options": [
+      "A. 3, 2, 1, 1/2",
+      "B. 4, 2, -1, 1/2",
+      "C. 4, 1, 0, -1/2",
+      "D. 5, 0, 0, 1/2"
+    ],
+    "option_images": [],
+    "answer": "B. 4, 2, -1, 1/2",
+    "solution": "(A) $3d$ ($n+l=5$), (B) $4d$ ($n+l=6$), (C) $4p$ ($n+l=5$), (D) $5s$ ($n+l=5$). (B) has the highest $n+l$ sum.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Structure of Atom",
+    "question": "Calculate the wave number of photon emitted during transition from the orbit of n=3 to n=2 in hydrogen atom. [RH = 109677 cm^-1] [MHT-CET 2023]",
+    "question_latex": "Calculate the wave number of photon emitted during transition from the orbit of $n=3$ to $n=2$ in hydrogen atom. [$R_H = 109677 \\ cm^{-1}$] [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 82257.8 cm^-1",
+      "B. 30515.4 cm^-1",
+      "C. 15232.9 cm^-1",
+      "D. 41128.5 cm^-1"
+    ],
+    "option_images": [],
+    "answer": "C. 15232.9 cm^-1",
+    "solution": "$\\bar{\\nu} = 109677 \\left( \\frac{1}{2^2} - \\frac{1}{3^2} \\right) = 109677 \\times \\frac{5}{36} = 15232.9 \\ cm^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Structure of Atom",
+    "question": "The maximum number of electron in P-orbital with n=5, m=1 is",
+    "question_latex": "The maximum number of electron in P-orbital with $n=5, m=1$ is",
+    "question_images": [],
+    "options": [
+      "A. 6",
+      "B. 2",
+      "C. 14",
+      "D. 10"
+    ],
+    "option_images": [],
+    "answer": "B. 2",
+    "solution": "Regardless of the shell ($n$) or orbital type, a single specific orbital defined by a set of $(n, l, m)$ can hold a maximum of 2 electrons.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Structure of Atom",
+    "question": "What is the number of unpaired electrons present in d orbitals of Cr(Z=24) to have extra stability? [MHT-CET 2022]",
+    "question_latex": "What is the number of unpaired electrons present in d orbitals of $Cr(Z=24)$ to have extra stability? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 5",
+      "B. 0",
+      "C. 4",
+      "D. 1"
+    ],
+    "option_images": [],
+    "answer": "A. 5",
+    "solution": "$Cr (Z=24) = [Ar] 4s^1 3d^5$. There are 5 unpaired electrons in the $3d$ orbitals.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Structure of Atom",
+    "question": "Calculate the wave number of the photon emitted during transition from the orbit of n=5 to that of n=1 in hydrogen atom. [RH = 109677 cm^-1] [2025]",
+    "question_latex": "Calculate the wave number of the photon emitted during transition from the orbit of $n=5$ to that of $n=1$ in hydrogen atom. [$R_H = 109677 \\ cm^{-1}$] [2025]",
+    "question_images": [],
+    "options": [
+      "A. 6855 cm^-1",
+      "B. 105290 cm^-1",
+      "C. 12064 cm^-1",
+      "D. 26324 cm^-1"
+    ],
+    "option_images": [],
+    "answer": "B. 105290 cm^-1",
+    "solution": "$\\bar{\\nu} = 109677 \\left( \\frac{1}{1^2} - \\frac{1}{5^2} \\right) = 109677 \\times \\frac{24}{25} = 105289.92 \\approx 105290 \\ cm^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Structure of Atom",
+    "question": "Isoelectronic pair among the following is",
+    "question_latex": "Isoelectronic pair among the following is",
+    "question_images": [],
+    "options": [
+      "A. Ca and K",
+      "B. Ar and Ca2+",
+      "C. K and Ca2+",
+      "D. Ar and K"
+    ],
+    "option_images": [],
+    "answer": "B. Ar and Ca2+",
+    "solution": "$Ar (18)$ and $Ca^{2+} (20-2=18)$ both have 18 electrons.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Structure of Atom",
+    "question": "The electrons identified by (i) n=4, l=1. (ii) n=4, l=0, (iii) n=3, l=2, (iv) n=3, l=1 can be arranged in order of increasing energy as",
+    "question_latex": "The electrons identified by (i) $n=4, l=1$, (ii) $n=4, l=0$, (iii) $n=3, l=2$, (iv) $n=3, l=1$ can be arranged in order of increasing energy as",
+    "question_images": [],
+    "options": [
+      "A. (iv) < (ii) < (iii) < (i)",
+      "B. (ii) < (iv) < (i) < (iii)",
+      "C. (i) < (iii) < (ii) < (iv)",
+      "D. (iii) < (i) < (iv) < (ii)"
+    ],
+    "option_images": [],
+    "answer": "A. (iv) < (ii) < (iii) < (i)",
+    "solution": "Same logic as ID 116. (iv) $3p$, (ii) $4s$, (iii) $3d$, (i) $4p$. Order: $(iv) < (ii) < (iii) < (i)$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Structure of Atom",
+    "question": "The H-spectrum shows",
+    "question_latex": "The H-spectrum shows",
+    "question_images": [],
+    "options": [
+      "A. Heisenberg's uncertainty principle",
+      "B. Diffraction",
+      "C. Polarisation",
+      "D. Presence of quantised energy level"
+    ],
+    "option_images": [],
+    "answer": "D. Presence of quantised energy level",
+    "solution": "Atomic spectra are line spectra which directly provide evidence for the existence of quantized energy levels in atoms.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Structure of Atom",
+    "question": "Bohr model can explain",
+    "question_latex": "Bohr model can explain",
+    "question_images": [],
+    "options": [
+      "A. The solar spectrum",
+      "B. The spectrum of hydrogen molecule",
+      "C. Spectrum of any atom or ion containing one electron only",
+      "D. The spectrum of hydrogen atom only"
+    ],
+    "option_images": [],
+    "answer": "C. Spectrum of any atom or ion containing one electron only",
+    "solution": "Bohr's model is restricted to single-electron species (H, $He^+$, $Li^{2+}$, etc.).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 101,
+    "chapter": "Structure of Atom",
+    "question": "For the azimuthal quantum number, l=2, the maximum number of electrons will be",
+    "question_latex": "For the azimuthal quantum number, $l=2$, the maximum number of electrons will be",
+    "question_images": [],
+    "options": [
+      "A. 4",
+      "B. 10",
+      "C. 14",
+      "D. 11"
+    ],
+    "option_images": [],
+    "answer": "B. 10",
+    "solution": "For $l=2$ (d-subshell), max electrons $= 2(2l+1) = 2(5) = 10$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 102,
+    "chapter": "Structure of Atom",
+    "question": "Which of the following triads represents isotones?",
+    "question_latex": "Which of the following triads represents isotones?",
+    "question_images": [],
+    "options": [
+      "A. 6^12C, 6^13C, 6^14C",
+      "B. 18^40Ar, 20^42Ca, 21^43Sc",
+      "C. 18^40Ar, 20^40Ca, 21^41Sc",
+      "D. 7^14N, 8^16O, 9^18F"
+    ],
+    "option_images": [],
+    "answer": "B. 18^40Ar, 20^42Ca, 21^43Sc",
+    "solution": "Triad B: $Ar(40-18=22)$, $Ca(42-20=22)$, $Sc(43-21=22)$. All have 22 neutrons.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 103,
+    "chapter": "Structure of Atom",
+    "question": "Number of neutron in C12 is",
+    "question_latex": "Number of neutron in $C^{12}$ is",
+    "question_images": [],
+    "options": [
+      "A. 6",
+      "B. 7",
+      "C. 8",
+      "D. 9"
+    ],
+    "option_images": [],
+    "answer": "A. 6",
+    "solution": "$N = A - Z = 12 - 6 = 6$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 104,
+    "chapter": "Structure of Atom",
+    "question": "If ml = 0 in",
+    "question_latex": "If $m_l = 0$ in",
+    "question_images": [],
+    "options": [
+      "A. s orbital",
+      "B. p orbital",
+      "C. d orbital",
+      "D. f orbital"
+    ],
+    "option_images": [],
+    "answer": "A. s orbital",
+    "solution": "In an s-orbital ($l=0$), the only possible value for $m_l$ is 0.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 105,
+    "chapter": "Structure of Atom",
+    "question": "Stark effect refers to the",
+    "question_latex": "Stark effect refers to the",
+    "question_images": [],
+    "options": [
+      "A. Splitting up of the lines in an emission spectrum in the presence of an external electrostatic field",
+      "B. Random scattering of light by colloidal particles",
+      "C. Splitting up of the lines in an emission spectrum in a magnetic field",
+      "D. Emission of electrons from metals when light falls upon them"
+    ],
+    "option_images": [],
+    "answer": "A. Splitting up of the lines in an emission spectrum in the presence of an external electrostatic field",
+    "solution": "The Stark effect is the electric-field analogue of the Zeeman effect (magnetic field).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 106,
+    "chapter": "Structure of Atom",
+    "question": "Calculate radius of fourth orbit of B4+ ion. [MHT-CET 2024]",
+    "question_latex": "Calculate radius of fourth orbit of $B^{4+}$ ion. [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 380.8 pm",
+      "B. 413.2 pm",
+      "C. 211.6 pm",
+      "D. 169.3 pm"
+    ],
+    "option_images": [],
+    "answer": "D. 169.3 pm",
+    "solution": "$r_4 = \\frac{52.9 \\times 4^2}{Z} = \\frac{52.9 \\times 16}{5} = 169.28 \\approx 169.3 \\ pm$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 107,
+    "chapter": "Structure of Atom",
+    "question": "For the azimuthal quantum number, l=2, the maximum number of electrons will be",
+    "question_latex": "For the azimuthal quantum number, $l=2$, the maximum number of electrons will be",
+    "question_images": [],
+    "options": [
+      "A. 4",
+      "B. 10",
+      "C. 14",
+      "D. 11"
+    ],
+    "option_images": [],
+    "answer": "B. 10",
+    "solution": "Duplicate of ID 214. Max electrons for d-subshell ($l=2$) is 10.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 108,
+    "chapter": "Structure of Atom",
+    "question": "How many values of magnetic quantum number are possible for each value of azimuthal quantum number? [MHT-CET 2021]",
+    "question_latex": "How many values of magnetic quantum number are possible for each value of azimuthal quantum number? [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 2l",
+      "B. n-1",
+      "C. 2l+1",
+      "D. nl"
+    ],
+    "option_images": [],
+    "answer": "C. 2l+1",
+    "solution": "For any given value of $l$, $m_l$ can take values from $-l$ to $+l$, totaling $2l+1$ values.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 109,
+    "chapter": "Structure of Atom",
+    "question": "Which from following coloured light has lowest energy? [MHT-CET 2023]",
+    "question_latex": "Which from following coloured light has lowest energy? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. Blue",
+      "B. Violet",
+      "C. Red",
+      "D. Yellow"
+    ],
+    "option_images": [],
+    "answer": "C. Red",
+    "solution": "Energy is inversely proportional to wavelength ($E \\propto 1/\\lambda$). Red has the longest wavelength in the visible spectrum and thus the lowest energy.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 110,
+    "chapter": "Structure of Atom",
+    "question": "Calculate the energy per mole of photon of electromagnetic radiation having wavelength 700 nm [h = 6.626 x 10^-34Js, c = 3 x 10^8 m/s] [2025]",
+    "question_latex": "Calculate the energy per mole of photon of electromagnetic radiation having wavelength $700 \\ nm$ [$h = 6.626 \\times 10^{-34} \\ Js, c = 3 \\times 10^8 \\ m/s$] [2025]",
+    "question_images": [],
+    "options": [
+      "A. 1.71 x 10^5 J",
+      "B. 1.02 x 10^5 J",
+      "C. 1.55 x 10^5 J",
+      "D. 1.84 x 10^5 J"
+    ],
+    "option_images": [],
+    "answer": "A. 1.71 x 10^5 J",
+    "solution": "$E_{photon} = \\frac{hc}{\\lambda} = \\frac{6.626 \\times 10^{-34} \\times 3 \\times 10^8}{700 \\times 10^{-9}} = 2.839 \\times 10^{-19} \\ J$. Energy per mole $= 2.839 \\times 10^{-19} \\times 6.022 \\times 10^{23} \\approx 1.71 \\times 10^5 \\ J$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 111,
+    "chapter": "Structure of Atom",
+    "question": "An electron is moving in Bohr's fourth orbit. Its de-Broglie wavelength is λ. What is the circumference of the fourth orbit?",
+    "question_latex": "An electron is moving in Bohr's fourth orbit. Its de-Broglie wavelength is $\\lambda$. What is the circumference of the fourth orbit?",
+    "question_images": [],
+    "options": [
+      "A. 2/λ",
+      "B. 2λ",
+      "C. 4λ",
+      "D. 4/λ"
+    ],
+    "option_images": [],
+    "answer": "C. 4λ",
+    "solution": "$mvr = \\frac{nh}{2\\pi} \\implies 2\\pi r = n \\left( \\frac{h}{mv} \\right) = n\\lambda$. For $n=4$, $2\\pi r = 4\\lambda$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 112,
+    "chapter": "Structure of Atom",
+    "question": "Calculate the radius of first orbit of He+ [MHT-CET 2024]",
+    "question_latex": "Calculate the radius of first orbit of $He^+$ [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 48.62 pm",
+      "B. 39.46 pm",
+      "C. 26.45 pm",
+      "D. 13.23 pm"
+    ],
+    "option_images": [],
+    "answer": "C. 26.45 pm",
+    "solution": "$r_1 = \\frac{52.9 \\times 1^2}{2} = 26.45 \\ pm$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 113,
+    "chapter": "Structure of Atom",
+    "question": "If ml = 0 in",
+    "question_latex": "If $m_l = 0$ in",
+    "question_images": [],
+    "options": [
+      "A. s orbital",
+      "B. p orbital",
+      "C. d orbital",
+      "D. f orbital"
+    ],
+    "option_images": [],
+    "answer": "A. s orbital",
+    "solution": "Duplicate of ID 217. $m_l=0$ is the only value for an s-orbital.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
   }
 ]

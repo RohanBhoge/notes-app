@@ -1,0 +1,154 @@
+[
+  {
+    "id": 101,
+    "chapter": "Origin and Evolution of Life",
+    "question": "According to J.B.S. Haldane, the \"hot dilute soup\" is made up of",
+    "question_latex": "According to J.B.S. Haldane, the \"hot dilute soup\" is made up of",
+    "question_images": [],
+    "options": [
+      "A. colloidal aggregation of hydrophobic proteins",
+      "B. colloidal hydrophilic complex of protein surrounded by water molecules",
+      "C. proteins showing enzymatic reaction",
+      "D. simple organic molecules at the bottom of water bodies"
+    ],
+    "option_images": [],
+    "answer": "D. simple organic molecules at the bottom of water bodies",
+    "solution": "J.B.S. Haldane proposed that the primitive oceans served as a 'hot dilute soup' where simple organic molecules, synthesized through chemical reactions in the atmosphere using UV energy, accumulated and reacted further to form complex molecules.",
+    "solution_images": [],
+    "difficulty": "medium",
+    "marks": 4
+  },
+  {
+    "id": 102,
+    "chapter": "Origin and Evolution of Life",
+    "question": "Which one of the following is NOT the main postulate of Darwinism?",
+    "question_latex": "Which one of the following is NOT the main postulate of Darwinism?",
+    "question_images": [],
+    "options": [
+      "A. Arrival of the fittest",
+      "B. Struggle for existence",
+      "C. Prodigality",
+      "D. Organic variation"
+    ],
+    "option_images": [],
+    "answer": "A. Arrival of the fittest",
+    "solution": "Darwin's theory explained the 'Survival of the Fittest' through Natural Selection, but a major criticism was that it failed to explain the 'Arrival of the Fittest'—how those useful variations actually originated in the first place.",
+    "solution_images": [],
+    "difficulty": "medium",
+    "marks": 4
+  },
+  {
+    "id": 103,
+    "chapter": "Origin and Evolution of Life",
+    "question": "Which is the correct sequence in evolutionary history of man from ancient to recent epochs?",
+    "question_latex": "Which is the correct sequence in evolutionary history of man from ancient to recent epochs?",
+    "question_images": [],
+    "options": [
+      "A. Ramapithecus → Dryopithecus → Homo erectus → Homo habilis → Neanderthal man",
+      "B. Dryopithecus → Ramapithecus → Homo erectus → Homo habilis → Neanderthal man",
+      "C. Ramapithecus → Dryopithecus → Homo erectus → Homo habilis → Neanderthal man",
+      "D. Dryopithecus → Ramapithecus → Homo habilis → Homo erectus → Neanderthal man"
+    ],
+    "option_images": [],
+    "answer": "D. Dryopithecus → Ramapithecus → Homo habilis → Homo erectus → Neanderthal man",
+    "solution": "The correct evolutionary lineage of modern man follows the sequence: $Dryopithecus$ (ape-like) $\\rightarrow$ $Ramapithecus$ (man-like) $\\rightarrow$ $Homo$ $habilis$ (handy man) $\\rightarrow$ $Homo$ $erectus$ (upright man) $\\rightarrow$ $Homo$ $neanderthalensis$ (prehistoric man).",
+    "solution_images": [],
+    "difficulty": "medium",
+    "marks": 4
+  },
+  {
+    "id": 104,
+    "chapter": "Origin and Evolution of Life",
+    "question": "Random genetic drift in a population probably results from",
+    "question_latex": "Random genetic drift in a population probably results from",
+    "question_images": [],
+    "options": [
+      "A. Constant low mutation rate",
+      "B. Large population size",
+      "C. Highly genetically variable individuals",
+      "D. Interbreeding within this population"
+    ],
+    "option_images": [],
+    "answer": "C. Highly genetically variable individuals",
+    "solution": "Genetic drift refers to random changes in allele frequencies. It is most impactful in small populations where chance events can significantly alter the genetic makeup if individuals are highly variable.",
+    "solution_images": [],
+    "difficulty": "hard",
+    "marks": 4
+  },
+  {
+    "id": 105,
+    "chapter": "Origin and Evolution of Life",
+    "question": "Structurally similar but functionally dissimilar organs are",
+    "question_latex": "Structurally similar but functionally dissimilar organs are",
+    "question_images": [],
+    "options": [
+      "A. Vestigial organs",
+      "B. Analogous organs",
+      "C. Antagonistic organs",
+      "D. Homologous organs"
+    ],
+    "option_images": [],
+    "answer": "D. Homologous organs",
+    "solution": "Homologous organs have the same basic structural plan and embryonic origin but perform different functions (e.g., flippers of whales and hands of humans), indicating divergent evolution.",
+    "solution_images": [],
+    "difficulty": "easy",
+    "marks": 4
+  },
+  {
+    "id": 106,
+    "chapter": "Origin and Evolution of Life",
+    "question": "Point mutation is",
+    "question_latex": "Point mutation is",
+    "question_images": [],
+    "options": [
+      "A. Gradual, continuous change in genetic makeup.",
+      "B. Sudden change in the chemical makeup of a gene.",
+      "C. Alteration in allele frequency.",
+      "D. Changes in gene arrangement in chromosome."
+    ],
+    "option_images": [],
+    "answer": "B. Sudden change in the chemical makeup of a gene.",
+    "solution": "Mutations are sudden changes in genetic material. A point mutation specifically refers to a change in a single nucleotide base pair within a gene.",
+    "solution_images": [],
+    "difficulty": "easy",
+    "marks": 4
+  },
+  {
+    "id": 107,
+    "chapter": "Origin and Evolution of Life",
+    "question": "Which postulate of Darwin's theory explains that the number of progeny tend to increase in geometric ratio?",
+    "question_latex": "Which postulate of Darwin's theory explains that the number of progeny tend to increase in geometric ratio?",
+    "question_images": [],
+    "options": [
+      "A. Survival of fittest",
+      "B. Prodigality of nature",
+      "C. Origin of new species",
+      "D. Struggle for existence"
+    ],
+    "option_images": [],
+    "answer": "B. Prodigality of nature",
+    "solution": "Also known as overproduction, this postulate states that organisms produce far more offspring than can survive to ensure the perpetuation of the species.",
+    "solution_images": [],
+    "difficulty": "medium",
+    "marks": 4
+  },
+  {
+    "id": 108,
+    "chapter": "Origin and Evolution of Life",
+    "question": "Louis Pasteur disproved the theory of",
+    "question_latex": "Louis Pasteur disproved the theory of",
+    "question_images": [],
+    "options": [
+      "A. Panspermia",
+      "B. Special creation",
+      "C. Abiogenesis",
+      "D. Biogenesis"
+    ],
+    "option_images": [],
+    "answer": "C. Abiogenesis",
+    "solution": "Pasteur used the swan-neck flask experiment to prove that life only arises from pre-existing life (Biogenesis), thus disproving spontaneous generation (Abiogenesis).",
+    "solution_images": [],
+    "difficulty": "easy",
+    "marks": 4
+  }
+]
