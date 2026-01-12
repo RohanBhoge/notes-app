@@ -1,0 +1,1942 @@
+[
+  {
+    "id": 1,
+    "chapter": "Solutions",
+    "question": "Solutions A, B, C and D are respectively 0.1 M glucose, 0.05 M NaCl, 0.05 M $BaCl_{2}$ and 0.1 M $AlCl_{3}$. Which one of the following pairs is isotonic? [MHT CET 2008]",
+    "question_latex": "Solutions A, B, C and D are respectively 0.1 M glucose, 0.05 M $NaCl$, 0.05 M $BaCl_{2}$ and 0.1 M $AlCl_{3}$. Which one of the following pairs is isotonic? [MHT CET 2008]",
+    "question_images": [],
+    "options": [
+      "A. A and B",
+      "B. B and C",
+      "C. A and D",
+      "D. A and C"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Isotonic solutions have same molar concentration of solute particles in solution. Molar concentration of particles in solution are 0.1 M in glucose, $2 \\times 0.05$ M in $NaCl$, $3 \\times 0.05$ in $BaCl_{2}$ and $4 \\times 0.1$ in $AlCl_{3}$. Therefore, 0.1 M glucose and 0.05 M $NaCl$ solutions are isotonic.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Solutions",
+    "question": "Calculate the concentration of dissolved gas in water at 25°C if partial pressure of gas at same temperature is 0.15 atm. [$K_H = 0.15 mol dm^{-3} atm^{-1}$] [2025]",
+    "question_latex": "Calculate the concentration of dissolved gas in water at $25^{\\circ}C$ if partial pressure of gas at same temperature is 0.15 atm. $[K_{H}=0.15~moldm^{-3}atm^{-1}][2025]$",
+    "question_images": [],
+    "options": [
+      "A. 0.0293 M",
+      "B. 0.0182 M",
+      "C. 0.0225 M",
+      "D. 0.0261 M"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Concentration of dissolved gas $= K_{H} \\times P = 0.15~moldm^{-3}atm^{-1} \\times 0.15~atm = 0.0225~moldm^{-3} = 0.0225 M$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Solutions",
+    "question": "What is the molar mass of a solute if a solution is prepared by dissolving 0.8 gram solute in 0.4 dm³ water having osmotic pressure 0.18 atm at 300 K? [R = 0.082 atm dm³ K⁻¹ mol⁻¹] [MHT-CET 2023: PCB]",
+    "question_latex": "What is the molar mass of a solute if a solution is prepared by dissolving 0.8 gram solute in $0.4dm^{3}$ water having osmotic pressure 0.18 atm at 300 K? $[R = 0.082 atmdm^{3}K^{-1} mol^{-1}]$ [MHT-CET 2023: PCB]",
+    "question_images": [],
+    "options": [
+      "A. 290.2 g mol⁻¹",
+      "B. 273.3 g mol⁻¹",
+      "C. 260.1 g mol⁻¹",
+      "D. 300.0 g mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Given: $\\pi=0.18~atm, T=300~K, R=0.082~atmdm^{3}K^{-1}mol^{-1}, W_{2}=0.8~g, V=0.4dm^{3}$. Using formula: $M_{2}=\\frac{W_{2}RT}{\\pi V} = \\frac{0.8~g \\times 0.082~atmdm^{3}K^{-1}mol^{-1} \\times 300~K}{0.18~atm \\times 0.4dm^{3}} = 273.3~g~mol^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Solutions",
+    "question": "A 500 g toothpaste sample has 0.2 g fluoride. What is the concentration of F⁻ in ppm?",
+    "question_latex": "A 500 g toothpaste sample has 0.2 g fluoride. What is the concentration of $F^{-}$ in ppm?",
+    "question_images": [],
+    "options": [
+      "A. 200",
+      "B. 250",
+      "C. 400",
+      "D. 1000"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "ppm means parts per million. To find parts by mass of fluoride ion in 1 million parts by mass of the toothpaste: 500 g toothpaste contains 0.2 g fluoride, 1000000 g toothpaste contains $x$ g fluoride, then $\\frac{500}{10^6} = \\frac{0.2}{x} \\Rightarrow x = \\frac{0.2 \\times 10^{6}}{500} = 400~ppm$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 5,
+    "chapter": "Solutions",
+    "question": "Which has the minimum freezing point?",
+    "question_latex": "Which has the minimum freezing point?",
+    "question_images": [],
+    "options": [
+      "A. One molal NaCl solution",
+      "B. One molal KCl solution",
+      "C. One molal CaCl₂ solution",
+      "D. One molal urea solution"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$CaCl_{2}$ gives maximum ions in solution (3 ions), hence it has the maximum depression in freezing point and therefore the minimum freezing point.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 6,
+    "chapter": "Solutions",
+    "question": "Volume of water needed to mix with 10 mL N HCl to get 0.1 N HCl is",
+    "question_latex": "Volume of water needed to mix with 10 mL N $HCl$ to get 0.1 N $HCl$ is",
+    "question_images": [],
+    "options": [
+      "A. 900 mL",
+      "B. 9 mL",
+      "C. 90 mL",
+      "D. 100 mL"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$N_{1}V_{1}=N_{2}V_{2} \\Rightarrow 10 \\times 1 = 0.1 \\times V_{2} \\Rightarrow V_{2}=100~mL$. Hence, water needed to mix $= 100 - 10 = 90$ mL.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 7,
+    "chapter": "Solutions",
+    "question": "Calculate the solubility of gas in water at 1.2 atm and 25°C, if Henry's law constant is 0.145 mol dm⁻³ atm⁻¹ at 25°C. [MHT-CET 2022]",
+    "question_latex": "Calculate the solubility of gas in water at 1.2 atm and $25^{\\circ}C$, if Henry's law constant is $0.145~moldm^{-3}atm^{-1}$ at $25^{\\circ}C$. [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 0.174 mol dm⁻³",
+      "B. 0.31 mol dm⁻³",
+      "C. 0.25 mol dm⁻³",
+      "D. 0.45 mol dm⁻³"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Given: $P=1.2~atm, K_{H}=0.145~moldm^{-3}atm^{-1}$. According to Henry's law, $S = K_{H}P = 0.145~moldm^{-3}atm^{-1} \\times 1.2~atm = 0.174~moldm^{-3}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 8,
+    "chapter": "Solutions",
+    "question": "Find the molar mass of solute when 5 gram non-volatile solute is dissolved in 100 gram solvent that boils at 310 K. [The boiling point of solvent is 308 K and molal elevation constant is 2.4 K kg mol⁻¹] [MHT-CET 2022: PCB]",
+    "question_latex": "Find the molar mass of solute when 5 gram non-volatile solute is dissolved in 100 gram solvent that boils at 310 K. [The boiling point of solvent is 308 K and molal elevation constant is $2.4~K~kg~mol^{-1}$] [MHT-CET 2022: PCB]",
+    "question_images": [],
+    "options": [
+      "A. 72 g mol⁻¹",
+      "B. 50 g mol⁻¹",
+      "C. 60 g mol⁻¹",
+      "D. 80 g mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Given: $W_{2}=5g, W_{1}=100g, T_{b}=310~K, T_{b}^{0}=308~K, K_{b}=2.4~K~kg~mol^{-1}$. $\\Delta T_{b}=T_{b}-T_{b}^{0}=310-308=2~K$. $M_{2}=\\frac{K_{b} \\times W_{2} \\times 1000}{\\Delta T_{b} \\times W_{1}} = \\frac{2.4 \\times 5 \\times 1000}{2 \\times 100} = 60~g~mol^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 9,
+    "chapter": "Solutions",
+    "question": "Solute when dissolved in water:",
+    "question_latex": "Solute when dissolved in water:",
+    "question_images": [],
+    "options": [
+      "A. Increases the vapour pressure of water",
+      "B. Decreases the boiling point of water",
+      "C. Decreases the freezing point of water",
+      "D. Increases the freezing point of water"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Addition of a non-volatile solute to a solvent leads to depression in freezing point.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 10,
+    "chapter": "Solutions",
+    "question": "The 'x' g nonelectrolyte solute having molar mass 164 g mol⁻¹ dissolved in 2 dm³ water. Calculate the value of 'x' if resulting solution has osmotic pressure 0.6 atm at 300 K. (R = 0.0821 dm³ atm K⁻¹ mol⁻¹) [2025]",
+    "question_latex": "The 'x' g nonelectrolyte solute having molar mass $164~g~mol^{-1}$ dissolved in $2~dm^{3}$ water. Calculate the value of 'x' if resulting solution has osmotic pressure 0.6 atm at 300 K. ($R=0.0821~dm^{3}~atm~K^{-1}mol^{-1}$) [2025]",
+    "question_images": [],
+    "options": [
+      "A. 7.99 g",
+      "B. 9.84 g",
+      "C. 7.12 g",
+      "D. 9.48 g"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Weight of non-electrolyte ($W_2$) = 'x' g. $M_2 = 164~g~mol^{-1}, V = 2~dm^{3}, \\pi = 0.6~atm, T = 300~K, i=1$. $\\pi = i \\frac{W_2 RT}{M_2 V} \\Rightarrow x = \\frac{\\pi \\times M_2 \\times V}{R \\times T} = \\frac{0.6 \\times 164 \\times 2}{0.0821 \\times 300} = 7.99~g$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Solutions",
+    "question": "Calculate the cryoscopic constant of solvent if 0.15 mol kg⁻¹ solution of nonvolatile solute having depression in freezing point 1.79 K. [MHT-CET 2024: PCB]",
+    "question_latex": "Calculate the cryoscopic constant of solvent if $0.15~mol~kg^{-1}$ solution of nonvolatile solute having depression in freezing point 1.79 K. [MHT-CET 2024: PCB]",
+    "question_images": [],
+    "options": [
+      "A. 9.8 K kg mol⁻¹",
+      "B. 13.2 K kg mol⁻¹",
+      "C. 11.9 K kg mol⁻¹",
+      "D. 10.6 K kg mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Given: $m=0.15~mol~kg^{-1}, \\Delta T_{f}=1.79~K$. Formula: $\\Delta T_{f} = K_{f} \\times m \\Rightarrow K_{f} = \\frac{\\Delta T_{f}}{m} = \\frac{1.79~K}{0.15~mol~kg^{-1}} = 11.93~K~kg~mol^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Solutions",
+    "question": "Solution A contains 7 g/L of MgCl₂ and solution B contains g/L of NaCl. At room temperature, the osmotic pressure of...",
+    "question_latex": "Solution A contains $7~g/L$ of $MgCl_{2}$ and solution B contains g/L of $NaCl$. At room temperature, the osmotic pressure of...",
+    "question_images": [],
+    "options": [
+      "A. 50",
+      "B. 180",
+      "C. 102",
+      "D. 25"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "According to Raoult's law: $\\frac{p-p_{s}}{p} = \\frac{n}{n+N} = \\frac{0.05}{2.5+0.05} = \\frac{0.05}{2.55} = \\frac{1}{51}$. Weight of solute $= \\frac{w}{w} \\times M \\times \\frac{p}{p-p_{s}} = \\frac{10 \\times 18}{90} \\times 51 = 102~g$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Solutions",
+    "question": "The difference between the boiling point and freezing point of an aqueous solution containing sucrose (mol wt. = 342 g mol⁻¹) in 100 g of water is 105.0°C. If Kf and Kb of water are 1.86 and 0.51 K kg mol⁻¹ respectively, the weight of sucrose in the solution is about",
+    "question_latex": "The difference between the boiling point and freezing point of an aqueous solution containing sucrose (mol $wt. = 342~g~mol^{-1}$) in 100 g of water is $105.0^{\\circ}C$. If $K_{f}$ and $K_{b}$ of water are 1.86 and $0.51~K~kg~mol^{-1}$ respectively, the weight of sucrose in the solution is about",
+    "question_images": [],
+    "options": [
+      "A. 1 M solution of glucose",
+      "B. 0.05 M solution of glucose",
+      "C. 6% solution of glucose",
+      "D. 25% solution of glucose"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Molarity of urea $= \\frac{6/60}{100/1000} = 1~M$. Hence, 1 M solution of glucose is isotonic with 6% urea solution.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Solutions",
+    "question": "Equal masses of methane and oxygen are mixed in an empty container at 25°C. The fraction of the total pressure exerted by oxygen is",
+    "question_latex": "Equal masses of methane and oxygen are mixed in an empty container at $25^{\\circ}C$. The fraction of the total pressure exerted by oxygen is",
+    "question_images": [],
+    "options": [
+      "A. 2/3",
+      "B. 1/3 x 273/298",
+      "C. 1/3",
+      "D. 1/2"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Suppose equal mass $w = 1~g$. Mole fraction of oxygen $X_{O_2} = \\frac{1/32}{1/32 + 1/16} = \\frac{1/32}{3/32} = 1/3$. Pressure exerted by oxygen $= X_{O_2} \\times P_{total} = P \\times 1/3$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Solutions",
+    "question": "If osmotic pressure of 0.2 M aqueous glucose solution is 5 atm at 300 K, calculate the concentration of glucose solution having osmotic pressure 2.5 atm at same temperature. [MHT-CET 2024: PCB]",
+    "question_latex": "If osmotic pressure of 0.2 M aqueous glucose solution is 5 atm at 300 K, calculate the concentration of glucose solution having osmotic pressure 2.5 atm at same temperature. [MHT-CET 2024: PCB]",
+    "question_images": [],
+    "options": [
+      "A. 0.25 M",
+      "B. 0.1 M",
+      "C. 0.05 M",
+      "D. 0.75 M"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Given: $M_{1}=0.2M, \\pi_{1}=5~atm, \\pi_{2}=2.5~atm$. Since $\\pi = MRT$, for same temperature: $\\frac{\\pi_{1}}{\\pi_{2}} = \\frac{M_{1}}{M_{2}} \\Rightarrow M_{2} = \\frac{M_{1} \\times \\pi_{2}}{\\pi_{1}} = \\frac{0.2 \\times 2.5}{5} = 0.1~M$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Solutions",
+    "question": "Calculate the boiling point elevation of solution if 15 g urea is dissolved in 1000 g water. [Kb for water = 0.52 K kg mol⁻¹; molar mass of urea = 60 g mol⁻¹] [2025]",
+    "question_latex": "Calculate the boiling point elevation of solution if 15 g urea is dissolved in 1000 g water. $[K_{b}$ for water $= 0.52~K~kg~mol^{-1};$ molar mass of $urea = 60~g~mol^{-1}][2025]$",
+    "question_images": [],
+    "options": [
+      "A. 0.38 K",
+      "B. 0.13 K",
+      "C. 0.54 K",
+      "D. 0.24 K"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\Delta T_{b} = K_{b} \\times m$. Moles of solute $= 15/60 = 0.25$. Mass of solvent $= 1~kg$. $m = 0.25~mol/kg$. $\\Delta T_{b} = 0.52 \\times 0.25 = 0.13~K$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Solutions",
+    "question": "The unit of molality is",
+    "question_latex": "The unit of molality is",
+    "question_images": [],
+    "options": [
+      "A. mol L⁻¹",
+      "B. mol kg⁻¹",
+      "C. mol",
+      "D. mol/L"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Unit of molality is mole per kilogram ($mol~kg^{-1}$).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Solutions",
+    "question": "What is the molar mass of solute if 3 gram solute dissolved in 36 gram water? [Molar mass of H₂O = 18 g mol⁻¹ and relative lowering of vapour pressure is 0.025] [MHT-CET 2023: PCB]",
+    "question_latex": "What is the molar mass of solute if 3 gram solute dissolved in 36 gram water? [Molar mass of $H_{2}O = 18~g~mol^{-1}$ and relative lowering of vapour pressure is 0.025] [MHT-CET 2023: PCB]",
+    "question_images": [],
+    "options": [
+      "A. 84 g mol⁻¹",
+      "B. 60 g mol⁻¹",
+      "C. 72 g mol⁻¹",
+      "D. 48 g mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Given: $W_{2}=3~g, W_{1}=36~g, M_{1}=18~g~mol^{-1}, RLVP = 0.025$. Formula: $RLVP = \\frac{W_{2}M_{1}}{M_{2}W_{1}} \\Rightarrow 0.025 = \\frac{3 \\times 18}{M_{2} \\times 36} \\Rightarrow M_{2} = \\frac{3 \\times 18}{0.025 \\times 36} = 60~g~mol^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Solutions",
+    "question": "Calculate ΔTb of 0.02 m solution if molal elevation constant for solvent is 0.52 K kg mol⁻¹. [MHT-CET 2024: PCB]",
+    "question_latex": "Calculate $\\Delta T_{b}$ of 0.02 m solution if molal elevation constant for solvent is $0.52~K~kg~mol^{-1}$. [MHT-CET 2024: PCB]",
+    "question_images": [],
+    "options": [
+      "A. 0.0304 K",
+      "B. 0.0202 K",
+      "C. 0.0104 K",
+      "D. 0.0416 K"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Given: $m=0.02~m, K_{b}=0.52~K~kg~mol^{-1}$. $\\Delta T_{b} = K_{b} \\times m = 0.52 \\times 0.02 = 0.0104~K$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Solutions",
+    "question": "What is vapour pressure of a solution containing 1 mol of a non-volatile solute in 36 g of water? [P₁⁰ = 400 mm Hg] [MHT-CET 2021]",
+    "question_latex": "What is vapour pressure of a solution containing 1 mol of a non-volatile solute in 36 g of water? $[P_{1}^{0} = 400~mmHg]$ [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 267 mm Hg",
+      "B. 240 mm Hg",
+      "C. 334 mm Hg",
+      "D. 284 mm Hg"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Given: $P_{1}^{0}=400~mmHg, n_{2}=1~mol, n_{1}=36/18=2~mol$. $\\frac{P_{1}^{0}-P_{1}}{P_{1}^{0}} = \\frac{n_{2}}{n_{1}+n_{2}} \\Rightarrow \\frac{400-P_{1}}{400} = \\frac{1}{3} \\Rightarrow 400-P_{1} = 133.33 \\Rightarrow P_{1} = 266.67~mmHg$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Solutions",
+    "question": "Calculate vapour pressure of volatile liquid A at given temperature if mole fraction and vapour pressure of volatile liquid B are 0.4 and 900 mm Hg respectively. [Ptotal = 600 mmHg] [2025]",
+    "question_latex": "Calculate vapour pressure of volatile liquid A at given temperature if mole fraction and vapour pressure of volatile liquid B are 0.4 and 900 mm Hg respectively. $[P_{total}=600~mmHg] [2025]$",
+    "question_images": [],
+    "options": [
+      "A. 450 mm Hg",
+      "B. 560 mm Hg",
+      "C. 500 mm Hg",
+      "D. 400 mm Hg"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$P_{total} = P_{A}^{0}x_{A} + P_{B}^{0}x_{B}$. Given $x_{B}=0.4 \\Rightarrow x_{A}=0.6$. $600 = P_{A}^{0}(0.6) + 900(0.4) \\Rightarrow 600 = 0.6P_{A}^{0} + 360 \\Rightarrow 240 = 0.6P_{A}^{0} \\Rightarrow P_{A}^{0} = 400~mmHg$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Solutions",
+    "question": "What is the vapour pressure of a solution containing 0.1 mol of non-volatile solute dissolved in 16.2 g water? [P₁⁰ = 24 mm Hg, molar mass of water 18 g mol⁻¹] [MHT-CET 2024]",
+    "question_latex": "What is the vapour pressure of a solution containing 0.1 mol of non-volatile solute dissolved in 16.2 g water? $[P_{1}^{0}=24~mmHg,$ molar mass of water $18~g~mol^{-1}]$ [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 12.4 mm Hg",
+      "B. 18.1 mm Hg",
+      "C. 21.6 mm Hg",
+      "D. 15.7 mm Hg"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$n_{2}=0.1~mol, n_{1}=16.2/18=0.9~mol. x_{1} = \\frac{0.9}{0.9+0.1} = 0.9. P_{1} = P_{1}^{0}x_{1} = 24 \\times 0.9 = 21.6~mmHg$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Solutions",
+    "question": "Azeotropic mixture of HCl and water has",
+    "question_latex": "Azeotropic mixture of $HCl$ and water has",
+    "question_images": [],
+    "options": [
+      "A. 48% HCl",
+      "B. 22.2% HCl",
+      "C. 36% HCl",
+      "D. 20.2% HCl"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Azeotropic mixture of $HCl$ and water has 20.24% of $HCl$. It boils at $108.5^{\\circ}C$ under a pressure of one atmosphere.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Solutions",
+    "question": "Which from following solutions exhibits minimum boiling point elevation under identical conditions? (Assume complete dissociation) [2025]",
+    "question_latex": "Which from following solutions exhibits minimum boiling point elevation under identical conditions? (Assume complete dissociation) [2025]",
+    "question_images": [],
+    "options": [
+      "A. 0.05 m MgCl₂",
+      "B. 1 m AlCl₃",
+      "C. 0.1 m NaCl",
+      "D. 0.2 m KCl"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\Delta T_{b} = i K_{b} m$. (i) $KCl: i=2, m=0.2 \\Rightarrow \\Delta T_{b} = 0.4 K_{b}$. (ii) $NaCl: i=2, m=0.1 \\Rightarrow \\Delta T_{b} = 0.2 K_{b}$. (iii) $AlCl_{3}: i=4, m=1 \\Rightarrow \\Delta T_{b} = 4 K_{b}$. (iv) $MgCl_{2}: i=3, m=0.05 \\Rightarrow \\Delta T_{b} = 0.15 K_{b}$. Minimum is $MgCl_{2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Solutions",
+    "question": "Vapour pressure of the solutions, of a non-volatile solute is always",
+    "question_latex": "Vapour pressure of the solutions, of a non-volatile solute is always",
+    "question_images": [],
+    "options": [
+      "A. Equal to the vapour pressure of pure solvent",
+      "B. Higher than vapour pressure of pure solvent",
+      "C. Lower than vapour pressure of pure solvent",
+      "D. Constant"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The addition of a non-volatile solute always lowers the vapour pressure of the solvent.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Solutions",
+    "question": "Dissolving 120 g of urea (mol. Wt. 60) in 1000 g of water gave a solution of density 1.15 g/mL. The molarity of the solution is",
+    "question_latex": "Dissolving 120 g of urea (mol. Wt. 60) in 1000 g of water gave a solution of density $1.15~g/mL$. The molarity of the solution is",
+    "question_images": [],
+    "options": [
+      "A. 1.78 M",
+      "B. 2.00 M",
+      "C. 2.05 M",
+      "D. 2.22 M"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Moles of urea $= 120/60 = 2$. Total weight $= 1000 + 120 = 1120~g$. Volume $= 1120/1.15 = 973.9~mL = 0.974~L$. Molarity $= 2/0.974 = 2.05~M$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Solutions",
+    "question": "Calculate molality of KBr solution if it freezes at -2.95°C. [Kf = 1.86 K kg mol⁻¹]",
+    "question_latex": "Calculate molality of $KBr$ solution if it freezes at $-2.95^{\\circ}C$. $[K_{f}=1.86~K~kg~mol^{-1}]$",
+    "question_images": [],
+    "options": [
+      "A. 1.586 m",
+      "B. 6.213 m",
+      "C. 4.731 m",
+      "D. 3.940 m"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Assuming $i=1$ for non-electrolyte or here $i=2$ for $KBr$. If $i=1$: $m = \\Delta T_{f}/K_{f} = 2.95/1.86 = 1.586~m$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Solutions",
+    "question": "What is the boiling point of 0.5 molal aqueous solution of sucrose if 0.1 molal aqueous solution of glucose boils at 100.16°C? [MHT-CET 2021]",
+    "question_latex": "What is the boiling point of 0.5 molal aqueous solution of sucrose if 0.1 molal aqueous solution of glucose boils at $100.16^{\\circ}C?$ [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 100.80°C",
+      "B. 100.16°C",
+      "C. 100.32°C",
+      "D. 100.62°C"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "For glucose: $\\Delta T_{b} = 100.16 - 100 = 0.16$. $K_{b} = \\Delta T_{b}/m = 0.16/0.1 = 1.6$. For sucrose: $\\Delta T_{b} = K_{b} \\times m = 1.6 \\times 0.5 = 0.80$. $T_{b} = 100 + 0.80 = 100.80^{\\circ}C$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Solutions",
+    "question": "Calculate the molality of a solution having freezing point depression 3.6 K and freezing point depression constant 4.8 K kg mol⁻¹. [MHT-CET 2022]",
+    "question_latex": "Calculate the molality of a solution having freezing point depression 3.6 K and freezing point depression constant $4.8~K~kg~mol^{-1}$. [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 0.75 mol kg⁻¹",
+      "B. 0.5 mol kg⁻¹",
+      "C. 0.9 mol kg⁻¹",
+      "D. 0.3 mol kg⁻¹"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Given: $\\Delta T_{f}=3.6~K, K_{f}=4.8$. $m = \\Delta T_{f}/K_{f} = 3.6/4.8 = 0.75~mol/kg$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Solutions",
+    "question": "What is the expected value of ΔTf for 1 m NaCl solution if 1 m glucose solution has ΔTf value x K? [MHT-CET 2024: PCB]",
+    "question_latex": "What is the expected value of $\\Delta T_{f}$ for 1 m $NaCl$ solution if 1 m glucose solution has $\\Delta T_{f}$ value x K? [MHT-CET 2024: PCB]",
+    "question_images": [],
+    "options": [
+      "A. 2 x K",
+      "B. 3 x K",
+      "C. x/2 K",
+      "D. x K"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Glucose: $i=1, m=1 \\Rightarrow \\Delta T_{f} = x$. $NaCl: i=2, m=1 \\Rightarrow \\Delta T_{f} = 2 \\times K_{f} \\times 1 = 2x$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Solutions",
+    "question": "Air is an example of a solution of [MHT-CET]",
+    "question_latex": "Air is an example of a solution of [MHT-CET]",
+    "question_images": [],
+    "options": [
+      "A. gas in gas",
+      "B. gas in liquid",
+      "C. liquid in gas",
+      "D. gas in solid"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Air is a homogeneous mixture of gases like nitrogen, oxygen, etc., hence a gas-in-gas solution.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Solutions",
+    "question": "What is cryoscopic constant of water if 5 g of glucose in 100 g of water has depression in freezing point 2.15 K? [Molar mass of glucose = 180] [MHT-CET 2021]",
+    "question_latex": "What is cryoscopic constant of water if 5 g of glucose in 100 g of water has depression in freezing point 2.15 K? [Molar mass of glucose = 180] [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 3.86 K kg mol⁻¹",
+      "B. 1.32 K kg mol⁻¹",
+      "C. 0.52 K kg mol⁻¹",
+      "D. 7.74 K kg mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$K_{f} = \\frac{\\Delta T_{f} M_{2} W_{1}}{1000 W_{2}} = \\frac{2.15 \\times 180 \\times 100}{1000 \\times 5} = 7.74~K~kg~mol^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Solutions",
+    "question": "In a 0.2 molal aqueous solution of a weak acid HX, the degree of ionisation is 0.3. Taking Kf for water as 1.85, the freezing point of the solution will be nearest to",
+    "question_latex": "In a 0.2 molal aqueous solution of a weak acid $HX$, the degree of ionisation is 0.3. Taking $K_{f}$ for water as 1.85, the freezing point of the solution will be nearest to",
+    "question_images": [],
+    "options": [
+      "A. -0.480°C",
+      "B. -0.360°C",
+      "C. -0.260°C",
+      "D. +0.480°C"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$i = 1 + \\alpha = 1.3$. $\\Delta T_{f} = i K_{f} m = 1.3 \\times 1.85 \\times 0.2 = 0.481$. $T_{f} = -0.481^{\\circ}C$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Solutions",
+    "question": "Vapour pressure of pure A is 70 mm of Hg at 25°C. It forms an ideal solution with B in which mole fraction of A is 0.8. If the vapour pressure of the solution is 84 mm of Hg at 25°C, the vapour pressure of pure B at 25°C is",
+    "question_latex": "Vapour pressure of pure A is 70 mm of Hg at $25^{\\circ}C$. It forms an ideal solution with B in which mole fraction of A is 0.8. If the vapour pressure of the solution is 84 mm of Hg at $25^{\\circ}C,$ the vapour pressure of pure B at $25^{\\circ}C$ is",
+    "question_images": [],
+    "options": [
+      "A. 28 mm",
+      "B. 56 mm",
+      "C. 70 mm",
+      "D. 140 mm"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$P = P_{A}^{0}x_{A} + P_{B}^{0}x_{B} \\Rightarrow 84 = 70(0.8) + P_{B}^{0}(0.2) \\Rightarrow 84 = 56 + 0.2P_{B}^{0} \\Rightarrow P_{B}^{0} = 28/0.2 = 140~mm$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Solutions",
+    "question": "Elevation in boiling point was 0.52°C when 6 g of a compound X was dissolved in 100 g of water. Molecular mass X is: (Kb = 5.2 mol⁻¹ 100g H₂O)",
+    "question_latex": "Elevation in boiling point was $0.52^{\\circ}C$ when 6 g of a compound X was dissolved in 100 g of water. Molecular mass X is: $(K_{b}=5.2~mol^{-1}100g~H_{2}O)$",
+    "question_images": [],
+    "options": [
+      "A. 120",
+      "B. 60",
+      "C. 180",
+      "D. 342"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$M_{2} = \\frac{K_{b} W_{2} 1000}{\\Delta T_{b} W_{1}}$. Using provided units: $\\frac{5.2 \\times 6}{0.52 \\times 100} \\times 1000$ (adjusted) $= 60$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Solutions",
+    "question": "Which among the following equations represents relation between cryoscopic constant, depression in freezing point and molality? [MHT-CET 2022]",
+    "question_latex": "Which among the following equations represents relation between cryoscopic constant, depression in freezing point and molality? $[MHT-CET~2022]$",
+    "question_images": [],
+    "options": [
+      "A. Kf = m/ΔTf",
+      "B. Kf = 1/(ΔTf x m)",
+      "C. Kf = ΔTf/m",
+      "D. Kf = ΔTf x m"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "From $\\Delta T_{f} = K_{f} \\times m$, we get $K_{f} = \\Delta T_{f}/m$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Solutions",
+    "question": "What is boiling point of a decimolal aqueous solution of glucose if molal elevation constant for water is 0.52°C kg mol⁻¹? [MHT-CET 2021]",
+    "question_latex": "What is boiling point of a decimolal aqueous solution of glucose if molal elevation constant for water is $0.52^{\\circ}C~kg~mol^{-1}?$ [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 99.48°C",
+      "B. 101.52°C",
+      "C. 100.052°C",
+      "D. 99.95°C"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$m = 0.1, K_{b} = 0.52. \\Delta T_{b} = 0.52 \\times 0.1 = 0.052. T_{b} = 100 + 0.052 = 100.052^{\\circ}C$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Solutions",
+    "question": "Calculate the osmotic pressure of 0.2 M aqueous solution of nonelectrolyte at 300 K. [R = 0.082 atm dm³ mol⁻¹ K⁻¹]",
+    "question_latex": "Calculate the osmotic pressure of 0.2 M aqueous solution of nonelectrolyte at 300 K. $[R = 0.082~atmdm^{3}mol^{-1}K^{-1}]$",
+    "question_images": [],
+    "options": [
+      "A. 4.92 atm",
+      "B. 7.38 atm",
+      "C. 2.46 atm",
+      "D. 1.23 atm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\pi = MRT = 0.2 \\times 0.082 \\times 300 = 4.92~atm$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Solutions",
+    "question": "Which of the following solutions exhibits highest freezing point depression? [2025]",
+    "question_latex": "Which of the following solutions exhibits highest freezing point depression? [2025]",
+    "question_images": [],
+    "options": [
+      "A. 0.1 m NaCl",
+      "B. 1 m AlPO₄",
+      "C. 0.05 m MgSO₄",
+      "D. 0.05 m Al₂(SO₄)₃"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Highest depression depends on concentration of particles ($i \\times m$). (A) $0.2~m$. (B) $2~m$. (C) $0.1~m$. (D) $0.25~m$. Option B has maximum particles.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Solutions",
+    "question": "Calculate the boiling point elevation of solution when 70 gram of non-volatile solute is dissolved in 210 gram solvent if the molar mass of solute is 138 g mol⁻¹. [Molal elevation constant of solvent is 2.76 K kg mol⁻¹] [MHT-CET 2024: PCB]",
+    "question_latex": "Calculate the boiling point elevation of solution when 70 gram of non-volatile solute is dissolved in 210 gram solvent if the molar mass of solute is $138~g~mol^{-1}$. [Molal elevation constant of solvent is $2.76~K~kg~mol^{-1}$] [MHT-CET 2024: PCB]",
+    "question_images": [],
+    "options": [
+      "A. 5.61 K",
+      "B. 6.67 K",
+      "C. 4.12 K",
+      "D. 8.25 K"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\Delta T_{b} = K_{b} \\frac{1000 W_{2}}{M_{2} W_{1}} = \\frac{2.76 \\times 1000 \\times 70}{138 \\times 210} = 6.67~K$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Solutions",
+    "question": "Which of the following concentration term is/are independent of temperature?",
+    "question_latex": "Which of the following concentration term is/are independent of temperature?",
+    "question_images": [],
+    "options": [
+      "A. Molarity",
+      "B. Molarity and mole fraction",
+      "C. Mole fraction and molality",
+      "D. Molality and normality"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Mole fraction and molality are based on mass, not volume, and thus independent of temperature.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Solutions",
+    "question": "What is the relation between the vapour pressure of solution, vapour pressure of solvent and its mole fraction in the solution? [MHT-CET 2024]",
+    "question_latex": "What is the relation between the vapour pressure of solution, vapour pressure of solvent and its mole fraction in the solution? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. P₁ = P₁⁰x₂",
+      "B. P₁⁰ = P₁x₂",
+      "C. P₁ = P₁⁰x₁",
+      "D. P₁⁰ = P₁x₁"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "According to Raoult's law for a solution of non-volatile solute, $P_{1} = P_{1}^{0}x_{1}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Solutions",
+    "question": "Calculate van't Hoff factor for formic acid if 0.01 m aqueous solution of formic acid freezes at -0.021 K and cryoscopic constant of water is 1.86 K kg mol⁻¹.",
+    "question_latex": "Calculate van't Hoff factor for formic acid if $0.01\\text{ m}$ aqueous solution of formic acid freezes at $-0.021\\text{ K}$ and cryoscopic constant of water is $1.86\\text{ K kg mol}^{-1}$.",
+    "question_images": [],
+    "options": [
+      "A. 0.39",
+      "B. 1.13",
+      "C. 1.82",
+      "D. 2.26"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Given $m = 0.01\\text{ m}$, $K_f = 1.86\\text{ K kg mol}^{-1}$, and $T_f = -0.021\\text{ K}$. \\n $\\Delta T_f = T_f^0 - T_f = 0 - (-0.021) = 0.021\\text{ K}$. \\n Using the formula $\\Delta T_f = i \\cdot K_f \\cdot m$, we find $i = \\frac{\\Delta T_f}{K_f \\cdot m} = \\frac{0.021}{1.86 \\times 0.01} = 1.129 \\approx 1.13$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Solutions",
+    "question": "What is the value of van't Hoff factor for 0.1 M Al2(SO4)3 solution if degree of dissociation is 80%?",
+    "question_latex": "What is the value of van't Hoff factor for $0.1\\text{ M } Al_2(SO_4)_3$ solution if degree of dissociation is $80\\%$?",
+    "question_images": [],
+    "options": [
+      "A. 4.2",
+      "B. 4.8",
+      "C. 3.2",
+      "D. 5.0"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$Al_2(SO_4)_3$ dissociates as $2Al^{3+} + 3SO_4^{2-}$, so $n = 5$. \\n Given degree of dissociation $\\alpha = 0.8$ ($80\\%$). \\n $i = 1 + \\alpha(n - 1) = 1 + 0.8(5 - 1) = 1 + 3.2 = 4.2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Solutions",
+    "question": "Which of the following aqueous solutions will have the highest boiling point?",
+    "question_latex": "Which of the following aqueous solutions will have the highest boiling point?",
+    "question_images": [],
+    "options": [
+      "A. 1.0 M Glucose",
+      "B. 1.0 M NaCl",
+      "C. 1.0 M $CaCl_2$",
+      "D. 1.0 M $FeCl_3$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Boiling point elevation depends on the number of particles. $FeCl_3$ produces 4 ions per molecule ($Fe^{3+} + 3Cl^-$), which is the highest among the options for the same molarity.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Solutions",
+    "question": "Molar concentration of K2SO4 in a solution is 1 x 10⁻⁴ M. If the solution is 17.4 ppm, what is the density of the solution?",
+    "question_latex": "Molar concentration of $K_2SO_4$ in a solution is $1 \\times 10^{-4}\\text{ M}$. If the solution is $17.4\\text{ ppm}$, what is the density of the solution?",
+    "question_images": [],
+    "options": [
+      "A. 1.0 g/mL",
+      "B. 1.1 g/mL",
+      "C. 1.2 g/mL",
+      "D. 0.9 g/mL"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$17.4\\text{ ppm}$ means $17.4\\text{ g}$ of $K_2SO_4$ in $10^6\\text{ g}$ of solution. \\n The concentration $[K_2SO_4] = 1 \\times 10^{-4}\\text{ M}$ means $1 \\times 10^{-4}\\text{ moles/L}$. \\n Mass in 1L $= 1 \\times 10^{-4} \\times 174\\text{ (molar mass)} = 0.0174\\text{ g/L}$. \\n Since $17.4\\text{ g}$ is in $10^6\\text{ mL}$ (assuming density $\\approx 1$), $0.0174\\text{ g}$ is in $1000\\text{ mL}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Solutions",
+    "question": "The solubility of methane in benzene at 298 K under 760 mm Hg if KH = 4.27 x 10⁵ mm Hg is:",
+    "question_latex": "The solubility of methane in benzene at $298\\text{ K}$ under $760\\text{ mm Hg}$ if $K_H = 4.27 \\times 10^5\\text{ mm Hg}$ is:",
+    "question_images": [],
+    "options": [
+      "A. 1.78 x 10⁻⁴",
+      "B. 1.78 x 10⁻⁵",
+      "C. 17.8 x 10⁻⁴",
+      "D. 1.78 x 10⁻³"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "According to Henry's law, $P = K_H \\times x$. \\n $x = \\frac{P}{K_H} = \\frac{760}{4.27 \\times 10^5} = 1.779 \\times 10^{-3} = 17.8 \\times 10^{-4}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Solutions",
+    "question": "The freezing point of water is 273 K. What is the freezing point of a solution containing 5g of glucose in 100g of water? (Kf = 1.86 K kg mol⁻¹)",
+    "question_latex": "The freezing point of water is $273\\text{ K}$. What is the freezing point of a solution containing $5\\text{g}$ of glucose in $100\\text{g}$ of water? ($K_f = 1.86\\text{ K kg mol}^{-1}$)",
+    "question_images": [],
+    "options": [
+      "A. 272.48 K",
+      "B. 273.52 K",
+      "C. 271.50 K",
+      "D. 270.00 K"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\Delta T_f = K_f \\times \\frac{W_2 \\times 1000}{M_2 \\times W_1} = 1.86 \\times \\frac{5 \\times 1000}{180 \\times 100} = 0.516\\text{ K}$. \\n $T_f = T_f^0 - \\Delta T_f = 273 - 0.516 = 272.484\\text{ K}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Solutions",
+    "question": "The freezing point of water is 273 K. What is the freezing point of a solution containing 5 g of glucose in 100 g of water? ($K_{f} = 1.86\\text{ K kg mol}^{-1}$)",
+    "question_latex": "The freezing point of water is $273\\text{ K}$. What is the freezing point of a solution containing $5\\text{ g}$ of glucose in $100\\text{ g}$ of water? ($K_{f} = 1.86\\text{ K kg mol}^{-1}$)",
+    "question_images": [],
+    "options": [
+      "A. 272.484 K",
+      "B. 273.516 K",
+      "C. 272.00 K",
+      "D. 274.00 K"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Given: $W_{2} = 5\\text{ g}$, $W_{1} = 100\\text{ g}$, $M_{2} = 180\\text{ g mol}^{-1}$, $K_{f} = 1.86\\text{ K kg mol}^{-1}$. \\n $\\Delta T_{f} = K_{f} \\times \\frac{W_{2} \\times 1000}{M_{2} \\times W_{1}} = 1.86 \\times \\frac{5 \\times 1000}{180 \\times 100} = 0.516\\text{ K}$. \\n $T_{f} = T_{f}^{0} - \\Delta T_{f} = 273 - 0.516 = 272.484\\text{ K}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Solutions",
+    "question": "The van't Hoff factor for a 0.1 M $Ba(NO_{3})_{2}$ solution is 2.74. The degree of dissociation is",
+    "question_latex": "The van't Hoff factor for a $0.1\\text{ M } Ba(NO_{3})_{2}$ solution is $2.74$. The degree of dissociation is",
+    "question_images": [],
+    "options": [
+      "A. 91.3%",
+      "B. 87%",
+      "C. 100%",
+      "D. 74%"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$Ba(NO_{3})_{2} \\rightarrow Ba^{2+} + 2NO_{3}^{-}$, so $n = 3$. \\n $i = 1 + \\alpha(n - 1) \\Rightarrow 2.74 = 1 + \\alpha(3 - 1) \\Rightarrow 1.74 = 2\\alpha$. \\n $\\alpha = 0.87$ or $87\\%$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Solutions",
+    "question": "The osmotic pressure of a solution containing 4.0 g of solute (molar mass 246) per litre at $27^{\\circ}C$ is ($R = 0.0821\\text{ atm L K}^{-1}\\text{ mol}^{-1}$)",
+    "question_latex": "The osmotic pressure of a solution containing $4.0\\text{ g}$ of solute (molar mass $246$) per litre at $27^{\\circ}C$ is ($R = 0.0821\\text{ atm L K}^{-1}\\text{ mol}^{-1}$)",
+    "question_images": [],
+    "options": [
+      "A. 0.4 atm",
+      "B. 0.1 atm",
+      "C. 2.4 atm",
+      "D. 1.2 atm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Given: $W_{2} = 4\\text{ g}$, $M_{2} = 246$, $V = 1\\text{ L}$, $T = 300\\text{ K}$. \\n $\\pi = \\frac{W_{2}RT}{M_{2}V} = \\frac{4 \\times 0.0821 \\times 300}{246 \\times 1} \\approx 0.4\\text{ atm}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  
+  {
+    "id": 50,
+    "chapter": "Solutions",
+    "question": "To neutralise completely 20 mL of 0.1 M aqueous solution of phosphorous acid (H3PO3), the volume of 0.1 M aqueous KOH solution required is",
+    "question_latex": "To neutralise completely 20 mL of 0.1 M aqueous solution of phosphorous acid $(H_3PO_3)$, the volume of 0.1 M aqueous KOH solution required is",
+    "question_images": [],
+    "options": [
+      "A. 10 mL",
+      "B. 20 mL",
+      "C. 40 mL",
+      "D. 60 mL"
+    ],
+    "option_images": [],
+    "answer": "Option C",
+    "solution": "$H_3PO_3$ is a dibasic acid (containing two ionisable protons attached to O directly).\n$$H_3PO_3 \\rightleftharpoons 2H^+ + HPO_3^{2-}$$\n$\\therefore 0.1 M H_3PO_3 = 0.2 N H_3PO_3$\nand $0.1 M KOH = 0.1 N KOH$\nUsing $N_1V_1 = N_2V_2$\n$(KOH) (H_3PO_3)$\n$0.1 V_1 = 0.2 \\times 20$\n$V_1 = 40 \\text{ mL}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Solutions",
+    "question": "In a solution if the amount of solvent is doubled keeping the amount of solutes same the share of solute in the solution.",
+    "question_latex": "In a solution if the amount of solvent is doubled keeping the amount of solutes same the share of solute in the solution.",
+    "question_images": [],
+    "options": [
+      "A. Become half",
+      "B. would decrease but not a half",
+      "C. remain unchanged",
+      "D. change unpredictably"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "No. of moles of solvent are increasing but total no of moles of solute solvent are not becoming double. However the no of moles of solute are same. Hence the share of solute in the solution would decrease but not to half.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Solutions",
+    "question": "Calculate osmotic pressure of 0.2 M aqueous KCl solution at 0°C if van't Hoff factor for KCl is 1.83 . [R = 0.082 dm³ atm mol⁻¹ K⁻¹] [MHT-CET 2023]",
+    "question_latex": "Calculate osmotic pressure of 0.2 M aqueous KCl solution at $0^{\\circ}C$ if van't Hoff factor for KCl is 1.83 . $[R = 0.082 \\text{ dm}^3 \\text{ atm mol}^{-1} \\text{ K}^{-1}]$ [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 9.4 atm",
+      "B. 6.5 atm",
+      "C. 10.6 atm",
+      "D. 8.2 atm"
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "Given: $M = 0.2 \\text{ moldm}^{-3}$, $T = 0^{\\circ}C = 273 \\text{ K}$,\n$R = 0.082 \\text{ dm}^3 \\text{ atm mol}^{-1} \\text{ K}^{-1}$,\n$i = 1.83, \\pi = ?$\n$\\pi = iMRT$\n$= 1.83 \\times 0.2 \\text{ moldm}^{-3} \\times 0.082 \\text{ dm}^3 \\text{ atm mol}^{-1} \\text{ K}^{-1} \\times 273 \\text{ K} = 8.2 \\text{ atm}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Solutions",
+    "question": "The solubility of a gas in liquid at a temperature is directly proportional to its",
+    "question_latex": "The solubility of a gas in liquid at a temperature is directly proportional to its",
+    "question_images": [],
+    "options": [
+      "A. Density",
+      "B. Melting point",
+      "C. Boiling point",
+      "D. Pressure"
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "Amount of gas dissolved per unit volume $\\propto$ pressure of gas. This is Henry's law.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Solutions",
+    "question": "Find the molar mass of solute when 1.6 gram solute dissolved in 16 gram solvent lowers its freezing point by 3.4 K . [Cryoscopic constant for solvent is 5.1 K kg mol⁻¹ ] [MHT-CET 2022 : PCB",
+    "question_latex": "Find the molar mass of solute when 1.6 gram solute dissolved in 16 gram solvent lowers its freezing point by 3.4 K . [Cryoscopic constant for solvent is $5.1 \\text{ K kg mol}^{-1}$ ] [MHT-CET 2022 : PCB",
+    "question_images": [],
+    "options": [
+      "A. 180 g mol⁻¹",
+      "B. 150 g mol⁻¹",
+      "C. 128 g mol⁻¹",
+      "D. 80 g mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "Given: $K_f = 5.1 \\text{ K kg mol}^{-1}$, $W_2 = 1.6 \\text{ g}$, $W_1 = 16 \\text{ g}$, $\\Delta T_f = 3.4 \\text{ K}$, $M_2 = ?$\n$\\Delta T_f = K_f \\times \\frac{W_2 \\times 1000}{M_2 \\times W_1 \\text{ in gram}}$\n$M_2 = \\frac{K_f \\times W_2 \\times 1000}{\\Delta T_f \\times W_1 \\text{ in gram}}$\n$= \\frac{5.1 \\times 1.6 \\times 1000}{3.4 \\times 16} = 150 \\text{ g/mol}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Solutions",
+    "question": "What is the molarity of 0.2 N Na2CO3 solution?",
+    "question_latex": "What is the molarity of 0.2 N $Na_2CO_3$ solution?",
+    "question_images": [],
+    "options": [
+      "A. 0.1 M",
+      "B. 0 M",
+      "C. 0.4 M",
+      "D. 0.2 M"
+    ],
+    "option_images": [],
+    "answer": "Option A",
+    "solution": "Molarity = normality $\\times \\frac{\\text{equivalent weight}}{\\text{molecular weight}}$\nGiven, normality of $Na_2CO_3$ solution = 0.2 N\nEquivalent weight = $M/2$ (Since $Na_2CO_3$ valency factor is 2)\nMolecular weight $M$. \n$\\therefore$ Molarity $= 0.2 \\times \\frac{M/2}{M} = 0.2 \\times \\frac{1}{2} = 0.1 \\text{ M}$",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Solutions",
+    "question": "Find the depression in freezing point of solution when 3.2 gram non-volatile solute with molar mass 128 gram mol⁻¹ is dissolved in 80 gram solvent if cryoscopic constant of solvent is 4.8 K kg mol⁻¹ . [MHT-CET 2023 ]",
+    "question_latex": "Find the depression in freezing point of solution when 3.2 gram non-volatile solute with molar mass 128 gram $mol^{-1}$ is dissolved in 80 gram solvent if cryoscopic constant of solvent is $4.8 \\text{ K kg mol}^{-1}$ . [MHT-CET 2023 ]",
+    "question_images": [],
+    "options": [
+      "A. 2.5 K",
+      "B. 3.0 K",
+      "C. 1.5 K",
+      "D. 2.0 K"
+    ],
+    "option_images": [],
+    "answer": "Option C",
+    "solution": "Given: $W_2 = 3.2 \\text{ g}$, $M_2 = 128 \\text{ g mol}^{-1}$,\n$W_1 = 80 \\text{ g}$, $K_f = 4.8 \\text{ K kg mol}^{-1}$, $\\Delta T_f = ?$\n$M_2 = \\frac{1000 \\cdot K_f \\cdot W_2}{\\Delta T_f \\cdot W_1}$\n$\\therefore \\Delta T_f = \\frac{1000 \\cdot K_f \\cdot W_2}{M_2 \\cdot W_1}$\n$= \\frac{1000 \\text{ g kg}^{-1} \\times 4.8 \\text{ K kg mol}^{-1} \\times 3.2 \\text{ g}}{128 \\text{ g mol}^{-1} \\times 80 \\text{ g}}$\n$= 1.5 \\text{ K}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Solutions",
+    "question": "The term cryoscopic constant and ebullioscopic constant are related with __________ respectively.",
+    "question_latex": "The term cryoscopic constant and ebullioscopic constant are related with __________ respectively.",
+    "question_images": [],
+    "options": [
+      "A. Depression in freezing point and elevation in boiling point",
+      "B. Depression in boiling point and elevation in freezing point",
+      "C. Depression in both freezing point and boiling point",
+      "D. Elevation in both freezing point and boiling point"
+    ],
+    "option_images": [],
+    "answer": "Option A",
+    "solution": "Cryoscopic constant relates to depression in freezing point.\nEbullioscopic constant relates to elevation in boiling point.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Solutions",
+    "question": "Two solution have different osmotic pressures the solution of lower osmotic pressure is called",
+    "question_latex": "Two solution have different osmotic pressures the solution of lower osmotic pressure is called",
+    "question_images": [],
+    "options": [
+      "A. Isotonic solution",
+      "B. Hypertonic solution",
+      "C. Hypotonic solution",
+      "D. None"
+    ],
+    "option_images": [],
+    "answer": "Option C",
+    "solution": "In a pair of two solution, the one having higher osmotic pressure is called hypertonic and the other having lower osmotic pressure is called hypotonic.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Solutions",
+    "question": "The statement the relative lowering of the vapour pressure is equal to the ratio of moles of the solute to the total number of the moles in the solution refers to",
+    "question_latex": "The statement the relative lowering of the vapour pressure is equal to the ratio of moles of the solute to the total number of the moles in the solution refers to",
+    "question_images": [],
+    "options": [
+      "A. Hess's law",
+      "B. Dalton's law",
+      "C. Raoult's law",
+      "D. Charles law"
+    ],
+    "option_images": [],
+    "answer": "Option C",
+    "solution": "According to Raoult law,\n$\\frac{p - p_s}{p} = \\frac{n}{n + N}$",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Solutions",
+    "question": "The vapour pressure will be lowest for _____.",
+    "question_latex": "The vapour pressure will be lowest for _____.",
+    "question_images": [],
+    "options": [
+      "A. 0.1 M sugar solution",
+      "B. 0.1 M NaCl solution",
+      "C. 0.1 M Cu(NO3)2 solution",
+      "D. 0.1 M AgNO3 solution"
+    ],
+    "option_images": [],
+    "answer": "Option C",
+    "solution": "Vapour pressure of a solvent is lowered by the presence of solute in it. Lowering in vapour pressure is a colligative property i.e., it depends on the number of particles present in the solution. $Cu(NO_3)_2$ gives the maximum number of ions. (i.e., 3) so it causes the greatest lowering in vapour pressure of water.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Solutions",
+    "question": "At 80°C, the vapour pressure of pure liquid A is 520 mm Hg and that of pure liquid B is 1000 mm Hg. If a mixture solution of A and B boils at 80°C and 1 atm pressure, the amount of A in the mixture is (1 atm = 760 mm Hg)",
+    "question_latex": "At $80^{\\circ}C$, the vapour pressure of pure liquid $A$ is 520 mm Hg and that of pure liquid $B$ is 1000 mm Hg. If a mixture solution of $A$ and $B$ boils at $80^{\\circ}C$ and 1 atm pressure, the amount of $A$ in the mixture is (1 atm = 760 mm Hg)",
+    "question_images": [],
+    "options": [
+      "A. 52 mole per cent",
+      "B. 34 mole per cent",
+      "C. 48 mole per cent",
+      "D. 50 mole per cent"
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "$P_T = P_A^0 X_A + P_B^0 X_B$\nMixture solution boil at 1 atm = 760 mm = total pressure.\n$760 = 520 X_A + 1000(1 - X_A)$\n$760 = 520 X_A + 1000 - 1000 X_A$\n$480 X_A = 240$\n$X_A = 0.5$, mol% of A = 50%",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Solutions",
+    "question": "When is the molal elevation constant of solvent is equal the boiling point elevation? [2025]",
+    "question_latex": "When is the molal elevation constant of solvent is equal the boiling point elevation? [2025]",
+    "question_images": [],
+    "options": [
+      "A. Dissolve 1 g solute in 100 g solvent.",
+      "B. Dissolve 100 g solute in 1000 g solvent.",
+      "C. Dissolve 1 g mole solute in 1dm³ solvent.",
+      "D. Dissolve 1 g mole solute in 1 kg of solvent."
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "Molal elevation constant is the boiling point elevation produced by 1 molal solution.\n$\\Delta T_b = K_b m$. If $m = 1$, then $\\Delta T_b = K_b$\nHence, molal elevation constant is equal to boiling point when 1 mole solute is dissolved in 1 kg of solvent.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Solutions",
+    "question": "What is the molar mass of solute if a solution is prepared by dissolving 4.5 gram solute in 3 dm³ water having osmotic pressure 0.25 atm at 300 K ? [ R = 0.0821 dm³ atm K⁻¹ mol⁻¹] [MHT-CET 2022 ]",
+    "question_latex": "What is the molar mass of solute if a solution is prepared by dissolving 4.5 gram solute in 3 $dm^3$ water having osmotic pressure 0.25 atm at 300 K ? [ $R = 0.0821 dm^3 atm K^{-1} mol^{-1}$] [MHT-CET 2022 ]",
+    "question_images": [],
+    "options": [
+      "A. 148 g mol⁻¹",
+      "B. 172 g mol⁻¹",
+      "C. 160 g mol⁻¹",
+      "D. 136 g mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "Option A",
+    "solution": "Given : $W_2 = 4.5 \\text{ g}, V = 3 \\text{dm}^3, \\pi = 0.25 \\text{ atm}$,\n$T = 300 \\text{ K}$,\n$R = 0.0821 \\text{dm}^3 \\text{ atm K}^{-1} \\text{ mol}^{-1}, M_2 = ?$\nMolar mass of solute from osmotic pressure is given by,\n$M_2 = \\frac{W_2 R T}{\\pi V}$\n$= \\frac{4.5 \\text{ g} \\times 0.0821 \\text{ dm}^3 \\text{ atm K}^{-1} \\text{ mol}^{-1} \\times 300 \\text{ K}}{0.25 \\text{ atm} \\times 3 \\text{ dm}^3}$\n$= 147.78 \\approx 148 \\text{ g mol}^{-1}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Solutions",
+    "question": "A solution of nonvolatile solute is obtained by dissolving 1.5 g in 30 g solvent has boiling point elevation 0.65 K . Calculate the molal elevation constant if molar mass of solute is 150 g mol⁻¹ . [MHT-CET 2023 ]",
+    "question_latex": "A solution of nonvolatile solute is obtained by dissolving 1.5 g in 30 g solvent has boiling point elevation 0.65 K . Calculate the molal elevation constant if molar mass of solute is 150 g $mol^{-1}$ . [MHT-CET 2023 ]",
+    "question_images": [],
+    "options": [
+      "A. 2.72 K kg mol⁻¹",
+      "B. 1.95 K kg mol⁻¹",
+      "C. 1.52 K kg mol⁻¹",
+      "D. 2.23 K kg mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "Given: $W_2 = 1.5 \\text{ g}, W_1 = 30 \\text{ g}, \\Delta T_b = 0.65 \\text{ K}$,\n$M_2 = 150 \\text{ g mol}^{-1}, K_b = ?$\n$M_2 = \\frac{1000 \\cdot K_b \\cdot W_2}{\\Delta T_b \\cdot W_1}$\n$\\therefore K_b = \\frac{M_2 \\cdot \\Delta T_b \\cdot W_1}{1000 \\cdot W_2}$\n$= \\frac{150 \\text{ g mol}^{-1} \\times 0.65 \\text{ K} \\times 30 \\text{ g}}{1000 \\text{ g kg}^{-1} \\times 1.5 \\text{ g}}$\n$= 1.95 \\text{ K kg mol}^{-1}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Solutions",
+    "question": "Arrange the following equimolar solutions according to increasing order of osmotic pressure [Assume complete ionisation] [2025]\ni) KCl\nii) BaCl2\niii) AlCl3\niv) Al2(SO4)3",
+    "question_latex": "Arrange the following equimolar solutions according to increasing order of osmotic pressure [Assume complete ionisation] [2025]\ni) $KCl$\nii) $BaCl_2$\niii) $AlCl_3$\niv) $Al_2(SO_4)_3$",
+    "question_images": [],
+    "options": [
+      "A. BaCl2 < Al2(SO4)3 < KCl < AlCl3",
+      "B. AlCl3 < BaCl2 < Al2(SO4)3 < KCl",
+      "C. Al2(SO4)3 < KCl < BaCl2 < AlCl3",
+      "D. KCl < BaCl2 < AlCl3 < Al2(SO4)3"
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "Osmotic pressure is a colligative property that depends on number of particles in solution. The solution having more number of particles will have large osmotic pressure. Suppose the concentration of each substance is 1 m.\ni) $KCl \\to K^+ + Cl^-$ (Total particles = 2 mol)\nii) $BaCl_2 \\to Ba^{2+} + 2Cl^-$ (Total particles = 3 mol)\niii) $AlCl_3 \\to Al^{3+} + 3Cl^-$ (Total particles = 4 mol)\niv) $Al_2(SO_4)_3 \\to 2Al^{3+} + 3SO_4^{2-}$ (Total particles = 5 mol)\nHence, increasing order of osmotic pressure is $KCl < BaCl_2 < AlCl_3 < Al_2(SO_4)_3$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Solutions",
+    "question": "What type of solution the alloy is? [MHT-CET 2024 ]",
+    "question_latex": "What type of solution the alloy is? [MHT-CET 2024 ]",
+    "question_images": [],
+    "options": [
+      "A. Solid in gas",
+      "B. Gas in liquid",
+      "C. Solid in solid",
+      "D. Solid in liquid"
+    ],
+    "option_images": [],
+    "answer": "Option C",
+    "solution": "Alloy is a solid in solid solution.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Solutions",
+    "question": "Which from following units of concentrations of solutions is temperature independent? [2025]",
+    "question_latex": "Which from following units of concentrations of solutions is temperature independent? [2025]",
+    "question_images": [],
+    "options": [
+      "A. Mole fraction",
+      "B. Molarity",
+      "C. Percent by volume",
+      "D. Mass by volume"
+    ],
+    "option_images": [],
+    "answer": "Option A",
+    "solution": "Among the given options, the mole fraction is the only concentration unit that is temperature independent because it is based on the ratio of moles, which doesn't change with temperature. All the other concentration units (molarity, percent by volume, and mass by volume) depend on the volume of the solution, and volume can change with temperature.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Solutions",
+    "question": "Calculate the solubility of gas in water at 25°C and 0.328 atm . [ KH = 0.159 moldm⁻³ atm⁻¹ at 25°C ] [MHT-CET 2023 : PCB",
+    "question_latex": "Calculate the solubility of gas in water at $25^{\\circ}C$ and 0.328 atm . [ $K_H = 0.159 \\text{ moldm}^{-3} \\text{ atm}^{-1}$ at $25^{\\circ}C$ ] [MHT-CET 2023 : PCB",
+    "question_images": [],
+    "options": [
+      "A. 5.21 x 10⁻² moldm⁻³",
+      "B. 2.5 x 10⁻² moldm⁻³",
+      "C. 1.56 x 10⁻² moldm⁻³",
+      "D. 4.1 x 10⁻² moldm⁻³"
+    ],
+    "option_images": [],
+    "answer": "Option A",
+    "solution": "Given : $K_H = 0.159 \\text{ moldm}^{-3} \\text{ atm}^{-1}, S = ?$ \n$S = K_H \\cdot P$\n$= 0.159 \\text{ moldm}^{-3} \\text{ atm}^{-1} \\times 0.328 \\text{ atm}$\n$= 5.21 \\times 10^{-2} \\text{ mol dm}^{-3}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Solutions",
+    "question": "On a humid day in summer, the mole fraction of gaseous a H2O (water vapour) in the air at 25°C can be as high as 0.0287. Assuming a total pressure of 0.977 atm. What is the partial pressure of dry air?",
+    "question_latex": "On a humid day in summer, the mole fraction of gaseous a $H_2O$ (water vapour) in the air at $25^{\\circ}C$ can be as high as 0.0287. Assuming a total pressure of 0.977 atm. What is the partial pressure of dry air?",
+    "question_images": [],
+    "options": [
+      "A. 94.9 atm",
+      "B. 0.949 atm",
+      "C. 949 atm",
+      "D. 0.648 atm"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "$P_{H_2O} = X_{H_2O} P_{total}$\n$= 0.0287 \\times 0.977 = 0.028 \\text{ atm}$\n$P_{total} = P_{dryair} + P_{H_2O}$\n$P_{dryair} = P_{total} - P_{H_2O}$\n$= 0.977 - 0.028 = 0.949 \\text{ atm}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Solutions",
+    "question": "What is the vapour pressure of solution obtained by dissolving urea in water at 20°C , if vapour pressure of water is 17 mm Hg and relative lowering of vapour pressure is 0.025 ?[MHT-CET 2023 : PCB",
+    "question_latex": "What is the vapour pressure of solution obtained by dissolving urea in water at $20^{\\circ}C$ , if vapour pressure of water is 17 mm Hg and relative lowering of vapour pressure is 0.025 ?[MHT-CET 2023 : PCB",
+    "question_images": [],
+    "options": [
+      "A. 15.51 mm Hg",
+      "B. 16.58 mm Hg",
+      "C. 14.56 mm Hg",
+      "D. 13.10 mm Hg"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "Given : $\\frac{\\Delta P}{P_1^0} = 0.025, P_1^0 = 17 \\text{ mmHg}, P_1 = ?$\n$\\frac{\\Delta P}{P_1^0} = \\frac{P_1^0 - P_1}{P_1^0}$\n$0.025 = \\frac{17 - P_1}{17}$\n$0.425 = 17 - P_1$\n$P_1 = 17 - 0.425 = 16.575 \\text{ mm Hg}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Solutions",
+    "question": "Calculate molality of solution of a non-volatile solute having boiling point elevation 1.89 K , if boiling point elevation constant of solvent is 3.15 K kg mol⁻¹ . [MHT-CET 2023 ]",
+    "question_latex": "Calculate molality of solution of a non-volatile solute having boiling point elevation 1.89 K , if boiling point elevation constant of solvent is $3.15 \\text{ K kg mol}^{-1}$ . [MHT-CET 2023 ]",
+    "question_images": [],
+    "options": [
+      "A. 0.3 m",
+      "B. 0.8 m",
+      "C. 0.4 m",
+      "D. 0.6 m"
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "Given : $\\Delta T_b = 1.89 \\text{ K}, K_b = 3.15 \\text{ K kg mol}^{-1}, m = ?$\n$\\Delta T_b = K_b \\times m \\therefore m = \\frac{\\Delta T_b}{K_b} = \\frac{1.89 \\text{ K}}{3.15 \\text{ K kg mol}^{-1}} = 0.6 \\text{ mol kg}^{-1}$",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Solutions",
+    "question": "Calculate the mass of solute having molar mass 60 g mol⁻¹ dissolved in 100 gram solvent if boiling point elevation is 2 K and molal elevation constant for solvent is 2.5 K kg mol⁻¹ . [MHT-CET 2022 : PCB",
+    "question_latex": "Calculate the mass of solute having molar mass 60 g $mol^{-1}$ dissolved in 100 gram solvent if boiling point elevation is 2 K and molal elevation constant for solvent is 2.5 K kg $mol^{-1}$ . [MHT-CET 2022 : PCB",
+    "question_images": [],
+    "options": [
+      "A. 7.2 gram",
+      "B. 2.4 gram",
+      "C. 1.2 gram",
+      "D. 4.8 gram"
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "Given : $M_2 = 60 \\text{ g/mol}, W_1 = 100 \\text{ g}, \\Delta T_b = 2 \\text{ K}, K_b = 2.5 \\text{ K kg mol}^{-1}, W_2 = ?$\n$\\Delta T_b = K_b \\times \\frac{W_2 \\times 1000}{M_2 \\times W_1 \\text{ in gram}}$\n$W_2 = \\frac{\\Delta T_b \\times M_2 \\times W_1 \\text{ in gram}}{K_b \\times 1000}$\n$= \\frac{2 \\times 60 \\times 100}{2.5 \\times 1000} = 4.8 \\text{ gram}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Solutions",
+    "question": "The alloy used for construction of aircrafts is ________.",
+    "question_latex": "The alloy used for construction of aircrafts is ________.",
+    "question_images": [],
+    "options": [
+      "A. Aluminium bronze",
+      "B. Duralumin",
+      "C. Babitt metal",
+      "D. Hardend lead"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "Duralumin is used for construction of aircrafts due to its light weight and strength.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Solutions",
+    "question": "The ' X ' g nonvolatile solute having molar mass 196 g mol⁻¹ is dissolved in 3dm³ water. Calculate the value of ' X ' if resulting solution has osmotic pressure 0.8 atm at 300 K . ( R = 0.0821 dm³ atm K⁻¹ mol⁻¹ ) [2025]",
+    "question_latex": "The ' X ' g nonvolatile solute having molar mass 196 g $mol^{-1}$ is dissolved in $3dm^3$ water. Calculate the value of ' X ' if resulting solution has osmotic pressure 0.8 atm at 300 K . ( R = 0.0821 $dm^3$ atm $K^{-1}$ $mol^{-1}$ ) [2025]",
+    "question_images": [],
+    "options": [
+      "A. 19.1 g",
+      "B. 29.4 g",
+      "C. 9.8 g",
+      "D. 14.7 g"
+    ],
+    "option_images": [],
+    "answer": "Option A",
+    "solution": "$\\pi = \\frac{W_2 R T}{M_2 V}$\n$\\therefore W_2 = \\frac{\\pi M_2 V}{R T}$\n$= \\frac{0.8 \\text{ atm} \\times 196 \\text{ g mol}^{-1} \\times 3 \\text{dm}^3}{0.0821 \\text{ atm dm}^3 \\text{ K}^{-1} \\text{ mol}^{-1} \\times 300 \\text{ K}}$\n$= 19.098 \\text{ g} \\approx 19.1 \\text{ g}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Solutions",
+    "question": "If 6 g of solute dissolved in 100 g of water lowers the freezing point by 0.93 K . What is molar mass of solute? [Kf = 1.86 K kg mol⁻¹] [MHT-CET 2021 ]",
+    "question_latex": "If 6 g of solute dissolved in 100 g of water lowers the freezing point by 0.93 K . What is molar mass of solute? [$K_f = 1.86 \\text{ K kg mol}^{-1}$] [MHT-CET 2021 ]",
+    "question_images": [],
+    "options": [
+      "A. 180 g mol⁻¹",
+      "B. 120 g mol⁻¹",
+      "C. 60 g mol⁻¹",
+      "D. 90 g mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "Given: $W_2 = 6 \\text{ g}$, $W_1 = 100 \\text{ g}$, $\\Delta T_f = 0.93 \\text{ K}$, $K_f = 1.86 \\text{ K kg mol}^{-1}$, $M_2 = ?$\n$M_2 = \\frac{1000 \\cdot K_f \\cdot W_2}{\\Delta T_f \\cdot W_1}$\n$= \\frac{1000 \\text{ g kg}^{-1} \\times 1.86 \\text{ K kg mol}^{-1} \\times 6 \\text{ g}}{0.93 \\text{ K} \\times 100 \\text{ g}}$\n$= 120 \\text{ g mol}^{-1}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Solutions",
+    "question": "In a mixture of A and B, components show negative deviation when",
+    "question_latex": "In a mixture of $A$ and $B$, components show negative deviation when",
+    "question_images": [],
+    "options": [
+      "A. A B interaction is stronger than A A and B B interaction",
+      "B. A B interaction is weaker than A A and B B interaction",
+      "C. ΔVmix > 0, ΔSmix > 0",
+      "D. ΔVmix = 0, ΔSmix > 0"
+    ],
+    "option_images": [],
+    "answer": "Option A",
+    "solution": "In a mixture A and B components show negative deviation when A B interaction is stronger than A A and B B interaction.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Solutions",
+    "question": "What is the relation between molality of the solution and molar mass of solute? [MHT-CET 2022 ]",
+    "question_latex": "What is the relation between molality of the solution and molar mass of solute? [MHT-CET 2022 ]",
+    "question_images": [],
+    "options": [
+      "A. m = (M2 * W2) / (1000 * W1)",
+      "B. m = (M2 * W1) / (1000 * W2)",
+      "C. m = (1000 * W1) / (M2 * W2)",
+      "D. m = (1000 * W2) / (M2 * W1)"
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "Molality (m) is defined as moles of solute per kg of solvent.\nMoles of solute = $W_2 / M_2$\nMass of solvent in kg = $W_1 / 1000$\nSo, $m = \\frac{W_2/M_2}{W_1/1000} = \\frac{1000 \\times W_2}{M_2 \\times W_1}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Solutions",
+    "question": "Which from following substances in their solutions of same concentration generates highest osmotic pressure?",
+    "question_latex": "Which from following substances in their solutions of same concentration generates highest osmotic pressure?",
+    "question_images": [],
+    "options": [
+      "A. KCl",
+      "B. BaCl2",
+      "C. Al2(SO4)3",
+      "D. Li2SO4"
+    ],
+    "option_images": [],
+    "answer": "Option C",
+    "solution": "Osmotic pressure depends on number of particles (colligative property). Highest i factor means highest osmotic pressure.\n$KCl \\to K^+ + Cl^-$ (2 particles)\n$BaCl_2 \\to Ba^{2+} + 2Cl^-$ (3 particles)\n$Li_2SO_4 \\to 2Li^+ + SO_4^{2-}$ (3 particles)\n$Al_2(SO_4)_3 \\to 2Al^{3+} + 3SO_4^{2-}$ (5 particles)\nHence, $Al_2(SO_4)_3$ has maximum number of particles.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Solutions",
+    "question": "Which of the following is CORRECT?",
+    "question_latex": "Which of the following is CORRECT?",
+    "question_images": [],
+    "options": [
+      "A. All the solids always act as solutes.",
+      "B. All the liquids always act as solvents.",
+      "C. Gases can neither act as solvent nor as solute.",
+      "D. All the three states of matter may act as solvent or solute."
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "All the three states of matter i.e. solid, liquid and gas may play role of either solvent or solute.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Solutions",
+    "question": "The vapour pressure of two liquids X and Y are 80 and 60 Torr respectively. The total vapour pressure of the ideal solution obtained by mixing 3 moles of X and 2 moles of Y would be",
+    "question_latex": "The vapour pressure of two liquids $X$ and $Y$ are 80 and 60 Torr respectively. The total vapour pressure of the ideal solution obtained by mixing 3 moles of $X$ and 2 moles of $Y$ would be",
+    "question_images": [],
+    "options": [
+      "A. 68 Torr",
+      "B. 140 Torr",
+      "C. 48 Torr",
+      "D. 72 Torr"
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "Mole of X, $n_x = 3$. Mole of Y, $n_y = 2$. Total moles = 5.\n$X_x = 3/5, X_y = 2/5$.\n$P_T = P_x^0 X_x + P_y^0 X_y$\n$= 80 \\times \\frac{3}{5} + 60 \\times \\frac{2}{5}$\n$= 48 + 24 = 72 \\text{ Torr}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Solutions",
+    "question": "A 0.5 m aqueous solution of monofluoroacetic acid freeze at -1.0 K . Calculate the van't Hoff factor of monofluoroacetic acid, if cryoscopic constant of water is 1.86 K kg mol⁻¹ . [MHT-CET 2023 : PCB",
+    "question_latex": "A 0.5 m aqueous solution of monofluoroacetic acid freeze at -1.0 K . Calculate the van't Hoff factor of monofluoroacetic acid, if cryoscopic constant of water is 1.86 K kg $mol^{-1}$ . [MHT-CET 2023 : PCB",
+    "question_images": [],
+    "options": [
+      "A. 1.30",
+      "B. 1.08",
+      "C. 2.15",
+      "D. 2.10"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "Given: $m = 0.5 \\text{ m}$, $K_f = 1.86 \\text{ K kg mol}^{-1}$,\n$T_f = -1.0 \\text{ K}$, $T_f^0 = 0 \\text{ K}$, $i = ?$\n$\\Delta T_f = T_f^0 - T_f = 0 - (-1) = 1 \\text{ K}$\n$\\Delta T_f = i \\cdot K_f \\cdot m$\n$\\therefore i = \\frac{\\Delta T_f}{K_f \\cdot m}$\n$= \\frac{1 \\text{ K}}{1.86 \\text{ K kg mol}^{-1} \\times 0.5 \\text{ mol kg}^{-1}}$\n$= 1.075 \\approx 1.08$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Solutions",
+    "question": "The molal elevation constant for water is 0.52. What will be the boiling point of 2 molar sucrose solution at 1 atm pressure? (Assume b.p. of pure water is 100°C )",
+    "question_latex": "The molal elevation constant for water is 0.52. What will be the boiling point of 2 molar sucrose solution at 1 atm pressure? (Assume b.p. of pure water is $100^{\\circ}C$ )",
+    "question_images": [],
+    "options": [
+      "A. 101.04°C",
+      "B. 100.26°C",
+      "C. 100.52°C",
+      "D. 99.74°C"
+    ],
+    "option_images": [],
+    "answer": "Option A",
+    "solution": "$\\Delta T_b = k_b \\times \\text{molality}$\nFor dilute solution, molarity $\\approx$ molality = 2 (given) and $k_b = 0.52$\n$\\therefore \\Delta T_b = 0.52 \\times 2 = 1.04^{\\circ}C$\nNow, boiling point of solution = boiling point of solvent + $\\Delta T_b$\n$= 100 + 1.04 = 101.04^{\\circ}C$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Solutions",
+    "question": "A solution of 6 g of solute in 100 g of water boils at 100.52°C . The molal elevation constant of water is 0.52 K kg mol⁻¹ . What is molar mass of solute? [MHT-CET 2021 ]",
+    "question_latex": "A solution of 6 g of solute in 100 g of water boils at $100.52^{\\circ}C$ . The molal elevation constant of water is $0.52 \\text{ K kg mol}^{-1}$ . What is molar mass of solute? [MHT-CET 2021 ]",
+    "question_images": [],
+    "options": [
+      "A. 90 g mol⁻¹",
+      "B. 120 g mol⁻¹",
+      "C. 180 g mol⁻¹",
+      "D. 60 g mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "Given: $W_2 = 6 \\text{ g}, W_1 = 100 \\text{ g}$, $K_b = 0.52 \\text{ K kg mol}^{-1}, T_b = 100.52^{\\circ}C$\n$\\Delta T_b = T_b - T_b^0$\n$= (100.52 + 273) - (100 + 273) = 0.52 \\text{ K}$ (Or just difference in Celsius)\n$M_2 = \\frac{1000 \\cdot K_b \\cdot W_2}{\\Delta T_b \\cdot W_1}$\n$= \\frac{1000 \\cdot 0.52 \\cdot 6}{0.52 \\cdot 100}$\n$= 60 \\text{ g mol}^{-1}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Solutions",
+    "question": "Density of a 2.05 M solution of acetic acid in water is 1.02 g/mL. The molality of the solution is",
+    "question_latex": "Density of a 2.05 M solution of acetic acid in water is 1.02 g/mL. The molality of the solution is",
+    "question_images": [],
+    "options": [
+      "A. 1.14 mol kg⁻¹",
+      "B. 3.28 mol kg⁻¹",
+      "C. 2.28 mol kg⁻¹",
+      "D. 0.44 mol kg⁻¹"
+    ],
+    "option_images": [],
+    "answer": "Option C",
+    "solution": "Molality $(m) = \\frac{M}{1000d - M M_1} \\times 1000$\nwhere $M$ = Molarity, $M_1$ = Molecular mass of solute (Acetic acid = 60), $d$ = density\n$m = \\frac{2.05}{(1000 \\times 1.02) - (2.05 \\times 60)} \\times 1000$\n$= \\frac{2050}{1020 - 123} = \\frac{2050}{897} = 2.28 \\text{ mol kg}^{-1}$",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Solutions",
+    "question": "Addition of common salt to a sample of water will",
+    "question_latex": "Addition of common salt to a sample of water will",
+    "question_images": [],
+    "options": [
+      "A. Increase its freezing point and increase the boiling point",
+      "B. Decrease its freezing point and increase the boiling point",
+      "C. Increase both the boiling and the freezing point",
+      "D. Decrease both the boiling and the freezing point"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "Addition of solute decreases the freezing point (depression) and increases the boiling point (elevation).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Solutions",
+    "question": "Calculate the cryoscopic constant of solvent if 0.16 m solution of non-volatile solute decreases its freezing point by 0.22 K . [MHT-CET 2024 : PCB",
+    "question_latex": "Calculate the cryoscopic constant of solvent if 0.16 m solution of non-volatile solute decreases its freezing point by 0.22 K . [MHT-CET 2024 : PCB",
+    "question_images": [],
+    "options": [
+      "A. 1.38 K kg mol⁻¹",
+      "B. 1.00 K kg mol⁻¹",
+      "C. 1.75 K kg mol⁻¹",
+      "D. 1.52 K kg mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "Option A",
+    "solution": "Given : $m = 0.16 \\text{ m}, \\Delta T_f = 0.22 \\text{ K}, K_f = ?$\n$\\Delta T_f = K_f \\cdot m$\n$\\therefore K_f = \\frac{\\Delta T_f}{m} = \\frac{0.22 \\text{ K}}{0.16 \\text{ mol kg}^{-1}}$\n$= 1.375 \\approx 1.38 \\text{ K kg mol}^{-1}$",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Solutions",
+    "question": "A molal solution is one that contains one moel of solute in________.",
+    "question_latex": "A molal solution is one that contains one moel of solute in________.",
+    "question_images": [],
+    "options": [
+      "A. 1 L or the solvent",
+      "B. 1000 g of the solvent",
+      "C. 1 L of the solution",
+      "D. 22.4 L of the solution"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "A molal solution is defined as one mole of solute dissolved in 1 kg (1000 g) of solvent.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Solutions",
+    "question": "Which of the following is not a colligative property?",
+    "question_latex": "Which of the following is not a colligative property?",
+    "question_images": [],
+    "options": [
+      "A. Optical activity",
+      "B. Osmotic pressure",
+      "C. Depression of freezing point",
+      "D. Elevation of boiling point"
+    ],
+    "option_images": [],
+    "answer": "Option A",
+    "solution": "Colligative properties depends only upon the number of solute particles. Since, optical activity depends upon the nature of substance (through which plane polarised light is passed), it is not a colligative property.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Solutions",
+    "question": "Two solutions of substance (non-electrolyte) are mixed in the following manner. 480 mL of 1.5 M first solution + 520 mL of 1.2 M second solution. What is the molarity of the final mixture ?",
+    "question_latex": "Two solutions of substance (non-electrolyte) are mixed in the following manner. 480 mL of 1.5 M first solution + 520 mL of 1.2 M second solution. What is the molarity of the final mixture ?",
+    "question_images": [],
+    "options": [
+      "A. 2.70M",
+      "B. 1.344 M",
+      "C. 1.50 M",
+      "D. 1.20M"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "Total molarity = $\\frac{M_1V_1 + M_2V_2}{V_1 + V_2}$\n$= \\frac{1.5 \\times 480 + 1.2 \\times 520}{480 + 520}$\n$= \\frac{720 + 624}{1000} = \\frac{1344}{1000} = 1.344 \\text{ M}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Solutions",
+    "question": "Solute when dissolved in water_______",
+    "question_latex": "Solute when dissolved in water_______",
+    "question_images": [],
+    "options": [
+      "A. Increases the vapour pressure of water",
+      "B. Decreases the boiling point of water",
+      "C. Decreases the freezing point of water",
+      "D. Increases the following point of water"
+    ],
+    "option_images": [],
+    "answer": "Option C",
+    "solution": "Dissolving a non-volatile solute in a solvent lowers the vapour pressure, elevates the boiling point, and depresses the freezing point. Hence, it decreases the freezing point of water.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Solutions",
+    "question": "Calculate the number of moles of nonvolatile solute dissolved in 0.5 kg solvent if molal elevation constant for solvent is 2 kg K mol⁻¹ [ ΔTb = 0.8 K] [2025]",
+    "question_latex": "Calculate the number of moles of nonvolatile solute dissolved in 0.5 kg solvent if molal elevation constant for solvent is 2 kg K $mol^{-1}$ [ $\\Delta T_b = 0.8 \\text{ K}$] [2025]",
+    "question_images": [],
+    "options": [
+      "A. 0.4",
+      "B. 0.2",
+      "C. 0.1",
+      "D. 0.3"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "$\\Delta T_b = K_b m$\nMolality (m) = $\\frac{\\text{No. of moles of solute}}{\\text{Mass of solvent in kg}}$\n$0.8 \\text{ K} = 2 \\text{ kg K mol}^{-1} \\times \\frac{n_{solute}}{0.5 \\text{ kg}}$\n$n_{solute} = \\frac{0.8 \\times 0.5}{2} = 0.2$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Solutions",
+    "question": "Vapour pressure of solution and of pure solvent are P1 and P1⁰ respectively. If P1/P1⁰ is 0.15 , find the mole fraction of solute. [MHT-CET 2021 ]",
+    "question_latex": "Vapour pressure of solution and of pure solvent are $P_1$ and $P_1^0$ respectively. If $P_1/P_1^0$ is 0.15 , find the mole fraction of solute. [MHT-CET 2021 ]",
+    "question_images": [],
+    "options": [
+      "A. 0.33",
+      "B. 0.15",
+      "C. 0.66",
+      "D. 0.85"
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "$\\frac{P_1^0 - P_1}{P_1^0} = x_2$\n$1 - \\frac{P_1}{P_1^0} = x_2$\n$x_2 = 1 - 0.15 = 0.85$",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Solutions",
+    "question": "Which from following pair of solutions is isotonic? [2025]",
+    "question_latex": "Which from following pair of solutions is isotonic? [2025]",
+    "question_images": [],
+    "options": [
+      "A. 6 gdm⁻³ urea and 17.1 gdm⁻³ sucrose",
+      "B. 3 gdm⁻³ urea and 17.1 gdm⁻³ sucrose",
+      "C. 4 gdm⁻³ urea and 8.6 gdm⁻³ sucrose",
+      "D. 3 gdm⁻³ urea and 34.2 gdm⁻³ sucrose"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "For isotonic solutions, the number of moles of solutes are equal (i.e., molar concentrations are same).\nOption (b):\n$M_{urea} = \\frac{3 \\text{ gdm}^{-3}}{60 \\text{ g mol}^{-1}} = 0.05 \\text{ M}$\n$M_{sucrose} = \\frac{17.1 \\text{ gdm}^{-3}}{342 \\text{ g mol}^{-1}} = 0.05 \\text{ M}$\nHence, $M_{urea} = M_{sucrose}$. Solutions given in option (b) are isotonic.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Solutions",
+    "question": "Calculate the solubility of a gas dissolved in water at 0.75 atm if the solubility of gas in water at 25°C and 1 atm is 6.85 x 10⁻⁴ mol dm⁻³ . [Henry's law constant is 6.85 x 10⁻⁴ mol dm⁻³ atm⁻¹] [MHT-CET 2022 : PCB",
+    "question_latex": "Calculate the solubility of a gas dissolved in water at 0.75 atm if the solubility of gas in water at $25^{\\circ}C$ and 1 atm is $6.85 \\times 10^{-4} \\text{ mol dm}^{-3}$ . [Henry's law constant is $6.85 \\times 10^{-4} \\text{ mol dm}^{-3} \\text{ atm}^{-1}$] [MHT-CET 2022 : PCB",
+    "question_images": [],
+    "options": [
+      "A. 10.2 x 10⁻⁴ moldm⁻³",
+      "B. 7.5 x 10⁻⁴ moldm⁻³",
+      "C. 2.5 x 10⁻⁴ moldm⁻³",
+      "D. 5.14 x 10⁻⁴ moldm⁻³"
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "Given : $P = 0.75 \\text{ atm}$,\n$K_H = 6.85 \\times 10^{-4} \\text{ moldm}^{-3} \\text{ atm}^{-1}, S = ?$\n$S = K_H \\times P = 6.85 \\times 10^{-4} \\times 0.75$\n$= 5.14 \\times 10^{-4} \\text{ moldm}^{-3}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Solutions",
+    "question": "Vapour pressure of a pure solvent is 550 mm of Hg . By addition of a non-volatile solute, it decreases to 510 mm of Hg . Calculate the mole fraction of solute in solution. [MHT-CET 2024 ]",
+    "question_latex": "Vapour pressure of a pure solvent is 550 mm of Hg . By addition of a non-volatile solute, it decreases to 510 mm of Hg . Calculate the mole fraction of solute in solution. [MHT-CET 2024 ]",
+    "question_images": [],
+    "options": [
+      "A. 0.215",
+      "B. 0.072",
+      "C. 0.512",
+      "D. 0.610"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "Given : $P_1^0 = 550 \\text{ mmHg}, P_1 = 510 \\text{ mmHg}, x_2 = ?$\n$\\frac{P_1^0 - P_1}{P_1^0} = x_2$\n$\\therefore x_2 = \\frac{550 - 510}{550} = \\frac{40}{550} = 0.072$",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Solutions",
+    "question": "In which of the following solutions, there will not be flow of solvent in either direction when separated by semipermeable membrane? [MHT-CET 2024 : PCB",
+    "question_latex": "In which of the following solutions, there will not be flow of solvent in either direction when separated by semipermeable membrane? [MHT-CET 2024 : PCB",
+    "question_images": [],
+    "options": [
+      "A. 6 g urea dm⁻³ and 36 g glucose dm⁻³",
+      "B. 18 g urea dm⁻³ and 18 g glucose dm⁻³",
+      "C. 6 g urea dm⁻³ and 18 g glucose dm⁻³",
+      "D. 6 g urea dm⁻³ and 24 g glucose dm⁻³"
+    ],
+    "option_images": [],
+    "answer": "Option C",
+    "solution": "For no flow of solvent, solutions must be isotonic (same molarity).\nIn option C:\n$M_{urea} = \\frac{6 \\text{ gdm}^{-3}}{60 \\text{ g mol}^{-1}} = 0.1 \\text{ M}$\n$M_{glucose} = \\frac{18 \\text{ gdm}^{-3}}{180 \\text{ g mol}^{-1}} = 0.1 \\text{ M}$\n$\\therefore M_{urea} = M_{glucose}$. Solutions are isotonic and there will not be flow of solvent in either direction.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Solutions",
+    "question": "Which of the following solutions is a 1 M solution? C=12, H=1, O=16, Ca=39.98, Cl=35.5, Na=23)",
+    "question_latex": "Which of the following solutions is a 1 M solution? $C=12, H=1, O=16, Ca=39.98, Cl=35.5, Na=23)$",
+    "question_images": [],
+    "options": [
+      "A. 0.46 g of C2H5OH in 100 ml. of solution",
+      "B. 110.98 g of CaCl2 in 1000 mL of solution",
+      "C. 0.23 g of CH3OH in 100 mL of solution",
+      "D. 5.85 g of NaCl in 1000 mL of solution"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "Molar solution has 1 mole of solute in 1000 mL solution.\n(B) Molar mass of $CaCl_2 = 39.98 + (2 \\times 35.5) = 110.98 \\text{ g}$.\nMoles of $CaCl_2 = \\frac{110.98}{110.98} = 1 \\text{ mole}$.\nVolume = 1000 mL = 1 L.\nMolarity = 1 M.\n(D) $NaCl$: Moles = 5.85/58.5 = 0.1 M.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Solutions",
+    "question": "Calculate the molal elevation constant if molality of solution is 0.34 mol kg⁻¹ . [ ΔTb = 0.68 K] [MHT-CET 2023 : PCB",
+    "question_latex": "Calculate the molal elevation constant if molality of solution is $0.34 \\text{ mol kg}^{-1}$ . [ $\\Delta T_b = 0.68 \\text{ K}$] [MHT-CET 2023 : PCB",
+    "question_images": [],
+    "options": [
+      "A. 3.0 K kg mol⁻¹",
+      "B. 1.5 K kg mol⁻¹",
+      "C. 2.5 K kg mol⁻¹",
+      "D. 2.0 K kg mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "Given : $\\Delta T_b = 0.68 \\text{ K}, m = 0.34 \\text{ mol kg}^{-1}, K_b = ?$\n$\\Delta T_b = K_b m \\therefore K_b = \\frac{\\Delta T_b}{m} = \\frac{0.68 \\text{ K}}{0.34 \\text{ mol kg}^{-1}} = 2.0 \\text{ K kg mol}^{-1}$",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Solutions",
+    "question": "Calculate the vapour pressure of pure solvent if Δp is 50 mm Hg and mole fraction of solute is 0.08 . [2025]",
+    "question_latex": "Calculate the vapour pressure of pure solvent if $\\Delta p$ is 50 mm Hg and mole fraction of solute is 0.08 . [2025]",
+    "question_images": [],
+    "options": [
+      "A. 525 mm Hg",
+      "B. 625 mm Hg",
+      "C. 600 mm Hg",
+      "D. 675 mm Hg"
+    ],
+    "option_images": [],
+    "answer": "Option B",
+    "solution": "Relative lowering of vapour pressure,\n$\\frac{\\Delta p}{P_1^0} = x_2$ (mole fraction of solute)\n$\\therefore P_1^0 = \\frac{\\Delta p}{x_2} = \\frac{50 \\text{ mmHg}}{0.08} = 625 \\text{ mmHg}$",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Solutions",
+    "question": "A solution of nonvolatile solute is obtained by dissolving 1 g in 100 g solvent, decreases its freezing point by 0.3 K . Calculate cryoscopic constant of solvent if molar mass of solute is 60 g mol⁻¹ . [MHT-CET 2023 ]",
+    "question_latex": "A solution of nonvolatile solute is obtained by dissolving 1 g in 100 g solvent, decreases its freezing point by 0.3 K . Calculate cryoscopic constant of solvent if molar mass of solute is 60 g $mol^{-1}$ . [MHT-CET 2023 ]",
+    "question_images": [],
+    "options": [
+      "A. 1.0 K kg mol⁻¹",
+      "B. 1.4 K kg mol⁻¹",
+      "C. 2.4 K kg mol⁻¹",
+      "D. 1.8 K kg mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "Option D",
+    "solution": "Given : $W_2 = 1 \\text{ g}, W_1 = 100 \\text{ g}, \\Delta T_f = 0.3 \\text{ K}, M_2 = 60 \\text{ g mol}^{-1}, K_f = ?$\n$M_2 = \\frac{1000 \\cdot K_f \\cdot W_2}{\\Delta T_f \\cdot W_1}$\n$\\therefore K_f = \\frac{M_2 \\cdot \\Delta T_f \\cdot W_1}{1000 \\cdot W_2}$\n$= \\frac{60 \\text{ g mol}^{-1} \\times 0.3 \\text{ K} \\times 100 \\text{ g}}{1000 \\text{ g kg}^{-1} \\times 1 \\text{ g}}$\n$= 1.8 \\text{ K kg mol}^{-1}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  }
+]
+

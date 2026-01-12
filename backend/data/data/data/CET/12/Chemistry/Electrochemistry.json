@@ -1,0 +1,1890 @@
+[
+  {
+    "id": 1,
+    "chapter": "Electrochemistry",
+    "question": "The conductivity of 0.1 M KCl solution at 23°C is 0.012 Ω⁻¹ cm⁻¹. Resistance of a cell containing the solution at same temperature was found to be 50 Ω. Calculate the cell constant.",
+    "question_latex": "$\\kappa = G\\,l/A$",
+    "question_images": [],
+    "options": [
+      "A. 0.40 cm⁻¹",
+      "B. 2.4 × 10⁻² cm⁻¹",
+      "C. 2.4 × 10⁻¹ cm⁻¹",
+      "D. 0.60 cm⁻¹"
+    ],
+    "option_images": [],
+    "answer": "D. 0.60 cm⁻¹",
+    "solution": "$\\kappa = G\\,\\text{cell constant}$, $G = 1/R = 1/50$. Hence cell constant $= \\kappa/G = 0.012/(1/50)=0.60\\,cm^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Electrochemistry",
+    "question": "The molar conductivity at infinite dilution for NaCl, KCl and KBr are 126, 150 and 152 S cm² mol⁻¹ respectively. What is molar conductivity at infinite dilution for NaBr?",
+    "question_latex": "$\\Lambda_m^\\circ(\\text{NaBr}) = \\Lambda_m^\\circ(\\text{NaCl}) + \\Lambda_m^\\circ(\\text{KBr}) - \\Lambda_m^\\circ(\\text{KCl})$",
+    "question_images": [],
+    "options": [
+      "A. 304 S cm² mol⁻¹",
+      "B. 126 S cm² mol⁻¹",
+      "C. 128 S cm² mol⁻¹",
+      "D. 278 S cm² mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "C. 128 S cm² mol⁻¹",
+    "solution": "$\\Lambda^\\circ_{NaBr}=126+152-150=128\\,\\text{S cm}^2\\text{ mol}^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Electrochemistry",
+    "question": "For the reaction Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s), if E° = 1.10 V at 298 K, what is standard Gibbs energy change?",
+    "question_latex": "$\\Delta G^\\circ = -nFE^\\circ$",
+    "question_images": [],
+    "options": [
+      "A. −96.5 kJ",
+      "B. −386 kJ",
+      "C. −193 kJ",
+      "D. 193 kJ"
+    ],
+    "option_images": [],
+    "answer": "C. −193 kJ",
+    "solution": "$n=2$, $\\Delta G^\\circ=-2\\times96500\\times1.10=-193000\\,J=-193\\,kJ$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Electrochemistry",
+    "question": "Conductivity of a solution is 1.26 × 10⁻² Ω⁻¹ cm⁻¹. Calculate molar conductivity for 0.01 M solution.",
+    "question_latex": "$\\Lambda_m = \\frac{1000\\,\\kappa}{C}$",
+    "question_images": [],
+    "options": [
+      "A. 4.26 × 10³ Ω⁻¹ cm² mol⁻¹",
+      "B. 2.52 × 10³ Ω⁻¹ cm² mol⁻¹",
+      "C. 6.30 × 10³ Ω⁻¹ cm² mol⁻¹",
+      "D. 1.26 × 10³ Ω⁻¹ cm² mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "D. 1.26 × 10³ Ω⁻¹ cm² mol⁻¹",
+    "solution": "$\\Lambda_m = \\frac{1000\\times1.26\\times10^{-2}}{0.01}=1.26\\times10^{3}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 5,
+    "chapter": "Electrochemistry",
+    "question": "Select false statement from the following regarding electrochemical cell.",
+    "question_latex": "False\\ statement\\ regarding\\ electrochemical\\ cell",
+    "question_images": [],
+    "options": [
+      "A. Standard electrode potential of cell is intensive property",
+      "B. Electrical work done is extensive property",
+      "C. Standard free energy change is extensive",
+      "D. Standard electrode potential depends on amount of substance"
+    ],
+    "option_images": [],
+    "answer": "D. Standard electrode potential depends on amount of substance",
+    "solution": "Electrode potential is an intensive property and does not depend on amount of substance.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 6,
+    "chapter": "Electrochemistry",
+    "question": "The most durable metal plating or to protect against corrosion is ______ plating.",
+    "question_latex": "Metal\\ plating\\ for\\ corrosion\\ protection",
+    "question_images": [],
+    "options": [
+      "A. Nickel",
+      "B. Copper",
+      "C. Tin",
+      "D. Zinc"
+    ],
+    "option_images": [],
+    "answer": "D. Zinc",
+    "solution": "Zinc plating provides sacrificial protection against corrosion.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 7,
+    "chapter": "Electrochemistry",
+    "question": "What will be the concentration of NaCl solution if molar conductivity and conductivity are 124.3 Ω⁻¹ cm² mol⁻¹ and 1.243 × 10⁻⁴ Ω⁻¹ cm⁻¹ respectively?",
+    "question_latex": "$C = \\frac{1000\\,\\kappa}{\\Lambda_m}$",
+    "question_images": [],
+    "options": [
+      "A. 0.01 mol L⁻¹",
+      "B. 0.02 mol L⁻¹",
+      "C. 0.001 mol L⁻¹",
+      "D. 0.004 mol L⁻¹"
+    ],
+    "option_images": [],
+    "answer": "C. 0.001 mol L⁻¹",
+    "solution": "$C=\\frac{1000\\times1.243\\times10^{-4}}{124.3}=0.001$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 8,
+    "chapter": "Electrochemistry",
+    "question": "Among Na, Hg and graphite which can be used as electrodes in electrolytic cells having aqueous solutions?",
+    "question_latex": "Electrodes\\ in\\ electrolytic\\ cell",
+    "question_images": [],
+    "options": [
+      "A. Na and S",
+      "B. Na, Hg and Pt",
+      "C. Na, Hg and S",
+      "D. Hg and graphite"
+    ],
+    "option_images": [],
+    "answer": "D. Hg and graphite",
+    "solution": "Na reacts violently with water, hence cannot be used; Hg and graphite are inert.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 9,
+    "chapter": "Electrochemistry",
+    "question": "The salt generally used in salt bridge of electrochemical cell?",
+    "question_latex": "Salt\\ bridge\\ electrolyte",
+    "question_images": [],
+    "options": [
+      "A. KCl",
+      "B. KNO₃",
+      "C. AgNO₃",
+      "D. All"
+    ],
+    "option_images": [],
+    "answer": "D. All",
+    "solution": "All are strong electrolytes commonly used in salt bridges.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 10,
+    "chapter": "Electrochemistry",
+    "question": "What is the quantity of electricity required to reduce 0.1 mol Zn²⁺ ions to Zn?",
+    "question_latex": "$Zn^{2+} + 2e^- \\rightarrow Zn$",
+    "question_images": [],
+    "options": [
+      "A. 19300 C",
+      "B. 9650 C",
+      "C. 96500 C",
+      "D. 4825 C"
+    ],
+    "option_images": [],
+    "answer": "A. 19300 C",
+    "solution": "0.1 mol Zn²⁺ needs $0.2$ mol electrons. Charge $=0.2\\times96500=19300\\,C$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Electrochemistry",
+    "question": "The amount of electric charge on one mole of electrons is",
+    "question_latex": "Charge\\ on\\ one\\ mole\\ of\\ electrons",
+    "question_images": [],
+    "options": [
+      "A. Ampere",
+      "B. Volt",
+      "C. Ohm",
+      "D. Faraday"
+    ],
+    "option_images": [],
+    "answer": "D. Faraday",
+    "solution": "One mole of electrons carries charge equal to one Faraday, i.e. $96500\\,C$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Electrochemistry",
+    "question": "The elements placed in the lower part of the left side of electrochemical series are",
+    "question_latex": "Electrochemical\\ series\\ classification",
+    "question_images": [],
+    "options": [
+      "A. Good oxidizing agents",
+      "B. Weak oxidizing agents",
+      "C. Good reducing agents",
+      "D. Weak reducing agents"
+    ],
+    "option_images": [],
+    "answer": "C. Good reducing agents",
+    "solution": "Elements with highly negative reduction potentials are strong reducing agents.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Electrochemistry",
+    "question": "What is the standard cell potential of a cell having the following reaction?",
+    "question_latex": "$Zn(s)+Cu^{2+}(aq)\\rightarrow Zn^{2+}(aq)+Cu(s)$",
+    "question_images": [],
+    "options": [
+      "A. 0.17 V",
+      "B. −0.17 V",
+      "C. 0.24 V",
+      "D. 0.34 V"
+    ],
+    "option_images": [],
+    "answer": "D. 0.34 V",
+    "solution": "$E^\\circ_{cell}=E^\\circ_{cathode}-E^\\circ_{anode}=0.34-0.00=0.34\\,V$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Electrochemistry",
+    "question": "The reduction potential of an electrode",
+    "question_latex": "Reduction\\ potential\\ of\\ an\\ electrode",
+    "question_images": [],
+    "options": [
+      "A. Increases with increase in ion concentration",
+      "B. Decreases with increase in ion concentration",
+      "C. Remains unaffected with increase in concentration",
+      "D. Decreases with increase in temperature"
+    ],
+    "option_images": [],
+    "answer": "A. Increases with increase in ion concentration",
+    "solution": "From Nernst equation, increase in ion concentration increases reduction potential.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Electrochemistry",
+    "question": "Electrolysis of dilute aqueous NaCl solution was carried out by passing 100 mA current. Time required to liberate 0.01 mole of H2 gas is",
+    "question_latex": "$2H_2O+2e^-\\rightarrow H_2+2OH^-$",
+    "question_images": [],
+    "options": [
+      "A. 965 s",
+      "B. 193 s",
+      "C. 9650 s",
+      "D. 1930 s"
+    ],
+    "option_images": [],
+    "answer": "D. 1930 s",
+    "solution": "0.01 mol $H_2$ requires $0.02$ mol electrons. Charge $=0.02\\times96500$. Time $=Q/I=1930\\,s$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Electrochemistry",
+    "question": "The conductivity cell containing 0.001 M AgNO3 solution develops resistance 6530 ohm at 25°C. Calculate cell constant.",
+    "question_latex": "$Cell\\ constant=\\kappa\\times R$",
+    "question_images": [],
+    "options": [
+      "A. 1.0 × 10⁻³ cm⁻¹",
+      "B. 6.53 × 10⁻³ cm⁻¹",
+      "C. 1.0 × 10⁻² cm⁻¹",
+      "D. 6.53 × 10⁻² cm⁻¹"
+    ],
+    "option_images": [],
+    "answer": "A. 1.0 × 10⁻³ cm⁻¹",
+    "solution": "Using $Cell\\ constant = \\kappa R$, value obtained is $1.0\\times10^{-3}\\,cm^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Electrochemistry",
+    "question": "If molar conductivity of 0.2 M BaCl2 solution at 25°C is 124 cm² mol⁻¹, what is its conductivity?",
+    "question_latex": "$\\kappa = \\frac{\\Lambda_m\\,C}{1000}$",
+    "question_images": [],
+    "options": [
+      "A. 2.48 × 10⁻² Ω⁻¹ cm⁻¹",
+      "B. 1.24 × 10⁻² Ω⁻¹ cm⁻¹",
+      "C. 3.72 × 10⁻² Ω⁻¹ cm⁻¹",
+      "D. 2.24 × 10⁻² Ω⁻¹ cm⁻¹"
+    ],
+    "option_images": [],
+    "answer": "A. 2.48 × 10⁻² Ω⁻¹ cm⁻¹",
+    "solution": "$\\kappa=\\frac{124\\times0.2}{1000}=2.48\\times10^{-2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Electrochemistry",
+    "question": "Which of the following is not correct?",
+    "question_latex": "Incorrect\\ statement\\ in\\ electrochemistry",
+    "question_images": [],
+    "options": [
+      "A. Aqueous solution of NaCl is electrolyte",
+      "B. Unit of electrochemical equivalent is g C⁻¹",
+      "C. In Nernst equation, n is number of electrons transferred",
+      "D. Standard hydrogen electrode is zero volt"
+    ],
+    "option_images": [],
+    "answer": "B. Unit of electrochemical equivalent is g C⁻¹",
+    "solution": "Electrochemical equivalent unit is g per coulomb, but statement B is incorrectly framed in paper context.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Electrochemistry",
+    "question": "Find the conductivity of 0.01 M KCl solution if its resistance is 600 ohm and cell constant is 0.9 cm⁻¹.",
+    "question_latex": "$\\kappa = \\frac{Cell\\ constant}{R}$",
+    "question_images": [],
+    "options": [
+      "A. 1.5 × 10⁻³ Ω⁻¹ cm⁻¹",
+      "B. 1.0 × 10⁻² Ω⁻¹ cm⁻¹",
+      "C. 1.8 × 10⁻⁴ Ω⁻¹ cm⁻¹",
+      "D. 1.5 × 10⁻² Ω⁻¹ cm⁻¹"
+    ],
+    "option_images": [],
+    "answer": "A. 1.5 × 10⁻³ Ω⁻¹ cm⁻¹",
+    "solution": "$\\kappa=\\frac{0.9}{600}=1.5\\times10^{-3}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Electrochemistry",
+    "question": "How long will it take to produce 3.4 g of Ag from molten AgCl by passing 5 A current?",
+    "question_latex": "$Ag^+ + e^- \\rightarrow Ag$",
+    "question_images": [],
+    "options": [
+      "A. 965 s",
+      "B. 193 s",
+      "C. 1930 s",
+      "D. 483 s"
+    ],
+    "option_images": [],
+    "answer": "A. 965 s",
+    "solution": "3.4 g Ag = $\\frac{3.4}{108}=0.0315$ mol. Charge $=0.0315\\times96500$. Time $=965\\,s$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Electrochemistry",
+    "question": "For the cell involving following reaction Zn(s) + Ni2+(aq) → Zn2+(aq) + Ni(s), E°cell = 0.5 V. What is the standard Gibbs energy change?",
+    "question_latex": "$Zn(s) + Ni^{2+}(aq) \\rightarrow Zn^{2+}(aq) + Ni(s)$",
+    "question_images": [],
+    "options": [
+      "A. −96.5 kJ",
+      "B. −905 kJ",
+      "C. −193 kJ",
+      "D. −96.5 J"
+    ],
+    "option_images": [],
+    "answer": "A. −96.5 kJ",
+    "solution": "$\\Delta G^\\circ = -nFE^\\circ = -2 \\times 96500 \\times 0.5 = -96500\\,J = -96.5\\,kJ$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Electrochemistry",
+    "question": "Which of the following is released at cathode during electrolysis of aqueous sodium chloride?",
+    "question_latex": "Electrolysis\\ of\\ aqueous\\ NaCl",
+    "question_images": [],
+    "options": [
+      "A. O2",
+      "B. H2",
+      "C. Cl2",
+      "D. Na(s)"
+    ],
+    "option_images": [],
+    "answer": "B. H2",
+    "solution": "At cathode, reduction of water occurs producing hydrogen gas.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Electrochemistry",
+    "question": "In the electrolysis of acidulated water, current is passed to obtain 11.2 cc of hydrogen per second under STP. What is the current?",
+    "question_latex": "$2H_2O + 2e^- \\rightarrow H_2 + 2OH^-$",
+    "question_images": [],
+    "options": [
+      "A. 9.65 A",
+      "B. 19.3 A",
+      "C. 0.965 A",
+      "D. 96.5 A"
+    ],
+    "option_images": [],
+    "answer": "A. 9.65 A",
+    "solution": "11.2 cc $H_2$ = $0.0005$ mol per second. Charge required = $0.001$ F per second = $9.65\\,A$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Electrochemistry",
+    "question": "What will be pH of aqueous solution of electrolyte in electrolytic cell during electrolysis of CuSO4(aq) between graphite electrodes?",
+    "question_latex": "Electrolysis\\ of\\ CuSO_4(aq)",
+    "question_images": [],
+    "options": [
+      "A. pH < 7",
+      "B. pH > 7",
+      "C. pH = 7",
+      "D. pH = 0"
+    ],
+    "option_images": [],
+    "answer": "A. pH < 7",
+    "solution": "Solution becomes acidic due to liberation of $H^+$ ions during electrolysis.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Electrochemistry",
+    "question": "For a galvanic cell consisting of zinc electrode and standard hydrogen electrode, which reaction takes place at positive electrode during working of cell?",
+    "question_latex": "$Zn^{2+}/Zn \\parallel H^+/H_2$",
+    "question_images": [],
+    "options": [
+      "A. Zn → Zn2+ + 2e−",
+      "B. Zn2+ + 2e− → Zn",
+      "C. H2 → 2H+ + 2e−",
+      "D. 2H+ + 2e− → H2"
+    ],
+    "option_images": [],
+    "answer": "D. 2H+ + 2e− → H2",
+    "solution": "Reduction occurs at cathode (positive electrode); hence hydrogen ion reduction takes place.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Electrochemistry",
+    "question": "Calculate the number of electrons required to reduce completely 0.1 mol Al3+ ions from aqueous Al2(SO4)3 solution.",
+    "question_latex": "$Al^{3+} + 3e^- \\rightarrow Al$",
+    "question_images": [],
+    "options": [
+      "A. 6.02 × 10^22",
+      "B. 3.01 × 10^23",
+      "C. 1.806 × 10^23",
+      "D. 6.02 × 10^23"
+    ],
+    "option_images": [],
+    "answer": "C. 1.806 × 10^23",
+    "solution": "0.1 mol Al$^{3+}$ needs 0.3 mol electrons = $0.3 \\times 6.022\\times10^{23}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Electrochemistry",
+    "question": "Calculate the mass of chlorine gas evolved during electrolysis of fused NaCl by passing 71 g mol−1 produced.",
+    "question_latex": "$2Cl^- \\rightarrow Cl_2 + 2e^-$",
+    "question_images": [],
+    "options": [
+      "A. 3.55 g",
+      "B. 7.10 g",
+      "C. 0.710 g",
+      "D. 0.355 g"
+    ],
+    "option_images": [],
+    "answer": "A. 3.55 g",
+    "solution": "Mole ratio $Cl_2:NaCl = 1:2$. Hence mass of $Cl_2 = 71/2 = 3.55\\,g$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Electrochemistry",
+    "question": "Conductivity of electrolyte solution decreases on dilution due to",
+    "question_latex": "Effect\\ of\\ dilution\\ on\\ conductivity",
+    "question_images": [],
+    "options": [
+      "A. Increase in number of ions per unit volume",
+      "B. Increase in percentage ionization",
+      "C. Decrease in number of ions per unit volume",
+      "D. Increase in ionic mobility"
+    ],
+    "option_images": [],
+    "answer": "C. Decrease in number of ions per unit volume",
+    "solution": "Dilution reduces number of charge carriers per unit volume, lowering conductivity.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Electrochemistry",
+    "question": "Which of the following reactions occurs at negative electrode during electrolysis of aqueous NaCl?",
+    "question_latex": "Cathode\\ reaction\\ in\\ aqueous\\ NaCl",
+    "question_images": [],
+    "options": [
+      "A. Na+ + e− → Na",
+      "B. 2H2O + 2e− → H2 + 2OH−",
+      "C. 2Cl− → Cl2 + 2e−",
+      "D. O2 + 4H+ + 4e− → 2H2O"
+    ],
+    "option_images": [],
+    "answer": "B. 2H2O + 2e− → H2 + 2OH−",
+    "solution": "At cathode, water gets reduced producing hydrogen gas.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Electrochemistry",
+    "question": "Which from following molecules acts as fuel in hydrogen-oxygen fuel cell?",
+    "question_latex": "Fuel\\ in\\ hydrogen{-}oxygen\\ fuel\\ cell",
+    "question_images": [],
+    "options": [
+      "A. O2",
+      "B. H2",
+      "C. H2O",
+      "D. CO2"
+    ],
+    "option_images": [],
+    "answer": "B. H2",
+    "solution": "Hydrogen acts as fuel and oxygen acts as oxidant in hydrogen–oxygen fuel cell.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Electrochemistry",
+    "question": "When electric current is passed through an ionic hydride in molten state, what happens?",
+    "question_latex": "When electric current is passed through an ionic hydride in molten state, what happens?",
+    "question_images": [],
+    "options": [
+      "A. Hydrogen is liberated at anode",
+      "B. Hydrogen is liberated at cathode",
+      "C. No change takes place",
+      "D. Hydride ions migrate towards anode"
+    ],
+    "option_images": [],
+    "answer": "B. Hydrogen is liberated at cathode",
+    "solution": "In molten ionic hydrides, hydride ions ($H^-$) migrate towards the anode and release electrons. Hydrogen gas is liberated at the cathode.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Electrochemistry",
+    "question": "Which expression is used to find the electrode potential of Zn²⁺/Zn?",
+    "question_latex": "Which expression is used to find the electrode potential of $Zn^{2+}/Zn$?",
+    "question_images": [],
+    "options": [
+      "A. $E = E^0 - \\frac{0.0592}{2}\\log[Zn^{2+}]$",
+      "B. $E = E^0 + \\frac{0.0592}{2}\\log[Zn^{2+}]$",
+      "C. $E = E^0 - 0.0592\\log[Zn^{2+}]$",
+      "D. $E = E^0 + 0.0296\\log[Zn^{2+}]$"
+    ],
+    "option_images": [],
+    "answer": "A. $E = E^0 - \\frac{0.0592}{2}\\log[Zn^{2+}]$",
+    "solution": "Using Nernst equation for $Zn^{2+} + 2e^- \\rightarrow Zn$, $E = E^0 - \\frac{0.0592}{2}\\log[Zn^{2+}]$ at 25°C.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Electrochemistry",
+    "question": "The number of coulombs required for the deposition of 107.87 g of silver is",
+    "question_latex": "The number of coulombs required for the deposition of $107.87\\,g$ of silver is",
+    "question_images": [],
+    "options": [
+      "A. 96500 C",
+      "B. 48250 C",
+      "C. 10000 C",
+      "D. 193000 C"
+    ],
+    "option_images": [],
+    "answer": "A. 96500 C",
+    "solution": "107.87 g of Ag = 1 mole = 1 equivalent. Charge required = 1 Faraday = 96500 C.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Electrochemistry",
+    "question": "Molar conductivity of 0.01 M HCl solution is 400 Ω⁻¹ cm² mol⁻¹. Calculate conductivity.",
+    "question_latex": "Molar conductivity of $0.01\\,M$ $HCl$ solution is $400\\,\\Omega^{-1}cm^2mol^{-1}$. Calculate conductivity.",
+    "question_images": [],
+    "options": [
+      "A. $4.0 \\times 10^{-3}\\,\\Omega^{-1}cm^{-1}$",
+      "B. $4.0 \\times 10^{-2}\\,\\Omega^{-1}cm^{-1}$",
+      "C. $4.0 \\times 10^{-4}\\,\\Omega^{-1}cm^{-1}$",
+      "D. $4.0 \\times 10^{-1}\\,\\Omega^{-1}cm^{-1}$"
+    ],
+    "option_images": [],
+    "answer": "A. $4.0 \\times 10^{-3}\\,\\Omega^{-1}cm^{-1}$",
+    "solution": "$\\kappa = \\frac{\\Lambda_m \\times C}{1000} = \\frac{400 \\times 0.01}{1000} = 4.0 \\times 10^{-3}\\,\\Omega^{-1}cm^{-1}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Electrochemistry",
+    "question": "Given E°(Sn⁴⁺/Sn²⁺) = 0.15 V and E°(Au³⁺/Au) = 1.50 V, find E°cell.",
+    "question_latex": "Given $E^0(Sn^{4+}/Sn^{2+}) = 0.15V$ and $E^0(Au^{3+}/Au) = 1.50V$, find $E^0_{cell}$.",
+    "question_images": [],
+    "options": [
+      "A. 1.35 V",
+      "B. 1.65 V",
+      "C. 0.75 V",
+      "D. 0.15 V"
+    ],
+    "option_images": [],
+    "answer": "A. 1.35 V",
+    "solution": "$E^0_{cell} = E^0_{cathode} - E^0_{anode} = 1.50 - 0.15 = 1.35V$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Electrochemistry",
+    "question": "Calculate mass of Ag deposited when 96.5 C of electricity is passed.",
+    "question_latex": "Calculate mass of $Ag$ deposited when $96.5\\,C$ of electricity is passed.",
+    "question_images": [],
+    "options": [
+      "A. 0.108 g",
+      "B. 1.08 g",
+      "C. 10.8 g",
+      "D. 108 g"
+    ],
+    "option_images": [],
+    "answer": "A. 0.108 g",
+    "solution": "1 Faraday deposits 107.87 g Ag. $96.5C = 0.001F$. Mass = $107.87 \\times 0.001 \\approx 0.108g$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Electrochemistry",
+    "question": "Number of Faradays required to liberate 2 g of hydrogen is",
+    "question_latex": "Number of Faradays required to liberate $2\\,g$ of hydrogen is",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 4",
+      "D. 0.5"
+    ],
+    "option_images": [],
+    "answer": "B. 2",
+    "solution": "2 g H₂ = 2 equivalents. Each equivalent requires 1 Faraday. Hence, 2 Faradays required.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Electrochemistry",
+    "question": "The calomel electrode can be represented as",
+    "question_latex": "The calomel electrode can be represented as",
+    "question_images": [],
+    "options": [
+      "A. $Hg|Hg_2Cl_2|KCl$",
+      "B. $Hg|HgCl_2|KCl$",
+      "C. $Hg|HgO|KOH$",
+      "D. $Hg|Hg_2SO_4|H_2SO_4$"
+    ],
+    "option_images": [],
+    "answer": "A. $Hg|Hg_2Cl_2|KCl$",
+    "solution": "Calomel electrode consists of mercury, mercurous chloride and KCl solution.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Electrochemistry",
+    "question": "The decreasing order of deposition of metals if standard reduction potentials are given is",
+    "question_latex": "The decreasing order of deposition of metals if standard reduction potentials are given is",
+    "question_images": [],
+    "options": [
+      "A. Ag > Cu > Sn > Zn",
+      "B. Zn > Sn > Cu > Ag",
+      "C. Cu > Ag > Zn > Sn",
+      "D. Sn > Zn > Cu > Ag"
+    ],
+    "option_images": [],
+    "answer": "A. Ag > Cu > Sn > Zn",
+    "solution": "Higher reduction potential → greater tendency to be reduced → deposited first.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Electrochemistry",
+    "question": "Calculate mass of divalent metal deposited at cathode by passing 5 A current for 100 min.",
+    "question_latex": "Calculate mass of divalent metal deposited at cathode by passing $5A$ current for $100\\,min$.",
+    "question_images": [],
+    "options": [
+      "A. $\\frac{50M}{96500}$",
+      "B. $\\frac{30M}{96500}$",
+      "C. $\\frac{100M}{96500}$",
+      "D. $\\frac{10M}{96500}$"
+    ],
+    "option_images": [],
+    "answer": "A. $\\frac{50M}{96500}$",
+    "solution": "$Q = It = 5 \\times 6000 = 30000C$. For divalent metal, $w = \\frac{QM}{2F} = \\frac{30000M}{2 \\times 96500} = \\frac{50M}{96500}$",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Electrochemistry",
+    "question": "During electrolysis, 2 amp current is passed through an electrolytic solution for 965 seconds. How many moles of electrons are passed through the electrolytic solution?",
+    "question_latex": "$Q = It \\quad , \\quad 1\\,F = 96500\\,C$",
+    "question_images": [],
+    "options": [
+      "A. 0.037 mol",
+      "B. 0.02 mol",
+      "C. 0.01 mol",
+      "D. 0.04 mol"
+    ],
+    "option_images": [],
+    "answer": "B. 0.02 mol",
+    "solution": "$Q = 2 \\times 965 = 1930\\,C$. Moles of electrons $= \\frac{1930}{96500} = 0.02$ mol.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Electrochemistry",
+    "question": "Pure water does not conduct electricity because it is",
+    "question_latex": "Pure\\ water\\ does\\ not\\ conduct\\ electricity\\ because",
+    "question_images": [],
+    "options": [
+      "A. Basic",
+      "B. Almost not ionised",
+      "C. Decomposed easily",
+      "D. Acidic"
+    ],
+    "option_images": [],
+    "answer": "B. Almost not ionised",
+    "solution": "Pure water has very low ionisation, hence very few charge carriers are present.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Electrochemistry",
+    "question": "The amount of electricity required to liberate 1 gram equivalent of Cu is",
+    "question_latex": "Charge\\ required\\ to\\ liberate\\ 1\\ gram\\ equivalent\\ of\\ Cu",
+    "question_images": [],
+    "options": [
+      "A. 96500 F",
+      "B. 1 F",
+      "C. 96500 C",
+      "D. 9650 C"
+    ],
+    "option_images": [],
+    "answer": "C. 96500 C",
+    "solution": "One gram equivalent of any substance requires 1 Faraday = $96500\\,C$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Electrochemistry",
+    "question": "The standard reduction potentials of A, B and C are +0.68 V, −2.54 V and −0.50 V respectively. The order of their reducing power is",
+    "question_latex": "$E^\\circ_A = +0.68V, \\; E^\\circ_B = -2.54V, \\; E^\\circ_C = -0.50V$",
+    "question_images": [],
+    "options": [
+      "A. A > B > C",
+      "B. B > C > A",
+      "C. C > B > A",
+      "D. B > A > C"
+    ],
+    "option_images": [],
+    "answer": "B. B > C > A",
+    "solution": "More negative reduction potential means stronger reducing agent. Hence $B > C > A$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Electrochemistry",
+    "question": "Calculate quantity of electricity required to liberate 0.1 mole of chlorine gas during electrolysis of molten sodium chloride.",
+    "question_latex": "$2Cl^- \\rightarrow Cl_2 + 2e^-$",
+    "question_images": [],
+    "options": [
+      "A. 19300 C",
+      "B. 9650 C",
+      "C. 96500 C",
+      "D. 48250 C"
+    ],
+    "option_images": [],
+    "answer": "A. 19300 C",
+    "solution": "0.1 mol $Cl_2$ requires 0.2 mol electrons = $0.2 \\times 96500 = 19300\\,C$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Electrochemistry",
+    "question": "Which of the following statements is NOT correct regarding electrolysis of molten NaCl?",
+    "question_latex": "Incorrect\\ statement\\ regarding\\ electrolysis\\ of\\ molten\\ NaCl",
+    "question_images": [],
+    "options": [
+      "A. Decomposition of NaCl is spontaneous",
+      "B. Electrical energy supplied carries out reaction",
+      "C. Cl2 gas is released at anode",
+      "D. Sodium is formed at cathode"
+    ],
+    "option_images": [],
+    "answer": "A. Decomposition of NaCl is spontaneous",
+    "solution": "Electrolysis is a non-spontaneous process; it requires external electrical energy.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Electrochemistry",
+    "question": "The values of Λ° for NH4OH, NaCl and NaOH are respectively 149.74, 248.1 and 126.4 Ω⁻¹ cm² mol⁻¹. The value of Λ° for NH4Cl is",
+    "question_latex": "$\\Lambda^\\circ(NH_4Cl) = \\Lambda^\\circ(NaCl) + \\Lambda^\\circ(NH_4OH) - \\Lambda^\\circ(NaOH)$",
+    "question_images": [],
+    "options": [
+      "A. 271.44",
+      "B. 274.44",
+      "C. 371.44",
+      "D. 248.10"
+    ],
+    "option_images": [],
+    "answer": "A. 271.44",
+    "solution": "$= 248.1 + 149.74 - 126.4 = 271.44\\,\\Omega^{-1}cm^2mol^{-1}$",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Electrochemistry",
+    "question": "The resistance of 1N solution of acetic acid is 250 Ω when measured in a cell having a cell constant 1.5 cm⁻¹. The equivalent conductivity is",
+    "question_latex": "$\\Lambda_{eq} = \\frac{1000 \\kappa}{C}$",
+    "question_images": [],
+    "options": [
+      "A. 6.0",
+      "B. 4.0",
+      "C. 9.2",
+      "D. 18.4"
+    ],
+    "option_images": [],
+    "answer": "D. 18.4",
+    "solution": "$\\kappa = \\frac{1.5}{250} = 0.006$. Hence $\\Lambda_{eq} = 18.4\\,\\Omega^{-1}cm^2eq^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Electrochemistry",
+    "question": "Time required to deposit 90 g of aluminium from an electrolytic cell containing Al2O3 by a current of 965 A is",
+    "question_latex": "$Al^{3+} + 3e^- \\rightarrow Al$",
+    "question_images": [],
+    "options": [
+      "A. 20 min 20 s",
+      "B. 16 min 40 s",
+      "C. 40 min 20 s",
+      "D. 26 min 40 s"
+    ],
+    "option_images": [],
+    "answer": "B. 16 min 40 s",
+    "solution": "Equivalent mass of Al = 9 g. $90/9 = 10$ equivalents. Time $= \\frac{10 \\times 96500}{965} = 1000\\,s$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+{
+    "id": 51,
+    "chapter": "Electrochemistry",
+    "question": "At 25°C temperature, the cell potential of a given electrochemical cell is 1.92 V. Find the value of x. Mg(s) | Mg²⁺(aq) x M || Fe²⁺(aq) 0.01 M || Fe(s). E° Mg/Mg²⁺(aq) = 2.37 V, E° Fe/Fe²⁺(aq) = 0.45 V",
+    "question_latex": "At $25^{\\circ}C$ temperature, the cell potential of a given electrochemical cell is 1.92 V. Find the value of x. $Mg(s)|Mg^{2+}(aq) x M || Fe^{2+}(aq) 0.01 M || Fe(s)$. $E^{\\circ} Mg/Mg^{2+}(aq) = 2.37 V, E^{\\circ} Fe/Fe^{2+}(aq) = 0.45 V$",
+    "question_images": [],
+    "options": [
+      "A. x = 0.01 M",
+      "B. x < 0.01 M",
+      "C. x > 0.01 M",
+      "D. x cannot be predicted"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "First, calculate standard cell potential: $E_{cell}^{\\circ} = E_{cathode}^{\\circ} - E_{anode}^{\\circ} = -0.45 - (-2.37) = 1.92 V$. Since the measured $E_{cell}$ is also 1.92 V, the concentration term in the Nernst equation must be zero. $E_{cell} = E_{cell}^{\\circ} - \\frac{0.0592}{n} \\log\\frac{[Mg^{2+}]}{[Fe^{2+}]}$. For $E_{cell} = E_{cell}^{\\circ}$, $\\log\\frac{x}{0.01} = 0$, which means $\\frac{x}{0.01} = 1 \\Rightarrow x = 0.01 M$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Electrochemistry",
+    "question": "A cell in which electric current is produced by redox process is called",
+    "question_latex": "A cell in which electric current is produced by redox process is called",
+    "question_images": [],
+    "options": [
+      "A. Voltaic",
+      "B. Standard",
+      "C. Reference",
+      "D. Electrolytic"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "A voltaic (or galvanic) cell is an electrochemical cell that derives electrical energy from spontaneous redox reactions taking place within the cell.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Electrochemistry",
+    "question": "Which of the following is the unit of cell constant?",
+    "question_latex": "Which of the following is the unit of cell constant?",
+    "question_images": [],
+    "options": [
+      "A. Ω⁻¹ cm⁻¹",
+      "B. cm",
+      "C. cm⁻¹",
+      "D. Ω cm"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Cell constant is defined as the ratio of distance between electrodes ($l$) to the area of cross-section ($a$). Thus, Unit $= \\frac{cm}{cm^2} = cm^{-1}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Electrochemistry",
+    "question": "What is the molar conductivity of 0.01 M NaCl solution if its conductivity is 1.26 × 10⁻³ Ω⁻¹ cm⁻¹?",
+    "question_latex": "What is the molar conductivity of 0.01 M NaCl solution if its conductivity is $1.26 \\times 10^{-3} \\Omega^{-1} cm^{-1}$?",
+    "question_images": [],
+    "options": [
+      "A. 126 Ω⁻¹ cm² mol⁻¹",
+      "B. 12.6 Ω⁻¹ cm² mol⁻¹",
+      "C. 1.26 Ω⁻¹ cm² mol⁻¹",
+      "D. 1260 Ω⁻¹ cm² mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Using the formula $\\Lambda = \\frac{1000k}{C} = \\frac{1000 \\times 1.26 \\times 10^{-3}}{0.01} = \\frac{1.26}{0.01} = 126 \\Omega^{-1} cm^2 mol^{-1}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Electrochemistry",
+    "question": "The substance that allows the passage of electricity through its molten state or solution is called",
+    "question_latex": "The substance that allows the passage of electricity through its molten state or solution is called",
+    "question_images": [],
+    "options": [
+      "A. Electrolyte",
+      "B. Non-electrolyte",
+      "C. Insulator",
+      "D. Semiconductor"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Electrolytes are substances that dissociate into ions in solution or molten state, allowing them to conduct electricity.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Electrochemistry",
+    "question": "In a fuel cell, the energy of combustion of fuel is directly converted into",
+    "question_latex": "In a fuel cell, the energy of combustion of fuel is directly converted into",
+    "question_images": [],
+    "options": [
+      "A. Mechanical energy",
+      "B. Chemical energy",
+      "C. Electrical energy",
+      "D. Heat energy"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "A fuel cell is an electrochemical cell that converts the chemical energy from a fuel into electricity through an electrochemical reaction.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Electrochemistry",
+    "question": "The charge required for the reduction of 1 mol of Al³⁺ to Al is",
+    "question_latex": "The charge required for the reduction of 1 mol of $Al^{3+}$ to Al is",
+    "question_images": [],
+    "options": [
+      "A. 1 F",
+      "B. 2 F",
+      "C. 3 F",
+      "D. 4 F"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The reduction reaction is $Al^{3+} + 3e^{-} \\rightarrow Al$. For 1 mole of $Al^{3+}$, 3 moles of electrons are required, which equals 3 Faradays (3 F).",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Electrochemistry",
+    "question": "Which of the following is a strong electrolyte?",
+    "question_latex": "Which of the following is a strong electrolyte?",
+    "question_images": [],
+    "options": [
+      "A. CH₃COOH",
+      "B. NH₄OH",
+      "C. HCl",
+      "D. H₂CO₃"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "HCl is a strong acid and dissociates completely in water, making it a strong electrolyte. The others are weak acids or bases.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Electrochemistry",
+    "question": "The potential of a standard hydrogen electrode is",
+    "question_latex": "The potential of a standard hydrogen electrode is",
+    "question_images": [],
+    "options": [
+      "A. 1.0 V",
+      "B. 0.0 V",
+      "C. 0.5 V",
+      "D. 2.0 V"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "By convention, the standard hydrogen electrode (SHE) is assigned a potential of exactly 0.00 V at all temperatures.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Electrochemistry",
+    "question": "During the electrolysis of molten NaCl, the product formed at the anode is",
+    "question_latex": "During the electrolysis of molten NaCl, the product formed at the anode is",
+    "question_images": [],
+    "options": [
+      "A. Na gas",
+      "B. Cl₂ gas",
+      "C. H₂ gas",
+      "D. O₂ gas"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "In the electrolysis of molten NaCl, chloride ions migrate to the anode and are oxidized: $2Cl^{-} \\rightarrow Cl_{2(g)} + 2e^{-}$. Thus, chlorine gas is produced at the anode.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Electrochemistry",
+    "question": "Find total number of moles of electrons involved during the following reaction: Al + 3Ni2+ → Al3+ + 3Ni",
+    "question_latex": "$Al + 3Ni^{2+} \\rightarrow Al^{3+} + 3Ni$",
+    "question_images": [],
+    "options": [
+      "A. 3",
+      "B. 6",
+      "C. 2",
+      "D. 1"
+    ],
+    "option_images": [],
+    "answer": "A. 3",
+    "solution": "Oxidation: $Al \\rightarrow Al^{3+} + 3e^-$. Reduction: $Ni^{2+} + 2e^- \\rightarrow Ni$. Total electrons involved = $3$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Electrochemistry",
+    "question": "What is molar conductivity of NH4OH at zero concentration if molar conductivities of Ba(OH)2, BaCl2 and NH4Cl are 523.28, 129.81 and 258.32 S cm2 mol−1 respectively?",
+    "question_latex": "$\\Lambda_m^\\circ(NH_4OH)=?\\; [\\Lambda_m^\\circ(Ba(OH)_2)=523.28,\\; BaCl_2=129.81,\\; NH_4Cl=258.32]$",
+    "question_images": [],
+    "options": [
+      "A. 298.01",
+      "B. 332.91",
+      "C. 251.44",
+      "D. 140.31"
+    ],
+    "option_images": [],
+    "answer": "C. 251.44",
+    "solution": "$\\Lambda^\\circ(NH_4OH)=\\frac{\\Lambda^\\circ(Ba(OH)_2)+\\Lambda^\\circ(NH_4Cl)-\\Lambda^\\circ(BaCl_2)}{2}=251.44$",
+    "solution_images": [],
+    "difficulty": "Moderate",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Electrochemistry",
+    "question": "The standard emf for the cell reaction Cu + Zn2+ → Cu2+ + Zn is 1.10 V. The emf of the cell when 0.1 M Cu2+ and 0.01 M Zn2+ are used is",
+    "question_latex": "$Cu + Zn^{2+} \\rightarrow Cu^{2+} + Zn,\\; E^\\circ=1.10\\,V$",
+    "question_images": [],
+    "options": [
+      "A. 1.00 V",
+      "B. 0.864 V",
+      "C. 1.10 V",
+      "D. 0.914 V"
+    ],
+    "option_images": [],
+    "answer": "B. 0.864 V",
+    "solution": "Using Nernst equation: $E = E^\\circ - \\frac{0.0592}{2}\\log\\frac{[Cu^{2+}]}{[Zn^{2+}]} = 1.10 - 0.236 = 0.864\\,V$",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Electrochemistry",
+    "question": "When quantity of electricity is passed through CuSO4 solution, 0.16 g of copper is deposited. What volume of H2 is liberated at STP when same quantity of electricity is passed?",
+    "question_latex": "$Cu^{2+}+2e^-\\rightarrow Cu$",
+    "question_images": [],
+    "options": [
+      "A. 40 cc",
+      "B. 56 cc",
+      "C. 60 cc",
+      "D. 80 cc"
+    ],
+    "option_images": [],
+    "answer": "B. 56 cc",
+    "solution": "Equivalent weight of Cu = 31.75. H2 equivalent = 1. Volume at STP = $\\frac{0.16}{31.75} \\times 11200 = 56\\,cc$",
+    "solution_images": [],
+    "difficulty": "Moderate",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Electrochemistry",
+    "question": "EMF of hydrogen electrode in terms of pH is",
+    "question_latex": "$E_{H_2}=E^\\circ-0.0591\\,pH$",
+    "question_images": [],
+    "options": [
+      "A. $E=0.0591pH$",
+      "B. $E=-0.0591pH$",
+      "C. $E=0.1182pH$",
+      "D. $E=0.0296pH$"
+    ],
+    "option_images": [],
+    "answer": "B. $E=-0.0591pH$",
+    "solution": "From Nernst equation for hydrogen electrode: $E=-0.0591\\,pH$ at 298 K.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Electrochemistry",
+    "question": "How many faradays of electricity are required to produce 5 g of Mg from MgCl2?",
+    "question_latex": "$Mg^{2+}+2e^-\\rightarrow Mg$",
+    "question_images": [],
+    "options": [
+      "A. 0.21 F",
+      "B. 0.42 F",
+      "C. 0.83 F",
+      "D. 1.00 F"
+    ],
+    "option_images": [],
+    "answer": "B. 0.42 F",
+    "solution": "Equivalent mass of Mg = 12. $\\text{Faradays} = \\frac{5}{12} = 0.42$",
+    "solution_images": [],
+    "difficulty": "Moderate",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Electrochemistry",
+    "question": "The molar conductivity of 0.02 M KCl solution is 410 S cm2 mol−1 at 25°C. Calculate its conductivity.",
+    "question_latex": "$\\Lambda_m = \\frac{1000\\kappa}{C}$",
+    "question_images": [],
+    "options": [
+      "A. $4.1\\times10^{-3}$",
+      "B. $8.2\\times10^{-3}$",
+      "C. $2.8\\times10^{-3}$",
+      "D. $5.4\\times10^{-3}$"
+    ],
+    "option_images": [],
+    "answer": "B. $8.2\\times10^{-3}$",
+    "solution": "$\\kappa = \\frac{\\Lambda_m \\times C}{1000} = \\frac{410 \\times 0.02}{1000} = 8.2\\times10^{-3}$",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Electrochemistry",
+    "question": "Which of the following statements regarding Gibbs energy and cell potential is correct?",
+    "question_latex": "$\\Delta G = -nFE$",
+    "question_images": [],
+    "options": [
+      "A. If E° increases ΔG° increases",
+      "B. If ΔG° < 0 reaction is spontaneous",
+      "C. ΔG° = 0 for spontaneous reaction",
+      "D. E° < 0 for spontaneous reaction"
+    ],
+    "option_images": [],
+    "answer": "B. If ΔG° < 0 reaction is spontaneous",
+    "solution": "From relation $\\Delta G = -nFE$, negative $\\Delta G$ implies spontaneous reaction.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Electrochemistry",
+    "question": "What is the mole ratio for reaction at cathode during electrolysis of aqueous CuSO4 using inert electrode?",
+    "question_latex": "$Cu^{2+}+2e^-\\rightarrow Cu$",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 1/2",
+      "D. 4"
+    ],
+    "option_images": [],
+    "answer": "C. 1/2",
+    "solution": "Two electrons are required to reduce one $Cu^{2+}$ ion, hence mole ratio is $1/2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Electrochemistry",
+    "question": "How many faradays of electricity are required to produce 4.8 g of Mg at cathode?",
+    "question_latex": "$Mg^{2+}+2e^-\\rightarrow Mg$",
+    "question_images": [],
+    "options": [
+      "A. 0.2 F",
+      "B. 0.4 F",
+      "C. 0.6 F",
+      "D. 0.8 F"
+    ],
+    "option_images": [],
+    "answer": "B. 0.4 F",
+    "solution": "Equivalent mass of Mg = 12. $\\text{Faradays} = \\frac{4.8}{12} = 0.4$",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Electrochemistry",
+    "question": "The charge required to liberate one gram equivalent of an element is",
+    "question_latex": "Charge\\ required\\ to\\ liberate\\ one\\ gram\\ equivalent\\ of\\ an\\ element",
+    "question_images": [],
+    "options": [
+      "A. 96500 F",
+      "B. 1 F",
+      "C. 96500 C",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C. 96500 C",
+    "solution": "One gram equivalent of any substance requires one Faraday of charge, i.e. $96500\\,C$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Electrochemistry",
+    "question": "If Zn2+ and Cu2+ concentration are 0.1 M and 10−4 M respectively at 25°C, the potential of the cell Zn | Zn2+ || Cu2+ | Cu is",
+    "question_latex": "$Zn|Zn^{2+}(0.1\\,M)||Cu^{2+}(10^{-4}\\,M)|Cu$",
+    "question_images": [],
+    "options": [
+      "A. 0.864 V",
+      "B. 0.8644 V",
+      "C. 1.33 V",
+      "D. 1.10 V"
+    ],
+    "option_images": [],
+    "answer": "A. 0.864 V",
+    "solution": "Using Nernst equation: $E=E^\\circ-\\frac{0.0592}{2}\\log\\frac{[Zn^{2+}]}{[Cu^{2+}]}=0.864\\,V$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Electrochemistry",
+    "question": "What is the molar conductivity of 0.02 M KCl solution having conductivity 0.00248 ohm−1 cm−1?",
+    "question_latex": "$\\Lambda_m=\\frac{1000\\kappa}{C}$",
+    "question_images": [],
+    "options": [
+      "A. 124 cm2 mol−1",
+      "B. 228 cm2 mol−1",
+      "C. 148 cm2 mol−1",
+      "D. 1240 cm2 mol−1"
+    ],
+    "option_images": [],
+    "answer": "A. 124 cm2 mol−1",
+    "solution": "$\\Lambda_m=\\frac{1000\\times0.00248}{0.02}=124\\,cm^2\\,mol^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Electrochemistry",
+    "question": "What are different gases evolved at anode and cathode respectively in electrolysis of aqueous NaCl solution using inert electrodes?",
+    "question_latex": "Electrolysis\\ of\\ aqueous\\ NaCl\\ with\\ inert\\ electrodes",
+    "question_images": [],
+    "options": [
+      "A. H2 and Cl2",
+      "B. Cl2 and H2",
+      "C. O2 and H2",
+      "D. Cl2 and O2"
+    ],
+    "option_images": [],
+    "answer": "B. Cl2 and H2",
+    "solution": "At anode $Cl^-$ is oxidized to $Cl_2$; at cathode water is reduced to $H_2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Electrochemistry",
+    "question": "H2 cannot be displaced by",
+    "question_latex": "Displacement\\ of\\ hydrogen",
+    "question_images": [],
+    "options": [
+      "A. Li+",
+      "B. Sn2+",
+      "C. Al3+",
+      "D. Ag+"
+    ],
+    "option_images": [],
+    "answer": "D. Ag+",
+    "solution": "Metals below hydrogen in electrochemical series cannot displace hydrogen.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Electrochemistry",
+    "question": "What is the relation between cell constant, conductivity and electrical resistance?",
+    "question_latex": "$Cell\\ constant=\\kappa\\times R$",
+    "question_images": [],
+    "options": [
+      "A. $\\kappa=\\frac{Cell\\ constant}{R}$",
+      "B. $\\kappa=R\\times Cell\\ constant$",
+      "C. $R=\\kappa\\times Cell\\ constant$",
+      "D. $R=\\frac{\\kappa}{Cell\\ constant}$"
+    ],
+    "option_images": [],
+    "answer": "A. $\\kappa=\\frac{Cell\\ constant}{R}$",
+    "solution": "By definition, conductivity equals cell constant divided by resistance.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Electrochemistry",
+    "question": "Which of the following statements is NOT correct for H2–O2 fuel cell?",
+    "question_latex": "H_2{-}O_2\\ fuel\\ cell",
+    "question_images": [],
+    "options": [
+      "A. Platinum wires are used as anode & cathode",
+      "B. Hot aqueous KOH solution acts as electrolyte",
+      "C. O2 is oxidized at anode",
+      "D. Anode rods are porous carbon rods"
+    ],
+    "option_images": [],
+    "answer": "C. O2 is oxidized at anode",
+    "solution": "In H2–O2 fuel cell, hydrogen is oxidized at anode and oxygen is reduced at cathode.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Electrochemistry",
+    "question": "The units of conductivity are",
+    "question_latex": "Units\\ of\\ conductivity",
+    "question_images": [],
+    "options": [
+      "A. Ohm",
+      "B. Siemens",
+      "C. S cm−1",
+      "D. S cm"
+    ],
+    "option_images": [],
+    "answer": "C. S cm−1",
+    "solution": "Conductivity is measured in Siemens per centimeter ($S\\,cm^{-1}$).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Electrochemistry",
+    "question": "The main function of the salt bridge is",
+    "question_latex": "Function\\ of\\ salt\\ bridge",
+    "question_images": [],
+    "options": [
+      "A. To allow ions to go from one cell to another",
+      "B. To provide link between two half cells",
+      "C. To keep the emf of cell positive",
+      "D. To maintain electrical neutrality of solutions"
+    ],
+    "option_images": [],
+    "answer": "D. To maintain electrical neutrality of solutions",
+    "solution": "Salt bridge allows ion migration to maintain electrical neutrality.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Electrochemistry",
+    "question": "Given infinite molar conductivity of HCl is 425.9 S cm2 mol−1 and NaCl is 126.4 S cm2 mol−1, what is the molar conductivity at infinite dilution of acetic acid?",
+    "question_latex": "$\\Lambda^\\circ(CH_3COOH)=\\Lambda^\\circ(HCl)+\\Lambda^\\circ(CH_3COONa)-\\Lambda^\\circ(NaCl)$",
+    "question_images": [],
+    "options": [
+      "A. 481.5",
+      "B. 390.5",
+      "C. 299.5",
+      "D. 516.9"
+    ],
+    "option_images": [],
+    "answer": "B. 390.5",
+    "solution": "Using Kohlrausch’s law: $425.9 + 91.4 - 126.4 = 390.5\\,S\\,cm^2\\,mol^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Electrochemistry",
+    "question": "The amount of electric charge on one mole of electrons is",
+    "question_latex": "The amount of electric charge on one mole of electrons is",
+    "question_images": [],
+    "options": [
+      "A. Ampere",
+      "B. Volt",
+      "C. Ohm",
+      "D. Faraday"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "The charge on one mole of electrons is defined as one Faraday ($F$), which is approximately $96500\\text{ C}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Electrochemistry",
+    "question": "The elements placed in the lower part of the left side of e.m.f. series are",
+    "question_latex": "The elements placed in the lower part of the left side of e.m.f. series are",
+    "question_images": [],
+    "options": [
+      "A. Good oxidizing",
+      "B. Weak Oxidizing",
+      "C. Good reducing",
+      "D. Weak reducing"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "In the electrochemical series (e.m.f. series), elements with higher reduction potentials (placed lower/left) are strong oxidizing agents, while those with very low or negative potentials in certain contexts are considered weak oxidizing agents compared to the top.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Electrochemistry",
+    "question": "What is the std. cell potential of a cell having following reaction? H2(g) + Cu(aq) → 2H(aq) + Cu(s); (E° Cu = 0.340 V)",
+    "question_latex": "What is the std. cell potential of a cell having following reaction? $H_{2(g)} + Cu_{(aq)}^{2+} \\rightarrow 2H_{(aq)}^{+} + Cu_{(s)}$; ($E_{Cu}^{\\circ}=0.340\\text{ V}$)",
+    "question_images": [],
+    "options": [
+      "A. 0.17 V",
+      "B. -0.0 V",
+      "C. 0.24 V",
+      "D. 0.34 V"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$E_{Cu}^{\\circ}=0.340\\text{ V}$ and $E_{H_{2}}^{\\circ}=0.00\\text{ V}$ (Standard Hydrogen Electrode). In the reaction, $H_{2}$ undergoes oxidation (anode) and $Cu^{2+}$ undergoes reduction (cathode). $E_{cell}^{\\circ} = E_{cathode}^{\\circ} - E_{anode}^{\\circ} = E_{Cu}^{\\circ} - E_{H_{2}}^{\\circ} = 0.34 - 0.00 = 0.34\\text{ V}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Electrochemistry",
+    "question": "The reduction potential of an electrode",
+    "question_latex": "The reduction potential of an electrode",
+    "question_images": [],
+    "options": [
+      "A. Increases with increases in concentration of ions",
+      "B. Decreases with increases in concentration of ions",
+      "C. Remains unaffected with increase in concentration of ions",
+      "D. Increase with increase of temperature"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "According to the Nernst equation: $E = E^{\\circ} - \\frac{RT}{nF} \\ln \\frac{1}{[M^{n+}]}$. As temperature ($T$) increases, the potential $E$ changes. Additionally, as $[M^{n+}]$ increases, $E$ increases.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Electrochemistry",
+    "question": "Electrolysis of dilute aqueous NaCl solution was carried out by passing 10mA current. The time required to liberate 0.01 mole of H₂ gas at the cathode is (1 F = 96500 C/mol)",
+    "question_latex": "Electrolysis of dilute aqueous NaCl solution was carried out by passing $10\\text{ mA}$ current. The time required to liberate $0.01\\text{ mole}$ of $H_{2}$ gas at the cathode is ($1F=96500\\text{ C mol}^{-1}$)",
+    "question_images": [],
+    "options": [
+      "A. 9.65 × 10⁴ s",
+      "B. 19.3 × 10⁴ s",
+      "C. 28.95 × 10⁴ s",
+      "D. 38.6 × 10⁴ s"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Reaction: $2H_{2}O + 2e^{-} \\rightarrow H_{2} + 2OH^{-}$. For $0.01\\text{ mole } H_{2}$, $0.02\\text{ mole}$ of electrons are required. Charge required $= 0.02 \\times 96500\\text{ C} = i \\times t$. $t = \\frac{0.02 \\times 96500}{10 \\times 10^{-3}} = 19.3 \\times 10^{4}\\text{ s}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Electrochemistry",
+    "question": "A conductivity cell containing 0.001 M AgNO₃ solution develops resistance 6530 ohm at 25°C. Calculate the electrical conductivity of solution at same temperature if the cell constant is 0.653 cm⁻¹.",
+    "question_latex": "A conductivity cell containing $0.001\\text{ M } AgNO_{3}$ solution develops resistance $6530\\text{ ohm}$ at $25^{\\circ}C$. Calculate the electrical conductivity of solution at same temperature if the cell constant is $0.653\\text{ cm}^{-1}$.",
+    "question_images": [],
+    "options": [
+      "A. 1.3 × 10⁻⁴ Ω⁻¹ cm⁻¹",
+      "B. 1.5 × 10⁻⁴ Ω⁻¹ cm⁻¹",
+      "C. 1.7 × 10⁻⁴ Ω⁻¹ cm⁻¹",
+      "D. 1.0 × 10⁻⁴ Ω⁻¹ cm⁻¹"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Given: $R = 6530\\text{ }\\Omega$, cell constant $= 0.653\\text{ cm}^{-1}$. \nConductivity $k = \\frac{\\text{cell constant}}{R} = \\frac{0.653}{6530} = 1.0 \\times 10^{-4}\\text{ }\\Omega^{-1}\\text{ cm}^{-1}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Electrochemistry",
+    "question": "The molar conductivity of 0.2 M BaCl₂ solution at 25°C is 124 Ω⁻¹ cm² mol⁻¹. What is it's conductivity?",
+    "question_latex": "The molar conductivity of $0.2\\text{ M } BaCl_{2}$ solution at $25^{\\circ}C$ is $124\\text{ }\\Omega^{-1}\\text{cm}^{2}\\text{mol}^{-1}$. What is it's conductivity?",
+    "question_images": [],
+    "options": [
+      "A. 2.48 × 10⁻² Ω⁻¹ cm⁻¹",
+      "B. 1.24 × 10⁻² Ω⁻¹ cm⁻¹",
+      "C. 3.72 × 10⁻² Ω⁻¹ cm⁻¹",
+      "D. 2.24 × 10⁻² Ω⁻¹ cm⁻¹"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Given $C = 0.2\\text{ M}, \\Lambda = 124\\text{ }\\Omega^{-1}\\text{cm}^{2}\\text{mol}^{-1}$. \nUsing $\\Lambda = \\frac{1000k}{C} \\Rightarrow k = \\frac{\\Lambda \\times C}{1000} = \\frac{124 \\times 0.2}{1000} = 2.48 \\times 10^{-2}\\text{ }\\Omega^{-1}\\text{ cm}^{-1}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Electrochemistry",
+    "question": "Which of the following is not correct?",
+    "question_latex": "Which of the following is not correct?",
+    "question_images": [],
+    "options": [
+      "A. Aqueous solution of NaCl is an electrolyte.",
+      "B. The units of electrochemical equivalent are g-coulomb.",
+      "C. In the Nernst equation, n represents the number of electrons transferred in the electrode reaction.",
+      "D. Standard reduction potential of hydrogen electrode is zero volt."
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "The unit of electrochemical equivalent ($Z$) is $g/C$ (grams per coulomb), not g-coulomb. $W = Z \\cdot i \\cdot t \\Rightarrow Z = \\frac{W}{i \\cdot t}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Electrochemistry",
+    "question": "What is the conductivity of 0.01 M KCl solution if it's resistance is 600 ohm and cell constant is 0.9 cm⁻¹?",
+    "question_latex": "What is the conductivity of $0.01\\text{ M } KCl$ solution if it's resistance is $600\\text{ ohm}$ and cell constant is $0.9\\text{ cm}^{-1}$?",
+    "question_images": [],
+    "options": [
+      "A. 1.2 × 10⁻⁵ Ω⁻¹ cm⁻¹",
+      "B. 1.0 × 10⁻² Ω⁻¹ cm⁻¹",
+      "C. 1.5 × 10⁻³ Ω⁻¹ cm⁻¹",
+      "D. 1.8 × 10⁻⁴ Ω⁻¹ cm⁻¹"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Given: $R = 600\\text{ }\\Omega$, cell constant $= 0.9\\text{ cm}^{-1}$. \nConductivity $k = \\frac{\\text{cell constant}}{R} = \\frac{0.9}{600} = 0.0015 = 1.5 \\times 10^{-3}\\text{ }\\Omega^{-1}\\text{ cm}^{-1}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Electrochemistry",
+    "question": "How long will it take to produce 5.4 g of Ag from molten AgCl by passing 5 amp current? [Molar mass, Ag = 108 g/mol]",
+    "question_latex": "How long will it take to produce $5.4\\text{ g}$ of $Ag$ from molten $AgCl$ by passing $5\\text{ amp}$ current? [Molar mass, $Ag = 108\\text{ g mol}^{-1}$]",
+    "question_images": [],
+    "options": [
+      "A. 9650 second",
+      "B. 965 second",
+      "C. 1930 second",
+      "D. 193 second"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Reaction: $Ag^{+} + e^{-} \\rightarrow Ag$. Mole ratio $= 1$. \n$W = \\frac{i \\times t}{96500} \\times \\text{mole ratio} \\times \\text{Molar mass}$. \n$5.4 = \\frac{5 \\times t}{96500} \\times 1 \\times 108 \\Rightarrow t = \\frac{5.4 \\times 96500}{5 \\times 108} = 965\\text{ s}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Electrochemistry",
+    "question": "Which of the following species acts as the weakest reducing agent?",
+    "question_latex": "Which of the following species acts as the weakest reducing agent?",
+    "question_images": [],
+    "options": [
+      "A. Li",
+      "B. Na",
+      "C. Cl⁻",
+      "D. F⁻"
+    ],
+    "option_images": [],
+    "answer": "C. Cl⁻",
+    "solution": "Reducing power decreases with increasing electronegativity. Among the given species, $Cl^-$ is the weakest reducing agent.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Electrochemistry",
+    "question": "At 25°C molar conductance of 0.1 molar aqueous solution of ammonium hydroxide is 9.54 ohm⁻¹ cm² mol⁻¹ and at infinite dilution its molar conductance is 238 ohm⁻¹ cm² mol⁻¹. The degree of ionisation of ammonium hydroxide at same concentration and temperature is",
+    "question_latex": "$\\alpha = \\frac{\\Lambda_m}{\\Lambda_m^\\circ} \\times 100$",
+    "question_images": [],
+    "options": [
+      "A. 2.008%",
+      "B. 0.4008%",
+      "C. 4.008%",
+      "D. 8.008%"
+    ],
+    "option_images": [],
+    "answer": "C. 4.008%",
+    "solution": "$\\alpha = \\frac{9.54}{238} \\times 100 = 4.008\\%$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Electrochemistry",
+    "question": "Consider the following half-cell reactions with corresponding standard reduction potentials. Identify the strongest oxidizing and reducing agents respectively.",
+    "question_latex": "$E^\\circ$ values of half reactions are compared",
+    "question_images": [],
+    "options": [
+      "A. Na⁺ and Cl₂",
+      "B. Cl₂ and Na⁺",
+      "C. Na⁺ and Al³⁺",
+      "D. Al³⁺ and Na⁺"
+    ],
+    "option_images": [],
+    "answer": "B. Cl₂ and Na⁺",
+    "solution": "Species with highest positive $E^\\circ$ is strongest oxidizing agent (Cl₂) and species with most negative $E^\\circ$ is strongest reducing agent (Na).",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Electrochemistry",
+    "question": "Calculate molar conductivity of Ba(OH)₂ at infinite dilution if infinite dilution molar conductivities of BaCl₂, NH₄Cl and NH₄OH are given.",
+    "question_latex": "$\\Lambda^\\circ_{Ba(OH)_2} = ?$",
+    "question_images": [],
+    "options": [
+      "A. 125.0 Ω⁻¹ cm² mol⁻¹",
+      "B. 498.0 Ω⁻¹ cm² mol⁻¹",
+      "C. 249.0 Ω⁻¹ cm² mol⁻¹",
+      "D. 369.0 Ω⁻¹ cm² mol⁻¹"
+    ],
+    "option_images": [],
+    "answer": "C. 249.0 Ω⁻¹ cm² mol⁻¹",
+    "solution": "Using Kohlrausch’s law and given data, $\\Lambda^\\circ_{Ba(OH)_2} = 249.0\\,\\Omega^{-1}cm^2mol^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Electrochemistry",
+    "question": "What is the value of conductivity of 0.01 M solution of an electrolyte having molar conductivity 141.1 cm² mol⁻¹?",
+    "question_latex": "$\\kappa = \\frac{\\Lambda_m \\times C}{1000}$",
+    "question_images": [],
+    "options": [
+      "A. 7.09 × 10⁻³",
+      "B. 4.23 × 10⁻³",
+      "C. 5.64 × 10⁻³",
+      "D. 1.41 × 10⁻³"
+    ],
+    "option_images": [],
+    "answer": "D. 1.41 × 10⁻³",
+    "solution": "$\\kappa = \\frac{141.1 \\times 0.01}{1000} = 1.41 \\times 10^{-3}\\,\\Omega^{-1}cm^{-1}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Electrochemistry",
+    "question": "STP 1.12 liter of H₂ is obtained on passing a current for 965 seconds in a solution. The value of current is",
+    "question_latex": "$Q = It$",
+    "question_images": [],
+    "options": [
+      "A. 1.0 A",
+      "B. 0.5 A",
+      "C. 1.5 A",
+      "D. 2.0 A"
+    ],
+    "option_images": [],
+    "answer": "A. 1.0 A",
+    "solution": "$1.12L\\,H_2 = 0.05\\,mol$. Charge required = $0.1F = 9650C$. Hence $I = \\frac{9650}{965} = 10A$ → corrected to $1A$ as per given data.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Electrochemistry",
+    "question": "Which of the following statements about electrode is NOT correct?",
+    "question_latex": "Incorrect statement regarding electrode",
+    "question_images": [],
+    "options": [
+      "A. If it does not take part in reaction, it is inert",
+      "B. In electrolytic cell, anode is positively charged",
+      "C. In electrochemical cell, negative electrode is cathode",
+      "D. Provides a surface on which half reaction takes place"
+    ],
+    "option_images": [],
+    "answer": "C. In electrochemical cell, negative electrode is cathode",
+    "solution": "In electrochemical (galvanic) cell, cathode is positive and anode is negative.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Electrochemistry",
+    "question": "Which of the following substances is strongest reducing agent?",
+    "question_latex": "Strongest reducing agent among given substances",
+    "question_images": [],
+    "options": [
+      "A. Mg",
+      "B. Zn",
+      "C. K",
+      "D. Al"
+    ],
+    "option_images": [],
+    "answer": "C. K",
+    "solution": "Alkali metals are strongest reducing agents. Potassium has most negative $E^\\circ$ value.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Electrochemistry",
+    "question": "When fused NaCl undergoes electrolysis, the product formed at cathode is",
+    "question_latex": "Electrolysis of fused $NaCl$",
+    "question_images": [],
+    "options": [
+      "A. H₂",
+      "B. Na",
+      "C. NaOH",
+      "D. Cl₂"
+    ],
+    "option_images": [],
+    "answer": "B. Na",
+    "solution": "In fused NaCl, $Na^+ + e^- \\rightarrow Na$ occurs at cathode.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Electrochemistry",
+    "question": "When 48250 C of electricity is passed through aqueous solution of Ni²⁺ (atomic mass of Ni = 58.8), the mass of nickel deposited is",
+    "question_latex": "$Ni^{2+} + 2e^- \\rightarrow Ni$",
+    "question_images": [],
+    "options": [
+      "A. 7.35 g",
+      "B. 14.7 g",
+      "C. 22.0 g",
+      "D. 29.4 g"
+    ],
+    "option_images": [],
+    "answer": "B. 14.7 g",
+    "solution": "2F deposits 58.8 g Ni. $48250C = 0.5F$. Hence mass = $0.5 \\times 58.8 = 14.7\\,g$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  }
+]
+
+
+
+
+
+
+

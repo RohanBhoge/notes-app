@@ -1,0 +1,1814 @@
+[
+  {
+    "id": 1,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The first elements of first, second and third transition series respectively are",
+    "question_latex": "The first elements of first, second and third transition series respectively are",
+    "question_images": [],
+    "options": [
+      "A. Zn, Cd, Hg",
+      "B. Sc, Y, La",
+      "C. Cu, Ag, Au",
+      "D. None of the above"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "The first transition series (3d) starts with Scandium (Sc), the second (4d) with Yttrium (Y), and the third (5d) with Lanthanum (La).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which among the following lanthanoids forms most stable +2 oxidation state? [MHT-CET 2022]",
+    "question_latex": "Which among the following lanthanoids forms most stable +2 oxidation state? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. $Gd(Z=64)$",
+      "B. $Eu(Z=63)$",
+      "C. $Pm(Z=61)$",
+      "D. $Ce(Z=58)$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$Eu (Z=63) \\rightarrow [Xe] 4f^{7} 6s^{2}$. After losing two electrons, $Eu^{2+} \\rightarrow [Xe] 4f^{7}$, which is a stable half-filled configuration.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following are chemical twins?",
+    "question_latex": "Which of the following are chemical twins?",
+    "question_images": [],
+    "options": [
+      "A. Tc and Re",
+      "B. Zr and Ta",
+      "C. Mo and Hf",
+      "D. Ta and W"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Technetium (Tc) and Rhenium (Re) both have an ionic size of 114 pm, making them chemical twins.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which from following elements is NOT regarded as transition element? [2025]",
+    "question_latex": "Which from following elements is NOT regarded as transition element? [2025]",
+    "question_images": [],
+    "options": [
+      "A. Ag",
+      "B. Zn",
+      "C. Pt",
+      "D. Au"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Transition elements have partially filled d-orbitals. Zn, Cd, and Hg have completely filled d-orbitals ($3d^{10}$) in their ground and common ionic states, hence they are not regarded as transition elements.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 5,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which from following properties of lanthanoids is NOT true? [MHT-CET 2024]",
+    "question_latex": "Which from following properties of lanthanoids is NOT true? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. These are soft metals.",
+      "B. These are strongly paramagnetic.",
+      "C. Coordination number is usually greater than six.",
+      "D. These are bad conductors of heat and electricity."
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Lanthanoids are actually good conductors of heat and electricity.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 6,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which from following cations develops lowest value of spin only magnetic moment? [2025]",
+    "question_latex": "Which from following cations develops lowest value of spin only magnetic moment? [2025]",
+    "question_images": [],
+    "options": [
+      "A. $V^{3+}$",
+      "B. $Cr^{3+}$",
+      "C. $Fe^{2+}$",
+      "D. $Mn^{2+}$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$V^{3+} \\rightarrow 4s^{0} 3d^{2}$ (2 unpaired electrons). $Cr^{3+} \\rightarrow 3d^{3}$ (3), $Mn^{2+} \\rightarrow 3d^{5}$ (5), $Fe^{2+} \\rightarrow 3d^{6}$ (4). Lower number of unpaired electrons leads to lower spin-only magnetic moment.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 7,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Among the lanthanide, the one obtained by synthetic method",
+    "question_latex": "Among the lanthanide, the one obtained by synthetic method",
+    "question_images": [],
+    "options": [
+      "A. Lu",
+      "B. Pm",
+      "C. Pr",
+      "D. No"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Promethium (Pm) is a radioactive element that does not occur naturally and is obtained synthetically.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 8,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which among the following lanthanoids, shows only +3 oxidation state? [MHT-CET 2020]",
+    "question_latex": "Which among the following lanthanoids, shows only +3 oxidation state? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. Cerium",
+      "B. Gadolinium",
+      "C. Terbium",
+      "D. Neodymium"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Gadolinium ($Gd$) has a stable half-filled $f$-subshell ($4f^{7}$) in its +3 oxidation state ($Gd \\rightarrow [Xe] 4f^{7} 5d^{1} 6s^{2}$).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 9,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which block elements from following are known as transition elements? [MHT-CET 2021]",
+    "question_latex": "Which block elements from following are known as transition elements? [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. d-block",
+      "B. s-block",
+      "C. p-block",
+      "D. f-block"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "The d-block elements are commonly known as transition elements.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 10,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The most stable oxidation states for Mo and W are respectively",
+    "question_latex": "The most stable oxidation states for Mo and W are respectively",
+    "question_images": [],
+    "options": [
+      "A. +6, +6",
+      "B. +6, +5",
+      "C. +3, +3",
+      "D. +3, +6"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "In the +6 oxidation state, both Mo and W achieve a stable configuration with empty $d$ and $s$ orbitals.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The ore chromite contains FeO and",
+    "question_latex": "The ore chromite contains FeO and",
+    "question_images": [],
+    "options": [
+      "A. $CrO_{3}$",
+      "B. $ZnCO_{3}$",
+      "C. $Cr_{2}O_{3}$",
+      "D. CrO"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Chromite ore is represented as $FeCr_{2}O_{4}$ or $FeO \\cdot Cr_{2}O_{3}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "What is the formula of pyrolusite ore? [MHT-CET 2020]",
+    "question_latex": "What is the formula of pyrolusite ore? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. $MnO_{2}$",
+      "B. $PbCrO_{4}$",
+      "C. $Cu_{2}O$",
+      "D. $Cr_{2}O_{3}$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Pyrolusite is a mineral consisting essentially of manganese dioxide ($MnO_{2}$).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following $M^{3+}$ is not a stable oxidation state?",
+    "question_latex": "Which of the following $M^{3+}$ is not a stable oxidation state?",
+    "question_images": [],
+    "options": [
+      "A. $Gd^{3+}$",
+      "B. $La^{3+}$",
+      "C. $Lu^{3+}$",
+      "D. $Eu^{3+}$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$Eu^{3+}$ is less stable compared to the others listed because Europium is more stable in the +2 state due to the $4f^{7}$ configuration.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Identify the element if it's expected electronic configuration is [Ar]3$d^{10}4s^{2}$. [MHT-CET 2020]",
+    "question_latex": "Identify the element if it's expected electronic configuration is [Ar]3$d^{10}4s^{2}$. [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. Cd",
+      "B. Co",
+      "C. Zn",
+      "D. Hg"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$[Ar]3d^{10}4s^{2}$ corresponds to atomic number $18 + 10 + 2 = 30$, which is Zinc ($Zn$).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following is not a property of transition elements?",
+    "question_latex": "Which of the following is not a property of transition elements?",
+    "question_images": [],
+    "options": [
+      "A. Formation of coloured complexes",
+      "B. Paramagnetism",
+      "C. Fixed valency",
+      "D. Catalytic activity"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Transition elements are characterized by variable oxidation states (variable valency), not fixed valency.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The oxidation state of Cr in $K_{2}Cr_{2}O_{7}$ is [MHT-CET 2012]",
+    "question_latex": "The oxidation state of Cr in $K_{2}Cr_{2}O_{7}$ is [MHT-CET 2012]",
+    "question_images": [],
+    "options": [
+      "A. +4",
+      "B. +3",
+      "C. +6",
+      "D. +5"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$2(+1) + 2x + 7(-2) = 0 \\rightarrow 2 + 2x - 14 = 0 \\rightarrow 2x = 12 \\rightarrow x = +6$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which catalyst from following is used for synthesis of gasoline by Fischer Tropsch process? [MHT-CET 2021: PCB]",
+    "question_latex": "Which catalyst from following is used for synthesis of gasoline by Fischer Tropsch process? [MHT-CET 2021: PCB]",
+    "question_images": [],
+    "options": [
+      "A. $MnO_{2}$",
+      "B. Platinized asbestos",
+      "C. Ni (finely divided)",
+      "D. Co-Th alloy"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Cobalt-Thorium alloy is the catalyst used in the Fischer-Tropsch process for gasoline synthesis.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "What is the number of electrons present in 3d orbital of $Ti^{2+}$?",
+    "question_latex": "What is the number of electrons present in 3d orbital of $Ti^{2+}$?",
+    "question_images": [],
+    "options": [
+      "A. Zero",
+      "B. One",
+      "C. Three",
+      "D. Two"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$Ti (Z=22) \\rightarrow [Ar] 4s^{2} 3d^{2}$. In $Ti^{2+}$, it loses two $4s$ electrons, leaving two electrons in the $3d$ orbital.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which from following elements exhibits oxidation states from +1 to +6? [MHT-CET 2020]",
+    "question_latex": "Which from following elements exhibits oxidation states from +1 to +6? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. $Mn(Z=25)$",
+      "B. $Cr(Z=24)$",
+      "C. $Fe(Z=26)$",
+      "D. $Cu(z=29)$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Chromium ($Cr$) has 6 valence electrons ($4s^{1} 3d^{5}$) and can show oxidation states ranging from +1 to +6.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The electronic configuration $4f^{0} 5d^{1} 6s^{2}$ represents",
+    "question_latex": "The electronic configuration $4f^{0} 5d^{1} 6s^{2}$ represents",
+    "question_images": [],
+    "options": [
+      "A. Actinium",
+      "B. Lanthanum",
+      "C. Cerium",
+      "D. Praseodymium"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Lanthanum (La) has the configuration $[Xe] 5d^{1} 6s^{2}$, which is represented as $4f^{0} 5d^{1} 6s^{2}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The yellow colour of chromates changes to orange on acidification due to the formation of",
+    "question_latex": "The yellow colour of chromates changes to orange on acidification due to the formation of",
+    "question_images": [],
+    "options": [
+      "A. $Cr^{3+}$",
+      "B. $Cr_{2}O_{3}$",
+      "C. $Cr_{2}O_{7}^{2-}$",
+      "D. $CrO_{4}^{2-}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In acidic conditions, chromate ions ($CrO_{4}^{2-}$) convert to dichromate ions ($Cr_{2}O_{7}^{2-}$), causing a color change from yellow to orange.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "An element belonging to lanthanide has at. no. 64, its electronic configuration is",
+    "question_latex": "An element belonging to lanthanide has at. no. 64, its electronic configuration is",
+    "question_images": [],
+    "options": [
+      "A. $4f^{7} 5d^{0} 6s^{2}$",
+      "B. $4f^{8} 5d^{0} 6s^{2}$",
+      "C. $4f^{7} 5d^{1} 6s^{2}$",
+      "D. $4f^{6} 5d^{2} 6s^{2}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Gadolinium ($Z=64$) has the configuration $[Xe] 4f^{7} 5d^{1} 6s^{2}$ to maintain a stable half-filled $f$-orbital.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following oxyacids of sulphur contain four $S=O$ bonds? [MHT-CET 2020]",
+    "question_latex": "Which of the following oxyacids of sulphur contain four $S=O$ bonds? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. $H_{2}SO_{4}$",
+      "B. $H_{2}S_{2}O_{4}$",
+      "C. $H_{2}S_{2}O_{6}$",
+      "D. $H_{2}SO_{5}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Dithionic acid ($H_{2}S_{2}O_{6}$) structure contains four $S=O$ bonds.",
+    "solution_images": ["q23_solution_1"],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "One of the following is diamagnetic",
+    "question_latex": "One of the following is diamagnetic",
+    "question_images": [],
+    "options": [
+      "A. Cu",
+      "B. $Cu^{+}$",
+      "C. $Cu^{2+}$",
+      "D. All of the above"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$Cu^{+} \\rightarrow [Ar] 3d^{10}$. Since all electrons are paired, it is diamagnetic.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Electronic configuration of manganese $(Z=25)$ is",
+    "question_latex": "Electronic configuration of manganese $(Z=25)$ is",
+    "question_images": [],
+    "options": [
+      "A. [Ar]3$d^{5} 4s^{2} 4p^{1}$",
+      "B. [Ar]3$d^{5} 4s^{1} 4p^{1}$",
+      "C. [Ar]3$d^{5} 4s^{2}$",
+      "D. [Ar]3$d^{6} 4s^{1}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The electronic configuration for Manganese ($Z=25$) is $[Ar] 3d^{5} 4s^{2}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which among the following elements do not have any electron in f -sub shell either in expected or in observed state electronic configuration? [MHT-CET 2022]",
+    "question_latex": "Which among the following elements do not have any electron in f -sub shell either in expected or in observed state electronic configuration? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. $La(Z=57)$ ",
+      "B. $Eu(Z=63)$ ",
+      "C. $Nd(Z=60)$ ",
+      "D. $Lu(Z=71)$ "
+    ],
+    "option_images": [],
+    "answer": "A. $La(Z=57)$",
+    "solution": "$La(Z=57) \\Rightarrow [Xe] 4f^{0} 5d^{1} 6s^{2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following elements has highest second ionization enthalpy? [MHT-CET 2019]",
+    "question_latex": "Which of the following elements has highest second ionization enthalpy? [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. $Cu_{(z=29)}$ ",
+      "B. $Zn_{(z=30)}$ ",
+      "C. $Co_{(z=27)}$ ",
+      "D. $Fe_{(z=26)}$ "
+    ],
+    "option_images": [],
+    "answer": "A. $Cu_{(z=29)}$",
+    "solution": "In Copper ($Cu$), after the loss of the first electron, the second electron must be removed from a completely filled $3d^{10}$ shell, which is highly stable, leading to a high second ionization enthalpy.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "In $Cr_{2}O_{7}^{2-}$ Cr-O-Cr bond angle is",
+    "question_latex": "In $Cr_{2}O_{7}^{2-}$ Cr-O-Cr bond angle is",
+    "question_images": [],
+    "options": [
+      "A. $109^{\\circ}$ ",
+      "B. $126^{\\circ}$ ",
+      "C. $180^{\\circ}$ ",
+      "D. $90^{\\circ}$ "
+    ],
+    "option_images": [],
+    "answer": "B. $126^{\\circ}$",
+    "solution": "The structure of the dichromate ion ($Cr_{2}O_{7}^{2-}$) has a bridging oxygen atom with a bond angle of approximately $126^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The mineral from which potassium permanganate is manufactured",
+    "question_latex": "The mineral from which potassium permanganate is manufactured",
+    "question_images": [],
+    "options": [
+      "A. Pyrolusite, $MnO_{2}$ ",
+      "B. Braunite, $Mn_{2}O_{3}$ ",
+      "C. Hausmannite, $Mn_{3}O_{4}$ ",
+      "D. Manganite, $Mn_{2}O_{3}.H_{2}O$ "
+    ],
+    "option_images": [],
+    "answer": "A. Pyrolusite, $MnO_{2}$",
+    "solution": "Potassium permanganate is industrially prepared from pyrolusite ore ($MnO_{2}$).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "$Mn^{7+}$ involves 2 and 5 electrons of",
+    "question_latex": "$Mn^{7+}$ involves 2 and 5 electrons of",
+    "question_images": [],
+    "options": [
+      "A. 3d, 4s ",
+      "B. 4s, 3d ",
+      "C. 4f, 3d ",
+      "D. 3d, 4f "
+    ],
+    "option_images": [],
+    "answer": "B. 4s, 3d",
+    "solution": "Manganese ($Mn$) has atomic number 25 $\\rightarrow [Ar] 3d^{5} 4s^{2}$. The formation of $Mn^{7+}$ involves the loss of 2 electrons from the $4s$ orbital and 5 electrons from the $3d$ orbital.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which among the following is an ore of iron? [MHT-CET]",
+    "question_latex": "Which among the following is an ore of iron? [MHT-CET]",
+    "question_images": [],
+    "options": [
+      "A. $FeS_{2}$ ",
+      "B. $Fe_{2}O_{3}$ ",
+      "C. $FeCO_{3}$ ",
+      "D. $Fe_{3}O_{4}$ "
+    ],
+    "option_images": [],
+    "answer": "B. $Fe_{2}O_{3}$",
+    "solution": "$Fe_{2}O_{3}$ (Haematite) is a major ore of iron.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The pair of element like $Zr-Hf, Nb-Ta$ and $Mo-W$ due to lanthanoide contraction",
+    "question_latex": "The pair of element like $Zr-Hf, Nb-Ta$ and $Mo-W$ due to lanthanoide contraction",
+    "question_images": [],
+    "options": [
+      "A. Having similarity in atomic and ionic size ",
+      "B. These are called chemical twins ",
+      "C. These elements have similar properties ",
+      "D. All of these "
+    ],
+    "option_images": [],
+    "answer": "D. All of these",
+    "solution": "Due to lanthanide contraction, these pairs of elements have nearly identical atomic/ionic radii and similar properties, leading them to be called chemical twins.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The point of dissimilarity between lanthanides and actinides is [MHT-CET 2008]",
+    "question_latex": "The point of dissimilarity between lanthanides and actinides is [MHT-CET 2008]",
+    "question_images": [],
+    "options": [
+      "A. three outermost shells are partially filled. ",
+      "B. they show oxidation state of +3 (common). ",
+      "C. they are called inner transition elements. ",
+      "D. they are radioactive in nature. "
+    ],
+    "option_images": [],
+    "answer": "D. they are radioactive in nature.",
+    "solution": "Except promethium, all lanthanides are non-radioactive, while all actinides are radioactive.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following statements is TRUE?",
+    "question_latex": "Which of the following statements is TRUE?",
+    "question_images": [],
+    "options": [
+      "A. $La(OH)_{3}$ is the least basic among hydroxides of lanthanides ",
+      "B. $Zr^{4+}$ and $Hf^{4+}$ posses almost the same ionic radii ",
+      "C. $Ce^{4+}$ can act as an oxidizing agent ",
+      "D. Lanthanoids are naturally available "
+    ],
+    "option_images": [],
+    "answer": "B. $Zr^{4+}$ and $Hf^{4+}$ posses almost the same ionic radii",
+    "solution": "$Zr^{4+}$ and $Hf^{4+}$ possess almost the same ionic radii due to lanthanide contraction. Note: $Ce^{4+}$ is also an oxidizing agent and $La(OH)_{3}$ is actually the most basic.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Transuranic elements are",
+    "question_latex": "Transuranic elements are",
+    "question_images": [],
+    "options": [
+      "A. Heavier than uranium ",
+      "B. Lighter than uranium ",
+      "C. Have lesser atomic number than uranium ",
+      "D. Have same atomic number as that of uranium "
+    ],
+    "option_images": [],
+    "answer": "A. Heavier than uranium",
+    "solution": "Transuranic elements are those with atomic numbers greater than that of uranium ($Z > 92$).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following elements do not show variable oxidation states? [MHT-CET 2019]",
+    "question_latex": "Which of the following elements do not show variable oxidation states? [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. Sc ",
+      "B. Fe ",
+      "C. Ni ",
+      "D. Zn "
+    ],
+    "option_images": [],
+    "answer": "D. Zn",
+    "solution": "Zinc ($Zn$) only shows a +2 oxidation state because its $3d^{10}$ shell is completely filled and highly stable.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Identify the pair of flux and the slag respectively in the extraction process of iron.",
+    "question_latex": "Identify the pair of flux and the slag respectively in the extraction process of iron.",
+    "question_images": [],
+    "options": [
+      "A. Lime stone and calcium silicate ",
+      "B. Calcium silicate and lime stone ",
+      "C. Sand and ferrous silicate ",
+      "D. Ferrous silicate and sand "
+    ],
+    "option_images": [],
+    "answer": "A. Lime stone and calcium silicate",
+    "solution": "In iron extraction, limestone ($CaCO_{3}$) acts as the flux, which reacts with silica impurity to form calcium silicate ($CaSiO_{3}$) slag.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Acidic $K_{2}Cr_{2}O_{7}$ Oxidises $SO_{2}$ to $K_{2}SO_{4}$ and itself reduced into",
+    "question_latex": "Acidic $K_{2}Cr_{2}O_{7}$ Oxidises $SO_{2}$ to $K_{2}SO_{4}$ and itself reduced into",
+    "question_images": [],
+    "options": [
+      "A. $Cr_{2}(SO_{4})_{3}$ ",
+      "B. $CrO_{3}$ ",
+      "C. $H_{2}CrO_{4}$ ",
+      "D. KOH "
+    ],
+    "option_images": [],
+    "answer": "A. $Cr_{2}(SO_{4})_{3}$",
+    "solution": "Acidic $K_{2}Cr_{2}O_{7}$ oxidizes $SO_{2}$ to $K_{2}SO_{4}$ and is itself reduced to chromic sulphate, $Cr_{2}(SO_{4})_{3}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "What is the correct order of basicity of hydroxide?",
+    "question_latex": "What is the correct order of basicity of hydroxide?",
+    "question_images": [],
+    "options": [
+      "A. $La(OH)_{3} < Nd(OH)_{3} < Tb(OH)_{3} < Lu(OH)_{3}$ ",
+      "B. $La(OH)_{3} < Lu(OH)_{3} < Nd(OH)_{3} < Tb(OH)_{3}$ ",
+      "C. $La(OH)_{3} > Lu(OH)_{3} > Nd(OH)_{3} > Tb(OH)_{3}$ ",
+      "D. $La(OH)_{3} > Nd(OH)_{3} > Tb(OH)_{3} > Lu(OH)_{3}$ "
+    ],
+    "option_images": [],
+    "answer": "D. $La(OH)_{3} > Nd(OH)_{3} > Tb(OH)_{3} > Lu(OH)_{3}$",
+    "solution": "Basicity of lanthanide hydroxides decreases from $La(OH)_{3}$ to $Lu(OH)_{3}$ due to the decrease in ionic size (lanthanide contraction).",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which from following is a mineral of copper? [MHT-CET 2024: PCB]",
+    "question_latex": "Which from following is a mineral of copper? [MHT-CET 2024: PCB]",
+    "question_images": [],
+    "options": [
+      "A. Zincite ",
+      "B. Siderite ",
+      "C. Chalcopyrite ",
+      "D. Magnetite "
+    ],
+    "option_images": [],
+    "answer": "C. Chalcopyrite",
+    "solution": "Chalcopyrite ($CuFeS_{2}$) is a mineral containing copper.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which from following elements has completely filled 4f orbital at expected ground state configuration? [MHT-CET 2024]",
+    "question_latex": "Which from following elements has completely filled 4f orbital at expected ground state configuration? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Cd ",
+      "B. Yb ",
+      "C. Eu ",
+      "D. W "
+    ],
+    "option_images": [],
+    "answer": "B. Yb",
+    "solution": "$Yb(Z=70) \\rightarrow [Xe] 4f^{14} 6s^{2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following belong to the actinide series?",
+    "question_latex": "Which of the following belong to the actinide series?",
+    "question_images": [],
+    "options": [
+      "A. U ",
+      "B. Y ",
+      "C. Lu ",
+      "D. Ta "
+    ],
+    "option_images": [],
+    "answer": "A. U",
+    "solution": "Uranium ($U$) is an actinide with atomic number 92.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which element from following has [Ar]3d³ 4s² electronic configuration in ground state? [MHT-CET 2024: PCB]",
+    "question_latex": "Which element from following has [Ar]3d³ 4s² electronic configuration in ground state? [MHT-CET 2024: PCB]",
+    "question_images": [],
+    "options": [
+      "A. Mn ",
+      "B. Cr ",
+      "C. V ",
+      "D. Co "
+    ],
+    "option_images": [],
+    "answer": "C. V",
+    "solution": "Vanadium ($V, Z=23$) has the electronic configuration $[Ar] 3d^{3} 4s^{2}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which from following elements belongs to the actinoids? [MHT-CET 2024]",
+    "question_latex": "Which from following elements belongs to the actinoids? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Tm ",
+      "B. Pm ",
+      "C. Cm ",
+      "D. Sm "
+    ],
+    "option_images": [],
+    "answer": "C. Cm",
+    "solution": "Curium ($Cm$) belongs to the actinide series.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which from following minerals is an ore of iron? [MHT-CET 2024: PCB]",
+    "question_latex": "Which from following minerals is an ore of iron? [MHT-CET 2024: PCB]",
+    "question_images": [],
+    "options": [
+      "A. Haematite ",
+      "B. Siderite ",
+      "C. Limonite ",
+      "D. Magnetite "
+    ],
+    "option_images": [],
+    "answer": "A. Haematite",
+    "solution": "Haematite is a primary ore of iron.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "What is the position of transition elements from Sc to Zn in long form of periodic table? [MHT-CET 2023]",
+    "question_latex": "What is the position of transition elements from Sc to Zn in long form of periodic table? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. Group 4 to 13, period-3 ",
+      "B. Group 3 to 12, period-5 ",
+      "C. Group 3 to 12, period-4 ",
+      "D. Group 5 to 14, period-4 "
+    ],
+    "option_images": [],
+    "answer": "C. Group 3 to 12, period-4",
+    "solution": "The first transition series (Sc to Zn) belongs to the 4th period and spans groups 3 to 12.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "When sulphur dioxide is passed in an acidified $K_{2}Cr_{2}O_{7}$ solution, the oxidation state of sulphur is changed from",
+    "question_latex": "When sulphur dioxide is passed in an acidified $K_{2}Cr_{2}O_{7}$ solution, the oxidation state of sulphur is changed from",
+    "question_images": [],
+    "options": [
+      "A. +4 to +6 ",
+      "B. +6 to +4 ",
+      "C. +4 to 0 ",
+      "D. +4 to +2 "
+    ],
+    "option_images": [],
+    "answer": "A. +4 to +6",
+    "solution": "$K_{2}Cr_{2}O_{7}$ oxidizes $SO_{2}$ (where $S$ is in +4 state) to $SO_{4}^{2-}$ (where $S$ is in +6 state).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which from following is NOT a transition element? [2025]",
+    "question_latex": "Which from following is NOT a transition element? [2025]",
+    "question_images": [],
+    "options": [
+      "A. Co ",
+      "B. Mo ",
+      "C. Ho ",
+      "D. Ti "
+    ],
+    "option_images": [],
+    "answer": "C. Ho",
+    "solution": "Holmium ($Ho$) is a lanthanide element, not a transition metal. Transition elements like $Co, Mo$, and $Ti$ have partially filled d-orbitals.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which element from following has different electronic configurations in expected and observed states due to extra stability? [MHT-CET 2024: PCB]",
+    "question_latex": "Which element from following has different electronic configurations in expected and observed states due to extra stability? [MHT-CET 2024: PCB]",
+    "question_images": [],
+    "options": [
+      "A. Sc ",
+      "B. Cd ",
+      "C. Zn ",
+      "D. Cr "
+    ],
+    "option_images": [],
+    "answer": "D. Cr",
+    "solution": "Expected E.C. of $Cr \\rightarrow [Ar] 4s^{2} 3d^{4}$; Observed E.C. of $Cr \\rightarrow [Ar] 4s^{1} 3d^{5}$ (Extra stable due to half-filled orbitals).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which element from following is hard as compared to others? [MHT-CET 2024: PCB]",
+    "question_latex": "Which element from following is hard as compared to others? [MHT-CET 2024: PCB]",
+    "question_images": [],
+    "options": [
+      "A. Cr ",
+      "B. Zn ",
+      "C. Cd ",
+      "D. Hg "
+    ],
+    "option_images": [],
+    "answer": "A. Cr",
+    "solution": "Transition elements are typically hard, but $Zn, Cd$, and $Hg$ are relatively soft. Thus, $Cr$ is hard compared to the others listed.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Oxidation state of Ce(58) with stable electronic configuration is",
+    "question_latex": "Oxidation state of $Ce(58)$ with stable electronic configuration is",
+    "question_images": [],
+    "options": ["A. +4", "B. +2", "C. +1", "D. +5"],
+    "option_images": [],
+    "answer": "A. +4",
+    "solution": "Cerium ($Ce$) achieves a stable noble gas configuration ($[Xe]4f^{0}$) by losing four electrons, resulting in a $+4$ oxidation state.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The highest oxidation state in plutonium (At. No=94) is [MHT-CET 2019]",
+    "question_latex": "The highest oxidation state in plutonium (At. $No=94$) is [MHT-CET 2019]",
+    "question_images": [],
+    "options": ["A. +7", "B. +6", "C. +5", "D. +4"],
+    "option_images": [],
+    "answer": "A. +7",
+    "solution": "$Pu$ exhibits a $+7$ oxidation state as its highest state.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The element with lowest melting and boiling point is",
+    "question_latex": "The element with lowest melting and boiling point is",
+    "question_images": [],
+    "options": ["A. Ti", "B. Cu", "C. Zn", "D. Mn"],
+    "option_images": [],
+    "answer": "C. Zn",
+    "solution": "Zinc ($Zn$) has a completely filled d-subshell ($3d^{10}$), which results in weak metallic bonding and consequently the lowest melting and boiling points among the given transition metals.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Identify lanthanoid element from following. [MHT-CET 2022: PCB]",
+    "question_latex": "Identify lanthanoid element from following. [MHT-CET 2022: PCB]",
+    "question_images": [],
+    "options": ["A. Neptunium", "B. Promethium", "C. Vanadium", "D. Thorium"],
+    "option_images": [],
+    "answer": "B. Promethium",
+    "solution": "(i) Promethium is a Lanthanoid element. (ii) Thorium and Neptunium are Actinoid elements. (iii) Vanadium is a 3d-series transition element.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Find the value of spin only magnetic moment for Zn2+ in BM. [2025]",
+    "question_latex": "Find the value of spin only magnetic moment for $Zn^{2+}$ in BM. [2025]",
+    "question_images": [],
+    "options": ["A. 1.73", "B. 2.84", "C. 0.0", "D. 3.87"],
+    "option_images": [],
+    "answer": "C. 0.0",
+    "solution": "$Zn^{2+}$: $[Ar]3d^{10} \\Rightarrow n=0$ (number of unpaired electrons). Spin-only magnetic moment, $\\mu = \\sqrt{n(n+2)} \\text{ BM} = \\sqrt{0(0+2)} = 0 \\text{ BM}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The last filled orbital in actinides in",
+    "question_latex": "The last filled orbital in actinides in",
+    "question_images": [],
+    "options": ["A. 6s", "B. 7s", "C. 5s", "D. 4s"],
+    "option_images": [],
+    "answer": "B. 7s",
+    "solution": "In the actinide series, the valence electrons occupy the $7s$ orbital while the differentiating electrons enter the $5f$ subshell.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following is NOT the mineral of iron? [MHT-CET 2019]",
+    "question_latex": "Which of the following is NOT the mineral of iron? [MHT-CET 2019]",
+    "question_images": [],
+    "options": ["A. Magnetite", "B. Limonite", "C. Haematite", "D. Corundum"],
+    "option_images": [],
+    "answer": "D. Corundum",
+    "solution": "Corundum is crystallized alumina ($Al_{2}O_{3}$), while Magnetite, Limonite, and Haematite are minerals/ores of iron.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which from following elements belongs to inner transition elements? [2025]",
+    "question_latex": "Which from following elements belongs to inner transition elements? [2025]",
+    "question_images": [],
+    "options": ["A. W", "B. Cm", "C. Mo", "D. Ru"],
+    "option_images": [],
+    "answer": "B. Cm",
+    "solution": "Curium ($Cm, Z=96$) is an inner transition element and belongs to the actinoid series.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which among the following elements possesses one electron in 4 s orbital in observed electronic configuration? [MHT-CET 2020]",
+    "question_latex": "Which among the following elements possesses one electron in $4s$ orbital in observed electronic configuration? [MHT-CET 2020]",
+    "question_images": [],
+    "options": ["A. Cu (Z=29)", "B. Ni (Z=28)", "C. V (Z=23)", "D. Mn (Z=25)"],
+    "option_images": [],
+    "answer": "A. Cu (Z=29)",
+    "solution": "The electronic configuration of Copper ($Cu, Z=29$) is $[Ar] 3d^{10} 4s^{1}$, which has one electron in the $4s$ orbital.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The number of d-electrons in Fe+2 ion is equal to that of",
+    "question_latex": "The number of d-electrons in $Fe^{+2}$ ion is equal to that of",
+    "question_images": [],
+    "options": ["A. d-electrons in Ni2+", "B. d-electrons in V2+", "C. d-electrons in Co3+", "D. d-electrons in Cr+"],
+    "option_images": [],
+    "answer": "C. d-electrons in Co3+",
+    "solution": "$Fe^{2+}$ has the configuration $[Ar]3d^{6}$ (6 d-electrons). $Co^{3+}$ has the configuration $[Ar]3d^{6}$ (6 d-electrons). Thus, they have the same number of d-electrons.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "What is the position of elements La(Z=57) and Ce(Z=58) respectively in the long form of periodic table? [MHT-CET 2020]",
+    "question_latex": "What is the position of elements $La(Z=57)$ and $Ce(Z=58)$ respectively in the long form of periodic table? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. La= Group-4, Period- 7 Ce = Group-5, Period -7",
+      "B. La = Group-3, Period- 6 Ce = Group-3, Period- 6",
+      "C. La= Group-3, Period-7 Ce= Group-3, Period-6",
+      "D. La= Group-3, Period-6 Ce= Group-3, Period-7"
+    ],
+    "option_images": [],
+    "answer": "B. La = Group-3, Period- 6 Ce = Group-3, Period- 6",
+    "solution": "Both Lanthanum ($La$) and Cerium ($Ce$) belong to Group 3 and Period 6 of the periodic table.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Manganate ion is ________ in nature",
+    "question_latex": "Manganate ion is ________ in nature",
+    "question_images": [],
+    "options": ["A. Diamagnetic", "B. Paramagnetic", "C. Ferromagnetic", "D. Ferrimagnetic"],
+    "option_images": [],
+    "answer": "B. Paramagnetic",
+    "solution": "The manganate ion ($MnO_{4}^{2-}$) has one unpaired electron ($3d^{1}$), making it paramagnetic.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which among the following hydrides have low bond dissociation energy of M-H bond (M= Central atom)? [MHT-CET 2020]",
+    "question_latex": "Which among the following hydrides have low bond dissociation energy of $M-H$ bond ($M=$ Central atom)? [MHT-CET 2020]",
+    "question_images": [],
+    "options": ["A. H2O", "B. H2Se", "C. H2S", "D. H2Te"],
+    "option_images": [],
+    "answer": "D. H2Te",
+    "solution": "The bond strength decreases as the size of the central atom increases ($O < S < Se < Te$). $H_{2}Te$ has the largest central atom and the weakest $M-H$ bond, requiring the lowest energy to dissociate.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which among the following is a correct representation of electronic configuration of lanthanoids? [MHT-CET 2023: PCB]",
+    "question_latex": "Which among the following is a correct representation of electronic configuration of lanthanoids? [MHT-CET 2023: PCB]",
+    "question_images": [],
+    "options": [
+      "A. $[Kr]4f^{0-14}5d^{1-2}6s^{2}$",
+      "B. $[Xe]5f^{1-14}6d^{0-2}7s^{2}$",
+      "C. $[Kr]4f^{0-14}5d^{0}6s^{2}$",
+      "D. $[Xe]4f^{0-14}5d^{0-2}6s^{2}$"
+    ],
+    "option_images": [],
+    "answer": "D. $[Xe]4f^{0-14}5d^{0-2}6s^{2}$",
+    "solution": "The general electronic configuration for lanthanoids is $[Xe]4f^{0-14}5d^{0-2}6s^{2}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which reaction from following occurs at 2000 K in the blast furnace for extraction of iron? [MHT-CET 2020]",
+    "question_latex": "Which reaction from following occurs at $2000 \\text{ K}$ in the blast furnace for extraction of iron? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. $CaCO_{3} \\rightarrow CaO + CO_{2}$",
+      "B. $CaO + SiO_{2} \\rightarrow CaSiO_{3}$",
+      "C. $2C + O_{2} \\rightarrow 2CO$",
+      "D. $Fe_{2}O_{3} + 3CO \\rightarrow 2Fe + 3CO_{2}$"
+    ],
+    "option_images": [],
+    "answer": "C. $2C + O_{2} \\rightarrow 2CO$",
+    "solution": "In the combustion zone of a blast furnace (around $2000 \\text{ K}$), coke reacts with oxygen to form carbon monoxide ($2C + O_{2} \\rightarrow 2CO$).",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following is weak reducing agent?",
+    "question_latex": "Which of the following is weak reducing agent?",
+    "question_images": [],
+    "options": ["A. Nickel", "B. Scandium", "C. Copper", "D. Titanium"],
+    "option_images": [],
+    "answer": "C. Copper",
+    "solution": "Copper is a weak reducing agent compared to the others listed because of its positive standard reduction potential.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following elements is doped with to obtain fiber amplifiers for optical fiber communication system? [MHT-CET 2023]",
+    "question_latex": "Which of the following elements is doped with to obtain fiber amplifiers for optical fiber communication system? [MHT-CET 2023]",
+    "question_images": [],
+    "options": ["A. Er", "B. La", "C. Cu", "D. Zn"],
+    "option_images": [],
+    "answer": "A. Er",
+    "solution": "Erbium ($Er$)-doped fiber amplifiers are significant in optical-fiber communication systems.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which element among the following lanthanoids has the smallest atomic radius?",
+    "question_latex": "Which element among the following lanthanoids has the smallest atomic radius?",
+    "question_images": [],
+    "options": ["A. Cerium", "B. Lutetium", "C. Europium", "D. Gadolinium"],
+    "option_images": [],
+    "answer": "B. Lutetium",
+    "solution": "Due to lanthanide contraction, the atomic radius decreases across the series from $Ce$ to $Lu$. Thus, Lutetium has the smallest atomic radius.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "In the first transition series the highest oxidation state is exhibited by",
+    "question_latex": "In the first transition series the highest oxidation state is exhibited by",
+    "question_images": [],
+    "options": ["A. Mn", "B. Ni", "C. Fe", "D. Cr"],
+    "option_images": [],
+    "answer": "A. Mn",
+    "solution": "Manganese ($Mn$) exhibits a maximum oxidation state of $+7$, which is the highest in the first transition ($3d$) series.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following statement is incorrect?",
+    "question_latex": "Which of the following statement is incorrect?",
+    "question_images": [],
+    "options": [
+      "A. Colour in Ni-DMG complex is due to d-d transition of electrons",
+      "B. In an aqueous solution the Fe2+ ion can readily be oxidized to the Fe3+ ion even by atmospheric O2",
+      "C. Fe2+ salts decolorize an acidified KMnO4 solution",
+      "D. Fe2+ salts turn acidified K2Cr2O7 green"
+    ],
+    "option_images": [],
+    "answer": "A. Colour in Ni-DMG complex is due to d-d transition of electrons",
+    "solution": "The colour in the $Ni$-DMG complex is actually due to charge transfer transitions, not $d-d$ transitions.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "+4 oxidation state is most important for",
+    "question_latex": "$+4$ oxidation state is most important for",
+    "question_images": [],
+    "options": ["A. Pa", "B. Np", "C. Cm", "D. Th"],
+    "option_images": [],
+    "answer": "D. Th",
+    "solution": "The $+4$ oxidation state is the most stable and important for Thorium ($Th$).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following is not an iron ore? [MHT-CET 2012]",
+    "question_latex": "Which of the following is not an iron ore? [MHT-CET 2012]",
+    "question_images": [],
+    "options": ["A. Malachite", "B. Haematite", "C. Siderite", "D. Limonite"],
+    "option_images": [],
+    "answer": "A. Malachite",
+    "solution": "Malachite ($CuCO_{3}\\cdot Cu(OH)_{2}$) is an ore of copper, whereas Haematite, Siderite, and Limonite are iron ores.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The main reason for more oxidation state of actinides than corresponding lanthanides",
+    "question_latex": "$\\text{Reason for more oxidation states in actinides than lanthanides is}$",
+    "question_images": [],
+    "options": [
+      "A. More energy difference between 4f and 5d",
+      "B. Less energy difference between 5f and 6d orbitals",
+      "C. Larger atomic size",
+      "D. More radioactive nature"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$5f$ and $6d$ orbitals are close in energy in actinides.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Transition metal exhibits oxidation state greater than +2 due to loss of",
+    "question_latex": "$\\text{Transition metals exhibit oxidation state greater than +2 due to loss of}$",
+    "question_images": [],
+    "options": [
+      "A. s-electrons",
+      "B. p-electrons",
+      "C. d-electrons",
+      "D. f-electrons"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$Loss of d-electrons$ leads to higher oxidation states.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The addition of acidic K2Cr2O7 to NaCl produces a colour",
+    "question_latex": "$\\text{The addition of acidic } K_2Cr_2O_7 \\text{ to } NaCl \\text{ produces colour}$",
+    "question_images": [],
+    "options": [
+      "A. Green",
+      "B. Pink",
+      "C. Red",
+      "D. Violet"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$Chromyl chloride (CrO_2Cl_2)$ of red colour is formed.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which from following lanthanoids exhibits +4 oxidation state in f7 configuration?",
+    "question_latex": "$\\text{Which lanthanoid exhibits } +4 \\text{ oxidation state in } f^7 \\text{ configuration?}$",
+    "question_images": [],
+    "options": [
+      "A. Ce",
+      "B. Tb",
+      "C. Dy",
+      "D. Eu"
+    ],
+    "option_images": [],
+    "answer": "B. Tb",
+    "solution": "$Tb^{4+}$ has $4f^7$ configuration which is especially stable.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The mineral of iron is",
+    "question_latex": "$\\text{The mineral of iron is}$",
+    "question_images": [],
+    "options": [
+      "A. Limonite",
+      "B. Cryolite",
+      "C. Calamine",
+      "D. Epsom salt"
+    ],
+    "option_images": [],
+    "answer": "A. Limonite",
+    "solution": "$Limonite$ is an ore of iron with formula $2Fe_2O_3 \\cdot 3H_2O$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Identify ferrous alloy from following",
+    "question_latex": "$\\text{Identify ferrous alloy from the following}$",
+    "question_images": [],
+    "options": [
+      "A. Nichrome",
+      "B. Cupra-nickel",
+      "C. Bronze",
+      "D. Nickel-steel"
+    ],
+    "option_images": [],
+    "answer": "D. Nickel-steel",
+    "solution": "$Nickel\\text{-}steel$ contains iron as major component, hence it is a ferrous alloy.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which one of the following represents the electronic configuration of 2nd transition element?",
+    "question_latex": "$\\text{Which represents the electronic configuration of the 2nd transition element?}$",
+    "question_images": [],
+    "options": [
+      "A. $4d^{10}5s^2$",
+      "B. $4d^{10}5s^0$",
+      "C. $4f^{14}5d^1 6s^2$",
+      "D. $5d^1 6s^2$"
+    ],
+    "option_images": [],
+    "answer": "D. $5d^1 6s^2$",
+    "solution": "The second transition element corresponds to Yttrium with configuration $4d^1 5s^2$ (generalised as $d^1 s^2$).",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The aqueous solutions of the following salts will be coloured in case of",
+    "question_latex": "$\\text{Aqueous solutions of which salts will be coloured?}$",
+    "question_images": [],
+    "options": [
+      "A. $Zn(NO_3)_2$",
+      "B. $Co(NO_3)_2$",
+      "C. $CrCl_3$",
+      "D. Both $Co(NO_3)_2$ and $CrCl_3$"
+    ],
+    "option_images": [],
+    "answer": "D. Both $Co(NO_3)_2$ and $CrCl_3$",
+    "solution": "$Co^{2+}$ and $Cr^{3+}$ have partially filled d-orbitals causing coloured solutions.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Samarium shows the oxidation state",
+    "question_latex": "$\\text{Samarium shows the oxidation state}$",
+    "question_images": [],
+    "options": [
+      "A. +3 and +4",
+      "B. +2, +3 and +4",
+      "C. +2 and +3",
+      "D. Only +3"
+    ],
+    "option_images": [],
+    "answer": "C. +2 and +3",
+    "solution": "$Sm$ commonly shows +2 and +3 oxidation states.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Identify the element from following having outer electronic configuration 3d5 4s1",
+    "question_latex": "$\\text{Identify the element with outer configuration } 3d^5 4s^1$",
+    "question_images": [],
+    "options": [
+      "A. Mn",
+      "B. Cu",
+      "C. Fe",
+      "D. Cr"
+    ],
+    "option_images": [],
+    "answer": "D. Cr",
+    "solution": "$Chromium$ exhibits exceptional configuration $[Ar]3d^5 4s^1$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following is chemical twins?",
+    "question_latex": "$\\text{Which of the following are chemical twins?}$",
+    "question_images": [],
+    "options": [
+      "A. Zr and Ta",
+      "B. Nb and W",
+      "C. Ta and Nb",
+      "D. Te and Os"
+    ],
+    "option_images": [],
+    "answer": "C. Ta and Nb",
+    "solution": "$Ta$ and $Nb$ have very similar atomic and ionic radii due to lanthanoid contraction.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "What is the position of copper in long form of periodic table?",
+    "question_latex": "$\\text{What is the position of copper in the long form of periodic table?}$",
+    "question_images": [],
+    "options": [
+      "A. Group 11, Period 4",
+      "B. Group 12, Period 4",
+      "C. Group 10, Period 4",
+      "D. Group 11, Period 5"
+    ],
+    "option_images": [],
+    "answer": "A. Group 11, Period 4",
+    "solution": "$Cu (Z=29)$ belongs to group 11 and period 4.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which from following catalyst is used in the Haber’s process for manufacture of ammonia?",
+    "question_latex": "$\\text{Which catalyst is used in Haber process for ammonia manufacture?}$",
+    "question_images": [],
+    "options": [
+      "A. Mo",
+      "B. Fe",
+      "C. Cr",
+      "D. MnO2"
+    ],
+    "option_images": [],
+    "answer": "B. Fe",
+    "solution": "$Finely$ divided $iron$ acts as catalyst in Haber process.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which among the following reactions is involved in the zone of combustion?",
+    "question_latex": "$\\text{Reaction involved in the zone of combustion is}$",
+    "question_images": [],
+    "options": [
+      "A. $Fe_2O_3 + 3CO \\rightarrow 2Fe + 3CO_2$",
+      "B. $CaCO_3 \\rightarrow CaO + CO_2$",
+      "C. $2C + O_2 \\rightarrow 2CO$",
+      "D. $CaO + SiO_2 \\rightarrow CaSiO_3$"
+    ],
+    "option_images": [],
+    "answer": "C. $2C + O_2 \\rightarrow 2CO$",
+    "solution": "Carbon burns in limited oxygen in combustion zone forming CO.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following is a non-ferrous alloy?",
+    "question_latex": "$\\text{Which of the following is a non-ferrous alloy?}$",
+    "question_images": [],
+    "options": [
+      "A. Chromium steel",
+      "B. Brass",
+      "C. Stainless steel",
+      "D. Nickel steel"
+    ],
+    "option_images": [],
+    "answer": "B. Brass",
+    "solution": "$Brass$ is an alloy of copper and zinc and does not contain iron.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "If Ln represents lanthanoid element find the general formula of lanthanoid hydroxide",
+    "question_latex": "$\\text{General formula of lanthanoid hydroxide is}$",
+    "question_images": [],
+    "options": [
+      "A. $Ln(OH)_2$",
+      "B. $Ln(OH)_3$",
+      "C. $Ln(OH)_4$",
+      "D. $LnOH$"
+    ],
+    "option_images": [],
+    "answer": "B. $Ln(OH)_3$",
+    "solution": "$Lanthanoids$ commonly exhibit +3 oxidation state.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The shape of $CrO_4^{2-}$ is and Cr atom involves hybridization",
+    "question_latex": "$\\text{The shape of } CrO_4^{2-} \\text{ and hybridization of Cr is}$",
+    "question_images": [],
+    "options": [
+      "A. Square planar, dsp2",
+      "B. Tetrahedral, sp3",
+      "C. Square planar, d2sp3",
+      "D. Linear, sp"
+    ],
+    "option_images": [],
+    "answer": "B. Tetrahedral, sp3",
+    "solution": "$CrO_4^{2-}$ has tetrahedral geometry with $sp^3$ hybridization.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Equivalent mass of KMnO4 in the following reaction is",
+    "question_latex": "$\\text{Equivalent mass of } KMnO_4 \\text{ in the given reaction is}$",
+    "question_images": [],
+    "options": [
+      "A. $M/2$",
+      "B. $M/3$",
+      "C. $M/4$",
+      "D. $M/5$"
+    ],
+    "option_images": [],
+    "answer": "D. $M/5$",
+    "solution": "Mn changes oxidation state from +7 to +2 (5 electrons), hence equivalent mass = $M/5$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Identify the element from following such that the last electron is placed in (n − 1)d orbital",
+    "question_latex": "$\\text{Element whose last electron enters } (n-1)d \\text{ orbital}$",
+    "question_images": [],
+    "options": [
+      "A. Ag",
+      "B. Pa",
+      "C. Dy",
+      "D. Pb"
+    ],
+    "option_images": [],
+    "answer": "A. Ag",
+    "solution": "$Silver$ is a d-block element where last electron enters $(n-1)d$ orbital.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which among the following reactions occurs at the zone of slag formation?",
+    "question_latex": "$\\text{Reaction occurring at zone of slag formation is}$",
+    "question_images": [],
+    "options": [
+      "A. $Fe_2O_3 + 3CO \\rightarrow 2Fe + 3CO_2$",
+      "B. $CaCO_3 \\rightarrow CaO + CO_2$",
+      "C. $CaO + SiO_2 \\rightarrow CaSiO_3$",
+      "D. $2C + O_2 \\rightarrow 2CO$"
+    ],
+    "option_images": [],
+    "answer": "C. $CaO + SiO_2 \\rightarrow CaSiO_3$",
+    "solution": "$Slag$ is calcium silicate formed in slag zone.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "First ionization energy of 5d elements are higher than those of 3d and 4d elements. This is due to",
+    "question_latex": "$\\text{Higher first ionization energy of 5d elements is due to}$",
+    "question_images": [],
+    "options": [
+      "A. Greater effective nuclear charge",
+      "B. Larger atomic size",
+      "C. Poor shielding by 4f orbitals",
+      "D. None is correct"
+    ],
+    "option_images": [],
+    "answer": "C. Poor shielding by 4f orbitals",
+    "solution": "$4f$ electrons shield poorly, increasing effective nuclear charge.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "What is the number of unpaired electrons present in Fe (Z = 26) in +3 state?",
+    "question_latex": "$\\text{Number of unpaired electrons in } Fe^{3+} \\text{ is}$",
+    "question_images": [],
+    "options": [
+      "A. 5",
+      "B. 3",
+      "C. 4",
+      "D. 2"
+    ],
+    "option_images": [],
+    "answer": "A. 5",
+    "solution": "$Fe^{3+}$ has configuration $3d^5$ with five unpaired electrons.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "What is the total number of electrons present in (n − 1)d and ns orbitals of an element present in 8th group?",
+    "question_latex": "$\\text{Total electrons in } (n-1)d \\text{ and } ns \\text{ orbitals in group 8 element}$",
+    "question_images": [],
+    "options": [
+      "A. 6",
+      "B. 8",
+      "C. 10",
+      "D. 12"
+    ],
+    "option_images": [],
+    "answer": "B. 8",
+    "solution": "$Fe$-group elements have configuration $(n-1)d^6 ns^2$, total = 8 electrons.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Toluene on reaction with alkaline KMnO4 gives",
+    "question_latex": "$\\text{Toluene on reaction with alkaline } KMnO_4 \\text{ gives}$",
+    "question_images": [],
+    "options": [
+      "A. $C_6H_5CHO$",
+      "B. $C_6H_5COOH$",
+      "C. $C_6H_5CH_2OH$",
+      "D. $C_6H_5COCH_3$"
+    ],
+    "option_images": [],
+    "answer": "B. $C_6H_5COOH$",
+    "solution": "$\\text{Alkaline } KMnO_4 \\text{ oxidises the side chain of toluene to benzoic acid.}$",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which of the following is more basic hydroxide?",
+    "question_latex": "$\\text{Which of the following is more basic hydroxide?}$",
+    "question_images": [],
+    "options": [
+      "A. $Sm(OH)_3$",
+      "B. $Yb(OH)_3$",
+      "C. $Ho(OH)_3$",
+      "D. $Lu(OH)_3$"
+    ],
+    "option_images": [],
+    "answer": "A. $Sm(OH)_3$",
+    "solution": "$\\text{Basicity of lanthanoid hydroxides decreases with decrease in ionic size due to lanthanoid contraction.}$",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "f-block elements are placed in",
+    "question_latex": "$\\text{f-block elements are placed in}$",
+    "question_images": [],
+    "options": [
+      "A. 2nd group, 4th row",
+      "B. 3rd group, 4th row",
+      "C. 3rd group, 6th and 7th row",
+      "D. 4th group, 5th row"
+    ],
+    "option_images": [],
+    "answer": "C. 3rd group, 6th and 7th row",
+    "solution": "$\\text{Lanthanoids and actinoids belong to f-block and are placed separately in 6th and 7th periods.}$",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "The correct order of ionic radii of the ions is",
+    "question_latex": "$\\text{Correct order of ionic radii is}$",
+    "question_images": [],
+    "options": [
+      "A. $La^{3+} < Eu^{3+} < Yb^{3+} < Lu^{3+}$",
+      "B. $Yb^{3+} < La^{3+} < Eu^{3+} < Lu^{3+}$",
+      "C. $Lu^{3+} < Yb^{3+} < Eu^{3+} < La^{3+}$",
+      "D. $Lu^{3+} < Eu^{3+} < Yb^{3+} < La^{3+}$"
+    ],
+    "option_images": [],
+    "answer": "C. $Lu^{3+} < Yb^{3+} < Eu^{3+} < La^{3+}$",
+    "solution": "$\\text{Ionic radii decrease across lanthanoids due to lanthanoid contraction.}$",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Transition and Inner Transition Elements",
+    "question": "Which among the following properties of lanthanoids is NOT true?",
+    "question_latex": "$\\text{Which property of lanthanoids is NOT true?}$",
+    "question_images": [],
+    "options": [
+      "A. Good conductors of heat and electricity",
+      "B. All are non-radioactive elements",
+      "C. Have greater coordination number than six",
+      "D. Strongly paramagnetic"
+    ],
+    "option_images": [],
+    "answer": "B. All are non-radioactive elements",
+    "solution": "$\\text{Promethium is radioactive; hence not all lanthanoids are non-radioactive.}$",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  }
+]
+
+

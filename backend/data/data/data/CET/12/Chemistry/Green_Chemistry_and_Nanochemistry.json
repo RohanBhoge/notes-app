@@ -1,0 +1,1904 @@
+[
+  {
+    "id": 1,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Identify the polymer used in making floor tiles. [MHT-CET 2021]",
+    "question_latex": "Identify the polymer used in making floor tiles. [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. PETE",
+      "B. PVC",
+      "C. HDPE",
+      "D. LDPE"
+    ],
+    "option_images": [],
+    "answer": "C. HDPE",
+    "solution": "High-density polyethylene (HDPE) is commonly used for manufacturing floor tiles due to its durability and chemical resistance.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "X-ray diffraction gives all the information regarding nanoparticles EXCEPT the.",
+    "question_latex": "X-ray diffraction gives all the information regarding nanoparticles EXCEPT the.",
+    "question_images": [],
+    "options": [
+      "A. particle size",
+      "B. crystal structure",
+      "C. binding nature",
+      "D. geometry"
+    ],
+    "option_images": [],
+    "answer": "C. binding nature",
+    "solution": "XRD provides information about crystal structure, particle size, and geometry; however, binding nature is typically analyzed using FTIR spectroscopy.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which from following formulae is a correct formula to determine percent atom economy? [MHT-CET 2021]",
+    "question_latex": "Which from following formulae is a correct formula to determine percent atom economy? [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. % Atom economy = Sum of formula weight of all reactants x 100",
+      "B. % Atom economy = (Formula weight of desired product / Sum of formula weight of all reactants) x 100",
+      "C. % Atom economy = (Sum of formula weight of all reactants / Formula weight of desired product) x 100",
+      "D. % Atom economy = Formula weight of product x 100"
+    ],
+    "option_images": [],
+    "answer": "B. % Atom economy = (Formula weight of desired product / Sum of formula weight of all reactants) x 100",
+    "question_images": [],
+    "solution": "$\\text{\\% Atom economy} = \\frac{\\text{Formula weight of desired product}}{\\text{Sum of formula weight of all reactants}} \\times 100$",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Identify the example of zero-dimensional nanostructure from following. [MHT-CET 2023]",
+    "question_latex": "Identify the example of zero-dimensional nanostructure from following. [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. Nanotubes",
+      "B. Quantum dots",
+      "C. Thin films",
+      "D. Fibres"
+    ],
+    "option_images": [],
+    "answer": "B. Quantum dots",
+    "solution": "Quantum dots are classified as zero-dimensional (0D) nanostructures because all three dimensions are at the nanoscale.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 5,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following can be categorised as two dimensional nanostructure?",
+    "question_latex": "Which of the following can be categorised as two dimensional nanostructure?",
+    "question_images": [],
+    "options": [
+      "A. Nanoparticles",
+      "B. Nanowires",
+      "C. Thin films",
+      "D. Nano rods"
+    ],
+    "option_images": [],
+    "answer": "C. Thin films",
+    "solution": "Thin films are two-dimensional nanostructures where only one dimension is at the nanoscale, while the other two are outside the nanoscale.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 6,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Calculate percentage atom economy when 46 g ethanol is obtained from 64.5 g chloroethane and 56 g KOH(aq). [2025]",
+    "question_latex": "Calculate percentage atom economy when $46\\text{ g}$ ethanol is obtained from $64.5\\text{ g}$ chloroethane and $56\\text{ g } KOH(aq)$. [2025]",
+    "question_images": [],
+    "options": [
+      "A. 50.25%",
+      "B. 64.17%",
+      "C. 38.17%",
+      "D. 25.25%"
+    ],
+    "option_images": [],
+    "answer": "C. 38.17%",
+    "solution": "$\\text{\\% atom economy} = \\frac{\\text{Formula weight of the desired product}}{\\text{Sum of formula weight of all the reactants}} \\times 100 = \\frac{46}{64.5 + 56} \\times 100 = \\frac{46}{120.5} \\times 100 = 38.17\\%$",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 7,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Green chemistry is an approach to chemistry that aims to.. and..on human health and environment.",
+    "question_latex": "Green chemistry is an approach to chemistry that aims to.. and..on human health and environment.",
+    "question_images": [],
+    "options": [
+      "A. maximize efficiency, maximize hazardous effects",
+      "B. maximize efficiency, minimize hazardous effects",
+      "C. minimize efficiency, minimize hazardous effects",
+      "D. minimize efficiency, maximize hazardous effects"
+    ],
+    "option_images": [],
+    "answer": "B. maximize efficiency, minimize hazardous effects",
+    "solution": "Green chemistry focuses on maximizing the efficiency of chemical processes while minimizing negative impacts on health and the environment.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 8,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "The size range of molecules of lipids and proteins is about........",
+    "question_latex": "The size range of molecules of lipids and proteins is about........",
+    "question_images": [],
+    "options": [
+      "A. 1 nm to 10 nm",
+      "B. 1 nm to 100 nm",
+      "C. 100 nm to 1000 nm",
+      "D. 0.1 nm to 100 nm"
+    ],
+    "option_images": [],
+    "answer": "A. 1 nm to 10 nm",
+    "solution": "Biological molecules like lipids and proteins typically fall in the size range of $1$ to $10\\text{ nm}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 9,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Identify the correct decreasing order of size of nanomaterial from following. [MHT-CET 2024]",
+    "question_latex": "Identify the correct decreasing order of size of nanomaterial from following. [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Cancer cell > Bacteria > Virus > Antibody",
+      "B. Virus > Bacteria > Cancer cell > Antibody",
+      "C. Bacteria > Virus > Antibody > Cancer cell",
+      "D. Antibody > Virus > Bacteria > Cancer cell"
+    ],
+    "option_images": [],
+    "answer": "A. Cancer cell > Bacteria > Virus > Antibody",
+    "solution": "The correct biological size hierarchy is: Cancer cell (approx $10-100\\text{ \\mu m}$) > Bacteria ($1-10\\text{ \\mu m}$) > Virus ($20-400\\text{ nm}$) > Antibody ($10\\text{ nm}$).",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 10,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Nanotechnology can be used in",
+    "question_latex": "Nanotechnology can be used in",
+    "question_images": [],
+    "options": [
+      "A. revolution in electronics and computing",
+      "B. energy sector",
+      "C. medical sector",
+      "D. all of these."
+    ],
+    "option_images": [],
+    "answer": "D. all of these.",
+    "solution": "Nanotechnology has broad applications across electronics, energy, medicine, and many other fields.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Nanoparticles can be used to make",
+    "question_latex": "Nanoparticles can be used to make",
+    "question_images": [],
+    "options": [
+      "A. scratchproof sunglasses",
+      "B. sunscreen",
+      "C. crack resistant materials",
+      "D. all of the above"
+    ],
+    "option_images": [],
+    "answer": "D. all of the above",
+    "solution": "Nanoparticles are utilized in scratch-resistant coatings for glasses, UV protection in sunscreens, and enhancing material durability.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following house hold plastic material is used to prepare drinking straws? [2025, 2021]",
+    "question_latex": "Which of the following house hold plastic material is used to prepare drinking straws? [2025, 2021]",
+    "question_images": [],
+    "options": [
+      "A. PS",
+      "B. PP",
+      "C. LDPE",
+      "D. PVC"
+    ],
+    "option_images": [],
+    "answer": "B. PP",
+    "solution": "Polypropylene (PP) is widely used for making drinking straws because of its flexibility and heat resistance.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following information is given by UV-visible spectroscopy?",
+    "question_latex": "Which of the following information is given by UV-visible spectroscopy?",
+    "question_images": [],
+    "options": [
+      "A. Absorption of functional groups",
+      "B. Preliminary confirmation of formation of nanoparticles",
+      "C. Morphology",
+      "D. Crystal structure"
+    ],
+    "option_images": [],
+    "answer": "B. Preliminary confirmation of formation of nanoparticles",
+    "solution": "UV-visible spectroscopy is used for the preliminary characterization and confirmation of nanoparticle formation by observing surface plasmon resonance.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following is nanostructured material?",
+    "question_latex": "Which of the following is nanostructured material?",
+    "question_images": [],
+    "options": [
+      "A. Carbon black",
+      "B. Charcoal",
+      "C. Zinc powder",
+      "D. All of these"
+    ],
+    "option_images": [],
+    "answer": "A. Carbon black",
+    "solution": "Carbon black is a nanostructured material commonly used as a reinforcing agent in tires.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "PVC (polyvinyl chloride) is used in",
+    "question_latex": "PVC (polyvinyl chloride) is used in",
+    "question_images": [],
+    "options": [
+      "A. brooms",
+      "B. mouth-wash bottles",
+      "C. shampoo bottles",
+      "D. envelopes"
+    ],
+    "option_images": [],
+    "answer": "B. mouth-wash bottles",
+    "solution": "PVC is used in the production of various containers, including mouth-wash bottles, due to its chemical resistance.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which from following techniques is used for preliminary confirmation of nanoparticles? [MHT-CET 2024]",
+    "question_latex": "Which from following techniques is used for preliminary confirmation of nanoparticles? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. X-ray diffraction",
+      "B. UV-visible spectroscopy",
+      "C. Scanning electron microscopy",
+      "D. Transmission electron microscopy"
+    ],
+    "option_images": [],
+    "answer": "B. UV-visible spectroscopy",
+    "solution": "UV-visible spectroscopy is the standard preliminary technique to confirm the synthesis of metal nanoparticles.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following nanostructured material is used in tyres of car to increase the life of tyre?",
+    "question_latex": "Which of the following nanostructured material is used in tyres of car to increase the life of tyre?",
+    "question_images": [],
+    "options": [
+      "A. Carbon black",
+      "B. Gold",
+      "C. Ruby",
+      "D. Fumed silica"
+    ],
+    "option_images": [],
+    "answer": "A. Carbon black",
+    "solution": "Carbon black particles enhance the mechanical properties and durability of rubber in automotive tires.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "In the manufacture of $H_2SO_4$ by contact process, the catalyst used is.........",
+    "question_latex": "In the manufacture of $H_{2}SO_{4}$ by contact process, the catalyst used is.........",
+    "question_images": [],
+    "options": [
+      "A. Nickel",
+      "B. Cobalt",
+      "C. Mo/Fe",
+      "D. Platinised asbestos"
+    ],
+    "option_images": [],
+    "answer": "D. Platinised asbestos",
+    "solution": "Platinised asbestos or $V_2O_5$ is used as a catalyst in the contact process for sulfuric acid production.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "To detect the binding nature of nanomaterial which of the following techniques need to be employed?",
+    "question_latex": "To detect the binding nature of nanomaterial which of the following techniques need to be employed?",
+    "question_images": [],
+    "options": [
+      "A. XRD",
+      "B. SEM",
+      "C. TEM",
+      "D. FTIR"
+    ],
+    "option_images": [],
+    "answer": "D. FTIR",
+    "solution": "FTIR (Fourier Transform Infrared Spectroscopy) is used to identify functional groups and detect the binding nature of capping agents on nanoparticles.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following is/are the role of green chemistry?",
+    "question_latex": "Which of the following is/are the role of green chemistry?",
+    "question_images": [],
+    "options": [
+      "A. Helps to protect the presence of ozone layer",
+      "B. To control green house effect, global warming",
+      "C. Helps to reduce capital expenditure",
+      "D. All of these"
+    ],
+    "option_images": [],
+    "answer": "D. All of these",
+    "solution": "Green chemistry aims to solve environmental issues like ozone depletion and global warming while improving industrial efficiency.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Thin films are the examples of",
+    "question_latex": "Thin films are the examples of",
+    "question_images": [],
+    "options": [
+      "A. zero-dimensional nano structure",
+      "B. one-dimensional nano structure",
+      "C. two-dimensional nano structure",
+      "D. three-dimensional nano structure"
+    ],
+    "option_images": [],
+    "answer": "C. two-dimensional nano structure",
+    "solution": "Thin films are 2D nanostructures where one dimension is nanometer-sized.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "All the following statements are CORRECT, EXCEPT:",
+    "question_latex": "All the following statements are CORRECT, EXCEPT:",
+    "question_images": [],
+    "options": [
+      "A. Nanoparticles of ZnO and TiO2 present in sunscreens protect the skin from harmful UV rays.",
+      "B. Nanoparticles can cause lung damage.",
+      "C. A zero dimensional structure is one in which all three dimensions are in the nanoscale.",
+      "D. One nanometer is one millionth of a meter."
+    ],
+    "option_images": [],
+    "answer": "D. One nanometer is one millionth of a meter.",
+    "solution": "One nanometer is $10^{-9}\\text{ m}$, which is one billionth of a meter, not one millionth.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Polypropylene (PP) is recycled to make",
+    "question_latex": "Polypropylene (PP) is recycled to make",
+    "question_images": [],
+    "options": [
+      "A. carpet, furniture",
+      "B. brooms, battery cables",
+      "C. floor tiles, envelopes",
+      "D. custom-made products"
+    ],
+    "option_images": [],
+    "answer": "B. brooms, battery cables",
+    "solution": "Recycled PP is commonly used for manufacturing heavy-duty items like battery cables and broom bristles.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Good atom economy means",
+    "question_latex": "Good atom economy means",
+    "question_images": [],
+    "options": [
+      "A. more waste",
+      "B. lesser waste",
+      "C. less useful products",
+      "D. less number of products"
+    ],
+    "option_images": [],
+    "answer": "B. lesser waste",
+    "solution": "A high atom economy indicates that most of the reactant mass is converted into the desired product, resulting in minimal waste.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Identify the principle suggesting to avoid protection and deprotection of selective group for organic reactions in green chemistry [2025]",
+    "question_latex": "Identify the principle suggesting to avoid protection and deprotection of selective group for organic reactions in green chemistry [2025]",
+    "question_images": [],
+    "options": [
+      "A. Designing safer chemicals",
+      "B. Reduce derivatives",
+      "C. Design for energy efficiency",
+      "D. Use of renewable feedstock"
+    ],
+    "option_images": [],
+    "answer": "B. Reduce derivatives",
+    "solution": "The principle of 'Reduce Derivatives' suggests avoiding unnecessary derivatization (like protecting groups) to improve atom economy and reduce waste.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Identify one dimensional nanostructure from following.",
+    "question_latex": "Identify~one\\text{-}dimensional~nanostructure~from~the~following.",
+    "question_images": [],
+    "options": [
+      "A. Nanoparticles",
+      "B. Nanowires",
+      "C. Thin films",
+      "D. Quantum dots"
+    ],
+    "option_images": [],
+    "answer": "B. Nanowires",
+    "solution": "Nanowires are one-dimensional nanostructures as their length is much greater than width.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which among the following compounds is used to prepare adipic acid using enzymes by Drath and Frost technology?",
+    "question_latex": "Which~compound~is~used~to~prepare~adipic~acid~using~enzymes~by~Drath~and~Frost~technology?",
+    "question_images": [],
+    "options": [
+      "A. Glucose",
+      "B. Benzene",
+      "C. Saccharic acid",
+      "D. Cellulose"
+    ],
+    "option_images": [],
+    "answer": "A. Glucose",
+    "solution": "In Drath and Frost technology, adipic acid is enzymatically synthesised from glucose.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which from following is an example of one dimensional nanostructure?",
+    "question_latex": "Which~of~the~following~is~an~example~of~one\\text{-}dimensional~nanostructure?",
+    "question_images": [],
+    "options": [
+      "A. Microparticles",
+      "B. Nanoshells",
+      "C. Nanorods",
+      "D. Nanorings"
+    ],
+    "option_images": [],
+    "answer": "C. Nanorods",
+    "solution": "Nanorods are one-dimensional nanostructures.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Identify sequential reactions involved in sol-gel process.",
+    "question_latex": "Identify~sequential~reactions~involved~in~sol\\text{-}gel~process.",
+    "question_images": [],
+    "options": [
+      "A. Polycondensation and hydrolysis",
+      "B. Oxidation and hydrolysis",
+      "C. Polycondensation and oxidation",
+      "D. Hydrolysis and polycondensation"
+    ],
+    "option_images": [],
+    "answer": "D. Hydrolysis and polycondensation",
+    "solution": "Sol-gel process involves hydrolysis followed by polycondensation.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Coccus are ____ shaped.",
+    "question_latex": "Coccus~are~\\_\\_\\_\\_~shaped.",
+    "question_images": [],
+    "options": [
+      "A. Spherical",
+      "B. Round",
+      "C. Rod shaped",
+      "D. Cylindrical shaped"
+    ],
+    "option_images": [],
+    "answer": "A. Spherical",
+    "solution": "Coccus bacteria are spherical in shape.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "In organic synthesis the use of protecting or blocking group ____ its atom economy.",
+    "question_latex": "In~organic~synthesis~the~use~of~protecting~or~blocking~group~\\_\\_\\_\\_~its~atom~economy.",
+    "question_images": [],
+    "options": [
+      "A. Increases",
+      "B. Decreases",
+      "C. Does not affect",
+      "D. None of the above"
+    ],
+    "option_images": [],
+    "answer": "B. Decreases",
+    "solution": "Protecting groups increase steps and waste, decreasing atom economy.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following is γ-isomer of BHC?",
+    "question_latex": "Which~of~the~following~is~\\gamma\\text{-}isomer~of~BHC?",
+    "question_images": [],
+    "options": [
+      "A. DDT",
+      "B. Chloroform",
+      "C. Chlorobenzene",
+      "D. Lindane"
+    ],
+    "option_images": [],
+    "answer": "D. Lindane",
+    "solution": "Lindane is the $\\gamma$-isomer of benzene hexachloride (BHC).",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Drath and Frost developed a green technology for the synthesis of adipic acid from",
+    "question_latex": "Drath~and~Frost~developed~a~green~technology~for~the~synthesis~of~adipic~acid~from",
+    "question_images": [],
+    "options": [
+      "A. Ribose",
+      "B. Glucose",
+      "C. Fructose",
+      "D. Sucrose"
+    ],
+    "option_images": [],
+    "answer": "B. Glucose",
+    "solution": "Adipic acid is synthesised from glucose using green enzymatic technology.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following is effectively used instead of DDT?",
+    "question_latex": "Which~of~the~following~is~effectively~used~instead~of~DDT?",
+    "question_images": [],
+    "options": [
+      "A. Pesticide",
+      "B. CH$_2$Cl$_2$",
+      "C. BHC",
+      "D. CHCl$_3$"
+    ],
+    "option_images": [],
+    "answer": "C. BHC",
+    "solution": "DDT insecticide has been replaced by BHC.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "The Nobel Prize in Chemistry in year 2005 was awarded for the work",
+    "question_latex": "The~Nobel~Prize~in~Chemistry~in~2005~was~awarded~for~the~work",
+    "question_images": [],
+    "options": [
+      "A. Concerning hazardous waste reduction",
+      "B. Concerning formation and deposition of ozone",
+      "C. Concerning recycling of CFCs",
+      "D. Concerning the development of metathesis method in organic chemistry"
+    ],
+    "option_images": [],
+    "answer": "D. Concerning the development of metathesis method in organic chemistry",
+    "solution": "Nobel Prize 2005 was awarded to Chauvin, Grubbs and Schrock for metathesis reactions.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "What is the advantage of nano-composite packaging?",
+    "question_latex": "What~is~the~advantage~of~nano\\text{-}composite~packaging?",
+    "question_images": [],
+    "options": [
+      "A. Lighter and biodegradable",
+      "B. Enhanced thermal stability, conductivity and mechanical strength",
+      "C. Gas barrier properties",
+      "D. All of these"
+    ],
+    "option_images": [],
+    "answer": "D. All of these",
+    "solution": "Nano-composites show multiple improved properties.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following solvents reduces environmental pollution?",
+    "question_latex": "Which~solvent~reduces~environmental~pollution?",
+    "question_images": [],
+    "options": [
+      "A. Trichloromethane",
+      "B. Tetrachloromethane",
+      "C. Water",
+      "D. Dichloromethane"
+    ],
+    "option_images": [],
+    "answer": "C. Water",
+    "solution": "Water is a green solvent and does not cause air pollution.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following pair of metals is used in hydrogenation reactions?",
+    "question_latex": "Which~pair~of~metals~is~used~in~hydrogenation~reactions?",
+    "question_images": [],
+    "options": [
+      "A. Pt and Pd",
+      "B. Au and Ag",
+      "C. Hg and Mg",
+      "D. Na and Cu"
+    ],
+    "option_images": [],
+    "answer": "A. Pt and Pd",
+    "solution": "Platinum and palladium are commonly used hydrogenation catalysts.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "What is the value of percent atom economy if total molar mass of reactants is 36 u and mass of product is 27 u?",
+    "question_latex": "\\%~Atom~economy~=~\\frac{27}{36}\\times100",
+    "question_images": [],
+    "options": [
+      "A. 75%",
+      "B. 50%",
+      "C. 45%",
+      "D. 25%"
+    ],
+    "option_images": [],
+    "answer": "A. 75%",
+    "solution": "$\\frac{27}{36}\\times100~=~75\\%$",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which among following solvents is considered as green solvent?",
+    "question_latex": "Which~among~the~following~solvents~is~considered~as~green~solvent?",
+    "question_images": [],
+    "options": [
+      "A. CHCl$_3$",
+      "B. Supercritical CO$_2$",
+      "C. C$_2$H$_2$Cl$_2$",
+      "D. CCl$_4$"
+    ],
+    "option_images": [],
+    "answer": "B. Supercritical CO$_2$",
+    "solution": "Supercritical CO$_2$ is considered a green solvent.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "ZWT in green chemistry stands for",
+    "question_latex": "ZWT~in~green~chemistry~stands~for",
+    "question_images": [],
+    "options": [
+      "A. Zero weight technology",
+      "B. Zero wood technology",
+      "C. Zero waste technology",
+      "D. None of the above"
+    ],
+    "option_images": [],
+    "answer": "C. Zero waste technology",
+    "solution": "ZWT refers to zero waste technology.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which from following nanomaterial has one dimension less than 100 nm?",
+    "question_latex": "Which~nanomaterial~has~one~dimension~less~than~100~nm?",
+    "question_images": [],
+    "options": [
+      "A. Microparticles",
+      "B. Thin films",
+      "C. Nanoparticles",
+      "D. Fibres"
+    ],
+    "option_images": [],
+    "answer": "B. Thin films",
+    "solution": "Thin films have one dimension in nanoscale.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "For the manufacture of HDPE, the catalyst used is",
+    "question_latex": "For~the~manufacture~of~HDPE,~the~catalyst~used~is",
+    "question_images": [],
+    "options": [
+      "A. Ziegler–Natta",
+      "B. Nickel",
+      "C. Platinised asbestos",
+      "D. Mo/Fe"
+    ],
+    "option_images": [],
+    "answer": "A. Ziegler–Natta",
+    "solution": "Ziegler–Natta catalyst is used for HDPE synthesis.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which among the following statements is NOT true according to principles of green chemistry?",
+    "question_latex": "Which~statement~is~NOT~true~according~to~principles~of~green~chemistry?",
+    "question_images": [],
+    "options": [
+      "A. Benzene being volatile compound pollutes air",
+      "B. Use of catalyst minimizes waste",
+      "C. Use renewable chemicals rather than crude oil",
+      "D. Carrying out reactions at high temperature and high pressure minimizes waste"
+    ],
+    "option_images": [],
+    "answer": "D. Carrying out reactions at high temperature and high pressure minimizes waste",
+    "solution": "High temperature and pressure increase energy consumption, against green chemistry.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "The development that meets the needs of present without compromising the ability of future generations to meet their own needs is known as",
+    "question_latex": "Development~that~meets~present~needs~without~compromising~future~needs~is~known~as",
+    "question_images": [],
+    "options": [
+      "A. Continuous development",
+      "B. Sustainable development",
+      "C. True development",
+      "D. Irrational development"
+    ],
+    "option_images": [],
+    "answer": "B. Sustainable development",
+    "solution": "This definition refers to sustainable development.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Invention of STM led to the discovery of",
+    "question_latex": "Invention~of~STM~led~to~the~discovery~of",
+    "question_images": [],
+    "options": [
+      "A. Scanning electron microscopy, fullerenes",
+      "B. Scanning tunneling microscopy, carbon nanotubes",
+      "C. Scanning tunneling microscopy, fullerenes",
+      "D. Scanning tunneling microscopy, silver nanoparticles"
+    ],
+    "option_images": [],
+    "answer": "C. Scanning tunneling microscopy, fullerenes",
+    "solution": "STM invention contributed to discovery of fullerenes.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Using green pathway, adipic acid is manufactured from",
+    "question_latex": "Using~green~pathway,~adipic~acid~is~manufactured~from",
+    "question_images": [],
+    "options": [
+      "A. Benzene",
+      "B. Aniline",
+      "C. Glucose",
+      "D. Phenol"
+    ],
+    "option_images": [],
+    "answer": "C. Glucose",
+    "solution": "Green pathway uses glucose as raw material.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Disposable cups and plates are made from",
+    "question_latex": "Disposable~cups~and~plates~are~made~from",
+    "question_images": [],
+    "options": [
+      "A. HDPE",
+      "B. Polyvinyl chloride",
+      "C. Polyethylene terephthalate",
+      "D. Polystyrene"
+    ],
+    "option_images": [],
+    "answer": "D. Polystyrene",
+    "solution": "Polystyrene is used for disposable cups and plates.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "What type of information is collected using scanning electron microscopy?",
+    "question_latex": "What~information~is~collected~using~scanning~electron~microscopy?",
+    "question_images": [],
+    "options": [
+      "A. Particle size",
+      "B. Crystal structure",
+      "C. Binding nature",
+      "D. Structure of material surface"
+    ],
+    "option_images": [],
+    "answer": "D. Structure of material surface",
+    "solution": "SEM provides surface morphology information.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "What type of reaction is sol-gel process?",
+    "question_latex": "Sol\\text{-}gel~process~is~based~on~which~type~of~reaction?",
+    "question_images": [],
+    "options": [
+      "A. Reduction",
+      "B. Peroxide formation",
+      "C. Polymerisation",
+      "D. Oxidation"
+    ],
+    "option_images": [],
+    "answer": "C. Polymerisation",
+    "solution": "Sol-gel process involves inorganic polymerisation reactions.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+
+  {
+    "id": 51,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Gelation process which occurs during the wet chemical synthesis of nanomaterials is the result of..",
+    "question_latex": "Gelation process which occurs during the wet chemical synthesis of nanomaterials is the result of..",
+    "question_images": [],
+    "options": [
+      "A. hydrolysis reaction",
+      "B. polycondensation reaction",
+      "C. drying",
+      "D. thermal decomposition"
+    ],
+    "option_images": [],
+    "answer": "B. polycondensation reaction",
+    "solution": "In the wet chemical synthesis (sol-gel process), the gelation process is a result of the polycondensation reaction where the 'sol' particles connect to form a three-dimensional network known as a 'gel'.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "What is value of percent atom economy when reactants having sum of formula weight 78 u results in formation of product with formula weight 65 u?",
+    "question_latex": "%~Atom~economy~=~\\frac{65}{78}\\times100",
+    "question_images": [],
+    "options": [
+      "A. 70%",
+      "B. 83%",
+      "C. 56%",
+      "D. 78%"
+    ],
+    "option_images": [],
+    "answer": "B. 83%",
+    "solution": "%~Atom~economy~=~\\frac{\\text{Formula weight of product}}{\\text{Sum of formula weights of reactants}}\\times100~=~\\frac{65}{78}\\times100~=~83\\%",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "What is percentage atom economy during conversion of reactant to product if formula weight of reactants is 246 u and of product is 123 u?",
+    "question_latex": "%~Atom~economy~=~\\frac{123}{246}\\times100",
+    "question_images": [],
+    "options": [
+      "A. 47%",
+      "B. 50%",
+      "C. 21.5%",
+      "D. 40%"
+    ],
+    "option_images": [],
+    "answer": "B. 50%",
+    "solution": "%~Atom~economy~=~\\frac{123}{246}\\times100~=~50\\%",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which from following chemical activities does NOT exhibit good atom economy according to the principles of green chemistry?",
+    "question_latex": "Which~chemical~activity~does~NOT~exhibit~good~atom~economy~according~to~green~chemistry?",
+    "question_images": ["q54_1"],
+    "options": [
+      "A. Addition reaction",
+      "B. Action of HX on alkene to form alkyl halide",
+      "C. Formation of Grignard reagent",
+      "D. Formation of cyclohexanol from phenol by catalytic hydrogenation"
+    ],
+    "option_images": [],
+    "answer": "C. Formation of Grignard reagent",
+    "solution": "Formation of Grignard reagent produces by-products and does not exhibit good atom economy.",
+    "solution_images": ["q54_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "The size of nanomaterials ranges between",
+    "question_latex": "The~size~of~nanomaterials~ranges~between",
+    "question_images": [],
+    "options": [
+      "A. 1 nm to 100 nm",
+      "B. 0.01 nm to 0.001 nm",
+      "C. 1 nm to 10 nm",
+      "D. 1 nm to 1000 nm"
+    ],
+    "option_images": [],
+    "answer": "A. 1 nm to 100 nm",
+    "solution": "Nanomaterials are defined as materials having size between $1$ and $100\\,nm$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which among the following statements is against the principles of green chemistry?",
+    "question_latex": "Which~statement~is~against~the~principles~of~green~chemistry?",
+    "question_images": [],
+    "options": [
+      "A. Protecting and deprotecting functional groups reduces number of steps",
+      "B. Use of renewable resources ensures the sharing of resources by future generations",
+      "C. Unnecessary derivatization should be minimized",
+      "D. Use of biodegradable polymers help to clean the environment"
+    ],
+    "option_images": [],
+    "answer": "A. Protecting and deprotecting functional groups reduces number of steps",
+    "solution": "Protecting and deprotecting increases steps and waste, hence against green chemistry.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Greeks and Romans has used nanoparticles in the manufacture of",
+    "question_latex": "Greeks~and~Romans~have~used~nanoparticles~in~the~manufacture~of",
+    "question_images": [],
+    "options": [
+      "A. Hair dye",
+      "B. Medicines",
+      "C. Metal articles",
+      "D. Cosmetics for eyes"
+    ],
+    "option_images": [],
+    "answer": "A. Hair dye",
+    "solution": "Nanoparticles were historically used in hair dyes by Greeks and Romans.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "The diameter of colloidal particles ranges between",
+    "question_latex": "The~diameter~of~colloidal~particles~ranges~between",
+    "question_images": [],
+    "options": [
+      "A. 1 nm to 10 nm",
+      "B. 1 nm to 100 nm",
+      "C. 100 nm to 1000 nm",
+      "D. 0.01 nm to 100 nm"
+    ],
+    "option_images": [],
+    "answer": "B. 1 nm to 100 nm",
+    "solution": "Colloidal particles generally fall in the nanometer range.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "DDT stands for",
+    "question_latex": "DDT~stands~for",
+    "question_images": [],
+    "options": [
+      "A. Dichlorodiphenyl toluene",
+      "B. Diphenyldichloromethane",
+      "C. Dichlorodiphenyl trichloroethane",
+      "D. None of the above"
+    ],
+    "option_images": [],
+    "answer": "C. Dichlorodiphenyl trichloroethane",
+    "solution": "DDT is dichlorodiphenyl trichloroethane.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Identify the use of polystyrene for household purposes",
+    "question_latex": "Identify~the~use~of~polystyrene~for~household~purposes",
+    "question_images": [],
+    "options": [
+      "A. To manufacture disposable cups and plates",
+      "B. To prepare bottles for storage of mouth wash",
+      "C. To prepare shopping bags",
+      "D. To prepare microwave food trays"
+    ],
+    "option_images": [],
+    "answer": "A. To manufacture disposable cups and plates",
+    "solution": "Polystyrene is commonly used to make disposable cups and plates.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "What type of information is collected using FTIR spectroscopy?",
+    "question_latex": "What~type~of~information~is~collected~using~FTIR~spectroscopy?",
+    "question_images": [],
+    "options": [
+      "A. Absorption of functional group",
+      "B. Morphology of nanomaterial",
+      "C. Particle size",
+      "D. Geometry of nanomaterial"
+    ],
+    "option_images": [],
+    "answer": "A. Absorption of functional group",
+    "solution": "FTIR spectroscopy identifies functional groups by absorption peaks.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Chemical synthesis should be designed to",
+    "question_latex": "Chemical~synthesis~should~be~designed~to",
+    "question_images": [],
+    "options": [
+      "A. Minimize the use of energy",
+      "B. Maximize the use of energy",
+      "C. Achieve the use of non-renewable materials",
+      "D. All of these"
+    ],
+    "option_images": [],
+    "answer": "A. Minimize the use of energy",
+    "solution": "Energy efficiency is a key principle of green chemistry.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Provides more number of reaction sites that leads to higher chemical reactivity of nanoparticles",
+    "question_latex": "Provides~more~reaction~sites~leading~to~higher~chemical~reactivity~of~nanoparticles",
+    "question_images": [],
+    "options": [
+      "A. Colour",
+      "B. High surface area to volume ratio",
+      "C. Thermal property",
+      "D. Electrical conductivity"
+    ],
+    "option_images": [],
+    "answer": "B. High surface area to volume ratio",
+    "solution": "Nanoparticles have very high surface area to volume ratio increasing reactivity.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Richard Feynman is often credited with predicting the potential of nanotechnology. What was the title of his famous speech?",
+    "question_latex": "Richard~Feynman’s~famous~lecture~on~nanotechnology~was~titled",
+    "question_images": [],
+    "options": [
+      "A. Bottoms up",
+      "B. There is a tiny room at the bottom",
+      "C. There is plenty of room at the bottom",
+      "D. Characteristic features of bottom"
+    ],
+    "option_images": [],
+    "answer": "C. There is plenty of room at the bottom",
+    "solution": "This lecture laid the foundation of nanotechnology.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Identify the instrument used to find crystal structure",
+    "question_latex": "Identify~the~instrument~used~to~find~crystal~structure",
+    "question_images": [],
+    "options": [
+      "A. Transmission electron microscope",
+      "B. Scanning electron microscope",
+      "C. X-ray diffractometer",
+      "D. UV-visible spectrophotometer"
+    ],
+    "option_images": [],
+    "answer": "C. X-ray diffractometer",
+    "solution": "XRD is used to determine crystal structure.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Identify the ratio that decides the higher reactivity of nanomaterials as catalyst",
+    "question_latex": "Identify~the~ratio~that~decides~higher~reactivity~of~nanomaterials~as~catalyst",
+    "question_images": [],
+    "options": [
+      "A. Volume to surface area",
+      "B. Volume to mass",
+      "C. Pressure to volume",
+      "D. Surface area to volume"
+    ],
+    "option_images": [],
+    "answer": "D. Surface area to volume",
+    "solution": "Higher surface area to volume ratio increases catalytic activity.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Fumed silica is a component of",
+    "question_latex": "Fumed~silica~is~a~component~of",
+    "question_images": [],
+    "options": [
+      "A. PVC",
+      "B. Terylene",
+      "C. SiO$_2$",
+      "D. Silicone rubber"
+    ],
+    "option_images": [],
+    "answer": "D. Silicone rubber",
+    "solution": "Fumed silica is used as reinforcing filler in silicone rubber.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Percent atom economy is given by the formula",
+    "question_latex": "\\%~Atom~economy~=~\\frac{\\text{Formula~weight~of~desired~product}}{\\text{Sum~of~formula~weights~of~all~reactants}}\\times100",
+    "question_images": [],
+    "options": [
+      "A. Formula weight of all reactants / formula weight of product",
+      "B. Formula weight of product / formula weight of all reactants",
+      "C. Formula weight of desired product / sum of formula weights of all reactants",
+      "D. All of the above"
+    ],
+    "option_images": [],
+    "answer": "C. Formula weight of desired product / sum of formula weights of all reactants",
+    "solution": "This expression defines atom economy in green chemistry.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Nanoparticles of ZnO and TiO$_2$ are also used in",
+    "question_latex": "Nanoparticles~of~ZnO~and~TiO_2~are~used~in",
+    "question_images": [],
+    "options": [
+      "A. Photocatalysis",
+      "B. Analysis",
+      "C. Separation techniques",
+      "D. Photosynthesis"
+    ],
+    "option_images": [],
+    "answer": "A. Photocatalysis",
+    "solution": "ZnO and TiO$_2$ nanoparticles act as photocatalysts.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following is used to prepare bottles for soft drinks?",
+    "question_latex": "Which~material~is~used~to~prepare~bottles~for~soft~drinks?",
+    "question_images": [],
+    "options": [
+      "A. HDPE",
+      "B. LDPE",
+      "C. Polystyrene",
+      "D. PETE"
+    ],
+    "option_images": [],
+    "answer": "D. PETE",
+    "solution": "PETE is widely used for soft drink bottles.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Planting more and more trees help to",
+    "question_latex": "Planting~more~trees~helps~to",
+    "question_images": [],
+    "options": [
+      "A. Reduce CO$_2$ in the air",
+      "B. Increase CO$_2$ in the air",
+      "C. Reduce O$_2$ in the air",
+      "D. Reduce CO$_2$ and increase O$_2$"
+    ],
+    "option_images": [],
+    "answer": "D. Reduce CO$_2$ and increase O$_2$",
+    "solution": "Plants absorb CO$_2$ and release O$_2$ during photosynthesis.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "The instrument used to observe the cells is",
+    "question_latex": "The~instrument~used~to~observe~cells~is",
+    "question_images": [],
+    "options": [
+      "A. Telescope",
+      "B. Microscope",
+      "C. Polarimeter",
+      "D. Stalagmometer"
+    ],
+    "option_images": [],
+    "answer": "B. Microscope",
+    "solution": "Cells are observed using a microscope.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which from following statements is NOT correct according to principles of green chemistry?",
+    "question_latex": "Which~statement~is~NOT~correct~according~to~principles~of~green~chemistry?",
+    "question_images": [],
+    "options": [
+      "A. Avoid formation of hazardous waste",
+      "B. Less weight of desired product and greater weight of sum of formula weights of reactants is favoured",
+      "C. Use of waste product of one system is raw material for other system",
+      "D. Use of microorganisms for organic synthesis"
+    ],
+    "option_images": [],
+    "answer": "B. Less weight of desired product and greater weight of sum of formula weights of reactants is favoured",
+    "solution": "Green chemistry favors maximum desired product and minimum waste.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following plastic material contains phthalates that interfere with hormonal development?",
+    "question_latex": "Which~plastic~contains~phthalates~that~interfere~with~hormonal~development?",
+    "question_images": [],
+    "options": [
+      "A. PETE",
+      "B. PP",
+      "C. PVC",
+      "D. PS"
+    ],
+    "option_images": [],
+    "answer": "C. PVC",
+    "solution": "PVC contains phthalates which can disrupt hormonal activity.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "LDPE (Low Density Polyethylene) is recycled to make",
+    "question_latex": "LDPE~(Low~Density~Polyethylene)~is~recycled~to~make",
+    "question_images": [],
+    "options": [
+      "A. Carpet",
+      "B. Grow lights",
+      "C. Floor tiles",
+      "D. Custom-made products"
+    ],
+    "option_images": [],
+    "answer": "D. Custom-made products",
+    "solution": "Recycled LDPE is commonly used to make custom-made plastic products.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Phenol + Cl$_2$ on UV light gives γ-isomer of 'Y'. 'Y' is called as",
+    "question_latex": "Phenol~+~Cl_2~\\xrightarrow{UV~light}~\\gamma\\text{-isomer~of}~Y",
+    "question_images": ["q76_1"],
+    "options": [
+      "A. Quinone",
+      "B. Lindane",
+      "C. Freon-12",
+      "D. Chlorobenzene"
+    ],
+    "option_images": [],
+    "answer": "B. Lindane",
+    "solution": "Chlorination under UV leads to formation of benzene hexachloride; its $\\gamma$-isomer is lindane.",
+    "solution_images": ["q76_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Prefix 'nano' comes from",
+    "question_latex": "Prefix~``nano''~comes~from",
+    "question_images": [],
+    "options": [
+      "A. Greek word meaning billion",
+      "B. Greek word meaning dwarf",
+      "C. Latin word meaning particles",
+      "D. Latin word meaning invisible"
+    ],
+    "option_images": [],
+    "answer": "B. Greek word meaning dwarf",
+    "solution": "The word nano originates from Greek meaning dwarf.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Identify the polymer used to obtain disposable cups and plates",
+    "question_latex": "Identify~the~polymer~used~to~obtain~disposable~cups~and~plates",
+    "question_images": [],
+    "options": [
+      "A. HDPE",
+      "B. Polystyrene",
+      "C. Polypropylene",
+      "D. LDPE"
+    ],
+    "option_images": [],
+    "answer": "B. Polystyrene",
+    "solution": "Polystyrene is widely used for disposable cups and plates.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "XRD stands for",
+    "question_latex": "XRD~stands~for",
+    "question_images": [],
+    "options": [
+      "A. UV-spectroscopy",
+      "B. X-ray diffraction",
+      "C. Scanning electron microscopy",
+      "D. Scanning tunneling microscopy"
+    ],
+    "option_images": [],
+    "answer": "B. X-ray diffraction",
+    "solution": "XRD refers to X-ray diffraction technique.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Identify the formula weight of product if percent atom economy is 30% and formula weight of reactants is 90 u",
+    "question_latex": "\\%~Atom~economy~=~\\frac{\\text{Formula~weight~of~product}}{\\text{Formula~weight~of~reactants}}\\times100",
+    "question_images": [],
+    "options": [
+      "A. 27 u",
+      "B. 35 u",
+      "C. 50 u",
+      "D. 19 u"
+    ],
+    "option_images": [],
+    "answer": "A. 27 u",
+    "solution": "$30~=~\\frac{x}{90}\\times100~\\Rightarrow~x~=~27~u$",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Carbon nanotubes are made up of ____ sheets with nano-sized diameter and they have strength",
+    "question_latex": "Carbon~nanotubes~are~made~up~of~\\_\\_\\_\\_~sheets~with~nano\\text{-}sized~diameter~and~they~have~\\_\\_\\_\\_~strength",
+    "question_images": [],
+    "options": [
+      "A. Silver, high",
+      "B. Graphite, high",
+      "C. Graphite, low",
+      "D. Gold, high"
+    ],
+    "option_images": [],
+    "answer": "B. Graphite, high",
+    "solution": "Carbon nanotubes are rolled graphene sheets derived from graphite and possess high strength.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following is the application of nanotechnology to food science and technology?",
+    "question_latex": "Which~of~the~following~is~the~application~of~nanotechnology~to~food~science~and~technology?",
+    "question_images": [],
+    "options": [
+      "A. Agriculture",
+      "B. Food safety and biosecurity",
+      "C. Product development",
+      "D. All of these"
+    ],
+    "option_images": [],
+    "answer": "D. All of these",
+    "solution": "Nanotechnology is applied in agriculture, food safety and product development.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "The green technology developed by Drath and Frost is used for synthesis of",
+    "question_latex": "Green~technology~developed~by~Drath~and~Frost~is~used~for~synthesis~of",
+    "question_images": [],
+    "options": [
+      "A. HOOC–(CH$_2$)$_4$–COOH",
+      "B. (CH$_2$)$_4$",
+      "C. HOOC–COOH",
+      "D. HOOC–CH$_2$–COOH"
+    ],
+    "option_images": [],
+    "answer": "A. HOOC–(CH$_2$)$_4$–COOH",
+    "solution": "Drath and Frost developed enzymatic synthesis of adipic acid.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Beautiful ruby red colour of some ancient glass paintings is due to ____ and ____ nanoparticles trapped in the glass matrix",
+    "question_latex": "Beautiful~ruby~red~colour~of~ancient~glass~paintings~is~due~to~\\_\\_\\_~and~\\_\\_\\_~nanoparticles",
+    "question_images": [],
+    "options": [
+      "A. Ag, Pt",
+      "B. Ag, Cu",
+      "C. Ag, Au",
+      "D. Au, Pt"
+    ],
+    "option_images": [],
+    "answer": "C. Ag, Au",
+    "solution": "Gold and silver nanoparticles impart ruby red colour to ancient glass.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Identify zero dimensional nanostructure from following",
+    "question_latex": "Identify~zero~dimensional~nanostructure~from~the~following",
+    "question_images": [],
+    "options": [
+      "A. Fibres",
+      "B. Thin films",
+      "C. Nanorods",
+      "D. Nanoparticles"
+    ],
+    "option_images": [],
+    "answer": "D. Nanoparticles",
+    "solution": "Nanoparticles are zero dimensional nanostructures.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Select the incorrect statement",
+    "question_latex": "Select~the~incorrect~statement",
+    "question_images": [],
+    "options": [
+      "A. TiO$_2$ and ZnO are used in photocatalysis",
+      "B. Due to optical property, if 100 gold atoms arranged in cube, its colour would be red",
+      "C. Nanoparticle catalyst can be easily separated and can be recycled",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "D. None of these",
+    "solution": "All given statements are correct.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Match the following",
+    "question_latex": "Match~the~following",
+    "question_images": ["q87_1"],
+    "options": [
+      "A. i–d, ii–a, iii–b, iv–c",
+      "B. i–b, ii–c, iii–d, iv–a",
+      "C. i–c, ii–a, iii–b, iv–d",
+      "D. i–c, ii–d, iii–b, iv–a"
+    ],
+    "option_images": [],
+    "answer": "C. i–c, ii–a, iii–b, iv–d",
+    "solution": "Correct matching based on applications of nanomaterials.",
+    "solution_images": ["q87_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which from following nanomaterial is smallest in size?",
+    "question_latex": "Which~nanomaterial~is~smallest~in~size?",
+    "question_images": [],
+    "options": [
+      "A. Bacteria",
+      "B. Antibody",
+      "C. Virus",
+      "D. Cancer cell"
+    ],
+    "option_images": [],
+    "answer": "B. Antibody",
+    "solution": "Antibodies are smaller than viruses, bacteria and cancer cells.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which solvent from following is used in order to avoid creation of waste and pollution of air?",
+    "question_latex": "Which~solvent~is~used~to~avoid~creation~of~waste~and~air~pollution?",
+    "question_images": [],
+    "options": [
+      "A. CCl$_4$",
+      "B. CHCl$_3$",
+      "C. H$_2$O",
+      "D. CH$_2$Cl$_2$"
+    ],
+    "option_images": [],
+    "answer": "C. H$_2$O",
+    "solution": "Water is the green solvent as it does not cause air pollution.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "The catalyst used in the hydrogenation of oils is",
+    "question_latex": "Catalyst~used~in~hydrogenation~of~oils~is",
+    "question_images": [],
+    "options": [
+      "A. Mo/Fe",
+      "B. Ziegler–Natta catalyst",
+      "C. Ni",
+      "D. Co–Th alloy"
+    ],
+    "option_images": [],
+    "answer": "C. Ni",
+    "solution": "Nickel is commonly used as catalyst for hydrogenation of oils.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "All the following statements are CORRECT, EXCEPT",
+    "question_latex": "All~the~following~statements~are~CORRECT,~EXCEPT",
+    "question_images": [],
+    "options": [
+      "A. Sols are colloidal dispersions involving bottom-up approach",
+      "B. In top-down approach nanomaterials are synthesized from bulk material",
+      "C. Sol-gel process is widely employed to prepare oxide materials",
+      "D. Nanomaterials are always synthesized by breaking the material"
+    ],
+    "option_images": [],
+    "answer": "D. Nanomaterials are always synthesized by breaking the material",
+    "solution": "Bottom-up approaches also exist; hence statement D is incorrect.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "What is the formula weight of reactants if formula weight of product is 35 u and percent atom economy is 40%?",
+    "question_latex": "\\%~Atom~economy~=~\\frac{35}{x}\\times100",
+    "question_images": [],
+    "options": [
+      "A. 87.5 u",
+      "B. 67.0 u",
+      "C. 75.0 u",
+      "D. 33.5 u"
+    ],
+    "option_images": [],
+    "answer": "A. 87.5 u",
+    "solution": "$40~=~\\frac{35}{x}\\times100~\\Rightarrow~x~=~87.5~u$",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "What is the percent atom economy when a product of mass 80 u is obtained from two different reactants having sum of formula weight 240 u?",
+    "question_latex": "\\%~Atom~economy~=~\\frac{80}{240}\\times100",
+    "question_images": [],
+    "options": [
+      "A. 33.33%",
+      "B. 25.5%",
+      "C. 48.0%",
+      "D. 20%"
+    ],
+    "option_images": [],
+    "answer": "A. 33.33%",
+    "solution": "$\\frac{80}{240}\\times100~=~33.33\\%$",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which from following nanoparticle catalyst is used in photocatalysis?",
+    "question_latex": "Which~nanoparticle~catalyst~is~used~in~photocatalysis?",
+    "question_images": [],
+    "options": [
+      "A. TiO$_2$",
+      "B. Co",
+      "C. Au",
+      "D. Pt"
+    ],
+    "option_images": [],
+    "answer": "A. TiO$_2$",
+    "solution": "TiO$_2$ nanoparticles are widely used in photocatalysis.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following is INCORRECT?",
+    "question_latex": "Which~of~the~following~is~INCORRECT?",
+    "question_images": [],
+    "options": [
+      "A. PET is recycled to make furniture",
+      "B. HDPE is recycled to make detergent bottles",
+      "C. Polystyrene is used in making disposable cups and plates",
+      "D. Polypropylene is used to make microwave food trays"
+    ],
+    "option_images": [],
+    "answer": "A. PET is recycled to make furniture",
+    "solution": "PET is commonly recycled to make fibres, not furniture.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Identify nanomaterial having all three dimensions in the nanoscale",
+    "question_latex": "Identify~nanomaterial~having~all~three~dimensions~in~the~nanoscale",
+    "question_images": [],
+    "options": [
+      "A. Nanowires",
+      "B. Quantum dots",
+      "C. Thin films",
+      "D. Fibres"
+    ],
+    "option_images": [],
+    "answer": "B. Quantum dots",
+    "solution": "Quantum dots are zero dimensional with all dimensions in nanoscale.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Salicylic acid + acetyl chloride in pyridine gives ____ + HCl",
+    "question_latex": "Salicylic~acid~+~Acetyl~chloride~\\xrightarrow{Pyridine}",
+    "question_images": ["q97_1"],
+    "options": [
+      "A. Aspirin",
+      "B. Phenol",
+      "C. Benzoic acid",
+      "D. Acetophenone"
+    ],
+    "option_images": [],
+    "answer": "A. Aspirin",
+    "solution": "Acetylation of salicylic acid forms acetylsalicylic acid (aspirin).",
+    "solution_images": ["q97_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "Which of the following information about nanoparticles can be obtained using UV-visible spectrophotometer?",
+    "question_latex": "Which~information~about~nanoparticles~is~obtained~using~UV\\text{-}visible~spectrophotometer?",
+    "question_images": [],
+    "options": [
+      "A. Preliminary confirmation of formation of nanoparticles",
+      "B. Crystal structure",
+      "C. Morphology",
+      "D. Binding nature"
+    ],
+    "option_images": [],
+    "answer": "A. Preliminary confirmation of formation of nanoparticles",
+    "solution": "UV-visible spectroscopy confirms nanoparticle formation via SPR bands.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "In a chemical reaction, sum of formula weight of all reactants is 274 u and atom economy is 50%. Calculate formula weight of desired product",
+    "question_latex": "\\%~Atom~economy~=~\\frac{\\text{Formula~weight~of~product}}{274}\\times100",
+    "question_images": [],
+    "options": [
+      "A. 137 u",
+      "B. 254 u",
+      "C. 167 u",
+      "D. 274 u"
+    ],
+    "option_images": [],
+    "answer": "A. 137 u",
+    "solution": "$50~=~\\frac{x}{274}\\times100~\\Rightarrow~x~=~137~u$",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Green Chemistry and Nanochemistry",
+    "question": "The concept of green chemistry was coined by",
+    "question_latex": "The~concept~of~green~chemistry~was~coined~by",
+    "question_images": [],
+    "options": [
+      "A. Paul Anastas",
+      "B. Norio Taniguchi",
+      "C. Born Haber",
+      "D. Richard Feynman"
+    ],
+    "option_images": [],
+    "answer": "A. Paul Anastas",
+    "solution": "Paul Anastas is known as the father of green chemistry.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  }
+]

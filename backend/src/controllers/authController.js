@@ -33,11 +33,6 @@ const s3Client = new S3Client({
   },
 });
 
-/**
- * Generates a signed URL for an S3 object.
- * @param {string} key - The S3 object key.
- * @returns {Promise<string>} - The signed URL.
- */
 const getObjectURL = async (key) => {
   const command = new GetObjectCommand({
     Bucket: process.env.AWS_BUCKET_NAME,
@@ -47,9 +42,6 @@ const getObjectURL = async (key) => {
   return url;
 };
 
-/**
- * Handles admin registration.
- */
 const register = async (req, res) => {
   try {
     const { email, password, full_name, watermark } = req.body;
@@ -123,9 +115,6 @@ const register = async (req, res) => {
   }
 };
 
-/**
- * Handles student registration.
- */
 const studentRegister = async (req, res) => {
   try {
     const {

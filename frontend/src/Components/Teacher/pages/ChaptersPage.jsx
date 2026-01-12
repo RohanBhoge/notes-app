@@ -31,30 +31,30 @@ function savePapersToService(arr) {
 const ChaptersPage = () => {
   const navigate = useNavigate();
   const {
-      selectedClass,
-      selectedExam,
-      selectedSubject,
-      chapters,
-      checkedChapters,
-      handleCheckboxChange,
-      mode,
-      numberOfQuestions,
-      setNumberOfQuestions,
-      setActiveSection,
-      setSelectedSubject,
-    } = useOutletContext();
+    selectedClass,
+    selectedExam,
+    selectedSubject,
+    chapters,
+    checkedChapters,
+    handleCheckboxChange,
+    mode,
+    numberOfQuestions,
+    setNumberOfQuestions,
+    setActiveSection,
+    setSelectedSubject,
+  } = useOutletContext();
 
   // 💡 Redirect if state is lost (e.g. on refresh)
   useEffect(() => {
     if (!selectedExam || !selectedClass || !selectedSubject) {
-        navigate("/teacher-dashboard/subjects", { replace: true });
+      navigate("/teacher-dashboard/subjects", { replace: true });
     }
   }, [selectedExam, selectedClass, selectedSubject, navigate]);
 
-  if (!selectedExam || !selectedClass || !(selectedSubject || showTemplate)) { 
-      // Allow render if showTemplate is true (though likely subject is needed)
-      // Actually simpler: if critical context is missing, don't render.
-      if (!selectedExam || !selectedClass || !selectedSubject) return null;
+  if (!selectedExam || !selectedClass || !(selectedSubject || showTemplate)) {
+    // Allow render if showTemplate is true (though likely subject is needed)
+    // Actually simpler: if critical context is missing, don't render.
+    if (!selectedExam || !selectedClass || !selectedSubject) return null;
   }
 
   // Initialize state using props
@@ -65,19 +65,19 @@ const ChaptersPage = () => {
 
   const [showTemplate, setShowTemplate] = useState(false);
   const [savedOnce, setSavedOnce] = useState(false);
-  const { 
-    setBackendPaperData, 
+  const {
+    setBackendPaperData,
     backendPaperData,
     examDate,
     setExamDate,
     examDuration,
     setExamDuration,
     setPaperData,
-    marks, 
+    marks,
   } = useContext(PaperContext);
 
   // const { paperData, setPaperData,marks,
-        // setMarks } = useContext(PaperContext);
+  // setMarks } = useContext(PaperContext);
   // const [backendPaperData, setBackendPaperData] = useState(null);
   const [isGenerating, setIsGenerating] = useState(false); // 💡 New loading state
   const { adminAuthToken, BackendUrl } = useContext(AuthContext);
@@ -95,12 +95,24 @@ const ChaptersPage = () => {
   let neetColumns = [];
 
   if (isNeetBiology) {
-    neetColumns = [
-      { header: "11th Zoology", chapters: chapters?.Zoology?.["11th"] || [] },
-      { header: "12th Zoology", chapters: chapters?.Zoology?.["12th"] || [] },
-      { header: "11th Botany", chapters: chapters?.Botany?.["11th"] || [] },
-      { header: "12th Botany", chapters: chapters?.Botany?.["12th"] || [] },
-    ];
+    if (selectedClass === "11th") {
+      neetColumns = [
+        { header: "11th Zoology", chapters: chapters?.Zoology?.["11th"] || [] },
+        { header: "11th Botany", chapters: chapters?.Botany?.["11th"] || [] },
+      ];
+    } else if (selectedClass === "12th") {
+      neetColumns = [
+        { header: "12th Zoology", chapters: chapters?.Zoology?.["12th"] || [] },
+        { header: "12th Botany", chapters: chapters?.Botany?.["12th"] || [] },
+      ];
+    } else {
+      neetColumns = [
+        { header: "11th Zoology", chapters: chapters?.Zoology?.["11th"] || [] },
+        { header: "12th Zoology", chapters: chapters?.Zoology?.["12th"] || [] },
+        { header: "11th Botany", chapters: chapters?.Botany?.["11th"] || [] },
+        { header: "12th Botany", chapters: chapters?.Botany?.["12th"] || [] },
+      ];
+    }
   } else if (isCombinedClass) {
     firstColChapters = chapters?.["11th"] || [];
     secondColChapters = chapters?.["12th"] || [];
@@ -108,11 +120,11 @@ const ChaptersPage = () => {
     secondColHeader = "Class 12th";
   } else {
     const allChaps =
-      chapters && chapters["11th"]
-        ? chapters["11th"]
+      chapters && chapters[selectedClass]
+        ? chapters[selectedClass]
         : Array.isArray(chapters)
-        ? chapters
-        : chapters || [];
+          ? chapters
+          : chapters || [];
     const mid = Math.ceil(allChaps.length / 2);
     firstColChapters = allChaps.slice(0, mid);
     secondColChapters = allChaps.slice(mid);
@@ -165,7 +177,7 @@ const ChaptersPage = () => {
       count: numberOfQuestions || 20,
       chapters: chaptersArray,
     };
-console.log("today_date", new Date().toISOString().split("T")[0]);
+    console.log("today_date", new Date().toISOString().split("T")[0]);
     // 2. Call Backend API
     let generatedData = null;
     try {
@@ -190,8 +202,7 @@ console.log("today_date", new Date().toISOString().split("T")[0]);
         error.response?.data || error.message
       );
       alert(
-        `Failed to generate paper: ${
-          error.response?.data?.message || "Check console for details."
+        `Failed to generate paper: ${error.response?.data?.message || "Check console for details."
         }`
       );
       setIsGenerating(false);
@@ -286,7 +297,7 @@ console.log("today_date", new Date().toISOString().split("T")[0]);
   const handleQuestionCountChange = (e) => {
     const value = e.target.value;
     setNumberOfQuestions(value);
-    
+
     setPaperData((prevData) => ({
       ...prevData,
       count: value,
@@ -424,7 +435,7 @@ console.log("today_date", new Date().toISOString().split("T")[0]);
         </>
       ) : (
         <GeneratedTemplate
-          className={className}   
+          className={className}
           examName={examName}
           subjectName={selectedSubject}
           examDate={examDate}

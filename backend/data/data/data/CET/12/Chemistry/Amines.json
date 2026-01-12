@@ -1,0 +1,1767 @@
+[
+  {
+    "id": 1,
+    "chapter": "Amines",
+    "question": "Identify the product obtained in the following reaction.",
+    "question_latex": "Identify~the~product~obtained~in~the~following~reaction.",
+    "question_images": ["q1_1"],
+    "options": ["A. o-Nitroaniline", "B. p-Nitroaniline", "C. o-Nitroaniline", "D. Phenol"],
+    "option_images": [],
+    "answer": "D. Phenol",
+    "solution": "Aniline undergoes diazotization to benzene diazonium chloride. On heating with water, diazonium salt hydrolyses to phenol with evolution of $N_2$ and $HCl$.",
+    "solution_images": ["q1_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Amines",
+    "question": "Which of the following compound is obtained on heating primary amine with chloroform and alcoholic potassium hydroxide?",
+    "question_latex": "Which~of~the~following~compound~is~obtained~on~heating~primary~amine~with~chloroform~and~alcoholic~potassium~hydroxide?",
+    "question_images": [],
+    "options": ["A. Amide", "B. Alkyl isocyanide", "C. Alkyl cyanide", "D. Alkene"],
+    "option_images": [],
+    "answer": "B. Alkyl isocyanide",
+    "solution": "Primary amines give carbylamine reaction with $CHCl_3$ and alcoholic $KOH$ to form isocyanides: $RNH_2 + CHCl_3 + 3KOH \\rightarrow RNC + 3KCl + 3H_2O$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Amines",
+    "question": "Benzenediazonium chloride on reaction with phenol in weakly basic medium gives",
+    "question_latex": "Benzenediazonium~chloride~on~reaction~with~phenol~in~weakly~basic~medium~gives",
+    "question_images": [],
+    "options": ["A. Diphenyl ether", "B. p-Hydroxyazobenzene", "C. Chlorobenzene", "D. Benzene"],
+    "option_images": [],
+    "answer": "B. p-Hydroxyazobenzene",
+    "solution": "Coupling of benzenediazonium chloride with phenol in weakly basic medium gives azo compound, mainly p-hydroxyazobenzene.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Amines",
+    "question": "Which one of the following is most basic?",
+    "question_latex": "Which~one~of~the~following~is~most~basic?",
+    "question_images": [],
+    "options": ["A. Aniline", "B. Benzylamine", "C. Diphenylamine", "D. Ethylamine"],
+    "option_images": [],
+    "answer": "B. Benzylamine",
+    "solution": "In benzylamine, the lone pair on nitrogen is not delocalized into the ring, making it more available for protonation compared to aniline.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+
+  {
+    "id": 5,
+    "chapter": "Amines",
+    "question": "Identify the amine that does not form alcohol by the action of NaNO2 and HCl.",
+    "question_latex": "Identify~the~amine~that~does~not~form~alcohol~by~the~action~of~NaNO_2~and~HCl.",
+    "question_images": [],
+    "options": ["A. $CH_3CH_2NH_2$", "B. $(CH_3)_2CHNH_2$", "C. $(CH_3)_2NH$", "D. $(CH_3)_3CNH_2$"],
+    "option_images": [],
+    "answer": "C. $(CH_3)_2NH$",
+    "solution": "Aliphatic primary amines form alcohols with $NaNO_2/HCl$. Secondary amines do not form alcohol.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+
+  {
+    "id": 6,
+    "chapter": "Amines",
+    "question": "The conversion C6H5NO2 to C6H5NHNH2 can be brought about by reduction with",
+    "question_latex": "The~conversion~$C_6H_5NO_2 \\rightarrow C_6H_5NHNH_2$~can~be~brought~about~by~reduction~with",
+    "question_images": [],
+    "options": ["A. Na/Alcohol", "B. Glucose/HCl", "C. Zn/NaOH", "D. LiAlH4/ether"],
+    "option_images": [],
+    "answer": "C. Zn/NaOH",
+    "solution": "Reduction of nitrobenzene with $Zn/NaOH$ gives hydrazo compounds.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+
+  {
+    "id": 7,
+    "chapter": "Amines",
+    "question": "In the following reactions, reactants A, B and C are",
+    "question_latex": "In~the~following~reactions,~reactants~A,~B~and~C~are",
+    "question_images": ["q7_1"],
+    "options": [
+      "A. $CH_3NH_2,~NH_2NH_2,~Pd/C$",
+      "B. $C_6H_5CH_2NH_2,~NH_2NH_2,~Pd/C$",
+      "C. $C_6H_5CH_2NH_2,~NH_2NH_2,~SOCl_2$",
+      "D. $CH_3CH_2NH_2,~NH_2NH_2,~NOCl$"
+    ],
+    "option_images": [],
+    "answer": "C. $C_6H_5CH_2NH_2,~NH_2NH_2,~SOCl_2$",
+    "solution": "The reaction sequence corresponds to benzylamine → hydrazine derivative → substitution using $SOCl_2$.",
+    "solution_images": ["q7_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+
+  {
+    "id": 8,
+    "chapter": "Amines",
+    "question": "Identify reagent Z in the following reaction.",
+    "question_latex": "$C_6H_5N_2^+Cl^- \\xrightarrow{Z} C_6H_5OH + N_2 + HCl$",
+    "question_images": [],
+    "options": ["A. CuCl/HCl", "B. H2O", "C. Cu/HBr", "D. CuCN"],
+    "option_images": [],
+    "answer": "B. H2O",
+    "solution": "Hydrolysis of benzene diazonium chloride with water gives phenol.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+
+  {
+    "id": 9,
+    "chapter": "Amines",
+    "question": "Identify the reagent R used in the reaction: Benzenediazonium chloride + R → Benzene",
+    "question_latex": "Identify~the~reagent~R~used~in~the~reaction:~Benzenediazonium~chloride~+~R~\\rightarrow~Benzene",
+    "question_images": [],
+    "options": ["A. HCl", "B. $H_3PO_2/H_2O$", "C. $H_3PO_3/H_2O$", "D. $CH_3CH_2OH$"],
+    "option_images": [],
+    "answer": "B. $H_3PO_2/H_2O$",
+    "solution": "Hypophosphorous acid reduces diazonium salt to benzene.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+
+  {
+    "id": 10,
+    "chapter": "Amines",
+    "question": "Phenyl cyanide cannot be obtained by",
+    "question_latex": "Phenyl~cyanide~cannot~be~obtained~by",
+    "question_images": [],
+    "options": [
+      "A. $C_6H_5CONH_2 \\xrightarrow{P_2O_5}$",
+      "B. $C_6H_5CH=NOH \\xrightarrow{P_2O_5}$",
+      "C. $C_6H_5Cl \\xrightarrow{alc.~KCN}$",
+      "D. $C_6H_5NH_2 \\xrightarrow{NaNO_2/HCl}$"
+    ],
+    "option_images": [],
+    "answer": "D. $C_6H_5NH_2 \\xrightarrow{NaNO_2/HCl}$",
+    "solution": "Diazotization of aniline does not give cyanide directly.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Amines",
+    "question": "Identify compound B in the following series of reactions.",
+    "question_latex": "Identify~compound~B~in~the~following~series~of~reactions.",
+    "question_images": [],
+    "options": ["A. Nitroethane", "B. Ethyl chloride", "C. Ethylamine", "D. Ethyl alcohol"],
+    "option_images": [],
+    "answer": "C. Ethylamine",
+    "solution": "Reduction of acetonitrile with $Na/alcohol$ gives ethylamine.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Amines",
+    "question": "An aliphatic nitro compound gives red colour with NaOH which disappears with excess NaNO2 and reappears with acid. The compound is",
+    "question_latex": "An~aliphatic~nitro~compound~gives~red~colour~with~NaOH~which~disappears~with~excess~NaNO_2~and~reappears~with~acid.~The~compound~is",
+    "question_images": [],
+    "options": ["A. Nitroethane", "B. 1-nitropropane", "C. 2-nitropropane", "D. Nitrobenzene"],
+    "option_images": [],
+    "answer": "C. 2-nitropropane",
+    "solution": "Secondary nitroalkanes form red nitrolic acid salts with NaOH showing this behaviour.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Amines",
+    "question": "Which of the following compounds is obtained when quaternary ammonium hydroxide is strongly heated?",
+    "question_latex": "Which~of~the~following~compounds~is~obtained~when~quaternary~ammonium~hydroxide~is~strongly~heated?",
+    "question_images": [],
+    "options": ["A. Alkene", "B. Amine", "C. Alcohol", "D. Alkane"],
+    "option_images": [],
+    "answer": "A. Alkene",
+    "solution": "Quaternary ammonium hydroxides undergo Hofmann elimination to give alkenes.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Amines",
+    "question": "Which among the following reagents is called Hinsberg's reagent?",
+    "question_latex": "Which~among~the~following~reagents~is~called~Hinsberg's~reagent?",
+    "question_images": [],
+    "options": ["A. Hydrazine", "B. Benzenesulphonyl chloride", "C. Sodium nitroprusside", "D. Chromyl chloride"],
+    "option_images": [],
+    "answer": "B. Benzenesulphonyl chloride",
+    "solution": "Hinsberg's reagent is benzenesulphonyl chloride used to distinguish amines.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Amines",
+    "question": "Which from following compounds is most soluble in water at normal temperature?",
+    "question_latex": "Which~from~following~compounds~is~most~soluble~in~water~at~normal~temperature?",
+    "question_images": [],
+    "options": ["A. Isopropanol", "B. Ethane", "C. Ethanamine", "D. Ethanol"],
+    "option_images": [],
+    "answer": "D. Ethanol",
+    "solution": "Ethanol forms strong hydrogen bonds with water, making it highly soluble.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Amines",
+    "question": "Which of the following amine does not undergo acetylation reaction?",
+    "question_latex": "Which~of~the~following~amine~does~not~undergo~acetylation~reaction?",
+    "question_images": [],
+    "options": ["A. n-Butylamine", "B. Cyclohexylamine", "C. N,N-dimethylaniline", "D. p-Bromoaniline"],
+    "option_images": [],
+    "answer": "C. N,N-dimethylaniline",
+    "solution": "Tertiary amines do not undergo acetylation due to absence of N–H bond.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Amines",
+    "question": "Which of the following compounds will form alcohol on treatment with NaNO2/HCl at 0°C?",
+    "question_latex": "Which~of~the~following~compounds~will~form~alcohol~on~treatment~with~NaNO_2/HCl~at~$0^{\\circ}C$?",
+    "question_images": [],
+    "options": ["A. $(CH_3)_2CHNH_2$", "B. $(C_6H_5)NH_2$", "C. $(CH_3)_3CNH_2$", "D. $NH_2NH_2$"],
+    "option_images": [],
+    "answer": "A. $(CH_3)_2CHNH_2$",
+    "solution": "Primary aliphatic amines give alcohols with nitrous acid.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Amines",
+    "question": "Hofmann bromamide reaction is used to prepare",
+    "question_latex": "Hofmann~bromamide~reaction~is~used~to~prepare",
+    "question_images": [],
+    "options": ["A. 1° amine", "B. 2° amine", "C. 3° amine", "D. All of these"],
+    "option_images": [],
+    "answer": "A. 1° amine",
+    "solution": "Hofmann bromamide reaction converts amides into primary amines with one carbon less.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Amines",
+    "question": "How many moles of ethyl bromide are required for formation of 1 mole N,N-diethylethanamine?",
+    "question_latex": "How~many~moles~of~ethyl~bromide~are~required~for~formation~of~1~mole~$N,N$-diethylethanamine?",
+    "question_images": [],
+    "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+    "option_images": [],
+    "answer": "B. 2",
+    "solution": "Two moles of ethyl bromide are required for dialkylation of ethanamine.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Amines",
+    "question": "Aniline reacts with Br2 water and the resulting product is treated with NaNO2/HCl followed by heating. The final product is",
+    "question_latex": "Aniline~reacts~with~$Br_2$~water~and~the~resulting~product~is~treated~with~NaNO_2/HCl~followed~by~heating.~The~final~product~is",
+    "question_images": [],
+    "options": [
+      "A. p-bromofluorobenzene",
+      "B. p-bromoaniline",
+      "C. 2,4,6-tribromofluorobenzene",
+      "D. 1,3,5-tribromobenzene"
+    ],
+    "option_images": [],
+    "answer": "D. 1,3,5-tribromobenzene",
+    "solution": "Aniline gives 2,4,6-tribromoaniline which on diazotization and heating gives 1,3,5-tribromobenzene.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Amines",
+    "question": "Which compound is known as alkyl carbylamines?",
+    "question_latex": "Which~compound~is~known~as~alkyl~carbylamines?",
+    "question_images": [],
+    "options": ["A. RCN", "B. RNC", "C. ArCN", "D. ArNC"],
+    "option_images": [],
+    "answer": "B. RNC",
+    "solution": "Isocyanides ($RNC$) are called alkyl carbylamines.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Amines",
+    "question": "Identify product B in the following reaction.",
+    "question_latex": "$CH_3Br + AgNO_2 \\rightarrow A \\xrightarrow{Sn/HCl} B$",
+    "question_images": [],
+    "options": ["A. $CH_3Cl$", "B. $CH_3NO_2$", "C. $CH_3NH_2$", "D. $CH_3OH$"],
+    "option_images": [],
+    "answer": "C. $CH_3NH_2$",
+    "solution": "Nitromethane formed is reduced with $Sn/HCl$ to give methylamine.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Amines",
+    "question": "Reaction of benzaldehyde with methylamine gives",
+    "question_latex": "Reaction~of~benzaldehyde~with~methylamine~gives",
+    "question_images": [],
+    "options": ["A. Schiff base", "B. Aldol", "C. Oxime", "D. Amide"],
+    "option_images": [],
+    "answer": "A. Schiff base",
+    "solution": "Aldehydes react with primary amines to give Schiff bases (imines).",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Amines",
+    "question": "Which among the following compounds has lowest boiling point?",
+    "question_latex": "Which~among~the~following~compounds~has~lowest~boiling~point?",
+    "question_images": [],
+    "options": ["A. $C_2H_5OH$", "B. $(C_2H_5)_2NH$", "C. $C_2H_5COOH$", "D. $(CH_3)_3N$"],
+    "option_images": [],
+    "answer": "D. $(CH_3)_3N$",
+    "solution": "Trimethylamine lacks hydrogen bonding, hence lowest boiling point.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Amines",
+    "question": "Which positions are activated for coupling reaction in acidic and basic media respectively for p-amino phenol?",
+    "question_latex": "Which~positions~are~activated~for~coupling~reaction~in~acidic~and~basic~media~respectively~for~$p$-aminophenol?",
+    "question_images": ["q25_1"],
+    "options": ["A. x in A and y in B", "B. x in B and y in A", "C. x in A and x in B", "D. y in A and y in B"],
+    "option_images": [],
+    "answer": "B. x in B and y in A",
+    "solution": "Activation positions differ due to protonation/deprotonation in acidic and basic media.",
+    "solution_images": ["q25_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Amines",
+    "question": "Which among the following compounds is a weakest base?",
+    "question_latex": "Which~among~the~following~compounds~is~a~weakest~base?",
+    "question_images": [],
+    "options": ["A. N-Methylaniline", "B. Benzylamine", "C. Phenylmethanamine", "D. N,N-Dimethylaniline"],
+    "option_images": [],
+    "answer": "D. N,N-Dimethylaniline",
+    "solution": "Resonance and steric hindrance reduce availability of lone pair on nitrogen.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Amines",
+    "question": "The compound that forms a yellow oily liquid with nitrous acid is",
+    "question_latex": "The~compound~that~forms~a~yellow~oily~liquid~with~nitrous~acid~is",
+    "question_images": [],
+    "options": ["A. 2-methylaniline", "B. methylamine", "C. benzylamine", "D. diethylamine"],
+    "option_images": [],
+    "answer": "D. diethylamine",
+    "solution": "Secondary amines form yellow oily $N$-nitroso compounds with $HNO_2$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Amines",
+    "question": "Which of the following compound has highest boiling point?",
+    "question_latex": "Which~of~the~following~compound~has~highest~boiling~point?",
+    "question_images": [],
+    "options": ["A. Propionic acid", "B. 2-Methylbutane", "C. n-Butyl alcohol", "D. Trimethylamine"],
+    "option_images": [],
+    "answer": "A. Propionic acid",
+    "solution": "Carboxylic acids form hydrogen-bonded dimers giving high boiling points.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Amines",
+    "question": "Aniline reacts with Br2 to yield as the final product",
+    "question_latex": "Aniline~reacts~with~$Br_2$~to~yield~as~the~final~product",
+    "question_images": ["q29_1"],
+    "options": ["A. Bromine", "B. 2-bromoaniline", "C. 2,4,6-tribromoaniline", "D. Acetyl chloride"],
+    "option_images": [],
+    "answer": "C. 2,4,6-tribromoaniline",
+    "solution": "Strongly activating $-NH_2$ group causes substitution at all ortho and para positions.",
+    "solution_images": ["q29_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Amines",
+    "question": "Identify the name of the following compound.",
+    "question_latex": "Identify~the~name~of~the~following~compound.",
+    "question_images": ["q30_1"],
+    "options": ["A. Benzene sulphonic acid", "B. Sulphanilic acid", "C. Amino benzoic acid", "D. Sulphonic acid"],
+    "option_images": [],
+    "answer": "B. Sulphanilic acid",
+    "solution": "Compound contains both $-SO_3H$ and $-NH_2$ groups on benzene ring.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Amines",
+    "question": "Which of the following compounds forms a quaternary salt on reacting with excess methyl iodide?",
+    "question_latex": "Which~of~the~following~compounds~forms~a~quaternary~salt~on~reacting~with~excess~methyl~iodide?",
+    "question_images": [],
+    "options": [
+      "A. $C_6H_5OCH_3$",
+      "B. $(CH_3)_2CHOCH_3$",
+      "C. $C_6H_5NH_2$",
+      "D. $C_6H_5NO_2$"
+    ],
+    "option_images": [],
+    "answer": "C. $C_6H_5NH_2$",
+    "solution": "Aniline reacts with excess methyl iodide to form a quaternary ammonium salt.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Amines",
+    "question": "Which of the following statement is not correct?",
+    "question_latex": "Which~of~the~following~statement~is~not~correct?",
+    "question_images": [],
+    "options": [
+      "A. Primary amines show intermolecular hydrogen bonding",
+      "B. Secondary amines show intermolecular hydrogen bonding",
+      "C. Tertiary amines show intermolecular hydrogen bonding",
+      "D. Amines have lower boiling points than alcohols"
+    ],
+    "option_images": [],
+    "answer": "C. Tertiary amines show intermolecular hydrogen bonding",
+    "solution": "Tertiary amines do not have N–H bonds and hence cannot form intermolecular hydrogen bonding.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Amines",
+    "question": "Which among the following compounds is a secondary amine?",
+    "question_latex": "Which~among~the~following~compounds~is~a~secondary~amine?",
+    "question_images": [],
+    "options": [
+      "A. N-methylbenzylamine",
+      "B. Prop-2-en-1-amine",
+      "C. Hexane-1,6-diamine",
+      "D. N,N-dimethylbenzylamine"
+    ],
+    "option_images": [],
+    "answer": "A. N-methylbenzylamine",
+    "solution": "Secondary amines contain two alkyl/aryl groups attached to nitrogen.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Amines",
+    "question": "In the chemical reactions shown, compounds A and B respectively are",
+    "question_latex": "In~the~chemical~reactions~shown,~compounds~A~and~B~respectively~are",
+    "question_images": ["q34_1"],
+    "options": [
+      "A. Fluorobenzene and phenol",
+      "B. Benzene diazonium chloride and benzonitrile",
+      "C. Nitrobenzene and chlorobenzene",
+      "D. Phenol and bromobenzene"
+    ],
+    "option_images": [],
+    "answer": "B. Benzene diazonium chloride and benzonitrile",
+    "solution": "Diazotization forms benzene diazonium chloride; Sandmeyer reaction with $CuCN$ gives benzonitrile.",
+    "solution_images": ["q34_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Amines",
+    "question": "Identify the product A in the following reaction.",
+    "question_latex": "Identify~the~product~A~in~the~following~reaction.",
+    "question_images": ["q35_1"],
+    "options": [
+      "A. $CH_3{-}C\\equiv C{-}H$",
+      "B. $CH_2{=}CH_2$",
+      "C. $CH_3{-}CH_2{-}CH_3$",
+      "D. $CH_3{-}CH{=}CH_2$"
+    ],
+    "option_images": [],
+    "answer": "B. $CH_2{=}CH_2$",
+    "solution": "Hofmann elimination gives the least substituted alkene, ethene.",
+    "solution_images": ["q35_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Amines",
+    "question": "Which of the following compounds has highest boiling point?",
+    "question_latex": "Which~of~the~following~compounds~has~highest~boiling~point?",
+    "question_images": [],
+    "options": [
+      "A. $CH_3CH_2OH$",
+      "B. $CH_3CH(CH_3)_2$",
+      "C. $(CH_3CH_2)_2NH$",
+      "D. $(C_2H_5)_2NH$"
+    ],
+    "option_images": [],
+    "answer": "A. $CH_3CH_2OH$",
+    "solution": "Alcohols form stronger hydrogen bonds than amines and alkanes.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Amines",
+    "question": "In the reaction sequence shown, what is compound B?",
+    "question_latex": "In~the~reaction~sequence~shown,~what~is~compound~B?",
+    "question_images": ["q37_1"],
+    "options": [
+      "A. Chlorobenzene",
+      "B. p-Chloroaniline",
+      "C. Aniline",
+      "D. Nitrobenzene"
+    ],
+    "option_images": [],
+    "answer": "A. Chlorobenzene",
+    "solution": "Diazotization followed by Sandmeyer reaction with $CuCl$ yields chlorobenzene.",
+    "solution_images": ["q37_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Amines",
+    "question": "The product of Hofmann elimination of the given compound is",
+    "question_latex": "The~product~of~Hofmann~elimination~of~the~given~compound~is",
+    "question_images": ["q38_1"],
+    "options": [
+      "A. Cyclohexylamine",
+      "B. Aniline",
+      "C. Cyclohexene",
+      "D. Cyclohexanol"
+    ],
+    "option_images": [],
+    "answer": "C. Cyclohexene",
+    "solution": "Hofmann elimination forms the least substituted alkene.",
+    "solution_images": ["q38_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Amines",
+    "question": "The strongest base among the following is",
+    "question_latex": "The~strongest~base~among~the~following~is",
+    "question_images": [],
+    "options": [
+      "A. $C_6H_5NH_2$",
+      "B. $(C_2H_5)_2NH$",
+      "C. $NH_3$",
+      "D. $(C_6H_5)_2NH$"
+    ],
+    "option_images": [],
+    "answer": "B. $(C_2H_5)_2NH$",
+    "solution": "Secondary aliphatic amines are strongest bases due to +I effect and solvation.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Amines",
+    "question": "Which of the following compounds is NOT obtained at any stage of Gabriel phthalimide synthesis?",
+    "question_latex": "Which~of~the~following~compounds~is~NOT~obtained~at~any~stage~of~Gabriel~phthalimide~synthesis?",
+    "question_images": ["q40_1"],
+    "options": [
+      "A. Phthalic acid",
+      "B. Primary amine",
+      "C. Potassium salt of phthalimide",
+      "D. N-alkyl phthalimide"
+    ],
+    "option_images": [],
+    "answer": "A. Phthalic acid",
+    "solution": "Phthalic acid is not formed during Gabriel synthesis.",
+    "solution_images": ["q40_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Amines",
+    "question": "Which of the following groups increases basic strength of substituted aniline?",
+    "question_latex": "Which~of~the~following~groups~increases~basic~strength~of~substituted~aniline?",
+    "question_images": [],
+    "options": [
+      "A. $-OCH_3$",
+      "B. $-NO_2$",
+      "C. $-COOH$",
+      "D. $-CN$"
+    ],
+    "option_images": [],
+    "answer": "A. $-OCH_3$",
+    "solution": "Electron-donating groups increase electron density on nitrogen.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Amines",
+    "question": "Which among following amines has lowest pKb value?",
+    "question_latex": "Which~among~following~amines~has~lowest~$pK_b$~value?",
+    "question_images": [],
+    "options": [
+      "A. $C_6H_5NH_2$",
+      "B. $(CH_3)_2NH$",
+      "C. $(CH_3CH_2)_3N$",
+      "D. $NH_3$"
+    ],
+    "option_images": [],
+    "answer": "B. $(CH_3)_2NH$",
+    "solution": "Secondary amines are strongest bases, hence lowest $pK_b$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Amines",
+    "question": "The reduction of which of the following compound would yield secondary amine?",
+    "question_latex": "The~reduction~of~which~of~the~following~compound~would~yield~secondary~amine?",
+    "question_images": [],
+    "options": [
+      "A. Alkyl nitrite",
+      "B. Carbylamine",
+      "C. Primary amine",
+      "D. Secondary nitro compound"
+    ],
+    "option_images": [],
+    "answer": "B. Carbylamine",
+    "solution": "Reduction of isocyanides gives secondary amines.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Amines",
+    "question": "The method used to separate primary, secondary and tertiary amines is",
+    "question_latex": "The~method~used~to~separate~primary,~secondary~and~tertiary~amines~is",
+    "question_images": [],
+    "options": [
+      "A. Hofmann method",
+      "B. Lucas method",
+      "C. Victor Meyer method",
+      "D. Kolbe method"
+    ],
+    "option_images": [],
+    "answer": "C. Victor Meyer method",
+    "solution": "Victor Meyer method distinguishes amines based on nitroso compound formation.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Amines",
+    "question": "Which of the following type of amines is obtained by alkylation of phthalimide?",
+    "question_latex": "Which~of~the~following~type~of~amines~is~obtained~by~alkylation~of~phthalimide?",
+    "question_images": [],
+    "options": [
+      "A. $R{-}NH{-}R$",
+      "B. $R{-}NH_2$",
+      "C. $Ar{-}NH_2$",
+      "D. $R_3N$"
+    ],
+    "option_images": [],
+    "answer": "B. $R{-}NH_2$",
+    "solution": "Gabriel phthalimide synthesis yields primary aliphatic amines.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Amines",
+    "question": "Identify tertiary amine from the following.",
+    "question_latex": "Identify~tertiary~amine~from~the~following.",
+    "question_images": ["q46_1"],
+    "options": [
+      "A. Ethane-1,2-diamine",
+      "B. Cyclohexylamine",
+      "C. N-ethyl-N-methylpropan-2-amine",
+      "D. N-phenylcyclohexanamine"
+    ],
+    "option_images": [],
+    "answer": "C. N-ethyl-N-methylpropan-2-amine",
+    "solution": "Tertiary amines have three alkyl groups attached to nitrogen.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Amines",
+    "question": "Which among the following molecules has lowest pKb value?",
+    "question_latex": "Which~among~the~following~molecules~has~lowest~$pK_b$~value?",
+    "question_images": [],
+    "options": [
+      "A. $(CH_3)_2NH$",
+      "B. $CH_3CH_2NH_2$",
+      "C. $CH_3NH_2$",
+      "D. $(CH_3CH_2)_3N$"
+    ],
+    "option_images": [],
+    "answer": "A. $(CH_3)_2NH$",
+    "solution": "Secondary amines are strongest bases in aqueous solution.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Amines",
+    "question": "Nitrogen atom in amines is",
+    "question_latex": "Nitrogen~atom~in~amines~is",
+    "question_images": [],
+    "options": [
+      "A. $sp$ hybridised",
+      "B. $sp^2$ hybridised",
+      "C. $sp^3$ hybridised",
+      "D. $sp$ hybridised"
+    ],
+    "option_images": [],
+    "answer": "C. $sp^3$ hybridised",
+    "solution": "Nitrogen forms three sigma bonds and has one lone pair.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Amines",
+    "question": "Which from following compound contains amino group?",
+    "question_latex": "Which~from~following~compound~contains~amino~group?",
+    "question_images": ["q49_1"],
+    "options": [
+      "A. Ethyl methyl isopropyl amine",
+      "B. p-Toluidine",
+      "C. Diphenyl amine",
+      "D. Ethyl methyl n-propyl amine"
+    ],
+    "option_images": [],
+    "answer": "B. p-Toluidine",
+    "solution": "p-Toluidine contains $-NH_2$ group attached to benzene ring.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Amines",
+    "question": "In the reaction $CH_3CN + 2[H] \\xrightarrow{HCl/SnCl_2} X \\xrightarrow{SnCl_2 + 2HCl} Y$, the term Y is",
+    "question_latex": "$CH_3CN + 2[H] \\xrightarrow{HCl/SnCl_2} X \\xrightarrow{SnCl_2 + 2HCl} Y$",
+    "question_images": [],
+    "options": [
+      "A. Acetone",
+      "B. Ethanamine",
+      "C. Acetaldehyde",
+      "D. Dimethylamine"
+    ],
+    "option_images": [],
+    "answer": "C. Acetaldehyde",
+    "solution": "Reduction of nitrile gives iminium salt which on hydrolysis forms aldehyde.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Amines",
+    "question": "Which of the following compounds has highest boiling point? [MHT-CET 2020]",
+    "question_latex": "Which of the following compounds has highest boiling point? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "(A) $CH_{3}(CH_{2})_{2}CH_{2}$",
+      "(B) $C_{2}H_{5}CH(CH_{3})_{2}$",
+      "(C) $CH_{3}(CH_{2})_{2}CH_{2}NH_{2}$",
+      "(D) $(C_{2}H_{5})_{2}NH$"
+    ],
+    "option_images": [],
+    "answer": "(A)",
+    "solution": "Boiling point of alcohol is higher than alkane and amines of comparable mass. (Note: Option A in source text appears to be an alcohol fragment or misprint $CH_3(CH_2)_2CH_2OH$ based on the solution logic).",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Amines",
+    "question": "What is [B] in the given reaction sequence?",
+    "question_latex": "What is $[B]$ in the given reaction sequence?",
+    "question_images": [
+      "q52_1"
+    ],
+    "options": [
+      "(A) Structure A",
+      "(B) Structure B",
+      "(C) Structure C",
+      "(D) Structure D"
+    ],
+    "option_images": [
+      "q52_option_a",
+      "q52_option_b",
+      "q52_option_c",
+      "q52_option_d"
+    ],
+    "answer": "(A)",
+    "solution": "Aniline reacts with $CHCl_3/KOH$ to form phenyl isocyanide, which is then processed to the final product [B].",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Amines",
+    "question": "The product of Hofmann elimination of $CH_2N(CH_3)_2OH$ is",
+    "question_latex": "The product of Hofmann elimination of $CH_2N(CH_3)_2OH$ is",
+    "question_images": [],
+    "options": [
+      "(A) $CH_2N(CH_3)_2$",
+      "(B) $NH_2 + (CH_3)_2N$",
+      "(C) $CH_2 = CH_2 + (CH_3)_2NOH$",
+      "(D) $(CH_3)_4NOH$"
+    ],
+    "option_images": [],
+    "answer": "(C)",
+    "solution": "Hofmann elimination of quaternary ammonium hydroxides yields an alkene (ethene) and a tertiary amine/derivative.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Amines",
+    "question": "The strongest base among the following is",
+    "question_latex": "The strongest base among the following is",
+    "question_images": [],
+    "options": [
+      "(A) $C_{6}H_{5}NH_{2}$",
+      "(B) $(C_{6}H_{5})_{2}NH$",
+      "(C) $NH_{3}$",
+      "(D) $(C_{2}H_{5})_{2}NH$"
+    ],
+    "option_images": [],
+    "answer": "(D)",
+    "solution": "Basic nature of amines is due to the presence of a lone pair of electrons on the nitrogen atom. Due to the $+I$ effect, $2^\\circ$ amines like $(C_2H_5)_2NH$ are better bases than $1^\\circ$ amines and $NH_3$. Aromatic amines are less basic as the lone pair is involved in resonance.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Amines",
+    "question": "Which of the following compounds is NOT obtained at any stage of Gabriel phthalimide synthesis? [MHT-CET 2024]",
+    "question_latex": "Which of the following compounds is NOT obtained at any stage of Gabriel phthalimide synthesis? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "(A) Phthalic acid",
+      "(B) Primary amine",
+      "(C) Potassium salt of phthalimide",
+      "(D) N-alkyl phthalimide"
+    ],
+    "option_images": [],
+    "answer": "(A)",
+    "solution": "The synthesis involves phthalimide reacting with $KOH$ to form potassium phthalimide, then $R-X$ to form N-alkylphthalimide, and finally hydrolysis to give $1^\\circ$ amine and sodium phthalate. Phthalic acid is not an intermediate or final product in the standard basic workup.",
+    "solution_images": [
+      "q55_solution_1"
+    ],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Amines",
+    "question": "Which of the following groups increases the basic strength of substituted aniline? [MHT-CET 2020]",
+    "question_latex": "Which of the following groups increases the basic strength of substituted aniline? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "(A) $-OCH_{3}$",
+      "(B) $-NO_2$",
+      "(C) $-SO_3$",
+      "(D) $-CN$"
+    ],
+    "option_images": [],
+    "answer": "(A)",
+    "solution": "$-OCH_3$ is an electron-releasing group (via $+M$ effect) and hence increases the electron density on nitrogen, increasing the basic strength of substituted aniline.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Amines",
+    "question": "Which among following amines has lowest pK values? [MHT-CET 2021]",
+    "question_latex": "Which among following amines has lowest $pK_b$ values? [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "(A) $C_{6}H_{5}NH_{2}$",
+      "(B) $(CH_{3}CH_{2})_{3}N$",
+      "(C) $(CH_{3}CH_{2})_{2}NH$",
+      "(D) $CH_{3}CH_{2}NH_{2}$"
+    ],
+    "option_images": [],
+    "answer": "(C)",
+    "solution": "A lower $pK_b$ value corresponds to a stronger base. $(CH_3CH_2)_2NH$ (diethylamine) is a secondary aliphatic amine, which is the strongest base in this set.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Amines",
+    "question": "The reduction of which of the following compound would yield secondary amine?",
+    "question_latex": "The reduction of which of the following compound would yield secondary amine?",
+    "question_images": [],
+    "options": [
+      "(A) Alkyl nitrile",
+      "(B) Carbylamine",
+      "(C) Primary amine",
+      "(D) Secondary nitro compound"
+    ],
+    "option_images": [],
+    "answer": "(B)",
+    "solution": "Carbylamines (isocyanides) yield secondary amines upon reduction: $R{-}N\\equiv C \\xrightarrow{\\text{LiAlH}_4\\ \\text{or}\\ H_2/Ni} R{-}NH{-}CH_2NH_2$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Amines",
+    "question": "Name of method use to separate primary, secondary and tertiary amines is",
+    "question_latex": "Name of method use to separate primary, secondary and tertiary amines is",
+    "question_images": [],
+    "options": [
+      "(A) Hofmann method",
+      "(B) Lucas method",
+      "(C) Victor Meyer method",
+      "(D) Kolbe method"
+    ],
+    "option_images": [],
+    "answer": "(A)",
+    "solution": "In the Hofmann method, the mixture is treated with diethyl oxalate. Primary amines form solid oxamides, secondary amines form liquid oxamic esters, and tertiary amines do not react.",
+    "solution_images": [
+      "q59_solution_1"
+    ],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Amines",
+    "question": "Which of the following type of amines is obtained by alkylation of phthalimide? [MHT-CET 2020]",
+    "question_latex": "Which of the following type of amines is obtained by alkylation of phthalimide? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "(A) R-NH-R",
+      "(B) $R-NH_{2}$",
+      "(C) $Ar-NH_{2}$",
+      "(D) $(R)_3N$"
+    ],
+    "option_images": [],
+    "answer": "(B)",
+    "solution": "Only aliphatic primary amines ($R-NH_2$) are obtained by the alkylation of phthalimide followed by hydrolysis (Gabriel synthesis).",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Amines",
+    "question": "Identify tertiary amine from following. [2025, 2021]",
+    "question_latex": "Identify tertiary amine from following. [2025, 2021]",
+    "question_images": [],
+    "options": [
+      "(A) Ethane-1,2-diamine",
+      "(B) Cyclohexanamine",
+      "(C) N-Ethyl-N-Methylpropan-2-amine",
+      "(D) N-Phenylbenzeneamine"
+    ],
+    "option_images": [],
+    "answer": "(C)",
+    "solution": "N-Ethyl-N-methylpropan-2-amine has three alkyl groups attached to the nitrogen atom, making it a $3^\\circ$ amine.",
+    "solution_images": [
+      "q61_solution_1"
+    ],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Amines",
+    "question": "Which among the following molecules has lowest $pK_b$ value? [MHT-CET 2022]",
+    "question_latex": "Which among the following molecules has lowest $pK_b$ value? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "(A) $(CH_{3}CH_{2})_{2}NH$",
+      "(B) $CH_{3}CH_{2}NH_{2}$",
+      "(C) $CH_{3}NH_{2}$",
+      "(D) $(CH_{3}CH_{2})_{3}N$"
+    ],
+    "option_images": [],
+    "answer": "(A)",
+    "solution": "Diethylamine is the strongest base among the given options in aqueous solution due to a combination of $+I$ effect and solvation effects, thus it has the lowest $pK_b$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Amines",
+    "question": "The correct order of basicity of the following amines in aqueous solution is:",
+    "question_latex": "The correct order of basicity of the following amines in aqueous solution is:",
+    "question_images": [],
+    "options": [
+      "(A) $Me_2NH > MeNH_2 > Me_3N > NH_3$",
+      "(B) $Me_3N > Me_2NH > MeNH_2 > NH_3$",
+      "(C) $MeNH_2 > Me_2NH > Me_3N > NH_3$",
+      "(D) $Me_2NH > Me_3N > MeNH_2 > NH_3$"
+    ],
+    "option_images": [],
+    "answer": "(A)",
+    "solution": "For methyl-substituted amines in aqueous medium, the order is $2^\\circ > 1^\\circ > 3^\\circ > NH_3$ due to inductive, steric, and solvation factors.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Amines",
+    "question": "Identify the final product 'Z' in the reaction: Ethanamine + Chloroform + Alc. KOH $\\rightarrow$ X $\\xrightarrow{LiAlH_4}$ Z",
+    "question_latex": "Identify the final product 'Z' in the reaction: Ethanamine + Chloroform + Alc. KOH $\\rightarrow$ X $\\xrightarrow{LiAlH_4}$ Z",
+    "question_images": [],
+    "options": [
+      "(A) Propan-1-amine",
+      "(B) N-Methylethanamine",
+      "(C) Ethanamine",
+      "(D) N,N-Dimethylethanamine"
+    ],
+    "option_images": [],
+    "answer": "(B)",
+    "solution": "Ethanamine undergoes carbylamine reaction to form ethyl isocyanide (X). Reduction of ethyl isocyanide with $LiAlH_4$ yields N-methylethanamine (a secondary amine).",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Amines",
+    "question": "When Benzenediazonium chloride is treated with hypophosphorous acid, it gives:",
+    "question_latex": "When Benzenediazonium chloride is treated with hypophosphorous acid, it gives:",
+    "question_images": [],
+    "options": [
+      "(A) Phenol",
+      "(B) Benzonitrile",
+      "(C) Benzene",
+      "(D) Aniline"
+    ],
+    "option_images": [],
+    "answer": "(C)",
+    "solution": "$C_6H_5N_2Cl + H_3PO_2 + H_2O \\rightarrow C_6H_6 + N_2 + H_3PO_3 + HCl$. Benzene is formed.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Amines",
+    "question": "Which of the following is most basic in gaseous phase?",
+    "question_latex": "Which of the following is most basic in gaseous phase?",
+    "question_images": [],
+    "options": [
+      "(A) $NH_3$",
+      "(B) $CH_3NH_2$",
+      "(C) $(CH_3)_2NH$",
+      "(D) $(CH_3)_3N$"
+    ],
+    "option_images": [],
+    "answer": "(D)",
+    "solution": "In the gaseous phase, basicity follows the order $3^\\circ > 2^\\circ > 1^\\circ > NH_3$ as it depends solely on the $+I$ effect of alkyl groups.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Amines",
+    "question": "The action of $Br_2/KOH$ on an amide gives a primary amine with:",
+    "question_latex": "The action of $Br_2/KOH$ on an amide gives a primary amine with:",
+    "question_images": [],
+    "options": [
+      "(A) One carbon atom more",
+      "(B) One carbon atom less",
+      "(C) Same number of carbon atoms",
+      "(D) Two carbon atoms less"
+    ],
+    "option_images": [],
+    "answer": "(B)",
+    "solution": "The Hofmann bromamide degradation reaction involves the loss of the carbonyl carbon atom as carbonate, resulting in an amine with one less carbon atom than the parent amide.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Amines",
+    "question": "Aniline on treatment with fuming sulphuric acid at $473\u2013523$ K gives:",
+    "question_latex": "Aniline on treatment with fuming sulphuric acid at $473\u2013523$ K gives:",
+    "question_images": [],
+    "options": [
+      "(A) o-aminobenzenesulphonic acid",
+      "(B) m-aminobenzenesulphonic acid",
+      "(C) p-aminobenzenesulphonic acid",
+      "(D) Benzenesulphonic acid"
+    ],
+    "option_images": [],
+    "answer": "(C)",
+    "solution": "Aniline reacts with concentrated $H_2SO_4$ to form anilinium hydrogen sulphate which on heating at high temperatures undergoes rearrangement to form sulphanilic acid (p-aminobenzenesulphonic acid).",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Amines",
+    "question": "Which amine gives a clear solution with Hinsberg's reagent which then becomes insoluble on acidification?",
+    "question_latex": "Which amine gives a clear solution with Hinsberg's reagent which then becomes insoluble on acidification?",
+    "question_images": [],
+    "options": [
+      "(A) Primary amine",
+      "(B) Secondary amine",
+      "(C) Tertiary amine",
+      "(D) All of these"
+    ],
+    "option_images": [],
+    "answer": "(A)",
+    "solution": "Primary amines react with benzene sulphonyl chloride to form a sulfonamide that is soluble in alkali (due to acidic hydrogen on N) and precipitates out when the solution is acidified.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Amines",
+    "question": "The gas evolved when methylamine reacts with nitrous acid is:",
+    "question_latex": "The gas evolved when methylamine reacts with nitrous acid is:",
+    "question_images": [],
+    "options": [
+      "(A) $NH_3$",
+      "(B) $N_2$",
+      "(C) $H_2$",
+      "(D) $O_2$"
+    ],
+    "option_images": [],
+    "answer": "(B)",
+    "solution": "Primary aliphatic amines react with nitrous acid to form alcohols with the quantitative evolution of nitrogen gas ($N_2$).",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Amines",
+    "question": "Gabriel phthalimide synthesis can be used for the preparation of:",
+    "question_latex": "Gabriel phthalimide synthesis can be used for the preparation of:",
+    "question_images": [],
+    "options": [
+      "(A) Aniline",
+      "(B) Ethylamine",
+      "(C) Diethylamine",
+      "(D) Triethylamine"
+    ],
+    "option_images": [],
+    "answer": "(B)",
+    "solution": "Gabriel synthesis is used specifically for preparing primary aliphatic amines like ethylamine. It cannot prepare aniline because aryl halides do not undergo nucleophilic substitution with the phthalimide anion.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Amines",
+    "question": "The coupling of benzenediazonium chloride with phenol is carried out in:",
+    "question_latex": "The coupling of benzenediazonium chloride with phenol is carried out in:",
+    "question_images": [],
+    "options": [
+      "(A) Strongly acidic medium",
+      "(B) Strongly basic medium",
+      "(C) Weakly acidic medium",
+      "(D) Weakly basic medium"
+    ],
+    "option_images": [],
+    "answer": "(D)",
+    "solution": "Phenols undergo coupling in weakly basic medium ($pH$ $9-10$) to form p-hydroxyazobenzene.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Amines",
+    "question": "A compound 'X' with molecular formula $C_3H_9N$ reacts with $HNO_2$ to give an alcohol and $N_2$ gas. 'X' is:",
+    "question_latex": "A compound 'X' with molecular formula $C_3H_9N$ reacts with $HNO_2$ to give an alcohol and $N_2$ gas. 'X' is:",
+    "question_images": [],
+    "options": [
+      "(A) $CH_3CH_2CH_2NH_2$",
+      "(B) $(CH_3)_2NH$",
+      "(C) $(CH_3)_3N$",
+      "(D) $C_2H_5NHCH_3$"
+    ],
+    "option_images": [],
+    "answer": "(A)",
+    "solution": "Since 'X' reacts with $HNO_2$ to give $N_2$ and an alcohol, it must be a primary aliphatic amine. Propylamine fits the formula and the reaction.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Amines",
+    "question": "Which of the following does not react with $CH_3COCl$?",
+    "question_latex": "Which of the following does not react with $CH_3COCl$?",
+    "question_images": [],
+    "options": [
+      "(A) $CH_3NH_2$",
+      "(B) $(CH_3)_2NH$",
+      "(C) $(CH_3)_3N$",
+      "(D) $C_6H_5NH_2$"
+    ],
+    "option_images": [],
+    "answer": "(C)",
+    "solution": "Tertiary amines like $(CH_3)_3N$ do not have a replaceable hydrogen atom on the nitrogen and therefore do not undergo acylation.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Amines",
+    "question": "Reduction of nitrobenzene in neutral medium ($Zn/NH_4Cl$) gives:",
+    "question_latex": "Reduction of nitrobenzene in neutral medium ($Zn/NH_4Cl$) gives:",
+    "question_images": [],
+    "options": [
+      "(A) Aniline",
+      "(B) Nitrosobenzene",
+      "(C) Phenylhydroxylamine",
+      "(D) Hydrazobenzene"
+    ],
+    "option_images": [],
+    "answer": "(C)",
+    "solution": "$C_6H_5NO_2 + 4[H] \\xrightarrow{Zn/NH_4Cl} C_6H_5NHOH + H_2O$. The product is phenylhydroxylamine.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+
+  {
+    "id": 76,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "Which of the following is Hinsberg's reagent?",
+    "question_latex": "",
+    "question_images": [],
+    "options": ["A. Br2/KOH", "B. NaNO2 + HCl", "C. C6H5SO2Cl", "D. Sn/HCl"],
+    "option_images": [],
+    "answer": "C. C6H5SO2Cl",
+    "solution": "Hinsberg's reagent is benzenesulphonyl chloride $(C_6H_5SO_2Cl)$, used to distinguish primary, secondary and tertiary amines.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "In the chemical reaction $CH_3CH_2NH_2 + CHCl_3 + 3KOH \\rightarrow (A) + (B) + 3H_2O$, the compounds A and B respectively are",
+    "question_latex": "$CH_3CH_2NH_2 + CHCl_3 + 3KOH \\rightarrow CH_3CH_2NC + 3KCl + 3H_2O$",
+    "question_images": [],
+    "options": [
+      "A. CH3CH2NC and KCl",
+      "B. CH3CH2NH2 and KCl",
+      "C. CH3CH2CN and KCl",
+      "D. CH3CH2NC and CH3Cl"
+    ],
+    "option_images": [],
+    "answer": "A. CH3CH2NC and KCl",
+    "solution": "This is the carbylamine reaction. Primary amines react with chloroform and alcoholic KOH to form isocyanides $(RNC)$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "Identify the decreasing order of solubility of alcohols, alkanes and amines of comparable molar mass in water.",
+    "question_latex": "",
+    "question_images": [],
+    "options": [
+      "A. Alkane > amine > alcohol",
+      "B. Alcohol > amine > alkane",
+      "C. Amine > alcohol > alkane",
+      "D. Alcohol > alkane > amine"
+    ],
+    "option_images": [],
+    "answer": "B. Alcohol > amine > alkane",
+    "solution": "Alcohols form strongest hydrogen bonding with water, followed by amines. Alkanes are non-polar and least soluble.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "Which among the following reagents is used to distinguish primary, secondary and tertiary amines according to solubility in alkali medium?",
+    "question_latex": "",
+    "question_images": [],
+    "options": [
+      "A. Ethylene glycol",
+      "B. Iodoform",
+      "C. Acetyl chloride",
+      "D. Benzene sulphonyl chloride"
+    ],
+    "option_images": [],
+    "answer": "D. Benzene sulphonyl chloride",
+    "solution": "Benzene sulphonyl chloride (Hinsberg test) distinguishes amines based on solubility behavior in alkali.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "On heating benzyl amine with chloroform and ethanolic KOH, product obtained is",
+    "question_latex": "",
+    "question_images": ["q80_1"],
+    "options": [
+      "A. Benzyl alcohol",
+      "B. Benzaldehyde",
+      "C. Benzonitrile",
+      "D. Benzyl isocyanide"
+    ],
+    "option_images": [],
+    "answer": "D. Benzyl isocyanide",
+    "solution": "Primary amines undergo carbylamine reaction with $CHCl_3$ and alcoholic $KOH$ to form isocyanides.",
+    "solution_images": ["q80_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "How many primary amines are possible for molecular formula $C_3H_9N$?",
+    "question_latex": "",
+    "question_images": [],
+    "options": ["A. 4", "B. 2", "C. 3", "D. 1"],
+    "option_images": [],
+    "answer": "B. 2",
+    "solution": "The two primary amines are $CH_3CH_2CH_2NH_2$ and $(CH_3)_2CHNH_2$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "Nitrobenzene is reduced by Zn and alcoholic KOH to give",
+    "question_latex": "",
+    "question_images": [],
+    "options": [
+      "A. Aniline",
+      "B. Hydrazobenzene",
+      "C. Azobenzene",
+      "D. p-Phenylenediamine"
+    ],
+    "option_images": [],
+    "answer": "B. Hydrazobenzene",
+    "solution": "Reduction of nitrobenzene with Zn/alkaline medium forms hydrazobenzene.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "What is the product X obtained in the following reaction?",
+    "question_latex": "",
+    "question_images": ["q83_1"],
+    "options": [
+      "A. C6H5Cl",
+      "B. C6H5F",
+      "C. C6H5NO2",
+      "D. C6H5NH2"
+    ],
+    "option_images": [],
+    "answer": "B. C6H5F",
+    "solution": "This is Balz–Schiemann reaction where diazonium tetrafluoroborate decomposes to give fluorobenzene.",
+    "solution_images": ["q83_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "Among the following compounds, the most basic is",
+    "question_latex": "",
+    "question_images": [],
+    "options": [
+      "A. Aniline",
+      "B. Acetanilide",
+      "C. p-Nitroaniline",
+      "D. Benzylamine"
+    ],
+    "option_images": [],
+    "answer": "D. Benzylamine",
+    "solution": "Benzylamine is aliphatic; its lone pair is not delocalized, making it most basic.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "Nitrosamines $(R_2N–N=O)$ are soluble in water. On heating them with conc. $H_2SO_4$, they give",
+    "question_latex": "",
+    "question_images": [],
+    "options": [
+      "A. Primary amines",
+      "B. Secondary amines",
+      "C. Tertiary amines",
+      "D. Nitro compounds"
+    ],
+    "option_images": [],
+    "answer": "B. Secondary amines",
+    "solution": "This reaction is called Liebermann nitroso reaction.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "Which of the following is most basic in nature?",
+    "question_latex": "",
+    "question_images": [],
+    "options": [
+      "A. NH3",
+      "B. CH3NH2",
+      "C. (CH3)2NH",
+      "D. (CH3)3N"
+    ],
+    "option_images": [],
+    "answer": "C. (CH3)2NH",
+    "solution": "Secondary amines are most basic due to combined inductive effect and solvation.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "Identify compound X in the following reaction.",
+    "question_latex": "",
+    "question_images": ["q87_1"],
+    "options": [
+      "A. (C2H5)3N",
+      "B. CH3–NH–C2H5",
+      "C. (C2H5)2NH",
+      "D. C2H5NH2"
+    ],
+    "option_images": [],
+    "answer": "C. (C2H5)2NH",
+    "solution": "Reaction with benzene sulphonyl chloride confirms formation of secondary amine.",
+    "solution_images": ["q87_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "In the reaction $Ar–N_2^+X^- \\xrightarrow{\\Delta} Ar–N_2^+BF_4^- \\xrightarrow{\\Delta} Ar–F$, the reaction is known as",
+    "question_latex": "",
+    "question_images": [],
+    "options": [
+      "A. Gomberg reaction",
+      "B. Hunsdiecker reaction",
+      "C. Balz–Schiemann reaction",
+      "D. Finkelstein reaction"
+    ],
+    "option_images": [],
+    "answer": "C. Balz–Schiemann reaction",
+    "solution": "Balz–Schiemann reaction converts aryl diazonium salts to aryl fluorides.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "Primary amine $(RNH_2)$ reacts with nitrous acid to give",
+    "question_latex": "",
+    "question_images": [],
+    "options": [
+      "A. Alcohol",
+      "B. Aldehyde",
+      "C. Ketone",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A. Alcohol",
+    "solution": "Aliphatic primary amines react with $HNO_2$ to form alcohols with evolution of $N_2$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "In the reaction shown, X is",
+    "question_latex": "",
+    "question_images": ["q90_1"],
+    "options": ["A. Sn/HCl", "B. H2SO4", "C. KMnO4", "D. Fe/HCl"],
+    "option_images": [],
+    "answer": "D. Fe/HCl",
+    "solution": "Fe/HCl reduces nitro group $(-NO_2)$ to amino group $(-NH_2)$.",
+    "solution_images": ["q90_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "Ethyl amine reacts with nitrous acid to form",
+    "question_latex": "",
+    "question_images": [],
+    "options": [
+      "A. Ethanol",
+      "B. Ethene",
+      "C. Acetaldehyde",
+      "D. Ethyl nitrite"
+    ],
+    "option_images": [],
+    "answer": "A. Ethanol",
+    "solution": "Primary aliphatic amines give corresponding alcohols on reaction with nitrous acid.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "A gaseous carbon compound soluble in dilute HCl gives off nitrogen on treatment with NaNO2. The compound is",
+    "question_latex": "",
+    "question_images": [],
+    "options": [
+      "A. HCHO",
+      "B. C6H5NH2",
+      "C. C2H5NH2",
+      "D. CH3NH2"
+    ],
+    "option_images": [],
+    "answer": "D. CH3NH2",
+    "solution": "Methylamine dissolves in HCl and reacts with $NaNO_2$ to give methanol and nitrogen.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "Amino group is ortho/para-directing for aromatic electrophilic substitution. On nitration of aniline, a complex mixture is obtained because",
+    "question_latex": "",
+    "question_images": [],
+    "options": [
+      "A. NH2 group is lost",
+      "B. Anilinium ion is meta-directing",
+      "C. NO2 is ortho-directing",
+      "D. NH3 is formed"
+    ],
+    "option_images": [],
+    "answer": "B. Anilinium ion is meta-directing",
+    "solution": "In acidic medium, aniline forms anilinium ion $(NH_3^+)$ which is meta-directing.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "Which of the following does not have intermolecular hydrogen bonding?",
+    "question_latex": "",
+    "question_images": [],
+    "options": [
+      "A. Cyclohexylamine",
+      "B. Diphenylamine",
+      "C. Trimethylamine",
+      "D. Allylamine"
+    ],
+    "option_images": [],
+    "answer": "C. Trimethylamine",
+    "solution": "Trimethylamine is a tertiary amine and lacks N–H bond required for hydrogen bonding.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "What is the number of moles of H atoms required for complete reduction of one mole of acetonitrile?",
+    "question_latex": "$CH_3CN + 4[H] \\rightarrow CH_3CH_2NH_2$",
+    "question_images": [],
+    "options": ["A. 6", "B. 2", "C. 4", "D. 1"],
+    "option_images": [],
+    "answer": "C. 4",
+    "solution": "Complete reduction of nitrile to primary amine requires 4 hydrogen atoms.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "How many hydrogen atoms are bonded to ammonium ion during solvation?",
+    "question_latex": "",
+    "question_images": ["q96_1"],
+    "options": ["A. 4", "B. 2", "C. 1", "D. 3"],
+    "option_images": [],
+    "answer": "A. 4",
+    "solution": "Ammonium ion $(NH_4^+)$ has four hydrogen atoms bonded to nitrogen.",
+    "solution_images": ["q96_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "Which from following tests for primary amines produce foul smelling product?",
+    "question_latex": "",
+    "question_images": [],
+    "options": [
+      "A. Hinsberg test",
+      "B. Hofmann elimination",
+      "C. Carbylamine reaction",
+      "D. Hofmann exhaustive alkylation"
+    ],
+    "option_images": [],
+    "answer": "C. Carbylamine reaction",
+    "solution": "Isocyanides produced in carbylamine reaction have extremely foul smell.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "The compound with foul odour among the following is",
+    "question_latex": "",
+    "question_images": ["q98_1"],
+    "options": [
+      "A. Benzyl cyanide",
+      "B. Benzonitrile",
+      "C. Benzylamine",
+      "D. Benzene isocyanide"
+    ],
+    "option_images": [],
+    "answer": "D. Benzene isocyanide",
+    "solution": "Isocyanides (carbylamines) are known for their extremely foul odour.",
+    "solution_images": ["q98_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Aldehyde_Ketone_and_Carboxylic_Acid",
+    "question": "Which is not the property of ethanenitrile $(CH_3CN)$?",
+    "question_latex": "",
+    "question_images": [],
+    "options": [
+      "A. Undergoes acidic hydrolysis to give carboxylic acid",
+      "B. Undergoes alkaline hydrolysis to give salt of carboxylic acid",
+      "C. Undergoes reduction to give methyl isocyanide",
+      "D. Gives carbylamine reaction with chloroform"
+    ],
+    "option_images": [],
+    "answer": "D. Gives carbylamine reaction with chloroform",
+    "solution": "Carbylamine reaction is shown only by primary amines, not by nitriles.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+{
+  "id": 100,
+  "chapter": "Amines",
+  "question": "The compound which will react most readily with NaOH to form methanol is",
+  "question_latex": "The\\ compound\\ which\\ will\\ react\\ most\\ readily\\ with\\ NaOH\\ to\\ form\\ methanol\\ is",
+  "question_images": ["q100_1"],
+  "options": [
+    "A. $(CH_3)_4N^+I^-$",
+    "B. $CH_3OCH_3$",
+    "C. $(CH_3)_3S^+I^-$",
+    "D. $(CH_3)_3Cl$"
+  ],
+  "option_images": [],
+  "answer": "A. $(CH_3)_4N^+I^-$",
+  "solution": "Quaternary ammonium salts undergo Hofmann elimination. \n\nStep 1:\n$$(CH_3)_4N^+I^- + NaOH \\rightarrow (CH_3)_4N^+OH^- + NaI$$\n\nStep 2:\n$$ (CH_3)_4N^+OH^- \\xrightarrow{\\Delta} (CH_3)_3N + CH_3OH $$\n\nThus, methanol is formed most readily from tetramethylammonium iodide.",
+  "solution_images": [],
+  "difficulty": "",
+  "marks": 4
+}
+
+]
+
+
+
+

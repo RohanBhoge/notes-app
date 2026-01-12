@@ -10,15 +10,17 @@ import {
   X,
 } from "lucide-react";
 import { useNavigate } from "react-router-dom";
+import ContactPopup from "../Components/ContactPopup";
 
 const LandingPage = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [showContactPopup, setShowContactPopup] = useState(false);
   const navigate = useNavigate();
 
-  // 💡 Auto-scroll to Contact section after 60 seconds
+  // 💡 Show Contact Popup after 60 seconds
   useEffect(() => {
     const timer = setTimeout(() => {
-      navigate("/contact-us");
+      setShowContactPopup(true);
     }, 60000); // 60000ms = 60 seconds
 
     return () => clearTimeout(timer); // Cleanup on unmount
@@ -47,7 +49,7 @@ const LandingPage = () => {
       {/* NAVBAR */}
       <header className="w-full bg-white shadow-lg rounded-b-3xl sticky top-0 z-50">
         <nav className="max-w-7xl mx-auto flex justify-between items-center py-6 px-8">
-          <h1 className="text-3xl font-extrabold text-[#003D99] tracking-tight" onClick={()=>navigate("/")}>
+          <h1 className="text-3xl font-extrabold text-[#003D99] tracking-tight" onClick={() => navigate("/")}>
             PAPERNEST
           </h1>
 
@@ -130,7 +132,7 @@ const LandingPage = () => {
             className="mt-14 bg-blue-600 hover:bg-blue-700 text-white font-bold px-16 py-5 rounded-full text-2xl transition-all shadow-xl hover:shadow-2xl hover:scale-105"
             onClick={() => navigate("/login-page")}
           >
-            Login   
+            Login
           </button>
         </div>
       </section>
@@ -322,7 +324,7 @@ const LandingPage = () => {
               Access resources for better teaching and student support.
             </p>
             <button className="flex items-center bg-blue-600 text-white font-bold px-8 py-3 rounded-full hover:bg-blue-700 transition-all shadow-lg hover:shadow-xl"
-            onClick={() => navigate("/login-page")}>
+              onClick={() => navigate("/login-page")}>
               Learn More <ArrowRight size={20} className="ml-2" />
             </button>
           </div>
@@ -336,7 +338,7 @@ const LandingPage = () => {
               Your one-stop platform for all study materials and exam prep.
             </p>
             <button className="flex items-center bg-blue-600 text-white font-bold px-8 py-3 rounded-full hover:bg-blue-700 transition-all shadow-lg hover:shadow-xl"
-            onClick={() => navigate("/login-page", { state: { role: "student" } })}>
+              onClick={() => navigate("/login-page", { state: { role: "student" } })}>
               Start Studying <ArrowRight size={20} className="ml-2" />
             </button>
           </div>
@@ -356,7 +358,7 @@ const LandingPage = () => {
             Reach out to us, we're here to help you succeed.
           </p>
           <button className="bg-blue-500 hover:bg-blue-600 text-white font-bold px-14 py-5 rounded-full text-2xl transition-all shadow-xl hover:shadow-2xl hover:scale-105"
-          onClick={() => navigate("/contact-us")}>
+            onClick={() => navigate("/contact-us")}>
             Contact Us
           </button>
         </div>
@@ -408,6 +410,9 @@ const LandingPage = () => {
           </div>
         </div>
       </footer>
+
+      {/* Contact Popup */}
+      {showContactPopup && <ContactPopup onClose={() => setShowContactPopup(false)} />}
     </div>
   );
 };
