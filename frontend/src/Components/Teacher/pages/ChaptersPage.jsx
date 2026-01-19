@@ -82,6 +82,42 @@ const ChaptersPage = () => {
   const [isGenerating, setIsGenerating] = useState(false); // 💡 New loading state
   const { adminAuthToken, BackendUrl } = useContext(AuthContext);
 
+  // 🔄 Sync effect: Log className changes
+  useEffect(() => {
+    console.log("[ChaptersPage] className updated:", className);
+  }, [className]);
+
+  // 🔄 Sync effect: Log examName changes
+  useEffect(() => {
+    console.log("[ChaptersPage] examName updated:", examName);
+  }, [examName]);
+
+  // 🔄 Sync effect: Log totalMarks changes
+  useEffect(() => {
+    if (totalMarks) {
+      console.log("[ChaptersPage] totalMarks updated:", totalMarks);
+    }
+  }, [totalMarks]);
+
+  // 🔄 Sync effect: Log examDate changes
+  useEffect(() => {
+    if (examDate) {
+      console.log("[ChaptersPage] examDate updated:", examDate);
+    }
+  }, [examDate]);
+
+  // 🔄 Sync effect: Log examDuration changes
+  useEffect(() => {
+    if (examDuration) {
+      console.log("[ChaptersPage] examDuration updated:", examDuration);
+    }
+  }, [examDuration]);
+
+  // 🔄 Sync effect: Log numberOfQuestions changes
+  useEffect(() => {
+    console.log("[ChaptersPage] numberOfQuestions updated:", numberOfQuestions);
+  }, [numberOfQuestions]);
+
   // --- Chapter Layout Logic (omitted for brevity) ---
 
   const isCombinedClass = selectedClass === "11th+12th";
@@ -365,17 +401,19 @@ const ChaptersPage = () => {
                   min="1"
                 />
               </div>
-              <div>
-                <label className="font-medium">Total Marks</label>
-                <input
-                  type="number"
-                  value={totalMarks}
-                  onChange={(e) => setTotalMarks(e.target.value)}
-                  className="w-full mt-1 border border-slate-300 rounded-lg px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
-                  placeholder="e.g. 100"
-                  min="1"
-                />
-              </div>
+              {mode === "Random" && (
+                <div>
+                  <label className="font-medium">Total Marks</label>
+                  <input
+                    type="number"
+                    value={totalMarks}
+                    onChange={(e) => setTotalMarks(e.target.value)}
+                    className="w-full mt-1 border border-slate-300 rounded-lg px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    placeholder="e.g. 100"
+                    min="1"
+                  />
+                </div>
+              )}
             </div>
           </div>
           {mode === "Random" && (

@@ -1,956 +1,964 @@
 [
-  {
-    "id": 1,
-    "chapter": "Optics",
-    "question": "Three immiscible transparent liquids with uniform refractive indices 3/2, 4/3 and 6/5 are arranged one on top of another. The depths of the liquids are 3 cm, 4 cm and 6 cm respectively. The apparent depth of the vessel is [MHT-CET 2024]",
-    "question_latex": "Three immiscible transparent liquids with uniform refractive indices $\\frac{3}{2}, \\frac{4}{3}$ and $\\frac{6}{5}$ are arranged one on top of another. The depths of the liquids are $3$ cm, $4$ cm and $6$ cm respectively. The apparent depth of the vessel is [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. 10 cm",
-      "B. 8 cm",
-      "C. 9 cm",
-      "D. 7 cm"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Apparent depth $A = \\sum \\frac{d_{i}}{\\mu_{i}} = \\frac{3}{3/2} + \\frac{4}{4/3} + \\frac{6}{6/5} = \\frac{3 \\times 2}{3} + \\frac{4 \\times 3}{4} + \\frac{6 \\times 5}{6} = 2 + 3 + 5 = 10$ cm.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 2,
-    "chapter": "Optics",
-    "question": "A plano convex lens fits exactly into a plano-concave lens with plane surfaces parallel to each other. The radius of curvature of the curved surface of the lenses is 'R'. If the lenses are made of different materials of refractive indices 'mu1' and 'mu2' respectively, then the focal length of the combination is [MHT-CET 2021]",
-    "question_latex": "A plano convex lens fits exactly into a plano-concave lens with plane surfaces parallel to each other. The radius of curvature of the curved surface of the lenses is '$R$'. If the lenses are made of different materials of refractive indices '$\\mu_{1}$' and '$\\mu_{2}$' respectively, then the focal length of the combination is [MHT-CET 2021]",
-    "question_images": [
-      "q502_1"
-    ],
-    "options": [
-      "A. R / (mu1 - mu2)",
-      "B. 2R / (mu2 - mu1)",
-      "C. R / 2(mu1 - mu2)",
-      "D. R / (mu2 - mu1)"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "For plano-convex: $\\frac{1}{f_{1}} = (\\mu_{1}-1)(\\frac{1}{R} - \\frac{1}{\\infty}) = \\frac{\\mu_{1}-1}{R}$. For plano-concave: $\\frac{1}{f_{2}} = (\\mu_{2}-1)(\\frac{1}{\\infty} - \\frac{1}{R}) = -\\frac{\\mu_{2}-1}{R}$. For combination: $\\frac{1}{F} = \\frac{1}{f_{1}} + \\frac{1}{f_{2}} = \\frac{\\mu_{1}-1}{R} - \\frac{\\mu_{2}-1}{R} = \\frac{\\mu_{1}-\\mu_{2}}{R} \\Rightarrow F = \\frac{R}{\\mu_{1}-\\mu_{2}}$.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 3,
-    "chapter": "Optics",
-    "question": "A ray of light is incident at an angle of incidence 45° on an equilateral prism. If the ray has minimum deviation, the refractive index of the material of the prism is [MHT-CET 2023]",
-    "question_latex": "A ray of light is incident at an angle of incidence $45^{\\circ}$ on an equilateral prism. If the ray has minimum deviation, the refractive index of the material of the prism is [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. 1.414",
-      "B. 1.5",
-      "C. 1.732",
-      "D. 1.25"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "In minimum deviation, $r = A/2$. For equilateral prism $A = 60^{\\circ}$, so $r = 30^{\\circ}$. Given $i = 45^{\\circ}$. $\\mu = \\frac{\\sin i}{\\sin r} = \\frac{\\sin 45^{\\circ}}{\\sin 30^{\\circ}} = \\frac{1/\\sqrt{2}}{1/2} = \\sqrt{2} \\approx 1.414$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 4,
-    "chapter": "Optics",
-    "question": "The critical angle for a medium is 30°. The velocity of light in this medium is [MHT-CET 2020]",
-    "question_latex": "The critical angle for a medium is $30^{\\circ}$. The velocity of light in this medium is [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. 3 x 10^8 m/s",
-      "B. 1.5 x 10^8 m/s",
-      "C. 2 x 10^8 m/s",
-      "D. 0.75 x 10^8 m/s"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "$\\mu = \\frac{1}{\\sin C} = \\frac{1}{\\sin 30^{\\circ}} = 2$. Velocity $v = \\frac{c}{\\mu} = \\frac{3 \\times 10^{8}}{2} = 1.5 \\times 10^{8}$ m/s.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 5,
-    "chapter": "Optics",
-    "question": "A astronomical telescope has an angular magnification of 10 for distant objects. The distance between the objective and the eye-piece is 44 cm. The focal length of the objective lens is [MHT-CET 2024]",
-    "question_latex": "A astronomical telescope has an angular magnification of $10$ for distant objects. The distance between the objective and the eye-piece is $44$ cm. The focal length of the objective lens is [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. 40 cm",
-      "B. 4 cm",
-      "C. 44 cm",
-      "D. 440 cm"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$M = f_{o}/f_{e} = 10 \\Rightarrow f_{o} = 10f_{e}$. Length $L = f_{o} + f_{e} = 44$. $10f_{e} + f_{e} = 44 \\Rightarrow 11f_{e} = 44 \\Rightarrow f_{e} = 4$ cm. $f_{o} = 10 \\times 4 = 40$ cm.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 6,
-    "chapter": "Optics",
-    "question": "A ray of light passes through an equilateral prism such that the angle of incidence is equal to the angle of emergence and each of these is equal to 3/4th of the angle of prism. The angle of deviation is [MHT-CET 2022]",
-    "question_latex": "A ray of light passes through an equilateral prism such that the angle of incidence is equal to the angle of emergence and each of these is equal to $3/4^{th}$ of the angle of prism. The angle of deviation is [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. 45°",
-      "B. 30°",
-      "C. 20°",
-      "D. 60°"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "$A = 60^{\\circ}$. $i = e = \\frac{3}{4} A = \\frac{3}{4} \\times 60 = 45^{\\circ}$. Deviation $\\delta = i + e - A = 45 + 45 - 60 = 30^{\\circ}$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 7,
-    "chapter": "Optics",
-    "question": "The power of a thin convex lens of focal length 25 cm is [MHT-CET 2021]",
-    "question_latex": "The power of a thin convex lens of focal length $25$ cm is [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. 4 D",
-      "B. -4 D",
-      "C. 0.04 D",
-      "D. 2.5 D"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$P = \\frac{100}{f(cm)} = \\frac{100}{25} = +4$ D.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 8,
-    "chapter": "Optics",
-    "question": "Light of wavelength 5000 Angstrom in air enters a medium of refractive index 1.5. The wavelength of light in the medium is [MHT-CET 2023]",
-    "question_latex": "Light of wavelength $5000 \\text{ \\AA}$ in air enters a medium of refractive index $1.5$. The wavelength of light in the medium is [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. 3333 Angstrom",
-      "B. 7500 Angstrom",
-      "C. 5000 Angstrom",
-      "D. 4500 Angstrom"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$\\lambda_{m} = \\frac{\\lambda_{a}}{\\mu} = \\frac{5000}{1.5} = 3333.3 \\text{ \\AA}$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 9,
-    "chapter": "Optics",
-    "question": "A ray of light is incident at an angle of 30° on one face of a prism of angle 60°. The ray emerges normally from the other face. The refractive index of the prism is [MHT-CET 2024]",
-    "question_latex": "A ray of light is incident at an angle of $30^{\\circ}$ on one face of a prism of angle $60^{\\circ}$. The ray emerges normally from the other face. The refractive index of the prism is [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. sqrt(3)",
-      "B. 1.5",
-      "C. 1.33",
-      "D. sqrt(2)"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Normal emergence $\\Rightarrow e = 0, r_{2} = 0$. Since $r_{1} + r_{2} = A$, $r_{1} = 60^{\\circ}$? Wait, if $i=30^{\\circ}$ and it emerges normally, $\\mu = \\sin i / \\sin r_{1}$ and $r_{1} = A$. $30 = \\dots$ check snip. Snippet logic: $i=2A$ returns path. In this case, $r_{1}=A=60$ leads to $\\sin 30 / \\sin 60 = (1/2)/(\\sqrt{3}/2) = 1/\\sqrt{3}$. This is $<1$, impossible. (Check question: likely $A=30^{\\circ}, i=60^{\\circ}$ or similar). Let's use snippet values: $i=2A, r=A \\Rightarrow \\mu = 2\\cos A$. If $A=30$, $\\mu = \\sqrt{3}$.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 10,
-    "chapter": "Optics",
-    "question": "Dispersion of light is caused by [MHT-CET 2019]",
-    "question_latex": "Dispersion of light is caused by [MHT-CET 2019]",
-    "question_images": [],
-    "options": [
-      "A. difference in intensities of different colors",
-      "B. difference in speeds of different colors in a medium",
-      "C. the phenomenon of total internal reflection",
-      "D. the diffraction of light"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Dispersion occurs because the refractive index of a medium (and thus the speed of light) varies with the wavelength (color) of light.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 11,
-    "chapter": "Optics",
-    "question": "A ray of light is incident on a glass plate at Brewster's angle. The reflected and refracted rays are [MHT-CET 2021]",
-    "question_latex": "A ray of light is incident on a glass plate at Brewster's angle. The reflected and refracted rays are [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. parallel to each other",
-      "B. perpendicular to each other",
-      "C. at an angle of 45° to each other",
-      "D. in the same direction"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "By Brewster's Law, when light is incident at the polarizing angle, the reflected and refracted rays are at right angles ($90^{\\circ}$) to each other.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 12,
-    "chapter": "Optics",
-    "question": "The magnifying power of a magnifying glass of focal length 5 cm is (distance of distinct vision = 25 cm) [MHT-CET 2020]",
-    "question_latex": "The magnifying power of a magnifying glass of focal length $5$ cm is (distance of distinct vision $= 25$ cm) [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. 5",
-      "B. 6",
-      "C. 4",
-      "D. 10"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "$M = 1 + D/f = 1 + 25/5 = 6$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 13,
-    "chapter": "Optics",
-    "question": "A ray of light travels from an optically denser to rarer medium. The maximum possible deviation is [MHT-CET 2023]",
-    "question_latex": "A ray of light travels from an optically denser to rarer medium. The maximum possible deviation is [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. pi - 2C",
-      "B. pi/2 - C",
-      "C. 2C",
-      "D. pi - C"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Maximum deviation occurs in TIR when the angle of incidence is just above the critical angle $C$. $\\delta = 180 - 2i \\approx 180 - 2C$.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 14,
-    "chapter": "Optics",
-    "question": "If the refractive index of water is 4/3 and that of glass is 3/2, the refractive index of glass with respect to water is [MHT-CET 2024]",
-    "question_latex": "If the refractive index of water is $4/3$ and that of glass is $3/2$, the refractive index of glass with respect to water is [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. 9/8",
-      "B. 8/9",
-      "C. 2",
-      "D. 1.5"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$\\mu_{gw} = \\frac{\\mu_{g}}{\\mu_{w}} = \\frac{3/2}{4/3} = \\frac{9}{8}$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 15,
-    "chapter": "Optics",
-    "question": "A convex lens of focal length f forms a real image of the same size as the object. The distance between the object and its image is [MHT-CET 2022]",
-    "question_latex": "A convex lens of focal length $f$ forms a real image of the same size as the object. The distance between the object and its image is [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. f",
-      "B. 2f",
-      "C. 4f",
-      "D. 3f"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "For same size real image, object is at $2f$ and image is at $2f$ on the other side. Total distance $u + v = 2f + 2f = 4f$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 16,
-    "chapter": "Optics",
-    "question": "A ray of light is incident on the surface of a liquid at an angle of 45°. If the ray is deviated by 15°, the refractive index of the liquid is [MHT-CET 2019]",
-    "question_latex": "A ray of light is incident on the surface of a liquid at an angle of $45^{\\circ}$. If the ray is deviated by $15^{\\circ}$, the refractive index of the liquid is [MHT-CET 2019]",
-    "question_images": [],
-    "options": [
-      "A. sqrt(2)",
-      "B. 1.5",
-      "C. 1.33",
-      "D. sqrt(3)"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$i = 45^{\\circ}$. $\\delta = i - r = 15 \\Rightarrow r = 30^{\\circ}$. $\\mu = \\frac{\\sin 45^{\\circ}}{\\sin 30^{\\circ}} = \\frac{1/\\sqrt{2}}{1/2} = \\sqrt{2}$.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 17,
-    "chapter": "Optics",
-    "question": "Two thin lenses of power +5 D and -2 D are placed in contact. The focal length of the combination is [MHT-CET 2021]",
-    "question_latex": "Two thin lenses of power $+5$ D and $-2$ D are placed in contact. The focal length of the combination is [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. 33.3 cm",
-      "B. 7 cm",
-      "C. 14 cm",
-      "D. 3 cm"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$P = P_{1} + P_{2} = 5 - 2 = 3$ D. $f = \\frac{100}{P} = \\frac{100}{3} = 33.3$ cm.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 18,
-    "chapter": "Optics",
-    "question": "The time taken by light to travel a distance of 3 cm in glass (mu=1.5) is [MHT-CET 2020]",
-    "question_latex": "The time taken by light to travel a distance of $3$ cm in glass ($\\mu=1.5$) is [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. 1.5 x 10^-10 s",
-      "B. 2 x 10^-10 s",
-      "C. 10^-10 s",
-      "D. 3 x 10^-10 s"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$v = \\frac{c}{\\mu} = \\frac{3 \\times 10^{8}}{1.5} = 2 \\times 10^{8}$ m/s. $t = \\frac{d}{v} = \\frac{0.03}{2 \\times 10^{8}} = 0.015 \\times 10^{-8} = 1.5 \\times 10^{-10}$ s.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 19,
-    "chapter": "Optics",
-    "question": "A prism has a refractive index of sqrt(2) and its refracting angle is 60°. At what angle must a ray be incident on it so that it suffers minimum deviation? [MHT-CET 2023]",
-    "question_latex": "A prism has a refractive index of $\\sqrt{2}$ and its refracting angle is $60^{\\circ}$. At what angle must a ray be incident on it so that it suffers minimum deviation? [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. 45°",
-      "B. 30°",
-      "C. 60°",
-      "D. 75°"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "In min. deviation, $r = A/2 = 30^{\\circ}$. $\\mu = \\frac{\\sin i}{\\sin r} \\Rightarrow \\sqrt{2} = \\frac{\\sin i}{\\sin 30^{\\circ}} \\Rightarrow \\sin i = \\sqrt{2} \\times 0.5 = \\frac{1}{\\sqrt{2}} \\Rightarrow i = 45^{\\circ}$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 20,
-    "chapter": "Optics",
-    "question": "The speed of light in vacuum is c. The optical path of light for a distance x in a medium of refractive index mu is [MHT-CET 2024]",
-    "question_latex": "The speed of light in vacuum is $c$. The optical path of light for a distance $x$ in a medium of refractive index $\\mu$ is [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. x / mu",
-      "B. mu x",
-      "C. mu / x",
-      "D. x"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Optical path $= \\mu \\times \\text{geometrical path} = \\mu x$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 21,
-    "chapter": "Optics",
-    "question": "Which color of light has the maximum speed in glass? [MHT-CET 2019]",
-    "question_latex": "Which color of light has the maximum speed in glass? [MHT-CET 2019]",
-    "question_images": [],
-    "options": [
-      "A. Red",
-      "B. Violet",
-      "C. Yellow",
-      "D. Green"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Refractive index is minimum for red light. Since $v = c/\\mu$, the speed is maximum for red light.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 22,
-    "chapter": "Optics",
-    "question": "A concave mirror has a focal length of 20 cm. At what distance should an object be placed to get a real image of magnification 2? [MHT-CET 2022]",
-    "question_latex": "A concave mirror has a focal length of $20$ cm. At what distance should an object be placed to get a real image of magnification $2$? [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. 30 cm",
-      "B. 10 cm",
-      "C. 60 cm",
-      "D. 40 cm"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$m = -v/u = -2$ (real image) $\\Rightarrow v = 2u$. $\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f} \\Rightarrow \\frac{1}{-2u} + \\frac{1}{-u} = \\frac{1}{-20} \\Rightarrow \\frac{1+2}{2u} = \\frac{1}{20} \\Rightarrow \\frac{3}{2u} = \\frac{1}{20} \\Rightarrow u = 30$ cm.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 23,
-    "chapter": "Optics",
-    "question": "The objective of a telescope has a large focal length to [MHT-CET 2021]",
-    "question_latex": "The objective of a telescope has a large focal length to [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. increase the magnifying power",
-      "B. increase the resolving power",
-      "C. reduce chromatic aberration",
-      "D. decrease the length of telescope"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$M = f_{o}/f_{e}$, so a larger $f_{o}$ increases magnification.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 24,
-    "chapter": "Optics",
-    "question": "A lens of power +2 D is merged in a liquid of refractive index 1.5. If the refractive index of glass is 1.5, the power of the lens in the liquid will be [MHT-CET 2023]",
-    "question_latex": "A lens of power $+2$ D is merged in a liquid of refractive index $1.5$. If the refractive index of glass is $1.5$, the power of the lens in the liquid will be [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. zero",
-      "B. 2 D",
-      "C. 1 D",
-      "D. infinite"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "If $\\mu_{lens} = \\mu_{liquid}$, the lens behaves like a transparent glass sheet with no bending of light. Focal length becomes infinite and power becomes zero.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 25,
-    "chapter": "Optics",
-    "question": "The dispersive power of a material depends upon [MHT-CET 2020]",
-    "question_latex": "The dispersive power of a material depends upon [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. angle of the prism",
-      "B. material of the prism only",
-      "C. angle of incidence",
-      "D. size of the prism"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Dispersive power $\\omega = \\frac{\\mu_{v}-\\mu_{r}}{\\mu_{y}-1}$ is a property of the material and does not depend on geometry.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 26,
-    "chapter": "Optics",
-    "question": "A ray of light is incident at 60° on one face of a 30° prism. The ray emerging from the other face makes an angle of 30° with the incident ray. The emergent ray is [MHT-CET 2024]",
-    "question_latex": "A ray of light is incident at $60^{\\circ}$ on one face of a $30^{\\circ}$ prism. The ray emerging from the other face makes an angle of $30^{\\circ}$ with the incident ray. The emergent ray is [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. normal to the face",
-      "B. parallel to the face",
-      "C. at an angle of 60° to the face",
-      "D. at an angle of 45° to the face"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$i = 60^{\\circ}, A = 30^{\\circ}, \\delta = 30^{\\circ}$. $\\delta = i + e - A \\Rightarrow 30 = 60 + e - 30 \\Rightarrow e = 0$. Angle of emergence $0^{\\circ}$ means the ray is normal to the surface.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 27,
-    "chapter": "Optics",
-    "question": "The resolving power of a telescope can be increased by [MHT-CET 2019]",
-    "question_latex": "The resolving power of a telescope can be increased by [MHT-CET 2019]",
-    "question_images": [],
-    "options": [
-      "A. increasing the diameter of objective",
-      "B. increasing the focal length of objective",
-      "C. decreasing the diameter of objective",
-      "D. increasing the focal length of eye-piece"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$R.P. = \\frac{D}{1.22 \\lambda}$. Resolution increases by increasing the aperture (diameter) of the objective lens.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 28,
-    "chapter": "Optics",
-    "question": "A ray of light falls on a glass surface of refractive index sqrt(3) at the polarizing angle. The angle of refraction is [MHT-CET 2022]",
-    "question_latex": "A ray of light falls on a glass surface of refractive index $\\sqrt{3}$ at the polarizing angle. The angle of refraction is [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. 30°",
-      "B. 60°",
-      "C. 45°",
-      "D. 90°"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$\\tan i_{p} = \\mu = \\sqrt{3} \\Rightarrow i_{p} = 60^{\\circ}$. At polarizing angle, $i_{p} + r = 90^{\\circ} \\Rightarrow 60 + r = 90 \\Rightarrow r = 30^{\\circ}$.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 29,
-    "chapter": "Optics",
-    "question": "The intermediate image formed by the objective of a compound microscope is [MHT-CET 2021]",
-    "question_latex": "The intermediate image formed by the objective of a compound microscope is [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. real, inverted and magnified",
-      "B. real, erect and magnified",
-      "C. virtual, erect and magnified",
-      "D. virtual, inverted and magnified"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "The objective lens of a microscope forms a real, inverted, and enlarged image of the specimen.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 30,
-    "chapter": "Optics",
-    "question": "A point object is placed at a distance of 10 cm from a convex lens of focal length 20 cm. The image formed is [MHT-CET 2023]",
-    "question_latex": "A point object is placed at a distance of $10$ cm from a convex lens of focal length $20$ cm. The image formed is [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. real and at 20 cm",
-      "B. virtual and at 20 cm",
-      "C. virtual and at 10 cm",
-      "D. real and at 10 cm"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "$u = -10, f = +20$. $\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f} \\Rightarrow \\frac{1}{v} = \\frac{1}{20} + \\frac{1}{-10} = -\\frac{1}{20} \\Rightarrow v = -20$ cm. Negative sign indicates a virtual image.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 31,
-    "chapter": "Optics",
-    "question": "The refractive index of diamond is 2.42. The speed of light in diamond is [MHT-CET 2020]",
-    "question_latex": "The refractive index of diamond is $2.42$. The speed of light in diamond is [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. 1.24 x 10^8 m/s",
-      "B. 3 x 10^8 m/s",
-      "C. 2 x 10^8 m/s",
-      "D. 1.5 x 10^8 m/s"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$v = c/\\mu = 3 \\times 10^{8} / 2.42 \\approx 1.24 \\times 10^{8}$ m/s.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 32,
-    "chapter": "Optics",
-    "question": "A ray of light incident at an angle theta on a plane mirror is reflected. The angle of deviation is [MHT-CET 2024]",
-    "question_latex": "A ray of light incident at an angle $\\theta$ on a plane mirror is reflected. The angle of deviation is [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. 180 - 2 theta",
-      "B. 90 - theta",
-      "C. 2 theta",
-      "D. 180 - theta"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Angle of deviation for a single reflection $\\delta = 180 - 2i$. Here $i = \\theta$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 33,
-    "chapter": "Optics",
-    "question": "The limit of resolution of human eye is approximately [MHT-CET 2019]",
-    "question_latex": "The limit of resolution of human eye is approximately [MHT-CET 2019]",
-    "question_images": [],
-    "options": [
-      "A. 1 minute",
-      "B. 1 second",
-      "C. 1 degree",
-      "D. 1 mm"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "The human eye can resolve two points if they subtend an angle of about $1$ minute ($1/60^{\\circ}$) at the eye.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 34,
-    "chapter": "Optics",
-    "question": "A convex lens is dipped in a liquid whose refractive index is equal to the refractive index of the lens. Its focal length will [MHT-CET 2022]",
-    "question_latex": "A convex lens is dipped in a liquid whose refractive index is equal to the refractive index of the lens. Its focal length will [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. become infinite",
-      "B. become zero",
-      "C. remain unchanged",
-      "D. become small"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Lens maker's formula: $\\frac{1}{f} = (\\frac{\\mu_{l}}{\\mu_{m}} - 1)(\\dots)$. If $\\mu_{l} = \\mu_{m}$, $1/f = 0 \\Rightarrow f = \\infty$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 35,
-    "chapter": "Optics",
-    "question": "In a simple microscope, if the focal length of the lens is 10 cm, its magnifying power for the image at infinity is [MHT-CET 2021]",
-    "question_latex": "In a simple microscope, if the focal length of the lens is $10$ cm, its magnifying power for the image at infinity is [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. 2.5",
-      "B. 3.5",
-      "C. 2",
-      "D. 5"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Magnification at infinity $M = D/f = 25/10 = 2.5$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 36,
-    "chapter": "Optics",
-    "question": "A ray of light is incident normally on one face of a right-angled isosceles prism. It suffers TIR at the hypotenuse. The refractive index of the material must be [MHT-CET 2023]",
-    "question_latex": "A ray of light is incident normally on one face of a right-angled isosceles prism. It suffers TIR at the hypotenuse. The refractive index of the material must be [MHT-CET 2023]",
-    "question_images": [
-      "q536_1"
-    ],
-    "options": [
-      "A. > 1.414",
-      "B. < 1.414",
-      "C. > 1.5",
-      "D. < 1.33"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Angle of incidence at hypotenuse is $45^{\\circ}$. For TIR: $i > C \\Rightarrow \\sin 45^{\\circ} > 1/\\mu \\Rightarrow 1/\\sqrt{2} > 1/\\mu \\Rightarrow \\mu > \\sqrt{2} \\Rightarrow \\mu > 1.414$.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 37,
-    "chapter": "Optics",
-    "question": "Mirage is a phenomenon due to [MHT-CET 2020]",
-    "question_latex": "Mirage is a phenomenon due to [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. total internal reflection",
-      "B. diffraction",
-      "C. scattering",
-      "D. polarization"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "A mirage is an optical illusion caused by the total internal reflection of light in the air layers of different densities near the ground.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 38,
-    "chapter": "Optics",
-    "question": "A fish looking up through water (mu=4/3) sees the outside world contained in a circular horizon. The radius of this circle if the fish is 7 cm below surface is [MHT-CET 2024]",
-    "question_latex": "A fish looking up through water ($\\mu=4/3$) sees the outside world contained in a circular horizon. The radius of this circle if the fish is $7$ cm below surface is [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. 7.9 cm",
-      "B. 3.2 cm",
-      "C. 6.3 cm",
-      "D. 10 cm"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$r = \\frac{h}{\\sqrt{\\mu^{2}-1}} = \\frac{7}{\\sqrt{(16/9)-1}} = \\frac{7}{\\sqrt{7/9}} = \\frac{7 \\times 3}{\\sqrt{7}} = 3\\sqrt{7} \\approx 3 \\times 2.646 = 7.938$ cm.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 39,
-    "chapter": "Optics",
-    "question": "The angle of minimum deviation for a prism of angle 60° is 30°. The refractive index of the prism is [MHT-CET 2019]",
-    "question_latex": "The angle of minimum deviation for a prism of angle $60^{\\circ}$ is $30^{\\circ}$. The refractive index of the prism is [MHT-CET 2019]",
-    "question_images": [],
-    "options": [
-      "A. 1.414",
-      "B. 1.5",
-      "C. 1.732",
-      "D. 1.33"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$\\mu = \\frac{\\sin((A+\\delta_{m})/2)}{\\sin(A/2)} = \\frac{\\sin((60+30)/2)}{\\sin(60/2)} = \\frac{\\sin 45^{\\circ}}{\\sin 30^{\\circ}} = \\sqrt{2} \\approx 1.414$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 40,
-    "chapter": "Optics",
-    "question": "Two thin lenses of focal lengths 20 cm and -40 cm are in contact. The power of the combination is [MHT-CET 2022]",
-    "question_latex": "Two thin lenses of focal lengths $20$ cm and $-40$ cm are in contact. The power of the combination is [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. +2.5 D",
-      "B. -2.5 D",
-      "C. +5 D",
-      "D. -5 D"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$P = P_{1} + P_{2} = 100/20 + 100/(-40) = 5 - 2.5 = +2.5$ D.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 41,
-    "chapter": "Optics",
-    "question": "Rainbow is formed due to [MHT-CET 2021]",
-    "question_latex": "Rainbow is formed due to [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. dispersion and total internal reflection",
-      "B. scattering and reflection",
-      "C. diffraction and reflection",
-      "D. polarization"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "A rainbow results from dispersion, refraction, and internal reflection of sunlight by water droplets.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 42,
-    "chapter": "Optics",
-    "question": "A point source of light is placed at the bottom of a water tank (mu=4/3) of depth 80 cm. The area of the surface of water through which light can emerge is [MHT-CET 2023]",
-    "question_latex": "A point source of light is placed at the bottom of a water tank ($\\mu=4/3$) of depth $80$ cm. The area of the surface of water through which light can emerge is [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. 2.58 m^2",
-      "B. 1.25 m^2",
-      "C. 3.14 m^2",
-      "D. 0.82 m^2"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$r = \\frac{h}{\\sqrt{\\mu^{2}-1}} = \\frac{0.8}{\\sqrt{7/9}} = \\frac{0.8 \\times 3}{\\sqrt{7}} = \\frac{2.4}{2.646} \\approx 0.907$ m. Area $= \\pi r^{2} = 3.14 \\times (0.907)^{2} \\approx 2.58~m^{2}$.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 43,
-    "chapter": "Optics",
-    "question": "The focal length of a convex lens is minimum for [MHT-CET 2020]",
-    "question_latex": "The focal length of a convex lens is minimum for [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. red light",
-      "B. violet light",
-      "C. yellow light",
-      "D. same for all"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "$1/f = (\\mu-1)(\\dots)$. Since $\\mu$ is maximum for violet light, $1/f$ is maximum, so $f$ is minimum for violet.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 44,
-    "chapter": "Optics",
-    "question": "A ray of light is incident on a prism of angle A at an angle i and emerges normally from the other face. If refractive index is mu, the angle of incidence i is [MHT-CET 2024]",
-    "question_latex": "A ray of light is incident on a prism of angle $A$ at an angle $i$ and emerges normally from the other face. If refractive index is $\\mu$, the angle of incidence $i$ is [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. mu A",
-      "B. A / mu",
-      "C. mu / A",
-      "D. 2 mu A"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Normal emergence $\\Rightarrow r_{2} = 0, e = 0$. So $r_{1} = A$. By Snell's Law $\\mu = \\sin i / \\sin r_{1} = \\sin i / \\sin A$. For small angles, $\\mu = i/A \\Rightarrow i = \\mu A$.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 45,
-    "chapter": "Optics",
-    "question": "The blue color of sky is due to [MHT-CET 2019]",
-    "question_latex": "The blue color of sky is due to [MHT-CET 2019]",
-    "question_images": [],
-    "options": [
-      "A. scattering of light",
-      "B. dispersion of light",
-      "C. interference of light",
-      "D. polarization of light"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Rayleigh scattering of sunlight by atmosphere particles, which is more effective for shorter wavelengths (blue), causes the sky to appear blue.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 46,
-    "chapter": "Optics",
-    "question": "A magnifying glass has a focal length of 10 cm. Its magnifying power when the image is formed at D=25 cm is [MHT-CET 2022]",
-    "question_latex": "A magnifying glass has a focal length of $10$ cm. Its magnifying power when the image is formed at $D=25$ cm is [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. 3.5",
-      "B. 2.5",
-      "C. 1.5",
-      "D. 4.5"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$M = 1 + D/f = 1 + 25/10 = 3.5$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 47,
-    "chapter": "Optics",
-    "question": "Which of the following is used in optical fibers? [MHT-CET 2021]",
-    "question_latex": "Which of the following is used in optical fibers? [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. Total internal reflection",
-      "B. Scattering",
-      "C. Diffraction",
-      "D. Interference"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Optical fibers transmit data using the principle of total internal reflection within the glass core.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 48,
-    "chapter": "Optics",
-    "question": "A ray of light is incident at Brewster's angle on a glass surface. If Brewster's angle is 60°, the refractive index is [MHT-CET 2023]",
-    "question_latex": "A ray of light is incident at Brewster's angle on a glass surface. If Brewster's angle is $60^{\\circ}$, the refractive index is [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. 1.732",
-      "B. 1.414",
-      "C. 1.5",
-      "D. 1.33"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$\\mu = \\tan i_{p} = \\tan 60^{\\circ} = \\sqrt{3} \\approx 1.732$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 49,
-    "chapter": "Optics",
-    "question": "In a compound microscope, the focal length of objective is fo and eyepiece is fe. Usually [MHT-CET 2020]",
-    "question_latex": "In a compound microscope, the focal length of objective is $f_{o}$ and eyepiece is $f_{e}$. Usually [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. fo < fe",
-      "B. fo > fe",
-      "C. fo = fe",
-      "D. fo = 2fe"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "For a microscope, both lenses have short focal lengths, but the objective's focal length is smaller than the eyepiece's.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 50,
-    "chapter": "Optics",
-    "question": "The angle of prism is A and one of its refracting surface is silvered. Light rays falling at an angle of incidence '2A' on the first surface return back through the same path after suffering reflection at the silvered surface. The refractive index of the material of the prism is [MHT-CET 2023]",
-    "question_latex": "The angle of prism is $A$ and one of its refracting surface is silvered. Light rays falling at an angle of incidence '$2A$' on the first surface return back through the same path after suffering reflection at the silvered surface. The refractive index of the material of the prism is [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. 2 sin A",
-      "B. 2 cos A",
-      "C. 2 tan A",
-      "D. 2 sin(90-A)"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "To return back, the ray must strike the silvered surface normally. Thus $r_{2} = 0$, which means $r_{1} = A$. Given $i = 2A$. Refractive index $n = \\frac{\\sin i}{\\sin r_{1}} = \\frac{\\sin 2A}{\\sin A} = \\frac{2 \\sin A \\cos A}{\\sin A} = 2 \\cos A$.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  }
+    {
+        "id": 1,
+        "chapter": "Optics",
+        "question": "Three immiscible transparent liquids with uniform refractive indices 3/2, 4/3 and 6/5 are arranged one on top of another. The depths of the liquids are 3 cm, 4 cm and 6 cm respectively. The apparent depth of the vessel is [MHT-CET 2024]",
+        "question_latex": "Three immiscible transparent liquids with uniform refractive indices $\\frac{3}{2}, \\frac{4}{3}$ and $\\frac{6}{5}$ are arranged one on top of another. The depths of the liquids are $3$ cm, $4$ cm and $6$ cm respectively. The apparent depth of the vessel is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 10 cm",
+            "B. 8 cm",
+            "C. 9 cm",
+            "D. 7 cm"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Apparent depth $A = \\sum \\frac{d_{i}}{\\mu_{i}} = \\frac{3}{3/2} + \\frac{4}{4/3} + \\frac{6}{6/5} = \\frac{3 \\times 2}{3} + \\frac{4 \\times 3}{4} + \\frac{6 \\times 5}{6} = 2 + 3 + 5 = 10$ cm.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Optics",
+        "question": "A plano convex lens fits exactly into a plano-concave lens with plane surfaces parallel to each other. The radius of curvature of the curved surface of the lenses is 'R'. If the lenses are made of different materials of refractive indices 'mu1' and 'mu2' respectively, then the focal length of the combination is [MHT-CET 2021]",
+        "question_latex": "A plano convex lens fits exactly into a plano-concave lens with plane surfaces parallel to each other. The radius of curvature of the curved surface of the lenses is '$R$'. If the lenses are made of different materials of refractive indices '$\\mu_{1}$' and '$\\mu_{2}$' respectively, then the focal length of the combination is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. R / (mu1 - mu2)",
+            "B. 2R / (mu2 - mu1)",
+            "C. R / 2(mu1 - mu2)",
+            "D. R / (mu2 - mu1)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For plano-convex: $\\frac{1}{f_{1}} = (\\mu_{1}-1)(\\frac{1}{R} - \\frac{1}{\\infty}) = \\frac{\\mu_{1}-1}{R}$. For plano-concave: $\\frac{1}{f_{2}} = (\\mu_{2}-1)(\\frac{1}{\\infty} - \\frac{1}{R}) = -\\frac{\\mu_{2}-1}{R}$. For combination: $\\frac{1}{F} = \\frac{1}{f_{1}} + \\frac{1}{f_{2}} = \\frac{\\mu_{1}-1}{R} - \\frac{\\mu_{2}-1}{R} = \\frac{\\mu_{1}-\\mu_{2}}{R} \\Rightarrow F = \\frac{R}{\\mu_{1}-\\mu_{2}}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Optics",
+        "question": "A ray of light is incident at an angle of incidence 45° on an equilateral prism. If the ray has minimum deviation, the refractive index of the material of the prism is [MHT-CET 2023]",
+        "question_latex": "A ray of light is incident at an angle of incidence $45^{\\circ}$ on an equilateral prism. If the ray has minimum deviation, the refractive index of the material of the prism is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 1.414",
+            "B. 1.5",
+            "C. 1.732",
+            "D. 1.25"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In minimum deviation, $r = A/2$. For equilateral prism $A = 60^{\\circ}$, so $r = 30^{\\circ}$. Given $i = 45^{\\circ}$. $\\mu = \\frac{\\sin i}{\\sin r} = \\frac{\\sin 45^{\\circ}}{\\sin 30^{\\circ}} = \\frac{1/\\sqrt{2}}{1/2} = \\sqrt{2} \\approx 1.414$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Optics",
+        "question": "The critical angle for a medium is 30°. The velocity of light in this medium is [MHT-CET 2020]",
+        "question_latex": "The critical angle for a medium is $30^{\\circ}$. The velocity of light in this medium is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 3 x 10^8 m/s",
+            "B. 1.5 x 10^8 m/s",
+            "C. 2 x 10^8 m/s",
+            "D. 0.75 x 10^8 m/s"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\mu = \\frac{1}{\\sin C} = \\frac{1}{\\sin 30^{\\circ}} = 2$. Velocity $v = \\frac{c}{\\mu} = \\frac{3 \\times 10^{8}}{2} = 1.5 \\times 10^{8}$ m/s.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Optics",
+        "question": "A astronomical telescope has an angular magnification of 10 for distant objects. The distance between the objective and the eye-piece is 44 cm. The focal length of the objective lens is [MHT-CET 2024]",
+        "question_latex": "A astronomical telescope has an angular magnification of $10$ for distant objects. The distance between the objective and the eye-piece is $44$ cm. The focal length of the objective lens is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 40 cm",
+            "B. 4 cm",
+            "C. 44 cm",
+            "D. 440 cm"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$M = f_{o}/f_{e} = 10 \\Rightarrow f_{o} = 10f_{e}$. Length $L = f_{o} + f_{e} = 44$. $10f_{e} + f_{e} = 44 \\Rightarrow 11f_{e} = 44 \\Rightarrow f_{e} = 4$ cm. $f_{o} = 10 \\times 4 = 40$ cm.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Optics",
+        "question": "A ray of light passes through an equilateral prism such that the angle of incidence is equal to the angle of emergence and each of these is equal to 3/4th of the angle of prism. The angle of deviation is [MHT-CET 2022]",
+        "question_latex": "A ray of light passes through an equilateral prism such that the angle of incidence is equal to the angle of emergence and each of these is equal to $3/4^{th}$ of the angle of prism. The angle of deviation is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 45°",
+            "B. 30°",
+            "C. 20°",
+            "D. 60°"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$A = 60^{\\circ}$. $i = e = \\frac{3}{4} A = \\frac{3}{4} \\times 60 = 45^{\\circ}$. Deviation $\\delta = i + e - A = 45 + 45 - 60 = 30^{\\circ}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Optics",
+        "question": "The power of a thin convex lens of focal length 25 cm is [MHT-CET 2021]",
+        "question_latex": "The power of a thin convex lens of focal length $25$ cm is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 4 D",
+            "B. -4 D",
+            "C. 0.04 D",
+            "D. 2.5 D"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$P = \\frac{100}{f(cm)} = \\frac{100}{25} = +4$ D.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Optics",
+        "question": "Light of wavelength 5000 Angstrom in air enters a medium of refractive index 1.5. The wavelength of light in the medium is [MHT-CET 2023]",
+        "question_latex": "Light of wavelength $5000 \\text{ \\AA}$ in air enters a medium of refractive index $1.5$. The wavelength of light in the medium is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 3333 Angstrom",
+            "B. 7500 Angstrom",
+            "C. 5000 Angstrom",
+            "D. 4500 Angstrom"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\lambda_{m} = \\frac{\\lambda_{a}}{\\mu} = \\frac{5000}{1.5} = 3333.3 \\text{ \\AA}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Optics",
+        "question": "A ray of light is incident at an angle of 30° on one face of a prism of angle 60°. The ray emerges normally from the other face. The refractive index of the prism is [MHT-CET 2024]",
+        "question_latex": "A ray of light is incident at an angle of $30^{\\circ}$ on one face of a prism of angle $60^{\\circ}$. The ray emerges normally from the other face. The refractive index of the prism is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. sqrt(3)",
+            "B. 1.5",
+            "C. 1.33",
+            "D. sqrt(2)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Normal emergence $\\Rightarrow e = 0, r_{2} = 0$. Since $r_{1} + r_{2} = A$, $r_{1} = 60^{\\circ}$? Wait, if $i=30^{\\circ}$ and it emerges normally, $\\mu = \\sin i / \\sin r_{1}$ and $r_{1} = A$. $30 = \\dots$ check snip. Snippet logic: $i=2A$ returns path. In this case, $r_{1}=A=60$ leads to $\\sin 30 / \\sin 60 = (1/2)/(\\sqrt{3}/2) = 1/\\sqrt{3}$. This is $<1$, impossible. (Check question: likely $A=30^{\\circ}, i=60^{\\circ}$ or similar). Let's use snippet values: $i=2A, r=A \\Rightarrow \\mu = 2\\cos A$. If $A=30$, $\\mu = \\sqrt{3}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Optics",
+        "question": "Dispersion of light is caused by [MHT-CET 2019]",
+        "question_latex": "Dispersion of light is caused by [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. difference in intensities of different colors",
+            "B. difference in speeds of different colors in a medium",
+            "C. the phenomenon of total internal reflection",
+            "D. the diffraction of light"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Dispersion occurs because the refractive index of a medium (and thus the speed of light) varies with the wavelength (color) of light.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Optics",
+        "question": "A ray of light is incident on a glass plate at Brewster's angle. The reflected and refracted rays are [MHT-CET 2021]",
+        "question_latex": "A ray of light is incident on a glass plate at Brewster's angle. The reflected and refracted rays are [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. parallel to each other",
+            "B. perpendicular to each other",
+            "C. at an angle of 45° to each other",
+            "D. in the same direction"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "By Brewster's Law, when light is incident at the polarizing angle, the reflected and refracted rays are at right angles ($90^{\\circ}$) to each other.",
+        "solution_images": [
+            "11_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Optics",
+        "question": "The magnifying power of a magnifying glass of focal length 5 cm is (distance of distinct vision = 25 cm) [MHT-CET 2020]",
+        "question_latex": "The magnifying power of a magnifying glass of focal length $5$ cm is (distance of distinct vision $= 25$ cm) [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 5",
+            "B. 6",
+            "C. 4",
+            "D. 10"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$M = 1 + D/f = 1 + 25/5 = 6$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Optics",
+        "question": "A ray of light travels from an optically denser to rarer medium. The maximum possible deviation is [MHT-CET 2023]",
+        "question_latex": "A ray of light travels from an optically denser to rarer medium. The maximum possible deviation is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. pi - 2C",
+            "B. pi/2 - C",
+            "C. 2C",
+            "D. pi - C"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Maximum deviation occurs in TIR when the angle of incidence is just above the critical angle $C$. $\\delta = 180 - 2i \\approx 180 - 2C$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Optics",
+        "question": "If the refractive index of water is 4/3 and that of glass is 3/2, the refractive index of glass with respect to water is [MHT-CET 2024]",
+        "question_latex": "If the refractive index of water is $4/3$ and that of glass is $3/2$, the refractive index of glass with respect to water is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 9/8",
+            "B. 8/9",
+            "C. 2",
+            "D. 1.5"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\mu_{gw} = \\frac{\\mu_{g}}{\\mu_{w}} = \\frac{3/2}{4/3} = \\frac{9}{8}$.",
+        "solution_images": [
+            "14_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Optics",
+        "question": "A convex lens of focal length f forms a real image of the same size as the object. The distance between the object and its image is [MHT-CET 2022]",
+        "question_latex": "A convex lens of focal length $f$ forms a real image of the same size as the object. The distance between the object and its image is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. f",
+            "B. 2f",
+            "C. 4f",
+            "D. 3f"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "For same size real image, object is at $2f$ and image is at $2f$ on the other side. Total distance $u + v = 2f + 2f = 4f$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Optics",
+        "question": "A ray of light is incident on the surface of a liquid at an angle of 45°. If the ray is deviated by 15°, the refractive index of the liquid is [MHT-CET 2019]",
+        "question_latex": "A ray of light is incident on the surface of a liquid at an angle of $45^{\\circ}$. If the ray is deviated by $15^{\\circ}$, the refractive index of the liquid is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. sqrt(2)",
+            "B. 1.5",
+            "C. 1.33",
+            "D. sqrt(3)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$i = 45^{\\circ}$. $\\delta = i - r = 15 \\Rightarrow r = 30^{\\circ}$. $\\mu = \\frac{\\sin 45^{\\circ}}{\\sin 30^{\\circ}} = \\frac{1/\\sqrt{2}}{1/2} = \\sqrt{2}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Optics",
+        "question": "Two thin lenses of power +5 D and -2 D are placed in contact. The focal length of the combination is [MHT-CET 2021]",
+        "question_latex": "Two thin lenses of power $+5$ D and $-2$ D are placed in contact. The focal length of the combination is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 33.3 cm",
+            "B. 7 cm",
+            "C. 14 cm",
+            "D. 3 cm"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$P = P_{1} + P_{2} = 5 - 2 = 3$ D. $f = \\frac{100}{P} = \\frac{100}{3} = 33.3$ cm.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Optics",
+        "question": "The time taken by light to travel a distance of 3 cm in glass (mu=1.5) is [MHT-CET 2020]",
+        "question_latex": "The time taken by light to travel a distance of $3$ cm in glass ($\\mu=1.5$) is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 1.5 x 10^-10 s",
+            "B. 2 x 10^-10 s",
+            "C. 10^-10 s",
+            "D. 3 x 10^-10 s"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$v = \\frac{c}{\\mu} = \\frac{3 \\times 10^{8}}{1.5} = 2 \\times 10^{8}$ m/s. $t = \\frac{d}{v} = \\frac{0.03}{2 \\times 10^{8}} = 0.015 \\times 10^{-8} = 1.5 \\times 10^{-10}$ s.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Optics",
+        "question": "A prism has a refractive index of sqrt(2) and its refracting angle is 60°. At what angle must a ray be incident on it so that it suffers minimum deviation? [MHT-CET 2023]",
+        "question_latex": "A prism has a refractive index of $\\sqrt{2}$ and its refracting angle is $60^{\\circ}$. At what angle must a ray be incident on it so that it suffers minimum deviation? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 45°",
+            "B. 30°",
+            "C. 60°",
+            "D. 75°"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In min. deviation, $r = A/2 = 30^{\\circ}$. $\\mu = \\frac{\\sin i}{\\sin r} \\Rightarrow \\sqrt{2} = \\frac{\\sin i}{\\sin 30^{\\circ}} \\Rightarrow \\sin i = \\sqrt{2} \\times 0.5 = \\frac{1}{\\sqrt{2}} \\Rightarrow i = 45^{\\circ}$.",
+        "solution_images": [
+            "19_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Optics",
+        "question": "The speed of light in vacuum is c. The optical path of light for a distance x in a medium of refractive index mu is [MHT-CET 2024]",
+        "question_latex": "The speed of light in vacuum is $c$. The optical path of light for a distance $x$ in a medium of refractive index $\\mu$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. x / mu",
+            "B. mu x",
+            "C. mu / x",
+            "D. x"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Optical path $= \\mu \\times \\text{geometrical path} = \\mu x$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Optics",
+        "question": "Which color of light has the maximum speed in glass? [MHT-CET 2019]",
+        "question_latex": "Which color of light has the maximum speed in glass? [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Red",
+            "B. Violet",
+            "C. Yellow",
+            "D. Green"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Refractive index is minimum for red light. Since $v = c/\\mu$, the speed is maximum for red light.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Optics",
+        "question": "A concave mirror has a focal length of 20 cm. At what distance should an object be placed to get a real image of magnification 2? [MHT-CET 2022]",
+        "question_latex": "A concave mirror has a focal length of $20$ cm. At what distance should an object be placed to get a real image of magnification $2$? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 30 cm",
+            "B. 10 cm",
+            "C. 60 cm",
+            "D. 40 cm"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$m = -v/u = -2$ (real image) $\\Rightarrow v = 2u$. $\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f} \\Rightarrow \\frac{1}{-2u} + \\frac{1}{-u} = \\frac{1}{-20} \\Rightarrow \\frac{1+2}{2u} = \\frac{1}{20} \\Rightarrow \\frac{3}{2u} = \\frac{1}{20} \\Rightarrow u = 30$ cm.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Optics",
+        "question": "The objective of a telescope has a large focal length to [MHT-CET 2021]",
+        "question_latex": "The objective of a telescope has a large focal length to [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. increase the magnifying power",
+            "B. increase the resolving power",
+            "C. reduce chromatic aberration",
+            "D. decrease the length of telescope"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$M = f_{o}/f_{e}$, so a larger $f_{o}$ increases magnification.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Optics",
+        "question": "A lens of power +2 D is merged in a liquid of refractive index 1.5. If the refractive index of glass is 1.5, the power of the lens in the liquid will be [MHT-CET 2023]",
+        "question_latex": "A lens of power $+2$ D is merged in a liquid of refractive index $1.5$. If the refractive index of glass is $1.5$, the power of the lens in the liquid will be [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. 2 D",
+            "C. 1 D",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "If $\\mu_{lens} = \\mu_{liquid}$, the lens behaves like a transparent glass sheet with no bending of light. Focal length becomes infinite and power becomes zero.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Optics",
+        "question": "The dispersive power of a material depends upon [MHT-CET 2020]",
+        "question_latex": "The dispersive power of a material depends upon [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. angle of the prism",
+            "B. material of the prism only",
+            "C. angle of incidence",
+            "D. size of the prism"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Dispersive power $\\omega = \\frac{\\mu_{v}-\\mu_{r}}{\\mu_{y}-1}$ is a property of the material and does not depend on geometry.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Optics",
+        "question": "A ray of light is incident at 60° on one face of a 30° prism. The ray emerging from the other face makes an angle of 30° with the incident ray. The emergent ray is [MHT-CET 2024]",
+        "question_latex": "A ray of light is incident at $60^{\\circ}$ on one face of a $30^{\\circ}$ prism. The ray emerging from the other face makes an angle of $30^{\\circ}$ with the incident ray. The emergent ray is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. normal to the face",
+            "B. parallel to the face",
+            "C. at an angle of 60° to the face",
+            "D. at an angle of 45° to the face"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$i = 60^{\\circ}, A = 30^{\\circ}, \\delta = 30^{\\circ}$. $\\delta = i + e - A \\Rightarrow 30 = 60 + e - 30 \\Rightarrow e = 0$. Angle of emergence $0^{\\circ}$ means the ray is normal to the surface.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Optics",
+        "question": "The resolving power of a telescope can be increased by [MHT-CET 2019]",
+        "question_latex": "The resolving power of a telescope can be increased by [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. increasing the diameter of objective",
+            "B. increasing the focal length of objective",
+            "C. decreasing the diameter of objective",
+            "D. increasing the focal length of eye-piece"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$R.P. = \\frac{D}{1.22 \\lambda}$. Resolution increases by increasing the aperture (diameter) of the objective lens.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Optics",
+        "question": "A ray of light falls on a glass surface of refractive index sqrt(3) at the polarizing angle. The angle of refraction is [MHT-CET 2022]",
+        "question_latex": "A ray of light falls on a glass surface of refractive index $\\sqrt{3}$ at the polarizing angle. The angle of refraction is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 30°",
+            "B. 60°",
+            "C. 45°",
+            "D. 90°"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\tan i_{p} = \\mu = \\sqrt{3} \\Rightarrow i_{p} = 60^{\\circ}$. At polarizing angle, $i_{p} + r = 90^{\\circ} \\Rightarrow 60 + r = 90 \\Rightarrow r = 30^{\\circ}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Optics",
+        "question": "The intermediate image formed by the objective of a compound microscope is [MHT-CET 2021]",
+        "question_latex": "The intermediate image formed by the objective of a compound microscope is [MHT-CET 2021]",
+        "question_images": [
+            "29_qu_1.png"
+        ],
+        "options": [
+            "A. real, inverted and magnified",
+            "B. real, erect and magnified",
+            "C. virtual, erect and magnified",
+            "D. virtual, inverted and magnified"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The objective lens of a microscope forms a real, inverted, and enlarged image of the specimen.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Optics",
+        "question": "A point object is placed at a distance of 10 cm from a convex lens of focal length 20 cm. The image formed is [MHT-CET 2023]",
+        "question_latex": "A point object is placed at a distance of $10$ cm from a convex lens of focal length $20$ cm. The image formed is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. real and at 20 cm",
+            "B. virtual and at 20 cm",
+            "C. virtual and at 10 cm",
+            "D. real and at 10 cm"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$u = -10, f = +20$. $\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f} \\Rightarrow \\frac{1}{v} = \\frac{1}{20} + \\frac{1}{-10} = -\\frac{1}{20} \\Rightarrow v = -20$ cm. Negative sign indicates a virtual image.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Optics",
+        "question": "The refractive index of diamond is 2.42. The speed of light in diamond is [MHT-CET 2020]",
+        "question_latex": "The refractive index of diamond is $2.42$. The speed of light in diamond is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 1.24 x 10^8 m/s",
+            "B. 3 x 10^8 m/s",
+            "C. 2 x 10^8 m/s",
+            "D. 1.5 x 10^8 m/s"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$v = c/\\mu = 3 \\times 10^{8} / 2.42 \\approx 1.24 \\times 10^{8}$ m/s.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Optics",
+        "question": "A ray of light incident at an angle theta on a plane mirror is reflected. The angle of deviation is [MHT-CET 2024]",
+        "question_latex": "A ray of light incident at an angle $\\theta$ on a plane mirror is reflected. The angle of deviation is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 180 - 2 theta",
+            "B. 90 - theta",
+            "C. 2 theta",
+            "D. 180 - theta"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Angle of deviation for a single reflection $\\delta = 180 - 2i$. Here $i = \\theta$.",
+        "solution_images": [
+            "32_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Optics",
+        "question": "The limit of resolution of human eye is approximately [MHT-CET 2019]",
+        "question_latex": "The limit of resolution of human eye is approximately [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 1 minute",
+            "B. 1 second",
+            "C. 1 degree",
+            "D. 1 mm"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The human eye can resolve two points if they subtend an angle of about $1$ minute ($1/60^{\\circ}$) at the eye.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Optics",
+        "question": "A convex lens is dipped in a liquid whose refractive index is equal to the refractive index of the lens. Its focal length will [MHT-CET 2022]",
+        "question_latex": "A convex lens is dipped in a liquid whose refractive index is equal to the refractive index of the lens. Its focal length will [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. become infinite",
+            "B. become zero",
+            "C. remain unchanged",
+            "D. become small"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Lens maker's formula: $\\frac{1}{f} = (\\frac{\\mu_{l}}{\\mu_{m}} - 1)(\\dots)$. If $\\mu_{l} = \\mu_{m}$, $1/f = 0 \\Rightarrow f = \\infty$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Optics",
+        "question": "In a simple microscope, if the focal length of the lens is 10 cm, its magnifying power for the image at infinity is [MHT-CET 2021]",
+        "question_latex": "In a simple microscope, if the focal length of the lens is $10$ cm, its magnifying power for the image at infinity is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 2.5",
+            "B. 3.5",
+            "C. 2",
+            "D. 5"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Magnification at infinity $M = D/f = 25/10 = 2.5$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Optics",
+        "question": "A ray of light is incident normally on one face of a right-angled isosceles prism. It suffers TIR at the hypotenuse. The refractive index of the material must be [MHT-CET 2023]",
+        "question_latex": "A ray of light is incident normally on one face of a right-angled isosceles prism. It suffers TIR at the hypotenuse. The refractive index of the material must be [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. > 1.414",
+            "B. < 1.414",
+            "C. > 1.5",
+            "D. < 1.33"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Angle of incidence at hypotenuse is $45^{\\circ}$. For TIR: $i > C \\Rightarrow \\sin 45^{\\circ} > 1/\\mu \\Rightarrow 1/\\sqrt{2} > 1/\\mu \\Rightarrow \\mu > \\sqrt{2} \\Rightarrow \\mu > 1.414$.",
+        "solution_images": [
+            "36_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Optics",
+        "question": "Mirage is a phenomenon due to [MHT-CET 2020]",
+        "question_latex": "Mirage is a phenomenon due to [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. total internal reflection",
+            "B. diffraction",
+            "C. scattering",
+            "D. polarization"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "A mirage is an optical illusion caused by the total internal reflection of light in the air layers of different densities near the ground.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Optics",
+        "question": "A fish looking up through water (mu=4/3) sees the outside world contained in a circular horizon. The radius of this circle if the fish is 7 cm below surface is [MHT-CET 2024]",
+        "question_latex": "A fish looking up through water ($\\mu=4/3$) sees the outside world contained in a circular horizon. The radius of this circle if the fish is $7$ cm below surface is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 7.9 cm",
+            "B. 3.2 cm",
+            "C. 6.3 cm",
+            "D. 10 cm"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$r = \\frac{h}{\\sqrt{\\mu^{2}-1}} = \\frac{7}{\\sqrt{(16/9)-1}} = \\frac{7}{\\sqrt{7/9}} = \\frac{7 \\times 3}{\\sqrt{7}} = 3\\sqrt{7} \\approx 3 \\times 2.646 = 7.938$ cm.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Optics",
+        "question": "The angle of minimum deviation for a prism of angle 60° is 30°. The refractive index of the prism is [MHT-CET 2019]",
+        "question_latex": "The angle of minimum deviation for a prism of angle $60^{\\circ}$ is $30^{\\circ}$. The refractive index of the prism is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 1.414",
+            "B. 1.5",
+            "C. 1.732",
+            "D. 1.33"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\mu = \\frac{\\sin((A+\\delta_{m})/2)}{\\sin(A/2)} = \\frac{\\sin((60+30)/2)}{\\sin(60/2)} = \\frac{\\sin 45^{\\circ}}{\\sin 30^{\\circ}} = \\sqrt{2} \\approx 1.414$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Optics",
+        "question": "Two thin lenses of focal lengths 20 cm and -40 cm are in contact. The power of the combination is [MHT-CET 2022]",
+        "question_latex": "Two thin lenses of focal lengths $20$ cm and $-40$ cm are in contact. The power of the combination is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. +2.5 D",
+            "B. -2.5 D",
+            "C. +5 D",
+            "D. -5 D"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$P = P_{1} + P_{2} = 100/20 + 100/(-40) = 5 - 2.5 = +2.5$ D.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Optics",
+        "question": "Rainbow is formed due to [MHT-CET 2021]",
+        "question_latex": "Rainbow is formed due to [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. dispersion and total internal reflection",
+            "B. scattering and reflection",
+            "C. diffraction and reflection",
+            "D. polarization"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "A rainbow results from dispersion, refraction, and internal reflection of sunlight by water droplets.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Optics",
+        "question": "A point source of light is placed at the bottom of a water tank (mu=4/3) of depth 80 cm. The area of the surface of water through which light can emerge is [MHT-CET 2023]",
+        "question_latex": "A point source of light is placed at the bottom of a water tank ($\\mu=4/3$) of depth $80$ cm. The area of the surface of water through which light can emerge is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2.58 m^2",
+            "B. 1.25 m^2",
+            "C. 3.14 m^2",
+            "D. 0.82 m^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$r = \\frac{h}{\\sqrt{\\mu^{2}-1}} = \\frac{0.8}{\\sqrt{7/9}} = \\frac{0.8 \\times 3}{\\sqrt{7}} = \\frac{2.4}{2.646} \\approx 0.907$ m. Area $= \\pi r^{2} = 3.14 \\times (0.907)^{2} \\approx 2.58~m^{2}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Optics",
+        "question": "The focal length of a convex lens is minimum for [MHT-CET 2020]",
+        "question_latex": "The focal length of a convex lens is minimum for [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. red light",
+            "B. violet light",
+            "C. yellow light",
+            "D. same for all"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$1/f = (\\mu-1)(\\dots)$. Since $\\mu$ is maximum for violet light, $1/f$ is maximum, so $f$ is minimum for violet.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Optics",
+        "question": "A ray of light is incident on a prism of angle A at an angle i and emerges normally from the other face. If refractive index is mu, the angle of incidence i is [MHT-CET 2024]",
+        "question_latex": "A ray of light is incident on a prism of angle $A$ at an angle $i$ and emerges normally from the other face. If refractive index is $\\mu$, the angle of incidence $i$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. mu A",
+            "B. A / mu",
+            "C. mu / A",
+            "D. 2 mu A"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Normal emergence $\\Rightarrow r_{2} = 0, e = 0$. So $r_{1} = A$. By Snell's Law $\\mu = \\sin i / \\sin r_{1} = \\sin i / \\sin A$. For small angles, $\\mu = i/A \\Rightarrow i = \\mu A$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Optics",
+        "question": "The blue color of sky is due to [MHT-CET 2019]",
+        "question_latex": "The blue color of sky is due to [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. scattering of light",
+            "B. dispersion of light",
+            "C. interference of light",
+            "D. polarization of light"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Rayleigh scattering of sunlight by atmosphere particles, which is more effective for shorter wavelengths (blue), causes the sky to appear blue.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Optics",
+        "question": "A magnifying glass has a focal length of 10 cm. Its magnifying power when the image is formed at D=25 cm is [MHT-CET 2022]",
+        "question_latex": "A magnifying glass has a focal length of $10$ cm. Its magnifying power when the image is formed at $D=25$ cm is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 3.5",
+            "B. 2.5",
+            "C. 1.5",
+            "D. 4.5"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$M = 1 + D/f = 1 + 25/10 = 3.5$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Optics",
+        "question": "Which of the following is used in optical fibers? [MHT-CET 2021]",
+        "question_latex": "Which of the following is used in optical fibers? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Total internal reflection",
+            "B. Scattering",
+            "C. Diffraction",
+            "D. Interference"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Optical fibers transmit data using the principle of total internal reflection within the glass core.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Optics",
+        "question": "A ray of light is incident at Brewster's angle on a glass surface. If Brewster's angle is 60°, the refractive index is [MHT-CET 2023]",
+        "question_latex": "A ray of light is incident at Brewster's angle on a glass surface. If Brewster's angle is $60^{\\circ}$, the refractive index is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 1.732",
+            "B. 1.414",
+            "C. 1.5",
+            "D. 1.33"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\mu = \\tan i_{p} = \\tan 60^{\\circ} = \\sqrt{3} \\approx 1.732$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "    ",
+        "question": "In a compound microscope, the focal length of objective is fo and eyepiece is fe. Usually [MHT-CET 2020]",
+        "question_latex": "In a compound microscope, the focal length of objective is $f_{o}$ and eyepiece is $f_{e}$. Usually [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. fo < fe",
+            "B. fo > fe",
+            "C. fo = fe",
+            "D. fo = 2fe"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For a microscope, both lenses have short focal lengths, but the objective's focal length is smaller than the eyepiece's.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Optics",
+        "question": "The angle of prism is A and one of its refracting surface is silvered. Light rays falling at an angle of incidence '2A' on the first surface return back through the same path after suffering reflection at the silvered surface. The refractive index of the material of the prism is [MHT-CET 2023]",
+        "question_latex": "The angle of prism is $A$ and one of its refracting surface is silvered. Light rays falling at an angle of incidence '$2A$' on the first surface return back through the same path after suffering reflection at the silvered surface. The refractive index of the material of the prism is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2 sin A",
+            "B. 2 cos A",
+            "C. 2 tan A",
+            "D. 2 sin(90-A)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "To return back, the ray must strike the silvered surface normally. Thus $r_{2} = 0$, which means $r_{1} = A$. Given $i = 2A$. Refractive index $n = \\frac{\\sin i}{\\sin r_{1}} = \\frac{\\sin 2A}{\\sin A} = \\frac{2 \\sin A \\cos A}{\\sin A} = 2 \\cos A$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    }
 ]

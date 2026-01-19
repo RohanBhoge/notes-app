@@ -30,12 +30,11 @@ const InputField = ({
       disabled={disabled}
       readOnly={isReadonly}
       name={name}
-      className={`w-full px-3 py-2 border rounded-lg text-sm ${
-        disabled || isReadonly
+      className={`w-full px-3 py-2 border rounded-lg text-sm ${disabled || isReadonly
         ? "bg-slate-100 text-slate-600"
         : "bg-white border-slate-300 focus:border-blue-500"
-      }`}
-      />
+        }`}
+    />
   </div>
 );
 
@@ -48,9 +47,9 @@ const OmrPage = ({ paper: propPaper, onBack, onSaved }) => {
   const [paper, setPaper] = useState(null);
   const [fetchedData, setFetchedData] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
-  
-  const API_BASE_URL = BackendUrl+"/api/paperdata/paper";
-  const OCR_API_URL = BackendUrl+"/api/ocrTest/ocr-extract";
+
+  const API_BASE_URL = BackendUrl + "/api/paperdata/paper";
+  const OCR_API_URL = BackendUrl + "/api/ocrTest/ocr-extract";
   useEffect(() => {
     console.log("Form state updated:", form);
   }, [form]);
@@ -66,6 +65,32 @@ const OmrPage = ({ paper: propPaper, onBack, onSaved }) => {
       setPaper(null);
     }
   };
+
+  const downloadRandomExcel = () => {
+    const rows = [
+      ["Student ID", "Name", "Roll No", "Score", "Remarks"],
+      ...Array.from({ length: 15 }).map((_, i) => [
+        1001 + i,
+        `Student ${String.fromCharCode(65 + (i % 26))}`,
+        `R-${202400 + i}`,
+        Math.floor(Math.random() * 100),
+        Math.random() > 0.5 ? "Pass" : "Needs Improvement",
+      ]),
+    ];
+
+    const csvContent =
+      "data:text/csv;charset=utf-8," +
+      rows.map((e) => e.join(",")).join("\n");
+
+    const encodedUri = encodeURI(csvContent);
+    const link = document.createElement("a");
+    link.setAttribute("href", encodedUri);
+    link.setAttribute("download", "random_data.csv");
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+
   const handleFetchPaper = useCallback(async (paperId) => {
     if (!paperId) return;
 
@@ -92,6 +117,10 @@ const OmrPage = ({ paper: propPaper, onBack, onSaved }) => {
       if (response.data.success && response.data.data) {
         const data = response.data.data;
         setFetchedData(data);
+
+        // Trigger Random Excel Download
+        downloadRandomExcel();
+
         // setForm((prevForm) => ({
         //   ...prevForm,
         //   paperId: data.paper_id,
@@ -453,13 +482,12 @@ const OmrPage = ({ paper: propPaper, onBack, onSaved }) => {
 
           {message && (
             <div
-              className={`mt-3 px-4 py-2 rounded-md text-sm font-medium ${
-                message.type === "success"
-                  ? "bg-green-50 text-green-700 border border-green-100"
-                  : message.type === "info"
+              className={`mt-3 px-4 py-2 rounded-md text-sm font-medium ${message.type === "success"
+                ? "bg-green-50 text-green-700 border border-green-100"
+                : message.type === "info"
                   ? "bg-blue-50 text-blue-700 border border-blue-100"
                   : "bg-red-50 text-red-700 border border-red-100"
-              }`}
+                }`}
             >
               {message.text}
             </div>
@@ -467,7 +495,7 @@ const OmrPage = ({ paper: propPaper, onBack, onSaved }) => {
         </div>
       </div>
       {/* --- ADDED: Fetched Content Section --- */}
-      {fetchedData && (
+      {/* {fetchedData && (
         <div className="mt-8 bg-white rounded-xl p-8 lg:p-12 shadow-md border border-slate-300 w-full max-w-3xl mx-auto">
           <h2 className="text-xl font-bold mb-4 text-slate-900 text-center">
             Retrieved Paper Content
@@ -509,7 +537,7 @@ const OmrPage = ({ paper: propPaper, onBack, onSaved }) => {
             </button>
           </div>
         </div>
-      )}{" "}
+      )} */}
     </div>
   );
 };

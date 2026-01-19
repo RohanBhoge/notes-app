@@ -400,6 +400,47 @@ const TeacherDashboard = () => {
   const { paperData, setPaperData, setExam, setStandards, setSubjects } =
     useContext(PaperContext);
 
+  // 🔄 Sync effect: Log selectedExam changes
+  useEffect(() => {
+    if (selectedExam) {
+      console.log("[TeacherDashboard] selectedExam updated:", selectedExam);
+    }
+  }, [selectedExam]);
+
+  // 🔄 Sync effect: Log selectedClass changes
+  useEffect(() => {
+    if (selectedClass) {
+      console.log("[TeacherDashboard] selectedClass updated:", selectedClass);
+    }
+  }, [selectedClass]);
+
+  // 🔄 Sync effect: Log selectedSubject changes
+  useEffect(() => {
+    if (selectedSubject) {
+      console.log("[TeacherDashboard] selectedSubject updated:", selectedSubject);
+    }
+  }, [selectedSubject]);
+
+  // 🔄 Sync effect: Log mode changes
+  useEffect(() => {
+    console.log("[TeacherDashboard] mode updated:", mode);
+  }, [mode]);
+
+  // 🔄 Sync effect: Log checkedChapters changes
+  useEffect(() => {
+    const checkedCount = Object.values(checkedChapters).filter(Boolean).length;
+    console.log("[TeacherDashboard] checkedChapters updated. Checked count:", checkedCount);
+  }, [checkedChapters]);
+
+  // 🔄 Sync effect: Sync numberOfQuestions with paperData.count
+  useEffect(() => {
+    console.log("[TeacherDashboard] numberOfQuestions updated:", numberOfQuestions);
+    setPaperData((prevData) => ({
+      ...prevData,
+      count: numberOfQuestions || 30,
+    }));
+  }, [numberOfQuestions, setPaperData]);
+
   const notices = [
     { text: "Class 12 Pre-Boards from 20 Sept.", isNew: true },
     { text: "Physics Lab sessions start next week", isNew: true },

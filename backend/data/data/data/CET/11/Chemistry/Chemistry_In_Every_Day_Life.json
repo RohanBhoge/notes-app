@@ -1,1911 +1,1902 @@
 [
-  {
-    "id": 1,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "By removal of heat food is preserved by using:",
-    "question_latex": "By removal of heat food is preserved by using:",
-    "question_images": [],
-    "options": [
-      "A. Refrigeration",
-      "B. Freezing",
-      "C. Cold storage",
-      "D. All of these"
-    ],
-    "option_images": [],
-    "answer": "D. All of these",
-    "solution": "Refrigeration, freezing, and cold storage are all methods that involve the removal of heat to slow down microbial growth and preserve food.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 2,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Antioxidants preserve the food by reacting with ______ generated in food.",
-    "question_latex": "Antioxidants preserve the food by reacting with ______ generated in food.",
-    "question_images": [],
-    "options": [
-      "A. cations",
-      "B. anions",
-      "C. free radicals",
-      "D. double bonds"
-    ],
-    "option_images": [],
-    "answer": "C. free radicals",
-    "solution": "Antioxidants prevent oxidative rancidity by reacting with highly reactive free radicals, thereby terminating the chain reactions that spoil food.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 3,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Butylated hydroxy toluene is used in [MHT-CET 2019]",
-    "question_latex": "Butylated hydroxy toluene is used in [MHT-CET 2019]",
-    "question_images": [],
-    "options": [
-      "A. preserving food grains.",
-      "B. killing bacteria in living tissues.",
-      "C. reducing stress and anxiety.",
-      "D. preventing oxidative rancidity of fats."
-    ],
-    "option_images": [],
-    "answer": "D. preventing oxidative rancidity of fats.",
-    "solution": "BHT (Butylated Hydroxy Toluene) is a synthetic antioxidant added to fats and oils to prevent them from becoming rancid due to oxidation.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 4,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Morphine is:",
-    "question_latex": "Morphine is:",
-    "question_images": [],
-    "options": [
-      "A. Narcotic analgesic",
-      "B. Non narcotic analgesic",
-      "C. Hypnotic tranquilizer",
-      "D. Non hypnotics"
-    ],
-    "option_images": [],
-    "answer": "A. Narcotic analgesic",
-    "solution": "Morphine is a powerful pain reliever derived from the opium poppy. It is classified as a narcotic analgesic because it can cause addiction and sleep.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 5,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following classification is most convenient for doctors?",
-    "question_latex": "Which of the following classification is most convenient for doctors?",
-    "question_images": [],
-    "options": [
-      "A. Based on pharmacological effects",
-      "B. Based on drug action",
-      "C. Based on chemical structure",
-      "D. Based on molecular target"
-    ],
-    "option_images": [],
-    "answer": "A. Based on pharmacological effects",
-    "solution": "Pharmacological effect classification is most useful for doctors as it groups drugs based on the whole range of their biological effects (e.g., analgesics, antiseptics).",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 6,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "The property not found in SO2 is:",
-    "question_latex": "The property not found in $SO_2$ is:",
-    "question_images": [],
-    "options": [
-      "A. Bleaching",
-      "B. Reducing",
-      "C. Oxidising",
-      "D. Acidic"
-    ],
-    "option_images": [],
-    "answer": "C. Oxidising",
-    "solution": "Sulfur dioxide ($SO_2$) primarily acts as a reducing agent, bleach, and is acidic. While it can show oxidation in specific reactions, it is most notably not used as a primary oxidizing agent in everyday chemical contexts compared to its other roles.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 7,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is an anionic detergent? [MHT-CET 2021]",
-    "question_latex": "Which of the following is an anionic detergent? [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. Sodium lauryl sulphate",
-      "B. Cetyltrimethylammonium bromide",
-      "C. Pentaerythritol monostearate",
-      "D. Polyethylene glycol stearate"
-    ],
-    "option_images": [],
-    "answer": "A. Sodium lauryl sulphate",
-    "solution": "Sodium lauryl sulphate is an anionic detergent where the large part of the molecule is an anion ($CH_3(CH_2)_{10}CH_2OSO_3^-$).",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 8,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Iproniazid and Phenelzine are examples of:",
-    "question_latex": "Iproniazid and Phenelzine are examples of:",
-    "question_images": [],
-    "options": [
-      "A. Analgesics",
-      "B. Antiseptics",
-      "C. Antidepressants",
-      "D. Antipyretics"
-    ],
-    "option_images": [],
-    "answer": "C. Antidepressants",
-    "solution": "Both Iproniazid and Phenelzine are neurological drugs used as antidepressants.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 9,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Aspirin is also known as:",
-    "question_latex": "Aspirin is also known as:",
-    "question_images": [],
-    "options": [
-      "A. Methyl salicylate",
-      "B. Acetylsalicylic acid",
-      "C. Acetylsalicylaldehyde",
-      "D. Salicylic acid"
-    ],
-    "option_images": [],
-    "answer": "B. Acetylsalicylic acid",
-    "solution": "Aspirin is chemically 2-acetoxybenzoic acid or acetylsalicylic acid.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 10,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Veronal and Luminal are derivatives of:",
-    "question_latex": "Veronal and Luminal are derivatives of:",
-    "question_images": [],
-    "options": [
-      "A. Barbituric acid",
-      "B. Acetic acid",
-      "C. Salicylic acid",
-      "D. Benzoic acid"
-    ],
-    "option_images": [],
-    "answer": "A. Barbituric acid",
-    "solution": "Barbiturates like Veronal, Luminal, and Seconal are important classes of tranquilizers derived from barbituric acid.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 11,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Drugs which are used for the treatment of stress and mild mental diseases are:",
-    "question_latex": "Drugs which are used for the treatment of stress and mild mental diseases are:",
-    "question_images": [],
-    "options": [
-      "A. Analgesics",
-      "B. Antibiotics",
-      "C. Tranquilizers",
-      "D. Antiseptics"
-    ],
-    "option_images": [],
-    "answer": "C. Tranquilizers",
-    "solution": "Tranquilizers are a class of chemical compounds used for the treatment of stress, and mild or even severe mental diseases.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 12,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is a non-narcotic analgesic?",
-    "question_latex": "Which of the following is a non-narcotic analgesic?",
-    "question_images": [],
-    "options": [
-      "A. Morphine",
-      "B. Heroin",
-      "C. Aspirin",
-      "D. Codeine"
-    ],
-    "option_images": [],
-    "answer": "C. Aspirin",
-    "solution": "Aspirin and paracetamol belong to the class of non-narcotic analgesics. They are non-addictive.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 13,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Antiseptics and disinfectants either kill or prevent growth of microorganisms. Identify which of the following is used as an antiseptic?",
-    "question_latex": "Antiseptics and disinfectants either kill or prevent growth of microorganisms. Identify which of the following is used as an antiseptic?",
-    "question_images": [],
-    "options": [
-      "A. 0.2% phenol",
-      "B. 1% phenol",
-      "C. 2% phenol",
-      "D. 5% phenol"
-    ],
-    "option_images": [],
-    "answer": "A. 0.2% phenol",
-    "solution": "Phenol can act as both an antiseptic and a disinfectant. A 0.2% solution of phenol acts as an antiseptic, while a 1% solution acts as a disinfectant.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 14,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is an antibiotic? [MHT-CET 2020]",
-    "question_latex": "Which of the following is an antibiotic? [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. Paracetamol",
-      "B. Penicillin",
-      "C. Aspirin",
-      "D. Chlorpheniramine"
-    ],
-    "option_images": [],
-    "answer": "B. Penicillin",
-    "solution": "Penicillin is a famous antibiotic used to treat bacterial infections. Alexander Fleming discovered it in 1928.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 15,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Salvarsan is an arsenic containing drug which was first used for the treatment of:",
-    "question_latex": "Salvarsan is an arsenic containing drug which was first used for the treatment of:",
-    "question_images": [],
-    "options": [
-      "A. Syphilis",
-      "B. Typhoid",
-      "C. Malaria",
-      "D. Cancer"
-    ],
-    "option_images": [],
-    "answer": "A. Syphilis",
-    "solution": "Paul Ehrlich developed Salvarsan (arsphenamine) for the treatment of syphilis.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 16,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Dettol is a mixture of:",
-    "question_latex": "Dettol is a mixture of:",
-    "question_images": [],
-    "options": [
-      "A. Chloroxylenol and terpineol",
-      "B. Chloroxylenol and phenol",
-      "C. Phenol and iodine",
-      "D. Terpineol and bithionol"
-    ],
-    "option_images": [],
-    "answer": "A. Chloroxylenol and terpineol",
-    "solution": "Commonly used antiseptic Dettol is a mixture of chloroxylenol and terpineol in a suitable solvent.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 17,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is used as an antacid? [MHT-CET 2024]",
-    "question_latex": "Which of the following is used as an antacid? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. Sodium carbonate",
-      "B. Magnesium hydroxide",
-      "C. Sodium hydroxide",
-      "D. Calcium chloride"
-    ],
-    "option_images": [],
-    "answer": "B. Magnesium hydroxide",
-    "solution": "Magnesium hydroxide (Milk of Magnesia) is a mild base used as an antacid to neutralize excess stomach acid.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 18,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Seldane is an example of:",
-    "question_latex": "Seldane is an example of:",
-    "question_images": [],
-    "options": [
-      "A. Antacid",
-      "B. Antihistamine",
-      "C. Antibiotic",
-      "D. Analgesic"
-    ],
-    "option_images": [],
-    "answer": "B. Antihistamine",
-    "solution": "Seldane (terfenadine) is a synthetic drug that acts as an antihistamine.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 19,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is a broad spectrum antibiotic? [MHT-CET 2021]",
-    "question_latex": "Which of the following is a broad spectrum antibiotic? [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. Penicillin G",
-      "B. Chloramphenicol",
-      "C. Tetracycline",
-      "D. Both B and C"
-    ],
-    "option_images": [],
-    "answer": "D. Both B and C",
-    "solution": "Broad spectrum antibiotics are effective against a wide range of Gram-positive and Gram-negative bacteria. Chloramphenicol and Tetracycline are examples.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 20,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Bithionol is added to soaps to impart which property? [MHT-CET 2022]",
-    "question_latex": "Bithionol is added to soaps to impart which property? [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. Detergency",
-      "B. Fragrance",
-      "C. Antiseptic",
-      "D. Color"
-    ],
-    "option_images": [],
-    "answer": "C. Antiseptic",
-    "solution": "Bithionol is added to medicated soaps to impart antiseptic properties and reduce odors caused by bacterial action.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 21,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is a narrow spectrum antibiotic?",
-    "question_latex": "Which of the following is a narrow spectrum antibiotic?",
-    "question_images": [],
-    "options": [
-      "A. Ampicillin",
-      "B. Chloramphenicol",
-      "C. Penicillin G",
-      "D. Vancomycin"
-    ],
-    "option_images": [],
-    "answer": "C. Penicillin G",
-    "solution": "Penicillin G is a narrow spectrum antibiotic because it is effective against a limited range of bacteria.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 22,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Artificial sweetener which is a derivative of sucrose is: [MHT-CET 2023]",
-    "question_latex": "Artificial sweetener which is a derivative of sucrose is: [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. Saccharin",
-      "B. Aspartame",
-      "C. Sucralose",
-      "D. Alitame"
-    ],
-    "option_images": [],
-    "answer": "C. Sucralose",
-    "solution": "Sucralose is a trichloro derivative of sucrose. Its appearance and taste are like sugar and it is stable at cooking temperature.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 23,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which among the following is used in the treatment of acidity? [MHT-CET 2024]",
-    "question_latex": "Which among the following is used in the treatment of acidity? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. Omeprazole",
-      "B. Lansoprazole",
-      "C. Ranitidine",
-      "D. All of these"
-    ],
-    "option_images": [],
-    "answer": "D. All of these",
-    "solution": "Modern antacids include proton pump inhibitors like Omeprazole and Lansoprazole, and $H_2$-receptor antagonists like Ranitidine.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 24,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Tincture of iodine is:",
-    "question_latex": "Tincture of iodine is:",
-    "question_images": [],
-    "options": [
-      "A. 2-3% solution of iodine in alcohol-water mixture",
-      "B. 10% solution of iodine in water",
-      "C. Solution of iodine in CCl4",
-      "D. Pure liquid iodine"
-    ],
-    "option_images": [],
-    "answer": "A. 2-3% solution of iodine in alcohol-water mixture",
-    "solution": "Tincture of iodine is a powerful antiseptic applied on wounds.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 25,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Soft soaps are made using which alkali?",
-    "question_latex": "Soft soaps are made using which alkali?",
-    "question_images": [],
-    "options": [
-      "A. NaOH",
-      "B. KOH",
-      "C. Ca(OH)2",
-      "D. NH4OH"
-    ],
-    "option_images": [],
-    "answer": "B. KOH",
-    "solution": "Potassium soaps (made with $KOH$) are soft to the skin and used as shaving creams and bath soaps.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 26,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is a cationic detergent?",
-    "question_latex": "Which of the following is a cationic detergent?",
-    "question_images": [],
-    "options": [
-      "A. Sodium stearate",
-      "B. Sodium dodecylbenzene sulphonate",
-      "C. Cetyltrimethylammonium bromide",
-      "D. Glyceryl oleate"
-    ],
-    "option_images": [],
-    "answer": "C. Cetyltrimethylammonium bromide",
-    "solution": "Cationic detergents are quaternary ammonium salts of amines with acetates, chlorides, or bromides as anions.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 27,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "The use of aspartame is limited to cold foods and soft drinks because:",
-    "question_latex": "The use of aspartame is limited to cold foods and soft drinks because:",
-    "question_images": [],
-    "options": [
-      "A. It is not sweet at high temperatures",
-      "B. It is unstable at cooking temperature",
-      "C. It reacts with oxygen",
-      "D. It is insoluble in hot water"
-    ],
-    "option_images": [],
-    "answer": "B. It is unstable at cooking temperature",
-    "solution": "Aspartame decomposes at high temperatures, hence it cannot be used in cooked foods.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 28,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is used in the treatment of malaria?",
-    "question_latex": "Which of the following is used in the treatment of malaria?",
-    "question_images": [],
-    "options": [
-      "A. Quinine",
-      "B. Chloroquine",
-      "C. Primaquine",
-      "D. All of these"
-    ],
-    "option_images": [],
-    "answer": "D. All of these",
-    "solution": "Several drugs like quinine, chloroquine, and primaquine are used as antimalarials.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 29,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Non-ionic detergents are formed by the reaction between:",
-    "question_latex": "Non-ionic detergents are formed by the reaction between:",
-    "question_images": [],
-    "options": [
-      "A. Stearic acid and polyethylene glycol",
-      "B. Lauryl alcohol and H2SO4",
-      "C. Sodium hydroxide and fat",
-      "D. Trimethylamine and methyl bromide"
-    ],
-    "option_images": [],
-    "answer": "A. Stearic acid and polyethylene glycol",
-    "solution": "Non-ionic detergents do not contain any ion in their constitution. Example: reaction of stearic acid with polyethylene glycol.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 30,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Mestranol is a component of:",
-    "question_latex": "Mestranol is a component of:",
-    "question_images": [],
-    "options": [
-      "A. Antiseptics",
-      "B. Antifertility drugs",
-      "C. Tranquilizers",
-      "D. Antibiotics"
-    ],
-    "option_images": [],
-    "answer": "B. Antifertility drugs",
-    "solution": "Mestranol is a synthetic estrogen used in combination with progesterone derivatives in birth control pills.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 31,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "0.2% solution of phenol acts as an antiseptic, while 1% solution acts as a:",
-    "question_latex": "0.2% solution of phenol acts as an antiseptic, while 1% solution acts as a:",
-    "question_images": [],
-    "options": [
-      "A. Antibiotic",
-      "B. Disinfectant",
-      "C. Analgesic",
-      "D. Antacid"
-    ],
-    "option_images": [],
-    "answer": "B. Disinfectant",
-    "solution": "Disinfectants are applied to inanimate objects to kill microorganisms. Higher concentration of phenol serves this purpose.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 32,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Sodium benzoate is used as a:",
-    "question_latex": "Sodium benzoate is used as a:",
-    "question_images": [],
-    "options": [
-      "A. Antioxidant",
-      "B. Food preservative",
-      "C. Detergent",
-      "D. Sweetener"
-    ],
-    "option_images": [],
-    "answer": "B. Food preservative",
-    "solution": "Sodium benzoate ($C_6H_5COONa$) is one of the most commonly used chemical food preservatives.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 33,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Amoxycillin is a semi-synthetic modification of:",
-    "question_latex": "Amoxycillin is a semi-synthetic modification of:",
-    "question_images": [],
-    "options": [
-      "A. Tetracycline",
-      "B. Chloramphenicol",
-      "C. Penicillin",
-      "D. Streptomycin"
-    ],
-    "option_images": [],
-    "answer": "C. Penicillin",
-    "solution": "Ampicillin and Amoxycillin are semi-synthetic penicillins with a broader spectrum than Penicillin G.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 34,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is a bactericidal antibiotic?",
-    "question_latex": "Which of the following is a bactericidal antibiotic?",
-    "question_images": [],
-    "options": [
-      "A. Erythromycin",
-      "B. Tetracycline",
-      "C. Penicillin",
-      "D. Chloramphenicol"
-    ],
-    "option_images": [],
-    "answer": "C. Penicillin",
-    "solution": "Bactericidal antibiotics kill bacteria. Examples include Penicillin, Aminoglycosides, and Ofloxacin.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 35,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "The sweetening agent which is 2000 times sweeter than sucrose is:",
-    "question_latex": "The sweetening agent which is 2000 times sweeter than sucrose is:",
-    "question_images": [],
-    "options": [
-      "A. Aspartame",
-      "B. Alitame",
-      "C. Sucralose",
-      "D. Saccharin"
-    ],
-    "option_images": [],
-    "answer": "B. Alitame",
-    "solution": "Alitame is a high potency sweetener, though its sweetness control is difficult.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 36,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Saccharin is:",
-    "question_latex": "Saccharin is:",
-    "question_images": [],
-    "options": [
-      "A. ortho-sulphobenzimide",
-      "B. para-sulphobenzimide",
-      "C. Sodium benzoate",
-      "D. Aspartylphenylalanine methyl ester"
-    ],
-    "option_images": [],
-    "answer": "A. ortho-sulphobenzimide",
-    "solution": "Saccharin (ortho-sulphobenzimide) was the first popular artificial sweetening agent.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 37,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Liquid dishwashing detergents belong to the class of:",
-    "question_latex": "Liquid dishwashing detergents belong to the class of:",
-    "question_images": [],
-    "options": [
-      "A. Anionic detergents",
-      "B. Cationic detergents",
-      "C. Non-ionic detergents",
-      "D. Amphoteric detergents"
-    ],
-    "option_images": [],
-    "answer": "C. Non-ionic detergents",
-    "solution": "Non-ionic detergents are used in liquid dishwashing liquids. They work similarly to soaps.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 38,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Chloramphenicol is effective against:",
-    "question_latex": "Chloramphenicol is effective against:",
-    "question_images": [],
-    "options": [
-      "A. Typhoid",
-      "B. Dysentery",
-      "C. Urinary tract infections",
-      "D. All of these"
-    ],
-    "option_images": [],
-    "answer": "D. All of these",
-    "solution": "Chloramphenicol is a broad spectrum antibiotic used for acute fever, typhoid, meningitis, and pneumonia.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 39,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "What is the common name of sodium hexametaphosphate? [MHT-CET 2024]",
-    "question_latex": "What is the common name of sodium hexametaphosphate? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. Calgon",
-      "B. Borax",
-      "C. Alum",
-      "D. Gypsum"
-    ],
-    "option_images": [],
-    "answer": "A. Calgon",
-    "solution": "Sodium hexametaphosphate ($Na_6P_6O_{18}$) is commercially known as Calgon, used in water softening.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 40,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is used in birth control pills?",
-    "question_latex": "Which of the following is used in birth control pills?",
-    "question_images": [],
-    "options": [
-      "A. Progesterone",
-      "B. Ethynylestradiol",
-      "C. Norethindrone",
-      "D. All of these"
-    ],
-    "option_images": [],
-    "answer": "D. All of these",
-    "solution": "Birth control pills contain a mixture of synthetic estrogen (like ethynylestradiol) and progesterone (like norethindrone).",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 41,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Antibiotics which are effective against either Gram-positive or Gram-negative bacteria are called:",
-    "question_latex": "Antibiotics which are effective against either Gram-positive or Gram-negative bacteria are called:",
-    "question_images": [],
-    "options": [
-      "A. Broad spectrum",
-      "B. Narrow spectrum",
-      "C. Limited spectrum",
-      "D. Non-spectrum"
-    ],
-    "option_images": [],
-    "answer": "B. Narrow spectrum",
-    "solution": "If they are effective mainly against one group, they are narrow spectrum.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 42,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which among the following is a tranquilizer? [MHT-CET 2023]",
-    "question_latex": "Which among the following is a tranquilizer? [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. Equanil",
-      "B. Valium",
-      "C. Serotonin",
-      "D. All of these"
-    ],
-    "option_images": [],
-    "answer": "D. All of these",
-    "solution": "All listed compounds are used to manage stress or mental disorders.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 43,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Soaps are sodium or potassium salts of:",
-    "question_latex": "Soaps are sodium or potassium salts of:",
-    "question_images": [],
-    "options": [
-      "A. Short chain fatty acids",
-      "B. Long chain fatty acids",
-      "C. Aromatic acids",
-      "D. Dicarboxylic acids"
-    ],
-    "option_images": [],
-    "answer": "B. Long chain fatty acids",
-    "solution": "Soaps are salts of higher fatty acids like stearic, palmitic, and oleic acid.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 44,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which from the following is a preservative for fruit juices and squashes? [MHT-CET 2024]",
-    "question_latex": "Which from the following is a preservative for fruit juices and squashes? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. Sodium sulfite",
-      "B. Sodium benzoate",
-      "C. Table salt",
-      "D. Sugar"
-    ],
-    "option_images": [],
-    "answer": "A. Sodium sulfite",
-    "solution": "Sodium metabisulfite or sodium sulfite are used to preserve fruit juices because they release $SO_2$ which inhibits microbe growth.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 45,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Histamine stimulates the secretion of:",
-    "question_latex": "Histamine stimulates the secretion of:",
-    "question_images": [],
-    "options": [
-      "A. Saliva",
-      "B. Pepsin and HCl",
-      "C. Insulin",
-      "D. Bile"
-    ],
-    "option_images": [],
-    "answer": "B. Pepsin and HCl",
-    "solution": "Histamine in the stomach triggers the release of stomach acid ($HCl$) and enzymes like pepsin.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 46,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is a hypnotic drug?",
-    "question_latex": "Which of the following is a hypnotic drug?",
-    "question_images": [],
-    "options": [
-      "A. Luminal",
-      "B. Equanil",
-      "C. Valium",
-      "D. Serotonin"
-    ],
-    "option_images": [],
-    "answer": "A. Luminal",
-    "solution": "Derivatives of barbituric acid (barbiturates) are sleep-inducing (hypnotic) agents.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 47,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Prontosil is converted in the body to which active antibacterial compound?",
-    "question_latex": "Prontosil is converted in the body to which active antibacterial compound?",
-    "question_images": [],
-    "options": [
-      "A. Sulfanilamide",
-      "B. Salvarsan",
-      "C. Chloramphenicol",
-      "D. Penicillin"
-    ],
-    "option_images": [],
-    "answer": "A. Sulfanilamide",
-    "solution": "Prontosil is a prodrug; the body metabolizes it into sulfanilamide, which is the actual active antimicrobial agent.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 48,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "The charge on the hydrophilic head of a cationic detergent is carried by:",
-    "question_latex": "The charge on the hydrophilic head of a cationic detergent is carried by:",
-    "question_images": [],
-    "options": [
-      "A. Sulfur",
-      "B. Phosphorus",
-      "C. Nitrogen",
-      "D. Oxygen"
-    ],
-    "option_images": [],
-    "answer": "C. Nitrogen",
-    "solution": "Cationic detergents are quaternary ammonium salts where the positive charge is on the Nitrogen atom.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 49,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Artificial sweetener which is 600 times sweeter than sucrose is:",
-    "question_latex": "Artificial sweetener which is 600 times sweeter than sucrose is:",
-    "question_images": [],
-    "options": [
-      "A. Saccharin",
-      "B. Aspartame",
-      "C. Sucralose",
-      "D. Alitame"
-    ],
-    "option_images": [],
-    "answer": "C. Sucralose",
-    "solution": "Sucralose is roughly 600 times sweeter than cane sugar.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 50,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following does not cause addiction? [MHT-CET 2021]",
-    "question_latex": "Which of the following does not cause addiction? [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. Heroin",
-      "B. Morphine",
-      "C. Aspirin",
-      "D. Codeine"
-    ],
-    "option_images": [],
-    "answer": "C. Aspirin",
-    "solution": "Aspirin is a non-narcotic analgesic and does not lead to drug addiction.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 51,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Polyethylene glycol is used in the preparation of which type of detergent? [MHT-CET 2024]",
-    "question_latex": "Polyethylene glycol is used in the preparation of which type of detergent? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. Cationic",
-      "B. Anionic",
-      "C. Non-ionic",
-      "D. Medicated"
-    ],
-    "option_images": [],
-    "answer": "C. Non-ionic",
-    "solution": "Non-ionic detergents are formed by the esterification of polyethylene glycol with fatty acids like stearic acid.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 52,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which functional group is present in aspartame? [MHT-CET 2024]",
-    "question_latex": "Which functional group is present in aspartame? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. Amide",
-      "B. Ester",
-      "C. Carboxylic acid",
-      "D. All of these"
-    ],
-    "option_images": [],
-    "answer": "D. All of these",
-    "solution": "Aspartame is a methyl ester of a dipeptide (aspartyl-phenylalanine), containing carboxylic acid, amine, amide, and ester groups.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 53,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is a bacteriostatic antibiotic?",
-    "question_latex": "Which of the following is a bacteriostatic antibiotic?",
-    "question_images": [],
-    "options": [
-      "A. Penicillin",
-      "B. Aminoglycosides",
-      "C. Tetracycline",
-      "D. Ofloxacin"
-    ],
-    "option_images": [],
-    "answer": "C. Tetracycline",
-    "solution": "Bacteriostatic antibiotics inhibit the growth of bacteria. Examples: Erythromycin, Tetracycline, Chloramphenicol.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 54,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "A substance which can act as both antiseptic and disinfectant is:",
-    "question_latex": "A substance which can act as both antiseptic and disinfectant is:",
-    "question_images": [],
-    "options": [
-      "A. Phenol",
-      "B. Iodine",
-      "C. Chloroxylenol",
-      "D. Bithionol"
-    ],
-    "option_images": [],
-    "answer": "A. Phenol",
-    "solution": "Concentration determines the usage of phenol (0.2% vs 1%).",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 55,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which sweetening agent is used for diabetic patients? [MHT-CET 2020]",
-    "question_latex": "Which sweetening agent is used for diabetic patients? [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. Sucrose",
-      "B. Glucose",
-      "C. Saccharin",
-      "D. Maltose"
-    ],
-    "option_images": [],
-    "answer": "C. Saccharin",
-    "solution": "Artificial sweeteners like saccharin provide zero calories and do not affect blood sugar levels, making them suitable for diabetics.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 56,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "The hydrophilic part of a soap molecule is:",
-    "question_latex": "The hydrophilic part of a soap molecule is:",
-    "question_images": [],
-    "options": [
-      "A. Long hydrocarbon chain",
-      "B. Carboxylate group",
-      "C. Benzene ring",
-      "D. Methyl group"
-    ],
-    "option_images": [],
-    "answer": "B. Carboxylate group",
-    "solution": "The ionic head ($-COO^-Na^+$) is polar and water-loving (hydrophilic).",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 57,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is used in hair conditioners? [MHT-CET 2024]",
-    "question_latex": "Which of the following is used in hair conditioners? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. Anionic detergents",
-      "B. Cationic detergents",
-      "C. Non-ionic detergents",
-      "D. Soaps"
-    ],
-    "option_images": [],
-    "answer": "B. Cationic detergents",
-    "solution": "Cationic detergents like cetyltrimethylammonium bromide are used in hair conditioners due to their affinity for the hair surface.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 58,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "The use of BHA in food is to:",
-    "question_latex": "The use of BHA in food is to:",
-    "question_images": [],
-    "options": [
-      "A. Increase sweetness",
-      "B. Act as preservative",
-      "C. Prevent oxidation",
-      "D. Add color"
-    ],
-    "option_images": [],
-    "answer": "C. Prevent oxidation",
-    "solution": "BHA (Butylated Hydroxy Anisole) is an antioxidant used to prevent rancidity.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 59,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Chloroxylenol is a component of:",
-    "question_latex": "Chloroxylenol is a component of:",
-    "question_images": [],
-    "options": [
-      "A. Aspirin",
-      "B. Dettol",
-      "C. Soap",
-      "D. Penicillin"
-    ],
-    "option_images": [],
-    "answer": "B. Dettol",
-    "solution": "It is the main active ingredient in Dettol.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 60,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is a competitive inhibitor of an enzyme?",
-    "question_latex": "Which of the following is a competitive inhibitor of an enzyme?",
-    "question_images": [],
-    "options": [
-      "A. Drug with same shape as substrate",
-      "B. Drug with different shape than substrate",
-      "C. Metal ion",
-      "D. Co-enzyme"
-    ],
-    "option_images": [],
-    "answer": "A. Drug with same shape as substrate",
-    "solution": "Competitive inhibitors compete with the natural substrate for the active site of the enzyme because of their structural similarity.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 61,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Soap does not work in hard water because:",
-    "question_latex": "Soap does not work in hard water because:",
-    "question_images": [],
-    "options": [
-      "A. It is insoluble in water",
-      "B. It forms insoluble calcium and magnesium salts",
-      "C. It is basic",
-      "D. Hard water is too cold"
-    ],
-    "option_images": [],
-    "answer": "B. It forms insoluble calcium and magnesium salts",
-    "solution": "Hard water contains $Ca^{2+}$ and $Mg^{2+}$ which react with soap to form gummy precipitates (scum).",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 62,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which artificial sweetener is most stable? [MHT-CET 2021]",
-    "question_latex": "Which artificial sweetener is most stable? [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. Aspartame",
-      "B. Saccharin",
-      "C. Sucralose",
-      "D. Alitame"
-    ],
-    "option_images": [],
-    "answer": "C. Sucralose",
-    "solution": "Sucralose is the most stable artificial sweetener at cooking temperatures.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 63,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Sulphur dioxide and sulphites are used as:",
-    "question_latex": "Sulphur dioxide and sulphites are used as:",
-    "question_images": [],
-    "options": [
-      "A. Antioxidants",
-      "B. Preservatives",
-      "C. Both A and B",
-      "D. Sweeteners"
-    ],
-    "option_images": [],
-    "answer": "C. Both A and B",
-    "solution": "In fruit juices, they act as antioxidants (preventing browning) and preservatives (inhibiting bacteria).",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 64,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Valium is a:",
-    "question_latex": "Valium is a:",
-    "question_images": [],
-    "options": [
-      "A. Antiseptic",
-      "B. Tranquilizer",
-      "C. Antibiotic",
-      "D. Analgesic"
-    ],
-    "option_images": [],
-    "answer": "B. Tranquilizer",
-    "solution": "Valium (diazepam) is a widely used benzodiazepine tranquilizer.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 65,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Iodine is used as an antiseptic in the form of:",
-    "question_latex": "Iodine is used as an antiseptic in the form of:",
-    "question_images": [],
-    "options": [
-      "A. Iodoform",
-      "B. Tincture of iodine",
-      "C. Both A and B",
-      "D. Potassium iodide"
-    ],
-    "option_images": [],
-    "answer": "C. Both A and B",
-    "solution": "Iodoform ($CHI_3$) releases iodine, and tincture is a solution form.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 66,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is not a food preservative? [MHT-CET 2024]",
-    "question_latex": "Which of the following is not a food preservative? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. Sodium benzoate",
-      "B. Table salt",
-      "C. Aspartame",
-      "D. Vinegar"
-    ],
-    "option_images": [],
-    "answer": "C. Aspartame",
-    "solution": "Aspartame is an artificial sweetener, not a preservative.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 67,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Detergents are superior to soaps because they can be used in:",
-    "question_latex": "Detergents are superior to soaps because they can be used in:",
-    "question_images": [],
-    "options": [
-      "A. Soft water only",
-      "B. Hard water",
-      "C. Acidic water",
-      "D. Both B and C"
-    ],
-    "option_images": [],
-    "answer": "D. Both B and C",
-    "solution": "Unlike soaps, detergents remain effective in hard water and acidic solutions.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 68,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is a non-ionic detergent? [MHT-CET 2020]",
-    "question_latex": "Which of the following is a non-ionic detergent? [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. Sodium lauryl sulphate",
-      "B. Cetyltrimethylammonium bromide",
-      "C. Pentaerythritol monostearate",
-      "D. All of these"
-    ],
-    "option_images": [],
-    "answer": "C. Pentaerythritol monostearate",
-    "solution": "It is a neutral molecule with long chains, often used in toothpastes and cosmetics.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 69,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which part of the detergent molecule is hydrophobic?",
-    "question_latex": "Which part of the detergent molecule is hydrophobic?",
-    "question_images": [],
-    "options": [
-      "A. Ionic head",
-      "B. Long hydrocarbon tail",
-      "C. Benzene ring only",
-      "D. Oxygen atoms"
-    ],
-    "option_images": [],
-    "answer": "B. Long hydrocarbon tail",
-    "solution": "The non-polar hydrocarbon chain is water-repelling.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 70,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "The enzyme that catalyzes the hydrolysis of sucrose is:",
-    "question_latex": "The enzyme that catalyzes the hydrolysis of sucrose is:",
-    "question_images": [],
-    "options": [
-      "A. Invertase",
-      "B. Zymase",
-      "C. Diastase",
-      "D. Urease"
-    ],
-    "option_images": [],
-    "answer": "A. Invertase",
-    "solution": "Invertase converts sucrose into glucose and fructose.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 71,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is used for disinfecting water in swimming pools?",
-    "question_latex": "Which of the following is used for disinfecting water in swimming pools?",
-    "question_images": [],
-    "options": [
-      "A. 0.2-0.4 ppm Chlorine",
-      "B. 10 ppm Chlorine",
-      "C. 0.2 ppm Phenol",
-      "D. Iodine"
-    ],
-    "option_images": [],
-    "answer": "A. 0.2-0.4 ppm Chlorine",
-    "solution": "Chlorine in low concentrations ($0.2$ to $0.4 \\ ppm$) is a common disinfectant for drinking and pool water.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 72,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Artificial sweetening agents are used because:",
-    "question_latex": "Artificial sweetening agents are used because:",
-    "question_images": [],
-    "options": [
-      "A. They are cheaper",
-      "B. They have high caloric value",
-      "C. They have no caloric value",
-      "D. They are more soluble"
-    ],
-    "option_images": [],
-    "answer": "C. They have no caloric value",
-    "solution": "They are excreted from the body unchanged, making them perfect for calorie-conscious people.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 73,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is an example of an analgesic?",
-    "question_latex": "Which of the following is an example of an analgesic?",
-    "question_images": [],
-    "options": [
-      "A. Novocain",
-      "B. Paracetamol",
-      "C. Equanil",
-      "D. Penicillin"
-    ],
-    "option_images": [],
-    "answer": "B. Paracetamol",
-    "solution": "Paracetamol is a common analgesic (pain killer) and antipyretic (fever reducer).",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 74,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Salvarsan contains which element?",
-    "question_latex": "Salvarsan contains which element?",
-    "question_images": [],
-    "options": [
-      "A. Sulfur",
-      "B. Nitrogen",
-      "C. Arsenic",
-      "D. Iron"
-    ],
-    "option_images": [],
-    "answer": "C. Arsenic",
-    "solution": "Salvarsan was one of the first effective medicines for syphilis and contains arsenic.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 75,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which drug classification is based on the chemical structure of the drug?",
-    "question_latex": "Which drug classification is based on the chemical structure of the drug?",
-    "question_images": [],
-    "options": [
-      "A. Pharmacological",
-      "B. Drug Action",
-      "C. Chemical Structure",
-      "D. Molecular Target"
-    ],
-    "option_images": [],
-    "answer": "C. Chemical Structure",
-    "solution": "Sulfonamides are a group of drugs with common structural features ($-SO_2NH_2$ group).",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 76,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "The function of antioxidants is to:",
-    "question_latex": "The function of antioxidants is to:",
-    "question_images": [],
-    "options": [
-      "A. Promote oxidation",
-      "B. Inhibit oxidation",
-      "C. Add flavor",
-      "D. Kill bacteria"
-    ],
-    "option_images": [],
-    "answer": "B. Inhibit oxidation",
-    "solution": "Antioxidants act as radical scavengers and inhibit the oxidation process in foods.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 77,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Transparent soaps are made by dissolving soap in:",
-    "question_latex": "Transparent soaps are made by dissolving soap in:",
-    "question_images": [],
-    "options": [
-      "A. Water",
-      "B. Ethanol",
-      "C. Glycerin",
-      "D. Oil"
-    ],
-    "option_images": [],
-    "answer": "B. Ethanol",
-    "solution": "Soap is dissolved in ethanol and the excess solvent is evaporated to make it transparent.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 78,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "The site of enzyme where the substrate binds is called:",
-    "question_latex": "The site of enzyme where the substrate binds is called:",
-    "question_images": [],
-    "options": [
-      "A. Allosteric site",
-      "B. Active site",
-      "C. Binding site",
-      "D. Passive site"
-    ],
-    "option_images": [],
-    "answer": "B. Active site",
-    "solution": "Active sites are pockets on the surface of enzymes where biochemical reactions occur.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 79,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is a non-hypnotic tranquilizer? [MHT-CET 2024]",
-    "question_latex": "Which of the following is a non-hypnotic tranquilizer? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. Chlordiazepoxide",
-      "B. Luminal",
-      "C. Veronal",
-      "D. Seconal"
-    ],
-    "option_images": [],
-    "answer": "A. Chlordiazepoxide",
-    "solution": "Chlordiazepoxide and Meprobamate (Equanil) are mild tranquilizers suitable for relieving tension without inducing deep sleep.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 80,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Aspartame is chemically:",
-    "question_latex": "Aspartame is chemically:",
-    "question_images": [],
-    "options": [
-      "A. Methyl ester of aspartylphenylalanine",
-      "B. Sodium saccharin",
-      "C. Trichloro derivative of sucrose",
-      "D. Dipeptide derivative of alanine"
-    ],
-    "option_images": [],
-    "answer": "A. Methyl ester of aspartylphenylalanine",
-    "solution": "It is a methyl ester dipeptide composed of aspartic acid and phenylalanine.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 81,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "The property of 'sudsiness' or lathering in soaps is increased by adding:",
-    "question_latex": "The property of 'sudsiness' or lathering in soaps is increased by adding:",
-    "question_images": [],
-    "options": [
-      "A. Sodium rosinate",
-      "B. Glycerol",
-      "C. Ethanol",
-      "D. Borax"
-    ],
-    "option_images": [],
-    "answer": "A. Sodium rosinate",
-    "solution": "Shaving soaps contain sodium rosinate which makes them lather well.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 82,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "An example of a broad spectrum antibiotic is:",
-    "question_latex": "An example of a broad spectrum antibiotic is:",
-    "question_images": [],
-    "options": [
-      "A. Penicillin G",
-      "B. Ofloxacin",
-      "C. Erythromycin",
-      "D. Lincomycin"
-    ],
-    "option_images": [],
-    "answer": "B. Ofloxacin",
-    "solution": "Ofloxacin is a synthetic broad spectrum antibiotic effective against a large variety of bacteria.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 83,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is a symptom of acidity? [MHT-CET 2024]",
-    "question_latex": "Which of the following is a symptom of acidity? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. Heartburn",
-      "B. Indigestion",
-      "C. Stomach ache",
-      "D. All of these"
-    ],
-    "option_images": [],
-    "answer": "D. All of these",
-    "solution": "Acidity causes various digestive discomforts.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 84,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Floating soaps are made by:",
-    "question_latex": "Floating soaps are made by:",
-    "question_images": [],
-    "options": [
-      "A. Adding air bubbles before hardening",
-      "B. Using very light oils",
-      "C. Dissolving in alcohol",
-      "D. Using high concentration of KOH"
-    ],
-    "option_images": [],
-    "answer": "A. Adding air bubbles before hardening",
-    "solution": "Soap is beaten with air before it sets to decrease its density.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 85,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Chemicals added to food to improve nutritional value are:",
-    "question_latex": "Chemicals added to food to improve nutritional value are:",
-    "question_images": [],
-    "options": [
-      "A. Preservatives",
-      "B. Minerals and vitamins",
-      "C. Flour improvers",
-      "D. Coloring agents"
-    ],
-    "option_images": [],
-    "answer": "B. Minerals and vitamins",
-    "solution": "Vitamins, minerals, and amino acids are added for nutritional enrichment.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 86,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is used in the treatment of allergies? [MHT-CET 2023]",
-    "question_latex": "Which of the following is used in the treatment of allergies? [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. Antihistamines",
-      "B. Analgesics",
-      "C. Antipyretics",
-      "D. Antiseptics"
-    ],
-    "option_images": [],
-    "answer": "A. Antihistamines",
-    "solution": "Antihistamines combat the effects of histamine produced during allergic reactions.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 87,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Toilet soaps are better quality soaps because they contain:",
-    "question_latex": "Toilet soaps are better quality soaps because they contain:",
-    "question_images": [],
-    "options": [
-      "A. Excess alkali",
-      "B. Better grade fats and oils",
-      "C. More water",
-      "D. Less color"
-    ],
-    "option_images": [],
-    "answer": "B. Better grade fats and oils",
-    "solution": "High quality raw materials ensure low alkalinity and better texture for skin.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 88,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is a synthetic hormone derivative used in antifertility drugs? [MHT-CET 2021]",
-    "question_latex": "Which of the following is a synthetic hormone derivative used in antifertility drugs? [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. Norethindrone",
-      "B. Testosterone",
-      "C. Insulin",
-      "D. Adrenaline"
-    ],
-    "option_images": [],
-    "answer": "A. Norethindrone",
-    "solution": "Norethindrone is a synthetic progesterone derivative.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 89,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Laundry soaps contain fillers like:",
-    "question_latex": "Laundry soaps contain fillers like:",
-    "question_images": [],
-    "options": [
-      "A. Sodium silicate",
-      "B. Borax",
-      "C. Sodium carbonate",
-      "D. All of these"
-    ],
-    "option_images": [],
-    "answer": "D. All of these",
-    "solution": "Fillers like sodium silicate, borax, and sodium carbonate are added to laundry soaps.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 90,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Antiseptics differ from disinfectants in that antiseptics are:",
-    "question_latex": "Antiseptics differ from disinfectants in that antiseptics are:",
-    "question_images": [],
-    "options": [
-      "A. Toxic",
-      "B. Safe for living tissues",
-      "C. Only for floors",
-      "D. Stronger"
-    ],
-    "option_images": [],
-    "answer": "B. Safe for living tissues",
-    "solution": "Antiseptics are applied to living tissues like wounds, while disinfectants are for inanimate objects.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 91,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which sweetening agent has the chemical name ortho-sulphobenzimide? [MHT-CET 2022]",
-    "question_latex": "Which sweetening agent has the chemical name ortho-sulphobenzimide? [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. Aspartame",
-      "B. Alitame",
-      "C. Saccharin",
-      "D. Sucralose"
-    ],
-    "option_images": [],
-    "answer": "C. Saccharin",
-    "solution": "Saccharin is chemically ortho-sulphobenzimide.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 92,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is a non-addictive pain killer?",
-    "question_latex": "Which of the following is a non-addictive pain killer?",
-    "question_images": [],
-    "options": [
-      "A. Heroin",
-      "B. Morphine",
-      "C. Paracetamol",
-      "D. Opium"
-    ],
-    "option_images": [],
-    "answer": "C. Paracetamol",
-    "solution": "Non-narcotic analgesics like paracetamol do not cause addiction.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 93,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Antifertility drugs work by:",
-    "question_latex": "Antifertility drugs work by:",
-    "question_images": [],
-    "options": [
-      "A. Killing sperm",
-      "B. Suppressing ovulation",
-      "C. Blocking the uterus",
-      "D. Increasing pH"
-    ],
-    "option_images": [],
-    "answer": "B. Suppressing ovulation",
-    "solution": "These drugs contain hormones that inhibit the release of an egg from the ovary.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 94,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which of the following is used in laundry detergents to remove protein stains?",
-    "question_latex": "Which of the following is used in laundry detergents to remove protein stains?",
-    "question_images": [],
-    "options": [
-      "A. Bleach",
-      "B. Surfactant",
-      "C. Protease enzymes",
-      "D. Fillers"
-    ],
-    "option_images": [],
-    "answer": "C. Protease enzymes",
-    "solution": "Enzymes like proteases are added to modern detergents to break down protein-based stains.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 95,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Tranquilizers are used to treat:",
-    "question_latex": "Tranquilizers are used to treat:",
-    "question_images": [],
-    "options": [
-      "A. Pain",
-      "B. Infectious diseases",
-      "C. Mental stress",
-      "D. Acidity"
-    ],
-    "option_images": [],
-    "answer": "C. Mental stress",
-    "solution": "Tranquilizers are neurological drugs used for the treatment of stress and mild or severe mental diseases.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 96,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Norethindrone is the derivative of:",
-    "question_latex": "Norethindrone is the derivative of:",
-    "question_images": [],
-    "options": [
-      "A. Estrogen",
-      "B. Progesterone",
-      "C. Testosterone",
-      "D. Novestrol"
-    ],
-    "option_images": [],
-    "answer": "B. Progesterone",
-    "solution": "Norethindrone is a synthetic progesterone derivative used in birth control pills.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 97,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Which from following statements regarding saturated fats is false? [2025]",
-    "question_latex": "Which from following statements regarding saturated fats is false? [2025]",
-    "question_images": [],
-    "options": [
-      "A. Van der Waal's forces between longer chains are stronger.",
-      "B. Long chains of tetrahedral carbon are packed closely together.",
-      "C. These are solids at room temperature.",
-      "D. These contain one or more kinks in the chain."
-    ],
-    "option_images": [],
-    "answer": "D. These contain one or more kinks in the chain.",
-    "solution": "Unsaturated fats contain $C=C$ double bonds which introduce 'kinks' in the chain. Saturated fats lack these kinks and can pack closely, making them solids.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 98,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Identify the structure of Equanil from the following options:",
-    "question_latex": "Identify the structure of Equanil from the following options:",
-    "question_images": [
-      "q1076_1"
-    ],
-    "options": [
-      "A. a",
-      "B. b",
-      "C. c",
-      "D. d"
-    ],
-    "option_images": [
-      "q1076_option_A1",
-      "q1076_option_B1",
-      "q1076_option_C1",
-      "q1076_option_D1"
-    ],
-    "answer": "C",
-    "solution": "Equanil (meprobamate) has the structure shown in option (C), containing carbamate groups and a specific alkyl chain substituent.",
-    "solution_images": [
-      "q1076_solution_1"
-    ],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 99,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Synthetic detergents are more advantageous than soaps because:",
-    "question_latex": "Synthetic detergents are more advantageous than soaps because:",
-    "question_images": [],
-    "options": [
-      "A. They are biodegradable.",
-      "B. They work efficiently in hard water.",
-      "C. They are prepared from animal fats.",
-      "D. They have higher surface tension."
-    ],
-    "option_images": [],
-    "answer": "B. They work efficiently in hard water.",
-    "solution": "Soaps form scum with $Ca^{2+}$ and $Mg^{2+}$ ions in hard water, while detergents do not, making them effective in all types of water.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 100,
-    "chapter": "Chemistry in Everyday Life",
-    "question": "Artificial sweetener which is stable at cooking temperature is: [MHT-CET 2020]",
-    "question_latex": "Artificial sweetener which is stable at cooking temperature is: [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. Aspartame",
-      "B. Saccharin",
-      "C. Sucralose",
-      "D. Alitame"
-    ],
-    "option_images": [],
-    "answer": "C. Sucralose",
-    "solution": "Sucralose is a trichloro derivative of sucrose and is stable at high temperatures, unlike aspartame.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  }
+    {
+        "id": 1,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "By removal of heat food is preserved by using:",
+        "question_latex": "By removal of heat food is preserved by using:",
+        "question_images": [],
+        "options": [
+            "A. Refrigeration",
+            "B. Freezing",
+            "C. Cold storage",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D. All of these",
+        "solution": "Refrigeration, freezing, and cold storage are all methods that involve the removal of heat to slow down microbial growth and preserve food.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Antioxidants preserve the food by reacting with ______ generated in food.",
+        "question_latex": "Antioxidants preserve the food by reacting with ______ generated in food.",
+        "question_images": [],
+        "options": [
+            "A. cations",
+            "B. anions",
+            "C. free radicals",
+            "D. double bonds"
+        ],
+        "option_images": [],
+        "answer": "C. free radicals",
+        "solution": "Antioxidants prevent oxidative rancidity by reacting with highly reactive free radicals, thereby terminating the chain reactions that spoil food.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Butylated hydroxy toluene is used in [MHT-CET 2019]",
+        "question_latex": "Butylated hydroxy toluene is used in [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. preserving food grains.",
+            "B. killing bacteria in living tissues.",
+            "C. reducing stress and anxiety.",
+            "D. preventing oxidative rancidity of fats."
+        ],
+        "option_images": [],
+        "answer": "D. preventing oxidative rancidity of fats.",
+        "solution": "BHT (Butylated Hydroxy Toluene) is a synthetic antioxidant added to fats and oils to prevent them from becoming rancid due to oxidation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Morphine is:",
+        "question_latex": "Morphine is:",
+        "question_images": [],
+        "options": [
+            "A. Narcotic analgesic",
+            "B. Non narcotic analgesic",
+            "C. Hypnotic tranquilizer",
+            "D. Non hypnotics"
+        ],
+        "option_images": [],
+        "answer": "A. Narcotic analgesic",
+        "solution": "Morphine is a powerful pain reliever derived from the opium poppy. It is classified as a narcotic analgesic because it can cause addiction and sleep.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following classification is most convenient for doctors?",
+        "question_latex": "Which of the following classification is most convenient for doctors?",
+        "question_images": [],
+        "options": [
+            "A. Based on pharmacological effects",
+            "B. Based on drug action",
+            "C. Based on chemical structure",
+            "D. Based on molecular target"
+        ],
+        "option_images": [],
+        "answer": "A. Based on pharmacological effects",
+        "solution": "Pharmacological effect classification is most useful for doctors as it groups drugs based on the whole range of their biological effects (e.g., analgesics, antiseptics).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "The property not found in SO2 is:",
+        "question_latex": "The property not found in $SO_2$ is:",
+        "question_images": [],
+        "options": [
+            "A. Bleaching",
+            "B. Reducing",
+            "C. Oxidising",
+            "D. Acidic"
+        ],
+        "option_images": [],
+        "answer": "C. Oxidising",
+        "solution": "Sulfur dioxide ($SO_2$) primarily acts as a reducing agent, bleach, and is acidic. While it can show oxidation in specific reactions, it is most notably not used as a primary oxidizing agent in everyday chemical contexts compared to its other roles.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is an anionic detergent? [MHT-CET 2021]",
+        "question_latex": "Which of the following is an anionic detergent? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Sodium lauryl sulphate",
+            "B. Cetyltrimethylammonium bromide",
+            "C. Pentaerythritol monostearate",
+            "D. Polyethylene glycol stearate"
+        ],
+        "option_images": [],
+        "answer": "A. Sodium lauryl sulphate",
+        "solution": "Sodium lauryl sulphate is an anionic detergent where the large part of the molecule is an anion ($CH_3(CH_2)_{10}CH_2OSO_3^-$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Iproniazid and Phenelzine are examples of:",
+        "question_latex": "Iproniazid and Phenelzine are examples of:",
+        "question_images": [],
+        "options": [
+            "A. Analgesics",
+            "B. Antiseptics",
+            "C. Antidepressants",
+            "D. Antipyretics"
+        ],
+        "option_images": [],
+        "answer": "C. Antidepressants",
+        "solution": "Both Iproniazid and Phenelzine are neurological drugs used as antidepressants.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Aspirin is also known as:",
+        "question_latex": "Aspirin is also known as:",
+        "question_images": [],
+        "options": [
+            "A. Methyl salicylate",
+            "B. Acetylsalicylic acid",
+            "C. Acetylsalicylaldehyde",
+            "D. Salicylic acid"
+        ],
+        "option_images": [],
+        "answer": "B. Acetylsalicylic acid",
+        "solution": "Aspirin is chemically 2-acetoxybenzoic acid or acetylsalicylic acid.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Veronal and Luminal are derivatives of:",
+        "question_latex": "Veronal and Luminal are derivatives of:",
+        "question_images": [],
+        "options": [
+            "A. Barbituric acid",
+            "B. Acetic acid",
+            "C. Salicylic acid",
+            "D. Benzoic acid"
+        ],
+        "option_images": [],
+        "answer": "A. Barbituric acid",
+        "solution": "Barbiturates like Veronal, Luminal, and Seconal are important classes of tranquilizers derived from barbituric acid.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Drugs which are used for the treatment of stress and mild mental diseases are:",
+        "question_latex": "Drugs which are used for the treatment of stress and mild mental diseases are:",
+        "question_images": [],
+        "options": [
+            "A. Analgesics",
+            "B. Antibiotics",
+            "C. Tranquilizers",
+            "D. Antiseptics"
+        ],
+        "option_images": [],
+        "answer": "C. Tranquilizers",
+        "solution": "Tranquilizers are a class of chemical compounds used for the treatment of stress, and mild or even severe mental diseases.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is a non-narcotic analgesic?",
+        "question_latex": "Which of the following is a non-narcotic analgesic?",
+        "question_images": [],
+        "options": [
+            "A. Morphine",
+            "B. Heroin",
+            "C. Aspirin",
+            "D. Codeine"
+        ],
+        "option_images": [],
+        "answer": "C. Aspirin",
+        "solution": "Aspirin and paracetamol belong to the class of non-narcotic analgesics. They are non-addictive.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Antiseptics and disinfectants either kill or prevent growth of microorganisms. Identify which of the following is used as an antiseptic?",
+        "question_latex": "Antiseptics and disinfectants either kill or prevent growth of microorganisms. Identify which of the following is used as an antiseptic?",
+        "question_images": [],
+        "options": [
+            "A. 0.2% phenol",
+            "B. 1% phenol",
+            "C. 2% phenol",
+            "D. 5% phenol"
+        ],
+        "option_images": [],
+        "answer": "A. 0.2% phenol",
+        "solution": "Phenol can act as both an antiseptic and a disinfectant. A 0.2% solution of phenol acts as an antiseptic, while a 1% solution acts as a disinfectant.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is an antibiotic? [MHT-CET 2020]",
+        "question_latex": "Which of the following is an antibiotic? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Paracetamol",
+            "B. Penicillin",
+            "C. Aspirin",
+            "D. Chlorpheniramine"
+        ],
+        "option_images": [],
+        "answer": "B. Penicillin",
+        "solution": "Penicillin is a famous antibiotic used to treat bacterial infections. Alexander Fleming discovered it in 1928.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Salvarsan is an arsenic containing drug which was first used for the treatment of:",
+        "question_latex": "Salvarsan is an arsenic containing drug which was first used for the treatment of:",
+        "question_images": [],
+        "options": [
+            "A. Syphilis",
+            "B. Typhoid",
+            "C. Malaria",
+            "D. Cancer"
+        ],
+        "option_images": [],
+        "answer": "A. Syphilis",
+        "solution": "Paul Ehrlich developed Salvarsan (arsphenamine) for the treatment of syphilis.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Dettol is a mixture of:",
+        "question_latex": "Dettol is a mixture of:",
+        "question_images": [],
+        "options": [
+            "A. Chloroxylenol and terpineol",
+            "B. Chloroxylenol and phenol",
+            "C. Phenol and iodine",
+            "D. Terpineol and bithionol"
+        ],
+        "option_images": [],
+        "answer": "A. Chloroxylenol and terpineol",
+        "solution": "Commonly used antiseptic Dettol is a mixture of chloroxylenol and terpineol in a suitable solvent.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is used as an antacid? [MHT-CET 2024]",
+        "question_latex": "Which of the following is used as an antacid? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Sodium carbonate",
+            "B. Magnesium hydroxide",
+            "C. Sodium hydroxide",
+            "D. Calcium chloride"
+        ],
+        "option_images": [],
+        "answer": "B. Magnesium hydroxide",
+        "solution": "Magnesium hydroxide (Milk of Magnesia) is a mild base used as an antacid to neutralize excess stomach acid.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Seldane is an example of:",
+        "question_latex": "Seldane is an example of:",
+        "question_images": [],
+        "options": [
+            "A. Antacid",
+            "B. Antihistamine",
+            "C. Antibiotic",
+            "D. Analgesic"
+        ],
+        "option_images": [],
+        "answer": "B. Antihistamine",
+        "solution": "Seldane (terfenadine) is a synthetic drug that acts as an antihistamine.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is a broad spectrum antibiotic? [MHT-CET 2021]",
+        "question_latex": "Which of the following is a broad spectrum antibiotic? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Penicillin G",
+            "B. Chloramphenicol",
+            "C. Tetracycline",
+            "D. Both B and C"
+        ],
+        "option_images": [],
+        "answer": "D. Both B and C",
+        "solution": "Broad spectrum antibiotics are effective against a wide range of Gram-positive and Gram-negative bacteria. Chloramphenicol and Tetracycline are examples.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Bithionol is added to soaps to impart which property? [MHT-CET 2022]",
+        "question_latex": "Bithionol is added to soaps to impart which property? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Detergency",
+            "B. Fragrance",
+            "C. Antiseptic",
+            "D. Color"
+        ],
+        "option_images": [],
+        "answer": "C. Antiseptic",
+        "solution": "Bithionol is added to medicated soaps to impart antiseptic properties and reduce odors caused by bacterial action.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is a narrow spectrum antibiotic?",
+        "question_latex": "Which of the following is a narrow spectrum antibiotic?",
+        "question_images": [],
+        "options": [
+            "A. Ampicillin",
+            "B. Chloramphenicol",
+            "C. Penicillin G",
+            "D. Vancomycin"
+        ],
+        "option_images": [],
+        "answer": "C. Penicillin G",
+        "solution": "Penicillin G is a narrow spectrum antibiotic because it is effective against a limited range of bacteria.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Artificial sweetener which is a derivative of sucrose is: [MHT-CET 2023]",
+        "question_latex": "Artificial sweetener which is a derivative of sucrose is: [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Saccharin",
+            "B. Aspartame",
+            "C. Sucralose",
+            "D. Alitame"
+        ],
+        "option_images": [],
+        "answer": "C. Sucralose",
+        "solution": "Sucralose is a trichloro derivative of sucrose. Its appearance and taste are like sugar and it is stable at cooking temperature.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which among the following is used in the treatment of acidity? [MHT-CET 2024]",
+        "question_latex": "Which among the following is used in the treatment of acidity? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Omeprazole",
+            "B. Lansoprazole",
+            "C. Ranitidine",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D. All of these",
+        "solution": "Modern antacids include proton pump inhibitors like Omeprazole and Lansoprazole, and $H_2$-receptor antagonists like Ranitidine.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Tincture of iodine is:",
+        "question_latex": "Tincture of iodine is:",
+        "question_images": [],
+        "options": [
+            "A. 2-3% solution of iodine in alcohol-water mixture",
+            "B. 10% solution of iodine in water",
+            "C. Solution of iodine in CCl4",
+            "D. Pure liquid iodine"
+        ],
+        "option_images": [],
+        "answer": "A. 2-3% solution of iodine in alcohol-water mixture",
+        "solution": "Tincture of iodine is a powerful antiseptic applied on wounds.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Soft soaps are made using which alkali?",
+        "question_latex": "Soft soaps are made using which alkali?",
+        "question_images": [],
+        "options": [
+            "A. NaOH",
+            "B. KOH",
+            "C. Ca(OH)2",
+            "D. NH4OH"
+        ],
+        "option_images": [],
+        "answer": "B. KOH",
+        "solution": "Potassium soaps (made with $KOH$) are soft to the skin and used as shaving creams and bath soaps.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is a cationic detergent?",
+        "question_latex": "Which of the following is a cationic detergent?",
+        "question_images": [],
+        "options": [
+            "A. Sodium stearate",
+            "B. Sodium dodecylbenzene sulphonate",
+            "C. Cetyltrimethylammonium bromide",
+            "D. Glyceryl oleate"
+        ],
+        "option_images": [],
+        "answer": "C. Cetyltrimethylammonium bromide",
+        "solution": "Cationic detergents are quaternary ammonium salts of amines with acetates, chlorides, or bromides as anions.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "The use of aspartame is limited to cold foods and soft drinks because:",
+        "question_latex": "The use of aspartame is limited to cold foods and soft drinks because:",
+        "question_images": [],
+        "options": [
+            "A. It is not sweet at high temperatures",
+            "B. It is unstable at cooking temperature",
+            "C. It reacts with oxygen",
+            "D. It is insoluble in hot water"
+        ],
+        "option_images": [],
+        "answer": "B. It is unstable at cooking temperature",
+        "solution": "Aspartame decomposes at high temperatures, hence it cannot be used in cooked foods.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is used in the treatment of malaria?",
+        "question_latex": "Which of the following is used in the treatment of malaria?",
+        "question_images": [],
+        "options": [
+            "A. Quinine",
+            "B. Chloroquine",
+            "C. Primaquine",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D. All of these",
+        "solution": "Several drugs like quinine, chloroquine, and primaquine are used as antimalarials.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Non-ionic detergents are formed by the reaction between:",
+        "question_latex": "Non-ionic detergents are formed by the reaction between:",
+        "question_images": [],
+        "options": [
+            "A. Stearic acid and polyethylene glycol",
+            "B. Lauryl alcohol and H2SO4",
+            "C. Sodium hydroxide and fat",
+            "D. Trimethylamine and methyl bromide"
+        ],
+        "option_images": [],
+        "answer": "A. Stearic acid and polyethylene glycol",
+        "solution": "Non-ionic detergents do not contain any ion in their constitution. Example: reaction of stearic acid with polyethylene glycol.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Mestranol is a component of:",
+        "question_latex": "Mestranol is a component of:",
+        "question_images": [],
+        "options": [
+            "A. Antiseptics",
+            "B. Antifertility drugs",
+            "C. Tranquilizers",
+            "D. Antibiotics"
+        ],
+        "option_images": [],
+        "answer": "B. Antifertility drugs",
+        "solution": "Mestranol is a synthetic estrogen used in combination with progesterone derivatives in birth control pills.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "0.2% solution of phenol acts as an antiseptic, while 1% solution acts as a:",
+        "question_latex": "0.2% solution of phenol acts as an antiseptic, while 1% solution acts as a:",
+        "question_images": [],
+        "options": [
+            "A. Antibiotic",
+            "B. Disinfectant",
+            "C. Analgesic",
+            "D. Antacid"
+        ],
+        "option_images": [],
+        "answer": "B. Disinfectant",
+        "solution": "Disinfectants are applied to inanimate objects to kill microorganisms. Higher concentration of phenol serves this purpose.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Sodium benzoate is used as a:",
+        "question_latex": "Sodium benzoate is used as a:",
+        "question_images": [],
+        "options": [
+            "A. Antioxidant",
+            "B. Food preservative",
+            "C. Detergent",
+            "D. Sweetener"
+        ],
+        "option_images": [],
+        "answer": "B. Food preservative",
+        "solution": "Sodium benzoate ($C_6H_5COONa$) is one of the most commonly used chemical food preservatives.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Amoxycillin is a semi-synthetic modification of:",
+        "question_latex": "Amoxycillin is a semi-synthetic modification of:",
+        "question_images": [],
+        "options": [
+            "A. Tetracycline",
+            "B. Chloramphenicol",
+            "C. Penicillin",
+            "D. Streptomycin"
+        ],
+        "option_images": [],
+        "answer": "C. Penicillin",
+        "solution": "Ampicillin and Amoxycillin are semi-synthetic penicillins with a broader spectrum than Penicillin G.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is a bactericidal antibiotic?",
+        "question_latex": "Which of the following is a bactericidal antibiotic?",
+        "question_images": [],
+        "options": [
+            "A. Erythromycin",
+            "B. Tetracycline",
+            "C. Penicillin",
+            "D. Chloramphenicol"
+        ],
+        "option_images": [],
+        "answer": "C. Penicillin",
+        "solution": "Bactericidal antibiotics kill bacteria. Examples include Penicillin, Aminoglycosides, and Ofloxacin.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "The sweetening agent which is 2000 times sweeter than sucrose is:",
+        "question_latex": "The sweetening agent which is 2000 times sweeter than sucrose is:",
+        "question_images": [],
+        "options": [
+            "A. Aspartame",
+            "B. Alitame",
+            "C. Sucralose",
+            "D. Saccharin"
+        ],
+        "option_images": [],
+        "answer": "B. Alitame",
+        "solution": "Alitame is a high potency sweetener, though its sweetness control is difficult.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Saccharin is:",
+        "question_latex": "Saccharin is:",
+        "question_images": [],
+        "options": [
+            "A. ortho-sulphobenzimide",
+            "B. para-sulphobenzimide",
+            "C. Sodium benzoate",
+            "D. Aspartylphenylalanine methyl ester"
+        ],
+        "option_images": [],
+        "answer": "A. ortho-sulphobenzimide",
+        "solution": "Saccharin (ortho-sulphobenzimide) was the first popular artificial sweetening agent.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Liquid dishwashing detergents belong to the class of:",
+        "question_latex": "Liquid dishwashing detergents belong to the class of:",
+        "question_images": [],
+        "options": [
+            "A. Anionic detergents",
+            "B. Cationic detergents",
+            "C. Non-ionic detergents",
+            "D. Amphoteric detergents"
+        ],
+        "option_images": [],
+        "answer": "C. Non-ionic detergents",
+        "solution": "Non-ionic detergents are used in liquid dishwashing liquids. They work similarly to soaps.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Chloramphenicol is effective against:",
+        "question_latex": "Chloramphenicol is effective against:",
+        "question_images": [],
+        "options": [
+            "A. Typhoid",
+            "B. Dysentery",
+            "C. Urinary tract infections",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D. All of these",
+        "solution": "Chloramphenicol is a broad spectrum antibiotic used for acute fever, typhoid, meningitis, and pneumonia.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "What is the common name of sodium hexametaphosphate? [MHT-CET 2024]",
+        "question_latex": "What is the common name of sodium hexametaphosphate? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Calgon",
+            "B. Borax",
+            "C. Alum",
+            "D. Gypsum"
+        ],
+        "option_images": [],
+        "answer": "A. Calgon",
+        "solution": "Sodium hexametaphosphate ($Na_6P_6O_{18}$) is commercially known as Calgon, used in water softening.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is used in birth control pills?",
+        "question_latex": "Which of the following is used in birth control pills?",
+        "question_images": [],
+        "options": [
+            "A. Progesterone",
+            "B. Ethynylestradiol",
+            "C. Norethindrone",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D. All of these",
+        "solution": "Birth control pills contain a mixture of synthetic estrogen (like ethynylestradiol) and progesterone (like norethindrone).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Antibiotics which are effective against either Gram-positive or Gram-negative bacteria are called:",
+        "question_latex": "Antibiotics which are effective against either Gram-positive or Gram-negative bacteria are called:",
+        "question_images": [],
+        "options": [
+            "A. Broad spectrum",
+            "B. Narrow spectrum",
+            "C. Limited spectrum",
+            "D. Non-spectrum"
+        ],
+        "option_images": [],
+        "answer": "B. Narrow spectrum",
+        "solution": "If they are effective mainly against one group, they are narrow spectrum.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which among the following is a tranquilizer? [MHT-CET 2023]",
+        "question_latex": "Which among the following is a tranquilizer? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Equanil",
+            "B. Valium",
+            "C. Serotonin",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D. All of these",
+        "solution": "All listed compounds are used to manage stress or mental disorders.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Soaps are sodium or potassium salts of:",
+        "question_latex": "Soaps are sodium or potassium salts of:",
+        "question_images": [],
+        "options": [
+            "A. Short chain fatty acids",
+            "B. Long chain fatty acids",
+            "C. Aromatic acids",
+            "D. Dicarboxylic acids"
+        ],
+        "option_images": [],
+        "answer": "B. Long chain fatty acids",
+        "solution": "Soaps are salts of higher fatty acids like stearic, palmitic, and oleic acid.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which from the following is a preservative for fruit juices and squashes? [MHT-CET 2024]",
+        "question_latex": "Which from the following is a preservative for fruit juices and squashes? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Sodium sulfite",
+            "B. Sodium benzoate",
+            "C. Table salt",
+            "D. Sugar"
+        ],
+        "option_images": [],
+        "answer": "A. Sodium sulfite",
+        "solution": "Sodium metabisulfite or sodium sulfite are used to preserve fruit juices because they release $SO_2$ which inhibits microbe growth.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Histamine stimulates the secretion of:",
+        "question_latex": "Histamine stimulates the secretion of:",
+        "question_images": [],
+        "options": [
+            "A. Saliva",
+            "B. Pepsin and HCl",
+            "C. Insulin",
+            "D. Bile"
+        ],
+        "option_images": [],
+        "answer": "B. Pepsin and HCl",
+        "solution": "Histamine in the stomach triggers the release of stomach acid ($HCl$) and enzymes like pepsin.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is a hypnotic drug?",
+        "question_latex": "Which of the following is a hypnotic drug?",
+        "question_images": [],
+        "options": [
+            "A. Luminal",
+            "B. Equanil",
+            "C. Valium",
+            "D. Serotonin"
+        ],
+        "option_images": [],
+        "answer": "A. Luminal",
+        "solution": "Derivatives of barbituric acid (barbiturates) are sleep-inducing (hypnotic) agents.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Prontosil is converted in the body to which active antibacterial compound?",
+        "question_latex": "Prontosil is converted in the body to which active antibacterial compound?",
+        "question_images": [],
+        "options": [
+            "A. Sulfanilamide",
+            "B. Salvarsan",
+            "C. Chloramphenicol",
+            "D. Penicillin"
+        ],
+        "option_images": [],
+        "answer": "A. Sulfanilamide",
+        "solution": "Prontosil is a prodrug; the body metabolizes it into sulfanilamide, which is the actual active antimicrobial agent.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "The charge on the hydrophilic head of a cationic detergent is carried by:",
+        "question_latex": "The charge on the hydrophilic head of a cationic detergent is carried by:",
+        "question_images": [],
+        "options": [
+            "A. Sulfur",
+            "B. Phosphorus",
+            "C. Nitrogen",
+            "D. Oxygen"
+        ],
+        "option_images": [],
+        "answer": "C. Nitrogen",
+        "solution": "Cationic detergents are quaternary ammonium salts where the positive charge is on the Nitrogen atom.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Artificial sweetener which is 600 times sweeter than sucrose is:",
+        "question_latex": "Artificial sweetener which is 600 times sweeter than sucrose is:",
+        "question_images": [],
+        "options": [
+            "A. Saccharin",
+            "B. Aspartame",
+            "C. Sucralose",
+            "D. Alitame"
+        ],
+        "option_images": [],
+        "answer": "C. Sucralose",
+        "solution": "Sucralose is roughly 600 times sweeter than cane sugar.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following does not cause addiction? [MHT-CET 2021]",
+        "question_latex": "Which of the following does not cause addiction? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Heroin",
+            "B. Morphine",
+            "C. Aspirin",
+            "D. Codeine"
+        ],
+        "option_images": [],
+        "answer": "C. Aspirin",
+        "solution": "Aspirin is a non-narcotic analgesic and does not lead to drug addiction.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Polyethylene glycol is used in the preparation of which type of detergent? [MHT-CET 2024]",
+        "question_latex": "Polyethylene glycol is used in the preparation of which type of detergent? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Cationic",
+            "B. Anionic",
+            "C. Non-ionic",
+            "D. Medicated"
+        ],
+        "option_images": [],
+        "answer": "C. Non-ionic",
+        "solution": "Non-ionic detergents are formed by the esterification of polyethylene glycol with fatty acids like stearic acid.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which functional group is present in aspartame? [MHT-CET 2024]",
+        "question_latex": "Which functional group is present in aspartame? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Amide",
+            "B. Ester",
+            "C. Carboxylic acid",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D. All of these",
+        "solution": "Aspartame is a methyl ester of a dipeptide (aspartyl-phenylalanine), containing carboxylic acid, amine, amide, and ester groups.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is a bacteriostatic antibiotic?",
+        "question_latex": "Which of the following is a bacteriostatic antibiotic?",
+        "question_images": [],
+        "options": [
+            "A. Penicillin",
+            "B. Aminoglycosides",
+            "C. Tetracycline",
+            "D. Ofloxacin"
+        ],
+        "option_images": [],
+        "answer": "C. Tetracycline",
+        "solution": "Bacteriostatic antibiotics inhibit the growth of bacteria. Examples: Erythromycin, Tetracycline, Chloramphenicol.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "A substance which can act as both antiseptic and disinfectant is:",
+        "question_latex": "A substance which can act as both antiseptic and disinfectant is:",
+        "question_images": [],
+        "options": [
+            "A. Phenol",
+            "B. Iodine",
+            "C. Chloroxylenol",
+            "D. Bithionol"
+        ],
+        "option_images": [],
+        "answer": "A. Phenol",
+        "solution": "Concentration determines the usage of phenol (0.2% vs 1%).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which sweetening agent is used for diabetic patients? [MHT-CET 2020]",
+        "question_latex": "Which sweetening agent is used for diabetic patients? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Sucrose",
+            "B. Glucose",
+            "C. Saccharin",
+            "D. Maltose"
+        ],
+        "option_images": [],
+        "answer": "C. Saccharin",
+        "solution": "Artificial sweeteners like saccharin provide zero calories and do not affect blood sugar levels, making them suitable for diabetics.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "The hydrophilic part of a soap molecule is:",
+        "question_latex": "The hydrophilic part of a soap molecule is:",
+        "question_images": [],
+        "options": [
+            "A. Long hydrocarbon chain",
+            "B. Carboxylate group",
+            "C. Benzene ring",
+            "D. Methyl group"
+        ],
+        "option_images": [],
+        "answer": "B. Carboxylate group",
+        "solution": "The ionic head ($-COO^-Na^+$) is polar and water-loving (hydrophilic).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is used in hair conditioners? [MHT-CET 2024]",
+        "question_latex": "Which of the following is used in hair conditioners? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Anionic detergents",
+            "B. Cationic detergents",
+            "C. Non-ionic detergents",
+            "D. Soaps"
+        ],
+        "option_images": [],
+        "answer": "B. Cationic detergents",
+        "solution": "Cationic detergents like cetyltrimethylammonium bromide are used in hair conditioners due to their affinity for the hair surface.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "The use of BHA in food is to:",
+        "question_latex": "The use of BHA in food is to:",
+        "question_images": [],
+        "options": [
+            "A. Increase sweetness",
+            "B. Act as preservative",
+            "C. Prevent oxidation",
+            "D. Add color"
+        ],
+        "option_images": [],
+        "answer": "C. Prevent oxidation",
+        "solution": "BHA (Butylated Hydroxy Anisole) is an antioxidant used to prevent rancidity.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Chloroxylenol is a component of:",
+        "question_latex": "Chloroxylenol is a component of:",
+        "question_images": [],
+        "options": [
+            "A. Aspirin",
+            "B. Dettol",
+            "C. Soap",
+            "D. Penicillin"
+        ],
+        "option_images": [],
+        "answer": "B. Dettol",
+        "solution": "It is the main active ingredient in Dettol.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is a competitive inhibitor of an enzyme?",
+        "question_latex": "Which of the following is a competitive inhibitor of an enzyme?",
+        "question_images": [],
+        "options": [
+            "A. Drug with same shape as substrate",
+            "B. Drug with different shape than substrate",
+            "C. Metal ion",
+            "D. Co-enzyme"
+        ],
+        "option_images": [],
+        "answer": "A. Drug with same shape as substrate",
+        "solution": "Competitive inhibitors compete with the natural substrate for the active site of the enzyme because of their structural similarity.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Soap does not work in hard water because:",
+        "question_latex": "Soap does not work in hard water because:",
+        "question_images": [],
+        "options": [
+            "A. It is insoluble in water",
+            "B. It forms insoluble calcium and magnesium salts",
+            "C. It is basic",
+            "D. Hard water is too cold"
+        ],
+        "option_images": [],
+        "answer": "B. It forms insoluble calcium and magnesium salts",
+        "solution": "Hard water contains $Ca^{2+}$ and $Mg^{2+}$ which react with soap to form gummy precipitates (scum).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which artificial sweetener is most stable? [MHT-CET 2021]",
+        "question_latex": "Which artificial sweetener is most stable? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Aspartame",
+            "B. Saccharin",
+            "C. Sucralose",
+            "D. Alitame"
+        ],
+        "option_images": [],
+        "answer": "C. Sucralose",
+        "solution": "Sucralose is the most stable artificial sweetener at cooking temperatures.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Sulphur dioxide and sulphites are used as:",
+        "question_latex": "Sulphur dioxide and sulphites are used as:",
+        "question_images": [],
+        "options": [
+            "A. Antioxidants",
+            "B. Preservatives",
+            "C. Both A and B",
+            "D. Sweeteners"
+        ],
+        "option_images": [],
+        "answer": "C. Both A and B",
+        "solution": "In fruit juices, they act as antioxidants (preventing browning) and preservatives (inhibiting bacteria).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Valium is a:",
+        "question_latex": "Valium is a:",
+        "question_images": [],
+        "options": [
+            "A. Antiseptic",
+            "B. Tranquilizer",
+            "C. Antibiotic",
+            "D. Analgesic"
+        ],
+        "option_images": [],
+        "answer": "B. Tranquilizer",
+        "solution": "Valium (diazepam) is a widely used benzodiazepine tranquilizer.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Iodine is used as an antiseptic in the form of:",
+        "question_latex": "Iodine is used as an antiseptic in the form of:",
+        "question_images": [],
+        "options": [
+            "A. Iodoform",
+            "B. Tincture of iodine",
+            "C. Both A and B",
+            "D. Potassium iodide"
+        ],
+        "option_images": [],
+        "answer": "C. Both A and B",
+        "solution": "Iodoform ($CHI_3$) releases iodine, and tincture is a solution form.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is not a food preservative? [MHT-CET 2024]",
+        "question_latex": "Which of the following is not a food preservative? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Sodium benzoate",
+            "B. Table salt",
+            "C. Aspartame",
+            "D. Vinegar"
+        ],
+        "option_images": [],
+        "answer": "C. Aspartame",
+        "solution": "Aspartame is an artificial sweetener, not a preservative.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Detergents are superior to soaps because they can be used in:",
+        "question_latex": "Detergents are superior to soaps because they can be used in:",
+        "question_images": [],
+        "options": [
+            "A. Soft water only",
+            "B. Hard water",
+            "C. Acidic water",
+            "D. Both B and C"
+        ],
+        "option_images": [],
+        "answer": "D. Both B and C",
+        "solution": "Unlike soaps, detergents remain effective in hard water and acidic solutions.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is a non-ionic detergent? [MHT-CET 2020]",
+        "question_latex": "Which of the following is a non-ionic detergent? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Sodium lauryl sulphate",
+            "B. Cetyltrimethylammonium bromide",
+            "C. Pentaerythritol monostearate",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "C. Pentaerythritol monostearate",
+        "solution": "It is a neutral molecule with long chains, often used in toothpastes and cosmetics.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which part of the detergent molecule is hydrophobic?",
+        "question_latex": "Which part of the detergent molecule is hydrophobic?",
+        "question_images": [],
+        "options": [
+            "A. Ionic head",
+            "B. Long hydrocarbon tail",
+            "C. Benzene ring only",
+            "D. Oxygen atoms"
+        ],
+        "option_images": [],
+        "answer": "B. Long hydrocarbon tail",
+        "solution": "The non-polar hydrocarbon chain is water-repelling.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "The enzyme that catalyzes the hydrolysis of sucrose is:",
+        "question_latex": "The enzyme that catalyzes the hydrolysis of sucrose is:",
+        "question_images": [],
+        "options": [
+            "A. Invertase",
+            "B. Zymase",
+            "C. Diastase",
+            "D. Urease"
+        ],
+        "option_images": [],
+        "answer": "A. Invertase",
+        "solution": "Invertase converts sucrose into glucose and fructose.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is used for disinfecting water in swimming pools?",
+        "question_latex": "Which of the following is used for disinfecting water in swimming pools?",
+        "question_images": [],
+        "options": [
+            "A. 0.2-0.4 ppm Chlorine",
+            "B. 10 ppm Chlorine",
+            "C. 0.2 ppm Phenol",
+            "D. Iodine"
+        ],
+        "option_images": [],
+        "answer": "A. 0.2-0.4 ppm Chlorine",
+        "solution": "Chlorine in low concentrations ($0.2$ to $0.4 \\ ppm$) is a common disinfectant for drinking and pool water.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Artificial sweetening agents are used because:",
+        "question_latex": "Artificial sweetening agents are used because:",
+        "question_images": [],
+        "options": [
+            "A. They are cheaper",
+            "B. They have high caloric value",
+            "C. They have no caloric value",
+            "D. They are more soluble"
+        ],
+        "option_images": [],
+        "answer": "C. They have no caloric value",
+        "solution": "They are excreted from the body unchanged, making them perfect for calorie-conscious people.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is an example of an analgesic?",
+        "question_latex": "Which of the following is an example of an analgesic?",
+        "question_images": [],
+        "options": [
+            "A. Novocain",
+            "B. Paracetamol",
+            "C. Equanil",
+            "D. Penicillin"
+        ],
+        "option_images": [],
+        "answer": "B. Paracetamol",
+        "solution": "Paracetamol is a common analgesic (pain killer) and antipyretic (fever reducer).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Salvarsan contains which element?",
+        "question_latex": "Salvarsan contains which element?",
+        "question_images": [],
+        "options": [
+            "A. Sulfur",
+            "B. Nitrogen",
+            "C. Arsenic",
+            "D. Iron"
+        ],
+        "option_images": [],
+        "answer": "C. Arsenic",
+        "solution": "Salvarsan was one of the first effective medicines for syphilis and contains arsenic.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which drug classification is based on the chemical structure of the drug?",
+        "question_latex": "Which drug classification is based on the chemical structure of the drug?",
+        "question_images": [],
+        "options": [
+            "A. Pharmacological",
+            "B. Drug Action",
+            "C. Chemical Structure",
+            "D. Molecular Target"
+        ],
+        "option_images": [],
+        "answer": "C. Chemical Structure",
+        "solution": "Sulfonamides are a group of drugs with common structural features ($-SO_2NH_2$ group).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "The function of antioxidants is to:",
+        "question_latex": "The function of antioxidants is to:",
+        "question_images": [],
+        "options": [
+            "A. Promote oxidation",
+            "B. Inhibit oxidation",
+            "C. Add flavor",
+            "D. Kill bacteria"
+        ],
+        "option_images": [],
+        "answer": "B. Inhibit oxidation",
+        "solution": "Antioxidants act as radical scavengers and inhibit the oxidation process in foods.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Transparent soaps are made by dissolving soap in:",
+        "question_latex": "Transparent soaps are made by dissolving soap in:",
+        "question_images": [],
+        "options": [
+            "A. Water",
+            "B. Ethanol",
+            "C. Glycerin",
+            "D. Oil"
+        ],
+        "option_images": [],
+        "answer": "B. Ethanol",
+        "solution": "Soap is dissolved in ethanol and the excess solvent is evaporated to make it transparent.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "The site of enzyme where the substrate binds is called:",
+        "question_latex": "The site of enzyme where the substrate binds is called:",
+        "question_images": [],
+        "options": [
+            "A. Allosteric site",
+            "B. Active site",
+            "C. Binding site",
+            "D. Passive site"
+        ],
+        "option_images": [],
+        "answer": "B. Active site",
+        "solution": "Active sites are pockets on the surface of enzymes where biochemical reactions occur.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is a non-hypnotic tranquilizer? [MHT-CET 2024]",
+        "question_latex": "Which of the following is a non-hypnotic tranquilizer? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Chlordiazepoxide",
+            "B. Luminal",
+            "C. Veronal",
+            "D. Seconal"
+        ],
+        "option_images": [],
+        "answer": "A. Chlordiazepoxide",
+        "solution": "Chlordiazepoxide and Meprobamate (Equanil) are mild tranquilizers suitable for relieving tension without inducing deep sleep.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Aspartame is chemically:",
+        "question_latex": "Aspartame is chemically:",
+        "question_images": [],
+        "options": [
+            "A. Methyl ester of aspartylphenylalanine",
+            "B. Sodium saccharin",
+            "C. Trichloro derivative of sucrose",
+            "D. Dipeptide derivative of alanine"
+        ],
+        "option_images": [],
+        "answer": "A. Methyl ester of aspartylphenylalanine",
+        "solution": "It is a methyl ester dipeptide composed of aspartic acid and phenylalanine.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "The property of 'sudsiness' or lathering in soaps is increased by adding:",
+        "question_latex": "The property of 'sudsiness' or lathering in soaps is increased by adding:",
+        "question_images": [],
+        "options": [
+            "A. Sodium rosinate",
+            "B. Glycerol",
+            "C. Ethanol",
+            "D. Borax"
+        ],
+        "option_images": [],
+        "answer": "A. Sodium rosinate",
+        "solution": "Shaving soaps contain sodium rosinate which makes them lather well.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "An example of a broad spectrum antibiotic is:",
+        "question_latex": "An example of a broad spectrum antibiotic is:",
+        "question_images": [],
+        "options": [
+            "A. Penicillin G",
+            "B. Ofloxacin",
+            "C. Erythromycin",
+            "D. Lincomycin"
+        ],
+        "option_images": [],
+        "answer": "B. Ofloxacin",
+        "solution": "Ofloxacin is a synthetic broad spectrum antibiotic effective against a large variety of bacteria.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is a symptom of acidity? [MHT-CET 2024]",
+        "question_latex": "Which of the following is a symptom of acidity? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Heartburn",
+            "B. Indigestion",
+            "C. Stomach ache",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D. All of these",
+        "solution": "Acidity causes various digestive discomforts.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Floating soaps are made by:",
+        "question_latex": "Floating soaps are made by:",
+        "question_images": [],
+        "options": [
+            "A. Adding air bubbles before hardening",
+            "B. Using very light oils",
+            "C. Dissolving in alcohol",
+            "D. Using high concentration of KOH"
+        ],
+        "option_images": [],
+        "answer": "A. Adding air bubbles before hardening",
+        "solution": "Soap is beaten with air before it sets to decrease its density.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Chemicals added to food to improve nutritional value are:",
+        "question_latex": "Chemicals added to food to improve nutritional value are:",
+        "question_images": [],
+        "options": [
+            "A. Preservatives",
+            "B. Minerals and vitamins",
+            "C. Flour improvers",
+            "D. Coloring agents"
+        ],
+        "option_images": [],
+        "answer": "B. Minerals and vitamins",
+        "solution": "Vitamins, minerals, and amino acids are added for nutritional enrichment.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is used in the treatment of allergies? [MHT-CET 2023]",
+        "question_latex": "Which of the following is used in the treatment of allergies? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Antihistamines",
+            "B. Analgesics",
+            "C. Antipyretics",
+            "D. Antiseptics"
+        ],
+        "option_images": [],
+        "answer": "A. Antihistamines",
+        "solution": "Antihistamines combat the effects of histamine produced during allergic reactions.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Toilet soaps are better quality soaps because they contain:",
+        "question_latex": "Toilet soaps are better quality soaps because they contain:",
+        "question_images": [],
+        "options": [
+            "A. Excess alkali",
+            "B. Better grade fats and oils",
+            "C. More water",
+            "D. Less color"
+        ],
+        "option_images": [],
+        "answer": "B. Better grade fats and oils",
+        "solution": "High quality raw materials ensure low alkalinity and better texture for skin.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is a synthetic hormone derivative used in antifertility drugs? [MHT-CET 2021]",
+        "question_latex": "Which of the following is a synthetic hormone derivative used in antifertility drugs? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Norethindrone",
+            "B. Testosterone",
+            "C. Insulin",
+            "D. Adrenaline"
+        ],
+        "option_images": [],
+        "answer": "A. Norethindrone",
+        "solution": "Norethindrone is a synthetic progesterone derivative.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Laundry soaps contain fillers like:",
+        "question_latex": "Laundry soaps contain fillers like:",
+        "question_images": [],
+        "options": [
+            "A. Sodium silicate",
+            "B. Borax",
+            "C. Sodium carbonate",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D. All of these",
+        "solution": "Fillers like sodium silicate, borax, and sodium carbonate are added to laundry soaps.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Antiseptics differ from disinfectants in that antiseptics are:",
+        "question_latex": "Antiseptics differ from disinfectants in that antiseptics are:",
+        "question_images": [],
+        "options": [
+            "A. Toxic",
+            "B. Safe for living tissues",
+            "C. Only for floors",
+            "D. Stronger"
+        ],
+        "option_images": [],
+        "answer": "B. Safe for living tissues",
+        "solution": "Antiseptics are applied to living tissues like wounds, while disinfectants are for inanimate objects.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which sweetening agent has the chemical name ortho-sulphobenzimide? [MHT-CET 2022]",
+        "question_latex": "Which sweetening agent has the chemical name ortho-sulphobenzimide? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Aspartame",
+            "B. Alitame",
+            "C. Saccharin",
+            "D. Sucralose"
+        ],
+        "option_images": [],
+        "answer": "C. Saccharin",
+        "solution": "Saccharin is chemically ortho-sulphobenzimide.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is a non-addictive pain killer?",
+        "question_latex": "Which of the following is a non-addictive pain killer?",
+        "question_images": [],
+        "options": [
+            "A. Heroin",
+            "B. Morphine",
+            "C. Paracetamol",
+            "D. Opium"
+        ],
+        "option_images": [],
+        "answer": "C. Paracetamol",
+        "solution": "Non-narcotic analgesics like paracetamol do not cause addiction.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Antifertility drugs work by:",
+        "question_latex": "Antifertility drugs work by:",
+        "question_images": [],
+        "options": [
+            "A. Killing sperm",
+            "B. Suppressing ovulation",
+            "C. Blocking the uterus",
+            "D. Increasing pH"
+        ],
+        "option_images": [],
+        "answer": "B. Suppressing ovulation",
+        "solution": "These drugs contain hormones that inhibit the release of an egg from the ovary.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which of the following is used in laundry detergents to remove protein stains?",
+        "question_latex": "Which of the following is used in laundry detergents to remove protein stains?",
+        "question_images": [],
+        "options": [
+            "A. Bleach",
+            "B. Surfactant",
+            "C. Protease enzymes",
+            "D. Fillers"
+        ],
+        "option_images": [],
+        "answer": "C. Protease enzymes",
+        "solution": "Enzymes like proteases are added to modern detergents to break down protein-based stains.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Tranquilizers are used to treat:",
+        "question_latex": "Tranquilizers are used to treat:",
+        "question_images": [],
+        "options": [
+            "A. Pain",
+            "B. Infectious diseases",
+            "C. Mental stress",
+            "D. Acidity"
+        ],
+        "option_images": [],
+        "answer": "C. Mental stress",
+        "solution": "Tranquilizers are neurological drugs used for the treatment of stress and mild or severe mental diseases.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Norethindrone is the derivative of:",
+        "question_latex": "Norethindrone is the derivative of:",
+        "question_images": [],
+        "options": [
+            "A. Estrogen",
+            "B. Progesterone",
+            "C. Testosterone",
+            "D. Novestrol"
+        ],
+        "option_images": [],
+        "answer": "B. Progesterone",
+        "solution": "Norethindrone is a synthetic progesterone derivative used in birth control pills.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Which from following statements regarding saturated fats is false? [2025]",
+        "question_latex": "Which from following statements regarding saturated fats is false? [2025]",
+        "question_images": [],
+        "options": [
+            "A. Van der Waal's forces between longer chains are stronger.",
+            "B. Long chains of tetrahedral carbon are packed closely together.",
+            "C. These are solids at room temperature.",
+            "D. These contain one or more kinks in the chain."
+        ],
+        "option_images": [],
+        "answer": "D. These contain one or more kinks in the chain.",
+        "solution": "Unsaturated fats contain $C=C$ double bonds which introduce 'kinks' in the chain. Saturated fats lack these kinks and can pack closely, making them solids.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Identify the structure of Equanil from the following options:",
+        "question_latex": "Identify the structure of Equanil from the following options:",
+        "question_images": [],
+        "options": [
+            "A. a",
+            "B. b",
+            "C. c",
+            "D. d"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Equanil (meprobamate) has the structure shown in option (C), containing carbamate groups and a specific alkyl chain substituent.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Synthetic detergents are more advantageous than soaps because:",
+        "question_latex": "Synthetic detergents are more advantageous than soaps because:",
+        "question_images": [],
+        "options": [
+            "A. They are biodegradable.",
+            "B. They work efficiently in hard water.",
+            "C. They are prepared from animal fats.",
+            "D. They have higher surface tension."
+        ],
+        "option_images": [],
+        "answer": "B. They work efficiently in hard water.",
+        "solution": "Soaps form scum with $Ca^{2+}$ and $Mg^{2+}$ ions in hard water, while detergents do not, making them effective in all types of water.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Chemistry in Everyday Life",
+        "question": "Artificial sweetener which is stable at cooking temperature is: [MHT-CET 2020]",
+        "question_latex": "Artificial sweetener which is stable at cooking temperature is: [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Aspartame",
+            "B. Saccharin",
+            "C. Sucralose",
+            "D. Alitame"
+        ],
+        "option_images": [],
+        "answer": "C. Sucralose",
+        "solution": "Sucralose is a trichloro derivative of sucrose and is stable at high temperatures, unlike aspartame.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    }
 ]

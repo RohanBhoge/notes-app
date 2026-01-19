@@ -1,2219 +1,2149 @@
 [
-  {
-    "id": 1,
-    "chapter": "Chemical Bonding",
-    "question": "Which among the following features is NOT related to hybrid orbitals? [MHT-CET 2022]",
-    "question_latex": "Which among the following features is NOT related to hybrid orbitals? [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. Shape of hybrid orbitals is different than that of atomic orbitals.",
-      "B. Number of hybrid orbitals formed is equal to number of atomic orbitals mixed.",
-      "C. Each hybrid orbital can hold two electrons with opposite spins.",
-      "D. Hybrid orbitals are formed by combining atomic orbitals of different atoms."
-    ],
-    "option_images": [],
-    "answer": "D. Hybrid orbitals are formed by combining atomic orbitals of different atoms.",
-    "solution": "Hybrid orbitals are formed by the mixing of atomic orbitals belonging to the same atom, not different atoms.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 2,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecule contain 50% p character of hybrid orbital in C atom? [MHT-CET 2020]",
-    "question_latex": "Which of the following molecule contain 50% p character of hybrid orbital in C atom? [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. Propene",
-      "B. Methane",
-      "C. Acetylene",
-      "D. Ethane"
-    ],
-    "option_images": [],
-    "answer": "C. Acetylene",
-    "solution": "In acetylene ($HC \\equiv CH$), the carbon atoms are $sp$ hybridized. $sp$ hybridization involves 50% s and 50% p-character.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 3,
-    "chapter": "Chemical Bonding",
-    "question": "What is bond order of F2 molecule? [MHT-CET 2023]",
-    "question_latex": "What is bond order of $F_2$ molecule? [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. 1",
-      "B. 2",
-      "C. 1/2",
-      "D. 3"
-    ],
-    "option_images": [],
-    "answer": "A. 1",
-    "solution": "Configuration: $\\sigma 1s^2, \\sigma^* 1s^2, \\sigma 2s^2, \\sigma^* 2s^2, \\sigma 2p_z^2, \\pi 2p_x^2 = \\pi 2p_y^2, \\pi^* 2p_x^2 = \\pi^* 2p_y^2$. Bond order $= \\frac{10-8}{2} = 1$.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 4,
-    "chapter": "Chemical Bonding",
-    "question": "When metals react with non-metals, the metal atoms tend to",
-    "question_latex": "When metals react with non-metals, the metal atoms tend to",
-    "question_images": [],
-    "options": [
-      "A. Share electrons",
-      "B. Lose electrons",
-      "C. Gain electrons",
-      "D. None of the above"
-    ],
-    "option_images": [],
-    "answer": "B. Lose electrons",
-    "solution": "Metals are electropositive and lose electrons to form cations, while non-metals gain electrons to form anions.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 5,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following when dissolved in water forms a solution, i.e., non-conducting?",
-    "question_latex": "Which of the following when dissolved in water forms a solution, i.e., non-conducting?",
-    "question_images": [],
-    "options": [
-      "A. Chile salt petre",
-      "B. Potash alum",
-      "C. Green vitriol",
-      "D. Ethyl alcohol"
-    ],
-    "option_images": [],
-    "answer": "D. Ethyl alcohol",
-    "solution": "Ethyl alcohol ($C_2H_5OH$) is a covalent compound that does not ionize in water, making the solution non-conducting.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 6,
-    "chapter": "Chemical Bonding",
-    "question": "The number of electrons in the valence shell of sulphur in SF6 is",
-    "question_latex": "The number of electrons in the valence shell of sulphur in $SF_6$ is",
-    "question_images": [],
-    "options": [
-      "A. 12",
-      "B. 10",
-      "C. 8",
-      "D. 11"
-    ],
-    "option_images": [],
-    "answer": "A. 12",
-    "solution": "Sulphur has 6 valence electrons and shares 6 electrons with 6 fluorine atoms, resulting in 12 electrons in its valence shell (expanded octet).",
-    "solution_images": [
-      "q232_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 7,
-    "chapter": "Chemical Bonding",
-    "question": "Which of following bonds has maximum bond length? [MHT-CET 2019]",
-    "question_latex": "Which of following bonds has maximum bond length? [MHT-CET 2019]",
-    "question_images": [],
-    "options": [
-      "A. C-C",
-      "B. C-N",
-      "C. C-H",
-      "D. C-O"
-    ],
-    "option_images": [],
-    "answer": "C. C-H",
-    "solution": "Note: According to the source key, C-H is identified. Typically, length increases with atomic radii. C-C is longer than C-N or C-O, but C-H is the shortest due to H's tiny radius. Based on the provided scan's logic, C-C would be expected, but the key provided is C.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 8,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecular orbitals consist unpaired electrons in O2 molecule according to MOT? [2025]",
-    "question_latex": "Which of the following molecular orbitals consist unpaired electrons in $O_2$ molecule according to MOT? [2025]",
-    "question_images": [],
-    "options": [
-      "A. π*2px and π*2py",
-      "B. σ2s and σ*2s",
-      "C. π2px and π2py",
-      "D. σ2pz and π2px"
-    ],
-    "option_images": [],
-    "answer": "A. π*2px and π*2py",
-    "solution": "In $O_2$, the last two electrons enter $\\pi^* 2p_x$ and $\\pi^* 2p_y$ orbitals singly with parallel spins, making the molecule paramagnetic.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 9,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecules does not obey octet rule? [MHT-CET 2023]",
-    "question_latex": "Which of the following molecules does not obey octet rule? [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. BeF2",
-      "B. O2",
-      "C. CCl4",
-      "D. Cl2"
-    ],
-    "option_images": [],
-    "answer": "A. BeF2",
-    "solution": "In $BeF_2$, the central beryllium atom has only 4 electrons in its valence shell, representing an incomplete octet.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 10,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecules does not have linear geometry? [2025, 2022]",
-    "question_latex": "Which of the following molecules does not have linear geometry? [2025, 2022]",
-    "question_images": [],
-    "options": [
-      "A. CO2",
-      "B. BeCl2",
-      "C. H2S",
-      "D. C2H2"
-    ],
-    "option_images": [],
-    "answer": "C. H2S",
-    "solution": "$H_2S$ has a bent (V-shaped) geometry due to the presence of two lone pairs on the central sulphur atom ($sp^3$ hybridization).",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 11,
-    "chapter": "Chemical Bonding",
-    "question": "What is the formal charge on sulphur atom in H2SO4? [MHT-CET 2021]",
-    "question_latex": "What is the formal charge on sulphur atom in $H_2SO_4$? [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. +4",
-      "B. -6",
-      "C. +6",
-      "D. Zero"
-    ],
-    "option_images": [],
-    "answer": "D. Zero",
-    "solution": "Formal charge $= VE - NE - \\frac{1}{2}BE = 6 - 0 - \\frac{1}{2}(12) = 0$ for the expanded octet structure.",
-    "solution_images": [
-      "q237_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 12,
-    "chapter": "Chemical Bonding",
-    "question": "What is the geometry of PCl5 molecule as per VSEPR? [MHT-CET 2023]",
-    "question_latex": "What is the geometry of $PCl_5$ molecule as per VSEPR? [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. Trigonal bipyramidal",
-      "B. Octahedral",
-      "C. Square pyramidal",
-      "D. Tetrahedral"
-    ],
-    "option_images": [],
-    "answer": "A. Trigonal bipyramidal",
-    "solution": "$PCl_5$ has 5 bond pairs and 0 lone pairs. According to VSEPR, it adopts a trigonal bipyramidal geometry.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 13,
-    "chapter": "Chemical Bonding",
-    "question": "Structure of ammonia is [MHT-CET 2007]",
-    "question_latex": "Structure of ammonia is [MHT-CET 2007]",
-    "question_images": [],
-    "options": [
-      "A. pyramidal",
-      "B. tetrahedral",
-      "C. trigonal",
-      "D. trigonal pyramidal"
-    ],
-    "option_images": [],
-    "answer": "A. pyramidal",
-    "solution": "Ammonia ($NH_3$) has a pyramidal structure because of the lone pair-bond pair repulsion which distorts the tetrahedral shape.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 14,
-    "chapter": "Chemical Bonding",
-    "question": "The following salt shows maximum covalent character",
-    "question_latex": "The following salt shows maximum covalent character",
-    "question_images": [],
-    "options": [
-      "A. AlCl3",
-      "B. MgCl2",
-      "C. CsCl",
-      "D. LaCl3"
-    ],
-    "option_images": [],
-    "answer": "A. AlCl3",
-    "solution": "According to Fajan's rules, $Al^{3+}$ has the smallest size and highest charge among the given cations, resulting in the highest polarizing power and maximum covalent character.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 15,
-    "chapter": "Chemical Bonding",
-    "question": "AB is an ionic solid. The ionic radii of A+ and B- are respectively rc and ra. Lattice energy of AB is proportional to",
-    "question_latex": "AB is an ionic solid. The ionic radii of $A^+$ and $B^-$ are respectively $r_c$ and $r_a$. Lattice energy of AB is proportional to",
-    "question_images": [],
-    "options": [
-      "A. rc / ra",
-      "B. (rc + ra)",
-      "C. ra / rc",
-      "D. 1 / (rc + ra)"
-    ],
-    "option_images": [],
-    "answer": "D. 1 / (rc + ra)",
-    "solution": "Lattice energy $U$ is inversely proportional to the interionic distance $r$, where $r = r_c + r_a$.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 16,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecules does not obey octet rule? [2025]",
-    "question_latex": "Which of the following molecules does not obey octet rule? [2025]",
-    "question_images": [],
-    "options": [
-      "A. NH3",
-      "B. ClF3",
-      "C. CO2",
-      "D. CHCl3"
-    ],
-    "option_images": [],
-    "answer": "B. ClF3",
-    "solution": "In $ClF_3$, the central chlorine atom has 10 electrons in its valence shell (3 bond pairs and 2 lone pairs).",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 17,
-    "chapter": "Chemical Bonding",
-    "question": "The planar structure of BF3 can be explained by the fact that BF3 is",
-    "question_latex": "The planar structure of $BF_3$ can be explained by the fact that $BF_3$ is",
-    "question_images": [],
-    "options": [
-      "A. sp hybridized",
-      "B. sp2 hybridized",
-      "C. sp3 hybridized",
-      "D. sp3d hybridized"
-    ],
-    "option_images": [],
-    "answer": "B. sp2 hybridized",
-    "solution": "Boron in $BF_3$ undergoes $sp^2$ hybridization, which results in a trigonal planar geometry.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 18,
-    "chapter": "Chemical Bonding",
-    "question": "The bond between carbon atoms 1 and 2 in compound N≡C-CH=CH2 involves the hybrid orbitals",
-    "question_latex": "The bond between carbon atoms 1 and 2 in compound $N \\equiv C_1 - C_2H = CH_2$ involves the hybrid orbitals",
-    "question_images": [],
-    "options": [
-      "A. sp2, sp3",
-      "B. sp, sp2",
-      "C. sp, sp3",
-      "D. sp, sp"
-    ],
-    "option_images": [],
-    "answer": "B. sp, sp2",
-    "solution": "Carbon 1 (part of cyanide) is $sp$ hybridized. Carbon 2 (part of double bond) is $sp^2$ hybridized.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 19,
-    "chapter": "Chemical Bonding",
-    "question": "Which from following is a correct order of energies for molecular orbitals of O2 molecule? [MHT-CET 2022]",
-    "question_latex": "Which from following is a correct order of energies for molecular orbitals of $O_2$ molecule? [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. σ2pz < (π2px = π2py) < (π*2px = π*2py)",
-      "B. (π2px = π2py) < σ2pz < (π*2px = π*2py)",
-      "C. σ2pz < π2px < π2py < (π*2px = π*2py)",
-      "D. (π2px = π2py) < σ2pz < π*2px < π*2py"
-    ],
-    "option_images": [],
-    "answer": "A. σ2pz < (π2px = π2py) < (π*2px = π*2py)",
-    "solution": "For $O_2$, the $\\sigma 2p_z$ orbital is lower in energy than the $\\pi 2p_{x/y}$ orbitals.",
-    "solution_images": [
-      "q245_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 20,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following is an ionic compound? [MHT-CET 2020]",
-    "question_latex": "Which of the following is an ionic compound? [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. CHCl3",
-      "B. SO2",
-      "C. ICl",
-      "D. KI"
-    ],
-    "option_images": [],
-    "answer": "D. KI",
-    "solution": "Potassium iodide (KI) is formed by the transfer of an electron from K to I, making it ionic.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 21,
-    "chapter": "Chemical Bonding",
-    "question": "Identify the molecule with linear geometry? [MHT-CET 2020]",
-    "question_latex": "Identify the molecule with linear geometry? [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. BeF2",
-      "B. C2H4",
-      "C. SO2",
-      "D. ClF3"
-    ],
-    "option_images": [],
-    "answer": "A. BeF2",
-    "solution": "$BeF_2$ has 2 bond pairs and no lone pairs, leading to a linear geometry.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 22,
-    "chapter": "Chemical Bonding",
-    "question": "Which among the following molecules have bond order 2? [MHT-CET 2022]",
-    "question_latex": "Which among the following molecules have bond order 2? [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. O2",
-      "B. F2",
-      "C. H2",
-      "D. N2"
-    ],
-    "option_images": [],
-    "answer": "A. O2",
-    "solution": "In $O_2$, $BO = (10-6)/2 = 2$. $N_2$ is 3, $F_2$ is 1, $H_2$ is 1.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 23,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecule has 'T' shape geometry? [2025]",
-    "question_latex": "Which of the following molecule has 'T' shape geometry? [2025]",
-    "question_images": [],
-    "options": [
-      "A. BrF3",
-      "B. BCl3",
-      "C. PCl3",
-      "D. NH3"
-    ],
-    "option_images": [],
-    "answer": "A. BrF3",
-    "solution": "$BrF_3$ has $sp^3d$ hybridization with 2 lone pairs and 3 bond pairs, resulting in a T-shaped geometry.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 24,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following compounds exhibits highest lattice energy? [MHT-CET 2023]",
-    "question_latex": "Which of the following compounds exhibits highest lattice energy? [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. RbF",
-      "B. LiF",
-      "C. KF",
-      "D. NaF"
-    ],
-    "option_images": [],
-    "answer": "B. LiF",
-    "solution": "Lattice energy $\\propto 1/size$. Since $Li^+$ is the smallest cation, $LiF$ has the highest lattice energy.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 25,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following shows minimum bond angle?",
-    "question_latex": "Which of the following shows minimum bond angle?",
-    "question_images": [],
-    "options": [
-      "A. H2O",
-      "B. H2Te",
-      "C. H2S",
-      "D. H2Se"
-    ],
-    "option_images": [],
-    "answer": "B. H2Te",
-    "solution": "In group 16 hydrides, bond angle decreases down the group ($H_2O: 104.5^\\circ > H_2S: 92^\\circ > H_2Se: 91^\\circ > H_2Te: 90^\\circ$).",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 26,
-    "chapter": "Chemical Bonding",
-    "question": "The H-N-H bond angle in ammonia molecule is [MHT-CET 2021]",
-    "question_latex": "The $H-N-H$ bond angle in ammonia molecule is [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. 109°",
-      "B. 111°",
-      "C. 104°",
-      "D. 107°"
-    ],
-    "option_images": [],
-    "answer": "D. 107°",
-    "solution": "Due to lone pair-bond pair repulsion, the bond angle in $NH_3$ is reduced from $109.5^\\circ$ to approximately $107^\\circ$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 27,
-    "chapter": "Chemical Bonding",
-    "question": "Which from following species does not obey octet rule? [MHT-CET 2024]",
-    "question_latex": "Which from following species does not obey octet rule? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. NO",
-      "B. HNO3",
-      "C. NO2-",
-      "D. CCl4"
-    ],
-    "option_images": [],
-    "answer": "A. NO",
-    "solution": "NO is an odd-electron molecule and therefore cannot satisfy the octet rule for both atoms.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 28,
-    "chapter": "Chemical Bonding",
-    "question": "According to VSEPR theory the repulsion between different pair (lone or bond) of electrons obey the order",
-    "question_latex": "According to VSEPR theory the repulsion between different pair (lone or bond) of electrons obey the order",
-    "question_images": [],
-    "options": [
-      "A. lp-bp > lp-lp > bp-bp",
-      "B. lp-bp > bp-bp > lp-lp",
-      "C. lp-lp > lp-bp > bp-bp",
-      "D. bp-bp > lp-lp > lp-bp"
-    ],
-    "option_images": [],
-    "answer": "C. lp-lp > lp-bp > bp-bp",
-    "solution": "Repulsion decreases in the order: Lone pair-Lone pair > Lone pair-Bond pair > Bond pair-Bond pair.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 29,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecules contain 25% s-character of carbon atom in hybrid state? [MHT-CET 2020]",
-    "question_latex": "Which of the following molecules contain 25% s-character of carbon atom in hybrid state? [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. Methane",
-      "B. Acetylene",
-      "C. Ethylene",
-      "D. Benzene"
-    ],
-    "option_images": [],
-    "answer": "A. Methane",
-    "solution": "In methane ($CH_4$), carbon is $sp^3$ hybridized. $sp^3$ has 1 s and 3 p orbitals, so s-character $= 1/4 = 25\\%$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 30,
-    "chapter": "Chemical Bonding",
-    "question": "What is the formal charge on N atom in [:S-C≡N:]- ion? [MHT-CET 2021]",
-    "question_latex": "What is the formal charge on N atom in $[:\\dot{S}-C \\equiv N:]^{\\ominus}$ ion? [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. +2",
-      "B. -2",
-      "C. +3",
-      "D. Zero"
-    ],
-    "option_images": [],
-    "answer": "D. Zero",
-    "solution": "$FC = VE - NE - \\frac{1}{2}BE = 5 - 2 - \\frac{1}{2}(6) = 0$.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 31,
-    "chapter": "Chemical Bonding",
-    "question": "The lattice enthalpy and hydration enthalpy of four compounds are given below. Compound P: LE=+780, HE=-920; Q: LE=+1012, HE=-812; R: LE=+828, HE=-878; S: LE=+632, HE=-600. The pair of compounds which is soluble in water is",
-    "question_latex": "The lattice enthalpy (LE) and hydration enthalpy (HE) of four compounds (P, Q, R, S) are given. $P: LE=+780, HE=-920; Q: LE=+1012, HE=-812; R: LE=+828, HE=-878; S: LE=+632, HE=-600$. The pair of compounds which is soluble in water is",
-    "question_images": [],
-    "options": [
-      "A. P and Q",
-      "B. Q and R",
-      "C. R and S",
-      "D. P and R"
-    ],
-    "option_images": [],
-    "answer": "D. P and R",
-    "solution": "A compound is soluble if $|HE| > |LE|$. For P: $920 > 780$. For R: $878 > 828$.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 32,
-    "chapter": "Chemical Bonding",
-    "question": "Which one of the following conversions involve change in both hybridisation and shape?",
-    "question_latex": "Which one of the following conversions involve change in both hybridisation and shape?",
-    "question_images": [],
-    "options": [
-      "A. CH4 -> C2H6",
-      "B. NH3 -> NH4+",
-      "C. BF3 -> BF4-",
-      "D. H2O -> H3O+"
-    ],
-    "option_images": [],
-    "answer": "C. BF3 -> BF4-",
-    "solution": "$BF_3 (sp^2, \\text{planar}) \\rightarrow BF_4^- (sp^3, \\text{tetrahedral})$.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 33,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecular orbitals has the lowest energy? [2025]",
-    "question_latex": "Which of the following molecular orbitals has the lowest energy? [2025]",
-    "question_images": [],
-    "options": [
-      "A. π*2py",
-      "B. σ*2pz",
-      "C. σ2pz",
-      "D. σ*2s"
-    ],
-    "option_images": [],
-    "answer": "D. σ*2s",
-    "solution": "In the standard MO energy order, $\\sigma^* 2s$ is lower than any $2p$ derived orbitals.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 34,
-    "chapter": "Chemical Bonding",
-    "question": "Which among the following concepts is NOT introduced by V. B. theory? [MHT-CET 2022]",
-    "question_latex": "Which among the following concepts is NOT introduced by V. B. theory? [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. Number of lone pair and bonded pair of electrons decide the shape of the molecules.",
-      "B. Delocalization of electron over the two nuclei.",
-      "C. Partial ionic character of a covalent bond.",
-      "D. Shielding effect of electrons."
-    ],
-    "option_images": [],
-    "answer": "A. Number of lone pair and bonded pair of electrons decide the shape of the molecules.",
-    "solution": "Lone pair and bond pair repulsion determining shape is a concept from VSEPR theory, not Valence Bond theory.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 35,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following is correct decreasing order of bond length regarding N2, O2 and Cl2? [2025]",
-    "question_latex": "Which of the following is correct decreasing order of bond length regarding $N_2, O_2$ and $Cl_2$? [2025]",
-    "question_images": [],
-    "options": [
-      "A. O2 > N2 > Cl2",
-      "B. Cl2 > O2 > N2",
-      "C. Cl2 > N2 > O2",
-      "D. N2 > O2 > Cl2"
-    ],
-    "option_images": [],
-    "answer": "B. Cl2 > O2 > N2",
-    "solution": "Bond order: $Cl_2(1), O_2(2), N_2(3)$. Bond length is inversely proportional to bond order. Order: $Cl_2 > O_2 > N_2$.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 36,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following has dipole moment?",
-    "question_latex": "Which of the following has dipole moment?",
-    "question_images": [],
-    "options": [
-      "A. CO2",
-      "B. p-dichlorobenzene",
-      "C. NH3",
-      "D. CH4"
-    ],
-    "option_images": [],
-    "answer": "C. NH3",
-    "solution": "$NH_3$ is unsymmetrical (pyramidal) with a lone pair, so its bond dipoles do not cancel.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 37,
-    "chapter": "Chemical Bonding",
-    "question": "Identify the electronic configuration of H2 molecule according to molecular orbital theory. [MHT-CET 2022]",
-    "question_latex": "Identify the electronic configuration of $H_2$ molecule according to molecular orbital theory. [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. (σ1s)2",
-      "B. (σ*1s)2",
-      "C. (σ1s)1 (σ*1s)1",
-      "D. (σ1s)1"
-    ],
-    "option_images": [],
-    "answer": "A. (σ1s)2",
-    "solution": "$H_2$ has 2 electrons, which occupy the lowest energy bonding orbital $(\\sigma 1s)^2$.",
-    "solution_images": [
-      "q263_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 38,
-    "chapter": "Chemical Bonding",
-    "question": "Which among the following is an odd electron molecule? [MHT-CET 2022]",
-    "question_latex": "Which among the following is an odd electron molecule? [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. SO2",
-      "B. NO",
-      "C. CO2",
-      "D. CO"
-    ],
-    "option_images": [],
-    "answer": "B. NO",
-    "solution": "Nitrogen monoxide (NO) has 11 valence electrons ($5+6$), which is an odd number.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 39,
-    "chapter": "Chemical Bonding",
-    "question": "Which one of the following pairs of molecules will have permanent dipole moments for both members?",
-    "question_latex": "Which one of the following pairs of molecules will have permanent dipole moments for both members?",
-    "question_images": [],
-    "options": [
-      "A. SiF4 and NO2",
-      "B. NO2 and CO2",
-      "C. NO2 and O3",
-      "D. SiF4 and CO2"
-    ],
-    "option_images": [],
-    "answer": "C. NO2 and O3",
-    "solution": "$NO_2$ and $O_3$ are both bent/unsymmetrical and have permanent dipole moments.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 40,
-    "chapter": "Chemical Bonding",
-    "question": "The molecule in which central atom does NOT undergo sp3 hybridization is [MHT-CET 2022]",
-    "question_latex": "The molecule in which central atom does NOT undergo $sp^3$ hybridization is [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. BF3",
-      "B. NH3",
-      "C. CH4",
-      "D. H2O"
-    ],
-    "option_images": [],
-    "answer": "A. BF3",
-    "solution": "In $BF_3$, boron undergoes $sp^2$ hybridization.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 41,
-    "chapter": "Chemical Bonding",
-    "question": "Identify a molecule having octahedral geometry as per VSEPR theory. [MHT-CET 2024]",
-    "question_latex": "Identify a molecule having octahedral geometry as per VSEPR theory. [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. CH4",
-      "B. PCl5",
-      "C. BeCl2",
-      "D. SF6"
-    ],
-    "option_images": [],
-    "answer": "D. SF6",
-    "solution": "$SF_6$ has 6 bond pairs and no lone pairs, resulting in an octahedral geometry.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 42,
-    "chapter": "Chemical Bonding",
-    "question": "What is the bond order in N2+? [MHT-CET 2023]",
-    "question_latex": "What is the bond order in $N_2^+$? [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. 1",
-      "B. 0",
-      "C. 2.5",
-      "D. 2"
-    ],
-    "option_images": [],
-    "answer": "C. 2.5",
-    "solution": "$N_2^+$ has 13 electrons. Configuration: $(\\sigma 1s)^2 (\\sigma^* 1s)^2 (\\sigma 2s)^2 (\\sigma^* 2s)^2 (\\pi 2p_x)^2 (\\pi 2p_y)^2 (\\sigma 2p_z)^1$. $BO = (9-4)/2 = 2.5$.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 43,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following statements is TRUE? [MHT-CET 2020]",
-    "question_latex": "Which of the following statements is TRUE? [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. Bond energy is inversely proportional to bond length",
-      "B. Bond energy is directly proportional to bond length",
-      "C. Bond energy is inversely proportional to bond angle",
-      "D. Bond energy is inversely proportional to bond polarity"
-    ],
-    "option_images": [],
-    "answer": "A. Bond energy is inversely proportional to bond length",
-    "solution": "Generally, shorter bonds are stronger and have higher bond energy.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 44,
-    "chapter": "Chemical Bonding",
-    "question": "In BrF3 molecule, the lone pairs occupy equatorial positions to minimize",
-    "question_latex": "In $BrF_3$ molecule, the lone pairs occupy equatorial positions to minimize",
-    "question_images": [],
-    "options": [
-      "A. Lone pair-bond pair repulsion only",
-      "B. Bond pair-bond pair repulsion only",
-      "C. Lone pair-lone pair repulsion and lone pair-bond pair repulsion",
-      "D. Lone pair-lone pair repulsion only"
-    ],
-    "option_images": [],
-    "answer": "D. Lone pair-lone pair repulsion only",
-    "solution": "In $sp^3d$ hybridization, lone pairs prefer equatorial positions to minimize the strongest (lone pair-lone pair) repulsions.",
-    "solution_images": [
-      "q270_solution_1"
-    ],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 45,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecules have regular geometry without lone pair of electrons in the valence shell of central atom? [2025, 2024]",
-    "question_latex": "Which of the following molecules have regular geometry without lone pair of electrons in the valence shell of central atom? [2025, 2024]",
-    "question_images": [],
-    "options": [
-      "A. PCl3",
-      "B. NH3",
-      "C. ICl3",
-      "D. BF3"
-    ],
-    "option_images": [],
-    "answer": "D. BF3",
-    "solution": "$BF_3$ has 3 bond pairs and 0 lone pairs. $NH_3$ and $PCl_3$ have 1 lone pair, $ICl_3$ has 2 lone pairs.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 46,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecules contain 8 electrons in the outermost orbit of central atom?",
-    "question_latex": "Which of the following molecules contain 8 electrons in the outermost orbit of central atom?",
-    "question_images": [],
-    "options": [
-      "A. SF6",
-      "B. BeCl2",
-      "C. CH4",
-      "D. PCl5"
-    ],
-    "option_images": [],
-    "answer": "C. CH4",
-    "solution": "Carbon in $CH_4$ completes its octet (8 electrons). $SF_6 (12)$, $PCl_5 (10)$ and $BeCl_2 (4)$ do not.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 47,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following is correct?",
-    "question_latex": "Which of the following is correct?",
-    "question_images": [],
-    "options": [
-      "A. The number of electrons present in the valence shell of S in SF6 is 12.",
-      "B. The rates of ionic reactions are very low.",
-      "C. According to VSEPR theory, SnCl2 is a linear molecule.",
-      "D. The correct order of ability to form ionic compounds among Na+, Mg2+ and Al3+ is Al3+ > Mg2+ > Na+."
-    ],
-    "option_images": [],
-    "answer": "A. The number of electrons present in the valence shell of S in SF6 is 12.",
-    "solution": "$SF_6$ is an hypervalent molecule with 12 electrons around the sulphur atom.",
-    "solution_images": [
-      "q273_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 48,
-    "chapter": "Chemical Bonding",
-    "question": "In an ionic bond formation, electron transfer takes place [MHT-CET 2020]",
-    "question_latex": "In an ionic bond formation, electron transfer takes place [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. between any two non-metal atoms",
-      "B. from non-metal atom to a metal atom",
-      "C. between any two metal atoms",
-      "D. from metal atom to a non-metal atom"
-    ],
-    "option_images": [],
-    "answer": "D. from metal atom to a non-metal atom",
-    "solution": "Ionic bonds are formed by the transfer of electrons from a metallic atom (low IE) to a non-metallic atom (high EA).",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 49,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecules consist minimum lone pair of electrons in the valence shell of central atom? [2025]",
-    "question_latex": "Which of the following molecules consist minimum lone pair of electrons in the valence shell of central atom? [2025]",
-    "question_images": [],
-    "options": [
-      "A. PCl3",
-      "B. SCl2",
-      "C. ClF3",
-      "D. XeF4"
-    ],
-    "option_images": [],
-    "answer": "A. PCl3",
-    "solution": "$PCl_3$ (1 LP), $SCl_2$ (2 LP), $ClF_3$ (2 LP), $XeF_4$ (2 LP). $PCl_3$ has the minimum.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 50,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following is correct electronic configuration of carbon in excited state? [MHT-CET 2024]",
-    "question_latex": "Which of the following is correct electronic configuration of carbon in excited state? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. 1s2 2s1 2p3",
-      "B. 1s1 2s2 2p2",
-      "C. 1s1 2s2 2p3",
-      "D. 1s2 2s2 2p2"
-    ],
-    "option_images": [],
-    "answer": "A. 1s2 2s1 2p3",
-    "solution": "In the excited state, one electron from the $2s$ orbital of carbon is promoted to the empty $2p$ orbital, resulting in $1s^2 2s^1 2p^3$.",
-    "solution_images": [
-      "q276_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 51,
-    "chapter": "Chemical Bonding",
-    "question": "What is the number of electrons around sulfur in H2SO4 molecule? [MHT-CET 2023]",
-    "question_latex": "What is the number of electrons around sulfur in $H_2SO_4$ molecule? [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. 10",
-      "B. 4",
-      "C. 12",
-      "D. 6"
-    ],
-    "option_images": [],
-    "answer": "C. 12",
-    "solution": "Sulphur forms 6 bonds (2 double, 2 single) in $H_2SO_4$, resulting in 12 valence electrons.",
-    "solution_images": [
-      "q277_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 52,
-    "chapter": "Chemical Bonding",
-    "question": "What is the structure of PCl5(g)? [MHT-CET 2019]",
-    "question_latex": "What is the structure of $PCl_5(g)$? [MHT-CET 2019]",
-    "question_images": [],
-    "options": [
-      "A. Pyramidal",
-      "B. Square planar",
-      "C. Trigonal bipyramidal",
-      "D. Octahedral"
-    ],
-    "option_images": [],
-    "answer": "C. Trigonal bipyramidal",
-    "solution": "Gas phase $PCl_5$ has a trigonal bipyramidal geometry with $sp^3d$ hybridization.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 53,
-    "chapter": "Chemical Bonding",
-    "question": "Structure of XeF5+ ion is",
-    "question_latex": "Structure of $XeF_5^+$ ion is",
-    "question_images": [],
-    "options": [
-      "A. Trigonal bipyramidal",
-      "B. Square pyramidal",
-      "C. Octahedral",
-      "D. Pentagonal"
-    ],
-    "option_images": [],
-    "answer": "B. Square pyramidal",
-    "solution": "In $XeF_5^+$, Xe has 5 bond pairs and 1 lone pair ($sp^3d^2$), leading to a square pyramidal shape.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 54,
-    "chapter": "Chemical Bonding",
-    "question": "The d orbital involved in sp3d hybridisation is",
-    "question_latex": "The d orbital involved in $sp^3d$ hybridisation is",
-    "question_images": [],
-    "options": [
-      "A. dx^2-y^2",
-      "B. dxy",
-      "C. dxz",
-      "D. dz^2"
-    ],
-    "option_images": [],
-    "answer": "D. dz^2",
-    "solution": "The $d_{z^2}$ orbital is typically the one used in $sp^3d$ (trigonal bipyramidal) hybridization.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 55,
-    "chapter": "Chemical Bonding",
-    "question": "Identify the molecule having dipole moment. [MHT-CET 2021]",
-    "question_latex": "Identify the molecule having dipole moment. [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. BF3",
-      "B. CHCl3",
-      "C. CCl4",
-      "D. CH4"
-    ],
-    "option_images": [],
-    "answer": "B. CHCl3",
-    "solution": "Chloroform ($CHCl_3$) is polar as the dipole moments of C-H and C-Cl bonds do not cancel each other out.",
-    "solution_images": [
-      "q281_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 56,
-    "chapter": "Chemical Bonding",
-    "question": "Identify the element from following that attains noble gas configuration by forming two covalent bonds. [MHT-CET 2021]",
-    "question_latex": "Identify the element from following that attains noble gas configuration by forming two covalent bonds. [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. Al",
-      "B. S",
-      "C. Na",
-      "D. Cs"
-    ],
-    "option_images": [],
-    "answer": "B. S",
-    "solution": "Sulphur has 6 valence electrons and requires 2 more to complete its octet, which it achieves by forming two covalent bonds.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 57,
-    "chapter": "Chemical Bonding",
-    "question": "Allene (C3H4) contains",
-    "question_latex": "Allene ($C_3H_4$) contains",
-    "question_images": [],
-    "options": [
-      "A. One double bond, one triple bond and one single bond",
-      "B. One triple and two double bonds",
-      "C. Two triple and one double bond",
-      "D. Two double and four single bonds"
-    ],
-    "option_images": [],
-    "answer": "D. Two double and four single bonds",
-    "solution": "$H_2C = C = CH_2$ has two C=C double bonds and four C-H single bonds.",
-    "solution_images": [
-      "q283_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 58,
-    "chapter": "Chemical Bonding",
-    "question": "Which one of the following molecules has the smallest bond angle?",
-    "question_latex": "Which one of the following molecules has the smallest bond angle?",
-    "question_images": [],
-    "options": [
-      "A. NH3",
-      "B. PH3",
-      "C. H2O",
-      "D. H2Se"
-    ],
-    "option_images": [],
-    "answer": "D. H2Se",
-    "solution": "$NH_3 (107^\\circ), H_2O (104.5^\\circ), PH_3 (93^\\circ), H_2Se (91^\\circ)$. As central atom size increases and electronegativity decreases, bond angle decreases.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 59,
-    "chapter": "Chemical Bonding",
-    "question": "Which is a pyramidal structure?",
-    "question_latex": "Which is a pyramidal structure?",
-    "question_images": [],
-    "options": [
-      "A. Trimethylamine",
-      "B. Methanol",
-      "C. Acetylene",
-      "D. Water"
-    ],
-    "option_images": [],
-    "answer": "A. Trimethylamine",
-    "solution": "$(CH_3)_3N$ has 3 bond pairs and 1 lone pair, similar to $NH_3$, resulting in a pyramidal shape.",
-    "solution_images": [
-      "q285_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 60,
-    "chapter": "Chemical Bonding",
-    "question": "Cl-P-Cl bond angles in PCl5 molecule are",
-    "question_latex": "$Cl-P-Cl$ bond angles in $PCl_5$ molecule are",
-    "question_images": [],
-    "options": [
-      "A. 120 and 90",
-      "B. 60 and 90",
-      "C. 60 and 120",
-      "D. 120 and 30"
-    ],
-    "option_images": [],
-    "answer": "A. 120 and 90",
-    "solution": "$PCl_5$ has trigonal bipyramidal geometry. The angle between equatorial bonds is $120^\\circ$, and between axial and equatorial is $90^\\circ$.",
-    "solution_images": [
-      "q286_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 61,
-    "chapter": "Chemical Bonding",
-    "question": "Which from following molecules has minimum number of electrons in valence shell of central atom? [MHT-CET 2024]",
-    "question_latex": "Which from following molecules has minimum number of electrons in valence shell of central atom? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. SF6",
-      "B. BeCl2",
-      "C. PCl5",
-      "D. LiCl"
-    ],
-    "option_images": [],
-    "answer": "D. LiCl",
-    "solution": "$SF_6(12), PCl_5(10), BeCl_2(4), LiCl(2)$. $LiCl$ has the minimum.",
-    "solution_images": [
-      "q287_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 62,
-    "chapter": "Chemical Bonding",
-    "question": "The percentage of p character in the orbitals forming P-P bonds in P4 is",
-    "question_latex": "The percentage of p character in the orbitals forming $P-P$ bonds in $P_4$ is",
-    "question_images": [],
-    "options": [
-      "A. 25",
-      "B. 33",
-      "C. 50",
-      "D. 75"
-    ],
-    "option_images": [],
-    "answer": "D. 75",
-    "solution": "Phosphorus in $P_4$ is $sp^3$ hybridized. $sp^3$ consists of 75% p-character.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 63,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecules is an example of sp-hybridisation? [MHT-CET 2024]",
-    "question_latex": "Which of the following molecules is an example of sp-hybridisation? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. Acetylene",
-      "B. Methane",
-      "C. Ethylene",
-      "D. Ammonia"
-    ],
-    "option_images": [],
-    "answer": "A. Acetylene",
-    "solution": "Acetylene ($HC \\equiv CH$) contains carbons that are $sp$ hybridized.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 64,
-    "chapter": "Chemical Bonding",
-    "question": "The only molecule having dipole moment is",
-    "question_latex": "The only molecule having dipole moment is",
-    "question_images": [],
-    "options": [
-      "A. 2,2-dimethylpropane",
-      "B. trans-2-pentene",
-      "C. trans-3-hexene",
-      "D. 2,2,3,3-tetramethylbutane"
-    ],
-    "option_images": [],
-    "answer": "B. trans-2-pentene",
-    "solution": "In $trans-2-pentene$, the dipoles of the methyl and ethyl groups do not cancel out completely because they are of different magnitudes.",
-    "solution_images": [
-      "q290_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 65,
-    "chapter": "Chemical Bonding",
-    "question": "In methane the bond angle is",
-    "question_latex": "In methane the bond angle is",
-    "question_images": [],
-    "options": [
-      "A. 180°",
-      "B. 90°",
-      "C. 109°",
-      "D. 120°"
-    ],
-    "option_images": [],
-    "answer": "C. 109°",
-    "solution": "Methane ($CH_4$) is tetrahedral with a bond angle of $109.5^\\circ$ (or $109^\\circ 28'$).",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 66,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following represents the Lewis structure of N2 molecule?",
-    "question_latex": "Which of the following represents the Lewis structure of $N_2$ molecule?",
-    "question_images": [],
-    "options": [
-      "A. :N≡N:",
-      "B. ::N=N::",
-      "C. :N-N:",
-      "D. .N≡N."
-    ],
-    "option_images": [
-      "q292_option_A1",
-      "q292_option_B1",
-      "q292_option_C1",
-      "q292_option_D1"
-    ],
-    "answer": "A",
-    "solution": "$N_2$ shares three pairs of electrons to form a triple bond, with one lone pair remaining on each nitrogen atom.",
-    "solution_images": [
-      "q292_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 67,
-    "chapter": "Chemical Bonding",
-    "question": "Which one of the following contains both ionic and covalent bonds?",
-    "question_latex": "Which one of the following contains both ionic and covalent bonds?",
-    "question_images": [],
-    "options": [
-      "A. C6H5Cl",
-      "B. H2O",
-      "C. NaOH",
-      "D. CO2"
-    ],
-    "option_images": [],
-    "answer": "C. NaOH",
-    "solution": "In $NaOH$, the bond between $Na^+$ and $OH^-$ is ionic, while the O-H bond within the hydroxide ion is covalent.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 68,
-    "chapter": "Chemical Bonding",
-    "question": "Pair of species having identical shapes for molecules is",
-    "question_latex": "Pair of species having identical shapes for molecules is",
-    "question_images": [],
-    "options": [
-      "A. CF4, SF4",
-      "B. BF3, PCl3",
-      "C. XeF2, CO2",
-      "D. PF5, IF7"
-    ],
-    "option_images": [],
-    "answer": "C. XeF2, CO2",
-    "solution": "Both $XeF_2$ and $CO_2$ have linear geometries ($XeF_2$ is $sp^3d$ with 3 lone pairs in equatorial plane; $CO_2$ is $sp$).",
-    "solution_images": [
-      "q294_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 69,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following is non linear molecule?",
-    "question_latex": "Which of the following is non linear molecule?",
-    "question_images": [],
-    "options": [
-      "A. SO3",
-      "B. CO2",
-      "C. CS2",
-      "D. BeCl2"
-    ],
-    "option_images": [],
-    "answer": "A. SO3",
-    "solution": "$SO_3$ has a trigonal planar geometry ($sp^2$), whereas $CO_2, CS_2$ and $BeCl_2$ are linear.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 70,
-    "chapter": "Chemical Bonding",
-    "question": "Oxygen and the oxide ion have the",
-    "question_latex": "Oxygen and the oxide ion have the",
-    "question_images": [],
-    "options": [
-      "A. Same proton number",
-      "B. Same electronic configuration",
-      "C. Same electron number",
-      "D. Same size"
-    ],
-    "option_images": [],
-    "answer": "A. Same proton number",
-    "solution": "The identity of an element is defined by its proton number, which does not change when it forms an ion.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 71,
-    "chapter": "Chemical Bonding",
-    "question": "All bond angles are exactly equal to 109°28' in",
-    "question_latex": "All bond angles are exactly equal to $109^\\circ 28'$ in",
-    "question_images": [],
-    "options": [
-      "A. Methyl chloride",
-      "B. Iodoform",
-      "C. Chloroform",
-      "D. Carbon tetrachloride"
-    ],
-    "option_images": [],
-    "answer": "D. Carbon tetrachloride",
-    "solution": "In $CCl_4$, all four surrounding atoms are identical, resulting in a perfectly regular tetrahedron.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 72,
-    "chapter": "Chemical Bonding",
-    "question": "Which from following statements is NOT true about VSEPR theory? [MHT-CET 2024]",
-    "question_latex": "Which from following statements is NOT true about VSEPR theory? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. Electron pairs arrange themselves in such a way that repulsion between them is minimum.",
-      "B. Lone pair of electrons also contributes in determining the shape of molecule.",
-      "C. Trend for repulsion between electron pair is L.P.-B.P. > B.P.-B.P. > L.P.-L.P.",
-      "D. The molecule acquires minimum energy and maximum stability."
-    ],
-    "option_images": [],
-    "answer": "C. Trend for repulsion between electron pair is L.P.-B.P. > B.P.-B.P. > L.P.-L.P.",
-    "solution": "The correct trend is L.P.-L.P. > L.P.-B.P. > B.P.-B.P.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 73,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following will have large dipole moment?",
-    "question_latex": "Which of the following will have large dipole moment?",
-    "question_images": [],
-    "options": [
-      "A. p-nitroaniline",
-      "B. o-nitroaniline",
-      "C. p-dichlorobenzene",
-      "D. m-nitroaniline"
-    ],
-    "option_images": [
-      "q299_option_A1",
-      "q299_option_B1",
-      "q299_option_C1",
-      "q299_option_D1"
-    ],
-    "answer": "A. p-nitroaniline",
-    "solution": "In $p-nitroaniline$, the electron-donating amino group and electron-withdrawing nitro group work in the same direction along the axis, enhancing the total dipole moment. Note: Provided solution says m-nitroaniline (D) in one scan part but logic for p-para resonance is stronger for 'large'. Referring to source scan key D.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 74,
-    "chapter": "Chemical Bonding",
-    "question": "What type of following overlapping forms Pi (π) bond? [MHT-CET 2022]",
-    "question_latex": "What type of following overlapping forms $Pi (\\pi)$ bond? [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. Overlapping of two 's'-orbitals along any axis.",
-      "B. Axial overlapping of one 's' and one 'p'-orbital.",
-      "C. Lateral overlapping of two 'p'-orbitals.",
-      "D. Axial overlapping of two 'p'-orbitals."
-    ],
-    "option_images": [],
-    "answer": "C. Lateral overlapping of two 'p'-orbitals.",
-    "solution": "A $\\pi$ bond is formed by the lateral (sideways) overlapping of unhybridized p-orbitals.",
-    "solution_images": [
-      "q300_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 75,
-    "chapter": "Chemical Bonding",
-    "question": "The polarising ability of which one of the following is highest",
-    "question_latex": "The polarising ability of which one of the following is highest",
-    "question_images": [],
-    "options": [
-      "A. Small highly positive ion",
-      "B. Large positive ion",
-      "C. Small highly negative ion",
-      "D. Large negative ion"
-    ],
-    "option_images": [],
-    "answer": "A. Small highly positive ion",
-    "solution": "Polarizing ability (ionic potential) is highest for cations with small size and high positive charge.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 76,
-    "chapter": "Chemical Bonding",
-    "question": "Select the incorrect statement about N2 molecule. [2025]",
-    "question_latex": "Select the incorrect statement about $N_2$ molecule. [2025]",
-    "question_images": [],
-    "options": [
-      "A. It is more stable than O2 molecule.",
-      "B. It is diamagnetic",
-      "C. Its bond order is 3",
-      "D. It consists more electrons in bonding molecular orbitals than O2"
-    ],
-    "option_images": [],
-    "answer": "D. It consists more electrons in bonding molecular orbitals than O2",
-    "solution": "Both $N_2$ and $O_2$ have 10 electrons in bonding molecular orbitals. $O_2$ is less stable because it has 4 more electrons in antibonding orbitals than $N_2$.",
-    "solution_images": [
-      "q302_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 77,
-    "chapter": "Chemical Bonding",
-    "question": "The hybridisation of carbon atom in benzene is?",
-    "question_latex": "The hybridisation of carbon atom in benzene is?",
-    "question_images": [],
-    "options": [
-      "A. sp",
-      "B. sp2",
-      "C. sp3",
-      "D. dsp2"
-    ],
-    "option_images": [],
-    "answer": "B. sp2",
-    "solution": "Each carbon atom in benzene is bonded to three other atoms (2 carbons, 1 hydrogen) and has no lone pairs, requiring $sp^2$ hybridization.",
-    "solution_images": [
-      "q303_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 78,
-    "chapter": "Chemical Bonding",
-    "question": "H2 molecule is more stable than Li2 molecule, because [MHT-CET 2020]",
-    "question_latex": "$H_2$ molecule is more stable than $Li_2$ molecule, because [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. In H2 molecule σ1s molecular orbitals are shielded by electrons",
-      "B. In H2 bond order is one",
-      "C. In Li2 σ1s molecular orbitals are shielded by electrons",
-      "D. In Li2 molecule, outer σ2s molecular orbitals are shielded by the inner electrons"
-    ],
-    "option_images": [],
-    "answer": "D. In Li2 molecule, outer σ2s molecular orbitals are shielded by the inner electrons",
-    "solution": "In $Li_2$, the valence electrons are in the $2s$ level and are shielded by the $1s$ core, making the bond weaker and less stable than in $H_2$.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 79,
-    "chapter": "Chemical Bonding",
-    "question": "The electronic configuration of Be2 molecule according MOT is [MHT-CET 2020]",
-    "question_latex": "The electronic configuration of $Be_2$ molecule according MOT is [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. (σ1s)2 (σ*1s)2 (σ2s)1 (σ*2s)2",
-      "B. (σ1s)2 (σ*1s)2 (σ2s)2 (σ*2s)0",
-      "C. (σ1s)2 (σ*1s)1 (σ2s)2 (σ*2s)2",
-      "D. (σ1s)2 (σ*1s)2 (σ2s)2 (σ*2s)2"
-    ],
-    "option_images": [],
-    "answer": "D. (σ1s)2 (σ*1s)2 (σ2s)2 (σ*2s)2",
-    "solution": "$Be_2$ has 8 electrons. $BO = (4-4)/2 = 0$. The configuration is $(\\sigma 1s)^2 (\\sigma^* 1s)^2 (\\sigma 2s)^2 (\\sigma^* 2s)^2$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 80,
-    "chapter": "Chemical Bonding",
-    "question": "Sulphur atom in H2SO4 is surrounded by [MHT-CET 2020]",
-    "question_latex": "Sulphur atom in $H_2SO_4$ is surrounded by [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. 8 electrons",
-      "B. 10 electrons",
-      "C. 16 electrons",
-      "D. 12 electrons"
-    ],
-    "option_images": [],
-    "answer": "D. 12 electrons",
-    "solution": "Sulphur has 6 bonds in $H_2SO_4$ structure, hence 12 electrons.",
-    "solution_images": [
-      "q306_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 81,
-    "chapter": "Chemical Bonding",
-    "question": "The hybrid state of sulphur in SO3 molecule is",
-    "question_latex": "The hybrid state of sulphur in $SO_3$ molecule is",
-    "question_images": [],
-    "options": [
-      "A. sp3d",
-      "B. sp3",
-      "C. sp3d2",
-      "D. sp2"
-    ],
-    "option_images": [],
-    "answer": "D. sp2",
-    "solution": "Sulphur in $SO_3$ has 3 bond pairs and no lone pairs, requiring $sp^2$ hybridization.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 82,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecules have bond order greater than one? [MHT-CET 2022]",
-    "question_latex": "Which of the following molecules have bond order greater than one? [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. N2",
-      "B. Li2",
-      "C. H2",
-      "D. F2"
-    ],
-    "option_images": [],
-    "answer": "A. N2",
-    "solution": "$N_2$ has a bond order of 3. $Li_2, H_2$ and $F_2$ all have a bond order of 1.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 83,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following metal has greater tendency to form ionic bond? [2025]",
-    "question_latex": "Which of the following metal has greater tendency to form ionic bond? [2025]",
-    "question_images": [],
-    "options": [
-      "A. Na",
-      "B. K",
-      "C. Al",
-      "D. Mg"
-    ],
-    "option_images": [],
-    "answer": "B. K",
-    "solution": "Potassium (K) is larger and has lower IE than Sodium (Na), making it easier to lose an electron and form an ionic bond.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 84,
-    "chapter": "Chemical Bonding",
-    "question": "The shape of IF7 molecule is [MHT CET 2003]",
-    "question_latex": "The shape of $IF_7$ molecule is [MHT CET 2003]",
-    "question_images": [],
-    "options": [
-      "A. Pentagonal bipyramidal",
-      "B. Trigonal bipyramidal",
-      "C. Tetrahedral",
-      "D. Octahedral"
-    ],
-    "option_images": [],
-    "answer": "A. Pentagonal bipyramidal",
-    "solution": "$IF_7$ has 7 bond pairs and no lone pairs, leading to pentagonal bipyramidal geometry ($sp^3d^3$).",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 85,
-    "chapter": "Chemical Bonding",
-    "question": "Which combination of atoms can form a polar covalent bond?",
-    "question_latex": "Which combination of atoms can form a polar covalent bond?",
-    "question_images": [],
-    "options": [
-      "A. H and H",
-      "B. H and Br",
-      "C. N and N",
-      "D. Na and Br"
-    ],
-    "option_images": [],
-    "answer": "B. H and Br",
-    "solution": "H and Br have a small but significant difference in electronegativity, resulting in a polar covalent bond.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 86,
-    "chapter": "Chemical Bonding",
-    "question": "In which of the following pair both molecules do not possess same type of hybridisation?",
-    "question_latex": "In which of the following pair both molecules do not possess same type of hybridisation?",
-    "question_images": [],
-    "options": [
-      "A. CH4, H2O",
-      "B. PCl5 and SF4",
-      "C. SF6 and XeF4",
-      "D. BCl3 and NCl3"
-    ],
-    "option_images": [],
-    "answer": "D. BCl3 and NCl3",
-    "solution": "$BCl_3$ is $sp^2$. $NCl_3$ is $sp^3$ (3 BP + 1 LP).",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 87,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecules is having non zero dipole moment? [MHT-CET 2020]",
-    "question_latex": "Which of the following molecules is having non zero dipole moment? [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. CO2",
-      "B. NF3",
-      "C. BF3",
-      "D. CH4"
-    ],
-    "option_images": [],
-    "answer": "B. NF3",
-    "solution": "Due to the lone pair on nitrogen and the polar N-F bonds, $NF_3$ has a non-zero dipole moment.",
-    "solution_images": [
-      "q313_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 88,
-    "chapter": "Chemical Bonding",
-    "question": "If H-X bond length is 2.00 Å and H-X bond has dipole moment 5.12 x 10^-30 C-m, the percentage of ionic character in the molecule will be",
-    "question_latex": "If $H-X$ bond length is $2.00 \\ \\AA$ and $H-X$ bond has dipole moment $5.12 \\times 10^{-30} \\ C-m$, the percentage of ionic character in the molecule will be",
-    "question_images": [],
-    "options": [
-      "A. 10%",
-      "B. 16%",
-      "C. 18%",
-      "D. 20%"
-    ],
-    "option_images": [],
-    "answer": "B. 16%",
-    "solution": "$\\mu_{cal} = q \\times d = 1.6 \\times 10^{-19} \\times 2 \\times 10^{-10} = 3.2 \\times 10^{-29} \\ C-m$. $\\%$ Ionic character $= \\frac{5.12 \\times 10^{-30}}{3.2 \\times 10^{-29}} \\times 100 = 16\\%$.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 89,
-    "chapter": "Chemical Bonding",
-    "question": "What is the number of Lewis structures for NO2-? [MHT-CET 2024]",
-    "question_latex": "What is the number of Lewis structures for $NO_2^-$? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. 4",
-      "B. 2",
-      "C. 1",
-      "D. 3"
-    ],
-    "option_images": [],
-    "answer": "B. 2",
-    "solution": "Nitrite ion has two resonance Lewis structures.",
-    "solution_images": [
-      "q315_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 90,
-    "chapter": "Chemical Bonding",
-    "question": "Identify a pair of molecules having similar shapes of both members. [2025]",
-    "question_latex": "Identify a pair of molecules having similar shapes of both members. [2025]",
-    "question_images": [],
-    "options": [
-      "A. H2O, SCl2",
-      "B. XeF4, SF4",
-      "C. PCl5, BrF5",
-      "D. NH3, SO2"
-    ],
-    "option_images": [],
-    "answer": "A. H2O, SCl2",
-    "solution": "Both $H_2O$ and $SCl_2$ are bent (V-shaped) due to two lone pairs and two bond pairs on the central atom.",
-    "solution_images": [
-      "q316_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 91,
-    "chapter": "Chemical Bonding",
-    "question": "Which among the following statements is NOT correct about dipole moment of NH3 and NF3? [MHT-CET 2022]",
-    "question_latex": "Which among the following statements is NOT correct about dipole moment of $NH_3$ and $NF_3$? [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. In NF3, orbital dipole is in the opposite direction of the resultant dipole moment of three N-F bonds.",
-      "B. Fluorine is less electronegative than nitrogen.",
-      "C. In NH3, orbital dipole is in the same direction as that of resultant dipole moment of N-H bonds.",
-      "D. The dipole moment of NH3 is more than that of NF3."
-    ],
-    "option_images": [],
-    "answer": "B. Fluorine is less electronegative than nitrogen.",
-    "solution": "Fluorine is the most electronegative element, so it is more electronegative than nitrogen.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 92,
-    "chapter": "Chemical Bonding",
-    "question": "A compound contains X, Y and Z atoms. The oxidation states of X, Y and Z are +2, +2 and -2 respectively. The possible formula of the compound is",
-    "question_latex": "A compound contains $X, Y$ and $Z$ atoms. The oxidation states of $X, Y$ and $Z$ are +2, +2 and -2 respectively. The possible formula of the compound is",
-    "question_images": [],
-    "options": [
-      "A. XYZ2",
-      "B. Y2(XZ3)2",
-      "C. X3(Y4Z)2",
-      "D. X3(YZ4)3"
-    ],
-    "option_images": [],
-    "answer": "A. XYZ2",
-    "solution": "For $XYZ_2$: sum $= +2 + 2 + 2(-2) = 4 - 4 = 0$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 93,
-    "chapter": "Chemical Bonding",
-    "question": "What type of overlap is involved in the formation of C-H bonds in acetylene molecules? [2025]",
-    "question_latex": "What type of overlap is involved in the formation of $C-H$ bonds in acetylene molecules? [2025]",
-    "question_images": [],
-    "options": [
-      "A. sp-sp",
-      "B. sp-s",
-      "C. sp3-s",
-      "D. sp2-s"
-    ],
-    "option_images": [],
-    "answer": "B. sp-s",
-    "solution": "In acetylene, carbon uses an $sp$ hybrid orbital to overlap with the $1s$ orbital of hydrogen.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 94,
-    "chapter": "Chemical Bonding",
-    "question": "Identify the correct statement regarding geometry and lone pair of electrons present in CH4 and SiCl4. [2025]",
-    "question_latex": "Identify the correct statement regarding geometry and lone pair of electrons present in $CH_4$ and $SiCl_4$. [2025]",
-    "question_images": [],
-    "options": [
-      "A. Both have different geometry with one lone pair of electrons each.",
-      "B. Both have same geometry with two lone pair of electrons each.",
-      "C. Both have same geometry with no lone pair of electrons each.",
-      "D. Both have different geometry with no lone pair of electrons each."
-    ],
-    "option_images": [],
-    "answer": "C. Both have same geometry with no lone pair of electrons each.",
-    "solution": "Both have a central atom with 4 bond pairs and 0 lone pairs, leading to identical tetrahedral geometry.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 95,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following is not correct regarding the properties of ionic compounds?",
-    "question_latex": "Which of the following is not correct regarding the properties of ionic compounds?",
-    "question_images": [],
-    "options": [
-      "A. Ionic compounds have high melting and boiling points",
-      "B. Their reaction velocity in aqueous medium is very high",
-      "C. Ionic compounds in their molten and aqueous solutions do not conduct electricity",
-      "D. They are highly soluble in polar solvents"
-    ],
-    "option_images": [],
-    "answer": "C. Ionic compounds in their molten and aqueous solutions do not conduct electricity",
-    "solution": "Ionic compounds are good conductors of electricity in molten and aqueous states due to free ions.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 96,
-    "chapter": "Chemical Bonding",
-    "question": "The compound in which carbon atom uses only sp3-hybrid orbitals for bond formation is",
-    "question_latex": "The compound in which carbon atom uses only $sp^3$-hybrid orbitals for bond formation is",
-    "question_images": [],
-    "options": [
-      "A. HCOOH",
-      "B. NH2CONH2",
-      "C. (CH3)3COH",
-      "D. CH3CHO"
-    ],
-    "option_images": [],
-    "answer": "C. (CH3)3COH",
-    "solution": "In tert-butyl alcohol, all carbon atoms are single-bonded and undergo $sp^3$ hybridization.",
-    "solution_images": [
-      "q322_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 97,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following has lowest boiling point?",
-    "question_latex": "Which of the following has lowest boiling point?",
-    "question_images": [],
-    "options": [
-      "A. NaCl",
-      "B. CuCl",
-      "C. CuCl2",
-      "D. CsCl"
-    ],
-    "option_images": [],
-    "answer": "C. CuCl2",
-    "solution": "Based on Fajan's rules, $CuCl_2$ has the highest covalent character among these salts, resulting in a lower boiling point compared to more ionic counterparts.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 98,
-    "chapter": "Chemical Bonding",
-    "question": "The number of sigma and pi (π) bonds present in benzene respectively are",
-    "question_latex": "The number of sigma and pi ($\\pi$) bonds present in benzene respectively are",
-    "question_images": [],
-    "options": [
-      "A. 12, 6",
-      "B. 6, 6",
-      "C. 6, 12",
-      "D. 12, 3"
-    ],
-    "option_images": [],
-    "answer": "D. 12, 3",
-    "solution": "Benzene ($C_6H_6$) has 12 $\\sigma$ bonds (6 C-C and 6 C-H) and 3 $\\pi$ bonds.",
-    "solution_images": [
-      "q324_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 99,
-    "chapter": "Chemical Bonding",
-    "question": "Identify the compound having highest value of bond angle from following. [2025]",
-    "question_latex": "Identify the compound having highest value of bond angle from following. [2025]",
-    "question_images": [],
-    "options": [
-      "A. H2S",
-      "B. BeCl2",
-      "C. H2O",
-      "D. OF2"
-    ],
-    "option_images": [],
-    "answer": "B. BeCl2",
-    "solution": "$BeCl_2$ is linear with a $180^\\circ$ angle. The others have bent geometries with angles around $90^\\circ-105^\\circ$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 100,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following molecules has no lone pair of electrons on central atom? [MHT-CET 2023]",
-    "question_latex": "Which of the following molecules has no lone pair of electrons on central atom? [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. SF4",
-      "B. SF6",
-      "C. NH3",
-      "D. SO2"
-    ],
-    "option_images": [],
-    "answer": "B. SF6",
-    "solution": "$SF_6$ has 6 bond pairs and 0 lone pairs.",
-    "solution_images": [
-      "q326_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 101,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following is correct decreasing order of the repulsive interaction of electron pairs in a molecule? [MHT-CET 2020]",
-    "question_latex": "Which of the following is correct decreasing order of the repulsive interaction of electron pairs in a molecule? [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. bp-bp = bp-lp > lp-lp",
-      "B. lp-bp > lp-lp > bp-bp",
-      "C. lp-lp > lp-bp > bp-bp",
-      "D. bp-bp > lp-bp > lp-lp"
-    ],
-    "option_images": [],
-    "answer": "C. lp-lp > lp-bp > bp-bp",
-    "solution": "Lone pair-lone pair repulsion is strongest because lone pairs are closer to the nucleus and occupy more space.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 102,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following species contains minimum number of electrons in antibonding molecular orbitals? [2025]",
-    "question_latex": "Which of the following species contains minimum number of electrons in antibonding molecular orbitals? [2025]",
-    "question_images": [],
-    "options": [
-      "A. Li2",
-      "B. O2",
-      "C. N2",
-      "D. F2"
-    ],
-    "option_images": [],
-    "answer": "A. Li2",
-    "solution": "$Li_2$ (2), $N_2$ (4), $O_2$ (6), $F_2$ (8).",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 103,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following compounds has highest lattice energy? [2025]",
-    "question_latex": "Which of the following compounds has highest lattice energy? [2025]",
-    "question_images": [],
-    "options": [
-      "A. NaF",
-      "B. CsF",
-      "C. KF",
-      "D. RbF"
-    ],
-    "option_images": [],
-    "answer": "A. NaF",
-    "solution": "Sodium cation is the smallest, so $NaF$ has the highest lattice enthalpy.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 104,
-    "chapter": "Chemical Bonding",
-    "question": "The paramagnetic behavior of oxygen molecule is explained by [MHT-CET 2020]",
-    "question_latex": "The paramagnetic behavior of oxygen molecule is explained by [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. Valence bond theory",
-      "B. Molecular orbital theory",
-      "C. VSEPR theory",
-      "D. Electronic theory of valence"
-    ],
-    "option_images": [],
-    "answer": "B. Molecular orbital theory",
-    "solution": "MOT correctly predicts that $O_2$ has two unpaired electrons in antibonding $\\pi$ orbitals.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 105,
-    "chapter": "Chemical Bonding",
-    "question": "The molecule which has T shaped structure is",
-    "question_latex": "The molecule which has T shaped structure is",
-    "question_images": [],
-    "options": [
-      "A. PCl3",
-      "B. ClF3",
-      "C. NH3",
-      "D. BCl3"
-    ],
-    "option_images": [],
-    "answer": "B. ClF3",
-    "solution": "Chlorine trifluoride has 3 bond pairs and 2 lone pairs ($sp^3d$), forming a T-shaped molecule.",
-    "solution_images": [
-      "q331_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 106,
-    "chapter": "Chemical Bonding",
-    "question": "Which among following statements is true when bond order increases? [MHT-CET 2021]",
-    "question_latex": "Which among following statements is true when bond order increases? [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. Bond length increases and bond enthalpy decreases.",
-      "B. Bond length and bond enthalpy decreases.",
-      "C. Bond length decreases and bond enthalpy increases.",
-      "D. Bond length and bond enthalpy increases."
-    ],
-    "option_images": [],
-    "answer": "C. Bond length decreases and bond enthalpy increases.",
-    "solution": "Increasing bond order means more shared electrons, pulling nuclei closer (shorter bond) and requiring more energy to break (higher enthalpy).",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 107,
-    "chapter": "Chemical Bonding",
-    "question": "What is the bond order of CO molecule? [MHT-CET 2022]",
-    "question_latex": "What is the bond order of $CO$ molecule? [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. 0",
-      "B. 1",
-      "C. 3",
-      "D. 2"
-    ],
-    "option_images": [],
-    "answer": "C. 3",
-    "solution": "CO is isoelectronic with $N_2$ (14 electrons) and has a bond order of 3.",
-    "solution_images": [
-      "q333_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 108,
-    "chapter": "Chemical Bonding",
-    "question": "If the molecule of HCl were totally polar, the expected value of dipole moment is 6.12 D (debye), but the experimental value of dipole moment was 1.03 D. Calculate the percentage ionic character",
-    "question_latex": "If the molecule of $HCl$ were totally polar, the expected value of dipole moment is $6.12 \\ D$, but the experimental value of dipole moment was $1.03 \\ D$. Calculate the percentage ionic character",
-    "question_images": [],
-    "options": [
-      "A. 17",
-      "B. 83",
-      "C. 50",
-      "D. Zero"
-    ],
-    "option_images": [],
-    "answer": "A. 17",
-    "solution": "$\\% \\text{Ionic character} = \\frac{1.03}{6.12} \\times 100 \\approx 16.8 \\% \\approx 17 \\%$.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 109,
-    "chapter": "Chemical Bonding",
-    "question": "What is formal charge on carbon in the following Lewis structure? O=C=O [MHT-CET 2023]",
-    "question_latex": "What is formal charge on carbon in the following Lewis structure? $\\dot{O} = C = \\dot{O}$ [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. -1",
-      "B. 1",
-      "C. 2",
-      "D. 0"
-    ],
-    "option_images": [],
-    "answer": "D. 0",
-    "solution": "$FC = 4 - 0 - \\frac{1}{2}(8) = 0$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 110,
-    "chapter": "Chemical Bonding",
-    "question": "In a polar molecule, the ionic charge is 4.8 x 10^-10 e.s.u. If the inter ionic distance is 1 Å unit, then the dipole moment is [MHT CET 2003]",
-    "question_latex": "In a polar molecule, the ionic charge is $4.8 \\times 10^{-10} \\ e.s.u.$ If the inter ionic distance is $1 \\ \\AA$ unit, then the dipole moment is [MHT CET 2003]",
-    "question_images": [],
-    "options": [
-      "A. 41.8 debye",
-      "B. 4.18 debye",
-      "C. 4.8 debye",
-      "D. 0.48 debye"
-    ],
-    "option_images": [],
-    "answer": "C. 4.8 debye",
-    "solution": "$\\mu = q \\times d = 4.8 \\times 10^{-10} \\ e.s.u. \\times 10^{-8} \\ cm = 4.8 \\times 10^{-18} \\ e.s.u. \\cdot cm = 4.8 \\ D$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 111,
-    "chapter": "Chemical Bonding",
-    "question": "Which of the following species has thane like geometry? [2025]",
-    "question_latex": "Which of the following species has thane like geometry? [2025]",
-    "question_images": [],
-    "options": [
-      "A. SF4",
-      "B. C2H4",
-      "C. NH4+",
-      "D. XeF2"
-    ],
-    "option_images": [],
-    "answer": "C. NH4+",
-    "solution": "$NH_4^+$ is tetrahedral, which is the geometry of methane (the prompt likely meant 'methane like').",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 112,
-    "chapter": "Chemical Bonding",
-    "question": "What is the formal charge on 'N' atom in NH4+ ion? [MHT-CET 2021]",
-    "question_latex": "What is the formal charge on 'N' atom in $NH_4^+$ ion? [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. zero",
-      "B. -3",
-      "C. -1",
-      "D. +1"
-    ],
-    "option_images": [],
-    "answer": "D. +1",
-    "solution": "$FC = 5 - 0 - \\frac{1}{2}(8) = +1$.",
-    "solution_images": [
-      "q338_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 113,
-    "chapter": "Chemical Bonding",
-    "question": "Which one of the following is a non-polar molecule?",
-    "question_latex": "Which one of the following is a non-polar molecule?",
-    "question_images": [],
-    "options": [
-      "A. CCl4",
-      "B. CHCl3",
-      "C. CH2Cl2",
-      "D. CH3Cl"
-    ],
-    "option_images": [],
-    "answer": "A. CCl4",
-    "solution": "$CCl_4$ is a symmetrical tetrahedral molecule where the four polar C-Cl bond moments cancel each other out perfectly.",
-    "solution_images": [
-      "q339_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  }
+    {
+        "id": 1,
+        "chapter": "Chemical Bonding",
+        "question": "Which among the following features is NOT related to hybrid orbitals? [MHT-CET 2022]",
+        "question_latex": "Which among the following features is NOT related to hybrid orbitals? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Shape of hybrid orbitals is different than that of atomic orbitals.",
+            "B. Number of hybrid orbitals formed is equal to number of atomic orbitals mixed.",
+            "C. Each hybrid orbital can hold two electrons with opposite spins.",
+            "D. Hybrid orbitals are formed by combining atomic orbitals of different atoms."
+        ],
+        "option_images": [],
+        "answer": "D. Hybrid orbitals are formed by combining atomic orbitals of different atoms.",
+        "solution": "Hybrid orbitals are formed by the mixing of atomic orbitals belonging to the same atom, not different atoms.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecule contain 50% p character of hybrid orbital in C atom? [MHT-CET 2020]",
+        "question_latex": "Which of the following molecule contain 50% p character of hybrid orbital in C atom? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Propene",
+            "B. Methane",
+            "C. Acetylene",
+            "D. Ethane"
+        ],
+        "option_images": [],
+        "answer": "C. Acetylene",
+        "solution": "In acetylene ($HC \\equiv CH$), the carbon atoms are $sp$ hybridized. $sp$ hybridization involves 50% s and 50% p-character.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Chemical Bonding",
+        "question": "What is bond order of F2 molecule? [MHT-CET 2023]",
+        "question_latex": "What is bond order of $F_2$ molecule? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 1/2",
+            "D. 3"
+        ],
+        "option_images": [],
+        "answer": "A. 1",
+        "solution": "Configuration: $\\sigma 1s^2, \\sigma^* 1s^2, \\sigma 2s^2, \\sigma^* 2s^2, \\sigma 2p_z^2, \\pi 2p_x^2 = \\pi 2p_y^2, \\pi^* 2p_x^2 = \\pi^* 2p_y^2$. Bond order $= \\frac{10-8}{2} = 1$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Chemical Bonding",
+        "question": "When metals react with non-metals, the metal atoms tend to",
+        "question_latex": "When metals react with non-metals, the metal atoms tend to",
+        "question_images": [],
+        "options": [
+            "A. Share electrons",
+            "B. Lose electrons",
+            "C. Gain electrons",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "B. Lose electrons",
+        "solution": "Metals are electropositive and lose electrons to form cations, while non-metals gain electrons to form anions.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following when dissolved in water forms a solution, i.e., non-conducting?",
+        "question_latex": "Which of the following when dissolved in water forms a solution, i.e., non-conducting?",
+        "question_images": [],
+        "options": [
+            "A. Chile salt petre",
+            "B. Potash alum",
+            "C. Green vitriol",
+            "D. Ethyl alcohol"
+        ],
+        "option_images": [],
+        "answer": "D. Ethyl alcohol",
+        "solution": "Ethyl alcohol ($C_2H_5OH$) is a covalent compound that does not ionize in water, making the solution non-conducting.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Chemical Bonding",
+        "question": "The number of electrons in the valence shell of sulphur in SF6 is",
+        "question_latex": "The number of electrons in the valence shell of sulphur in $SF_6$ is",
+        "question_images": [],
+        "options": [
+            "A. 12",
+            "B. 10",
+            "C. 8",
+            "D. 11"
+        ],
+        "option_images": [],
+        "answer": "A. 12",
+        "solution": "Sulphur has 6 valence electrons and shares 6 electrons with 6 fluorine atoms, resulting in 12 electrons in its valence shell (expanded octet).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Chemical Bonding",
+        "question": "Which of following bonds has maximum bond length? [MHT-CET 2019]",
+        "question_latex": "Which of following bonds has maximum bond length? [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. C-C",
+            "B. C-N",
+            "C. C-H",
+            "D. C-O"
+        ],
+        "option_images": [],
+        "answer": "C. C-H",
+        "solution": "Note: According to the source key, C-H is identified. Typically, length increases with atomic radii. C-C is longer than C-N or C-O, but C-H is the shortest due to H's tiny radius. Based on the provided scan's logic, C-C would be expected, but the key provided is C.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecular orbitals consist unpaired electrons in O2 molecule according to MOT? [2025]",
+        "question_latex": "Which of the following molecular orbitals consist unpaired electrons in $O_2$ molecule according to MOT? [2025]",
+        "question_images": [],
+        "options": [
+            "A. π*2px and π*2py",
+            "B. σ2s and σ*2s",
+            "C. π2px and π2py",
+            "D. σ2pz and π2px"
+        ],
+        "option_images": [],
+        "answer": "A. π*2px and π*2py",
+        "solution": "In $O_2$, the last two electrons enter $\\pi^* 2p_x$ and $\\pi^* 2p_y$ orbitals singly with parallel spins, making the molecule paramagnetic.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecules does not obey octet rule? [MHT-CET 2023]",
+        "question_latex": "Which of the following molecules does not obey octet rule? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. BeF2",
+            "B. O2",
+            "C. CCl4",
+            "D. Cl2"
+        ],
+        "option_images": [],
+        "answer": "A. BeF2",
+        "solution": "In $BeF_2$, the central beryllium atom has only 4 electrons in its valence shell, representing an incomplete octet.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecules does not have linear geometry? [2025, 2022]",
+        "question_latex": "Which of the following molecules does not have linear geometry? [2025, 2022]",
+        "question_images": [],
+        "options": [
+            "A. CO2",
+            "B. BeCl2",
+            "C. H2S",
+            "D. C2H2"
+        ],
+        "option_images": [],
+        "answer": "C. H2S",
+        "solution": "$H_2S$ has a bent (V-shaped) geometry due to the presence of two lone pairs on the central sulphur atom ($sp^3$ hybridization).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Chemical Bonding",
+        "question": "What is the formal charge on sulphur atom in H2SO4? [MHT-CET 2021]",
+        "question_latex": "What is the formal charge on sulphur atom in $H_2SO_4$? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. +4",
+            "B. -6",
+            "C. +6",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "D. Zero",
+        "solution": "Formal charge $= VE - NE - \\frac{1}{2}BE = 6 - 0 - \\frac{1}{2}(12) = 0$ for the expanded octet structure.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Chemical Bonding",
+        "question": "What is the geometry of PCl5 molecule as per VSEPR? [MHT-CET 2023]",
+        "question_latex": "What is the geometry of $PCl_5$ molecule as per VSEPR? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Trigonal bipyramidal",
+            "B. Octahedral",
+            "C. Square pyramidal",
+            "D. Tetrahedral"
+        ],
+        "option_images": [],
+        "answer": "A. Trigonal bipyramidal",
+        "solution": "$PCl_5$ has 5 bond pairs and 0 lone pairs. According to VSEPR, it adopts a trigonal bipyramidal geometry.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Chemical Bonding",
+        "question": "Structure of ammonia is [MHT-CET 2007]",
+        "question_latex": "Structure of ammonia is [MHT-CET 2007]",
+        "question_images": [],
+        "options": [
+            "A. pyramidal",
+            "B. tetrahedral",
+            "C. trigonal",
+            "D. trigonal pyramidal"
+        ],
+        "option_images": [],
+        "answer": "A. pyramidal",
+        "solution": "Ammonia ($NH_3$) has a pyramidal structure because of the lone pair-bond pair repulsion which distorts the tetrahedral shape.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Chemical Bonding",
+        "question": "The following salt shows maximum covalent character",
+        "question_latex": "The following salt shows maximum covalent character",
+        "question_images": [],
+        "options": [
+            "A. AlCl3",
+            "B. MgCl2",
+            "C. CsCl",
+            "D. LaCl3"
+        ],
+        "option_images": [],
+        "answer": "A. AlCl3",
+        "solution": "According to Fajan's rules, $Al^{3+}$ has the smallest size and highest charge among the given cations, resulting in the highest polarizing power and maximum covalent character.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Chemical Bonding",
+        "question": "AB is an ionic solid. The ionic radii of A+ and B- are respectively rc and ra. Lattice energy of AB is proportional to",
+        "question_latex": "AB is an ionic solid. The ionic radii of $A^+$ and $B^-$ are respectively $r_c$ and $r_a$. Lattice energy of AB is proportional to",
+        "question_images": [],
+        "options": [
+            "A. rc / ra",
+            "B. (rc + ra)",
+            "C. ra / rc",
+            "D. 1 / (rc + ra)"
+        ],
+        "option_images": [],
+        "answer": "D. 1 / (rc + ra)",
+        "solution": "Lattice energy $U$ is inversely proportional to the interionic distance $r$, where $r = r_c + r_a$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecules does not obey octet rule? [2025]",
+        "question_latex": "Which of the following molecules does not obey octet rule? [2025]",
+        "question_images": [],
+        "options": [
+            "A. NH3",
+            "B. ClF3",
+            "C. CO2",
+            "D. CHCl3"
+        ],
+        "option_images": [],
+        "answer": "B. ClF3",
+        "solution": "In $ClF_3$, the central chlorine atom has 10 electrons in its valence shell (3 bond pairs and 2 lone pairs).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Chemical Bonding",
+        "question": "The planar structure of BF3 can be explained by the fact that BF3 is",
+        "question_latex": "The planar structure of $BF_3$ can be explained by the fact that $BF_3$ is",
+        "question_images": [],
+        "options": [
+            "A. sp hybridized",
+            "B. sp2 hybridized",
+            "C. sp3 hybridized",
+            "D. sp3d hybridized"
+        ],
+        "option_images": [],
+        "answer": "B. sp2 hybridized",
+        "solution": "Boron in $BF_3$ undergoes $sp^2$ hybridization, which results in a trigonal planar geometry.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Chemical Bonding",
+        "question": "The bond between carbon atoms 1 and 2 in compound N≡C-CH=CH2 involves the hybrid orbitals",
+        "question_latex": "The bond between carbon atoms 1 and 2 in compound $N \\equiv C_1 - C_2H = CH_2$ involves the hybrid orbitals",
+        "question_images": [],
+        "options": [
+            "A. sp2, sp3",
+            "B. sp, sp2",
+            "C. sp, sp3",
+            "D. sp, sp"
+        ],
+        "option_images": [],
+        "answer": "B. sp, sp2",
+        "solution": "Carbon 1 (part of cyanide) is $sp$ hybridized. Carbon 2 (part of double bond) is $sp^2$ hybridized.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Chemical Bonding",
+        "question": "Which from following is a correct order of energies for molecular orbitals of O2 molecule? [MHT-CET 2022]",
+        "question_latex": "Which from following is a correct order of energies for molecular orbitals of $O_2$ molecule? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. σ2pz < (π2px = π2py) < (π*2px = π*2py)",
+            "B. (π2px = π2py) < σ2pz < (π*2px = π*2py)",
+            "C. σ2pz < π2px < π2py < (π*2px = π*2py)",
+            "D. (π2px = π2py) < σ2pz < π*2px < π*2py"
+        ],
+        "option_images": [],
+        "answer": "A. σ2pz < (π2px = π2py) < (π*2px = π*2py)",
+        "solution": "For $O_2$, the $\\sigma 2p_z$ orbital is lower in energy than the $\\pi 2p_{x/y}$ orbitals.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following is an ionic compound? [MHT-CET 2020]",
+        "question_latex": "Which of the following is an ionic compound? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. CHCl3",
+            "B. SO2",
+            "C. ICl",
+            "D. KI"
+        ],
+        "option_images": [],
+        "answer": "D. KI",
+        "solution": "Potassium iodide (KI) is formed by the transfer of an electron from K to I, making it ionic.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Chemical Bonding",
+        "question": "Identify the molecule with linear geometry? [MHT-CET 2020]",
+        "question_latex": "Identify the molecule with linear geometry? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. BeF2",
+            "B. C2H4",
+            "C. SO2",
+            "D. ClF3"
+        ],
+        "option_images": [],
+        "answer": "A. BeF2",
+        "solution": "$BeF_2$ has 2 bond pairs and no lone pairs, leading to a linear geometry.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Chemical Bonding",
+        "question": "Which among the following molecules have bond order 2? [MHT-CET 2022]",
+        "question_latex": "Which among the following molecules have bond order 2? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. O2",
+            "B. F2",
+            "C. H2",
+            "D. N2"
+        ],
+        "option_images": [],
+        "answer": "A. O2",
+        "solution": "In $O_2$, $BO = (10-6)/2 = 2$. $N_2$ is 3, $F_2$ is 1, $H_2$ is 1.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecule has 'T' shape geometry? [2025]",
+        "question_latex": "Which of the following molecule has 'T' shape geometry? [2025]",
+        "question_images": [],
+        "options": [
+            "A. BrF3",
+            "B. BCl3",
+            "C. PCl3",
+            "D. NH3"
+        ],
+        "option_images": [],
+        "answer": "A. BrF3",
+        "solution": "$BrF_3$ has $sp^3d$ hybridization with 2 lone pairs and 3 bond pairs, resulting in a T-shaped geometry.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following compounds exhibits highest lattice energy? [MHT-CET 2023]",
+        "question_latex": "Which of the following compounds exhibits highest lattice energy? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. RbF",
+            "B. LiF",
+            "C. KF",
+            "D. NaF"
+        ],
+        "option_images": [],
+        "answer": "B. LiF",
+        "solution": "Lattice energy $\\propto 1/size$. Since $Li^+$ is the smallest cation, $LiF$ has the highest lattice energy.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following shows minimum bond angle?",
+        "question_latex": "Which of the following shows minimum bond angle?",
+        "question_images": [],
+        "options": [
+            "A. H2O",
+            "B. H2Te",
+            "C. H2S",
+            "D. H2Se"
+        ],
+        "option_images": [],
+        "answer": "B. H2Te",
+        "solution": "In group 16 hydrides, bond angle decreases down the group ($H_2O: 104.5^\\circ > H_2S: 92^\\circ > H_2Se: 91^\\circ > H_2Te: 90^\\circ$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Chemical Bonding",
+        "question": "The H-N-H bond angle in ammonia molecule is [MHT-CET 2021]",
+        "question_latex": "The $H-N-H$ bond angle in ammonia molecule is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 109°",
+            "B. 111°",
+            "C. 104°",
+            "D. 107°"
+        ],
+        "option_images": [],
+        "answer": "D. 107°",
+        "solution": "Due to lone pair-bond pair repulsion, the bond angle in $NH_3$ is reduced from $109.5^\\circ$ to approximately $107^\\circ$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Chemical Bonding",
+        "question": "Which from following species does not obey octet rule? [MHT-CET 2024]",
+        "question_latex": "Which from following species does not obey octet rule? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. NO",
+            "B. HNO3",
+            "C. NO2-",
+            "D. CCl4"
+        ],
+        "option_images": [],
+        "answer": "A. NO",
+        "solution": "NO is an odd-electron molecule and therefore cannot satisfy the octet rule for both atoms.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Chemical Bonding",
+        "question": "According to VSEPR theory the repulsion between different pair (lone or bond) of electrons obey the order",
+        "question_latex": "According to VSEPR theory the repulsion between different pair (lone or bond) of electrons obey the order",
+        "question_images": [],
+        "options": [
+            "A. lp-bp > lp-lp > bp-bp",
+            "B. lp-bp > bp-bp > lp-lp",
+            "C. lp-lp > lp-bp > bp-bp",
+            "D. bp-bp > lp-lp > lp-bp"
+        ],
+        "option_images": [],
+        "answer": "C. lp-lp > lp-bp > bp-bp",
+        "solution": "Repulsion decreases in the order: Lone pair-Lone pair > Lone pair-Bond pair > Bond pair-Bond pair.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecules contain 25% s-character of carbon atom in hybrid state? [MHT-CET 2020]",
+        "question_latex": "Which of the following molecules contain 25% s-character of carbon atom in hybrid state? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Methane",
+            "B. Acetylene",
+            "C. Ethylene",
+            "D. Benzene"
+        ],
+        "option_images": [],
+        "answer": "A. Methane",
+        "solution": "In methane ($CH_4$), carbon is $sp^3$ hybridized. $sp^3$ has 1 s and 3 p orbitals, so s-character $= 1/4 = 25\\%$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Chemical Bonding",
+        "question": "What is the formal charge on N atom in [:S-C≡N:]- ion? [MHT-CET 2021]",
+        "question_latex": "What is the formal charge on N atom in $[:\\dot{S}-C \\equiv N:]^{\\ominus}$ ion? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. +2",
+            "B. -2",
+            "C. +3",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "D. Zero",
+        "solution": "$FC = VE - NE - \\frac{1}{2}BE = 5 - 2 - \\frac{1}{2}(6) = 0$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Chemical Bonding",
+        "question": "The lattice enthalpy and hydration enthalpy of four compounds are given below. Compound P: LE=+780, HE=-920; Q: LE=+1012, HE=-812; R: LE=+828, HE=-878; S: LE=+632, HE=-600. The pair of compounds which is soluble in water is",
+        "question_latex": "The lattice enthalpy (LE) and hydration enthalpy (HE) of four compounds (P, Q, R, S) are given. $P: LE=+780, HE=-920; Q: LE=+1012, HE=-812; R: LE=+828, HE=-878; S: LE=+632, HE=-600$. The pair of compounds which is soluble in water is",
+        "question_images": [],
+        "options": [
+            "A. P and Q",
+            "B. Q and R",
+            "C. R and S",
+            "D. P and R"
+        ],
+        "option_images": [],
+        "answer": "D. P and R",
+        "solution": "A compound is soluble if $|HE| > |LE|$. For P: $920 > 780$. For R: $878 > 828$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Chemical Bonding",
+        "question": "Which one of the following conversions involve change in both hybridisation and shape?",
+        "question_latex": "Which one of the following conversions involve change in both hybridisation and shape?",
+        "question_images": [],
+        "options": [
+            "A. CH4 -> C2H6",
+            "B. NH3 -> NH4+",
+            "C. BF3 -> BF4-",
+            "D. H2O -> H3O+"
+        ],
+        "option_images": [],
+        "answer": "C. BF3 -> BF4-",
+        "solution": "$BF_3 (sp^2, \\text{planar}) \\rightarrow BF_4^- (sp^3, \\text{tetrahedral})$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecular orbitals has the lowest energy? [2025]",
+        "question_latex": "Which of the following molecular orbitals has the lowest energy? [2025]",
+        "question_images": [],
+        "options": [
+            "A. π*2py",
+            "B. σ*2pz",
+            "C. σ2pz",
+            "D. σ*2s"
+        ],
+        "option_images": [],
+        "answer": "D. σ*2s",
+        "solution": "In the standard MO energy order, $\\sigma^* 2s$ is lower than any $2p$ derived orbitals.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Chemical Bonding",
+        "question": "Which among the following concepts is NOT introduced by V. B. theory? [MHT-CET 2022]",
+        "question_latex": "Which among the following concepts is NOT introduced by V. B. theory? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Number of lone pair and bonded pair of electrons decide the shape of the molecules.",
+            "B. Delocalization of electron over the two nuclei.",
+            "C. Partial ionic character of a covalent bond.",
+            "D. Shielding effect of electrons."
+        ],
+        "option_images": [],
+        "answer": "A. Number of lone pair and bonded pair of electrons decide the shape of the molecules.",
+        "solution": "Lone pair and bond pair repulsion determining shape is a concept from VSEPR theory, not Valence Bond theory.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following is correct decreasing order of bond length regarding N2, O2 and Cl2? [2025]",
+        "question_latex": "Which of the following is correct decreasing order of bond length regarding $N_2, O_2$ and $Cl_2$? [2025]",
+        "question_images": [],
+        "options": [
+            "A. O2 > N2 > Cl2",
+            "B. Cl2 > O2 > N2",
+            "C. Cl2 > N2 > O2",
+            "D. N2 > O2 > Cl2"
+        ],
+        "option_images": [],
+        "answer": "B. Cl2 > O2 > N2",
+        "solution": "Bond order: $Cl_2(1), O_2(2), N_2(3)$. Bond length is inversely proportional to bond order. Order: $Cl_2 > O_2 > N_2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following has dipole moment?",
+        "question_latex": "Which of the following has dipole moment?",
+        "question_images": [],
+        "options": [
+            "A. CO2",
+            "B. p-dichlorobenzene",
+            "C. NH3",
+            "D. CH4"
+        ],
+        "option_images": [],
+        "answer": "C. NH3",
+        "solution": "$NH_3$ is unsymmetrical (pyramidal) with a lone pair, so its bond dipoles do not cancel.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Chemical Bonding",
+        "question": "Identify the electronic configuration of H2 molecule according to molecular orbital theory. [MHT-CET 2022]",
+        "question_latex": "Identify the electronic configuration of $H_2$ molecule according to molecular orbital theory. [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. (σ1s)2",
+            "B. (σ*1s)2",
+            "C. (σ1s)1 (σ*1s)1",
+            "D. (σ1s)1"
+        ],
+        "option_images": [],
+        "answer": "A. (σ1s)2",
+        "solution": "$H_2$ has 2 electrons, which occupy the lowest energy bonding orbital $(\\sigma 1s)^2$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Chemical Bonding",
+        "question": "Which among the following is an odd electron molecule? [MHT-CET 2022]",
+        "question_latex": "Which among the following is an odd electron molecule? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. SO2",
+            "B. NO",
+            "C. CO2",
+            "D. CO"
+        ],
+        "option_images": [],
+        "answer": "B. NO",
+        "solution": "Nitrogen monoxide (NO) has 11 valence electrons ($5+6$), which is an odd number.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Chemical Bonding",
+        "question": "Which one of the following pairs of molecules will have permanent dipole moments for both members?",
+        "question_latex": "Which one of the following pairs of molecules will have permanent dipole moments for both members?",
+        "question_images": [],
+        "options": [
+            "A. SiF4 and NO2",
+            "B. NO2 and CO2",
+            "C. NO2 and O3",
+            "D. SiF4 and CO2"
+        ],
+        "option_images": [],
+        "answer": "C. NO2 and O3",
+        "solution": "$NO_2$ and $O_3$ are both bent/unsymmetrical and have permanent dipole moments.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Chemical Bonding",
+        "question": "The molecule in which central atom does NOT undergo sp3 hybridization is [MHT-CET 2022]",
+        "question_latex": "The molecule in which central atom does NOT undergo $sp^3$ hybridization is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. BF3",
+            "B. NH3",
+            "C. CH4",
+            "D. H2O"
+        ],
+        "option_images": [],
+        "answer": "A. BF3",
+        "solution": "In $BF_3$, boron undergoes $sp^2$ hybridization.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Chemical Bonding",
+        "question": "Identify a molecule having octahedral geometry as per VSEPR theory. [MHT-CET 2024]",
+        "question_latex": "Identify a molecule having octahedral geometry as per VSEPR theory. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. CH4",
+            "B. PCl5",
+            "C. BeCl2",
+            "D. SF6"
+        ],
+        "option_images": [],
+        "answer": "D. SF6",
+        "solution": "$SF_6$ has 6 bond pairs and no lone pairs, resulting in an octahedral geometry.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Chemical Bonding",
+        "question": "What is the bond order in N2+? [MHT-CET 2023]",
+        "question_latex": "What is the bond order in $N_2^+$? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 0",
+            "C. 2.5",
+            "D. 2"
+        ],
+        "option_images": [],
+        "answer": "C. 2.5",
+        "solution": "$N_2^+$ has 13 electrons. Configuration: $(\\sigma 1s)^2 (\\sigma^* 1s)^2 (\\sigma 2s)^2 (\\sigma^* 2s)^2 (\\pi 2p_x)^2 (\\pi 2p_y)^2 (\\sigma 2p_z)^1$. $BO = (9-4)/2 = 2.5$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following statements is TRUE? [MHT-CET 2020]",
+        "question_latex": "Which of the following statements is TRUE? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Bond energy is inversely proportional to bond length",
+            "B. Bond energy is directly proportional to bond length",
+            "C. Bond energy is inversely proportional to bond angle",
+            "D. Bond energy is inversely proportional to bond polarity"
+        ],
+        "option_images": [],
+        "answer": "A. Bond energy is inversely proportional to bond length",
+        "solution": "Generally, shorter bonds are stronger and have higher bond energy.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Chemical Bonding",
+        "question": "In BrF3 molecule, the lone pairs occupy equatorial positions to minimize",
+        "question_latex": "In $BrF_3$ molecule, the lone pairs occupy equatorial positions to minimize",
+        "question_images": [],
+        "options": [
+            "A. Lone pair-bond pair repulsion only",
+            "B. Bond pair-bond pair repulsion only",
+            "C. Lone pair-lone pair repulsion and lone pair-bond pair repulsion",
+            "D. Lone pair-lone pair repulsion only"
+        ],
+        "option_images": [],
+        "answer": "D. Lone pair-lone pair repulsion only",
+        "solution": "In $sp^3d$ hybridization, lone pairs prefer equatorial positions to minimize the strongest (lone pair-lone pair) repulsions.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecules have regular geometry without lone pair of electrons in the valence shell of central atom? [2025, 2024]",
+        "question_latex": "Which of the following molecules have regular geometry without lone pair of electrons in the valence shell of central atom? [2025, 2024]",
+        "question_images": [],
+        "options": [
+            "A. PCl3",
+            "B. NH3",
+            "C. ICl3",
+            "D. BF3"
+        ],
+        "option_images": [],
+        "answer": "D. BF3",
+        "solution": "$BF_3$ has 3 bond pairs and 0 lone pairs. $NH_3$ and $PCl_3$ have 1 lone pair, $ICl_3$ has 2 lone pairs.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecules contain 8 electrons in the outermost orbit of central atom?",
+        "question_latex": "Which of the following molecules contain 8 electrons in the outermost orbit of central atom?",
+        "question_images": [],
+        "options": [
+            "A. SF6",
+            "B. BeCl2",
+            "C. CH4",
+            "D. PCl5"
+        ],
+        "option_images": [],
+        "answer": "C. CH4",
+        "solution": "Carbon in $CH_4$ completes its octet (8 electrons). $SF_6 (12)$, $PCl_5 (10)$ and $BeCl_2 (4)$ do not.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following is correct?",
+        "question_latex": "Which of the following is correct?",
+        "question_images": [],
+        "options": [
+            "A. The number of electrons present in the valence shell of S in SF6 is 12.",
+            "B. The rates of ionic reactions are very low.",
+            "C. According to VSEPR theory, SnCl2 is a linear molecule.",
+            "D. The correct order of ability to form ionic compounds among Na+, Mg2+ and Al3+ is Al3+ > Mg2+ > Na+."
+        ],
+        "option_images": [],
+        "answer": "A. The number of electrons present in the valence shell of S in SF6 is 12.",
+        "solution": "$SF_6$ is an hypervalent molecule with 12 electrons around the sulphur atom.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Chemical Bonding",
+        "question": "In an ionic bond formation, electron transfer takes place [MHT-CET 2020]",
+        "question_latex": "In an ionic bond formation, electron transfer takes place [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. between any two non-metal atoms",
+            "B. from non-metal atom to a metal atom",
+            "C. between any two metal atoms",
+            "D. from metal atom to a non-metal atom"
+        ],
+        "option_images": [],
+        "answer": "D. from metal atom to a non-metal atom",
+        "solution": "Ionic bonds are formed by the transfer of electrons from a metallic atom (low IE) to a non-metallic atom (high EA).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecules consist minimum lone pair of electrons in the valence shell of central atom? [2025]",
+        "question_latex": "Which of the following molecules consist minimum lone pair of electrons in the valence shell of central atom? [2025]",
+        "question_images": [],
+        "options": [
+            "A. PCl3",
+            "B. SCl2",
+            "C. ClF3",
+            "D. XeF4"
+        ],
+        "option_images": [],
+        "answer": "A. PCl3",
+        "solution": "$PCl_3$ (1 LP), $SCl_2$ (2 LP), $ClF_3$ (2 LP), $XeF_4$ (2 LP). $PCl_3$ has the minimum.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following is correct electronic configuration of carbon in excited state? [MHT-CET 2024]",
+        "question_latex": "Which of the following is correct electronic configuration of carbon in excited state? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 1s2 2s1 2p3",
+            "B. 1s1 2s2 2p2",
+            "C. 1s1 2s2 2p3",
+            "D. 1s2 2s2 2p2"
+        ],
+        "option_images": [],
+        "answer": "A. 1s2 2s1 2p3",
+        "solution": "In the excited state, one electron from the $2s$ orbital of carbon is promoted to the empty $2p$ orbital, resulting in $1s^2 2s^1 2p^3$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Chemical Bonding",
+        "question": "What is the number of electrons around sulfur in H2SO4 molecule? [MHT-CET 2023]",
+        "question_latex": "What is the number of electrons around sulfur in $H_2SO_4$ molecule? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 10",
+            "B. 4",
+            "C. 12",
+            "D. 6"
+        ],
+        "option_images": [],
+        "answer": "C. 12",
+        "solution": "Sulphur forms 6 bonds (2 double, 2 single) in $H_2SO_4$, resulting in 12 valence electrons.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Chemical Bonding",
+        "question": "What is the structure of PCl5(g)? [MHT-CET 2019]",
+        "question_latex": "What is the structure of $PCl_5(g)$? [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Pyramidal",
+            "B. Square planar",
+            "C. Trigonal bipyramidal",
+            "D. Octahedral"
+        ],
+        "option_images": [],
+        "answer": "C. Trigonal bipyramidal",
+        "solution": "Gas phase $PCl_5$ has a trigonal bipyramidal geometry with $sp^3d$ hybridization.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Chemical Bonding",
+        "question": "Structure of XeF5+ ion is",
+        "question_latex": "Structure of $XeF_5^+$ ion is",
+        "question_images": [],
+        "options": [
+            "A. Trigonal bipyramidal",
+            "B. Square pyramidal",
+            "C. Octahedral",
+            "D. Pentagonal"
+        ],
+        "option_images": [],
+        "answer": "B. Square pyramidal",
+        "solution": "In $XeF_5^+$, Xe has 5 bond pairs and 1 lone pair ($sp^3d^2$), leading to a square pyramidal shape.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Chemical Bonding",
+        "question": "The d orbital involved in sp3d hybridisation is",
+        "question_latex": "The d orbital involved in $sp^3d$ hybridisation is",
+        "question_images": [],
+        "options": [
+            "A. dx^2-y^2",
+            "B. dxy",
+            "C. dxz",
+            "D. dz^2"
+        ],
+        "option_images": [],
+        "answer": "D. dz^2",
+        "solution": "The $d_{z^2}$ orbital is typically the one used in $sp^3d$ (trigonal bipyramidal) hybridization.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Chemical Bonding",
+        "question": "Identify the molecule having dipole moment. [MHT-CET 2021]",
+        "question_latex": "Identify the molecule having dipole moment. [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. BF3",
+            "B. CHCl3",
+            "C. CCl4",
+            "D. CH4"
+        ],
+        "option_images": [],
+        "answer": "B. CHCl3",
+        "solution": "Chloroform ($CHCl_3$) is polar as the dipole moments of C-H and C-Cl bonds do not cancel each other out.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Chemical Bonding",
+        "question": "Identify the element from following that attains noble gas configuration by forming two covalent bonds. [MHT-CET 2021]",
+        "question_latex": "Identify the element from following that attains noble gas configuration by forming two covalent bonds. [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Al",
+            "B. S",
+            "C. Na",
+            "D. Cs"
+        ],
+        "option_images": [],
+        "answer": "B. S",
+        "solution": "Sulphur has 6 valence electrons and requires 2 more to complete its octet, which it achieves by forming two covalent bonds.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Chemical Bonding",
+        "question": "Allene (C3H4) contains",
+        "question_latex": "Allene ($C_3H_4$) contains",
+        "question_images": [],
+        "options": [
+            "A. One double bond, one triple bond and one single bond",
+            "B. One triple and two double bonds",
+            "C. Two triple and one double bond",
+            "D. Two double and four single bonds"
+        ],
+        "option_images": [],
+        "answer": "D. Two double and four single bonds",
+        "solution": "$H_2C = C = CH_2$ has two C=C double bonds and four C-H single bonds.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Chemical Bonding",
+        "question": "Which one of the following molecules has the smallest bond angle?",
+        "question_latex": "Which one of the following molecules has the smallest bond angle?",
+        "question_images": [],
+        "options": [
+            "A. NH3",
+            "B. PH3",
+            "C. H2O",
+            "D. H2Se"
+        ],
+        "option_images": [],
+        "answer": "D. H2Se",
+        "solution": "$NH_3 (107^\\circ), H_2O (104.5^\\circ), PH_3 (93^\\circ), H_2Se (91^\\circ)$. As central atom size increases and electronegativity decreases, bond angle decreases.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Chemical Bonding",
+        "question": "Which is a pyramidal structure?",
+        "question_latex": "Which is a pyramidal structure?",
+        "question_images": [],
+        "options": [
+            "A. Trimethylamine",
+            "B. Methanol",
+            "C. Acetylene",
+            "D. Water"
+        ],
+        "option_images": [],
+        "answer": "A. Trimethylamine",
+        "solution": "$(CH_3)_3N$ has 3 bond pairs and 1 lone pair, similar to $NH_3$, resulting in a pyramidal shape.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Chemical Bonding",
+        "question": "Cl-P-Cl bond angles in PCl5 molecule are",
+        "question_latex": "$Cl-P-Cl$ bond angles in $PCl_5$ molecule are",
+        "question_images": [],
+        "options": [
+            "A. 120 and 90",
+            "B. 60 and 90",
+            "C. 60 and 120",
+            "D. 120 and 30"
+        ],
+        "option_images": [],
+        "answer": "A. 120 and 90",
+        "solution": "$PCl_5$ has trigonal bipyramidal geometry. The angle between equatorial bonds is $120^\\circ$, and between axial and equatorial is $90^\\circ$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Chemical Bonding",
+        "question": "Which from following molecules has minimum number of electrons in valence shell of central atom? [MHT-CET 2024]",
+        "question_latex": "Which from following molecules has minimum number of electrons in valence shell of central atom? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. SF6",
+            "B. BeCl2",
+            "C. PCl5",
+            "D. LiCl"
+        ],
+        "option_images": [],
+        "answer": "D. LiCl",
+        "solution": "$SF_6(12), PCl_5(10), BeCl_2(4), LiCl(2)$. $LiCl$ has the minimum.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Chemical Bonding",
+        "question": "The percentage of p character in the orbitals forming P-P bonds in P4 is",
+        "question_latex": "The percentage of p character in the orbitals forming $P-P$ bonds in $P_4$ is",
+        "question_images": [],
+        "options": [
+            "A. 25",
+            "B. 33",
+            "C. 50",
+            "D. 75"
+        ],
+        "option_images": [],
+        "answer": "D. 75",
+        "solution": "Phosphorus in $P_4$ is $sp^3$ hybridized. $sp^3$ consists of 75% p-character.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecules is an example of sp-hybridisation? [MHT-CET 2024]",
+        "question_latex": "Which of the following molecules is an example of sp-hybridisation? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Acetylene",
+            "B. Methane",
+            "C. Ethylene",
+            "D. Ammonia"
+        ],
+        "option_images": [],
+        "answer": "A. Acetylene",
+        "solution": "Acetylene ($HC \\equiv CH$) contains carbons that are $sp$ hybridized.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Chemical Bonding",
+        "question": "The only molecule having dipole moment is",
+        "question_latex": "The only molecule having dipole moment is",
+        "question_images": [],
+        "options": [
+            "A. 2,2-dimethylpropane",
+            "B. trans-2-pentene",
+            "C. trans-3-hexene",
+            "D. 2,2,3,3-tetramethylbutane"
+        ],
+        "option_images": [],
+        "answer": "B. trans-2-pentene",
+        "solution": "In $trans-2-pentene$, the dipoles of the methyl and ethyl groups do not cancel out completely because they are of different magnitudes.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Chemical Bonding",
+        "question": "In methane the bond angle is",
+        "question_latex": "In methane the bond angle is",
+        "question_images": [],
+        "options": [
+            "A. 180°",
+            "B. 90°",
+            "C. 109°",
+            "D. 120°"
+        ],
+        "option_images": [],
+        "answer": "C. 109°",
+        "solution": "Methane ($CH_4$) is tetrahedral with a bond angle of $109.5^\\circ$ (or $109^\\circ 28'$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following represents the Lewis structure of N2 molecule?",
+        "question_latex": "Which of the following represents the Lewis structure of $N_2$ molecule?",
+        "question_images": [],
+        "options": [
+            "A. :N≡N:",
+            "B. ::N=N::",
+            "C. :N-N:",
+            "D. .N≡N."
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$N_2$ shares three pairs of electrons to form a triple bond, with one lone pair remaining on each nitrogen atom.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Chemical Bonding",
+        "question": "Which one of the following contains both ionic and covalent bonds?",
+        "question_latex": "Which one of the following contains both ionic and covalent bonds?",
+        "question_images": [],
+        "options": [
+            "A. C6H5Cl",
+            "B. H2O",
+            "C. NaOH",
+            "D. CO2"
+        ],
+        "option_images": [],
+        "answer": "C. NaOH",
+        "solution": "In $NaOH$, the bond between $Na^+$ and $OH^-$ is ionic, while the O-H bond within the hydroxide ion is covalent.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Chemical Bonding",
+        "question": "Pair of species having identical shapes for molecules is",
+        "question_latex": "Pair of species having identical shapes for molecules is",
+        "question_images": [],
+        "options": [
+            "A. CF4, SF4",
+            "B. BF3, PCl3",
+            "C. XeF2, CO2",
+            "D. PF5, IF7"
+        ],
+        "option_images": [],
+        "answer": "C. XeF2, CO2",
+        "solution": "Both $XeF_2$ and $CO_2$ have linear geometries ($XeF_2$ is $sp^3d$ with 3 lone pairs in equatorial plane; $CO_2$ is $sp$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following is non linear molecule?",
+        "question_latex": "Which of the following is non linear molecule?",
+        "question_images": [],
+        "options": [
+            "A. SO3",
+            "B. CO2",
+            "C. CS2",
+            "D. BeCl2"
+        ],
+        "option_images": [],
+        "answer": "A. SO3",
+        "solution": "$SO_3$ has a trigonal planar geometry ($sp^2$), whereas $CO_2, CS_2$ and $BeCl_2$ are linear.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Chemical Bonding",
+        "question": "Oxygen and the oxide ion have the",
+        "question_latex": "Oxygen and the oxide ion have the",
+        "question_images": [],
+        "options": [
+            "A. Same proton number",
+            "B. Same electronic configuration",
+            "C. Same electron number",
+            "D. Same size"
+        ],
+        "option_images": [],
+        "answer": "A. Same proton number",
+        "solution": "The identity of an element is defined by its proton number, which does not change when it forms an ion.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Chemical Bonding",
+        "question": "All bond angles are exactly equal to 109°28' in",
+        "question_latex": "All bond angles are exactly equal to $109^\\circ 28'$ in",
+        "question_images": [],
+        "options": [
+            "A. Methyl chloride",
+            "B. Iodoform",
+            "C. Chloroform",
+            "D. Carbon tetrachloride"
+        ],
+        "option_images": [],
+        "answer": "D. Carbon tetrachloride",
+        "solution": "In $CCl_4$, all four surrounding atoms are identical, resulting in a perfectly regular tetrahedron.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Chemical Bonding",
+        "question": "Which from following statements is NOT true about VSEPR theory? [MHT-CET 2024]",
+        "question_latex": "Which from following statements is NOT true about VSEPR theory? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Electron pairs arrange themselves in such a way that repulsion between them is minimum.",
+            "B. Lone pair of electrons also contributes in determining the shape of molecule.",
+            "C. Trend for repulsion between electron pair is L.P.-B.P. > B.P.-B.P. > L.P.-L.P.",
+            "D. The molecule acquires minimum energy and maximum stability."
+        ],
+        "option_images": [],
+        "answer": "C. Trend for repulsion between electron pair is L.P.-B.P. > B.P.-B.P. > L.P.-L.P.",
+        "solution": "The correct trend is L.P.-L.P. > L.P.-B.P. > B.P.-B.P.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following will have large dipole moment?",
+        "question_latex": "Which of the following will have large dipole moment?",
+        "question_images": [],
+        "options": [
+            "A. p-nitroaniline",
+            "B. o-nitroaniline",
+            "C. p-dichlorobenzene",
+            "D. m-nitroaniline"
+        ],
+        "option_images": [],
+        "answer": "A. p-nitroaniline",
+        "solution": "In $p-nitroaniline$, the electron-donating amino group and electron-withdrawing nitro group work in the same direction along the axis, enhancing the total dipole moment. Note: Provided solution says m-nitroaniline (D) in one scan part but logic for p-para resonance is stronger for 'large'. Referring to source scan key D.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Chemical Bonding",
+        "question": "What type of following overlapping forms Pi (π) bond? [MHT-CET 2022]",
+        "question_latex": "What type of following overlapping forms $Pi (\\pi)$ bond? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Overlapping of two 's'-orbitals along any axis.",
+            "B. Axial overlapping of one 's' and one 'p'-orbital.",
+            "C. Lateral overlapping of two 'p'-orbitals.",
+            "D. Axial overlapping of two 'p'-orbitals."
+        ],
+        "option_images": [],
+        "answer": "C. Lateral overlapping of two 'p'-orbitals.",
+        "solution": "A $\\pi$ bond is formed by the lateral (sideways) overlapping of unhybridized p-orbitals.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Chemical Bonding",
+        "question": "The polarising ability of which one of the following is highest",
+        "question_latex": "The polarising ability of which one of the following is highest",
+        "question_images": [],
+        "options": [
+            "A. Small highly positive ion",
+            "B. Large positive ion",
+            "C. Small highly negative ion",
+            "D. Large negative ion"
+        ],
+        "option_images": [],
+        "answer": "A. Small highly positive ion",
+        "solution": "Polarizing ability (ionic potential) is highest for cations with small size and high positive charge.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Chemical Bonding",
+        "question": "Select the incorrect statement about N2 molecule. [2025]",
+        "question_latex": "Select the incorrect statement about $N_2$ molecule. [2025]",
+        "question_images": [],
+        "options": [
+            "A. It is more stable than O2 molecule.",
+            "B. It is diamagnetic",
+            "C. Its bond order is 3",
+            "D. It consists more electrons in bonding molecular orbitals than O2"
+        ],
+        "option_images": [],
+        "answer": "D. It consists more electrons in bonding molecular orbitals than O2",
+        "solution": "Both $N_2$ and $O_2$ have 10 electrons in bonding molecular orbitals. $O_2$ is less stable because it has 4 more electrons in antibonding orbitals than $N_2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Chemical Bonding",
+        "question": "The hybridisation of carbon atom in benzene is?",
+        "question_latex": "The hybridisation of carbon atom in benzene is?",
+        "question_images": [],
+        "options": [
+            "A. sp",
+            "B. sp2",
+            "C. sp3",
+            "D. dsp2"
+        ],
+        "option_images": [],
+        "answer": "B. sp2",
+        "solution": "Each carbon atom in benzene is bonded to three other atoms (2 carbons, 1 hydrogen) and has no lone pairs, requiring $sp^2$ hybridization.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Chemical Bonding",
+        "question": "H2 molecule is more stable than Li2 molecule, because [MHT-CET 2020]",
+        "question_latex": "$H_2$ molecule is more stable than $Li_2$ molecule, because [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. In H2 molecule σ1s molecular orbitals are shielded by electrons",
+            "B. In H2 bond order is one",
+            "C. In Li2 σ1s molecular orbitals are shielded by electrons",
+            "D. In Li2 molecule, outer σ2s molecular orbitals are shielded by the inner electrons"
+        ],
+        "option_images": [],
+        "answer": "D. In Li2 molecule, outer σ2s molecular orbitals are shielded by the inner electrons",
+        "solution": "In $Li_2$, the valence electrons are in the $2s$ level and are shielded by the $1s$ core, making the bond weaker and less stable than in $H_2$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Chemical Bonding",
+        "question": "The electronic configuration of Be2 molecule according MOT is [MHT-CET 2020]",
+        "question_latex": "The electronic configuration of $Be_2$ molecule according MOT is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. (σ1s)2 (σ*1s)2 (σ2s)1 (σ*2s)2",
+            "B. (σ1s)2 (σ*1s)2 (σ2s)2 (σ*2s)0",
+            "C. (σ1s)2 (σ*1s)1 (σ2s)2 (σ*2s)2",
+            "D. (σ1s)2 (σ*1s)2 (σ2s)2 (σ*2s)2"
+        ],
+        "option_images": [],
+        "answer": "D. (σ1s)2 (σ*1s)2 (σ2s)2 (σ*2s)2",
+        "solution": "$Be_2$ has 8 electrons. $BO = (4-4)/2 = 0$. The configuration is $(\\sigma 1s)^2 (\\sigma^* 1s)^2 (\\sigma 2s)^2 (\\sigma^* 2s)^2$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Chemical Bonding",
+        "question": "Sulphur atom in H2SO4 is surrounded by [MHT-CET 2020]",
+        "question_latex": "Sulphur atom in $H_2SO_4$ is surrounded by [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 8 electrons",
+            "B. 10 electrons",
+            "C. 16 electrons",
+            "D. 12 electrons"
+        ],
+        "option_images": [],
+        "answer": "D. 12 electrons",
+        "solution": "Sulphur has 6 bonds in $H_2SO_4$ structure, hence 12 electrons.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Chemical Bonding",
+        "question": "The hybrid state of sulphur in SO3 molecule is",
+        "question_latex": "The hybrid state of sulphur in $SO_3$ molecule is",
+        "question_images": [],
+        "options": [
+            "A. sp3d",
+            "B. sp3",
+            "C. sp3d2",
+            "D. sp2"
+        ],
+        "option_images": [],
+        "answer": "D. sp2",
+        "solution": "Sulphur in $SO_3$ has 3 bond pairs and no lone pairs, requiring $sp^2$ hybridization.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecules have bond order greater than one? [MHT-CET 2022]",
+        "question_latex": "Which of the following molecules have bond order greater than one? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. N2",
+            "B. Li2",
+            "C. H2",
+            "D. F2"
+        ],
+        "option_images": [],
+        "answer": "A. N2",
+        "solution": "$N_2$ has a bond order of 3. $Li_2, H_2$ and $F_2$ all have a bond order of 1.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following metal has greater tendency to form ionic bond? [2025]",
+        "question_latex": "Which of the following metal has greater tendency to form ionic bond? [2025]",
+        "question_images": [],
+        "options": [
+            "A. Na",
+            "B. K",
+            "C. Al",
+            "D. Mg"
+        ],
+        "option_images": [],
+        "answer": "B. K",
+        "solution": "Potassium (K) is larger and has lower IE than Sodium (Na), making it easier to lose an electron and form an ionic bond.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Chemical Bonding",
+        "question": "The shape of IF7 molecule is [MHT CET 2003]",
+        "question_latex": "The shape of $IF_7$ molecule is [MHT CET 2003]",
+        "question_images": [],
+        "options": [
+            "A. Pentagonal bipyramidal",
+            "B. Trigonal bipyramidal",
+            "C. Tetrahedral",
+            "D. Octahedral"
+        ],
+        "option_images": [],
+        "answer": "A. Pentagonal bipyramidal",
+        "solution": "$IF_7$ has 7 bond pairs and no lone pairs, leading to pentagonal bipyramidal geometry ($sp^3d^3$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Chemical Bonding",
+        "question": "Which combination of atoms can form a polar covalent bond?",
+        "question_latex": "Which combination of atoms can form a polar covalent bond?",
+        "question_images": [],
+        "options": [
+            "A. H and H",
+            "B. H and Br",
+            "C. N and N",
+            "D. Na and Br"
+        ],
+        "option_images": [],
+        "answer": "B. H and Br",
+        "solution": "H and Br have a small but significant difference in electronegativity, resulting in a polar covalent bond.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Chemical Bonding",
+        "question": "In which of the following pair both molecules do not possess same type of hybridisation?",
+        "question_latex": "In which of the following pair both molecules do not possess same type of hybridisation?",
+        "question_images": [],
+        "options": [
+            "A. CH4, H2O",
+            "B. PCl5 and SF4",
+            "C. SF6 and XeF4",
+            "D. BCl3 and NCl3"
+        ],
+        "option_images": [],
+        "answer": "D. BCl3 and NCl3",
+        "solution": "$BCl_3$ is $sp^2$. $NCl_3$ is $sp^3$ (3 BP + 1 LP).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecules is having non zero dipole moment? [MHT-CET 2020]",
+        "question_latex": "Which of the following molecules is having non zero dipole moment? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. CO2",
+            "B. NF3",
+            "C. BF3",
+            "D. CH4"
+        ],
+        "option_images": [],
+        "answer": "B. NF3",
+        "solution": "Due to the lone pair on nitrogen and the polar N-F bonds, $NF_3$ has a non-zero dipole moment.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Chemical Bonding",
+        "question": "If H-X bond length is 2.00 Å and H-X bond has dipole moment 5.12 x 10^-30 C-m, the percentage of ionic character in the molecule will be",
+        "question_latex": "If $H-X$ bond length is $2.00 \\ \\AA$ and $H-X$ bond has dipole moment $5.12 \\times 10^{-30} \\ C-m$, the percentage of ionic character in the molecule will be",
+        "question_images": [],
+        "options": [
+            "A. 10%",
+            "B. 16%",
+            "C. 18%",
+            "D. 20%"
+        ],
+        "option_images": [],
+        "answer": "B. 16%",
+        "solution": "$\\mu_{cal} = q \\times d = 1.6 \\times 10^{-19} \\times 2 \\times 10^{-10} = 3.2 \\times 10^{-29} \\ C-m$. $\\%$ Ionic character $= \\frac{5.12 \\times 10^{-30}}{3.2 \\times 10^{-29}} \\times 100 = 16\\%$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Chemical Bonding",
+        "question": "What is the number of Lewis structures for NO2-? [MHT-CET 2024]",
+        "question_latex": "What is the number of Lewis structures for $NO_2^-$? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 4",
+            "B. 2",
+            "C. 1",
+            "D. 3"
+        ],
+        "option_images": [],
+        "answer": "B. 2",
+        "solution": "Nitrite ion has two resonance Lewis structures.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Chemical Bonding",
+        "question": "Identify a pair of molecules having similar shapes of both members. [2025]",
+        "question_latex": "Identify a pair of molecules having similar shapes of both members. [2025]",
+        "question_images": [],
+        "options": [
+            "A. H2O, SCl2",
+            "B. XeF4, SF4",
+            "C. PCl5, BrF5",
+            "D. NH3, SO2"
+        ],
+        "option_images": [],
+        "answer": "A. H2O, SCl2",
+        "solution": "Both $H_2O$ and $SCl_2$ are bent (V-shaped) due to two lone pairs and two bond pairs on the central atom.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Chemical Bonding",
+        "question": "Which among the following statements is NOT correct about dipole moment of NH3 and NF3? [MHT-CET 2022]",
+        "question_latex": "Which among the following statements is NOT correct about dipole moment of $NH_3$ and $NF_3$? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. In NF3, orbital dipole is in the opposite direction of the resultant dipole moment of three N-F bonds.",
+            "B. Fluorine is less electronegative than nitrogen.",
+            "C. In NH3, orbital dipole is in the same direction as that of resultant dipole moment of N-H bonds.",
+            "D. The dipole moment of NH3 is more than that of NF3."
+        ],
+        "option_images": [],
+        "answer": "B. Fluorine is less electronegative than nitrogen.",
+        "solution": "Fluorine is the most electronegative element, so it is more electronegative than nitrogen.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Chemical Bonding",
+        "question": "A compound contains X, Y and Z atoms. The oxidation states of X, Y and Z are +2, +2 and -2 respectively. The possible formula of the compound is",
+        "question_latex": "A compound contains $X, Y$ and $Z$ atoms. The oxidation states of $X, Y$ and $Z$ are +2, +2 and -2 respectively. The possible formula of the compound is",
+        "question_images": [],
+        "options": [
+            "A. XYZ2",
+            "B. Y2(XZ3)2",
+            "C. X3(Y4Z)2",
+            "D. X3(YZ4)3"
+        ],
+        "option_images": [],
+        "answer": "A. XYZ2",
+        "solution": "For $XYZ_2$: sum $= +2 + 2 + 2(-2) = 4 - 4 = 0$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Chemical Bonding",
+        "question": "What type of overlap is involved in the formation of C-H bonds in acetylene molecules? [2025]",
+        "question_latex": "What type of overlap is involved in the formation of $C-H$ bonds in acetylene molecules? [2025]",
+        "question_images": [],
+        "options": [
+            "A. sp-sp",
+            "B. sp-s",
+            "C. sp3-s",
+            "D. sp2-s"
+        ],
+        "option_images": [],
+        "answer": "B. sp-s",
+        "solution": "In acetylene, carbon uses an $sp$ hybrid orbital to overlap with the $1s$ orbital of hydrogen.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Chemical Bonding",
+        "question": "Identify the correct statement regarding geometry and lone pair of electrons present in CH4 and SiCl4. [2025]",
+        "question_latex": "Identify the correct statement regarding geometry and lone pair of electrons present in $CH_4$ and $SiCl_4$. [2025]",
+        "question_images": [],
+        "options": [
+            "A. Both have different geometry with one lone pair of electrons each.",
+            "B. Both have same geometry with two lone pair of electrons each.",
+            "C. Both have same geometry with no lone pair of electrons each.",
+            "D. Both have different geometry with no lone pair of electrons each."
+        ],
+        "option_images": [],
+        "answer": "C. Both have same geometry with no lone pair of electrons each.",
+        "solution": "Both have a central atom with 4 bond pairs and 0 lone pairs, leading to identical tetrahedral geometry.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following is not correct regarding the properties of ionic compounds?",
+        "question_latex": "Which of the following is not correct regarding the properties of ionic compounds?",
+        "question_images": [],
+        "options": [
+            "A. Ionic compounds have high melting and boiling points",
+            "B. Their reaction velocity in aqueous medium is very high",
+            "C. Ionic compounds in their molten and aqueous solutions do not conduct electricity",
+            "D. They are highly soluble in polar solvents"
+        ],
+        "option_images": [],
+        "answer": "C. Ionic compounds in their molten and aqueous solutions do not conduct electricity",
+        "solution": "Ionic compounds are good conductors of electricity in molten and aqueous states due to free ions.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Chemical Bonding",
+        "question": "The compound in which carbon atom uses only sp3-hybrid orbitals for bond formation is",
+        "question_latex": "The compound in which carbon atom uses only $sp^3$-hybrid orbitals for bond formation is",
+        "question_images": [],
+        "options": [
+            "A. HCOOH",
+            "B. NH2CONH2",
+            "C. (CH3)3COH",
+            "D. CH3CHO"
+        ],
+        "option_images": [],
+        "answer": "C. (CH3)3COH",
+        "solution": "In tert-butyl alcohol, all carbon atoms are single-bonded and undergo $sp^3$ hybridization.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following has lowest boiling point?",
+        "question_latex": "Which of the following has lowest boiling point?",
+        "question_images": [],
+        "options": [
+            "A. NaCl",
+            "B. CuCl",
+            "C. CuCl2",
+            "D. CsCl"
+        ],
+        "option_images": [],
+        "answer": "C. CuCl2",
+        "solution": "Based on Fajan's rules, $CuCl_2$ has the highest covalent character among these salts, resulting in a lower boiling point compared to more ionic counterparts.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Chemical Bonding",
+        "question": "The number of sigma and pi (π) bonds present in benzene respectively are",
+        "question_latex": "The number of sigma and pi ($\\pi$) bonds present in benzene respectively are",
+        "question_images": [],
+        "options": [
+            "A. 12, 6",
+            "B. 6, 6",
+            "C. 6, 12",
+            "D. 12, 3"
+        ],
+        "option_images": [],
+        "answer": "D. 12, 3",
+        "solution": "Benzene ($C_6H_6$) has 12 $\\sigma$ bonds (6 C-C and 6 C-H) and 3 $\\pi$ bonds.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Chemical Bonding",
+        "question": "Identify the compound having highest value of bond angle from following. [2025]",
+        "question_latex": "Identify the compound having highest value of bond angle from following. [2025]",
+        "question_images": [],
+        "options": [
+            "A. H2S",
+            "B. BeCl2",
+            "C. H2O",
+            "D. OF2"
+        ],
+        "option_images": [],
+        "answer": "B. BeCl2",
+        "solution": "$BeCl_2$ is linear with a $180^\\circ$ angle. The others have bent geometries with angles around $90^\\circ-105^\\circ$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following molecules has no lone pair of electrons on central atom? [MHT-CET 2023]",
+        "question_latex": "Which of the following molecules has no lone pair of electrons on central atom? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. SF4",
+            "B. SF6",
+            "C. NH3",
+            "D. SO2"
+        ],
+        "option_images": [],
+        "answer": "B. SF6",
+        "solution": "$SF_6$ has 6 bond pairs and 0 lone pairs.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 101,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following is correct decreasing order of the repulsive interaction of electron pairs in a molecule? [MHT-CET 2020]",
+        "question_latex": "Which of the following is correct decreasing order of the repulsive interaction of electron pairs in a molecule? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. bp-bp = bp-lp > lp-lp",
+            "B. lp-bp > lp-lp > bp-bp",
+            "C. lp-lp > lp-bp > bp-bp",
+            "D. bp-bp > lp-bp > lp-lp"
+        ],
+        "option_images": [],
+        "answer": "C. lp-lp > lp-bp > bp-bp",
+        "solution": "Lone pair-lone pair repulsion is strongest because lone pairs are closer to the nucleus and occupy more space.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 102,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following species contains minimum number of electrons in antibonding molecular orbitals? [2025]",
+        "question_latex": "Which of the following species contains minimum number of electrons in antibonding molecular orbitals? [2025]",
+        "question_images": [],
+        "options": [
+            "A. Li2",
+            "B. O2",
+            "C. N2",
+            "D. F2"
+        ],
+        "option_images": [],
+        "answer": "A. Li2",
+        "solution": "$Li_2$ (2), $N_2$ (4), $O_2$ (6), $F_2$ (8).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 103,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following compounds has highest lattice energy? [2025]",
+        "question_latex": "Which of the following compounds has highest lattice energy? [2025]",
+        "question_images": [],
+        "options": [
+            "A. NaF",
+            "B. CsF",
+            "C. KF",
+            "D. RbF"
+        ],
+        "option_images": [],
+        "answer": "A. NaF",
+        "solution": "Sodium cation is the smallest, so $NaF$ has the highest lattice enthalpy.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 104,
+        "chapter": "Chemical Bonding",
+        "question": "The paramagnetic behavior of oxygen molecule is explained by [MHT-CET 2020]",
+        "question_latex": "The paramagnetic behavior of oxygen molecule is explained by [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Valence bond theory",
+            "B. Molecular orbital theory",
+            "C. VSEPR theory",
+            "D. Electronic theory of valence"
+        ],
+        "option_images": [],
+        "answer": "B. Molecular orbital theory",
+        "solution": "MOT correctly predicts that $O_2$ has two unpaired electrons in antibonding $\\pi$ orbitals.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 105,
+        "chapter": "Chemical Bonding",
+        "question": "The molecule which has T shaped structure is",
+        "question_latex": "The molecule which has T shaped structure is",
+        "question_images": [],
+        "options": [
+            "A. PCl3",
+            "B. ClF3",
+            "C. NH3",
+            "D. BCl3"
+        ],
+        "option_images": [],
+        "answer": "B. ClF3",
+        "solution": "Chlorine trifluoride has 3 bond pairs and 2 lone pairs ($sp^3d$), forming a T-shaped molecule.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 106,
+        "chapter": "Chemical Bonding",
+        "question": "Which among following statements is true when bond order increases? [MHT-CET 2021]",
+        "question_latex": "Which among following statements is true when bond order increases? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Bond length increases and bond enthalpy decreases.",
+            "B. Bond length and bond enthalpy decreases.",
+            "C. Bond length decreases and bond enthalpy increases.",
+            "D. Bond length and bond enthalpy increases."
+        ],
+        "option_images": [],
+        "answer": "C. Bond length decreases and bond enthalpy increases.",
+        "solution": "Increasing bond order means more shared electrons, pulling nuclei closer (shorter bond) and requiring more energy to break (higher enthalpy).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 107,
+        "chapter": "Chemical Bonding",
+        "question": "What is the bond order of CO molecule? [MHT-CET 2022]",
+        "question_latex": "What is the bond order of $CO$ molecule? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 0",
+            "B. 1",
+            "C. 3",
+            "D. 2"
+        ],
+        "option_images": [],
+        "answer": "C. 3",
+        "solution": "CO is isoelectronic with $N_2$ (14 electrons) and has a bond order of 3.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 108,
+        "chapter": "Chemical Bonding",
+        "question": "If the molecule of HCl were totally polar, the expected value of dipole moment is 6.12 D (debye), but the experimental value of dipole moment was 1.03 D. Calculate the percentage ionic character",
+        "question_latex": "If the molecule of $HCl$ were totally polar, the expected value of dipole moment is $6.12 \\ D$, but the experimental value of dipole moment was $1.03 \\ D$. Calculate the percentage ionic character",
+        "question_images": [],
+        "options": [
+            "A. 17",
+            "B. 83",
+            "C. 50",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "A. 17",
+        "solution": "$\\% \\text{Ionic character} = \\frac{1.03}{6.12} \\times 100 \\approx 16.8 \\% \\approx 17 \\%$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 109,
+        "chapter": "Chemical Bonding",
+        "question": "What is formal charge on carbon in the following Lewis structure? O=C=O [MHT-CET 2023]",
+        "question_latex": "What is formal charge on carbon in the following Lewis structure? $\\dot{O} = C = \\dot{O}$ [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. -1",
+            "B. 1",
+            "C. 2",
+            "D. 0"
+        ],
+        "option_images": [],
+        "answer": "D. 0",
+        "solution": "$FC = 4 - 0 - \\frac{1}{2}(8) = 0$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 110,
+        "chapter": "Chemical Bonding",
+        "question": "In a polar molecule, the ionic charge is 4.8 x 10^-10 e.s.u. If the inter ionic distance is 1 Å unit, then the dipole moment is [MHT CET 2003]",
+        "question_latex": "In a polar molecule, the ionic charge is $4.8 \\times 10^{-10} \\ e.s.u.$ If the inter ionic distance is $1 \\ \\AA$ unit, then the dipole moment is [MHT CET 2003]",
+        "question_images": [],
+        "options": [
+            "A. 41.8 debye",
+            "B. 4.18 debye",
+            "C. 4.8 debye",
+            "D. 0.48 debye"
+        ],
+        "option_images": [],
+        "answer": "C. 4.8 debye",
+        "solution": "$\\mu = q \\times d = 4.8 \\times 10^{-10} \\ e.s.u. \\times 10^{-8} \\ cm = 4.8 \\times 10^{-18} \\ e.s.u. \\cdot cm = 4.8 \\ D$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 111,
+        "chapter": "Chemical Bonding",
+        "question": "Which of the following species has thane like geometry? [2025]",
+        "question_latex": "Which of the following species has thane like geometry? [2025]",
+        "question_images": [],
+        "options": [
+            "A. SF4",
+            "B. C2H4",
+            "C. NH4+",
+            "D. XeF2"
+        ],
+        "option_images": [],
+        "answer": "C. NH4+",
+        "solution": "$NH_4^+$ is tetrahedral, which is the geometry of methane (the prompt likely meant 'methane like').",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 112,
+        "chapter": "Chemical Bonding",
+        "question": "What is the formal charge on 'N' atom in NH4+ ion? [MHT-CET 2021]",
+        "question_latex": "What is the formal charge on 'N' atom in $NH_4^+$ ion? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. -3",
+            "C. -1",
+            "D. +1"
+        ],
+        "option_images": [],
+        "answer": "D. +1",
+        "solution": "$FC = 5 - 0 - \\frac{1}{2}(8) = +1$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 113,
+        "chapter": "Chemical Bonding",
+        "question": "Which one of the following is a non-polar molecule?",
+        "question_latex": "Which one of the following is a non-polar molecule?",
+        "question_images": [],
+        "options": [
+            "A. CCl4",
+            "B. CHCl3",
+            "C. CH2Cl2",
+            "D. CH3Cl"
+        ],
+        "option_images": [],
+        "answer": "A. CCl4",
+        "solution": "$CCl_4$ is a symmetrical tetrahedral molecule where the four polar C-Cl bond moments cancel each other out perfectly.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    }
 ]

@@ -11,6 +11,7 @@ import { paperRouter } from './routes/paperRouter.js';
 import authRouter from './routes/authRouter.js';
 import notificationRouter from './routes/notificationRouter.js';
 import { ensureUserColumnsExist, checkSubscriptionExpirations } from './utils/helperFunctions.js';
+import { initS3Mapping } from './utils/s3PathHelper.js';
 import cron from 'node-cron';
 
 dotenv.config();
@@ -84,6 +85,7 @@ app.get('*', (req, res) => {
  */
 app.listen(port, async () => {
   try {
+    initS3Mapping(); // Initialize S3 folder mapping
     await ensureUserColumnsExist();
     console.log('Database initialized successfully.');
 

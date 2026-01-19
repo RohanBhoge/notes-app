@@ -1,21 +1,23 @@
 import axios from "axios";
 
-const API_URL = import.meta.env.REACT_APP_API_URL || "https://notes-app-plum-three.vercel.app/api/v1";
-
+const API_URL = import.meta.env.VITE_APP_API_URL;
+console.log(API_URL)
 export const registerUser = async (formData) => {
-for (let pair of formData.entries()) {
-  console.log(pair[0], pair[1]);
-}
+  for (let pair of formData.entries()) {
+    console.log(pair[0], pair[1]);
+  }
   const res = await axios.post(`${API_URL}/auth/register`, formData, {
     headers: { "Content-Type": "multipart/form-data" },
   });
   console.log(res.data);
-  
+
   return res.data;
 };
-    
+
 export const getAllUsers = async () => {
   const res = await axios.get(`${API_URL}/auth/get-users`);
+  console.log(res);
+
   return res.data;
 };
 

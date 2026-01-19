@@ -42,7 +42,23 @@ const AuthProvider = (props) => {
   // // ? rawBackendUrl.replace("https://", "http://") 
   // // : rawBackendUrl;
 
-const BackendUrl = import.meta.env.VITE_BACKEND_URL || "https://notes-app-plum-three.vercel.app/";
+  const BackendUrl = import.meta.env.VITE_BACKEND_URL || "https://notes-app-plum-three.vercel.app";
+
+  // 🔄 Sync effect: Sync logo changes to localStorage
+  useEffect(() => {
+    if (logo) {
+      localStorage.setItem("Logo", logo);
+      console.log("[AuthProvider] Logo synced to localStorage:", logo);
+    }
+  }, [logo]);
+
+  // 🔄 Sync effect: Sync watermark changes to localStorage
+  useEffect(() => {
+    if (watermark) {
+      localStorage.setItem("Watermark", watermark);
+      console.log("[AuthProvider] Watermark synced to localStorage:", watermark);
+    }
+  }, [watermark]);
 
   // Auto-logout effect
   useEffect(() => {
@@ -60,8 +76,8 @@ const BackendUrl = import.meta.env.VITE_BACKEND_URL || "https://notes-app-plum-t
       } else {
         console.log(`Auto-logout scheduled in ${timeRemaining / 1000} seconds`);
         const timer = setTimeout(() => {
-           console.log("Session expired, logging out...");
-           handleLogout();
+          console.log("Session expired, logging out...");
+          handleLogout();
         }, timeRemaining);
 
         return () => clearTimeout(timer);
@@ -89,6 +105,6 @@ const BackendUrl = import.meta.env.VITE_BACKEND_URL || "https://notes-app-plum-t
       {props.children}
     </AuthContext.Provider>
   );
-};  
+};
 
 export default AuthProvider;

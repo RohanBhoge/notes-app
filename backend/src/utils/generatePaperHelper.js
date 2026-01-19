@@ -6,6 +6,26 @@ import {
   makeSeed,
 } from './zipLoader.js';
 
+import { getS3ChapterFolder } from './s3PathHelper.js';
+
+// Base S3 URL construction
+const getS3Url = (exam, std, subj, chapterFolder, filename) => {
+  if (!filename) return null;
+  const bucketName = process.env.AWS_BUCKET_NAME;
+  const region = process.env.AWS_REGION;
+  // Fallback if env vars missing (though they should be present)
+  if (!bucketName || !region) return null;
+
+  // URL Encode parts just in case
+  const pExam = encodeURIComponent(exam);
+  const pStd = encodeURIComponent(std);
+  const pSubj = encodeURIComponent(subj);
+  const pChap = encodeURIComponent(chapterFolder);
+  const pFile = encodeURIComponent(filename);
+
+  return `https://${bucketName}.s3.${region}.amazonaws.com/Questions_Image_Data/${pExam}/${pStd}/${pSubj}/${pChap}/${pFile}`;
+};
+
 /**
  * Handles error responses.
  */
@@ -66,6 +86,33 @@ function formatPaperContent(selectedQuestions) {
       solution: q.solution || '',
     });
 
+    // --- Inject Image URLs ---
+    // Extract metadata for path construction
+    const meta = q._meta || {};
+    const mExam = meta.exam || 'CET'; // Default or from Q
+    const mStd = meta.standard || '11';
+    const mSubj = meta.subject || 'Physics';
+    // Use the raw chapter name from JSON, let helper resolve it to "1. Motion in Plane"
+    const mChapterName = q.chapter || meta.entryPath || '';
+
+    // Resolve the actual numbered folder name from S3 Helper
+    const s3Folder = getS3ChapterFolder(mExam, mStd, mSubj, mChapterName);
+
+    // Helpers to process arrays
+    const mapImages = (imgArray) => {
+      if (!Array.isArray(imgArray)) return [];
+      return imgArray.map(imgName => ({
+        name: imgName,
+        url: getS3Url(mExam, mStd, mSubj, s3Folder, imgName)
+      }));
+    };
+
+    // Attach to question object in list
+    const qItem = questionList[questionList.length - 1]; // Current Item
+    qItem.question_images = mapImages(q.question_images);
+    qItem.option_images = mapImages(q.option_images);
+    qItem.solution_images = mapImages(q.solution_images);
+
     paperQuestions += `Q${qNo}: ${qText}`;
     if (i < selectedQuestions.length - 1) {
       paperQuestions += ' | ';
@@ -102,22 +149,22 @@ async function selectQuestions(params) {
     ? standard.map((s) => String(s).trim())
     : String(standard || '')
       .split(',')
-        .map((s) => s.trim())
-        .filter(Boolean);
+      .map((s) => s.trim())
+      .filter(Boolean);
 
   const subjectsArr = Array.isArray(subject)
     ? subject.map((s) => String(s).trim())
     : String(subject || '')
       .split(',')
-        .map((s) => s.trim())
-        .filter(Boolean);
+      .map((s) => s.trim())
+      .filter(Boolean);
 
   const chaptersArr = Array.isArray(chapters)
     ? chapters.map(String).filter(Boolean)
     : String(chapters || '')
       .split(',')
-        .map((s) => s.trim())
-        .filter(Boolean);
+      .map((s) => s.trim())
+      .filter(Boolean);
   const zipRes = await loadQuestionsFromZip();
 
   if (!zipRes.ok) {

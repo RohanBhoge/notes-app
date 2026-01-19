@@ -4,9 +4,7 @@
         "chapter": "Semiconductor Devices",
         "question": "What is the output y in the following circuit, when all the three inputs A, B, C are first 'zero' and then 'one'? [MHT-CET 2024]",
         "question_latex": "What is the output $y$ in the following circuit, when all the three inputs A, B, C are first 'zero' and then 'one'? [MHT-CET 2024]",
-        "question_images": [
-            "q1_1"
-        ],
+        "question_images": [],
         "options": [
             "A. 0,0",
             "B. 0,1",
@@ -861,21 +859,14 @@
         "chapter": "Semiconductor Devices",
         "question": "Which represents an AND gate?",
         "question_latex": "Which represents an AND gate?",
-        "question_images": [
-            "q46_1"
-        ],
+        "question_images": [],
         "options": [
             "A. Option A",
             "B. Option B",
             "C. Option C",
             "D. Option D"
         ],
-        "option_images": [
-            "q46_option_a1",
-            "q46_option_b1",
-            "q46_option_c1",
-            "q46_option_d1"
-        ],
+        "option_images": [],
         "answer": "B",
         "solution": "Standard D-shaped logic symbol.",
         "solution_images": [],
@@ -1020,9 +1011,7 @@
         "chapter": "Semiconductor Devices",
         "question": "The truth table below corresponds to which gate?",
         "question_latex": "The truth table below corresponds to which gate?",
-        "question_images": [
-            "q54_1"
-        ],
+        "question_images": [],
         "options": [
             "A. OR",
             "B. AND",
@@ -1421,21 +1410,14 @@
         "chapter": "Semiconductor Devices",
         "question": "Which represents a NAND gate?",
         "question_latex": "Which represents a NAND gate?",
-        "question_images": [
-            "q75_1"
-        ],
+        "question_images": [],
         "options": [
             "A. Option A",
             "B. Option B",
             "C. Option C",
             "D. Option D"
         ],
-        "option_images": [
-            "q75_option_a1",
-            "q75_option_b1",
-            "q75_option_c1",
-            "q75_option_d1"
-        ],
+        "option_images": [],
         "answer": "A",
         "solution": "AND symbol with an inversion bubble.",
         "solution_images": [],
@@ -1827,9 +1809,7 @@
         "chapter": "Semiconductor Devices",
         "question": "Which represents a photodiode characteristic?",
         "question_latex": "Which represents a photodiode characteristic?",
-        "question_images": [
-            "q96_1"
-        ],
+        "question_images": [],
         "options": [
             "A. Forward bias",
             "B. Reverse bias",
@@ -1848,9 +1828,7 @@
         "chapter": "Semiconductor Devices",
         "question": "The circuit shown in following figure contains two diodes D1 and D2 each with a forward resistance of 50 ohms and with infinite backward resistance. If the battery voltage is 6V, the current through the 100 ohm resistance (in amperes) is",
         "question_latex": "The circuit shown in following figure contains two diodes $D_{1}$ and $D_{2}$ each with a forward resistance of $50~\\Omega$ and with infinite backward resistance. If the battery voltage is $6V$, the current through the $100~\\Omega$ resistance (in amperes) is",
-        "question_images": [
-            "q97_1"
-        ],
+        "question_images": [],
         "options": [
             "A. Zero",
             "B. 0.024",
@@ -1869,9 +1847,7 @@
         "chapter": "Semiconductor Devices",
         "question": "In the circuit below, A and B represent two inputs and C represents the output. The circuit represents",
         "question_latex": "In the circuit below, A and B represent two inputs and C represents the output. The circuit represents",
-        "question_images": [
-            "q98_1"
-        ],
+        "question_images": [],
         "options": [
             "A. AND gate",
             "B. NAND gate",
@@ -1890,9 +1866,7 @@
         "chapter": "Semiconductor Devices",
         "question": "To get an output Y=1 in the given logic circuit, the correct choice for the input is",
         "question_latex": "To get an output $Y=1$ in the given logic circuit, the correct choice for the input is",
-        "question_images": [
-            "q99_1"
-        ],
+        "question_images": [],
         "options": [
             "A. A=1, B=1, C=0",
             "B. A=1, B=0, C=1",

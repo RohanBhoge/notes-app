@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Using Bohr's model, the orbital period of electron in hydrogen atom in nth orbit is (epsilon_0 = permittivity of vacuum, h = Planck's constant, m = mass of electron, e = electronic charge) [MHT-CET 2022]",
+    "question_latex": "Using Bohr's model, the orbital period of electron in hydrogen atom in $n^{th}$ orbit is ($\\epsilon_{0} = $ permittivity of vacuum, $h = $ Planck's constant, $m = $ mass of electron, $e = $ electronic charge) [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 4 epsilon_0^2 h^3 n^3 / (m e^2)",
+      "B. 4 epsilon_0^2 h^3 n^3 / (m e^4)",
+      "C. 4 epsilon_0 h^3 n^3 / (m e^2)",
+      "D. 4 epsilon_0 h^3 n^2 / (m e^2)"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Period $T = \\frac{2\\pi r_{n}}{v_{n}}$. \n Radius $r_{n} = \\frac{\\epsilon_{0} n^{2} h^{2}}{\\pi m e^{2}}$ and Velocity $v_{n} = \\frac{e^{2}}{2 \\epsilon_{0} n h}$. \n Substituting these: $T = 2\\pi \\left( \\frac{\\epsilon_{0} n^{2} h^{2}}{\\pi m e^{2}} \\right) / \\left( \\frac{e^{2}}{2 \\epsilon_{0} n h} \\right) = \\frac{4 \\epsilon_{0}^{2} n^{3} h^{3}}{m e^{4}}$.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "If the series limit frequency of Lyman series is vL and series limit frequency of Pfund series is vp then [MHT-CET 2023]",
+    "question_latex": "If the series limit frequency of Lyman series is $\\nu_{L}$ and series limit frequency of Pfund series is $\\nu_{P}$ then [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. vL = 25 vP",
+      "B. vL = 16 vP",
+      "C. vL = 9 vP",
+      "D. vL = 5 vP"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Series limit frequency $\\nu = R c \\left( \\frac{1}{n_{1}^{2}} - \\frac{1}{\\infty} \\right) = \\frac{R c}{n_{1}^{2}}$. \n For Lyman, $n_{1} = 1 \\Rightarrow \\nu_{L} = R c$. \n For Pfund, $n_{1} = 5 \\Rightarrow \\nu_{P} = \\frac{R c}{25}$. \n Therefore, $\\nu_{L} = 25 \\nu_{P}$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "The half-life of a radioactive substance is 10 days. The time taken for 3/4th of the original mass to disintegrate is [MHT-CET 2021]",
+    "question_latex": "The half-life of a radioactive substance is $10$ days. The time taken for $3/4^{th}$ of the original mass to disintegrate is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 20 days",
+      "B. 15 days",
+      "C. 30 days",
+      "D. 40 days"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Disintegrated mass $= 3/4 M_{0} \\Rightarrow$ Remaining mass $M = 1/4 M_{0}$. \n $M = M_{0} (1/2)^{n} \\Rightarrow 1/4 = (1/2)^{n} \\Rightarrow n = 2$ half-lives. \n Time $t = 2 \\times 10 = 20$ days.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "In hydrogen atom, the ratio of the areas of the electron orbits for n = 1 to n = 2 is [MHT-CET 2020]",
+    "question_latex": "In hydrogen atom, the ratio of the areas of the electron orbits for $n = 1$ to $n = 2$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 1 : 4",
+      "B. 1 : 16",
+      "C. 1 : 8",
+      "D. 1 : 2"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Radius $r_{n} \\propto n^{2}$. Area $A = \\pi r_{n}^{2} \\propto r_{n}^{2} \\propto (n^{2})^{2} \\propto n^{4}$. \n Ratio $A_{1}/A_{2} = (1/2)^{4} = 1 : 16$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 5,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "When a radioactive nucleus emits an alpha particle, its atomic number [MHT-CET 2019]",
+    "question_latex": "When a radioactive nucleus emits an alpha particle, its atomic number [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. Increases by 2",
+      "B. Decreases by 2",
+      "C. Decreases by 4",
+      "D. Remains same"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "An alpha particle is a helium nucleus ($^{4}_{2}He$). Loss of an alpha particle reduces atomic number $Z$ by $2$ and mass number $A$ by $4$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 6,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "The energy required to remove an electron from n = 2 state of hydrogen atom is [MHT-CET 2024]",
+    "question_latex": "The energy required to remove an electron from $n = 2$ state of hydrogen atom is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 13.6 eV",
+      "B. 3.4 eV",
+      "C. 1.51 eV",
+      "D. 0.85 eV"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Energy in $n^{th}$ orbit $E_{n} = -\\frac{13.6}{n^{2}}$ eV. \n For $n = 2$, $E_{2} = -\\frac{13.6}{4} = -3.4$ eV. \n Binding energy (energy to remove) is $|E_{2}| = 3.4$ eV.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 7,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Binding energy per nucleon is maximum for [MHT-CET 2021]",
+    "question_latex": "Binding energy per nucleon is maximum for [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. Helium",
+      "B. Iron",
+      "C. Uranium",
+      "D. Hydrogen"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "The binding energy per nucleon curve peaks around Iron ($^{56}Fe$), which is roughly $8.8$ MeV/nucleon, making it highly stable.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 8,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "In a nuclear reactor, heavy water is used as a [MHT-CET 2022]",
+    "question_latex": "In a nuclear reactor, heavy water is used as a [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Moderator",
+      "B. Fuel",
+      "C. Coolant",
+      "D. Controller"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Moderators are used to slow down fast-moving neutrons to thermal speeds to facilitate further fission.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 9,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "The ratio of the speed of an electron in the first Bohr orbit of hydrogen and that of the speed of light in vacuum is called [MHT-CET 2023]",
+    "question_latex": "The ratio of the speed of an electron in the first Bohr orbit of hydrogen and that of the speed of light in vacuum is called [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. Bohr Magneton",
+      "B. Rydberg constant",
+      "C. Fine structure constant",
+      "D. Planck's constant"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The fine structure constant $\\alpha = \\frac{v_{1}}{c} \\approx \\frac{1}{137}$.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 10,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "A radioactive sample has a half-life of T. The fraction remaining after time T/2 is [MHT-CET 2020]",
+    "question_latex": "A radioactive sample has a half-life of $T$. The fraction remaining after time $T/2$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 1 / sqrt(2)",
+      "B. 1 / 2",
+      "C. 1 / 4",
+      "D. 1 / 2 sqrt(2)"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$N = N_{0} (1/2)^{t/T}$. For $t = T/2$, $N/N_{0} = (1/2)^{1/2} = 1/\\sqrt{2}$.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "The wavelength of the first line of Balmer series is 6563 Angstrom. The wavelength of the series limit is [MHT-CET 2024]",
+    "question_latex": "The wavelength of the first line of Balmer series is $6563 \\text{ \\AA}$. The wavelength of the series limit is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 3646 Angstrom",
+      "B. 4861 Angstrom",
+      "C. 1215 Angstrom",
+      "D. 8203 Angstrom"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "First line ($n=3$ to $n=2$): $1/\\lambda_{1} = R(1/4 - 1/9) = 5R/36$. \n Series limit ($n=\\infty$ to $n=2$): $1/\\lambda_{\\infty} = R(1/4 - 0) = R/4$. \n $\\lambda_{\\infty} = \\lambda_{1} \\times (5/36) \\times 4 = \\frac{5}{9} \\lambda_{1} = \\frac{5}{9} \\times 6563 \\approx 3646 \\text{ \\AA}$.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "The radius of a nucleus of mass number A is proportional to [MHT-CET 2021]",
+    "question_latex": "The radius of a nucleus of mass number $A$ is proportional to [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. A",
+      "B. A^1/3",
+      "C. A^2/3",
+      "D. A^1/2"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Empirical formula for nuclear radius is $R = R_{0} A^{1/3}$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Nuclear fusion is possible only at very high temperatures because [MHT-CET 2019]",
+    "question_latex": "Nuclear fusion is possible only at very high temperatures because [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. Nuclei tend to repel each other",
+      "B. Strong nuclear force is short range",
+      "C. Both A and B",
+      "D. Binding energy is high"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "High thermal energy is required to overcome the Coulomb repulsion (A) so that nuclei get close enough for the short-range strong force (B) to act.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "The mass of a neutron is approximately [MHT-CET 2022]",
+    "question_latex": "The mass of a neutron is approximately [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 1.67 x 10^-27 kg",
+      "B. 9.1 x 10^-31 kg",
+      "C. 1.67 x 10^-24 kg",
+      "D. 1.6 x 10^-19 kg"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard physical value for mass of a neutron.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "The frequency of revolution of an electron in nth orbit is proportional to [MHT-CET 2023]",
+    "question_latex": "The frequency of revolution of an electron in $n^{th}$ orbit is proportional to [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1/n",
+      "B. 1/n^2",
+      "C. 1/n^3",
+      "D. n^3"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Frequency $f = 1/T$. From Q1, $T \\propto n^{3} \\Rightarrow f \\propto 1/n^{3}$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "During the beta decay of a nucleus [MHT-CET 2020]",
+    "question_latex": "During the beta decay of a nucleus [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. a proton changes into a neutron",
+      "B. a neutron changes into a proton",
+      "C. an electron is emitted from the shell",
+      "D. mass number changes"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "In $\\beta^{-}$ decay, a neutron converts into a proton, an electron, and an antineutrino.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Ratio of radii of second and first Bohr orbit is [MHT-CET 2021]",
+    "question_latex": "Ratio of radii of second and first Bohr orbit is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 2 : 1",
+      "B. 4 : 1",
+      "C. 8 : 1",
+      "D. 1 : 4"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$r_{n} \\propto n^{2} \\Rightarrow r_{2}/r_{1} = 2^{2}/1^{2} = 4$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Radioactivity is a phenomenon associated with [MHT-CET 2024]",
+    "question_latex": "Radioactivity is a phenomenon associated with [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Nucleus",
+      "B. Electrons",
+      "C. Atoms",
+      "D. Molecules"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Radioactivity involves the spontaneous disintegration of unstable atomic nuclei.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "The average life of a radioactive substance is related to its half-life by [MHT-CET 2022]",
+    "question_latex": "The average life of a radioactive substance is related to its half-life by [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Tavg = 1.44 Thalf",
+      "B. Thalf = 1.44 Tavg",
+      "C. Tavg = 0.693 Thalf",
+      "D. Tavg = Thalf"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\tau = 1/\\lambda$ and $T_{1/2} = 0.693/\\lambda$. So $\\tau = T_{1/2} / 0.693 \\approx 1.44 T_{1/2}$.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Energy emitted in form of photons in hydrogen transition from n=4 to n=2 is [MHT-CET 2023]",
+    "question_latex": "Energy emitted in form of photons in hydrogen transition from $n=4$ to $n=2$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 2.55 eV",
+      "B. 0.85 eV",
+      "C. 3.4 eV",
+      "D. 10.2 eV"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$E = 13.6 (1/2^{2} - 1/4^{2}) = 13.6 (1/4 - 1/16) = 13.6 (3/16) = 2.55$ eV.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "What is the name of the particle that has the same mass as an electron but opposite charge?",
+    "question_latex": "What is the name of the particle that has the same mass as an electron but opposite charge?",
+    "question_images": [],
+    "options": [
+      "A. Proton",
+      "B. Positron",
+      "C. Alpha particle",
+      "D. Neutrino"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "A positron is the antiparticle of an electron.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "The energy of an electron in the ground state of Hydrogen is -13.6 eV. Its K.E. in the same state is [MHT-CET 2024]",
+    "question_latex": "The energy of an electron in the ground state of Hydrogen is $-13.6$ eV. Its K.E. in the same state is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 13.6 eV",
+      "B. -13.6 eV",
+      "C. 27.2 eV",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "In a Bohr atom, Total Energy $E = -K.E.$ Thus $K.E. = +13.6$ eV.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Atomic mass unit (amu) is equal to [MHT-CET 2020]",
+    "question_latex": "Atomic mass unit (amu) is equal to [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 1.66 x 10^-27 kg",
+      "B. 1.66 x 10^-24 kg",
+      "C. 931 MeV",
+      "D. both A and C"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$1~amu = 1.66 \\times 10^{-27}$ kg. Using $E=mc^{2}$, this mass is equivalent to $931.5$ MeV.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Rydberg constant R has units of [MHT-CET 2021]",
+    "question_latex": "Rydberg constant $R$ has units of [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. m",
+      "B. m^-1",
+      "C. s^-1",
+      "D. J"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "From $1/\\lambda = R (1/n_{1}^{2} - 1/n_{2}^{2})$, $R$ must have the unit of reciprocal length.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "If the half-life of a radioactive sample is 1600 years, its mean life is [MHT-CET 2023]",
+    "question_latex": "If the half-life of a radioactive sample is $1600$ years, its mean life is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 2309 years",
+      "B. 1109 years",
+      "C. 1600 years",
+      "D. 2000 years"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Mean life $\\tau = 1.44 T_{1/2} = 1.44 \\times 1600 \\approx 2304$ years.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Total energy of electron in 3rd orbit of hydrogen is [MHT-CET 2019]",
+    "question_latex": "Total energy of electron in $3^{rd}$ orbit of hydrogen is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. -1.51 eV",
+      "B. -3.4 eV",
+      "C. -0.85 eV",
+      "D. -13.6 eV"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$E_{3} = -13.6 / 9 = -1.51$ eV.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Paschen series lies in the [MHT-CET 2024]",
+    "question_latex": "Paschen series lies in the [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. UV region",
+      "B. Visible region",
+      "C. Infrared region",
+      "D. X-ray region"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Lyman is UV, Balmer is Visible, others (Paschen, Brackett, Pfund) are Infrared.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Ratio of mass numbers of two nuclei is 1:8. Ratio of their radii is [MHT-CET 2020]",
+    "question_latex": "Ratio of mass numbers of two nuclei is $1:8$. Ratio of their radii is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 1 : 2",
+      "B. 1 : 4",
+      "C. 1 : 8",
+      "D. 1 : 1"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$R_{1}/R_{2} = (A_{1}/A_{2})^{1/3} = (1/8)^{1/3} = 1/2$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Isotopes have same [MHT-CET 2021]",
+    "question_latex": "Isotopes have same [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. Atomic number",
+      "B. Mass number",
+      "C. Number of neutrons",
+      "D. Stability"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Isotopes are atoms of the same element with same $Z$ but different $A$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Binding energy of deuteron is 2.2 MeV. Its binding energy per nucleon is [MHT-CET 2022]",
+    "question_latex": "Binding energy of deuteron is $2.2~MeV$. Its binding energy per nucleon is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 1.1 MeV",
+      "B. 2.2 MeV",
+      "C. 4.4 MeV",
+      "D. 0.55 MeV"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Deuteron has 2 nucleons ($1p, 1n$). $BE/A = 2.2 / 2 = 1.1$ MeV.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "According to Bohr's 2nd postulate, angular momentum is [MHT-CET 2019]",
+    "question_latex": "According to Bohr's $2^{nd}$ postulate, angular momentum is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. nh / 2 pi",
+      "B. nh / pi",
+      "C. n h",
+      "D. h / 2 pi n"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Quantization condition: $L = n\\hbar = \\frac{nh}{2\\pi}$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "A radioactive substance disintegrates to 1/16th in 40 minutes. Half-life is [MHT-CET 2024]",
+    "question_latex": "A radioactive substance disintegrates to $1/16^{th}$ in $40$ minutes. Half-life is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 10 min",
+      "B. 5 min",
+      "C. 20 min",
+      "D. 8 min"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$1/16 = (1/2)^{n} \\Rightarrow n = 4$. $T_{1/2} = 40/4 = 10$ minutes.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Speed of electron in first orbit of hydrogen [MHT-CET 2020]",
+    "question_latex": "Speed of electron in first orbit of hydrogen ($c$ = speed of light) is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. c / 137",
+      "B. c / 2",
+      "C. c / 100",
+      "D. same as c"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$v_{1} = \\alpha c = c/137$.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Radioactive decay constant has units of [MHT-CET 2021]",
+    "question_latex": "Radioactive decay constant has units of [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. s^-1",
+      "B. s",
+      "C. dimensionless",
+      "D. m^-1"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$dN/dt = -\\lambda N \\Rightarrow \\lambda = (dN/dt)/N$. Units are $1/time$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Density of nucleus is of order [MHT-CET 2023]",
+    "question_latex": "Density of nucleus is of order [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 10^17 kg/m^3",
+      "B. 10^3 kg/m^3",
+      "C. 10^10 kg/m^3",
+      "D. 10^5 kg/m^3"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard order of magnitude for nuclear density.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "A photon is emitted during hydrogen transition from n=2 to n=1. Wavelength is [MHT-CET 2022]",
+    "question_latex": "A photon is emitted during hydrogen transition from $n=2$ to $n=1$. Wavelength is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 1215 Angstrom",
+      "B. 1025 Angstrom",
+      "C. 912 Angstrom",
+      "D. 6563 Angstrom"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$1/\\lambda = R (1 - 1/4) = 3R/4$. $\\lambda = 4 / (3 \\times 1.097 \\times 10^{7}) \\approx 1.215 \\times 10^{-7}$ m $= 1215 \\text{ \\AA}$.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Gamma rays are [MHT-CET 2024]",
+    "question_latex": "Gamma rays are [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Electromagnetic waves",
+      "B. Charged particles",
+      "C. Neutrons",
+      "D. Electrons"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "High energy photons emitted by nuclei.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Half life is 2 days. Fraction remaining after 6 days is [MHT-CET 2020]",
+    "question_latex": "Half life is $2$ days. Fraction remaining after $6$ days is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 1 / 8",
+      "B. 1 / 4",
+      "C. 1 / 16",
+      "D. 1 / 2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$n = 6/2 = 3$. $1/2^{3} = 1/8$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Mass defect is [MHT-CET 2019]",
+    "question_latex": "Mass defect is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. Difference between sum of individual nucleons and actual nuclear mass",
+      "B. Total mass of nucleus",
+      "C. Energy of nucleus",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard definition.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Velocity of electron in nth orbit is proportional to [MHT-CET 2023]",
+    "question_latex": "Velocity of electron in $n^{th}$ orbit is proportional to [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1/n",
+      "B. n",
+      "C. 1/n^2",
+      "D. n^2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$v_{n} = v_{1}/n$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "The energy equivalent of 1 gram of matter is [MHT-CET 2024]",
+    "question_latex": "The energy equivalent of $1$ gram of matter is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 9 x 10^13 J",
+      "B. 9 x 10^16 J",
+      "C. 3 x 10^8 J",
+      "D. 10^10 J"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$E = mc^{2} = 10^{-3} \\times (3 \\times 10^{8})^{2} = 9 \\times 10^{13}$ J.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Activity of a sample is proportional to [MHT-CET 2022]",
+    "question_latex": "Activity of a sample is proportional to [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Number of nuclei present",
+      "B. decay constant",
+      "C. both A and B",
+      "D. time"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$A = \\lambda N$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Lyman series limit wavelength is [MHT-CET 2021]",
+    "question_latex": "Lyman series limit wavelength is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 912 Angstrom",
+      "B. 1215 Angstrom",
+      "C. 3646 Angstrom",
+      "D. 8203 Angstrom"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$1/\\lambda = R (1 - 0) \\Rightarrow \\lambda = 1/R \\approx 912 \\text{ \\AA}$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Radioactivity is temperature independent? [MHT-CET 2020]",
+    "question_latex": "Radioactivity is temperature independent? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. True",
+      "B. False",
+      "C. only at low T",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Nuclear processes are not affected by external chemical or physical environments.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Alpha particles are [MHT-CET 2019]",
+    "question_latex": "Alpha particles are [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. Helium nuclei",
+      "B. Electrons",
+      "C. Photons",
+      "D. Hydrogen nuclei"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Direct definition.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Ground state radius of hydrogen is 0.53 Angstrom. Radius of n=3 is [MHT-CET 2024]",
+    "question_latex": "Ground state radius of hydrogen is $0.53 \\text{ \\AA}$. Radius of $n=3$ is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 4.77 Angstrom",
+      "B. 1.59 Angstrom",
+      "C. 2.12 Angstrom",
+      "D. 0.53 Angstrom"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$r' = r_{1} \\times n^{2} = 0.53 \\times 9 = 4.77 \\text{ \\AA}$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Unit of activity is [MHT-CET 2023]",
+    "question_latex": "Unit of activity is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. Becquerel",
+      "B. Curie",
+      "C. Both",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Becquerel is SI, Curie is older common unit.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Balmer series limit wavelength [MHT-CET 2022]",
+    "question_latex": "Balmer series limit wavelength is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 3646 Angstrom",
+      "B. 6563 Angstrom",
+      "C. 4861 Angstrom",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of Q11 result.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Isotones have same [MHT-CET 2021]",
+    "question_latex": "Isotones have same [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. Number of neutrons",
+      "B. Atomic number",
+      "C. Mass number",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard nuclear classification.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Rutherford's alpha scattering proved [MHT-CET 2020]",
+    "question_latex": "Rutherford's alpha scattering proved [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. tiny central dense nucleus",
+      "B. plum pudding model",
+      "C. orbits are quantized",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Most mass is concentrated in small volume.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Work done to stop alpha particle moving to nucleus [MHT-CET 2024]",
+    "question_latex": "Work done to stop alpha particle moving to nucleus is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Potential energy at distance of closest approach",
+      "B. kinetic energy",
+      "C. zero",
+      "D. infinite"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Conservation of energy principle.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Average life of a sample with half life 1 day [MHT-CET 2023]",
+    "question_latex": "Average life of a sample with half life $1$ day is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1.44 days",
+      "B. 0.693 days",
+      "C. 1 day",
+      "D. 2 days"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\tau = T_{1/2} / 0.693$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Nuclear force is [MHT-CET 2022]",
+    "question_latex": "Nuclear force is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Short range and strongest",
+      "B. Long range",
+      "C. Weak",
+      "D. Gravitational"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Defining properties.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "A photon of frequency v has energy E. For 2v, energy is [MHT-CET 2021]",
+    "question_latex": "A photon of frequency $v$ has energy $E$. For $2v$, energy is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 2E",
+      "B. E/2",
+      "C. E",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Planck's law.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Number of neutrons in C-14 [MHT-CET 2020]",
+    "question_latex": "Number of neutrons in $^{14}_{6}C$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 8",
+      "B. 6",
+      "C. 14",
+      "D. 20"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$14 - 6 = 8$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Ratio of radii of second orbits of H and He+ [MHT-CET 2024]",
+    "question_latex": "Ratio of radii of second orbits of H and $He^{+}$ is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 2 : 1",
+      "B. 1 : 2",
+      "C. 1 : 1",
+      "D. 4 : 1"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$r \\propto n^{2}/Z$. For same $n$, $r \\propto 1/Z$. $1/(1/2) = 2$.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Half life 3 hours. Fraction left after 9 hours [MHT-CET 2023]",
+    "question_latex": "Half life $3$ hours. Fraction left after $9$ hours is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1 / 8",
+      "B. 1 / 16",
+      "C. 1 / 4",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$2^{3} = 8$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Excitation potential of hydrogen ground to first excited [MHT-CET 2022]",
+    "question_latex": "Excitation potential of hydrogen ground to first excited state is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 10.2 V",
+      "B. 13.6 V",
+      "C. 3.4 V",
+      "D. 1.51 V"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$13.6 - 3.4 = 10.2$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Bohr's radius a0 is [MHT-CET 2021]",
+    "question_latex": "Bohr's radius $a_{0}$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 0.53 Angstrom",
+      "B. 1 Angstrom",
+      "C. 0.053 Angstrom",
+      "D. 5.3 Angstrom"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard value.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Mass defect per nucleon is [MHT-CET 2020]",
+    "question_latex": "Mass defect per nucleon is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. Packing fraction",
+      "B. Binding energy",
+      "C. Stability",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Technical term definition.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Bohr model is applicable for [MHT-CET 2024]",
+    "question_latex": "Bohr model is applicable for [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Single electron atoms",
+      "B. All atoms",
+      "C. Solid crystals",
+      "D. Metals"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Applicable to $H$, $He^{+}$, $Li^{2+}$, etc.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Mean life is reciprocal of [MHT-CET 2023]",
+    "question_latex": "Mean life is reciprocal of [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. decay constant",
+      "B. half life",
+      "C. mass number",
+      "D. activity"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\tau = 1/\\lambda$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Wavelength of H-alpha line in Balmer series [MHT-CET 2022]",
+    "question_latex": "Wavelength of $H_{\\alpha}$ line in Balmer series is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 6563 Angstrom",
+      "B. 4861 Angstrom",
+      "C. 4340 Angstrom",
+      "D. 1215 Angstrom"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Red line of hydrogen.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Nuclear radius of A=27 is 3.6 fm. For A=125, it is [MHT-CET 2021]",
+    "question_latex": "Nuclear radius of $A=27$ is $3.6~fm$. For $A=125$, it is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 6.0 fm",
+      "B. 4.8 fm",
+      "C. 7.2 fm",
+      "D. 12.5 fm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$R' = 3.6 (125/27)^{1/3} = 3.6 (5/3) = 1.2 \\times 5 = 6.0$.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Activity decreases 8 times in 15 days. Half life is [MHT-CET 2020]",
+    "question_latex": "Activity decreases $8$ times in $15$ days. Half life is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 5 days",
+      "B. 3 days",
+      "C. 7.5 days",
+      "D. 10 days"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$8 = 2^{3}$. $T_{1/2} = 15/3 = 5$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Energy of electron in ground state n=1 is [MHT-CET 2024]",
+    "question_latex": "Energy of electron in ground state $n=1$ is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. -13.6 eV",
+      "B. -3.4 eV",
+      "C. -0.85 eV",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard value.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Binding energy per nucleon for heavy nuclei decreases due to [MHT-CET 2023]",
+    "question_latex": "Binding energy per nucleon for heavy nuclei decreases due to [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. Coulomb repulsion",
+      "B. Nuclear attraction",
+      "C. zero spin",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Repulsion between many protons.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Wavelength of limit of Brackett series [MHT-CET 2022]",
+    "question_latex": "Wavelength of limit of Brackett series ($n=4$) is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 16 / R",
+      "B. 4 / R",
+      "C. 1 / R",
+      "D. 25 / R"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$1/\\lambda = R/16$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Half life 10 s. Activity at t=0 is 100. Activity at t=20 s [MHT-CET 2021]",
+    "question_latex": "Half life $10$ s. Activity at $t=0$ is $100$. Activity at $t=20$ s is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 25",
+      "B. 50",
+      "C. 12.5",
+      "D. 75"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$2^{2} = 4$. $100/4 = 25$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Ratio of angular momentum of 2nd and 1st orbit [MHT-CET 2020]",
+    "question_latex": "Ratio of angular momentum of $2^{nd}$ and $1^{st}$ orbit is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 2 : 1",
+      "B. 1 : 2",
+      "C. 4 : 1",
+      "D. 1 : 1"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$L \\propto n$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Atomic mass is measured by [MHT-CET 2024]",
+    "question_latex": "Atomic mass is measured by [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Mass spectrometer",
+      "B. Voltmeter",
+      "C. Calorimeter",
+      "D. Potentiometer"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard instrument.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Number of electrons in ion He+ is [MHT-CET 2023]",
+    "question_latex": "Number of electrons in ion $He^{+}$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. zero",
+      "D. 3"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Helium has 2, lost 1.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Limit frequency of Pfund series [MHT-CET 2022]",
+    "question_latex": "Limit frequency of Pfund series ($n=5$) is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Rc / 25",
+      "B. Rc / 16",
+      "C. Rc / 9",
+      "D. Rc"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "From $1/\\lambda = R/25$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Binding energy of 1 amu is [MHT-CET 2021]",
+    "question_latex": "Binding energy of $1~amu$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 931 MeV",
+      "B. 9.31 MeV",
+      "C. 0.931 MeV",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of Q23 part.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Radius of nucleus with A=1 [MHT-CET 2020]",
+    "question_latex": "Radius of nucleus with $A=1$ is roughly [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 1.2 fm",
+      "B. 0.5 fm",
+      "C. 10 fm",
+      "D. 1 Angstrom"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$R_{0} \\approx 1.2$ fm.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Angular momentum of electron in ground state [MHT-CET 2024]",
+    "question_latex": "Angular momentum of electron in ground state ($n=1$) is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. h / 2 pi",
+      "B. h / pi",
+      "C. 2 h / pi",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$n=1$ in $nh/2\\pi$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Half life = ln(2) / decay constant. [MHT-CET 2023]",
+    "question_latex": "Half life $= \\ln(2) / \\lambda$. [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. True",
+      "B. False",
+      "C. only for alpha",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard relation.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Transitions to n=2 give Balmer series. [MHT-CET 2022]",
+    "question_latex": "Transitions to $n=2$ give Balmer series. [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. True",
+      "B. False",
+      "C. only from n=3",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Defining series condition.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Stable nuclei have N/Z ratio [MHT-CET 2021]",
+    "question_latex": "Stable heavy nuclei have $N/Z$ ratio [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. > 1",
+      "B. = 1",
+      "C. < 1",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "More neutrons needed to dilute Coulomb repulsion.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Rydberg constant value is [MHT-CET 2020]",
+    "question_latex": "Rydberg constant value is nearly [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 1.097 x 10^7 m^-1",
+      "B. 1.097 x 10^-7 m^-1",
+      "C. 6.6 x 10^34",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Physical constant.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Angular momentum quantization L = n h / 2 pi. [MHT-CET 2024]",
+    "question_latex": "Angular momentum quantization $L = nh/2\\pi$. [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. True",
+      "B. False",
+      "C. only for H",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Bohr's fundamental postulate.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Atomic number Z is number of [MHT-CET 2023]",
+    "question_latex": "Atomic number $Z$ is number of [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. Protons",
+      "B. Neutrons",
+      "C. Nucleons",
+      "D. electrons in shell"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Definition.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Radius of electron orbit r is proportional to [MHT-CET 2022]",
+    "question_latex": "Radius of electron orbit $r$ is proportional to [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. n^2",
+      "B. n",
+      "C. 1/n",
+      "D. 1/n^2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of Q17 logic.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Binding energy EB is [MHT-CET 2021]",
+    "question_latex": "Binding energy $E_{B}$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. delta m c^2",
+      "B. m c^2",
+      "C. h v",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Mass-energy equivalence for mass defect.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Alpha particles have +2e charge. [MHT-CET 2020]",
+    "question_latex": "Alpha particles have $+2e$ charge. [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. True",
+      "B. False",
+      "C. -2e",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "They are He nuclei.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Time period of revolution T depends on [MHT-CET 2024]",
+    "question_latex": "Time period of revolution $T$ depends on [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. n^3",
+      "B. n^2",
+      "C. n",
+      "D. 1/n"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of Q1 logic.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Decay constant lambda is proportional to [MHT-CET 2023]",
+    "question_latex": "Decay constant $\\lambda$ is proportional to [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1 / half-life",
+      "B. half-life",
+      "C. mass",
+      "D. time"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Inverse relation.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "First line of Lyman series wavelength [MHT-CET 2022]",
+    "question_latex": "First line of Lyman series ($n=2$ to $n=1$) wavelength is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 4 / 3R",
+      "B. 3 / 4R",
+      "C. 1 / R",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$1/\\lambda = R(3/4)$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Atomic mass unit in kg [MHT-CET 2021]",
+    "question_latex": "$1~amu$ in kg is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 1.66 x 10^-27",
+      "B. 9.1 x 10^-31",
+      "C. 1.6 x 10^-19",
+      "D. 1"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Physical constant.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Binding energy per nucleon curve peaks at iron. [MHT-CET 2020]",
+    "question_latex": "Binding energy per nucleon curve peaks at iron. [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. True",
+      "B. False",
+      "C. peaks at Uranium",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of Q7.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Orbital speed v is proportional to [MHT-CET 2024]",
+    "question_latex": "Orbital speed $v$ is proportional to [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Z / n",
+      "B. n / Z",
+      "C. Z^2 / n",
+      "D. n^2 / Z"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "General Bohr speed formula.",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Mean life tau = 1.44 half-life. [MHT-CET 2023]",
+    "question_latex": "Mean life $\\tau = 1.44~T_{1/2}$. [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. True",
+      "B. False",
+      "C. only for Beta",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of Q19.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Lyman series lies in Infrared. [MHT-CET 2022]",
+    "question_latex": "Lyman series lies in Infrared. [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. False",
+      "B. True",
+      "C. Visible",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "It is in UV.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Binding energy per nucleon for Uranium is about [MHT-CET 2021]",
+    "question_latex": "Binding energy per nucleon for Uranium is about [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 7.6 MeV",
+      "B. 8.8 MeV",
+      "C. 1.1 MeV",
+      "D. 2.2 MeV"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Lower than middle nuclei.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Nucleus is positive? [MHT-CET 2020]",
+    "question_latex": "Nucleus is positive? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. True",
+      "B. False",
+      "C. neutral",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Due to protons.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Total energy E = P.E. / 2. [MHT-CET 2024]",
+    "question_latex": "Total energy $E = P.E. / 2$. [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. True",
+      "B. False",
+      "C. E = -P.E.",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Virial theorem for inverse square law.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "If Z is atomic number, A is mass number then number of neutrons in an atom is",
+    "question_latex": "If $Z$ is atomic number, $A$ is mass number then number of neutrons in an atom is",
+    "question_images": [],
+    "options": [
+      "A. A + Z",
+      "B. A - Z",
+      "C. A / Z",
+      "D. Z"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Neutron number $N = A - Z$.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "Energy of sun is due to [MHT-CET 2023]",
+    "question_latex": "Energy of sun is due to [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. Nuclear Fission",
+      "B. Chemical reaction",
+      "C. Nuclear Fusion",
+      "D. combustion"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The sun converts hydrogen to helium through fusion, releasing massive energy.",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "A particle of charge Q and mass m is moving with constant speed v and perpendicular to a constant magnetic field B follows circular path. If the angular momentum about the centre of this circle is quantized so that mvr = n h / 2 pi, then the allowed radial for the particle are given by",
+    "question_latex": "A particle of charge $Q$ and mass $m$ is moving with constant speed $v$ and perpendicular to a constant magnetic field $B$ follows circular path. If the angular momentum about the centre of this circle is quantized so that $mvr = \\frac{nh}{2\\pi}$, then the allowed radial for the particle are given by",
+    "question_images": [],
+    "options": [
+      "A. rn^2 = nh / (2 pi qB)",
+      "B. rn^2 = nhq / (2 pi B)",
+      "C. rn^2 = nhB / (2 pi q)",
+      "D. rn^2 = 2 pi nh / (Bq)"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Force balance: $mv^{2}/r = qvB \\Rightarrow mv = qBr$. \n Quantization: $mvr = nh/2\\pi$. \n $(qBr)r = nh/2\\pi \\Rightarrow qBr^{2} = nh/2\\pi \\Rightarrow r^{2} = \\frac{nh}{2\\pi qB}$.",
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Structure of Atom and Nucleus",
+    "question": "In a radioactive disintegration, the ratio of initial number of atoms to the number of atoms present at an instant of time equal to its average life",
+    "question_latex": "In a radioactive disintegration, the ratio of initial number of atoms to the number of atoms present at an instant of time equal to its average life",
+    "question_images": [],
+    "options": [
+      "A. 1/e",
+      "B. e",
+      "C. 1/e^2",
+      "D. e^2"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$N = N_{0} e^{-\\lambda t}$. For average life $t = 1/\\lambda$, $N = N_{0} e^{-1} = N_{0}/e$. \n Ratio $N_{0}/N = e$.",
+    "difficulty": "Medium",
+    "marks": 4
+  }
+]

@@ -1,33 +1,37 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { Home, UserPlus, BookOpen } from 'lucide-react';
 
 const TailwindHeader = () => {
   return (
-    <header className="bg-blue-50 shadow-md border-b-4 border-blue-600 px-4 sm:px-6 lg:px-8 py-3">
-      <div className="max-w-7xl mx-auto flex justify-between items-center flex-wrap sm:flex-nowrap">
+    <header className="w-full bg-blue-600 shadow-lg border-b-4 border-blue-700 px-4 sm:px-6 lg:px-8 py-4">
+      <div className="w-full flex justify-between items-center gap-4">
         
-        <h1 className="text-xl sm:text-2xl font-extrabold text-blue-900 mb-2 sm:mb-0">
-          User Management Note App
-        </h1>
+        <div className="flex items-center gap-2 sm:gap-3">
+          <div className="bg-white p-1.5 sm:p-2 rounded-lg">
+            <BookOpen size={24} className="text-blue-600 sm:w-7 sm:h-7" />
+          </div>
+          <h1 className="text-lg sm:text-xl lg:text-2xl font-black text-white drop-shadow-lg">
+            BISUGEN(Notes App)
+          </h1>
+        </div>
         
-        <nav className="flex items-center space-x-3 sm:space-x-5">
-          
+        <nav className="flex items-center gap-2 sm:gap-3">
           <Link 
             to="/home" 
-            className="text-blue-600 hover:text-blue-800 font-semibold transition duration-150 ease-in-out py-2 px-3 rounded-lg"
+            className="flex items-center gap-1.5 bg-blue-700 hover:bg-blue-800 text-white font-bold py-2 px-3 sm:py-2.5 sm:px-4 rounded-lg transition-all duration-300 hover:scale-105 active:scale-95 shadow-lg text-sm sm:text-base"
           >
-            Home
+            <Home size={16} className="sm:w-5 sm:h-5" />
+            <span className="hidden sm:inline">Home</span>
           </Link>
 
           <Link 
             to="/register" 
-            className="bg-blue-600 text-white font-bold py-2 px-4 rounded-lg 
-                       hover:bg-blue-700 transition duration-150 ease-in-out 
-                       shadow-md hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+            className="flex items-center gap-1.5 bg-white text-blue-600 font-bold py-2 px-3 sm:py-2.5 sm:px-4 rounded-lg hover:bg-blue-50 transition-all duration-300 hover:scale-105 active:scale-95 shadow-xl hover:shadow-2xl text-sm sm:text-base"
           >
-            Register User
+            <UserPlus size={16} className="sm:w-5 sm:h-5" />
+            <span className="hidden sm:inline">Register</span>
           </Link>
-          
         </nav>
       </div>
     </header>

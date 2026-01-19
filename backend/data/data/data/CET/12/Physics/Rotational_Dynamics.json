@@ -99,9 +99,7 @@
         "chapter": "Rotational Dynamics",
         "question": "A string of length 'l' fixed at one end carries a mass 'm' at the other end. The string makes 3/π revolutions/second around the vertical axis through the fixed end as shown in figure. The tension 'T' in the string is [MHT-CET 2020]",
         "question_latex": "A string of length '$l$' fixed at one end carries a mass '$m$' at the other end. The string makes $\\frac{3}{\\pi}$ revolutions/second around the vertical axis through the fixed end as shown in figure. The tension '$T$' in the string is [MHT-CET 2020]",
-        "question_images": [
-            "q6_1"
-        ],
+        "question_images": [],
         "options": [
             "A. 36 ml",
             "B. 3 ml",
@@ -538,9 +536,7 @@
         "chapter": "Rotational Dynamics",
         "question": "A particle P is moving in a circle of radius with a uniform speed v. C is the centre of the circle and AB is the diameter. The angular velocity of P about A and C is in ratio",
         "question_latex": "A particle P is moving in a circle of radius with a uniform speed $v$. C is the centre of the circle and AB is the diameter. The angular velocity of P about A and C is in ratio",
-        "question_images": [
-            "q29_1"
-        ],
+        "question_images": [],
         "options": [
             "A. 1:1",
             "B. 1:2",
@@ -1110,9 +1106,7 @@
         "chapter": "Rotational Dynamics",
         "question": "In a two dimensional motion of a particle, the particle moves from point A, position vector r1. If the magnitudes of these vectors are respectively, r1 = 3 and r2 = 4 and the angles they make with the x-axis are theta1 = 75° and theta2 = 15°, respectively, then find the magnitude of the displacement vector",
         "question_latex": "In a two dimensional motion of a particle, the particle moves from point A to B. If the magnitudes of position vectors are $r_{1}=3$ and $r_{2}=4$ and the angles they make with the x-axis are $\\theta_{1}=75^{\\circ}$ and $\\theta_{2}=15^{\\circ}$, respectively, then find the magnitude of the displacement vector",
-        "question_images": [
-            "q59_1"
-        ],
+        "question_images": [],
         "options": [
             "A. 15",
             "B. sqrt(13)",
@@ -1378,9 +1372,7 @@
         "chapter": "Rotational Dynamics",
         "question": "A string of length 'l' fixed at one end, carries a mass 'm' at the other end. If the string makes 2/pi revolutions per second around the vertical axis through the fixed end, the tension in the string is [MHT-CET 2023]",
         "question_latex": "A string of length '$l$' fixed at one end, carries a mass '$m$' at the other end. If the string makes $\\frac{2}{\\pi}$ revolutions per second around the vertical axis through the fixed end, the tension in the string is [MHT-CET 2023]",
-        "question_images": [
-            "q73_1"
-        ],
+        "question_images": [],
         "options": [
             "A. 16 ml",
             "B. 8 ml",
@@ -1551,9 +1543,7 @@
         "chapter": "Rotational Dynamics",
         "question": "A string of length 'l' is fixed at one end and carries a mass' m' at the other end. The mass is revolving along a horizontal circle of radius 'r' making 'theta' as the semi-vertical angle of cone and (1/pi) revolutions per second around the vertical axis through fixed end. The tension in the string is [MHT-CET 2020]",
         "question_latex": "A string of length '$l$' is fixed at one end and carries a mass' $m$' at the other end. The mass is revolving along a horizontal circle of radius '$r$' making '$\\theta$' as the semi-vertical angle of cone and $(\\frac{1}{\\pi})$ revolutions per second around the vertical axis through fixed end. The tension in the string is [MHT-CET 2020]",
-        "question_images": [
-            "q82_1"
-        ],
+        "question_images": [],
         "options": [
             "A. 2 ml",
             "B. 8 ml",
@@ -1908,5 +1898,5 @@
         "solution_images": [],
         "difficulty": "Medium",
         "marks": 4
-    }   
+    }
 ]

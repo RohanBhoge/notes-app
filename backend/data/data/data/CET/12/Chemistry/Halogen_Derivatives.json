@@ -1,1949 +1,1883 @@
 [
-  {
-    "id": 1,
-    "chapter": "Halogen Derivatives",
-    "question": "How many asymmetric carbon atoms are present in neopentyl chloride? [MHT-CET 2020]",
-    "question_latex": "How many asymmetric carbon atoms are present in neopentyl chloride? [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. Zero",
-      "B. Three",
-      "C. Two",
-      "D. One"
-    ],
-    "option_images": [],
-    "answer": "A. Zero",
-    "solution": "Neopentyl chloride has the structure: $CH_3-C(CH_3)_2-CH_2-Cl$. The central carbon is bonded to three methyl groups, making it symmetrical. No carbon atom is bonded to four different groups. Therefore, asymmetric carbon atoms = Zero.",
-    "solution_images": [
-      "q1_solution_1"
-    ],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 2,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following reactions is a Wurtz-Fittig reaction? [2025, 2021]",
-    "question_latex": "Which of the following reactions is a Wurtz-Fittig reaction? [2025, 2021]",
-    "question_images": [],
-    "options": [
-      "A. $2C_6H_5Cl + 2Na \\xrightarrow[ether]{dry} (C_6H_5)_2 + 2NaCl$",
-      "B. $C_6H_5Cl + CH_3Cl + 2Na \\xrightarrow[ether]{dry} C_6H_5-CH_3 + 2NaCl$",
-      "C. $2C_2H_5Cl + 2Na \\xrightarrow[ether]{dry} C_4H_{10} + 2NaCl$",
-      "D. $C_2H_5Cl + CH_3Cl + 2Na \\xrightarrow[ether]{dry} C_3H_8 + 2NaCl$"
-    ],
-    "option_images": [],
-    "answer": "B. C6H5Cl + CH3Cl + 2Na \\xrightarrow[ether]{dry} C_6H_5-CH_3 + 2NaCl",
-    "solution": "The reaction of an aryl halide ($C_6H_5Cl$) with an alkyl halide ($CH_3Cl$) and sodium metal in dry ether to give substituted aromatic compounds is known as the Wurtz-Fittig reaction.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 3,
-    "chapter": "Halogen Derivatives",
-    "question": "The reaction conditions leading to the best yield of $C_2H_5Cl$ are:",
-    "question_latex": "The reaction conditions leading to the best yield of $C_2H_5Cl$ are:",
-    "question_images": [],
-    "options": [
-      "A. $C_2H_6$ (Excess) + $Cl_2$ UV light",
-      "B. $C_2H_6$ + $Cl_2$ (Excess) Dark",
-      "C. $C_2H_6$ + $Cl_2$ (Excess) Room temp",
-      "D. $C_2H_6$ + $Cl_2$ (Excess) UV light"
-    ],
-    "option_images": [],
-    "answer": "A. C2H6 (Excess) + Cl2 UV light",
-    "solution": "To obtain the best yield of a mono-chloroalkane like $C_2H_5Cl$, the alkane ($C_2H_6$) must be in excess to prevent further chlorination. The reaction requires UV light to proceed: $C_2H_6(Excess) + Cl_2 \\xrightarrow{UV light} C_2H_5Cl + HCl$.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 4,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following is NOT obtained when a mixture of chloromethane and chloroethane is treated with sodium metal in dry ether? [MHT-CET 2024]",
-    "question_latex": "Which of the following is NOT obtained when a mixture of chloromethane and chloroethane is treated with sodium metal in dry ether? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. Propane",
-      "B. Methane",
-      "C. Ethane",
-      "D. Butane"
-    ],
-    "option_images": [],
-    "answer": "B. Methane",
-    "solution": "When chloromethane ($CH_3Cl$) and chloroethane ($CH_3CH_2Cl$) react with sodium: \n1. $CH_3Cl + CH_3Cl \\rightarrow CH_3-CH_3$ (Ethane)\n2. $CH_3CH_2Cl + CH_3CH_2Cl \\rightarrow CH_3CH_2CH_2CH_3$ (Butane)\n3. $CH_3Cl + CH_3CH_2Cl \\rightarrow CH_3CH_2CH_3$ (Propane)\nMethane is NOT produced in this Wurtz reaction.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 5,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following compounds reacts with HBr to form 1-Bromo-1-methylcyclohexane? [MHT-CET 2023]",
-    "question_latex": "Which of the following compounds reacts with $HBr$ to form 1-Bromo-1-methylcyclohexane? [MHT-CET 2023]",
-    "question_images": [
-      "q5_1"
-    ],
-    "options": [
-      "A. Methylenecyclohexane",
-      "B. 1-Methylcyclohex-1-ene",
-      "C. Cyclohexene",
-      "D. None of the above"
-    ],
-    "option_images": [],
-    "answer": "A. Methylenecyclohexane",
-    "solution": "Methylenecyclohexane reacts with $HBr$ via Markovnikov's rule. The proton adds to the terminal $CH_2$ and the $Br^-$ adds to the tertiary ring carbon to form 1-Bromo-1-methylcyclohexane.",
-    "solution_images": [
-      "q5_solution_1"
-    ],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 6,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following is benzylic halide? [MHT-CET 2024]",
-    "question_latex": "Which among the following is benzylic halide? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. 4-Bromo toluene",
-      "B. 1-Bromo-2-phenylethane",
-      "C. Bromobenzene",
-      "D. Bromo phenyl methane"
-    ],
-    "option_images": [],
-    "answer": "D. Bromo phenyl methane",
-    "solution": "A benzylic halide is one where the halogen is bonded to a $sp^3$ carbon atom which is further bonded to an aromatic ring. Bromo phenyl methane ($C_6H_5CH_2Br$) fits this definition.",
-    "solution_images": [
-      "q6_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 7,
-    "chapter": "Halogen Derivatives",
-    "question": "What is the number of chiral carbon atoms present in 3,4-Dibromohexane? [2025]",
-    "question_latex": "What is the number of chiral carbon atoms present in 3,4-Dibromohexane? [2025]",
-    "question_images": [],
-    "options": [
-      "A. 5",
-      "B. 4",
-      "C. 3",
-      "D. 2"
-    ],
-    "option_images": [],
-    "answer": "D. 2",
-    "solution": "In 3,4-Dibromohexane ($CH_3-CH_2-CH(Br)-CH(Br)-CH_2-CH_3$), carbons 3 and 4 are chiral because each is bonded to four different groups: $-H$, $-Br$, $-CH_2CH_3$, and the rest of the chain.",
-    "solution_images": [
-      "q7_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 8,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify the product 'B' in the following reaction sequence: Alkyl halide $\\xrightarrow[Dry ether]{Mg} A \\xrightarrow{NH_3} B$ [2025, 2024]",
-    "question_latex": "Identify the product 'B' in the following reaction sequence: Alkyl halide $\\xrightarrow[Dry ether]{Mg} A \\xrightarrow{NH_3} B$ [2025, 2024]",
-    "question_images": [],
-    "options": [
-      "A. Alkyl nitrile",
-      "B. Alkyl amine",
-      "C. Hydrocarbon",
-      "D. Alkyl magnesium halide"
-    ],
-    "option_images": [],
-    "answer": "C. Hydrocarbon",
-    "solution": "Alkyl halide ($R-X$) reacts with $Mg$ in dry ether to form Grignard reagent ($R-MgX$, product 'A'). Grignard reagents react with compounds containing active hydrogen, like $NH_3$, to form hydrocarbons ($R-H$, product 'B'). $R-MgX + NH_3 \\rightarrow R-H + Mg(NH_2)X$.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 9,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following compounds is used in Swartz reaction? [MHT-CET 2022]",
-    "question_latex": "Which among the following compounds is used in Swartz reaction? [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. NaI",
-      "B. AgF",
-      "C. KCN",
-      "D. AgCN"
-    ],
-    "option_images": [],
-    "answer": "B. AgF",
-    "solution": "The Swartz reaction is used to prepare alkyl fluorides by reacting alkyl chlorides or bromides with metal fluorides like $AgF$, $Hg_2F_2$, $CoF_2$, or $SbF_3$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 10,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following is haloalkyne? [MHT-CET 2023]",
-    "question_latex": "Which among the following is haloalkyne? [MHT-CET 2023]",
-    "question_images": [],
-    "options": [
-      "A. $CH_3-CH_2-CH=CH-X$",
-      "B. $CH_3-C\\equiv C-CH_2-X$",
-      "C. $CH\\equiv C-CH_2-CH_2-X$",
-      "D. $CH_3-CH_2-C\\equiv C-X$"
-    ],
-    "option_images": [],
-    "answer": "D. CH3-CH2-C\\equiv C-X",
-    "solution": "In a haloalkyne, the halogen atom is bonded directly to an $sp$-hybridized carbon atom of a triple bond.",
-    "solution_images": [
-      "q10_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 11,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify allylic halide from following. [MHT-CET 2022]",
-    "question_latex": "Identify allylic halide from following. [MHT-CET 2022]",
-    "question_images": [],
-    "options": [
-      "A. $C_6H_5CH_2X$",
-      "B. $H_2C=CH-CH_2X$",
-      "C. $H_2C=CHX$",
-      "D. $C_6H_5X$"
-    ],
-    "option_images": [],
-    "answer": "B. H2C=CH-CH2X",
-    "solution": "An allylic halide is one where the halogen is bonded to an $sp^3$ carbon atom next to a carbon-carbon double bond.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 12,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following is NOT correct statement about $S_N1$ reaction? [MHT-CET 2021]",
-    "question_latex": "Which among the following is NOT correct statement about $S_N1$ reaction? [MHT-CET 2021]",
-    "question_images": [],
-    "options": [
-      "A. $S_N1$ reaction proceeds more rapidly in polar protic solvent.",
-      "B. $S_N1$ reaction proceeds via formation of carbocation intermediate.",
-      "C. A more powerful nucleophile favours $S_N1$ mechanism.",
-      "D. The rate of $S_N1$ mechanism is independent of the nature of nucleophile."
-    ],
-    "option_images": [],
-    "answer": "C. A more powerful nucleophile favours SN1 mechanism.",
-    "solution": "A more powerful nucleophile increases the rate of $S_N2$ reactions because the nucleophile is involved in the rate-determining step. In $S_N1$, the rate is independent of the nucleophile's strength or concentration.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 13,
-    "chapter": "Halogen Derivatives",
-    "question": "1-Chlorobutane on reaction with alcoholic potash gives:",
-    "question_latex": "1-Chlorobutane on reaction with alcoholic potash gives:",
-    "question_images": [],
-    "options": [
-      "A. 1-Butene",
-      "B. 1-Butanol",
-      "C. 2-Butene",
-      "D. 2-Butanol"
-    ],
-    "option_images": [],
-    "answer": "A. 1-Butene",
-    "solution": "1-Chlorobutane is a primary alkyl halide. It undergoes $E2$ elimination with alcoholic $KOH$ to form 1-Butene. No rearrangement takes place.",
-    "solution_images": [
-      "q13_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 14,
-    "chapter": "Halogen Derivatives",
-    "question": "Which from following compounds is used to prepare a refrigerant R-22? [MHT-CET 2024]",
-    "question_latex": "Which from following compounds is used to prepare a refrigerant R-22? [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. Dichloromethane",
-      "B. Tetrachloromethane",
-      "C. Trichloromethane",
-      "D. Monochloromethane"
-    ],
-    "option_images": [],
-    "answer": "C. Trichloromethane",
-    "solution": "Trichloromethane (chloroform) is used in the production of chlorodifluoromethane (R-22).",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 15,
-    "chapter": "Halogen Derivatives",
-    "question": "The decreasing nucleophilic order of the following compounds is: i. $F_3CSO_3^{\\ominus}$ ii. $Cl_3C-COO^{\\ominus}$ iii. $PhSO_3^{\\ominus}$ iv. $MeSO_3^{\\ominus}$",
-    "question_latex": "The decreasing nucleophilic order of the following compounds is: i. $F_3CSO_3^{\\ominus}$ ii. $Cl_3C-COO^{\\ominus}$ iii. $PhSO_3^{\\ominus}$ iv. $MeSO_3^{\\ominus}$",
-    "question_images": [],
-    "options": [
-      "A. (i) > (ii) > (iii) > (iv)",
-      "B. (iv) > (iii) > (ii) > (i)",
-      "C. (ii) > (iv) > (iii) > (i)",
-      "D. (iv) > (iii) > (i) > (ii)"
-    ],
-    "option_images": [],
-    "answer": "C. (ii) > (iv) > (iii) > (i)",
-    "solution": "Nucleophilicity follows the inverse of the stability of the anion. $F_3CSO_3^-$ is the most stable (weakest nucleophile) due to extreme electron withdrawal. $Cl_3CCOO^-$ is the strongest among these. Order: $Cl_3CCOO^- > MeSO_3^- > PhSO_3^- > F_3CSO_3^-$.",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 16,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify structural formula of DDT. [MHT-CET 2024]",
-    "question_latex": "Identify structural formula of DDT. [MHT-CET 2024]",
-    "question_images": [
-      "q16_1"
-    ],
-    "options": [
-      "A. Option A",
-      "B. Option D",
-      "C. Option B",
-      "D. Option C"
-    ],
-    "option_images": [],
-    "answer": "D. Option C",
-    "solution": "DDT (Dichlorodiphenyltrichloroethane) consists of two chlorophenyl groups attached to a trichloroethane chain.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 17,
-    "chapter": "Halogen Derivatives",
-    "question": "What is IUPAC name of the following compound? [MHT-CET 2024]",
-    "question_latex": "What is IUPAC name of the following compound? [MHT-CET 2024]",
-    "question_images": [
-      "q17_1"
-    ],
-    "options": [
-      "A. 3-Bromo-4-methylhex-3-ene",
-      "B. 3-Bromo-4-ethylbut-3-ene",
-      "C. 4-Bromo-4-ethyl-3-methylbut-3-ene",
-      "D. 4-Bromo-3-methylhex-3-ene"
-    ],
-    "option_images": [],
-    "answer": "A. 3-Bromo-4-methylhex-3-ene",
-    "solution": "Longest chain contains 6 carbons (hex-3-ene). Numbering gives bromine at C3 and methyl at C4.",
-    "solution_images": [
-      "q17_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 18,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify 'A' in the following reaction: A + Acetyl chloride $\\xrightarrow{anhydrous AlCl_3} $ 2-Chloroacetophenone + 4-Chloroacetophenone [2025]",
-    "question_latex": "Identify 'A' in the following reaction: A + Acetyl chloride $\\xrightarrow{anhydrous AlCl_3} $ 2-Chloroacetophenone + 4-Chloroacetophenone [2025]",
-    "question_images": [],
-    "options": [
-      "A. Phenol",
-      "B. Chlorobenzene",
-      "C. Toluene",
-      "D. Benzene"
-    ],
-    "option_images": [],
-    "answer": "B. Chlorobenzene",
-    "solution": "This is a Friedel-Crafts acylation. Chlorobenzene reacts with acetyl chloride in the presence of $AlCl_3$ to form ortho (2-) and para (4-) chloroacetophenone.",
-    "solution_images": [
-      "q18_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 19,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following deactivates the aromatic nucleus?",
-    "question_latex": "Which of the following deactivates the aromatic nucleus?",
-    "question_images": [],
-    "options": [
-      "A. $-CH_3$",
-      "B. -Br",
-      "C. $-NH_2$",
-      "D. $-NR_2$"
-    ],
-    "option_images": [],
-    "answer": "B. -Br",
-    "solution": "Halogens like -Br are deactivating due to their strong -I effect, even though they are ortho- and para-directing by the +R effect.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 20,
-    "chapter": "Halogen Derivatives",
-    "question": "Ethanolic KOH gives [MHT-CET 2010]:",
-    "question_latex": "Ethanolic $KOH$ gives [MHT-CET 2010]:",
-    "question_images": [],
-    "options": [
-      "A. dehalogenation reactions",
-      "B. dehydrogenation reactions",
-      "C. dehydrohalogenation reactions",
-      "D. substitution reactions"
-    ],
-    "option_images": [],
-    "answer": "C. dehydrohalogenation reactions",
-    "solution": "Ethanolic $KOH$ acts as a base and removes hydrogen and halogen atoms from a haloalkane, resulting in the formation of an alkene.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 21,
-    "chapter": "Halogen Derivatives",
-    "question": "1-Chlorobutane on reaction with alcoholic potash gives [MHT-CET 2006]:",
-    "question_latex": "1-Chlorobutane on reaction with alcoholic potash gives [MHT-CET 2006]:",
-    "question_images": [],
-    "options": [
-      "A. but-1-ene",
-      "B. butan-1-ol",
-      "C. but-2-ene",
-      "D. butan-2-ol"
-    ],
-    "option_images": [],
-    "answer": "A. but-1-ene",
-    "solution": "$CH_3-CH_2-CH_2-CH_2-Cl + alc. KOH \\rightarrow CH_3-CH_2-CH=CH_2 + KCl + H_2O$.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 22,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following reactions is an example of Wurtz-Fittig reaction? [MHT-CET 2020]",
-    "question_latex": "Which among the following reactions is an example of Wurtz-Fittig reaction? [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. Chlorobenzene reacts with acetyl chloride in presence of anhydrous $AlCl_3$.",
-      "B. Aniline reacts with $NaNO_2/HCl$ to form benzenediazonium chloride.",
-      "C. Chlorobenzene reacts with conc. $HNO_3$ and conc. $H_2SO_4$.",
-      "D. Bromobenzene reacts with methyl bromide in presence of sodium and dry ether."
-    ],
-    "option_images": [],
-    "answer": "D. Bromobenzene reacts with methyl bromide in presence of sodium and dry ether.",
-    "solution": "The reaction of an aryl halide (Bromobenzene) and an alkyl halide (Methyl bromide) with sodium metal in dry ether is a Wurtz-Fittig reaction.",
-    "solution_images": [
-      "q22_solution_1"
-    ],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 23,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify the product 'Z' in the following series of reactions: $Ethanol \\xrightarrow{\\Delta, SOCl_2} X \\xrightarrow[Dry ether]{Mg} Y \\xrightarrow{NH_3} Z + Mg$ [2025, 2024, 2023, 2021]",
-    "question_latex": "Identify the product 'Z' in the following series of reactions: $Ethanol \\xrightarrow{\\Delta, SOCl_2} X \\xrightarrow[Dry ether]{Mg} Y \\xrightarrow{NH_3} Z + Mg$ [2025, 2024, 2023, 2021]",
-    "question_images": [],
-    "options": [
-      "A. Ethane",
-      "B. Ethyl magnesium chloride",
-      "C. Ethyl chloride",
-      "D. Ethyl amine"
-    ],
-    "option_images": [],
-    "answer": "A. Ethane",
-    "solution": "Ethanol $\\xrightarrow{SOCl_2}$ Ethyl chloride (X). Ethyl chloride $\\xrightarrow{Mg, ether}$ Ethyl magnesium chloride (Y). Ethyl magnesium chloride $\\xrightarrow{NH_3}$ Ethane (Z).",
-    "solution_images": [
-      "q23_solution_1"
-    ],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 24,
-    "chapter": "Halogen Derivatives",
-    "question": "The number of optical isomers possible for 3,4-dichloropentan-2-ol is [MHT-CET 2020]",
-    "question_latex": "The number of optical isomers possible for 3,4-dichloropentan-2-ol is [MHT-CET 2020]",
-    "question_images": [],
-    "options": [
-      "A. Eight",
-      "B. Four",
-      "C. Sixteen",
-      "D. Two"
-    ],
-    "option_images": [],
-    "answer": "A. Eight",
-    "solution": "The structure $CH_3-CH(OH)-CH(Cl)-CH(Cl)-CH_3$ contains 3 chiral carbon atoms ($n=3$). The number of optical isomers is $2^n = 2^3 = 8$.",
-    "solution_images": [
-      "q24_solution_1"
-    ],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 25,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify the correct increasing order of boiling point of following compounds. [MHT-CET 2024]",
-    "question_latex": "Identify the correct increasing order of boiling point of following compounds. [MHT-CET 2024]",
-    "question_images": [],
-    "options": [
-      "A. $CH_2Br_2 < CHBr_3 < CH_3Br < CH_3Cl$",
-      "B. $CHBr_3 < CH_2Br_2 < CH_3Br < CH_3Cl$",
-      "C. $CH_3Cl < CH_3Br < CH_2Br_2 < CHBr_3$",
-      "D. $CH_3Br < CH_2Br_2 < CHBr_3 < CH_3Cl$"
-    ],
-    "option_images": [],
-    "answer": "C. CH3Cl < CH3Br < CH2Br2 < CHBr3",
-    "solution": "Boiling point increases with the increase in atomic mass of the halogen and the number of halogen atoms due to increased van der Waals forces.",
-    "solution_images": [],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 26,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify optically active substance from the following",
-    "question_latex": "$\\text{Identify optically active substance from the following}$",
-    "question_images": [],
-    "options": [
-      "A. $(CH_3)_2CHCH_2Cl$",
-      "B. $CH_3CH(Br)CH_2CH_3$",
-      "C. $CH_3CH_2CH_2Br$",
-      "D. $(CH_3)_3CBr$"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Due to presence of a chiral carbon atom, the compound is optically active.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 27,
-    "chapter": "Halogen Derivatives",
-    "question": "Reactivity of MeMgBr with the following in decreasing order is",
-    "question_latex": "$\\text{Reactivity of MeMgBr in decreasing order}$",
-    "question_images": ["q27_1"],
-    "options": [
-      "A. (i) > (ii) > (iii) > (iv)",
-      "B. (iv) > (iii) > (ii) > (i)",
-      "C. (ii) > (iii) > (i) > (iv)",
-      "D. (iii) > (ii) > (iv) > (i)"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Order of reactivity of Grignard reagent follows aldehyde > ketone > ester > aromatic aldehyde.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 28,
-    "chapter": "Halogen Derivatives",
-    "question": "What type of reaction alkyl halides undergo with alcoholic KOH?",
-    "question_latex": "$\\text{Reaction of alkyl halides with alcoholic KOH}$",
-    "question_images": [],
-    "options": [
-      "A. Dehydrogenation",
-      "B. Elimination",
-      "C. Addition",
-      "D. Substitution"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Alcoholic KOH favors elimination reaction forming alkenes.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 29,
-    "chapter": "Halogen Derivatives",
-    "question": "The correct order of reactivity for reaction involving cleavage of C–X bond is",
-    "question_latex": "$\\text{Correct order of reactivity for C–X bond cleavage}$",
-    "question_images": ["q29_1"],
-    "options": [
-      "A. II > III > I",
-      "B. I > II > III",
-      "C. III > II > I",
-      "D. II > I > III"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Greater number of electron withdrawing groups increases C–X bond cleavage.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 30,
-    "chapter": "Halogen Derivatives",
-    "question": "Choose the false statement from following",
-    "question_latex": "$\\text{Choose the false statement}$",
-    "question_images": [],
-    "options": [
-      "A. Good yield of alkyl halide is obtained by heating alcohol with NaI and 95% $H_3PO_4$",
-      "B. Tertiary alcohols react with HCl faster than primary alcohols",
-      "C. Primary alcohols react with Lucas reagent slowly",
-      "D. Order of reactivity of alcohols is $3^\\circ > 2^\\circ > 1^\\circ$"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Alkyl halides are not prepared using NaI and $H_3PO_4$.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 31,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify tertiary alkyl halide from the following",
-    "question_latex": "$\\text{Identify tertiary alkyl halide}$",
-    "question_images": ["q31_1"],
-    "options": [
-      "A. $(CH_3)_3CCH_2Br$",
-      "B. $CH_3CH_2CH_2CH_2Br$",
-      "C. $CH_3CH(CH_3)CH_2Br$",
-      "D. $(CH_3)_3CBr$"
-    ],
-    "option_images": [],
-    "answer": "D",
-    "solution": "Carbon attached to Br is bonded to three alkyl groups.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 32,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following alkanes is optically active?",
-    "question_latex": "$\\text{Optically active alkane}$",
-    "question_images": [],
-    "options": [
-      "A. 2-Methylbutane",
-      "B. 2-Methylpropane",
-      "C. 2,3-Dimethylpentane",
-      "D. 2,3-Dimethylbutane"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "Presence of chiral carbon makes it optically active.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 33,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following is NOT obtained when a mixture of iodoethane and 1-iodopropane is treated with sodium metal in dry ether?",
-    "question_latex": "$\\text{Product NOT obtained in Wurtz reaction}$",
-    "question_images": [],
-    "options": [
-      "A. Pentane",
-      "B. Butane",
-      "C. Hexane",
-      "D. Propane"
-    ],
-    "option_images": [],
-    "answer": "D",
-    "solution": "Propane cannot be formed in Wurtz reaction of these halides.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 34,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify the major product obtained in the reaction of chlorobenzene with chlorine in presence of anhydrous $FeCl_3$",
-    "question_latex": "$\\text{Major product of chlorobenzene chlorination}$",
-    "question_images": ["q34_1"],
-    "options": [
-      "A. 1,3-Dichlorobenzene",
-      "B. 1,2-Dichlorobenzene",
-      "C. 1,4-Dichlorobenzene",
-      "D. Benzyl chloride"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "Para product is major due to steric hindrance at ortho position.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 35,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify product B in the following reaction sequence",
-    "question_latex": "$\\text{Identify product B}$",
-    "question_images": ["q35_1"],
-    "options": [
-      "A. Ethyl magnesium bromide",
-      "B. Ethene",
-      "C. Sodium ethoxide",
-      "D. Ethyl bromide"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Reaction of alkyl halide with Mg in dry ether gives Grignard reagent.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 36,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following compounds converts alkyl halides into alkanes?",
-    "question_latex": "$\\text{Reagent converting alkyl halides into alkanes}$",
-    "question_images": [],
-    "options": [
-      "A. Silver cyanide",
-      "B. Silver nitrate",
-      "C. Potassium nitrite",
-      "D. Zinc dust"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Silver nitrate helps in formation of alkanes via reduction.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 37,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following is NOT an example of monohalogen compound?",
-    "question_latex": "$\\text{NOT a monohalogen compound}$",
-    "question_images": [],
-    "options": [
-      "A. 1,2-Dibromoethane",
-      "B. 2-Bromopropane",
-      "C. Chlorobenzene",
-      "D. 2-Bromopentane"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "1,2-Dibromoethane contains two halogen atoms.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 38,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following is an organometallic compound?",
-    "question_latex": "$\\text{Organometallic compound}$",
-    "question_images": [],
-    "options": [
-      "A. $CH_3COONa$",
-      "B. $CH_3MgBr$",
-      "C. $CH_3ONa$",
-      "D. $CH_3Br$"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Compound containing carbon–metal bond is organometallic.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 39,
-    "chapter": "Halogen Derivatives",
-    "question": "An alkyl halide having molecular formula $C_4H_9Br$ on reaction with Na metal in presence of ether gives 2,5-dimethylhexane. The alkyl halide is",
-    "question_latex": "$\\text{Identify alkyl halide from Wurtz reaction product}$",
-    "question_images": [],
-    "options": [
-      "A. sec-Butyl bromide",
-      "B. n-Butyl bromide",
-      "C. isobutyl bromide",
-      "D. tert-Butyl bromide"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Wurtz coupling of sec-butyl bromide gives 2,5-dimethylhexane.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 40,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following is NOT obtained when bromobenzene is treated with bromoethane and sodium in dry ether?",
-    "question_latex": "$\\text{Product NOT obtained in Wurtz–Fittig reaction}$",
-    "question_images": [],
-    "options": [
-      "A. Diphenyl",
-      "B. n-Butane",
-      "C. Toluene",
-      "D. Ethylbenzene"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "Toluene is not formed in Wurtz–Fittig reaction.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 41,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following compounds has highest boiling point?",
-    "question_latex": "$\\text{Compound with highest boiling point}$",
-    "question_images": [],
-    "options": [
-      "A. 1-Bromobutane",
-      "B. 2-Bromobutane",
-      "C. 1-Bromo-2-methylpropane",
-      "D. 2-Bromo-2-methylpropane"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Boiling point increases with decrease in branching.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 42,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following statements is true about enantiomers?",
-    "question_latex": "$\\text{True statement about enantiomers}$",
-    "question_images": [],
-    "options": [
-      "A. Identical chemical properties",
-      "B. Equal and opposite optical rotation",
-      "C. Superimposable mirror images",
-      "D. Different melting points"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Enantiomers rotate plane-polarized light equally and oppositely.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 43,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify product C obtained in the reaction",
-    "question_latex": "$\\text{Identify product C}$",
-    "question_images": ["q43_1"],
-    "options": [
-      "A. $CH_3COOCH_3$",
-      "B. $CH_3COOC_2H_5$",
-      "C. $CH_3COOCH_2CH_3$",
-      "D. $CH_3CH_2COOCH_3$"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "Ethyl ethanoate is formed.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 44,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following is an organometallic compound?",
-    "question_latex": "$\\text{Organometallic compound}$",
-    "question_images": [],
-    "options": [
-      "A. RCOONa",
-      "B. RONa",
-      "C. RCOOK",
-      "D. R–Mg–X"
-    ],
-    "option_images": [],
-    "answer": "D",
-    "solution": "Grignard reagents are organometallic compounds.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 45,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify the product A formed in the following reaction",
-    "question_latex": "$\\text{Identify product A}$",
-    "question_images": ["q45_1"],
-    "options": [
-      "A. 3-Bromo-2-methylbutane",
-      "B. 2-Bromo-3-methylbutane",
-      "C. 2,3-Dibromopentane",
-      "D. 2,3-Dibromo-2-methylbutane"
-    ],
-    "option_images": [],
-    "answer": "D",
-    "solution": "Addition of bromine across double bond gives vicinal dibromide.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 46,
-    "chapter": "Halogen Derivatives",
-    "question": "Which alkyl halide is treated with sodium metal to obtain 2,3,3-tetramethylbutane?",
-    "question_latex": "$\\text{Alkyl halide giving 2,3,3-tetramethylbutane}$",
-    "question_images": [],
-    "options": [
-      "A. n-Butyl bromide",
-      "B. n-Propyl bromide",
-      "C. sec-Butyl bromide",
-      "D. tert-Butyl bromide"
-    ],
-    "option_images": [],
-    "answer": "D",
-    "solution": "Wurtz reaction of tert-butyl bromide gives the product.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 47,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following compounds is obtained when methyl magnesium bromide reacts with ammonia?",
-    "question_latex": "$\\text{Product of MeMgBr with NH}_3$",
-    "question_images": [],
-    "options": [
-      "A. Methane",
-      "B. Methyl bromide",
-      "C. Dimethyl amine",
-      "D. Ethane"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "$CH_3MgBr + NH_3 \\rightarrow CH_4 + MgBrNH_2$.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 48,
-    "chapter": "Halogen Derivatives",
-    "question": "The decreasing basic order of the following is",
-    "question_latex": "$\\text{Decreasing basic order}$",
-    "question_images": [],
-    "options": [
-      "A. $PhSO_3H > Cl_3CCOOH > C_6H_5COOH > H_2O$",
-      "B. $H_2O > C_6H_5COOH > Cl_3CCOOH > PhSO_3H$",
-      "C. $Cl_3CCOOH > PhSO_3H > C_6H_5COOH > H_2O$",
-      "D. $C_6H_5COOH > Cl_3CCOOH > PhSO_3H > H_2O$"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Basicity decreases with increasing acidity.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 49,
-    "chapter": "Halogen Derivatives",
-    "question": "What is the IUPAC name of the following compound?",
-    "question_latex": "$\\text{IUPAC name of given compound}$",
-    "question_images": ["q49_1"],
-    "options": [
-      "A. 4-Bromo-4-methylpent-2-ene",
-      "B. 3-Bromo-1,1-dimethylbut-2-ene",
-      "C. 2-Bromo-2-methylpent-3-ene",
-      "D. 4-Bromo-4-methylpent-3-ene"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Longest chain and lowest locant rule applied.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 50,
-    "chapter": "Halogen Derivatives",
-    "question": "The decreasing basic order of the following is",
-    "question_latex": "$\\text{Decreasing basic order}$",
-    "question_images": [],
-    "options": [
-      "A. $PhSO_3H > Cl_3CCOOH > C_6H_5COOH > CN^-$",
-      "B. $CN^- > C_6H_5COOH > Cl_3CCOOH > PhSO_3H$",
-      "C. $C_6H_5COOH > Cl_3CCOOH > PhSO_3H > CN^-$",
-      "D. $CN^- > PhSO_3H > Cl_3CCOOH > C_6H_5COOH$"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Stronger conjugate base corresponds to weaker acid.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 51,
-    "chapter": "Halogen Derivatives",
-    "question": "Ethylmercaptan is prepared by the reaction of the following followed by hydrolysis",
-    "question_latex": "$\\text{Ethyl mercaptan preparation reaction}$",
-    "question_images": [],
-    "options": [
-      "A. $C_2H_5MgBr + SO_2$",
-      "B. $C_2H_5MgBr + CS_2$",
-      "C. $C_2H_5MgBr + S_2$",
-      "D. $C_2H_5MgBr + H_2S$"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "$C_2H_5MgBr$ reacts with $CS_2$ followed by hydrolysis to give ethyl mercaptan.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 52,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following is obtained as main product when isopropyl bromide is treated with metallic sodium in dry ether?",
-    "question_latex": "$\\text{Main product of Wurtz reaction}$",
-    "question_images": [],
-    "options": [
-      "A. Isobutane",
-      "B. 2,3-Dimethylhexane",
-      "C. 2,3-Dimethylbutane",
-      "D. n-Butane"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "Wurtz coupling of isopropyl bromide gives 2,3-dimethylbutane.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 53,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following methods is NOT suitable for preparation of alkyl chlorides?",
-    "question_latex": "$\\text{Method not suitable for alkyl chloride preparation}$",
-    "question_images": [],
-    "options": [
-      "A. Addition of HCl to alkene",
-      "B. Treating alcohols with Lewis reagent",
-      "C. Chlorination of alkanes in presence of sunlight",
-      "D. Heating alcohols with thionyl chloride"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "Chlorination of alkanes gives a mixture of products and is not suitable.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 54,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following is Neopentyl chloride?",
-    "question_latex": "$\\text{Identify neopentyl chloride}$",
-    "question_images": [],
-    "options": [
-      "A. 2-Chloro-3-methylbutane",
-      "B. 1-Chloro-2,2-dimethylpropane",
-      "C. 1-Chloro-2,2-dimethylpentane",
-      "D. 2-Chloro-2-methylpropane"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Neopentyl chloride is 1-chloro-2,2-dimethylpropane.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 55,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following is an example of vinylic halide?",
-    "question_latex": "$\\text{Example of vinylic halide}$",
-    "question_images": [],
-    "options": [
-      "A. $CH_3CH_2Cl$",
-      "B. $CH_2=CHCl$",
-      "C. $C_6H_5CH_2Cl$",
-      "D. $CH_2=CHCH_2Cl$"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "In vinylic halides, halogen is bonded to an $sp^2$ hybridized carbon.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 56,
-    "chapter": "Halogen Derivatives",
-    "question": "The product formed when chlorobenzene is treated with NaOH at high temperature and pressure is",
-    "question_latex": "$\\text{Product of Dow's process}$",
-    "question_images": [],
-    "options": [
-      "A. Benzyl alcohol",
-      "B. Sodium phenate",
-      "C. Phenol",
-      "D. Benzene"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Dow's process gives sodium phenate which on acidification gives phenol.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 57,
-    "chapter": "Halogen Derivatives",
-    "question": "By which mechanism does the given reaction proceed?",
-    "question_latex": "$\\text{Reaction mechanism identification}$",
-    "question_images": [],
-    "options": [
-      "A. $E1$",
-      "B. $E2$",
-      "C. $S_N1$",
-      "D. Elimination"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Strong base with alkyl halide proceeds via $E2$ elimination.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 58,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify Swarts reaction from the following",
-    "question_latex": "$\\text{Swarts reaction identification}$",
-    "question_images": [],
-    "options": [
-      "A. $RCl + AgF \\rightarrow RF$",
-      "B. $RCl + NaI$",
-      "C. $RX + Na$",
-      "D. $RX + KOH$"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Swarts reaction converts alkyl chlorides to fluorides using metallic fluorides.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 59,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify the reagent used in the conversion: Ethyl bromide to Ethyl propanoate",
-    "question_latex": "$\\text{Reagent identification}$",
-    "question_images": [],
-    "options": [
-      "A. Sodium propoxide",
-      "B. Silver ethanoate",
-      "C. Silver propanoate",
-      "D. Ethoxy propane"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "Silver propanoate reacts with ethyl bromide to give ethyl propanoate.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 60,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following has highest boiling point?",
-    "question_latex": "$\\text{Highest boiling point among halides}$",
-    "question_images": [],
-    "options": [
-      "A. Fluoromethane",
-      "B. Bromomethane",
-      "C. Chloromethane",
-      "D. Iodomethane"
-    ],
-    "option_images": [],
-    "answer": "D",
-    "solution": "Boiling point increases with increase in atomic mass of halogen.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 61,
-    "chapter": "Halogen Derivatives",
-    "question": "Decreasing nucleophilic order of the following is",
-    "question_latex": "$\\text{Nucleophilic order}$",
-    "question_images": [],
-    "options": [
-      "A. $Me_2N^- > MeNH^- > NH_2^-$",
-      "B. $NH_2^- > MeNH^- > Me_2N^-$",
-      "C. $MeNH^- > NH_2^- > Me_2N^-$",
-      "D. $NH_2^- > Me_2N^- > MeNH^-$"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Electron-donating alkyl groups increase nucleophilicity.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 62,
-    "chapter": "Halogen Derivatives",
-    "question": "How many chiral carbon atoms are present in 2-chloro-3,4,5-trimethylhexane?",
-    "question_latex": "$\\text{Number of chiral carbons}$",
-    "question_images": [],
-    "options": [
-      "A. 3",
-      "B. 2",
-      "C. 4",
-      "D. 1"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "There are three asymmetric carbon atoms in the given compound.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 63,
-    "chapter": "Halogen Derivatives",
-    "question": "The organic compound shown belongs to",
-    "question_latex": "$\\text{Classification of halide}$",
-    "question_images": [],
-    "options": [
-      "A. Benzylic halide",
-      "B. Vinylic halide",
-      "C. Aryl halide",
-      "D. Allylic halide"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "Halogen attached directly to aromatic ring forms aryl halide.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 64,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following is benzylic halide?",
-    "question_latex": "$\\text{Identify benzylic halide}$",
-    "question_images": [],
-    "options": [
-      "A. $C_6H_5CH_2X$",
-      "B. $C_6H_5X$",
-      "C. $CH_2=CHX$",
-      "D. $CH_3CH_2X$"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Benzylic halides have halogen attached to carbon next to benzene ring.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 65,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following is NOT a feature of SN2 mechanism?",
-    "question_latex": "$\\text{NOT a feature of } S_N2$",
-    "question_images": [],
-    "options": [
-      "A. Inversion of configuration",
-      "B. Backside attack",
-      "C. Carbocation intermediate",
-      "D. Single step reaction"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "$S_N2$ reactions do not involve carbocation intermediate.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 66,
-    "chapter": "Halogen Derivatives",
-    "question": "What is molecular formula of 3-bromopropene?",
-    "question_latex": "$\\text{Molecular formula}$",
-    "question_images": [],
-    "options": [
-      "A. $C_3H_5Br$",
-      "B. $C_3H_7Br$",
-      "C. $C_3H_6Br$",
-      "D. $C_3H_4Br$"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "3-Bromopropene has formula $C_3H_5Br$.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 67,
-    "chapter": "Halogen Derivatives",
-    "question": "Ethyl ester reacts with $PrMgBr$ to give 2° alcohol. The alcohol must contain",
-    "question_latex": "$\\text{Grignard reaction with ester}$",
-    "question_images": [],
-    "options": [
-      "A. Two methyl groups",
-      "B. Two ethyl groups",
-      "C. Two propyl groups",
-      "D. One propyl and one ethyl group"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "Ester reacts with two moles of Grignard reagent to give 2° alcohol.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 68,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify the major product formed in the following reaction",
-    "question_latex": "$\\text{Major product identification}$",
-    "question_images": [],
-    "options": [
-      "A. o-Dichlorobenzene",
-      "B. m-Dichlorobenzene",
-      "C. p-Dichlorobenzene",
-      "D. Chlorobenzene"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "Para product is major due to steric hindrance in ortho position.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 69,
-    "chapter": "Halogen Derivatives",
-    "question": "Gammaxene is the name given to",
-    "question_latex": "$\\text{Gammaxene identification}$",
-    "question_images": [],
-    "options": [
-      "A. $C_6H_6Cl_6$",
-      "B. $C_6H_5Cl_6$",
-      "C. $C_6H_4Cl_6$",
-      "D. Diphenyltrichloroethane"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Gammaxene is hexachlorocyclohexane.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 70,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following is allylic halide?",
-    "question_latex": "$\\text{Allylic halide identification}$",
-    "question_images": [],
-    "options": [
-      "A. 3-Bromopropene",
-      "B. 4-Bromobut-1-ene",
-      "C. 2-Bromopropene",
-      "D. 1-Bromopropene"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Halogen attached to carbon next to double bond is allylic.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 71,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following pair gives butanenitrile on heating?",
-    "question_latex": "$\\text{Nitrile formation}$",
-    "question_images": [],
-    "options": [
-      "A. Propanol and alcoholic KCN",
-      "B. n-Butyl chloride and alcoholic KCN",
-      "C. Butanol and alcoholic KCN",
-      "D. n-Propyl chloride and alcoholic KCN"
-    ],
-    "option_images": [],
-    "answer": "D",
-    "solution": "Alkyl halide with alcoholic KCN gives nitrile with one extra carbon.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 72,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify the product obtained when alkyl halide is treated with silver nitrite",
-    "question_latex": "$\\text{Product with silver nitrite}$",
-    "question_images": [],
-    "options": [
-      "A. Nitroalkane",
-      "B. Alcohol",
-      "C. Primary amine",
-      "D. Alkyl nitrite"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Silver nitrite forms nitroalkane due to N-attack.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 73,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify product X obtained in the following reaction",
-    "question_latex": "$\\text{Product identification}$",
-    "question_images": [],
-    "options": [
-      "A. $CH_3COOCH_3$",
-      "B. $CH_3CH_2COOCH_3$",
-      "C. $CH_3CH_2COOCH_2CH_3$",
-      "D. $CH_3COOCH_2CH_3$"
-    ],
-    "option_images": [],
-    "answer": "D",
-    "solution": "Reaction of alkyl halide with silver acetate gives ester.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 74,
-    "chapter": "Halogen Derivatives",
-    "question": "What product is obtained when alkyl halides react with metallic sodium in presence of dry ether?",
-    "question_latex": "$\\text{Wurtz reaction product}$",
-    "question_images": [],
-    "options": [
-      "A. Alkynes",
-      "B. Alkanes",
-      "C. Alkenes",
-      "D. Alcohols"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Wurtz reaction forms alkanes.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 75,
-    "chapter": "Halogen Derivatives",
-    "question": "In order to prepare fluorobenzene from benzene diazonium chloride, which reagent is used?",
-    "question_latex": "$\\text{Fluorobenzene preparation}$",
-    "question_images": [],
-    "options": [
-      "A. $AgF$",
-      "B. $HF$",
-      "C. $HBF_4$",
-      "D. $CuF$"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "Balz–Schiemann reaction uses $HBF_4$.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 76,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following is NOT a feature of SN1 mechanism?",
-    "question_latex": "$\\text{NOT a feature of } S_N1 \\text{ mechanism}$",
-    "question_images": [],
-    "options": [
-      "A. Backside attack of nucleophile",
-      "B. Single step mechanism",
-      "C. Formation of planar carbocation intermediate",
-      "D. Involves simultaneous bond breaking and bond forming"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "The $S_N1$ mechanism proceeds via formation of a planar carbocation intermediate.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 77,
-    "chapter": "Halogen Derivatives",
-    "question": "In the reaction mentioned below, X will be",
-    "question_latex": "$\\text{In the reaction, X will be}$",
-    "question_images": ["q77_1"],
-    "options": [
-      "A. Only one product",
-      "B. Only second product",
-      "C. Both first and second products",
-      "D. No reaction"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "Both products are formed due to carbocation rearrangement.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 78,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify the product 'B' in the following reaction sequence",
-    "question_latex": "$\\text{Identify product B}$",
-    "question_images": ["q78_1"],
-    "options": [
-      "A. Alkyl magnesium halide",
-      "B. Hydrocarbon",
-      "C. Alkyl amine",
-      "D. Alkyl nitrile"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "Alkyl halide reacts with Mg to form Grignard reagent which on reaction with $NH_3$ gives hydrocarbon.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 79,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify the IUPAC name of the following compound",
-    "question_latex": "$\\text{IUPAC name of given compound}$",
-    "question_images": ["q79_1"],
-    "options": [
-      "A. 4-Bromo-4-dimethylpent-2-ene",
-      "B. 2-Bromo-2-methylpent-3-ene",
-      "C. 1-Bromo-1,1-dimethylbut-2-ene",
-      "D. 4-Bromo-4-methylpent-2-ene"
-    ],
-    "option_images": [],
-    "answer": "D",
-    "solution": "Longest chain and lowest locant rule applied correctly.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 80,
-    "chapter": "Halogen Derivatives",
-    "question": "The product formed by the reaction between 2,2,2-trichloroethanol and chlorobenzene in presence of $H_2SO_4$ is",
-    "question_latex": "$\\text{Product of reaction}$",
-    "question_images": [],
-    "options": [
-      "A. Chlorotoluene",
-      "B. DDT",
-      "C. Chlorobenzaldehyde",
-      "D. Benzene sulphonic acid"
-    ],
-    "option_images": [],
-    "answer": "B",
-    "solution": "DDT is formed by condensation in presence of concentrated $H_2SO_4$.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 81,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify the reagent 'A' used in the following reaction",
-    "question_latex": "$\\text{Identify reagent A}$",
-    "question_images": ["q81_1"],
-    "options": [
-      "A. Sodium propoxide",
-      "B. Silver ethanoate",
-      "C. Silver propanoate",
-      "D. Ethoxy propane"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "Silver propanoate reacts with ethyl bromide to give ester.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 82,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify major product formed in the following reaction",
-    "question_latex": "$\\text{Major product formed}$",
-    "question_images": ["q82_1"],
-    "options": [
-      "A. 2-Methylpent-2-ene",
-      "B. 4-Methylpent-3-ene",
-      "C. 4-Methylpentan-3-ol",
-      "D. 2-Methylpentan-3-ol"
-    ],
-    "option_images": [],
-    "answer": "A",
-    "solution": "Elimination reaction follows Saytzeff rule.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 83,
-    "chapter": "Halogen Derivatives",
-    "question": "How many chlorine atoms are present in a molecule of DDT?",
-    "question_latex": "$\\text{Number of chlorine atoms in DDT}$",
-    "question_images": ["q83_1"],
-    "options": [
-      "A. 3",
-      "B. 4",
-      "C. 5",
-      "D. 6"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "DDT contains five chlorine atoms.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 84,
-    "chapter": "Halogen Derivatives",
-    "question": "What is the molar mass of product formed when 2 moles of methyl bromide react with large excess of sodium in dry ether?",
-    "question_latex": "$\\text{Molar mass of product formed}$",
-    "question_images": [],
-    "options": [
-      "A. 15.0 g mol$^{-1}$",
-      "B. 30.0 g mol$^{-1}$",
-      "C. 40.0 g mol$^{-1}$",
-      "D. 60.0 g mol$^{-1}$"
-    ],
-    "option_images": [],
-    "answer": "C",
-    "solution": "Ethane is formed with molar mass $30 \\times 2 = 60$ g mol$^{-1}$.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 85,
-    "chapter": "Halogen Derivatives",
-    "question": "What is the IUPAC name of the following compound?",
-    "question_latex": "",
-    "question_images": ["q85_1"],
-    "options": [
-      "A. 2-Bromo-3-methylpent-3-ene",
-      "B. 1-Bromo-1,2-dimethylbut-2-ene",
-      "C. 4-Bromo-3,4-dimethylbut-2-ene",
-      "D. 4-Bromo-3-methylpent-2-ene"
-    ],
-    "option_images": [],
-    "answer": "D. 4-Bromo-3-methylpent-2-ene",
-    "solution": "Number the longest chain containing the double bond to give it the lowest locant. The double bond is at position 2. Substituents are bromo at position 4 and methyl at position 3, hence the IUPAC name is $4$-Bromo-$3$-methylpent-$2$-ene.",
-    "solution_images": ["q85_solution_1"],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 86,
-    "chapter": "Halogen Derivatives",
-    "question": "The number of possible monohalogen derivatives for the alkyl halide having molecular formula C4H9X is:",
-    "question_latex": "$C_4H_9X$",
-    "question_images": [],
-    "options": [
-      "A. 3",
-      "B. 4",
-      "C. 1",
-      "D. 2"
-    ],
-    "option_images": [],
-    "answer": "B. 4",
-    "solution": "Four monohalogen derivatives are possible due to different carbon environments: $n$-butyl halide, sec-butyl halide, isobutyl halide, and tert-butyl halide.",
-    "solution_images": ["q86_solution_1"],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 87,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following compounds converts alkyl halide into alkyl isocyanide?",
-    "question_latex": "",
-    "question_images": [],
-    "options": [
-      "A. alc. HCN",
-      "B. alc. NH3",
-      "C. alc. KCN",
-      "D. alc. AgCN"
-    ],
-    "option_images": [],
-    "answer": "D. alc. AgCN",
-    "solution": "Alcoholic silver cyanide reacts with alkyl halide to form alkyl isocyanide via nitrogen attack: $R-X \\xrightarrow{alc.\\ AgCN} R-N\\equiv C + AgX$.",
-    "solution_images": ["q87_solution_1"],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 88,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following reagents is used for conversion of alkyl halide into alkyl nitrite?",
-    "question_latex": "",
-    "question_images": [],
-    "options": [
-      "A. $K^+O^-N=O$",
-      "B. $Ag-O-N=O$",
-      "C. $Ag-C\\equiv N$ (alc.)",
-      "D. $K-C\\equiv N$ (alc.)"
-    ],
-    "option_images": [],
-    "answer": "A. $K^+O^-N=O$",
-    "solution": "Potassium nitrite reacts through oxygen to form alkyl nitrite: $R-X + KONO \\rightarrow R-ONO + KX$.",
-    "solution_images": ["q88_solution_1"],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 89,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following is a correct feature of $S_N2$ mechanism?",
-    "question_latex": "$S_N2$",
-    "question_images": [],
-    "options": [
-      "A. Nucleophile can attack from either side",
-      "B. It is two step mechanism",
-      "C. Heterolysis of C–X bond forms planar carbocation intermediate",
-      "D. The transition state contains penta-coordinated carbon"
-    ],
-    "option_images": [],
-    "answer": "D. The transition state contains penta-coordinated carbon",
-    "solution": "$S_N2$ is a single-step mechanism involving simultaneous bond breaking and bond formation with backside attack, forming a pentacoordinate transition state.",
-    "solution_images": ["q89_solution_1"],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 90,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify the product 'B' in the following reaction sequence.",
-    "question_latex": "",
-    "question_images": ["q90_1"],
-    "options": [
-      "A. Cyclohexane",
-      "B. Methylcyclohexane",
-      "C. Methoxycyclohexane",
-      "D. Cyclohexyl magnesium chloride"
-    ],
-    "option_images": [
-      "q90optionA1",
-      "q90optionB1",
-      "q90optionC1",
-      "q90optionD1"
-    ],
-    "answer": "A. Cyclohexane",
-    "solution": "Cyclohexyl chloride reacts with Mg in dry ether to form cyclohexyl magnesium chloride. On treatment with methanol, the Grignard reagent is protonated to give cyclohexane.",
-    "solution_images": ["q90_solution_1"],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 91,
-    "chapter": "Halogen Derivatives",
-    "question": "IUPAC name of the compound CH3–CH=CH–CH2–Cl is:",
-    "question_latex": "$CH_3-CH=CH-CH_2-Cl$",
-    "question_images": [],
-    "options": [
-      "A. 4-Chlorobut-2-ene",
-      "B. Chlorobutene",
-      "C. 1-Chlorobut-2-ene",
-      "D. 1-Chlorobut-1-ene"
-    ],
-    "option_images": [],
-    "answer": "C. 1-Chlorobut-2-ene",
-    "solution": "The parent chain is butene. Numbering is done to give the double bond the lowest possible locant, placing it at position 2, and chlorine at position 1.",
-    "solution_images": ["q91_solution_1"],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 93,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify secondary alkyl halide from the following.",
-    "question_latex": "",
-    "question_images": [],
-    "options": [
-      "A. $(CH_3)_3C-CH_2-Br$",
-      "B. $(CH_3)_2CH-CH_2-Br$",
-      "C. $CH_3-CH(Br)-CH_2-CH_3$",
-      "D. $CH_3-CH_2-CH_2-CH_2-Br$"
-    ],
-    "option_images": [],
-    "answer": "C. $CH_3-CH(Br)-CH_2-CH_3$",
-    "solution": "In option (C), the carbon atom bonded to bromine is attached to two other carbon atoms, making it a secondary alkyl halide.",
-    "solution_images": ["q93_solution_1"],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-  {
-    "id": 94,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following is likely to undergo racemization during alkaline hydrolysis by $S_N1$ mechanism?",
-    "question_latex": "$S_N1$",
-    "question_images": [],
-    "options": [
-      "A.",
-      "B. $(CH_3)_3C-CH_2-Cl$",
-      "C. $CH_3CH_2CH^*(Cl)CH_3$",
-      "D. $CH_3CH(Cl)CH_3$"
-    ],
-    "option_images": ["q94optionA1","q94optionB1","q94optionC1","q94optionD1"],
-    "answer": "C. $CH_3CH_2CH^*(Cl)CH_3$",
-    "solution": "During $S_N1$ reaction, a planar carbocation intermediate is formed at the chiral carbon, leading to racemization. Hence, option (C) undergoes racemization.",
-    "solution_images": ["q94_solution_1"],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 95,
-    "chapter": "Halogen Derivatives",
-    "question": "Which of the following compounds forms 1-bromo-1-methylcyclohexane when treated with HBr?",
-    "question_latex": "",
-    "question_images": ["q95_1"],
-    "options": [
-      "A.",
-      "B.",
-      "C.",
-      "D."
-    ],
-    "option_images": [
-      "q95optionA1",
-      "q95optionB1",
-      "q95optionC1",
-      "q95optionD1"
-    ],
-    "answer": "C.",
-    "solution": "The reaction follows Markownikoff's rule. Protonation leads to formation of the more stable tertiary carbocation, which upon reaction with $Br^-$ gives $1$-bromo-$1$-methylcyclohexane.",
-    "solution_images": ["q95_solution_1"],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 96,
-    "chapter": "Halogen Derivatives",
-    "question": "The decreasing basic order of the following is: i. F3CSO3−  ii. CCl3COO−  iii. PhSO3−  iv. MeSO3−",
-    "question_latex": "$i.\\ F_3CSO_3^- \\quad ii.\\ CCl_3COO^- \\quad iii.\\ PhSO_3^- \\quad iv.\\ MeSO_3^-$",
-    "question_images": [],
-    "options": [
-      "A. i > ii > iii > iv",
-      "B. iv > iii > ii > i",
-      "C. ii > iv > iii > i",
-      "D. iv > ii > i > iii"
-    ],
-    "option_images": [],
-    "answer": "C. ii > iv > iii > i",
-    "solution": "Stronger the acid, weaker is its conjugate base. Sulphonic acids are stronger than carboxylic acids, aromatic sulphonic acids are stronger than aliphatic sulphonic acids, and electron withdrawing groups increase acidity. Hence basicity order is $CCl_3COO^- > MeSO_3^- > PhSO_3^- > F_3CSO_3^-.$",
-    "solution_images": [],
-    "difficulty": "Hard",
-    "marks": 4
-  },
-  {
-    "id": 97,
-    "chapter": "Halogen Derivatives",
-    "question": "Ph–CH(OH)CH3 having specific rotation +50° reacts with SOCl2. By which of the following mechanisms does the reaction proceed?",
-    "question_latex": "$Ph-CH(OH)CH_3 \\xrightarrow{SOCl_2} Ph-CH(Cl)CH_3$",
-    "question_images": [],
-    "options": [
-      "A. SN1",
-      "B. SN2",
-      "C. SNi",
-      "D. E2"
-    ],
-    "option_images": [],
-    "answer": "C. SNi",
-    "solution": "Reaction of alcohol with $SOCl_2$ proceeds via SNi mechanism with retention of configuration, explaining the unchanged optical activity.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 98,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following reactions does not correctly match with its name?",
-    "question_latex": "",
-    "question_images": [],
-    "options": [
-      "A. $C_6H_5Br + 2Na + C_2H_5Br \\xrightarrow{dry\\ ether}$ Wurtz–Fittig reaction",
-      "B. $CH_3Br + AgF$ → Etard reaction",
-      "C. $2C_6H_5Br + 2Na \\xrightarrow{dry\\ ether}$ Fittig reaction",
-      "D. $2C_2H_5Br + 2Na \\xrightarrow{dry\\ ether}$ Wurtz reaction"
-    ],
-    "option_images": [],
-    "answer": "C. $2C_6H_5Br + 2Na \\xrightarrow{dry\\ ether}$ Fittig reaction",
-    "solution": "$CH_3Br + AgF$ represents Swarts reaction. Hence option (C) is incorrectly matched.",
-    "solution_images": [],
-    "difficulty": "Medium",
-    "marks": 4
-  },
-  {
-    "id": 99,
-    "chapter": "Halogen Derivatives",
-    "question": "Which among the following statements is correct regarding alkyl halides?",
-    "question_latex": "",
-    "question_images": [],
-    "options": [
-      "A. Thionyl chloride is unable to convert alcohols into alkyl chlorides",
-      "B. Alkyl halides are also called haloarenes",
-      "C. C–X bond strength increases with increase in size of halogen",
-      "D. Addition of HX to unsymmetrical alkenes in presence of peroxide is called peroxide effect"
-    ],
-    "option_images": [],
-    "answer": "D. Addition of HX to unsymmetrical alkenes in presence of peroxide is called peroxide effect",
-    "solution": "C–X bond strength decreases with increase in size of halogen, alkyl halides are haloalkanes, and $SOCl_2$ converts alcohols to alkyl chlorides. Hence option (D) is correct.",
-    "solution_images": ["q99_solution_1"],
-    "difficulty": "Easy",
-    "marks": 4
-  },
-   {
-    "id": 100,
-    "chapter": "Halogen Derivatives",
-    "question": "Identify the product of the following reaction $CH_3Br + C_2H_5COOAg \\xrightarrow{\\Delta}$",
-    "question_latex": "$CH_3Br + C_2H_5COOAg \\xrightarrow{\\Delta} \\ ?$",
-    "question_images": [],
-    "options": [
-      "A. Ethyl ethanoate",
-      "B. Ethyl propionate",
-      "C. Methyl propionate",
-      "D. Methyl ethanoate"
-    ],
-    "option_images": [],
-    "answer": "C. Methyl propionate",
-    "solution": "Silver salt of carboxylic acid reacts with alkyl halide to form ester. Thus $CH_3Br + C_2H_5COOAg \\rightarrow C_2H_5COOCH_3 + AgBr$, giving methyl propionate.",
-    "solution_images": ["q100_solution_1"],
-    "difficulty": "Easy",
-    "marks": 4
-  }
+    {
+        "id": 1,
+        "chapter": "Halogen Derivatives",
+        "question": "How many asymmetric carbon atoms are present in neopentyl chloride? [MHT-CET 2020]",
+        "question_latex": "How many asymmetric carbon atoms are present in neopentyl chloride? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Zero",
+            "B. Three",
+            "C. Two",
+            "D. One"
+        ],
+        "option_images": [],
+        "answer": "A. Zero",
+        "solution": "Neopentyl chloride has the structure: $CH_3-C(CH_3)_2-CH_2-Cl$. The central carbon is bonded to three methyl groups, making it symmetrical. No carbon atom is bonded to four different groups. Therefore, asymmetric carbon atoms = Zero.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following reactions is a Wurtz-Fittig reaction? [2025, 2021]",
+        "question_latex": "Which of the following reactions is a Wurtz-Fittig reaction? [2025, 2021]",
+        "question_images": [],
+        "options": [
+            "A. $2C_6H_5Cl + 2Na \\xrightarrow[ether]{dry} (C_6H_5)_2 + 2NaCl$",
+            "B. $C_6H_5Cl + CH_3Cl + 2Na \\xrightarrow[ether]{dry} C_6H_5-CH_3 + 2NaCl$",
+            "C. $2C_2H_5Cl + 2Na \\xrightarrow[ether]{dry} C_4H_{10} + 2NaCl$",
+            "D. $C_2H_5Cl + CH_3Cl + 2Na \\xrightarrow[ether]{dry} C_3H_8 + 2NaCl$"
+        ],
+        "option_images": [],
+        "answer": "B. C6H5Cl + CH3Cl + 2Na \\xrightarrow[ether]{dry} C_6H_5-CH_3 + 2NaCl",
+        "solution": "The reaction of an aryl halide ($C_6H_5Cl$) with an alkyl halide ($CH_3Cl$) and sodium metal in dry ether to give substituted aromatic compounds is known as the Wurtz-Fittig reaction.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Halogen Derivatives",
+        "question": "The reaction conditions leading to the best yield of $C_2H_5Cl$ are:",
+        "question_latex": "The reaction conditions leading to the best yield of $C_2H_5Cl$ are:",
+        "question_images": [],
+        "options": [
+            "A. $C_2H_6$ (Excess) + $Cl_2$ UV light",
+            "B. $C_2H_6$ + $Cl_2$ (Excess) Dark",
+            "C. $C_2H_6$ + $Cl_2$ (Excess) Room temp",
+            "D. $C_2H_6$ + $Cl_2$ (Excess) UV light"
+        ],
+        "option_images": [],
+        "answer": "A. C2H6 (Excess) + Cl2 UV light",
+        "solution": "To obtain the best yield of a mono-chloroalkane like $C_2H_5Cl$, the alkane ($C_2H_6$) must be in excess to prevent further chlorination. The reaction requires UV light to proceed: $C_2H_6(Excess) + Cl_2 \\xrightarrow{UV light} C_2H_5Cl + HCl$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following is NOT obtained when a mixture of chloromethane and chloroethane is treated with sodium metal in dry ether? [MHT-CET 2024]",
+        "question_latex": "Which of the following is NOT obtained when a mixture of chloromethane and chloroethane is treated with sodium metal in dry ether? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Propane",
+            "B. Methane",
+            "C. Ethane",
+            "D. Butane"
+        ],
+        "option_images": [],
+        "answer": "B. Methane",
+        "solution": "When chloromethane ($CH_3Cl$) and chloroethane ($CH_3CH_2Cl$) react with sodium: \n1. $CH_3Cl + CH_3Cl \\rightarrow CH_3-CH_3$ (Ethane)\n2. $CH_3CH_2Cl + CH_3CH_2Cl \\rightarrow CH_3CH_2CH_2CH_3$ (Butane)\n3. $CH_3Cl + CH_3CH_2Cl \\rightarrow CH_3CH_2CH_3$ (Propane)\nMethane is NOT produced in this Wurtz reaction.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following compounds reacts with HBr to form 1-Bromo-1-methylcyclohexane? [MHT-CET 2023]",
+        "question_latex": "Which of the following compounds reacts with $HBr$ to form 1-Bromo-1-methylcyclohexane? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Methylenecyclohexane",
+            "B. 1-Methylcyclohex-1-ene",
+            "C. Cyclohexene",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "A. Methylenecyclohexane",
+        "solution": "Methylenecyclohexane reacts with $HBr$ via Markovnikov's rule. The proton adds to the terminal $CH_2$ and the $Br^-$ adds to the tertiary ring carbon to form 1-Bromo-1-methylcyclohexane.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following is benzylic halide? [MHT-CET 2024]",
+        "question_latex": "Which among the following is benzylic halide? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 4-Bromo toluene",
+            "B. 1-Bromo-2-phenylethane",
+            "C. Bromobenzene",
+            "D. Bromo phenyl methane"
+        ],
+        "option_images": [],
+        "answer": "D. Bromo phenyl methane",
+        "solution": "A benzylic halide is one where the halogen is bonded to a $sp^3$ carbon atom which is further bonded to an aromatic ring. Bromo phenyl methane ($C_6H_5CH_2Br$) fits this definition.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Halogen Derivatives",
+        "question": "What is the number of chiral carbon atoms present in 3,4-Dibromohexane? [2025]",
+        "question_latex": "What is the number of chiral carbon atoms present in 3,4-Dibromohexane? [2025]",
+        "question_images": [],
+        "options": [
+            "A. 5",
+            "B. 4",
+            "C. 3",
+            "D. 2"
+        ],
+        "option_images": [],
+        "answer": "D. 2",
+        "solution": "In 3,4-Dibromohexane ($CH_3-CH_2-CH(Br)-CH(Br)-CH_2-CH_3$), carbons 3 and 4 are chiral because each is bonded to four different groups: $-H$, $-Br$, $-CH_2CH_3$, and the rest of the chain.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify the product 'B' in the following reaction sequence: Alkyl halide $\\xrightarrow[Dry ether]{Mg} A \\xrightarrow{NH_3} B$ [2025, 2024]",
+        "question_latex": "Identify the product 'B' in the following reaction sequence: Alkyl halide $\\xrightarrow[Dry ether]{Mg} A \\xrightarrow{NH_3} B$ [2025, 2024]",
+        "question_images": [],
+        "options": [
+            "A. Alkyl nitrile",
+            "B. Alkyl amine",
+            "C. Hydrocarbon",
+            "D. Alkyl magnesium halide"
+        ],
+        "option_images": [],
+        "answer": "C. Hydrocarbon",
+        "solution": "Alkyl halide ($R-X$) reacts with $Mg$ in dry ether to form Grignard reagent ($R-MgX$, product 'A'). Grignard reagents react with compounds containing active hydrogen, like $NH_3$, to form hydrocarbons ($R-H$, product 'B'). $R-MgX + NH_3 \\rightarrow R-H + Mg(NH_2)X$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following compounds is used in Swartz reaction? [MHT-CET 2022]",
+        "question_latex": "Which among the following compounds is used in Swartz reaction? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. NaI",
+            "B. AgF",
+            "C. KCN",
+            "D. AgCN"
+        ],
+        "option_images": [],
+        "answer": "B. AgF",
+        "solution": "The Swartz reaction is used to prepare alkyl fluorides by reacting alkyl chlorides or bromides with metal fluorides like $AgF$, $Hg_2F_2$, $CoF_2$, or $SbF_3$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following is haloalkyne? [MHT-CET 2023]",
+        "question_latex": "Which among the following is haloalkyne? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. $CH_3-CH_2-CH=CH-X$",
+            "B. $CH_3-C\\equiv C-CH_2-X$",
+            "C. $CH\\equiv C-CH_2-CH_2-X$",
+            "D. $CH_3-CH_2-C\\equiv C-X$"
+        ],
+        "option_images": [],
+        "answer": "D. CH3-CH2-C\\equiv C-X",
+        "solution": "In a haloalkyne, the halogen atom is bonded directly to an $sp$-hybridized carbon atom of a triple bond.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify allylic halide from following. [MHT-CET 2022]",
+        "question_latex": "Identify allylic halide from following. [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. $C_6H_5CH_2X$",
+            "B. $H_2C=CH-CH_2X$",
+            "C. $H_2C=CHX$",
+            "D. $C_6H_5X$"
+        ],
+        "option_images": [],
+        "answer": "B. H2C=CH-CH2X",
+        "solution": "An allylic halide is one where the halogen is bonded to an $sp^3$ carbon atom next to a carbon-carbon double bond.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following is NOT correct statement about $S_N1$ reaction? [MHT-CET 2021]",
+        "question_latex": "Which among the following is NOT correct statement about $S_N1$ reaction? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. $S_N1$ reaction proceeds more rapidly in polar protic solvent.",
+            "B. $S_N1$ reaction proceeds via formation of carbocation intermediate.",
+            "C. A more powerful nucleophile favours $S_N1$ mechanism.",
+            "D. The rate of $S_N1$ mechanism is independent of the nature of nucleophile."
+        ],
+        "option_images": [],
+        "answer": "C. A more powerful nucleophile favours SN1 mechanism.",
+        "solution": "A more powerful nucleophile increases the rate of $S_N2$ reactions because the nucleophile is involved in the rate-determining step. In $S_N1$, the rate is independent of the nucleophile's strength or concentration.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Halogen Derivatives",
+        "question": "1-Chlorobutane on reaction with alcoholic potash gives:",
+        "question_latex": "1-Chlorobutane on reaction with alcoholic potash gives:",
+        "question_images": [],
+        "options": [
+            "A. 1-Butene",
+            "B. 1-Butanol",
+            "C. 2-Butene",
+            "D. 2-Butanol"
+        ],
+        "option_images": [],
+        "answer": "A. 1-Butene",
+        "solution": "1-Chlorobutane is a primary alkyl halide. It undergoes $E2$ elimination with alcoholic $KOH$ to form 1-Butene. No rearrangement takes place.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Halogen Derivatives",
+        "question": "Which from following compounds is used to prepare a refrigerant R-22? [MHT-CET 2024]",
+        "question_latex": "Which from following compounds is used to prepare a refrigerant R-22? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Dichloromethane",
+            "B. Tetrachloromethane",
+            "C. Trichloromethane",
+            "D. Monochloromethane"
+        ],
+        "option_images": [],
+        "answer": "C. Trichloromethane",
+        "solution": "Trichloromethane (chloroform) is used in the production of chlorodifluoromethane (R-22).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Halogen Derivatives",
+        "question": "The decreasing nucleophilic order of the following compounds is: i. $F_3CSO_3^{\\ominus}$ ii. $Cl_3C-COO^{\\ominus}$ iii. $PhSO_3^{\\ominus}$ iv. $MeSO_3^{\\ominus}$",
+        "question_latex": "The decreasing nucleophilic order of the following compounds is: i. $F_3CSO_3^{\\ominus}$ ii. $Cl_3C-COO^{\\ominus}$ iii. $PhSO_3^{\\ominus}$ iv. $MeSO_3^{\\ominus}$",
+        "question_images": [],
+        "options": [
+            "A. (i) > (ii) > (iii) > (iv)",
+            "B. (iv) > (iii) > (ii) > (i)",
+            "C. (ii) > (iv) > (iii) > (i)",
+            "D. (iv) > (iii) > (i) > (ii)"
+        ],
+        "option_images": [],
+        "answer": "C. (ii) > (iv) > (iii) > (i)",
+        "solution": "Nucleophilicity follows the inverse of the stability of the anion. $F_3CSO_3^-$ is the most stable (weakest nucleophile) due to extreme electron withdrawal. $Cl_3CCOO^-$ is the strongest among these. Order: $Cl_3CCOO^- > MeSO_3^- > PhSO_3^- > F_3CSO_3^-$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify structural formula of DDT. [MHT-CET 2024]",
+        "question_latex": "Identify structural formula of DDT. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Option A",
+            "B. Option D",
+            "C. Option B",
+            "D. Option C"
+        ],
+        "option_images": [],
+        "answer": "D. Option C",
+        "solution": "DDT (Dichlorodiphenyltrichloroethane) consists of two chlorophenyl groups attached to a trichloroethane chain.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Halogen Derivatives",
+        "question": "What is IUPAC name of the following compound? [MHT-CET 2024]",
+        "question_latex": "What is IUPAC name of the following compound? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 3-Bromo-4-methylhex-3-ene",
+            "B. 3-Bromo-4-ethylbut-3-ene",
+            "C. 4-Bromo-4-ethyl-3-methylbut-3-ene",
+            "D. 4-Bromo-3-methylhex-3-ene"
+        ],
+        "option_images": [],
+        "answer": "A. 3-Bromo-4-methylhex-3-ene",
+        "solution": "Longest chain contains 6 carbons (hex-3-ene). Numbering gives bromine at C3 and methyl at C4.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify 'A' in the following reaction: A + Acetyl chloride $\\xrightarrow{anhydrous AlCl_3} $ 2-Chloroacetophenone + 4-Chloroacetophenone [2025]",
+        "question_latex": "Identify 'A' in the following reaction: A + Acetyl chloride $\\xrightarrow{anhydrous AlCl_3} $ 2-Chloroacetophenone + 4-Chloroacetophenone [2025]",
+        "question_images": [],
+        "options": [
+            "A. Phenol",
+            "B. Chlorobenzene",
+            "C. Toluene",
+            "D. Benzene"
+        ],
+        "option_images": [],
+        "answer": "B. Chlorobenzene",
+        "solution": "This is a Friedel-Crafts acylation. Chlorobenzene reacts with acetyl chloride in the presence of $AlCl_3$ to form ortho (2-) and para (4-) chloroacetophenone.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following deactivates the aromatic nucleus?",
+        "question_latex": "Which of the following deactivates the aromatic nucleus?",
+        "question_images": [],
+        "options": [
+            "A. $-CH_3$",
+            "B. -Br",
+            "C. $-NH_2$",
+            "D. $-NR_2$"
+        ],
+        "option_images": [],
+        "answer": "B. -Br",
+        "solution": "Halogens like -Br are deactivating due to their strong -I effect, even though they are ortho- and para-directing by the +R effect.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Halogen Derivatives",
+        "question": "Ethanolic KOH gives [MHT-CET 2010]:",
+        "question_latex": "Ethanolic $KOH$ gives [MHT-CET 2010]:",
+        "question_images": [],
+        "options": [
+            "A. dehalogenation reactions",
+            "B. dehydrogenation reactions",
+            "C. dehydrohalogenation reactions",
+            "D. substitution reactions"
+        ],
+        "option_images": [],
+        "answer": "C. dehydrohalogenation reactions",
+        "solution": "Ethanolic $KOH$ acts as a base and removes hydrogen and halogen atoms from a haloalkane, resulting in the formation of an alkene.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Halogen Derivatives",
+        "question": "1-Chlorobutane on reaction with alcoholic potash gives [MHT-CET 2006]:",
+        "question_latex": "1-Chlorobutane on reaction with alcoholic potash gives [MHT-CET 2006]:",
+        "question_images": [],
+        "options": [
+            "A. but-1-ene",
+            "B. butan-1-ol",
+            "C. but-2-ene",
+            "D. butan-2-ol"
+        ],
+        "option_images": [],
+        "answer": "A. but-1-ene",
+        "solution": "$CH_3-CH_2-CH_2-CH_2-Cl + alc. KOH \\rightarrow CH_3-CH_2-CH=CH_2 + KCl + H_2O$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following reactions is an example of Wurtz-Fittig reaction? [MHT-CET 2020]",
+        "question_latex": "Which among the following reactions is an example of Wurtz-Fittig reaction? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Chlorobenzene reacts with acetyl chloride in presence of anhydrous $AlCl_3$.",
+            "B. Aniline reacts with $NaNO_2/HCl$ to form benzenediazonium chloride.",
+            "C. Chlorobenzene reacts with conc. $HNO_3$ and conc. $H_2SO_4$.",
+            "D. Bromobenzene reacts with methyl bromide in presence of sodium and dry ether."
+        ],
+        "option_images": [],
+        "answer": "D. Bromobenzene reacts with methyl bromide in presence of sodium and dry ether.",
+        "solution": "The reaction of an aryl halide (Bromobenzene) and an alkyl halide (Methyl bromide) with sodium metal in dry ether is a Wurtz-Fittig reaction.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify the product 'Z' in the following series of reactions: $Ethanol \\xrightarrow{\\Delta, SOCl_2} X \\xrightarrow[Dry ether]{Mg} Y \\xrightarrow{NH_3} Z + Mg$ [2025, 2024, 2023, 2021]",
+        "question_latex": "Identify the product 'Z' in the following series of reactions: $Ethanol \\xrightarrow{\\Delta, SOCl_2} X \\xrightarrow[Dry ether]{Mg} Y \\xrightarrow{NH_3} Z + Mg$ [2025, 2024, 2023, 2021]",
+        "question_images": [],
+        "options": [
+            "A. Ethane",
+            "B. Ethyl magnesium chloride",
+            "C. Ethyl chloride",
+            "D. Ethyl amine"
+        ],
+        "option_images": [],
+        "answer": "A. Ethane",
+        "solution": "Ethanol $\\xrightarrow{SOCl_2}$ Ethyl chloride (X). Ethyl chloride $\\xrightarrow{Mg, ether}$ Ethyl magnesium chloride (Y). Ethyl magnesium chloride $\\xrightarrow{NH_3}$ Ethane (Z).",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Halogen Derivatives",
+        "question": "The number of optical isomers possible for 3,4-dichloropentan-2-ol is [MHT-CET 2020]",
+        "question_latex": "The number of optical isomers possible for 3,4-dichloropentan-2-ol is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Eight",
+            "B. Four",
+            "C. Sixteen",
+            "D. Two"
+        ],
+        "option_images": [],
+        "answer": "A. Eight",
+        "solution": "The structure $CH_3-CH(OH)-CH(Cl)-CH(Cl)-CH_3$ contains 3 chiral carbon atoms ($n=3$). The number of optical isomers is $2^n = 2^3 = 8$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify the correct increasing order of boiling point of following compounds. [MHT-CET 2024]",
+        "question_latex": "Identify the correct increasing order of boiling point of following compounds. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. $CH_2Br_2 < CHBr_3 < CH_3Br < CH_3Cl$",
+            "B. $CHBr_3 < CH_2Br_2 < CH_3Br < CH_3Cl$",
+            "C. $CH_3Cl < CH_3Br < CH_2Br_2 < CHBr_3$",
+            "D. $CH_3Br < CH_2Br_2 < CHBr_3 < CH_3Cl$"
+        ],
+        "option_images": [],
+        "answer": "C. CH3Cl < CH3Br < CH2Br2 < CHBr3",
+        "solution": "Boiling point increases with the increase in atomic mass of the halogen and the number of halogen atoms due to increased van der Waals forces.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify optically active substance from the following",
+        "question_latex": "$\\text{Identify optically active substance from the following}$",
+        "question_images": [],
+        "options": [
+            "A. $(CH_3)_2CHCH_2Cl$",
+            "B. $CH_3CH(Br)CH_2CH_3$",
+            "C. $CH_3CH_2CH_2Br$",
+            "D. $(CH_3)_3CBr$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Due to presence of a chiral carbon atom, the compound is optically active.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Halogen Derivatives",
+        "question": "Reactivity of MeMgBr with the following in decreasing order is",
+        "question_latex": "$\\text{Reactivity of MeMgBr in decreasing order}$",
+        "question_images": [],
+        "options": [
+            "A. (i) > (ii) > (iii) > (iv)",
+            "B. (iv) > (iii) > (ii) > (i)",
+            "C. (ii) > (iii) > (i) > (iv)",
+            "D. (iii) > (ii) > (iv) > (i)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Order of reactivity of Grignard reagent follows aldehyde > ketone > ester > aromatic aldehyde.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Halogen Derivatives",
+        "question": "What type of reaction alkyl halides undergo with alcoholic KOH?",
+        "question_latex": "$\\text{Reaction of alkyl halides with alcoholic KOH}$",
+        "question_images": [],
+        "options": [
+            "A. Dehydrogenation",
+            "B. Elimination",
+            "C. Addition",
+            "D. Substitution"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Alcoholic KOH favors elimination reaction forming alkenes.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Halogen Derivatives",
+        "question": "The correct order of reactivity for reaction involving cleavage of C–X bond is",
+        "question_latex": "$\\text{Correct order of reactivity for C–X bond cleavage}$",
+        "question_images": [],
+        "options": [
+            "A. II > III > I",
+            "B. I > II > III",
+            "C. III > II > I",
+            "D. II > I > III"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Greater number of electron withdrawing groups increases C–X bond cleavage.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Halogen Derivatives",
+        "question": "Choose the false statement from following",
+        "question_latex": "$\\text{Choose the false statement}$",
+        "question_images": [],
+        "options": [
+            "A. Good yield of alkyl halide is obtained by heating alcohol with NaI and 95% $H_3PO_4$",
+            "B. Tertiary alcohols react with HCl faster than primary alcohols",
+            "C. Primary alcohols react with Lucas reagent slowly",
+            "D. Order of reactivity of alcohols is $3^\\circ > 2^\\circ > 1^\\circ$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Alkyl halides are not prepared using NaI and $H_3PO_4$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify tertiary alkyl halide from the following",
+        "question_latex": "$\\text{Identify tertiary alkyl halide}$",
+        "question_images": [],
+        "options": [
+            "A. $(CH_3)_3CCH_2Br$",
+            "B. $CH_3CH_2CH_2CH_2Br$",
+            "C. $CH_3CH(CH_3)CH_2Br$",
+            "D. $(CH_3)_3CBr$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Carbon attached to Br is bonded to three alkyl groups.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following alkanes is optically active?",
+        "question_latex": "$\\text{Optically active alkane}$",
+        "question_images": [],
+        "options": [
+            "A. 2-Methylbutane",
+            "B. 2-Methylpropane",
+            "C. 2,3-Dimethylpentane",
+            "D. 2,3-Dimethylbutane"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Presence of chiral carbon makes it optically active.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following is NOT obtained when a mixture of iodoethane and 1-iodopropane is treated with sodium metal in dry ether?",
+        "question_latex": "$\\text{Product NOT obtained in Wurtz reaction}$",
+        "question_images": [],
+        "options": [
+            "A. Pentane",
+            "B. Butane",
+            "C. Hexane",
+            "D. Propane"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Propane cannot be formed in Wurtz reaction of these halides.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify the major product obtained in the reaction of chlorobenzene with chlorine in presence of anhydrous $FeCl_3$",
+        "question_latex": "$\\text{Major product of chlorobenzene chlorination}$",
+        "question_images": [],
+        "options": [
+            "A. 1,3-Dichlorobenzene",
+            "B. 1,2-Dichlorobenzene",
+            "C. 1,4-Dichlorobenzene",
+            "D. Benzyl chloride"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Para product is major due to steric hindrance at ortho position.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify product B in the following reaction sequence",
+        "question_latex": "$\\text{Identify product B}$",
+        "question_images": [],
+        "options": [
+            "A. Ethyl magnesium bromide",
+            "B. Ethene",
+            "C. Sodium ethoxide",
+            "D. Ethyl bromide"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Reaction of alkyl halide with Mg in dry ether gives Grignard reagent.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following compounds converts alkyl halides into alkanes?",
+        "question_latex": "$\\text{Reagent converting alkyl halides into alkanes}$",
+        "question_images": [],
+        "options": [
+            "A. Silver cyanide",
+            "B. Silver nitrate",
+            "C. Potassium nitrite",
+            "D. Zinc dust"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Silver nitrate helps in formation of alkanes via reduction.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following is NOT an example of monohalogen compound?",
+        "question_latex": "$\\text{NOT a monohalogen compound}$",
+        "question_images": [],
+        "options": [
+            "A. 1,2-Dibromoethane",
+            "B. 2-Bromopropane",
+            "C. Chlorobenzene",
+            "D. 2-Bromopentane"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "1,2-Dibromoethane contains two halogen atoms.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following is an organometallic compound?",
+        "question_latex": "$\\text{Organometallic compound}$",
+        "question_images": [],
+        "options": [
+            "A. $CH_3COONa$",
+            "B. $CH_3MgBr$",
+            "C. $CH_3ONa$",
+            "D. $CH_3Br$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Compound containing carbon–metal bond is organometallic.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Halogen Derivatives",
+        "question": "An alkyl halide having molecular formula $C_4H_9Br$ on reaction with Na metal in presence of ether gives 2,5-dimethylhexane. The alkyl halide is",
+        "question_latex": "$\\text{Identify alkyl halide from Wurtz reaction product}$",
+        "question_images": [],
+        "options": [
+            "A. sec-Butyl bromide",
+            "B. n-Butyl bromide",
+            "C. isobutyl bromide",
+            "D. tert-Butyl bromide"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Wurtz coupling of sec-butyl bromide gives 2,5-dimethylhexane.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following is NOT obtained when bromobenzene is treated with bromoethane and sodium in dry ether?",
+        "question_latex": "$\\text{Product NOT obtained in Wurtz–Fittig reaction}$",
+        "question_images": [],
+        "options": [
+            "A. Diphenyl",
+            "B. n-Butane",
+            "C. Toluene",
+            "D. Ethylbenzene"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Toluene is not formed in Wurtz–Fittig reaction.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following compounds has highest boiling point?",
+        "question_latex": "$\\text{Compound with highest boiling point}$",
+        "question_images": [],
+        "options": [
+            "A. 1-Bromobutane",
+            "B. 2-Bromobutane",
+            "C. 1-Bromo-2-methylpropane",
+            "D. 2-Bromo-2-methylpropane"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Boiling point increases with decrease in branching.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following statements is true about enantiomers?",
+        "question_latex": "$\\text{True statement about enantiomers}$",
+        "question_images": [],
+        "options": [
+            "A. Identical chemical properties",
+            "B. Equal and opposite optical rotation",
+            "C. Superimposable mirror images",
+            "D. Different melting points"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Enantiomers rotate plane-polarized light equally and oppositely.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify product C obtained in the reaction",
+        "question_latex": "$\\text{Identify product C}$",
+        "question_images": [],
+        "options": [
+            "A. $CH_3COOCH_3$",
+            "B. $CH_3COOC_2H_5$",
+            "C. $CH_3COOCH_2CH_3$",
+            "D. $CH_3CH_2COOCH_3$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Ethyl ethanoate is formed.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following is an organometallic compound?",
+        "question_latex": "$\\text{Organometallic compound}$",
+        "question_images": [],
+        "options": [
+            "A. RCOONa",
+            "B. RONa",
+            "C. RCOOK",
+            "D. R–Mg–X"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Grignard reagents are organometallic compounds.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify the product A formed in the following reaction",
+        "question_latex": "$\\text{Identify product A}$",
+        "question_images": [],
+        "options": [
+            "A. 3-Bromo-2-methylbutane",
+            "B. 2-Bromo-3-methylbutane",
+            "C. 2,3-Dibromopentane",
+            "D. 2,3-Dibromo-2-methylbutane"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Addition of bromine across double bond gives vicinal dibromide.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Halogen Derivatives",
+        "question": "Which alkyl halide is treated with sodium metal to obtain 2,3,3-tetramethylbutane?",
+        "question_latex": "$\\text{Alkyl halide giving 2,3,3-tetramethylbutane}$",
+        "question_images": [],
+        "options": [
+            "A. n-Butyl bromide",
+            "B. n-Propyl bromide",
+            "C. sec-Butyl bromide",
+            "D. tert-Butyl bromide"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Wurtz reaction of tert-butyl bromide gives the product.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following compounds is obtained when methyl magnesium bromide reacts with ammonia?",
+        "question_latex": "$\\text{Product of MeMgBr with NH}_3$",
+        "question_images": [],
+        "options": [
+            "A. Methane",
+            "B. Methyl bromide",
+            "C. Dimethyl amine",
+            "D. Ethane"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$CH_3MgBr + NH_3 \\rightarrow CH_4 + MgBrNH_2$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Halogen Derivatives",
+        "question": "The decreasing basic order of the following is",
+        "question_latex": "$\\text{Decreasing basic order}$",
+        "question_images": [],
+        "options": [
+            "A. $PhSO_3H > Cl_3CCOOH > C_6H_5COOH > H_2O$",
+            "B. $H_2O > C_6H_5COOH > Cl_3CCOOH > PhSO_3H$",
+            "C. $Cl_3CCOOH > PhSO_3H > C_6H_5COOH > H_2O$",
+            "D. $C_6H_5COOH > Cl_3CCOOH > PhSO_3H > H_2O$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Basicity decreases with increasing acidity.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Halogen Derivatives",
+        "question": "What is the IUPAC name of the following compound?",
+        "question_latex": "$\\text{IUPAC name of given compound}$",
+        "question_images": [],
+        "options": [
+            "A. 4-Bromo-4-methylpent-2-ene",
+            "B. 3-Bromo-1,1-dimethylbut-2-ene",
+            "C. 2-Bromo-2-methylpent-3-ene",
+            "D. 4-Bromo-4-methylpent-3-ene"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Longest chain and lowest locant rule applied.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Halogen Derivatives",
+        "question": "The decreasing basic order of the following is",
+        "question_latex": "$\\text{Decreasing basic order}$",
+        "question_images": [],
+        "options": [
+            "A. $PhSO_3H > Cl_3CCOOH > C_6H_5COOH > CN^-$",
+            "B. $CN^- > C_6H_5COOH > Cl_3CCOOH > PhSO_3H$",
+            "C. $C_6H_5COOH > Cl_3CCOOH > PhSO_3H > CN^-$",
+            "D. $CN^- > PhSO_3H > Cl_3CCOOH > C_6H_5COOH$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Stronger conjugate base corresponds to weaker acid.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Halogen Derivatives",
+        "question": "Ethylmercaptan is prepared by the reaction of the following followed by hydrolysis",
+        "question_latex": "$\\text{Ethyl mercaptan preparation reaction}$",
+        "question_images": [],
+        "options": [
+            "A. $C_2H_5MgBr + SO_2$",
+            "B. $C_2H_5MgBr + CS_2$",
+            "C. $C_2H_5MgBr + S_2$",
+            "D. $C_2H_5MgBr + H_2S$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$C_2H_5MgBr$ reacts with $CS_2$ followed by hydrolysis to give ethyl mercaptan.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following is obtained as main product when isopropyl bromide is treated with metallic sodium in dry ether?",
+        "question_latex": "$\\text{Main product of Wurtz reaction}$",
+        "question_images": [],
+        "options": [
+            "A. Isobutane",
+            "B. 2,3-Dimethylhexane",
+            "C. 2,3-Dimethylbutane",
+            "D. n-Butane"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Wurtz coupling of isopropyl bromide gives 2,3-dimethylbutane.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following methods is NOT suitable for preparation of alkyl chlorides?",
+        "question_latex": "$\\text{Method not suitable for alkyl chloride preparation}$",
+        "question_images": [],
+        "options": [
+            "A. Addition of HCl to alkene",
+            "B. Treating alcohols with Lewis reagent",
+            "C. Chlorination of alkanes in presence of sunlight",
+            "D. Heating alcohols with thionyl chloride"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Chlorination of alkanes gives a mixture of products and is not suitable.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following is Neopentyl chloride?",
+        "question_latex": "$\\text{Identify neopentyl chloride}$",
+        "question_images": [],
+        "options": [
+            "A. 2-Chloro-3-methylbutane",
+            "B. 1-Chloro-2,2-dimethylpropane",
+            "C. 1-Chloro-2,2-dimethylpentane",
+            "D. 2-Chloro-2-methylpropane"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Neopentyl chloride is 1-chloro-2,2-dimethylpropane.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following is an example of vinylic halide?",
+        "question_latex": "$\\text{Example of vinylic halide}$",
+        "question_images": [],
+        "options": [
+            "A. $CH_3CH_2Cl$",
+            "B. $CH_2=CHCl$",
+            "C. $C_6H_5CH_2Cl$",
+            "D. $CH_2=CHCH_2Cl$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In vinylic halides, halogen is bonded to an $sp^2$ hybridized carbon.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Halogen Derivatives",
+        "question": "The product formed when chlorobenzene is treated with NaOH at high temperature and pressure is",
+        "question_latex": "$\\text{Product of Dow's process}$",
+        "question_images": [],
+        "options": [
+            "A. Benzyl alcohol",
+            "B. Sodium phenate",
+            "C. Phenol",
+            "D. Benzene"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Dow's process gives sodium phenate which on acidification gives phenol.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Halogen Derivatives",
+        "question": "By which mechanism does the given reaction proceed?",
+        "question_latex": "$\\text{Reaction mechanism identification}$",
+        "question_images": [],
+        "options": [
+            "A. $E1$",
+            "B. $E2$",
+            "C. $S_N1$",
+            "D. Elimination"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Strong base with alkyl halide proceeds via $E2$ elimination.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify Swarts reaction from the following",
+        "question_latex": "$\\text{Swarts reaction identification}$",
+        "question_images": [],
+        "options": [
+            "A. $RCl + AgF \\rightarrow RF$",
+            "B. $RCl + NaI$",
+            "C. $RX + Na$",
+            "D. $RX + KOH$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Swarts reaction converts alkyl chlorides to fluorides using metallic fluorides.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify the reagent used in the conversion: Ethyl bromide to Ethyl propanoate",
+        "question_latex": "$\\text{Reagent identification}$",
+        "question_images": [],
+        "options": [
+            "A. Sodium propoxide",
+            "B. Silver ethanoate",
+            "C. Silver propanoate",
+            "D. Ethoxy propane"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Silver propanoate reacts with ethyl bromide to give ethyl propanoate.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following has highest boiling point?",
+        "question_latex": "$\\text{Highest boiling point among halides}$",
+        "question_images": [],
+        "options": [
+            "A. Fluoromethane",
+            "B. Bromomethane",
+            "C. Chloromethane",
+            "D. Iodomethane"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Boiling point increases with increase in atomic mass of halogen.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Halogen Derivatives",
+        "question": "Decreasing nucleophilic order of the following is",
+        "question_latex": "$\\text{Nucleophilic order}$",
+        "question_images": [],
+        "options": [
+            "A. $Me_2N^- > MeNH^- > NH_2^-$",
+            "B. $NH_2^- > MeNH^- > Me_2N^-$",
+            "C. $MeNH^- > NH_2^- > Me_2N^-$",
+            "D. $NH_2^- > Me_2N^- > MeNH^-$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Electron-donating alkyl groups increase nucleophilicity.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Halogen Derivatives",
+        "question": "How many chiral carbon atoms are present in 2-chloro-3,4,5-trimethylhexane?",
+        "question_latex": "$\\text{Number of chiral carbons}$",
+        "question_images": [],
+        "options": [
+            "A. 3",
+            "B. 2",
+            "C. 4",
+            "D. 1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "There are three asymmetric carbon atoms in the given compound.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Halogen Derivatives",
+        "question": "The organic compound shown belongs to",
+        "question_latex": "$\\text{Classification of halide}$",
+        "question_images": [],
+        "options": [
+            "A. Benzylic halide",
+            "B. Vinylic halide",
+            "C. Aryl halide",
+            "D. Allylic halide"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Halogen attached directly to aromatic ring forms aryl halide.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following is benzylic halide?",
+        "question_latex": "$\\text{Identify benzylic halide}$",
+        "question_images": [],
+        "options": [
+            "A. $C_6H_5CH_2X$",
+            "B. $C_6H_5X$",
+            "C. $CH_2=CHX$",
+            "D. $CH_3CH_2X$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Benzylic halides have halogen attached to carbon next to benzene ring.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following is NOT a feature of SN2 mechanism?",
+        "question_latex": "$\\text{NOT a feature of } S_N2$",
+        "question_images": [],
+        "options": [
+            "A. Inversion of configuration",
+            "B. Backside attack",
+            "C. Carbocation intermediate",
+            "D. Single step reaction"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$S_N2$ reactions do not involve carbocation intermediate.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Halogen Derivatives",
+        "question": "What is molecular formula of 3-bromopropene?",
+        "question_latex": "$\\text{Molecular formula}$",
+        "question_images": [],
+        "options": [
+            "A. $C_3H_5Br$",
+            "B. $C_3H_7Br$",
+            "C. $C_3H_6Br$",
+            "D. $C_3H_4Br$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "3-Bromopropene has formula $C_3H_5Br$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Halogen Derivatives",
+        "question": "Ethyl ester reacts with $PrMgBr$ to give 2° alcohol. The alcohol must contain",
+        "question_latex": "$\\text{Grignard reaction with ester}$",
+        "question_images": [],
+        "options": [
+            "A. Two methyl groups",
+            "B. Two ethyl groups",
+            "C. Two propyl groups",
+            "D. One propyl and one ethyl group"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Ester reacts with two moles of Grignard reagent to give 2° alcohol.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify the major product formed in the following reaction",
+        "question_latex": "$\\text{Major product identification}$",
+        "question_images": [],
+        "options": [
+            "A. o-Dichlorobenzene",
+            "B. m-Dichlorobenzene",
+            "C. p-Dichlorobenzene",
+            "D. Chlorobenzene"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Para product is major due to steric hindrance in ortho position.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Halogen Derivatives",
+        "question": "Gammaxene is the name given to",
+        "question_latex": "$\\text{Gammaxene identification}$",
+        "question_images": [],
+        "options": [
+            "A. $C_6H_6Cl_6$",
+            "B. $C_6H_5Cl_6$",
+            "C. $C_6H_4Cl_6$",
+            "D. Diphenyltrichloroethane"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Gammaxene is hexachlorocyclohexane.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following is allylic halide?",
+        "question_latex": "$\\text{Allylic halide identification}$",
+        "question_images": [],
+        "options": [
+            "A. 3-Bromopropene",
+            "B. 4-Bromobut-1-ene",
+            "C. 2-Bromopropene",
+            "D. 1-Bromopropene"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Halogen attached to carbon next to double bond is allylic.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following pair gives butanenitrile on heating?",
+        "question_latex": "$\\text{Nitrile formation}$",
+        "question_images": [],
+        "options": [
+            "A. Propanol and alcoholic KCN",
+            "B. n-Butyl chloride and alcoholic KCN",
+            "C. Butanol and alcoholic KCN",
+            "D. n-Propyl chloride and alcoholic KCN"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Alkyl halide with alcoholic KCN gives nitrile with one extra carbon.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify the product obtained when alkyl halide is treated with silver nitrite",
+        "question_latex": "$\\text{Product with silver nitrite}$",
+        "question_images": [],
+        "options": [
+            "A. Nitroalkane",
+            "B. Alcohol",
+            "C. Primary amine",
+            "D. Alkyl nitrite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Silver nitrite forms nitroalkane due to N-attack.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify product X obtained in the following reaction",
+        "question_latex": "$\\text{Product identification}$",
+        "question_images": [],
+        "options": [
+            "A. $CH_3COOCH_3$",
+            "B. $CH_3CH_2COOCH_3$",
+            "C. $CH_3CH_2COOCH_2CH_3$",
+            "D. $CH_3COOCH_2CH_3$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Reaction of alkyl halide with silver acetate gives ester.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Halogen Derivatives",
+        "question": "What product is obtained when alkyl halides react with metallic sodium in presence of dry ether?",
+        "question_latex": "$\\text{Wurtz reaction product}$",
+        "question_images": [],
+        "options": [
+            "A. Alkynes",
+            "B. Alkanes",
+            "C. Alkenes",
+            "D. Alcohols"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Wurtz reaction forms alkanes.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Halogen Derivatives",
+        "question": "In order to prepare fluorobenzene from benzene diazonium chloride, which reagent is used?",
+        "question_latex": "$\\text{Fluorobenzene preparation}$",
+        "question_images": [],
+        "options": [
+            "A. $AgF$",
+            "B. $HF$",
+            "C. $HBF_4$",
+            "D. $CuF$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Balz–Schiemann reaction uses $HBF_4$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following is NOT a feature of SN1 mechanism?",
+        "question_latex": "$\\text{NOT a feature of } S_N1 \\text{ mechanism}$",
+        "question_images": [],
+        "options": [
+            "A. Backside attack of nucleophile",
+            "B. Single step mechanism",
+            "C. Formation of planar carbocation intermediate",
+            "D. Involves simultaneous bond breaking and bond forming"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The $S_N1$ mechanism proceeds via formation of a planar carbocation intermediate.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Halogen Derivatives",
+        "question": "In the reaction mentioned below, X will be",
+        "question_latex": "$\\text{In the reaction, X will be}$",
+        "question_images": [],
+        "options": [
+            "A. Only one product",
+            "B. Only second product",
+            "C. Both first and second products",
+            "D. No reaction"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Both products are formed due to carbocation rearrangement.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify the product 'B' in the following reaction sequence",
+        "question_latex": "$\\text{Identify product B}$",
+        "question_images": [],
+        "options": [
+            "A. Alkyl magnesium halide",
+            "B. Hydrocarbon",
+            "C. Alkyl amine",
+            "D. Alkyl nitrile"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Alkyl halide reacts with Mg to form Grignard reagent which on reaction with $NH_3$ gives hydrocarbon.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify the IUPAC name of the following compound",
+        "question_latex": "$\\text{IUPAC name of given compound}$",
+        "question_images": [],
+        "options": [
+            "A. 4-Bromo-4-dimethylpent-2-ene",
+            "B. 2-Bromo-2-methylpent-3-ene",
+            "C. 1-Bromo-1,1-dimethylbut-2-ene",
+            "D. 4-Bromo-4-methylpent-2-ene"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Longest chain and lowest locant rule applied correctly.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Halogen Derivatives",
+        "question": "The product formed by the reaction between 2,2,2-trichloroethanol and chlorobenzene in presence of $H_2SO_4$ is",
+        "question_latex": "$\\text{Product of reaction}$",
+        "question_images": [],
+        "options": [
+            "A. Chlorotoluene",
+            "B. DDT",
+            "C. Chlorobenzaldehyde",
+            "D. Benzene sulphonic acid"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "DDT is formed by condensation in presence of concentrated $H_2SO_4$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify the reagent 'A' used in the following reaction",
+        "question_latex": "$\\text{Identify reagent A}$",
+        "question_images": [],
+        "options": [
+            "A. Sodium propoxide",
+            "B. Silver ethanoate",
+            "C. Silver propanoate",
+            "D. Ethoxy propane"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Silver propanoate reacts with ethyl bromide to give ester.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify major product formed in the following reaction",
+        "question_latex": "$\\text{Major product formed}$",
+        "question_images": [],
+        "options": [
+            "A. 2-Methylpent-2-ene",
+            "B. 4-Methylpent-3-ene",
+            "C. 4-Methylpentan-3-ol",
+            "D. 2-Methylpentan-3-ol"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Elimination reaction follows Saytzeff rule.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Halogen Derivatives",
+        "question": "How many chlorine atoms are present in a molecule of DDT?",
+        "question_latex": "$\\text{Number of chlorine atoms in DDT}$",
+        "question_images": [],
+        "options": [
+            "A. 3",
+            "B. 4",
+            "C. 5",
+            "D. 6"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "DDT contains five chlorine atoms.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Halogen Derivatives",
+        "question": "What is the molar mass of product formed when 2 moles of methyl bromide react with large excess of sodium in dry ether?",
+        "question_latex": "$\\text{Molar mass of product formed}$",
+        "question_images": [],
+        "options": [
+            "A. 15.0 g mol$^{-1}$",
+            "B. 30.0 g mol$^{-1}$",
+            "C. 40.0 g mol$^{-1}$",
+            "D. 60.0 g mol$^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Ethane is formed with molar mass $30 \\times 2 = 60$ g mol$^{-1}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Halogen Derivatives",
+        "question": "What is the IUPAC name of the following compound?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. 2-Bromo-3-methylpent-3-ene",
+            "B. 1-Bromo-1,2-dimethylbut-2-ene",
+            "C. 4-Bromo-3,4-dimethylbut-2-ene",
+            "D. 4-Bromo-3-methylpent-2-ene"
+        ],
+        "option_images": [],
+        "answer": "D. 4-Bromo-3-methylpent-2-ene",
+        "solution": "Number the longest chain containing the double bond to give it the lowest locant. The double bond is at position 2. Substituents are bromo at position 4 and methyl at position 3, hence the IUPAC name is $4$-Bromo-$3$-methylpent-$2$-ene.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Halogen Derivatives",
+        "question": "The number of possible monohalogen derivatives for the alkyl halide having molecular formula C4H9X is:",
+        "question_latex": "$C_4H_9X$",
+        "question_images": [],
+        "options": [
+            "A. 3",
+            "B. 4",
+            "C. 1",
+            "D. 2"
+        ],
+        "option_images": [],
+        "answer": "B. 4",
+        "solution": "Four monohalogen derivatives are possible due to different carbon environments: $n$-butyl halide, sec-butyl halide, isobutyl halide, and tert-butyl halide.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following compounds converts alkyl halide into alkyl isocyanide?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. alc. HCN",
+            "B. alc. NH3",
+            "C. alc. KCN",
+            "D. alc. AgCN"
+        ],
+        "option_images": [],
+        "answer": "D. alc. AgCN",
+        "solution": "Alcoholic silver cyanide reacts with alkyl halide to form alkyl isocyanide via nitrogen attack: $R-X \\xrightarrow{alc.\\ AgCN} R-N\\equiv C + AgX$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following reagents is used for conversion of alkyl halide into alkyl nitrite?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. $K^+O^-N=O$",
+            "B. $Ag-O-N=O$",
+            "C. $Ag-C\\equiv N$ (alc.)",
+            "D. $K-C\\equiv N$ (alc.)"
+        ],
+        "option_images": [],
+        "answer": "A. $K^+O^-N=O$",
+        "solution": "Potassium nitrite reacts through oxygen to form alkyl nitrite: $R-X + KONO \\rightarrow R-ONO + KX$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following is a correct feature of $S_N2$ mechanism?",
+        "question_latex": "$S_N2$",
+        "question_images": [],
+        "options": [
+            "A. Nucleophile can attack from either side",
+            "B. It is two step mechanism",
+            "C. Heterolysis of C–X bond forms planar carbocation intermediate",
+            "D. The transition state contains penta-coordinated carbon"
+        ],
+        "option_images": [],
+        "answer": "D. The transition state contains penta-coordinated carbon",
+        "solution": "$S_N2$ is a single-step mechanism involving simultaneous bond breaking and bond formation with backside attack, forming a pentacoordinate transition state.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify the product 'B' in the following reaction sequence.",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. Cyclohexane",
+            "B. Methylcyclohexane",
+            "C. Methoxycyclohexane",
+            "D. Cyclohexyl magnesium chloride"
+        ],
+        "option_images": [],
+        "answer": "A. Cyclohexane",
+        "solution": "Cyclohexyl chloride reacts with Mg in dry ether to form cyclohexyl magnesium chloride. On treatment with methanol, the Grignard reagent is protonated to give cyclohexane.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Halogen Derivatives",
+        "question": "IUPAC name of the compound CH3–CH=CH–CH2–Cl is:",
+        "question_latex": "$CH_3-CH=CH-CH_2-Cl$",
+        "question_images": [],
+        "options": [
+            "A. 4-Chlorobut-2-ene",
+            "B. Chlorobutene",
+            "C. 1-Chlorobut-2-ene",
+            "D. 1-Chlorobut-1-ene"
+        ],
+        "option_images": [],
+        "answer": "C. 1-Chlorobut-2-ene",
+        "solution": "The parent chain is butene. Numbering is done to give the double bond the lowest possible locant, placing it at position 2, and chlorine at position 1.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify secondary alkyl halide from the following.",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. $(CH_3)_3C-CH_2-Br$",
+            "B. $(CH_3)_2CH-CH_2-Br$",
+            "C. $CH_3-CH(Br)-CH_2-CH_3$",
+            "D. $CH_3-CH_2-CH_2-CH_2-Br$"
+        ],
+        "option_images": [],
+        "answer": "C. $CH_3-CH(Br)-CH_2-CH_3$",
+        "solution": "In option (C), the carbon atom bonded to bromine is attached to two other carbon atoms, making it a secondary alkyl halide.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following is likely to undergo racemization during alkaline hydrolysis by $S_N1$ mechanism?",
+        "question_latex": "$S_N1$",
+        "question_images": [],
+        "options": [
+            "A.",
+            "B. $(CH_3)_3C-CH_2-Cl$",
+            "C. $CH_3CH_2CH^*(Cl)CH_3$",
+            "D. $CH_3CH(Cl)CH_3$"
+        ],
+        "option_images": [],
+        "answer": "C. $CH_3CH_2CH^*(Cl)CH_3$",
+        "solution": "During $S_N1$ reaction, a planar carbocation intermediate is formed at the chiral carbon, leading to racemization. Hence, option (C) undergoes racemization.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Halogen Derivatives",
+        "question": "Which of the following compounds forms 1-bromo-1-methylcyclohexane when treated with HBr?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A.",
+            "B.",
+            "C.",
+            "D."
+        ],
+        "option_images": [],
+        "answer": "C.",
+        "solution": "The reaction follows Markownikoff's rule. Protonation leads to formation of the more stable tertiary carbocation, which upon reaction with $Br^-$ gives $1$-bromo-$1$-methylcyclohexane.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Halogen Derivatives",
+        "question": "The decreasing basic order of the following is: i. F3CSO3−  ii. CCl3COO−  iii. PhSO3−  iv. MeSO3−",
+        "question_latex": "$i.\\ F_3CSO_3^- \\quad ii.\\ CCl_3COO^- \\quad iii.\\ PhSO_3^- \\quad iv.\\ MeSO_3^-$",
+        "question_images": [],
+        "options": [
+            "A. i > ii > iii > iv",
+            "B. iv > iii > ii > i",
+            "C. ii > iv > iii > i",
+            "D. iv > ii > i > iii"
+        ],
+        "option_images": [],
+        "answer": "C. ii > iv > iii > i",
+        "solution": "Stronger the acid, weaker is its conjugate base. Sulphonic acids are stronger than carboxylic acids, aromatic sulphonic acids are stronger than aliphatic sulphonic acids, and electron withdrawing groups increase acidity. Hence basicity order is $CCl_3COO^- > MeSO_3^- > PhSO_3^- > F_3CSO_3^-.$",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Halogen Derivatives",
+        "question": "Ph–CH(OH)CH3 having specific rotation +50° reacts with SOCl2. By which of the following mechanisms does the reaction proceed?",
+        "question_latex": "$Ph-CH(OH)CH_3 \\xrightarrow{SOCl_2} Ph-CH(Cl)CH_3$",
+        "question_images": [],
+        "options": [
+            "A. SN1",
+            "B. SN2",
+            "C. SNi",
+            "D. E2"
+        ],
+        "option_images": [],
+        "answer": "C. SNi",
+        "solution": "Reaction of alcohol with $SOCl_2$ proceeds via SNi mechanism with retention of configuration, explaining the unchanged optical activity.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following reactions does not correctly match with its name?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. $C_6H_5Br + 2Na + C_2H_5Br \\xrightarrow{dry\\ ether}$ Wurtz–Fittig reaction",
+            "B. $CH_3Br + AgF$ → Etard reaction",
+            "C. $2C_6H_5Br + 2Na \\xrightarrow{dry\\ ether}$ Fittig reaction",
+            "D. $2C_2H_5Br + 2Na \\xrightarrow{dry\\ ether}$ Wurtz reaction"
+        ],
+        "option_images": [],
+        "answer": "C. $2C_6H_5Br + 2Na \\xrightarrow{dry\\ ether}$ Fittig reaction",
+        "solution": "$CH_3Br + AgF$ represents Swarts reaction. Hence option (C) is incorrectly matched.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Halogen Derivatives",
+        "question": "Which among the following statements is correct regarding alkyl halides?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. Thionyl chloride is unable to convert alcohols into alkyl chlorides",
+            "B. Alkyl halides are also called haloarenes",
+            "C. C–X bond strength increases with increase in size of halogen",
+            "D. Addition of HX to unsymmetrical alkenes in presence of peroxide is called peroxide effect"
+        ],
+        "option_images": [],
+        "answer": "D. Addition of HX to unsymmetrical alkenes in presence of peroxide is called peroxide effect",
+        "solution": "C–X bond strength decreases with increase in size of halogen, alkyl halides are haloalkanes, and $SOCl_2$ converts alcohols to alkyl chlorides. Hence option (D) is correct.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Halogen Derivatives",
+        "question": "Identify the product of the following reaction $CH_3Br + C_2H_5COOAg \\xrightarrow{\\Delta}$",
+        "question_latex": "$CH_3Br + C_2H_5COOAg \\xrightarrow{\\Delta} \\ ?$",
+        "question_images": [],
+        "options": [
+            "A. Ethyl ethanoate",
+            "B. Ethyl propionate",
+            "C. Methyl propionate",
+            "D. Methyl ethanoate"
+        ],
+        "option_images": [],
+        "answer": "C. Methyl propionate",
+        "solution": "Silver salt of carboxylic acid reacts with alkyl halide to form ester. Thus $CH_3Br + C_2H_5COOAg \\rightarrow C_2H_5COOCH_3 + AgBr$, giving methyl propionate.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    }
 ]
-
-
-
-
-
-
-
-

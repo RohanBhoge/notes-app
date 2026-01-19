@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 1,
+    "chapter": "Oscillation",
+    "question": "A small wooden cube is placed on a plank. The plank performs a vertical S.H.M. of frequency 3/pi Hz. The maximum amplitude of the plank so that the wooden block does not leave the plank is [take g = 10 m/s^2][MHT-CET 2022]",
+    "question_latex": "A small wooden cube is placed on a plank. The plank performs a vertical S.H.M. of frequency $\\frac{3}{\\pi}$ Hz. The maximum amplitude of the plank so that the wooden block does not leave the plank is [take $g=10~m/s^{2}$][MHT-CET~2022]",
+    "question_images": [],
+    "options": [
+      "A. 5/2 m",
+      "B. 7/12 m",
+      "C. 11/18 m",
+      "D. 5/18 m"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "The wooden block will lose contact with the plank if the downward acceleration of the plank exceeds the acceleration due to gravity. The maximum acceleration of the plank $a_{max} = A\\omega^{2} = A(2\\pi f)^{2}$. In the limiting case when the block just loses contact, $A(2\\pi f)^{2} = g \\Rightarrow A(4\\pi^{2} f^{2}) = g$. Putting $g=10~m/s^{2}$ and $f=\\frac{3}{\\pi}$ Hz, we get $A(4\\pi^{2} \\times \\frac{9}{\\pi^{2}}) = 10 \\Rightarrow 36A = 10 \\Rightarrow A = \\frac{10}{36} = \\frac{5}{18}$ m.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Oscillation",
+    "question": "A simple pendulum performs simple harmonic motion about x=0 with an amplitude 'A' and time period 'T'. The speed of the pendulum at x=A/2 is [MHT-CET 2021]",
+    "question_latex": "A simple pendulum performs simple harmonic motion about $x=0$ with an amplitude '$A$' and time period '$T$'. The speed of the pendulum at $x=A/2$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. pi A / T",
+      "B. 3 pi^2 A / T",
+      "C. pi A sqrt(3) / T",
+      "D. pi A sqrt(2) / T"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Velocity in S.H.M. is given by $v = \\omega \\sqrt{A^{2} - x^{2}}$. Here $\\omega = \\frac{2\\pi}{T}$ and $x = \\frac{A}{2}$. Substituting the values: $v = \\frac{2\\pi}{T} \\sqrt{A^{2} - (A/2)^{2}} = \\frac{2\\pi}{T} \\sqrt{\\frac{3A^{2}}{4}} = \\frac{2\\pi}{T} \\frac{A\\sqrt{3}}{2} = \\frac{\\pi A\\sqrt{3}}{T}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Oscillation",
+    "question": "For a particle performing linear S.H.M., the force is proportional to its displacement from the mean position and is directed",
+    "question_latex": "For a particle performing linear S.H.M., the force is proportional to its displacement from the mean position and is directed",
+    "question_images": [],
+    "options": [
+      "A. towards the mean position",
+      "B. away from the mean position",
+      "C. perpendicular to the displacement",
+      "D. tangent to the path"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "In S.H.M., the restoring force is $F = -kx$. The negative sign indicates that the force is always directed opposite to the displacement, i.e., towards the mean position.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Oscillation",
+    "question": "If the length of a simple pendulum is increased by 44%, then what is the percentage increase in its time period? [MHT-CET 2020]",
+    "question_latex": "If the length of a simple pendulum is increased by $44\\%$, then what is the percentage increase in its time period? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 10%",
+      "B. 20%",
+      "C. 40%",
+      "D. 44%"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$T = 2\\pi \\sqrt{l/g} \\Rightarrow T \\propto \\sqrt{l}$. Let initial length be $l_{1}$ and period $T_{1}$. New length $l_{2} = 1.44 l_{1}$. New period $T_{2} = \\sqrt{1.44} T_{1} = 1.2 T_{1}$. Percentage increase $= \\frac{1.2 T_{1} - T_{1}}{T_{1}} \\times 100 = 20\\%$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 5,
+    "chapter": "Oscillation",
+    "question": "The potential energy of a particle performing S.H.M. is 1/4th of its total energy when the displacement is [MHT-CET 2023]",
+    "question_latex": "The potential energy of a particle performing S.H.M. is $1/4^{th}$ of its total energy when the displacement is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. A/4",
+      "B. A/2",
+      "C. A/sqrt(2)",
+      "D. A/sqrt(3)"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$P.E. = \\frac{1}{2}m\\omega^{2}x^{2}$ and $T.E. = \\frac{1}{2}m\\omega^{2}A^{2}$. Given $P.E. = \\frac{1}{4} T.E. \\Rightarrow \\frac{1}{2}m\\omega^{2}x^{2} = \\frac{1}{4} (\\frac{1}{2}m\\omega^{2}A^{2}) \\Rightarrow x^{2} = \\frac{1}{4} A^{2} \\Rightarrow x = \\frac{A}{2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 6,
+    "chapter": "Oscillation",
+    "question": "A particle executes S.H.M. of amplitude 5 cm and period 3 s. The velocity of the particle at a distance 4 cm from the mean position is [MHT-CET 2019]",
+    "question_latex": "A particle executes S.H.M. of amplitude $5$ cm and period $3$ s. The velocity of the particle at a distance $4$ cm from the mean position is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 2 pi cm/s",
+      "B. 4 pi cm/s",
+      "C. pi cm/s",
+      "D. 3 pi cm/s"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$v = \\omega \\sqrt{A^{2} - x^{2}}$. Given $A = 5$ cm, $T = 3$ s, $x = 4$ cm. $\\omega = \\frac{2\\pi}{T} = \\frac{2\\pi}{3}$. $v = \\frac{2\\pi}{3} \\sqrt{5^{2} - 4^{2}} = \\frac{2\\pi}{3} \\times 3 = 2\\pi$ cm/s.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 7,
+    "chapter": "Oscillation",
+    "question": "The total energy of a particle performing S.H.M. is E. At what displacement from the mean position is the kinetic energy equal to the potential energy? [MHT-CET 2022]",
+    "question_latex": "The total energy of a particle performing S.H.M. is $E$. At what displacement from the mean position is the kinetic energy equal to the potential energy? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. A/2",
+      "B. A/sqrt(2)",
+      "C. A",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$K.E. = P.E. \\Rightarrow \\frac{1}{2}k(A^{2} - x^{2}) = \\frac{1}{2}kx^{2} \\Rightarrow A^{2} - x^{2} = x^{2} \\Rightarrow 2x^{2} = A^{2} \\Rightarrow x = \\frac{A}{\\sqrt{2}}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 8,
+    "chapter": "Oscillation",
+    "question": "Which of the following is the differential equation for a linear S.H.M.?",
+    "question_latex": "Which of the following is the differential equation for a linear S.H.M.?",
+    "question_images": [],
+    "options": [
+      "A. d^2x/dt^2 + omega x = 0",
+      "B. d^2x/dt^2 + omega^2 x = 0",
+      "C. dx/dt + omega^2 x = 0",
+      "D. d^2x/dt^2 - omega^2 x = 0"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Restoring force $F = -kx \\Rightarrow m a = -kx \\Rightarrow m \\frac{d^{2}x}{dt^{2}} + kx = 0 \\Rightarrow \\frac{d^{2}x}{dt^{2}} + \\frac{k}{m}x = 0$. Using $\\omega^{2} = \\frac{k}{m}$, we get $\\frac{d^{2}x}{dt^{2}} + \\omega^{2}x = 0$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 9,
+    "chapter": "Oscillation",
+    "question": "The frequency of a simple pendulum in a lift falling freely is [MHT-CET 2021]",
+    "question_latex": "The frequency of a simple pendulum in a lift falling freely is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. zero",
+      "B. infinite",
+      "C. finite",
+      "D. same as on earth"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "In free fall, the effective acceleration due to gravity $g' = g - g = 0$. The time period $T = 2\\pi \\sqrt{l/g'} = \\infty$. Frequency $f = 1/T = 1/\\infty = 0$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 10,
+    "chapter": "Oscillation",
+    "question": "A mass m is attached to a spring of force constant k. The frequency of oscillation is n. If the mass is made 4m, the new frequency will be [MHT-CET 2024]",
+    "question_latex": "A mass $m$ is attached to a spring of force constant $k$. The frequency of oscillation is $n$. If the mass is made $4m$, the new frequency will be [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 2n",
+      "B. n/2",
+      "C. n/4",
+      "D. 4n"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Frequency $n = \\frac{1}{2\\pi} \\sqrt{\\frac{k}{m}} \\Rightarrow n \\propto \\frac{1}{\\sqrt{m}}$. If mass becomes $4m$, $n' = \\frac{n}{\\sqrt{4}} = \\frac{n}{2}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Oscillation",
+    "question": "The ratio of frequencies of two pendulums of lengths 1 m and 4 m is [MHT-CET 2019]",
+    "question_latex": "The ratio of frequencies of two pendulums of lengths $1$ m and $4$ m is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 1 : 2",
+      "B. 2 : 1",
+      "C. 1 : 4",
+      "D. 4 : 1"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Frequency $n \\propto \\frac{1}{\\sqrt{l}}$. $\\frac{n_{1}}{n_{2}} = \\sqrt{\\frac{l_{2}}{l_{1}}} = \\sqrt{\\frac{4}{1}} = 2/1$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Oscillation",
+    "question": "The phase of a particle performing S.H.M. at t = 0 is pi/3. If the period is 6 s, the phase at t = 1 s is [MHT-CET 2022]",
+    "question_latex": "The phase of a particle performing S.H.M. at $t = 0$ is $\\pi/3$. If the period is $6$ s, the phase at $t = 1$ s is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. pi/3",
+      "B. 2 pi / 3",
+      "C. pi/2",
+      "D. pi"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Phase $\\phi = \\omega t + \\alpha = \\frac{2\\pi}{T} t + \\alpha$. At $t = 1$, $\\phi = \\frac{2\\pi}{6} (1) + \\pi/3 = \\pi/3 + \\pi/3 = 2\\pi/3$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Oscillation",
+    "question": "The maximum velocity of a particle performing S.H.M. is 0.16 m/s and max acceleration is 0.64 m/s^2. The amplitude is [MHT-CET 2021]",
+    "question_latex": "The maximum velocity of a particle performing S.H.M. is $0.16$ m/s and max acceleration is $0.64~m/s^{2}$. The amplitude is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 4 cm",
+      "B. 40 cm",
+      "C. 0.04 cm",
+      "D. 4 m"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$v_{max} = A\\omega = 0.16$. $a_{max} = A\\omega^{2} = 0.64$. Dividing gives $\\omega = 0.64/0.16 = 4$ rad/s. $A = 0.16/4 = 0.04$ m $= 4$ cm.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Oscillation",
+    "question": "Two simple pendulums of length 1 m and 1.21 m start swinging together. After how many oscillations of the smaller pendulum will they again swing together? [MHT-CET 2020]",
+    "question_latex": "Two simple pendulums of length $1$ m and $1.21$ m start swinging together. After how many oscillations of the smaller pendulum will they again swing together? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 10",
+      "B. 11",
+      "C. 12",
+      "D. 9"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$n_{1} T_{1} = n_{2} T_{2}$. Since $T \\propto \\sqrt{l}$, $n_{1} \\sqrt{l_{1}} = n_{2} \\sqrt{l_{2}}$. $n \\sqrt{1} = (n-1) \\sqrt{1.21} \\Rightarrow n = (n-1) 1.1 \\Rightarrow n = 1.1n - 1.1 \\Rightarrow 0.1n = 1.1 \\Rightarrow n = 11$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Oscillation",
+    "question": "A particle performs S.H.M. with period T. The time taken to travel from x=0 to x=A/2 is [MHT-CET 2023]",
+    "question_latex": "A particle performs S.H.M. with period $T$. The time taken to travel from $x=0$ to $x=A/2$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. T/6",
+      "B. T/12",
+      "C. T/8",
+      "D. T/4"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$x = A \\sin \\omega t \\Rightarrow A/2 = A \\sin (\\frac{2\\pi}{T} t) \\Rightarrow 1/2 = \\sin (\\frac{2\\pi}{T} t) \\Rightarrow \\frac{\\pi}{6} = \\frac{2\\pi}{T} t \\Rightarrow t = T/12$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Oscillation",
+    "question": "For a particle in S.H.M., the graph of acceleration versus displacement is [MHT-CET 2024]",
+    "question_latex": "For a particle in S.H.M., the graph of acceleration versus displacement is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. a straight line passing through origin",
+      "B. a parabola",
+      "C. an ellipse",
+      "D. a circle"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "In S.H.M., $a = -\\omega^{2}x$. This is a linear relationship $y = mx$ where $m = -\\omega^{2}$, representing a straight line passing through the origin with negative slope.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Oscillation",
+    "question": "The K.E. of a particle in S.H.M. is maximum at [MHT-CET 2021]",
+    "question_latex": "The K.E. of a particle in S.H.M. is maximum at [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. Mean position",
+      "B. Extreme position",
+      "C. x = A/2",
+      "D. x = A/sqrt(2)"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$K.E. = \\frac{1}{2}m\\omega^{2}(A^{2}-x^{2})$. It is maximum when $x=0$, which is the mean position.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Oscillation",
+    "question": "A particle executes S.H.M. of period 8 s. After what time from mean position will its speed be half of its maximum speed? [MHT-CET 2023]",
+    "question_latex": "A particle executes S.H.M. of period $8$ s. After what time from mean position will its speed be half of its maximum speed? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 2/3 s",
+      "B. 4/3 s",
+      "C. 1 s",
+      "D. 2 s"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$v = v_{max} \\cos \\omega t \\Rightarrow \\frac{1}{2} v_{max} = v_{max} \\cos (\\frac{2\\pi}{8} t) \\Rightarrow 1/2 = \\cos (\\frac{\\pi}{4} t) \\Rightarrow \\frac{\\pi}{3} = \\frac{\\pi}{4} t \\Rightarrow t = 4/3$ s.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Oscillation",
+    "question": "If the amplitude of S.H.M. is doubled, which of the following is also doubled? [MHT-CET 2020]",
+    "question_latex": "If the amplitude of S.H.M. is doubled, which of the following is also doubled? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. Time period",
+      "B. Total energy",
+      "C. Maximum velocity",
+      "D. Maximum acceleration"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$v_{max} = A\\omega$ and $a_{max} = A\\omega^{2}$. Both are directly proportional to $A$. $T$ is independent of $A$, and $E \\propto A^{2}$. (Note: both C and D are correct, usually $v_{max}$ is the intended answer for 'doubled').",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Oscillation",
+    "question": "The time period of a simple pendulum on the moon is T. On earth, it will be (g_moon = g_earth / 6) [MHT-CET 2022]",
+    "question_latex": "The time period of a simple pendulum on the moon is $T$. On earth, it will be ($g_{moon} = g_{earth} / 6$) [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. T/6",
+      "B. 6 T",
+      "C. T / sqrt(6)",
+      "D. T sqrt(6)"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$T \\propto \\frac{1}{\\sqrt{g}} \\Rightarrow \\frac{T_{earth}}{T_{moon}} = \\sqrt{\\frac{g_{moon}}{g_{earth}}} = \\sqrt{1/6} \\Rightarrow T_{earth} = T / \\sqrt{6}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Oscillation",
+    "question": "A mass of 1 kg is suspended from a spring of force constant 400 N/m. The frequency of oscillation is [MHT-CET 2024]",
+    "question_latex": "A mass of $1$ kg is suspended from a spring of force constant $400~N/m$. The frequency of oscillation is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 10/pi Hz",
+      "B. 20/pi Hz",
+      "C. 10 Hz",
+      "D. 20 Hz"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$n = \\frac{1}{2\\pi} \\sqrt{\\frac{k}{m}} = \\frac{1}{2\\pi} \\sqrt{\\frac{400}{1}} = \\frac{20}{2\\pi} = \\frac{10}{\\pi}$ Hz.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Oscillation",
+    "question": "The potential energy of a particle executing S.H.M. is minimum at [MHT-CET 2021]",
+    "question_latex": "The potential energy of a particle executing S.H.M. is minimum at [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. mean position",
+      "B. extreme position",
+      "C. x = A/2",
+      "D. x = A"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$P.E. = \\frac{1}{2}kx^{2}$. It is zero (minimum) at $x=0$, the mean position.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Oscillation",
+    "question": "For a particle in S.H.M., the displacement x and acceleration a are related by [MHT-CET 2023]",
+    "question_latex": "For a particle in S.H.M., the displacement $x$ and acceleration $a$ are related by [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. a proportional to x",
+      "B. a proportional to -x",
+      "C. a proportional to x^2",
+      "D. a proportional to 1/x"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Basic defining condition for S.H.M.: the restoring force (and thus acceleration) is directly proportional to the displacement and directed towards the mean position.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Oscillation",
+    "question": "The time period of a simple pendulum is 2 s. If the length is doubled, the new period is [MHT-CET 2022]",
+    "question_latex": "The time period of a simple pendulum is $2$ s. If the length is doubled, the new period is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 4 s",
+      "B. 2 sqrt(2) s",
+      "C. sqrt(2) s",
+      "D. 1 s"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$T_{2} = T_{1} \\sqrt{l_{2}/l_{1}} = 2 \\times \\sqrt{2} = 2\\sqrt{2}$ s.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Oscillation",
+    "question": "At the mean position of a particle in S.H.M. [MHT-CET 2020]",
+    "question_latex": "At the mean position of a particle in S.H.M. [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. acceleration is maximum",
+      "B. velocity is minimum",
+      "C. acceleration is zero",
+      "D. potential energy is maximum"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "At $x=0$, $a = -\\omega^{2}(0) = 0$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Oscillation",
+    "question": "The length of a second's pendulum is approximately [MHT-CET 2024]",
+    "question_latex": "The length of a second's pendulum is approximately [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 1 m",
+      "B. 0.5 m",
+      "C. 2 m",
+      "D. 1.5 m"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$T = 2$ s. $2 = 2\\pi \\sqrt{l/g} \\Rightarrow l = g/\\pi^{2} \\approx 9.8/9.87 \\approx 1$ m.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Oscillation",
+    "question": "The angular frequency of S.H.M. is omega. The frequency is [MHT-CET 2021]",
+    "question_latex": "The angular frequency of S.H.M. is $\\omega$. The frequency is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 2 pi omega",
+      "B. omega / 2 pi",
+      "C. pi / omega",
+      "D. 1/omega"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\omega = 2\\pi f \\Rightarrow f = \\omega / 2\\pi$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Oscillation",
+    "question": "The phase difference between displacement and velocity in S.H.M. is [MHT-CET 2023]",
+    "question_latex": "The phase difference between displacement and velocity in S.H.M. is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. pi/2 rad",
+      "B. pi rad",
+      "C. 0 rad",
+      "D. 2 pi rad"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$x = A \\sin \\omega t$, $v = A\\omega \\cos \\omega t = A\\omega \\sin(\\omega t + \\pi/2)$. Difference is $\\pi/2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Oscillation",
+    "question": "Which of the following is true at extreme positions in S.H.M.? [MHT-CET 2022]",
+    "question_latex": "Which of the following is true at extreme positions in S.H.M.? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. velocity is maximum",
+      "B. acceleration is zero",
+      "C. K.E. is zero",
+      "D. P.E. is minimum"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "At $x=A$, $v=0$, so $K.E.=0$. All energy is Potential.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Oscillation",
+    "question": "The time period of a simple pendulum depends on [MHT-CET 2019]",
+    "question_latex": "The time period of a simple pendulum depends on [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. Mass of bob",
+      "B. Amplitude",
+      "C. Length of pendulum",
+      "D. All of the above"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$T = 2\\pi \\sqrt{l/g}$. It is independent of mass and amplitude (for small angles).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Oscillation",
+    "question": "A particle performs S.H.M. with amplitude 10 cm. At what distance from mean position is speed 80% of max speed? [MHT-CET 2024]",
+    "question_latex": "A particle performs S.H.M. with amplitude $10$ cm. At what distance from mean position is speed $80\\%$ of max speed? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 6 cm",
+      "B. 8 cm",
+      "C. 5 cm",
+      "D. 2 cm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$v = 0.8 A\\omega = \\omega \\sqrt{A^{2}-x^{2}} \\Rightarrow 0.64 A^{2} = A^{2} - x^{2} \\Rightarrow x^{2} = 0.36 A^{2} \\Rightarrow x = 0.6 A = 6$ cm.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Oscillation",
+    "question": "Energy of S.H.M. is proportional to [MHT-CET 2021]",
+    "question_latex": "Energy of S.H.M. is proportional to [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. Square of amplitude",
+      "B. Amplitude",
+      "C. Frequency",
+      "D. Square root of mass"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$E = \\frac{1}{2}m\\omega^{2}A^{2}$. Thus $E \\propto A^{2}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Oscillation",
+    "question": "A particle is performing S.H.M. If the displacement is x = 5 sin(4t + pi/6), initial phase is [MHT-CET 2023]",
+    "question_latex": "A particle is performing S.H.M. If the displacement is $x = 5 \\sin(4t + \\pi/6)$, initial phase is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. pi/6",
+      "B. pi/3",
+      "C. 5",
+      "D. 4"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "The constant term in the argument of the sine function at $t=0$ is the epoch or initial phase.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Oscillation",
+    "question": "The acceleration of a particle in S.H.M. is 12 cm/s^2 at x = 3 cm. The period is [MHT-CET 2020]",
+    "question_latex": "The acceleration of a particle in S.H.M. is $12~cm/s^{2}$ at $x = 3$ cm. The period is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. pi s",
+      "B. 2 pi s",
+      "C. 0.5 pi s",
+      "D. 4 pi s"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$|a| = \\omega^{2}x \\Rightarrow 12 = \\omega^{2}(3) \\Rightarrow \\omega^{2}=4 \\Rightarrow \\omega=2$. $T = 2\\pi/\\omega = \\pi$ s.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Oscillation",
+    "question": "In a simple pendulum, if mass of bob is doubled, the period [MHT-CET 2022]",
+    "question_latex": "In a simple pendulum, if mass of bob is doubled, the period [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. becomes double",
+      "B. becomes half",
+      "C. remains same",
+      "D. becomes sqrt(2) times"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The period of a simple pendulum is independent of the mass of the bob.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Oscillation",
+    "question": "A spring is cut into two equal halves. The spring constant of each half is [MHT-CET 2024]",
+    "question_latex": "A spring is cut into two equal halves. The spring constant of each half is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. k",
+      "B. 2k",
+      "C. k/2",
+      "D. 4k"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$k \\propto 1/l$. If length is halved, spring constant is doubled.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Oscillation",
+    "question": "Ratio of PE to KE at x = A/2 is [MHT-CET 2021]",
+    "question_latex": "Ratio of $PE$ to $KE$ at $x = A/2$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 1 : 3",
+      "B. 3 : 1",
+      "C. 1 : 4",
+      "D. 1 : 1"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$PE = \\frac{1}{2}k(A/2)^{2} = \\frac{1}{8}kA^{2}$. $KE = \\frac{1}{2}k(A^{2} - A^{2}/4) = \\frac{3}{8}kA^{2}$. Ratio $= 1:3$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Oscillation",
+    "question": "Two S.H.M.s are represented by y1 = 5 sin(2pi t + pi/4) and y2 = 5 sin(2pi t + 3pi/4). Phase difference is [MHT-CET 2023]",
+    "question_latex": "Two S.H.M.s are represented by $y_{1} = 5 \\sin(2\\pi t + \\pi/4)$ and $y_{2} = 5 \\sin(2\\pi t + 3\\pi/4)$. Phase difference is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. pi/2",
+      "B. pi/4",
+      "C. pi",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\Delta \\phi = 3\\pi/4 - \\pi/4 = 2\\pi/4 = \\pi/2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Oscillation",
+    "question": "Frequency of a pendulum of length 100 cm is [MHT-CET 2022]",
+    "question_latex": "Frequency of a pendulum of length $100$ cm is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 0.5 Hz",
+      "B. 1 Hz",
+      "C. 2 Hz",
+      "D. pi Hz"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$l=1$ m. $T = 2\\pi \\sqrt{1/9.8} \\approx 2$ s. $n = 1/2 = 0.5$ Hz.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Oscillation",
+    "question": "Maximum K.E. of a particle in S.H.M. is 8 J. Amplitude is 2 m, mass is 4 kg. Angular frequency is [MHT-CET 2020]",
+    "question_latex": "Maximum $K.E.$ of a particle in S.H.M. is $8$ J. Amplitude is $2$ m, mass is $4$ kg. Angular frequency is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 1 rad/s",
+      "B. 2 rad/s",
+      "C. 0.5 rad/s",
+      "D. 4 rad/s"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$E = \\frac{1}{2} m \\omega^{2} A^{2} \\Rightarrow 8 = 0.5 \\times 4 \\times \\omega^{2} \\times 4 \\Rightarrow 8 = 8\\omega^{2} \\Rightarrow \\omega = 1$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Oscillation",
+    "question": "A particle performs S.H.M. of amplitude A. The distance from mean position where KE = 3 PE is [MHT-CET 2024]",
+    "question_latex": "A particle performs S.H.M. of amplitude $A$. The distance from mean position where $KE = 3 PE$ is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. A/2",
+      "B. A/sqrt(2)",
+      "C. A/sqrt(3)",
+      "D. A/4"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$A^{2}-x^{2} = 3x^{2} \\Rightarrow A^{2} = 4x^{2} \\Rightarrow x = A/2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Oscillation",
+    "question": "Differential equation for angular S.H.M. is [MHT-CET 2021]",
+    "question_latex": "Differential equation for angular S.H.M. is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. I d^2 theta/dt^2 + c theta = 0",
+      "B. d^2x/dt^2 + omega^2 x = 0",
+      "C. m d^2x/dt^2 + kx = 0",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard equation where $I$ is moment of inertia and $c$ is restoring torque constant.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Oscillation",
+    "question": "Time period of a simple pendulum of infinite length is [MHT-CET 2023]",
+    "question_latex": "Time period of a simple pendulum of infinite length is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 84.6 min",
+      "B. infinity",
+      "C. 24 hours",
+      "D. 1 hour"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Calculated using $T = 2\\pi \\sqrt{R/g} \\approx 84.6$ minutes.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Oscillation",
+    "question": "Total energy in S.H.M. depends on [MHT-CET 2022]",
+    "question_latex": "Total energy in S.H.M. depends on [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Mass",
+      "B. Amplitude",
+      "C. Frequency",
+      "D. All of these"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$E = 2\\pi^{2} m n^{2} A^{2}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Oscillation",
+    "question": "A particle starts from positive extreme position. Its phase is [MHT-CET 2020]",
+    "question_latex": "A particle starts from positive extreme position. Its phase is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. pi/2",
+      "B. 0",
+      "C. pi",
+      "D. 3pi/2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$x = A \\cos \\omega t = A \\sin(\\omega t + \\pi/2)$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Oscillation",
+    "question": "If gravity becomes 4 times, the time period of a pendulum [MHT-CET 2024]",
+    "question_latex": "If gravity becomes $4$ times, the time period of a pendulum [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. becomes half",
+      "B. becomes double",
+      "C. stays same",
+      "D. becomes 4 times"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$T \\propto 1/\\sqrt{g}$. $\\sqrt{4} = 2$. So $T' = T/2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Oscillation",
+    "question": "Spring constant k1 and k2 are in parallel. Resultant k is [MHT-CET 2021]",
+    "question_latex": "Spring constant $k_{1}$ and $k_{2}$ are in parallel. Resultant $k$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. k1 + k2",
+      "B. k1 k2 / (k1 + k2)",
+      "C. k1 - k2",
+      "D. sqrt(k1 k2)"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Rule for parallel springs.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Oscillation",
+    "question": "Period of a simple pendulum of length L is T. If L is made 4L, period is [MHT-CET 2023]",
+    "question_latex": "Period of a simple pendulum of length $L$ is $T$. If $L$ is made $4L$, period is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 2T",
+      "B. 4T",
+      "C. T/2",
+      "D. T"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$T \\propto \\sqrt{l}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Oscillation",
+    "question": "Maximum potential energy in S.H.M. is [MHT-CET 2022]",
+    "question_latex": "Maximum potential energy in S.H.M. is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 1/2 k A^2",
+      "B. 1/2 k x^2",
+      "C. k A^2",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Occurs at extreme positions.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Oscillation",
+    "question": "Particle in S.H.M. starts from mean position. After T/8 time, its phase is [MHT-CET 2020]",
+    "question_latex": "Particle in S.H.M. starts from mean position. After $T/8$ time, its phase is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. pi/4",
+      "B. pi/2",
+      "C. pi/8",
+      "D. pi"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\phi = \\omega t = (2\\pi/T) (T/8) = \\pi/4$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Oscillation",
+    "question": "Velocity of particle in S.H.M. at extreme position is [MHT-CET 2024]",
+    "question_latex": "Velocity of particle in S.H.M. at extreme position is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. zero",
+      "B. maximum",
+      "C. A omega",
+      "D. A omega^2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Particle momentarily stops to return.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Oscillation",
+    "question": "Force constant of a spring is k. Two such springs in series have constant [MHT-CET 2021]",
+    "question_latex": "Force constant of a spring is $k$. Two such springs in series have constant [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 2k",
+      "B. k/2",
+      "C. k",
+      "D. 4k"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$1/k' = 1/k + 1/k = 2/k \\Rightarrow k' = k/2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Oscillation",
+    "question": "Phase difference between displacement and acceleration is [MHT-CET 2023]",
+    "question_latex": "Phase difference between displacement and acceleration is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. pi rad",
+      "B. pi/2 rad",
+      "C. zero",
+      "D. 2 pi rad"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$a = -\\omega^{2}x = \\omega^{2}x \\sin(\\omega t + \\pi)$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Oscillation",
+    "question": "A particle performs S.H.M. with amplitude 4 cm. Its max speed is 12 cm/s. Its period is [MHT-CET 2022]",
+    "question_latex": "A particle performs S.H.M. with amplitude $4$ cm. Its max speed is $12~cm/s$. Its period is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 2 pi / 3 s",
+      "B. pi / 3 s",
+      "C. 2 pi s",
+      "D. 3 pi / 2 s"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$A\\omega = 12 \\Rightarrow 4\\omega = 12 \\Rightarrow \\omega = 3$. $T = 2\\pi/3$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Oscillation",
+    "question": "Restoring force in angular S.H.M. is [MHT-CET 2020]",
+    "question_latex": "Restoring force in angular S.H.M. is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. Torque proportional to -theta",
+      "B. Force proportional to -x",
+      "C. Torque proportional to theta",
+      "D. Force proportional to x"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Basic definition of rotational S.H.M.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Oscillation",
+    "question": "Time period of conical pendulum depends on [MHT-CET 2024]",
+    "question_latex": "Time period of conical pendulum depends on [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. angle of inclination",
+      "B. mass",
+      "C. speed",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$T = 2\\pi \\sqrt{L \\cos \\theta / g}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Oscillation",
+    "question": "Potential energy of S.H.M. at extreme position is [MHT-CET 2021]",
+    "question_latex": "Potential energy of S.H.M. at extreme position is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. Total energy",
+      "B. Zero",
+      "C. Half of total",
+      "D. minimum"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Since $v=0$, all energy is $PE$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Oscillation",
+    "question": "A particle in S.H.M. has max velocity v. Its velocity at x=A/2 is [MHT-CET 2023]",
+    "question_latex": "A particle in S.H.M. has max velocity $v$. Its velocity at $x=A/2$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. v sqrt(3)/2",
+      "B. v/2",
+      "C. v sqrt(2)/2",
+      "D. v/4"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$v' = v \\sqrt{1 - (1/2)^{2}} = v \\sqrt{3/4} = v \\sqrt{3}/2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Oscillation",
+    "question": "S.H.M. is a projection of [MHT-CET 2022]",
+    "question_latex": "S.H.M. is a projection of [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. U.C.M. on any diameter",
+      "B. constant velocity motion",
+      "C. projectile motion",
+      "D. linear motion"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Linking circular motion to oscillatory motion.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Oscillation",
+    "question": "Equation x = A sin(wt) + B cos(wt) represents S.H.M. with amplitude [MHT-CET 2020]",
+    "question_latex": "Equation $x = A \\sin(\\omega t) + B \\cos(\\omega t)$ represents S.H.M. with amplitude [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. sqrt(A^2 + B^2)",
+      "B. A + B",
+      "C. A - B",
+      "D. sqrt(AB)"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Resultant of two orthogonal oscillations.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Oscillation",
+    "question": "Total energy of a simple pendulum is E. At x=A/2, its K.E. is [MHT-CET 2024]",
+    "question_latex": "Total energy of a simple pendulum is $E$. At $x=A/2$, its $K.E.$ is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 3E/4",
+      "B. E/4",
+      "C. E/2",
+      "D. E"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$KE/E = (A^{2}-x^{2})/A^{2} = (1 - 1/4) = 3/4$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Oscillation",
+    "question": "The time period of a simple pendulum of length 1 m is [MHT-CET 2021]",
+    "question_latex": "The time period of a simple pendulum of length $1$ m is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 2 s",
+      "B. 1 s",
+      "C. pi s",
+      "D. 2 pi s"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard approximation for earth surface.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Oscillation",
+    "question": "The acceleration of a particle in S.H.M. is maximum at [MHT-CET 2023]",
+    "question_latex": "The acceleration of a particle in S.H.M. is maximum at [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. extreme position",
+      "B. mean position",
+      "C. any point",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$a = |-\\omega^{2}x|$. Max when $x=A$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Oscillation",
+    "question": "If frequency of S.H.M. is n, the frequency of its kinetic energy is [MHT-CET 2022]",
+    "question_latex": "If frequency of S.H.M. is $n$, the frequency of its kinetic energy is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 2n",
+      "B. n",
+      "C. n/2",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$KE \\propto \\cos^{2}(\\omega t)$. $\\cos^{2} \\theta = (1 + \\cos 2\\theta)/2$. Frequency doubles.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Oscillation",
+    "question": "Restoring force constant k has dimensions [MHT-CET 2020]",
+    "question_latex": "Restoring force constant $k$ has dimensions [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. [M1 L0 T-2]",
+      "B. [M1 L1 T-2]",
+      "C. [M0 L1 T-2]",
+      "D. [M1 L-1 T-2]"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$k = F/x$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Oscillation",
+    "question": "A simple pendulum is taken to the center of earth. Its period is [MHT-CET 2024]",
+    "question_latex": "A simple pendulum is taken to the center of earth. Its period is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. infinite",
+      "B. zero",
+      "C. same",
+      "D. 2 s"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$g=0$ at center.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Oscillation",
+    "question": "Two pendulums of length L and 16L start together. After how many oscillations of larger will they be together? [MHT-CET 2021]",
+    "question_latex": "Two pendulums of length $L$ and $16L$ start together. After how many oscillations of larger will they be together? [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 4",
+      "C. 3",
+      "D. 2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$n_{1} \\sqrt{1} = n_{2} \\sqrt{16} \\Rightarrow n_{1} = 4n_{2}$. If $n_{2}=1, n_{1}=4$. Larger completes 1 oscillation.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Oscillation",
+    "question": "At x = A/sqrt(2), which is true? [MHT-CET 2023]",
+    "question_latex": "At $x = A/\\sqrt{2}$, which is true? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. KE = PE",
+      "B. KE = 2 PE",
+      "C. PE = 2 KE",
+      "D. Total energy is zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Equal energy point.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Oscillation",
+    "question": "Velocity is zero in S.H.M. at [MHT-CET 2022]",
+    "question_latex": "Velocity is zero in S.H.M. at [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. extreme position",
+      "B. mean position",
+      "C. always",
+      "D. never"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard property.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Oscillation",
+    "question": "A particle performs S.H.M. x = 10 sin(wt). Max speed is 20 cm/s. w is [MHT-CET 2020]",
+    "question_latex": "A particle performs S.H.M. $x = 10 \\sin(\\omega t)$. Max speed is $20~cm/s$. $\\omega$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 2 rad/s",
+      "B. 10 rad/s",
+      "C. 0.5 rad/s",
+      "D. 1 rad/s"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$A\\omega = 20 \\Rightarrow 10\\omega = 20$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Oscillation",
+    "question": "Potential energy curve of S.H.M. is [MHT-CET 2024]",
+    "question_latex": "Potential energy curve of S.H.M. is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Parabola",
+      "B. Hyperbola",
+      "C. Circle",
+      "D. Straight line"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$U \\propto x^{2}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Oscillation",
+    "question": "Time period of liquid in U-tube depends on [MHT-CET 2021]",
+    "question_latex": "Time period of liquid in U-tube depends on [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. height of liquid column",
+      "B. density",
+      "C. area of tube",
+      "D. mass"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$T = 2\\pi \\sqrt{h/g}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Oscillation",
+    "question": "The phase of particle at x = -A is [MHT-CET 2023]",
+    "question_latex": "The phase of particle at $x = -A$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 3pi/2",
+      "B. pi",
+      "C. pi/2",
+      "D. 2pi"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Negative extreme.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Oscillation",
+    "question": "A spring constant k is stretched by x. Energy is E. If stretched by 2x, energy is [MHT-CET 2022]",
+    "question_latex": "A spring constant $k$ is stretched by $x$. Energy is $E$. If stretched by $2x$, energy is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 4E",
+      "B. 2E",
+      "C. E",
+      "D. 8E"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$E \\propto x^{2}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Oscillation",
+    "question": "Effective g in a lift moving up with 'a' is [MHT-CET 2020]",
+    "question_latex": "Effective $g$ in a lift moving up with '$a$' is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. g + a",
+      "B. g - a",
+      "C. g",
+      "D. sqrt(g^2 + a^2)"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Pseudo force adds to gravity.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Oscillation",
+    "question": "Second's pendulum frequency is [MHT-CET 2024]",
+    "question_latex": "Second's pendulum frequency is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 0.5 Hz",
+      "B. 1 Hz",
+      "C. 2 Hz",
+      "D. 0.25 Hz"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$n = 1/T = 1/2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Oscillation",
+    "question": "Force on a particle in S.H.M. is max at [MHT-CET 2021]",
+    "question_latex": "Force on a particle in S.H.M. is max at [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. extreme position",
+      "B. mean position",
+      "C. x = A/2",
+      "D. x = A/sqrt(2)"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$F = |-kx|$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Oscillation",
+    "question": "Period of revolution of planet is T. Frequency of its motion is [MHT-CET 2023]",
+    "question_latex": "Period of revolution of planet is $T$. Frequency of its motion is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1/T",
+      "B. T",
+      "C. 2pi/T",
+      "D. T/2pi"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard relation.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Oscillation",
+    "question": "If mass of earth becomes 4 times, period of pendulum [MHT-CET 2022]",
+    "question_latex": "If mass of earth becomes $4$ times, period of pendulum [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. becomes half",
+      "B. becomes double",
+      "C. same",
+      "D. 4 times"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$g \\propto M$. If $M$ is 4x, $g$ is 4x. $T \\propto 1/\\sqrt{g}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Oscillation",
+    "question": "Damping force in oscillations depends on [MHT-CET 2020]",
+    "question_latex": "Damping force in oscillations depends on [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. velocity",
+      "B. displacement",
+      "C. mass",
+      "D. acceleration"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$F_{d} = -bv$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Oscillation",
+    "question": "Amplitude of resonance depends on [MHT-CET 2024]",
+    "question_latex": "Amplitude of resonance depends on [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. damping",
+      "B. driving frequency",
+      "C. both A and B",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Standard forced oscillation property.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Oscillation",
+    "question": "Potential energy of S.H.M. is U. At x=A/2, PE is [MHT-CET 2021]",
+    "question_latex": "Potential energy of S.H.M. is $U$. At $x=A/2$, $PE$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. U/4",
+      "B. U/2",
+      "C. U",
+      "D. 4U"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$U_{max} = 0.5 kA^{2}$. $U' = 0.5 k (A/2)^{2} = U_{max}/4$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Oscillation",
+    "question": "Time period of bob filled with water. As water leaks, period [MHT-CET 2023]",
+    "question_latex": "Time period of bob filled with water. As water leaks, period [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. first increases then decreases",
+      "B. decreases",
+      "C. increases",
+      "D. remains same"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Effective length increases as CM lowers, then decreases as bob becomes empty.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Oscillation",
+    "question": "A particle performs S.H.M. x = 2 sin(10t). Max acceleration is [MHT-CET 2022]",
+    "question_latex": "A particle performs S.H.M. $x = 2 \\sin(10t)$. Max acceleration is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 200",
+      "B. 20",
+      "C. 100",
+      "D. 400"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$A\\omega^{2} = 2 \\times 100$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Oscillation",
+    "question": "Work done to displace bob from 0 to A is [MHT-CET 2020]",
+    "question_latex": "Work done to displace bob from $0$ to $A$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 1/2 k A^2",
+      "B. k A^2",
+      "C. zero",
+      "D. mgh"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Stored as $PE$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Oscillation",
+    "question": "At mean position, phase of particle is [MHT-CET 2024]",
+    "question_latex": "At mean position, phase of particle is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 0 or pi",
+      "B. pi/2",
+      "C. 3pi/2",
+      "D. pi/4"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$x = A \\sin \\phi$. $0 = \\sin \\phi \\Rightarrow \\phi = 0, \\pi$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Oscillation",
+    "question": "Ratio of max velocity to max acceleration is [MHT-CET 2021]",
+    "question_latex": "Ratio of max velocity to max acceleration is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 1/omega",
+      "B. omega",
+      "C. omega^2",
+      "D. T"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$A\\omega / A\\omega^{2} = 1/\\omega$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Oscillation",
+    "question": "Force constant of 100 N/m. To stretch by 10 cm, work is [MHT-CET 2023]",
+    "question_latex": "Force constant of $100~N/m$. To stretch by $10$ cm, work is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 0.5 J",
+      "B. 500 J",
+      "C. 5 J",
+      "D. 0.1 J"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$0.5 \\times 100 \\times 0.1^{2} = 0.5 \\times 100 \\times 0.01 = 0.5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Oscillation",
+    "question": "Velocity vs displacement graph in S.H.M. is [MHT-CET 2022]",
+    "question_latex": "Velocity vs displacement graph in S.H.M. is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Ellipse",
+      "B. Circle",
+      "C. Parabola",
+      "D. Straight line"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "From $v = \\omega \\sqrt{A^{2}-x^{2}} \\Rightarrow (v/A\\omega)^{2} + (x/A)^{2} = 1$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Oscillation",
+    "question": "S.H.M. of period T. After T/4 time, its phase is [MHT-CET 2020]",
+    "question_latex": "S.H.M. of period $T$. After $T/4$ time, its phase is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. pi/2",
+      "B. pi",
+      "C. pi/4",
+      "D. 2pi"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard quarter cycle.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Oscillation",
+    "question": "Force on a particle is F = -4x. Mass is 1 kg. period is [MHT-CET 2024]",
+    "question_latex": "Force on a particle is $F = -4x$. Mass is $1$ kg. period is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. pi s",
+      "B. 2 pi s",
+      "C. 0.5 s",
+      "D. 4 s"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$k=4, m=1 \\Rightarrow \\omega=2$. $T=\\pi$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Oscillation",
+    "question": "At x=A, particle energy is [MHT-CET 2021]",
+    "question_latex": "At $x=A$, particle energy is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. PE",
+      "B. KE",
+      "C. zero",
+      "D. infinite"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "KE is zero.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Oscillation",
+    "question": "Initial phase alpha is also known as [MHT-CET 2023]",
+    "question_latex": "Initial phase $\\alpha$ is also known as [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. Epoch",
+      "B. Frequency",
+      "C. Period",
+      "D. Velocity"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Technical term.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Oscillation",
+    "question": "Total energy of a mass-spring system is independent of [MHT-CET 2022]",
+    "question_latex": "Total energy of a mass-spring system is independent of [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Acceleration due to gravity",
+      "B. Spring constant",
+      "C. Amplitude",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$E = 0.5 k A^{2}$. No $g$ term.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Oscillation",
+    "question": "Amplitude of oscillation of liquid column in U-tube [MHT-CET 2020]",
+    "question_latex": "Amplitude of oscillation of liquid column in U-tube [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. decreases with time",
+      "B. stays constant",
+      "C. increases",
+      "D. is zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Due to viscosity (damping).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Oscillation",
+    "question": "Period of a simple pendulum is 1 s. frequency is [MHT-CET 2024]",
+    "question_latex": "Period of a simple pendulum is $1$ s. frequency is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 1 Hz",
+      "B. 0.5 Hz",
+      "C. 2 Hz",
+      "D. 0.1 Hz"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$n = 1/T$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Oscillation",
+    "question": "A cylindrical block of density p and cross-sectional area A floats in a liquid of density pL. The frequency of vertical oscillations is proportional to [MHT-CET 2018]",
+    "question_latex": "A cylindrical block of density $\\rho$ and cross-sectional area $A$ floats in a liquid of density $\\rho_{L}$. The frequency of vertical oscillations is proportional to [MHT-CET 2018]",
+    "question_images": [],
+    "options": [
+      "A. sqrt(A)",
+      "B. A",
+      "C. 1/A",
+      "D. 1/sqrt(A)"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Restoring force $F = - (A \\rho_{L} g) x$. Spring constant $k = A \\rho_{L} g$. Frequency $n = \\frac{1}{2\\pi} \\sqrt{\\frac{k}{m}} = \\frac{1}{2\\pi} \\sqrt{\\frac{A \\rho_{L} g}{m}} \\Rightarrow n \\propto \\sqrt{A}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Oscillation",
+    "question": "The P.E. of a particle executing S.H.M at a distance x from its equilibrium position is",
+    "question_latex": "The $P.E.$ of a particle executing S.H.M at a distance $x$ from its equilibrium position is",
+    "question_images": [],
+    "options": [
+      "A. 1/2 m omega^2 x^2",
+      "B. 1/2 m omega^2 A^2",
+      "C. 1/2 m omega^2 (A^2 - x^2)",
+      "D. Zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Potential energy is given by the work done against the restoring force, which results in $\\frac{1}{2}kx^{2} = \\frac{1}{2}m\\omega^{2}x^{2}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Oscillation",
+    "question": "The displacement of a particle executing SHM is given by y = 0.25 sin 200t cm. the maximum speed of the particle is",
+    "question_latex": "The displacement of a particle executing SHM is given by $y = 0.25 \\sin 200t$ cm. the maximum speed of the particle is",
+    "question_images": [],
+    "options": [
+      "A. 200 cm/s",
+      "B. 100 cm/s",
+      "C. 50 cm/s",
+      "D. 5.25 cm/s"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$y = A \\sin \\omega t \\Rightarrow A = 0.25$ cm, $\\omega = 200$ rad/s. Maximum speed $v_{max} = A\\omega = 0.25 \\times 200 = 50$ cm/s.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Oscillation",
+    "question": "The phase difference between velocity and acceleration of a particle in S.H.M. is [MHT-CET 2021]",
+    "question_latex": "The phase difference between velocity and acceleration of a particle in S.H.M. is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. pi/2 rad",
+      "B. pi rad",
+      "C. 2 pi rad",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Displacement $x = A \\sin \\omega t$. Velocity $v = A \\omega \\cos \\omega t = A \\omega \\sin(\\omega t + \\pi/2)$. Acceleration $a = -A \\omega^{2} \\sin \\omega t = A \\omega^{2} \\sin(\\omega t + \\pi)$. Phase difference between $v$ and $a = \\pi - \\pi/2 = \\pi/2$ rad.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  }
+]

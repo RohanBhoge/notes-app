@@ -1,1924 +1,1902 @@
 [
-  {
-    "id": 1,
-    "chapter": "Biomolecules",
-    "question": "How many moles of acetic acid are obtained in the reaction when one mole glucose is treated with excess ethyl alcohol?",
-    "question_latex": "How many moles of acetic acid are obtained in the reaction when one mole glucose is treated with excess ethyl alcohol?",
-    "question_images": [
-      "q1_1"
-    ],
-    "options": [
-      "A. 3 moles",
-      "B. 5 moles",
-      "C. 2 moles",
-      "D. 4 moles"
-    ],
-    "option_images": [],
-    "answer": "B. 5 moles",
-    "solution": "On reaction with excess ethyl alcohol in presence of $ZnCl_{2}$, one mole of glucose forms glucose pentaacetate producing 5 moles of acetic acid. ",
-    "solution_images": [
-      "q1_solution_1"
-    ],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 2,
-    "chapter": "Biomolecules",
-    "question": "Which of the following is NOT a sex hormone?",
-    "question_latex": "Which of the following is NOT a sex hormone?",
-    "question_images": [],
-    "options": [
-      "A. Estrogen",
-      "B. Progesterone",
-      "C. Androgen",
-      "D. Adrenaline"
-    ],
-    "option_images": [],
-    "answer": "D. Adrenaline",
-    "solution": "Adrenaline is a hormone secreted by the adrenal glands as part of the fight-or-flight response. Estrogen, Progesterone, and Androgens are the primary sex hormones.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 3,
-    "chapter": "Biomolecules",
-    "question": "Which of the following statements is / are correct?",
-    "question_latex": "Which of the following statements is / are correct?\\\\\n1. Glucose is reducing sugar\\\\\n2. Sucrose is reducing sugar\\\\\n3. Maltose is non-reducing sugar\\\\\n4. Lactose is reducing sugar",
-    "question_images": [],
-    "options": [
-      "A. 1 and 2 only",
-      "B. 1 and 3 only",
-      "C. 1 and 4 only",
-      "D. All"
-    ],
-    "option_images": [],
-    "answer": "C. 1 and 4 only",
-    "solution": "Glucose and lactose are reducing sugars. Sucrose is a non-reducing sugar because its anomeric carbons are involved in the glycosidic bond. Maltose is a reducing sugar. ",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 4,
-    "chapter": "Biomolecules",
-    "question": "Identify side chain present in serine, an amino acid.",
-    "question_latex": "Identify side chain present in serine, an amino acid.",
-    "question_images": [],
-    "options": [
-      "A. –H",
-      "B. –CH$_2$OH",
-      "C. –HS–CH$_2$",
-      "D. –CH$_2$–CH$_2$"
-    ],
-    "option_images": [],
-    "answer": "B. –CH$_2$OH",
-    "solution": "Serine contains a hydroxymethyl side chain ($-CH_{2}OH$). [Image of the chemical structure of Serine]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 5,
-    "chapter": "Biomolecules",
-    "question": "The carbohydrate that CANNOT be hydrolysed to simpler form is called _____",
-    "question_latex": "The carbohydrate that CANNOT be hydrolysed to simpler form is called \\_\\_\\_\\_\\_",
-    "question_images": [],
-    "options": [
-      "A. Polysaccharide",
-      "B. Trisaccharide",
-      "C. Disaccharide",
-      "D. Monosaccharide"
-    ],
-    "option_images": [],
-    "answer": "D. Monosaccharide",
-    "solution": "Monosaccharides are the simplest carbohydrates and cannot be hydrolysed further into smaller units.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 6,
-    "chapter": "Biomolecules",
-    "question": "The letter D in carbohydrates represents its ____",
-    "question_latex": "The letter D in carbohydrates represents its \\_\\_\\_\\_",
-    "question_images": [],
-    "options": [
-      "A. Dextro synthesis",
-      "B. Levorotation",
-      "C. Mutarotation",
-      "D. Configuration"
-    ],
-    "option_images": [],
-    "answer": "D. Configuration",
-    "solution": "The $D/L$ notation denotes the absolute configuration of the chiral carbon farthest from the carbonyl group relative to glyceraldehyde. ",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 7,
-    "chapter": "Biomolecules",
-    "question": "Carbohydrates are stored in the body as",
-    "question_latex": "Carbohydrates are stored in the body as",
-    "question_images": [],
-    "options": [
-      "A. Sugars",
-      "B. Starch",
-      "C. Glucose",
-      "D. Glycogen"
-    ],
-    "option_images": [],
-    "answer": "D. Glycogen",
-    "solution": "In animals, carbohydrates are stored as glycogen, primarily in the liver and muscle tissues.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 8,
-    "chapter": "Biomolecules",
-    "question": "Which from following on hydrolysis forms invert sugar?",
-    "question_latex": "Which from following on hydrolysis forms invert sugar?",
-    "question_images": [],
-    "options": [
-      "A. Starch",
-      "B. Lactose",
-      "C. Sucrose",
-      "D. Maltose"
-    ],
-    "option_images": [],
-    "answer": "C. Sucrose",
-    "solution": "Sucrose hydrolyses to an equimolar mixture of D-glucose and D-fructose. This mixture is called 'invert sugar' because the sign of optical rotation changes (inverts) from dextro to levo during hydrolysis.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 9,
-    "chapter": "Biomolecules",
-    "question": "Which of the following enzymes is useful in conversion of glucose to fructose?",
-    "question_latex": "Which of the following enzymes is useful in conversion of glucose to fructose?",
-    "question_images": [],
-    "options": [
-      "A. Invertase",
-      "B. Amylase",
-      "C. Protease",
-      "D. Glucose isomerase"
-    ],
-    "option_images": [],
-    "answer": "D. Glucose isomerase",
-    "solution": "Glucose isomerase is the enzyme that catalyzes the isomerization of glucose into fructose.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 10,
-    "chapter": "Biomolecules",
-    "question": "Terpenes consist of ____ units.",
-    "question_latex": "Terpenes consist of \\_\\_\\_\\_ units.",
-    "question_images": [],
-    "options": [
-      "A. Steroid",
-      "B. Amino acid",
-      "C. Isoprene",
-      "D. Glucose"
-    ],
-    "option_images": [],
-    "answer": "C. Isoprene",
-    "solution": "Terpenes are a large and diverse class of organic compounds derived biosynthetically from units of isoprene ($C_{5}H_{8}$). [Image of Isoprene unit structure]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 11,
-    "chapter": "Biomolecules",
-    "question": "Which of following has similar glycosidic bond?",
-    "question_latex": "Which of following has similar glycosidic bond?",
-    "question_images": [],
-    "options": [
-      "A. Maltose and lactose",
-      "B. Maltose and cellulose",
-      "C. Amylose and amylopectin",
-      "D. Maltose and amylase"
-    ],
-    "option_images": [],
-    "answer": "B. Maltose and cellulose",
-    "solution": "Maltose and cellulose both contain glycosidic bonds between glucose units. Note: While maltose contains $\\alpha$-1,4 and cellulose contains $\\beta$-1,4, they are both 1-4 linkages between glucose molecules.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 12,
-    "chapter": "Biomolecules",
-    "question": "Which among the following carbohydrates yields highest number of monosaccharide units when one mole of it is hydrolysed?",
-    "question_latex": "Which among the following carbohydrates yields highest number of monosaccharide units when one mole of it is hydrolysed?",
-    "question_images": [],
-    "options": [
-      "A. Sucrose",
-      "B. Lactose",
-      "C. Stachyose",
-      "D. Raffinose"
-    ],
-    "option_images": [],
-    "answer": "C. Stachyose",
-    "solution": "Sucrose and Lactose are disaccharides (2 units), Raffinose is a trisaccharide (3 units), and Stachyose is a tetrasaccharide (4 units). Thus, Stachyose yields the highest number.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 13,
-    "chapter": "Biomolecules",
-    "question": "What is IUPAC name of glyceraldehyde?",
-    "question_latex": "What is IUPAC name of glyceraldehyde?",
-    "question_images": [
-      "q13_1"
-    ],
-    "options": [
-      "A. Propanal",
-      "B. 2-Hydroxybutanal",
-      "C. 2,3-Dihydroxypropanal",
-      "D. 2-Hydroxypropanal"
-    ],
-    "option_images": [],
-    "answer": "C. 2,3-Dihydroxypropanal",
-    "solution": "Glyceraldehyde contains an aldehyde group (at $C_{1}$) and hydroxyl groups at $C_{2}$ and $C_{3}$. [Image of chemical structure of Glyceraldehyde]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 14,
-    "chapter": "Biomolecules",
-    "question": "Identity the glycosidic linkage present in sucrose.",
-    "question_latex": "Identity the glycosidic linkage present in sucrose.",
-    "question_images": [
-      "q14_1"
-    ],
-    "options": [
-      "A. $\\alpha$-1 → 4",
-      "B. $\\beta$-1 → 4",
-      "C. $\\alpha$-1 → 2",
-      "D. $\\beta$-1 → 6"
-    ],
-    "option_images": [],
-    "answer": "C. $\\alpha$-1 → 2",
-    "solution": "Sucrose consists of $\\alpha$-D-glucose and $\\beta$-D-fructose linked by an $\\alpha$-1,2-glycosidic bond. [Image of Sucrose glycosidic bond structure]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 15,
-    "chapter": "Biomolecules",
-    "question": "DNA differ from RNA in respect to base",
-    "question_latex": "DNA differ from RNA in respect to base",
-    "question_images": [],
-    "options": [
-      "A. Uracil",
-      "B. Cytosine",
-      "C. Adenine",
-      "D. Guanine"
-    ],
-    "option_images": [],
-    "answer": "A. Uracil",
-    "solution": "RNA contains the base Uracil, whereas DNA contains Thymine.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 16,
-    "chapter": "Biomolecules",
-    "question": "Which from following n mole molecules of carbohydrates contains 2n mole molecules of galactose, n moles of glucose and n moles of fructose in it?",
-    "question_latex": "Which from following $n$ mole molecules of carbohydrates contains $2n$ mole molecules of galactose, $n$ moles of glucose and $n$ moles of fructose in it?",
-    "question_images": [],
-    "options": [
-      "A. Stachyose",
-      "B. Amylose",
-      "C. Lactose",
-      "D. Raffinose"
-    ],
-    "option_images": [],
-    "answer": "A. Stachyose",
-    "solution": "Stachyose is a tetrasaccharide that upon hydrolysis yields 2 molecules of galactose, 1 molecule of glucose, and 1 molecule of fructose.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 17,
-    "chapter": "Biomolecules",
-    "question": "In nucleic acid the sequence is",
-    "question_latex": "In nucleic acid the sequence is",
-    "question_images": [],
-    "options": [
-      "A. Base-phosphate-sugar",
-      "B. Base-sugar-phosphate",
-      "C. Sugar-base-phosphate",
-      "D. Phosphate-base-sugar"
-    ],
-    "option_images": [],
-    "answer": "B. Base-sugar-phosphate",
-    "solution": "Nucleotides, the building blocks of nucleic acids, are composed of a nitrogenous base, a pentose sugar, and a phosphate group. [Image of Nucleotide structure]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 18,
-    "chapter": "Biomolecules",
-    "question": "The A, B and C are respectively ____",
-    "question_latex": "The $A$, $B$ and $C$ are respectively \\_\\_\\_\\_",
-    "question_images": [],
-    "options": [
-      "A. Sucrose, lactose, maltose",
-      "B. Maltose, lactose, sucrose",
-      "C. Sucrose, maltose, lactose",
-      "D. Maltose, sucrose, lactose"
-    ],
-    "option_images": [],
-    "answer": "A. Sucrose, lactose, maltose",
-    "solution": "Sucrose hydrolyses to glucose and fructose ($A$). Lactose hydrolyses to glucose and galactose ($B$). Maltose hydrolyses to two units of glucose ($C$).",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 19,
-    "chapter": "Biomolecules",
-    "question": "Which of the following is an essential amino acid?",
-    "question_latex": "Which of the following is an essential amino acid?",
-    "question_images": [],
-    "options": [
-      "A. Alanine",
-      "B. Glycine",
-      "C. Lysine",
-      "D. Glutamine"
-    ],
-    "option_images": [],
-    "answer": "C. Lysine",
-    "solution": "Lysine is an essential amino acid, meaning it cannot be synthesized by the human body and must be obtained from the diet.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 20,
-    "chapter": "Biomolecules",
-    "question": "Which among the following compounds is obtained when glucose reacts with hydrogen cyanide?",
-    "question_latex": "Which among the following compounds is obtained when glucose reacts with hydrogen cyanide?",
-    "question_images": [],
-    "options": [
-      "A. Gluconic acid",
-      "B. Saccharic acid",
-      "C. Glucose cyanohydrin",
-      "D. n-Hexane"
-    ],
-    "option_images": [],
-    "answer": "C. Glucose cyanohydrin",
-    "solution": "Hydrogen cyanide ($HCN$) adds to the carbonyl group of glucose to form glucose cyanohydrin. ",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 21,
-    "chapter": "Biomolecules",
-    "question": "All monosaccharides are defined as",
-    "question_latex": "All monosaccharides are defined as",
-    "question_images": [],
-    "options": [
-      "A. Non-reducing sugars",
-      "B. Reducing sugars",
-      "C. Hydrolysing sugars",
-      "D. Non-hydrolysing sugars"
-    ],
-    "option_images": [],
-    "answer": "B. Reducing sugars",
-    "solution": "All monosaccharides (aldoses and ketoses) possess a free aldehyde or ketone group (or can form one in solution) and thus reduce Tollen's or Fehling's reagents.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 22,
-    "chapter": "Biomolecules",
-    "question": "During preparation of glucose from starch, chalk powder is added to reaction mixture to",
-    "question_latex": "During preparation of glucose from starch, chalk powder is added to reaction mixture to",
-    "question_images": [],
-    "options": [
-      "A. Accelerate reaction",
-      "B. Neutralise excess sulphuric acid",
-      "C. Obtain crystals of glucose",
-      "D. Prevent oxidation"
-    ],
-    "option_images": [],
-    "answer": "B. Neutralise excess sulphuric acid",
-    "solution": "Chalk powder ($CaCO_{3}$) is added to neutralize the excess $H_{2}SO_{4}$ used for starch hydrolysis.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 23,
-    "chapter": "Biomolecules",
-    "question": "Which from following is an essential amino acid?",
-    "question_latex": "Which from following is an essential amino acid?",
-    "question_images": [],
-    "options": [
-      "A. Serine",
-      "B. Histidine",
-      "C. Glycine",
-      "D. Tyrosine"
-    ],
-    "option_images": [],
-    "answer": "B. Histidine",
-    "solution": "Histidine is considered an essential amino acid, especially for children.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 24,
-    "chapter": "Biomolecules",
-    "question": "Which from following statements is NOT true about maltose?",
-    "question_latex": "Which from following statements is NOT true about maltose?",
-    "question_images": [],
-    "options": [
-      "A. It is milk sugar",
-      "B. It is reducing sugar",
-      "C. It contains $\\alpha$-1,4-glycosidic bond",
-      "D. It is disaccharide"
-    ],
-    "option_images": [],
-    "answer": "A. It is milk sugar",
-    "solution": "Lactose is milk sugar. Maltose is malt sugar.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 25,
-    "chapter": "Biomolecules",
-    "question": "Which carbon atom of glucose ring is called anomeric carbon?",
-    "question_latex": "Which carbon atom of glucose ring is called anomeric carbon?",
-    "question_images": [],
-    "options": [
-      "A. C-3",
-      "B. C-6",
-      "C. C-1",
-      "D. C-2"
-    ],
-    "option_images": [],
-    "answer": "C. C-1",
-    "solution": "The $C_{1}$ carbonyl carbon becomes chiral upon ring closure and is known as the anomeric carbon. ",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 26,
-    "chapter": "Biomolecules",
-    "question": "Which of the following compounds is NOT a vitamin?",
-    "question_latex": "Which of the following compounds is NOT a vitamin?",
-    "question_images": [],
-    "options": [
-      "A. Nicotinamide",
-      "B. Thiamine",
-      "C. Testosterone",
-      "D. Riboflavin"
-    ],
-    "option_images": [],
-    "answer": "C. Testosterone",
-    "solution": "Testosterone is a steroid hormone, not a vitamin. Nicotinamide is Vitamin $B_3$, Thiamine is Vitamin $B_1$, and Riboflavin is Vitamin $B_2$.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 27,
-    "chapter": "Biomolecules",
-    "question": "Which of the following is not present in nucleoside?",
-    "question_latex": "Which of the following is not present in nucleoside?",
-    "question_images": [],
-    "options": [
-      "A. Phosphoric acid",
-      "B. Cytosine",
-      "C. Uracil",
-      "D. Guanine"
-    ],
-    "option_images": [],
-    "answer": "A. Phosphoric acid",
-    "solution": "A nucleoside consists of a nitrogenous base and a pentose sugar only. When a phosphoric acid group is attached to a nucleoside, it is called a nucleotide.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 28,
-    "chapter": "Biomolecules",
-    "question": "Identify glycosidic linkage present in maltose.",
-    "question_latex": "Identify glycosidic linkage present in maltose.",
-    "question_images": [],
-    "options": [
-      "A. $\\beta$-1,6",
-      "B. $\\alpha$-1,4",
-      "C. $\\beta$-1,4",
-      "D. $\\alpha$-1,6"
-    ],
-    "option_images": [],
-    "answer": "B. $\\alpha$-1,4",
-    "solution": "Maltose is a disaccharide composed of two $\\alpha$-D-glucose units linked by an $\\alpha$-1,4-glycosidic bond. [Image of maltose chemical structure]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 29,
-    "chapter": "Biomolecules",
-    "question": "Gum is",
-    "question_latex": "Gum is",
-    "question_images": [],
-    "options": [
-      "A. Disaccharide",
-      "B. Monosaccharide",
-      "C. Polysaccharide",
-      "D. Trisaccharide"
-    ],
-    "option_images": [],
-    "answer": "C. Polysaccharide",
-    "solution": "Gums are complex carbohydrates classified as polysaccharides because they yield many monosaccharide units upon hydrolysis.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 30,
-    "chapter": "Biomolecules",
-    "question": "Vitamin C is",
-    "question_latex": "Vitamin C is",
-    "question_images": [],
-    "options": [
-      "A. Citric acid",
-      "B. Ascorbic acid",
-      "C. Lactic acid",
-      "D. Oil"
-    ],
-    "option_images": [],
-    "answer": "B. Ascorbic acid",
-    "solution": "The chemical name for Vitamin C is ascorbic acid ($C_6H_8O_6$).",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 31,
-    "chapter": "Biomolecules",
-    "question": "The animal glycolipids that are found in plasma membranes of neural tissues and are abundant in myelin sheath of neurons is",
-    "question_latex": "The animal glycolipids that are found in plasma membranes of neural tissues and are abundant in myelin sheath of neurons is",
-    "question_images": [],
-    "options": [
-      "A. Lecithin",
-      "B. Erythrosides",
-      "C. Cerebrosides",
-      "D. Nucleotides"
-    ],
-    "option_images": [],
-    "answer": "C. Cerebrosides",
-    "solution": "Cerebrosides are a group of glycosphingolipids (glycolipids) important in the myelin sheath of nerve fibers.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 32,
-    "chapter": "Biomolecules",
-    "question": "Identify by name an amino acid from following.",
-    "question_latex": "Identify by name an amino acid from following.",
-    "question_images": [],
-    "options": [
-      "A. Lysine",
-      "B. Asparagine",
-      "C. Glycine",
-      "D. Alanine"
-    ],
-    "option_images": [],
-    "answer": "C. Glycine",
-    "solution": "While all options are amino acids, Glycine is specifically recognized as the simplest $\\alpha$-amino acid where the $R$ group is a Hydrogen atom ($H$).",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 33,
-    "chapter": "Biomolecules",
-    "question": "Lipids are classified as",
-    "question_latex": "Lipids are classified as",
-    "question_images": [],
-    "options": [
-      "A. Complex lipids and simple lipids",
-      "B. Complex lipids and conjugated lipids",
-      "C. Complex lipids and fibrous lipids",
-      "D. Complex lipids and globular lipids"
-    ],
-    "option_images": [],
-    "answer": "B. Complex lipids and conjugated lipids",
-    "solution": "Lipids are broadly classified into simple lipids, complex (or compound) lipids, and derived/conjugated lipids.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 34,
-    "chapter": "Biomolecules",
-    "question": "Identify the hydrolysis product of starch.",
-    "question_latex": "Identify the hydrolysis product of starch.",
-    "question_images": [],
-    "options": [
-      "A. Fructose",
-      "B. Ribose",
-      "C. Galactose",
-      "D. Glucose"
-    ],
-    "option_images": [],
-    "answer": "D. Glucose",
-    "solution": "Starch is a polysaccharide made of $\\alpha$-D-glucose units. Complete hydrolysis of starch yields only D-glucose.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 35,
-    "chapter": "Biomolecules",
-    "question": "What is the product obtained when $Br_2$ water reacts with glucose?",
-    "question_latex": "What is the product obtained when $Br_2$ water reacts with glucose?",
-    "question_images": [],
-    "options": [
-      "A. Gluconic acid",
-      "B. 1,6-Dibromoglucose",
-      "C. Saccharic acid",
-      "D. Bromohaxane"
-    ],
-    "option_images": [],
-    "answer": "A. Gluconic acid",
-    "solution": "Bromine water ($Br_2/H_2O$) is a mild oxidizing agent that oxidizes the aldehyde group ($-CHO$) of glucose to a carboxylic acid group ($-COOH$), forming gluconic acid.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 36,
-    "chapter": "Biomolecules",
-    "question": "Which among following compounds possesses highest number of N atoms in it?",
-    "question_latex": "Which among following compounds possesses highest number of N atoms in it?",
-    "question_images": [
-      "q36_1"
-    ],
-    "options": [
-      "A. Cytosine",
-      "B. Guanine",
-      "C. Thymine",
-      "D. Uracil"
-    ],
-    "option_images": [],
-    "answer": "B. Guanine",
-    "solution": "Guanine ($C_5H_5N_5O$) has 5 nitrogen atoms. Cytosine has 3, while Thymine and Uracil have 2 nitrogen atoms each. [Image of nitrogenous bases chemical structures]",
-    "solution_images": [
-      "q36_solution_1"
-    ],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 37,
-    "chapter": "Biomolecules",
-    "question": "Which from following amino acids contains heterocyclic ring at a side chain (R) group?",
-    "question_latex": "Which from following amino acids contains heterocyclic ring at a side chain (R) group?",
-    "question_images": [
-      "q37_1"
-    ],
-    "options": [
-      "A. Arginine",
-      "B. Leucine",
-      "C. Tryptophan",
-      "D. Phenylalanine"
-    ],
-    "option_images": [],
-    "answer": "C. Tryptophan",
-    "solution": "Tryptophan contains an indole ring, which is a heterocyclic functional group, in its side chain. [Image of tryptophan chemical structure]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 38,
-    "chapter": "Biomolecules",
-    "question": "The essential constituent of plant cell wall is",
-    "question_latex": "The essential constituent of plant cell wall is",
-    "question_images": [],
-    "options": [
-      "A. Starch",
-      "B. Cellulose",
-      "C. Sucrose",
-      "D. Glucose"
-    ],
-    "option_images": [],
-    "answer": "B. Cellulose",
-    "solution": "Cellulose is a linear polysaccharide of $\\beta$-D-glucose units and is the primary structural component of plant cell walls.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 39,
-    "chapter": "Biomolecules",
-    "question": "Glycerides are",
-    "question_latex": "Glycerides are",
-    "question_images": [],
-    "options": [
-      "A. Esters of fatty acids and glycol",
-      "B. Esters of fatty acids and glycerol",
-      "C. Esters of fatty acids and sorbitol",
-      "D. Esters of fatty acids and glucose"
-    ],
-    "option_images": [],
-    "answer": "B. Esters of fatty acids and glycerol",
-    "solution": "Glycerides (fats and oils) are esters formed by the reaction of the trihydroxy alcohol, glycerol, with fatty acids.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 40,
-    "chapter": "Biomolecules",
-    "question": "Which of the following is NOT present in DNA?",
-    "question_latex": "Which of the following is NOT present in DNA?",
-    "question_images": [],
-    "options": [
-      "A. Adenine",
-      "B. Uracil",
-      "C. Guanine",
-      "D. Thymine"
-    ],
-    "option_images": [],
-    "answer": "B. Uracil",
-    "solution": "DNA contains Adenine, Guanine, Cytosine, and Thymine. Uracil is found in RNA instead of Thymine.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 41,
-    "chapter": "Biomolecules",
-    "question": "Which of the following is an ester?",
-    "question_latex": "Which of the following is an ester?",
-    "question_images": [],
-    "options": [
-      "A. Soap",
-      "B. Seed oil",
-      "C. Glycerine",
-      "D. Kerosene oil"
-    ],
-    "option_images": [],
-    "answer": "B. Seed oil",
-    "solution": "Seed oils (vegetable oils) are triglycerides, which are tri-esters of glycerol and long-chain fatty acids.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 42,
-    "chapter": "Biomolecules",
-    "question": "How many amino acids are linked together by $(n - 1)$ amide bonds?",
-    "question_latex": "How many amino acids are linked together by $(n - 1)$ amide bonds?",
-    "question_images": [],
-    "options": [
-      "A. $n$",
-      "B. $n - 1$",
-      "C. $n + 1$",
-      "D. $2n$"
-    ],
-    "option_images": [],
-    "answer": "A. $n$",
-    "solution": "In a linear polypeptide chain, $n$ amino acids are joined together by $(n-1)$ peptide (amide) bonds.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 43,
-    "chapter": "Biomolecules",
-    "question": "Protein on hydrolysis gives",
-    "question_latex": "Protein on hydrolysis gives",
-    "question_images": [],
-    "options": [
-      "A. $\\alpha$-amino acids",
-      "B. $\\beta$-amino acids",
-      "C. $\\gamma$-amino acids",
-      "D. $\\delta$-amino acids"
-    ],
-    "option_images": [],
-    "answer": "A. $\\alpha$-amino acids",
-    "solution": "Proteins are biopolymers made specifically from $\\alpha$-amino acids; thus, their hydrolysis yields $\\alpha$-amino acids.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 44,
-    "chapter": "Biomolecules",
-    "question": "Choose the CORRECT statement about proteins.",
-    "question_latex": "Choose the CORRECT statement about proteins.",
-    "question_images": [],
-    "options": [
-      "A. They are nitrogenous organic compounds of high molecular weights",
-      "B. They on hydrolysis by enzyme give amino acids",
-      "C. Many of them are enzymes",
-      "D. All of these"
-    ],
-    "option_images": [],
-    "answer": "D. All of these",
-    "solution": "Proteins are high molecular weight polymers of amino acids, they hydrolyze to amino acids, and all enzymes are proteins.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 45,
-    "chapter": "Biomolecules",
-    "question": "Which of the following is a protein?",
-    "question_latex": "Which of the following is a protein?",
-    "question_images": [],
-    "options": [
-      "A. Serine",
-      "B. Glycogen",
-      "C. Alanine",
-      "D. Keratin"
-    ],
-    "option_images": [],
-    "answer": "D. Keratin",
-    "solution": "Keratin is a fibrous structural protein. Serine and Alanine are amino acids, and Glycogen is a polysaccharide.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 46,
-    "chapter": "Biomolecules",
-    "question": "Oils are",
-    "question_latex": "Oils are",
-    "question_images": [],
-    "options": [
-      "A. Triglycerides of saturated fatty acids",
-      "B. Triglycerides of unsaturated fatty acids",
-      "C. Diglycerides of saturated fatty acids",
-      "D. Diglycerides of unsaturated fatty acids"
-    ],
-    "option_images": [],
-    "answer": "B. Triglycerides of unsaturated fatty acids",
-    "solution": "Oils are liquid at room temperature because they consist mainly of triglycerides containing unsaturated fatty acid chains (which have lower melting points than saturated ones).",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 47,
-    "chapter": "Biomolecules",
-    "question": "To detect reducing and non-reducing sugars following test is used",
-    "question_latex": "To detect reducing and non-reducing sugars following test is used",
-    "question_images": [],
-    "options": [
-      "A. Millon test",
-      "B. Biuret test",
-      "C. Tollen's test",
-      "D. Xanthoproteic test"
-    ],
-    "option_images": [],
-    "answer": "C. Tollen's test",
-    "solution": "Tollen's test (silver mirror test) is used to distinguish reducing sugars (which have free aldehyde/ketone groups) from non-reducing sugars.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 48,
-    "chapter": "Biomolecules",
-    "question": "Which carbon atoms of fructose are bonded together through oxygen forming fructofuranose?",
-    "question_latex": "Which carbon atoms of fructose are bonded together through oxygen forming fructofuranose?",
-    "question_images": [],
-    "options": [
-      "A. $C-2$ and $C-5$",
-      "B. $C-1$ and $C-6$",
-      "C. $C-2$ and $C-6$",
-      "D. $C-1$ and $C-5$"
-    ],
-    "option_images": [],
-    "answer": "A. $C-2$ and $C-5$",
-    "solution": "In fructose, the cyclic furanose (five-membered ring) structure is formed by a hemiacetal linkage between the $C-2$ keto group and the $C-5$ hydroxyl group via an oxygen atom. ",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 49,
-    "chapter": "Biomolecules",
-    "question": "Sucrose contain",
-    "question_latex": "Sucrose contain",
-    "question_images": [],
-    "options": [
-      "A. 1-2 $\\alpha$-$\\beta$ acetal bond",
-      "B. 1-2 $\\alpha$-$\\alpha$ acetal bond",
-      "C. 1-2 $\\beta$-$\\alpha$ acetal bond",
-      "D. 1-2 $\\beta$-$\\beta$ acetal bond"
-    ],
-    "option_images": [],
-    "answer": "A. 1-2 $\\alpha$-$\\beta$ acetal bond",
-    "solution": "Sucrose is formed by a glycosidic linkage between $C-1$ of $\\alpha$-D-glucose and $C-2$ of $\\beta$-D-fructose. [Image of sucrose chemical structure]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 50,
-    "chapter": "Biomolecules",
-    "question": "Identify compound 'X' in following reaction.",
-    "question_latex": "Identify compound 'X' in following reaction: $\\text{Glucose} \\xrightarrow{\\text{Br}_2/\\text{H}_2\\text{O}} \\text{Gluconic acid} \\xrightarrow{\\text{dil. } \\text{HNO}_3} X$",
-    "question_images": [
-      "q50_1"
-    ],
-    "options": [
-      "A. Gluconic acid",
-      "B. Saccharic acid",
-      "C. Hexane",
-      "D. Sorbitol"
-    ],
-    "option_images": [],
-    "answer": "B. Saccharic acid",
-    "solution": "Nitric acid ($HNO_3$) is a strong oxidizing agent that oxidizes both the aldehyde group and the primary alcohol group of glucose to carboxylic acid groups, resulting in saccharic acid (glucaric acid). ",
-    "solution_images": [
-      "q50_solution_1"
-    ],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 51,
-    "chapter": "Biomolecules",
-    "question": "Which of the following is levorotatory?",
-    "question_latex": "Which~of~the~following~is~levorotatory?",
-    "question_images": [],
-    "options": [
-      "A. Glucose",
-      "B. Sucrose",
-      "C. Fructose",
-      "D. Lactose"
-    ],
-    "option_images": [],
-    "answer": "C. Fructose",
-    "solution": "D(-)-fructose shows levorotation.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 52,
-    "chapter": "Biomolecules",
-    "question": "Maltose is made up of",
-    "question_latex": "Maltose~is~made~up~of",
-    "question_images": [],
-    "options": [
-      "A. $\\alpha$-D-glucopyranose",
-      "B. $\\alpha$- and $\\beta$-D-glucopyranose",
-      "C. Glucose and fructose",
-      "D. Fructose only"
-    ],
-    "option_images": [],
-    "answer": "B. $\\alpha$- and $\\beta$-D-glucopyranose",
-    "solution": "Maltose consists of two glucose units (one $\\alpha$ and one $\\beta$).",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 53,
-    "chapter": "Biomolecules",
-    "question": "Vitamin B$_6$ is",
-    "question_latex": "Vitamin~B_6~is",
-    "question_images": [],
-    "options": [
-      "A. Riboflavin",
-      "B. Cobalamin",
-      "C. Thiamine",
-      "D. Pyridoxine"
-    ],
-    "option_images": [],
-    "answer": "D. Pyridoxine",
-    "solution": "Vitamin B$_6$ is pyridoxine.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 54,
-    "chapter": "Biomolecules",
-    "question": "Amino acids are the building block of",
-    "question_latex": "Amino~acids~are~the~building~block~of",
-    "question_images": [],
-    "options": [
-      "A. Fats",
-      "B. Vitamins",
-      "C. Proteins",
-      "D. Carbohydrates"
-    ],
-    "option_images": [],
-    "answer": "C. Proteins",
-    "solution": "Proteins are polymers of amino acids.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 55,
-    "chapter": "Biomolecules",
-    "question": "Mg is an important component of which biomolecule occurring extensively in living world?",
-    "question_latex": "Mg~is~an~important~component~of~which~biomolecule~occurring~extensively~in~living~world?",
-    "question_images": [],
-    "options": [
-      "A. Haemoglobin",
-      "B. Chlorophyll",
-      "C. Vitamin",
-      "D. ATP"
-    ],
-    "option_images": [],
-    "answer": "B. Chlorophyll",
-    "solution": "Magnesium is the central metal ion in chlorophyll.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 56,
-    "chapter": "Biomolecules",
-    "question": "Which hormones increase lactic acid in muscles?",
-    "question_latex": "Which~hormones~increase~lactic~acid~in~muscles?",
-    "question_images": [],
-    "options": [
-      "A. Progesterone",
-      "B. Estrogen",
-      "C. Nor-adrenaline",
-      "D. Androgen"
-    ],
-    "option_images": [],
-    "answer": "C. Nor-adrenaline",
-    "solution": "Nor-adrenaline enhances glycolysis leading to lactic acid formation.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 57,
-    "chapter": "Biomolecules",
-    "question": "Proteins are high molecular weight polymers mainly containing the elements",
-    "question_latex": "Proteins~are~high~molecular~weight~polymers~mainly~containing~the~elements",
-    "question_images": [],
-    "options": [
-      "A. C, H",
-      "B. C, H, O",
-      "C. C, H, N, O, S",
-      "D. C, H, O, P"
-    ],
-    "option_images": [],
-    "answer": "C. C, H, N, O, S",
-    "solution": "Proteins contain carbon, hydrogen, oxygen, nitrogen and often sulfur.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 58,
-    "chapter": "Biomolecules",
-    "question": "What type of peptide is the glycylalanine?",
-    "question_latex": "What~type~of~peptide~is~the~glycylalanine?",
-    "question_images": ["q58_1"],
-    "options": [
-      "A. Polypeptide",
-      "B. Tripeptide",
-      "C. Tetrapeptide",
-      "D. Dipeptide"
-    ],
-    "option_images": [],
-    "answer": "D. Dipeptide",
-    "solution": "Glycylalanine contains two amino acids joined by one peptide bond.",
-    "solution_images": ["q58_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 59,
-    "chapter": "Biomolecules",
-    "question": "Which following amino acids is synthesized in our body?",
-    "question_latex": "Which~of~the~following~amino~acids~is~synthesized~in~our~body?",
-    "question_images": [],
-    "options": [
-      "A. Proline",
-      "B. Phenylalanine",
-      "C. Valine",
-      "D. Methionine"
-    ],
-    "option_images": [],
-    "answer": "A. Proline",
-    "solution": "Proline is a non-essential amino acid synthesized in the body.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 60,
-    "chapter": "Biomolecules",
-    "question": "Vitamin that is most readily produced in our body is",
-    "question_latex": "Vitamin~that~is~most~readily~produced~in~our~body~is",
-    "question_images": [],
-    "options": [
-      "A. Vit-C",
-      "B. Vit-D",
-      "C. Vit-B",
-      "D. Vit-P"
-    ],
-    "option_images": [],
-    "answer": "B. Vit-D",
-    "solution": "Vitamin D is synthesized in skin under sunlight.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 61,
-    "chapter": "Biomolecules",
-    "question": "What is the number of moles of N atoms and number of moles of oxygen atoms respectively present in one mole of uracil?",
-    "question_latex": "What~is~the~number~of~moles~of~N~atoms~and~number~of~moles~of~O~atoms~respectively~present~in~one~mole~of~uracil?",
-    "question_images": ["q61_1"],
-    "options": [
-      "A. 1 and 5",
-      "B. 2 and 2",
-      "C. 2 and 3",
-      "D. 1 and 3"
-    ],
-    "option_images": [],
-    "answer": "B. 2 and 2",
-    "solution": "Uracil contains two nitrogen and two oxygen atoms per molecule.",
-    "solution_images": ["q61_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 62,
-    "chapter": "Biomolecules",
-    "question": "Which carbon atom of glucopyranose numbered from C-1 to C-6 is anomeric?",
-    "question_latex": "Which~carbon~atom~of~glucopyranose~numbered~from~C\\text{-}1~to~C\\text{-}6~is~anomeric?",
-    "question_images": ["q62_1"],
-    "options": [
-      "A. C-2",
-      "B. C-5",
-      "C. C-6",
-      "D. C-1"
-    ],
-    "option_images": [],
-    "answer": "D. C-1",
-    "solution": "C-1 becomes chiral after cyclisation and is the anomeric carbon.",
-    "solution_images": ["q62_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 63,
-    "chapter": "Biomolecules",
-    "question": "Biotin is an organic compound present in diet causes paralysis it is also known as",
-    "question_latex": "Biotin~is~an~organic~compound;~its~deficiency~causes~paralysis~and~it~is~also~known~as",
-    "question_images": [],
-    "options": [
-      "A. Vit-A",
-      "B. Vit-B$_3$",
-      "C. Vit-B$_{12}$",
-      "D. Vit-H"
-    ],
-    "option_images": [],
-    "answer": "D. Vit-H",
-    "solution": "Biotin is also called Vitamin H.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 64,
-    "chapter": "Biomolecules",
-    "question": "Monoterpene contains how many carbon atoms?",
-    "question_latex": "Monoterpene~contains~how~many~carbon~atoms?",
-    "question_images": [],
-    "options": [
-      "A. 10",
-      "B. 12",
-      "C. 14",
-      "D. 16"
-    ],
-    "option_images": [],
-    "answer": "A. 10",
-    "solution": "Monoterpenes consist of two isoprene units ($2\\times C_5H_8$).",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 65,
-    "chapter": "Biomolecules",
-    "question": "On hydrolysis sucrose gives",
-    "question_latex": "On~hydrolysis~sucrose~gives",
-    "question_images": [],
-    "options": [
-      "A. 2 moles of galactose",
-      "B. 2 moles of fructose",
-      "C. 2 moles of glucose",
-      "D. Equimolar mixture of glucose and fructose"
-    ],
-    "option_images": [],
-    "answer": "D. Equimolar mixture of glucose and fructose",
-    "solution": "Sucrose hydrolyses to one mole each of glucose and fructose.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 66,
-    "chapter": "Biomolecules",
-    "question": "The compound which has five carbon atoms with –CHO group is",
-    "question_latex": "The~compound~which~has~five~carbon~atoms~with~{-}CHO~group~is",
-    "question_images": [],
-    "options": [
-      "A. Aldopentose",
-      "B. Ketopentose",
-      "C. Aldohexose",
-      "D. Ketohexose"
-    ],
-    "option_images": [],
-    "answer": "A. Aldopentose",
-    "solution": "Aldopentoses have five carbons and an aldehyde group.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 67,
-    "chapter": "Biomolecules",
-    "question": "The only α-amino acid which is achiral is",
-    "question_latex": "The~only~$\\alpha$-amino~acid~which~is~achiral~is",
-    "question_images": [],
-    "options": [
-      "A. Lysine",
-      "B. Glycine",
-      "C. Proline",
-      "D. Alanine"
-    ],
-    "option_images": [],
-    "answer": "B. Glycine",
-    "solution": "Glycine has two hydrogen atoms on $\\alpha$-carbon, hence achiral.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 68,
-    "chapter": "Biomolecules",
-    "question": "Which among the following is a product of hydrolysis of one mole raffinose?",
-    "question_latex": "Which~among~the~following~is~a~product~of~hydrolysis~of~one~mole~raffinose?",
-    "question_images": [],
-    "options": [
-      "A. 2 moles of glucose",
-      "B. 2 moles of fructose + 1 mole galactose",
-      "C. 1 mole fructose + 1 mole galactose",
-      "D. 1 mole glucose + 1 mole fructose + 1 mole galactose"
-    ],
-    "option_images": [],
-    "answer": "D. 1 mole glucose + 1 mole fructose + 1 mole galactose",
-    "solution": "Raffinose hydrolyses to glucose, fructose and galactose.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 69,
-    "chapter": "Biomolecules",
-    "question": "Identify the enzyme used in conversion of sucrose",
-    "question_latex": "Identify~the~enzyme~used~in~conversion~of~sucrose",
-    "question_images": [],
-    "options": [
-      "A. Amylase",
-      "B. Lipase",
-      "C. Invertase",
-      "D. Diastase"
-    ],
-    "option_images": [],
-    "answer": "C. Invertase",
-    "solution": "Invertase catalyses hydrolysis of sucrose.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 70,
-    "chapter": "Biomolecules",
-    "question": "Which amino acid from following contains highest number of nitrogen atoms?",
-    "question_latex": "Which~amino~acid~from~the~following~contains~highest~number~of~nitrogen~atoms?",
-    "question_images": [],
-    "options": [
-      "A. Histidine",
-      "B. Arginine",
-      "C. Glutamine",
-      "D. Lysine"
-    ],
-    "option_images": [],
-    "answer": "B. Arginine",
-    "solution": "Arginine contains the guanidino group with highest nitrogen count.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 71,
-    "chapter": "Biomolecules",
-    "question": "Maltose on hydrolysis produces",
-    "question_latex": "Maltose~on~hydrolysis~produces",
-    "question_images": [],
-    "options": [
-      "A. $\\beta$-D-glucose",
-      "B. $\\alpha$-D-glucose",
-      "C. $\\beta$-D-fructose",
-      "D. $\\alpha$-D-fructose"
-    ],
-    "option_images": [],
-    "answer": "B. $\\alpha$-D-glucose",
-    "solution": "Hydrolysis of maltose gives $\\alpha$-D-glucose units.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 72,
-    "chapter": "Biomolecules",
-    "question": "Which from following statements is false regarding dCMP?",
-    "question_latex": "Which~of~the~following~statements~is~false~regarding~dCMP?",
-    "question_images": ["q72_1"],
-    "options": [
-      "A. This contains cytosine nitrogen base",
-      "B. It is a nucleotide",
-      "C. Nitrogen of cytosine at 3rd position is bonded with 1' carbon of sugar",
-      "D. It contains deoxyribose sugar"
-    ],
-    "option_images": [],
-    "answer": "C. Nitrogen of cytosine at 3rd position is bonded with 1' carbon of sugar",
-    "solution": "In nucleotides, N-1 of pyrimidine bases bonds with C-1' of sugar.",
-    "solution_images": ["q72_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 73,
-    "chapter": "Biomolecules",
-    "question": "Identify the pair of carbohydrates containing galactose as one constituent in both of them",
-    "question_latex": "Identify~the~pair~of~carbohydrates~containing~galactose~as~one~constituent~in~both~of~them",
-    "question_images": [],
-    "options": [
-      "A. Raffinose and stachyose",
-      "B. Lactose and maltose",
-      "C. Sucrose and stachyose",
-      "D. Maltose and raffinose"
-    ],
-    "option_images": [],
-    "answer": "A. Raffinose and stachyose",
-    "solution": "Both raffinose and stachyose contain galactose units.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 74,
-    "chapter": "Biomolecules",
-    "question": "Which from following amino acids contains sulfur?",
-    "question_latex": "Which~of~the~following~amino~acids~contains~sulfur?",
-    "question_images": ["q74_1"],
-    "options": [
-      "A. Alanine",
-      "B. Tryptophan",
-      "C. Cysteine",
-      "D. Histidine"
-    ],
-    "option_images": [],
-    "answer": "C. Cysteine",
-    "solution": "Cysteine contains a thiol ($-SH$) group.",
-    "solution_images": ["q74_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 75,
-    "chapter": "Biomolecules",
-    "question": "Which carbon atom of glucose numbered from C-1 to C-6 in Fischer projection formula attached with –OH group describes the D or L configuration of glucose?",
-    "question_latex": "Which~carbon~atom~of~glucose~(C\\text{-}1~to~C\\text{-}6)~in~Fischer~projection~attached~with~{-}OH~group~describes~the~D/L~configuration~of~glucose?",
-    "question_images": [],
-    "options": [
-      "A. C-4",
-      "B. C-3",
-      "C. C-2",
-      "D. C-5"
-    ],
-    "option_images": [],
-    "answer": "D. C-5",
-    "solution": "Configuration is determined by the chiral carbon farthest from the carbonyl carbon (C-5).",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 76,
-    "chapter": "Biomolecules",
-    "question": "Carbohydrates insoluble in water is",
-    "question_latex": "Carbohydrates~that~are~insoluble~in~water~are",
-    "question_images": [],
-    "options": [
-      "A. Glucose",
-      "B. Fructose",
-      "C. Cellulose",
-      "D. Sucrose"
-    ],
-    "option_images": [],
-    "answer": "C. Cellulose",
-    "solution": "Cellulose is a polysaccharide insoluble in water due to extensive hydrogen bonding.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 77,
-    "chapter": "Biomolecules",
-    "question": "The complex lifeless organic substances which build up living organisms and are required for their growth and maintenance are",
-    "question_latex": "The~complex~lifeless~organic~substances~which~build~up~living~organisms~and~are~required~for~their~growth~and~maintenance~are",
-    "question_images": [],
-    "options": [
-      "A. Grains",
-      "B. Fibres",
-      "C. Homologues",
-      "D. Polymers"
-    ],
-    "option_images": [],
-    "answer": "D. Polymers",
-    "solution": "Biomolecules are complex polymers required for structure and function of living organisms.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 78,
-    "chapter": "Biomolecules",
-    "question": "Which of the following enzyme hydrolyses starch?",
-    "question_latex": "Which~of~the~following~enzymes~hydrolyses~starch?",
-    "question_images": [],
-    "options": [
-      "A. Amylase",
-      "B. Glucose isomerase",
-      "C. Penicillin G acylase",
-      "D. Proteases"
-    ],
-    "option_images": [],
-    "answer": "A. Amylase",
-    "solution": "Amylase catalyses hydrolysis of starch into maltose and glucose.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 79,
-    "chapter": "Biomolecules",
-    "question": "Which of the following exists as zwitter ion?",
-    "question_latex": "Which~of~the~following~exists~as~zwitter~ion?",
-    "question_images": [],
-    "options": [
-      "A. Salicylic acid",
-      "B. Sulphanilic acid",
-      "C. Ethanamine",
-      "D. p-aminoacetophenone"
-    ],
-    "option_images": [],
-    "answer": "B. Sulphanilic acid",
-    "solution": "Sulphanilic acid exists as a zwitter ion due to presence of $-NH_3^+$ and $-SO_3^-$ groups.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 80,
-    "chapter": "Biomolecules",
-    "question": "What are the different functional groups present in glucose cyanohydrin?",
-    "question_latex": "What~are~the~different~functional~groups~present~in~glucose~cyanohydrin?",
-    "question_images": ["q80_1"],
-    "options": [
-      "A. –CHO and –CN",
-      "B. –CN and –OH",
-      "C. –CHO and –NH$_2$",
-      "D. –CHO and –OH"
-    ],
-    "option_images": [],
-    "answer": "B. –CN and –OH",
-    "solution": "Glucose cyanohydrin contains a nitrile group ($-CN$) and hydroxyl groups ($-OH$).",
-    "solution_images": ["q80_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 81,
-    "chapter": "Biomolecules",
-    "question": "Chalk powder is added to hydrolysed solution of starch during manufacture of glucose",
-    "question_latex": "Chalk~powder~is~added~to~hydrolysed~solution~of~starch~during~manufacture~of~glucose",
-    "question_images": [],
-    "options": [
-      "A. For hydrolysis is necessary",
-      "B. For cooling of sulphuric acid",
-      "C. For alkylation of sulphuric acid",
-      "D. Because hydrolysed solution of starch contains excess sulphuric acid"
-    ],
-    "option_images": [],
-    "answer": "D. Because hydrolysed solution of starch contains excess sulphuric acid",
-    "solution": "CaCO$_3$ neutralises excess $H_2SO_4$ present after hydrolysis.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 82,
-    "chapter": "Biomolecules",
-    "question": "In amylose glycosidic branching present in between",
-    "question_latex": "In~amylose~glycosidic~branching~present~in~between",
-    "question_images": [],
-    "options": [
-      "A. 1–4 of $\\alpha$-D-glucopyranose",
-      "B. 1–4 of $\\beta$-D-glucopyranose",
-      "C. 1–6 of $\\alpha$-D-glucopyranose",
-      "D. 1–6 of $\\beta$-D-glucopyranose"
-    ],
-    "option_images": [],
-    "answer": "A. 1–4 of $\\alpha$-D-glucopyranose",
-    "solution": "Amylose has linear chains with $\\alpha$-1,4 glycosidic bonds.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 83,
-    "chapter": "Biomolecules",
-    "question": "Identify the reagent used to convert –CHO group of glucose to =N–OH",
-    "question_latex": "Identify~the~reagent~used~to~convert~{-}CHO~group~of~glucose~to~=N{-}OH",
-    "question_images": ["q83_1"],
-    "options": [
-      "A. Acetic anhydride",
-      "B. Hydroxylamine",
-      "C. Hydrogen cyanide",
-      "D. Hydrogen iodide"
-    ],
-    "option_images": [],
-    "answer": "B. Hydroxylamine",
-    "solution": "Hydroxylamine converts aldehyde group into oxime ($C{=}N{-}OH$).",
-    "solution_images": ["q83_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 84,
-    "chapter": "Biomolecules",
-    "question": "Which amino acid from following list is NOT synthesized in our body?",
-    "question_latex": "Which~amino~acid~from~the~following~list~is~NOT~synthesized~in~our~body?",
-    "question_images": [],
-    "options": [
-      "A. Methionine",
-      "B. Cysteine",
-      "C. Glutamine",
-      "D. Proline"
-    ],
-    "option_images": [],
-    "answer": "A. Methionine",
-    "solution": "Methionine is an essential amino acid and cannot be synthesised in the body.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 85,
-    "chapter": "Biomolecules",
-    "question": "Denaturation of protein",
-    "question_latex": "Denaturation~of~protein",
-    "question_images": [],
-    "options": [
-      "A. Disrupts the $1^\\circ$ and $2^\\circ$ structure",
-      "B. Disrupts the $2^\\circ$ and $3^\\circ$ structure",
-      "C. Disrupts the $1^\\circ$ structure",
-      "D. Is reversible process"
-    ],
-    "option_images": [],
-    "answer": "B. Disrupts the $2^\\circ$ and $3^\\circ$ structure",
-    "solution": "Denaturation affects secondary and tertiary structures without breaking peptide bonds.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 86,
-    "chapter": "Biomolecules",
-    "question": "Maltose and glucose are",
-    "question_latex": "Maltose~and~glucose~are",
-    "question_images": [],
-    "options": [
-      "A. Oxidising sugar",
-      "B. Reducing sugar",
-      "C. First is oxidising and second is reducing sugar",
-      "D. Both are non-reducing sugars"
-    ],
-    "option_images": [],
-    "answer": "B. Reducing sugar",
-    "solution": "Both maltose and glucose have free anomeric carbon and are reducing sugars.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 87,
-    "chapter": "Biomolecules",
-    "question": "What is NOT true for carbohydrates?",
-    "question_latex": "What~is~NOT~true~for~carbohydrates?",
-    "question_images": [],
-    "options": [
-      "A. General formula is $C_n(H_2O)_n$",
-      "B. Glucose is the most common monomer of carbohydrates",
-      "C. Fructose is the sweetest of all sugars",
-      "D. Carbohydrates not conjugate with lipids"
-    ],
-    "option_images": [],
-    "answer": "D. Carbohydrates not conjugate with lipids",
-    "solution": "Carbohydrates can conjugate with lipids forming glycolipids.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 88,
-    "chapter": "Biomolecules",
-    "question": "In plant glycolipids sugar is",
-    "question_latex": "In~plant~glycolipids~sugar~is",
-    "question_images": [],
-    "options": [
-      "A. Glucose",
-      "B. Fructose",
-      "C. Galactose",
-      "D. Mannose"
-    ],
-    "option_images": [],
-    "answer": "C. Galactose",
-    "solution": "Plant glycolipids commonly contain galactose.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 89,
-    "chapter": "Biomolecules",
-    "question": "What type of glycosidic linkages are present in amylose?",
-    "question_latex": "What~type~of~glycosidic~linkages~are~present~in~amylose?",
-    "question_images": [],
-    "options": [
-      "A. $\\alpha$-1,4 and $\\alpha$-1,6",
-      "B. $\\beta$-1,4",
-      "C. $\\alpha$-1,4",
-      "D. $\\alpha$-1,6"
-    ],
-    "option_images": [],
-    "answer": "C. $\\alpha$-1,4",
-    "solution": "Amylose contains only $\\alpha$-1,4 glycosidic linkages.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 90,
-    "chapter": "Biomolecules",
-    "question": "Which among the following enzymes hydrolyses starch?",
-    "question_latex": "Which~among~the~following~enzymes~hydrolyses~starch?",
-    "question_images": [],
-    "options": [
-      "A. Insulin",
-      "B. Glucose isomerase",
-      "C. Proteases",
-      "D. Amylase"
-    ],
-    "option_images": [],
-    "answer": "D. Amylase",
-    "solution": "Amylase catalyses hydrolysis of starch.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 91,
-    "chapter": "Biomolecules",
-    "question": "Identify acidic amino acid from following",
-    "question_latex": "Identify~acidic~amino~acid~from~the~following",
-    "question_images": [],
-    "options": [
-      "A. Glycine",
-      "B. Lysine",
-      "C. Alanine",
-      "D. Aspartic acid"
-    ],
-    "option_images": [],
-    "answer": "D. Aspartic acid",
-    "solution": "Aspartic acid contains an extra $-COOH$ group making it acidic.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 92,
-    "chapter": "Biomolecules",
-    "question": "Which one of the following give positive Fehling solution test?",
-    "question_latex": "Which~one~of~the~following~gives~positive~Fehling~solution~test?",
-    "question_images": [],
-    "options": [
-      "A. Sucrose",
-      "B. Glucose",
-      "C. Fats",
-      "D. Protein"
-    ],
-    "option_images": [],
-    "answer": "B. Glucose",
-    "solution": "Glucose is a reducing sugar and gives positive Fehling test.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 93,
-    "chapter": "Biomolecules",
-    "question": "During conversion of glucose into glucose cyanohydrin, what functional group of glucose is replaced?",
-    "question_latex": "During~conversion~of~glucose~into~glucose~cyanohydrin,~what~functional~group~of~glucose~is~replaced?",
-    "question_images": [],
-    "options": [
-      "A. Hydrogen",
-      "B. Aldehyde group",
-      "C. Primary alcoholic group",
-      "D. Secondary alcoholic group"
-    ],
-    "option_images": [],
-    "answer": "B. Aldehyde group",
-    "solution": "HCN reacts with aldehyde group forming cyanohydrin.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 94,
-    "chapter": "Biomolecules",
-    "question": "Select correct statement",
-    "question_latex": "Select~the~correct~statement",
-    "question_images": [],
-    "options": [
-      "A. Valine is essential amino acid",
-      "B. In peptide linkage oxygen and hydrogen are at trans position",
-      "C. Molecular mass up to 10000 are called polypeptide",
-      "D. All are correct"
-    ],
-    "option_images": [],
-    "answer": "D. All are correct",
-    "solution": "All statements given are correct.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 95,
-    "chapter": "Biomolecules",
-    "question": "D-glactose and D-galactose are",
-    "question_latex": "D\\text{-}galactose~and~D\\text{-}glucose~are",
-    "question_images": [],
-    "options": [
-      "A. Epimers",
-      "B. Metamers",
-      "C. Anomers",
-      "D. Tautomers"
-    ],
-    "option_images": [],
-    "answer": "A. Epimers",
-    "solution": "They differ in configuration at one carbon atom.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 96,
-    "chapter": "Biomolecules",
-    "question": "Aqueous solution of glucose on crystallization at 303 K produces",
-    "question_latex": "Aqueous~solution~of~glucose~on~crystallization~at~303~K~produces",
-    "question_images": [],
-    "options": [
-      "A. Anomers",
-      "B. Epimers",
-      "C. Enantiomers",
-      "D. Polymers"
-    ],
-    "option_images": [],
-    "answer": "A. Anomers",
-    "solution": "Glucose crystallizes as $\\alpha$ and $\\beta$ anomers.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 97,
-    "chapter": "Biomolecules",
-    "question": "Which from following is essential amino acid?",
-    "question_latex": "Which~of~the~following~is~an~essential~amino~acid?",
-    "question_images": [],
-    "options": [
-      "A. Proline",
-      "B. Tyrosine",
-      "C. Valine",
-      "D. Alanine"
-    ],
-    "option_images": [],
-    "answer": "C. Valine",
-    "solution": "Valine is an essential amino acid.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 98,
-    "chapter": "Biomolecules",
-    "question": "Which from following amino acids is synthesized in our body?",
-    "question_latex": "Which~of~the~following~amino~acids~is~synthesized~in~our~body?",
-    "question_images": [],
-    "options": [
-      "A. Phenylalanine",
-      "B. Tyrosine",
-      "C. Isoleucine",
-      "D. Threonine"
-    ],
-    "option_images": [],
-    "answer": "B. Tyrosine",
-    "solution": "Tyrosine is synthesized from phenylalanine in the body.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 99,
-    "chapter": "Biomolecules",
-    "question": "What is value of specific rotation in fructose?",
-    "question_latex": "What~is~the~value~of~specific~rotation~in~fructose?",
-    "question_images": [],
-    "options": [
-      "A. $+66.5^\\circ$",
-      "B. $+52.7^\\circ$",
-      "C. $-92.4^\\circ$",
-      "D. $+42.7^\\circ$"
-    ],
-    "option_images": [],
-    "answer": "C. $-92.4^\\circ$",
-    "solution": "Fructose is levorotatory with specific rotation $-92.4^\\circ$.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 100,
-    "chapter": "Biomolecules",
-    "question": "Glucitol is prepared by",
-    "question_latex": "Glucitol~is~prepared~by",
-    "question_images": [],
-    "options": [
-      "A. Oxidation of sucrose with bromine water",
-      "B. Reduction of glucose with sodium amalgam and water",
-      "C. Oxidation of glucose by conc. $HNO_3$",
-      "D. Oxidation of glucose by mild oxidizing agent"
-    ],
-    "option_images": [],
-    "answer": "B. Reduction of glucose with sodium amalgam and water",
-    "solution": "Reduction of aldehyde group of glucose produces glucitol (sorbitol).",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  }
+    {
+        "id": 1,
+        "chapter": "Biomolecules",
+        "question": "How many moles of acetic acid are obtained in the reaction when one mole glucose is treated with excess ethyl alcohol?",
+        "question_latex": "How many moles of acetic acid are obtained in the reaction when one mole glucose is treated with excess ethyl alcohol?",
+        "question_images": [],
+        "options": [
+            "A. 3 moles",
+            "B. 5 moles",
+            "C. 2 moles",
+            "D. 4 moles"
+        ],
+        "option_images": [],
+        "answer": "B. 5 moles",
+        "solution": "On reaction with excess ethyl alcohol in presence of $ZnCl_{2}$, one mole of glucose forms glucose pentaacetate producing 5 moles of acetic acid. ",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Biomolecules",
+        "question": "Which of the following is NOT a sex hormone?",
+        "question_latex": "Which of the following is NOT a sex hormone?",
+        "question_images": [],
+        "options": [
+            "A. Estrogen",
+            "B. Progesterone",
+            "C. Androgen",
+            "D. Adrenaline"
+        ],
+        "option_images": [],
+        "answer": "D. Adrenaline",
+        "solution": "Adrenaline is a hormone secreted by the adrenal glands as part of the fight-or-flight response. Estrogen, Progesterone, and Androgens are the primary sex hormones.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Biomolecules",
+        "question": "Which of the following statements is / are correct?",
+        "question_latex": "Which of the following statements is / are correct?\\\\\n1. Glucose is reducing sugar\\\\\n2. Sucrose is reducing sugar\\\\\n3. Maltose is non-reducing sugar\\\\\n4. Lactose is reducing sugar",
+        "question_images": [],
+        "options": [
+            "A. 1 and 2 only",
+            "B. 1 and 3 only",
+            "C. 1 and 4 only",
+            "D. All"
+        ],
+        "option_images": [],
+        "answer": "C. 1 and 4 only",
+        "solution": "Glucose and lactose are reducing sugars. Sucrose is a non-reducing sugar because its anomeric carbons are involved in the glycosidic bond. Maltose is a reducing sugar. ",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Biomolecules",
+        "question": "Identify side chain present in serine, an amino acid.",
+        "question_latex": "Identify side chain present in serine, an amino acid.",
+        "question_images": [],
+        "options": [
+            "A. –H",
+            "B. –CH$_2$OH",
+            "C. –HS–CH$_2$",
+            "D. –CH$_2$–CH$_2$"
+        ],
+        "option_images": [],
+        "answer": "B. –CH$_2$OH",
+        "solution": "Serine contains a hydroxymethyl side chain ($-CH_{2}OH$). [Image of the chemical structure of Serine]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Biomolecules",
+        "question": "The carbohydrate that CANNOT be hydrolysed to simpler form is called _____",
+        "question_latex": "The carbohydrate that CANNOT be hydrolysed to simpler form is called \\_\\_\\_\\_\\_",
+        "question_images": [],
+        "options": [
+            "A. Polysaccharide",
+            "B. Trisaccharide",
+            "C. Disaccharide",
+            "D. Monosaccharide"
+        ],
+        "option_images": [],
+        "answer": "D. Monosaccharide",
+        "solution": "Monosaccharides are the simplest carbohydrates and cannot be hydrolysed further into smaller units.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Biomolecules",
+        "question": "The letter D in carbohydrates represents its ____",
+        "question_latex": "The letter D in carbohydrates represents its \\_\\_\\_\\_",
+        "question_images": [],
+        "options": [
+            "A. Dextro synthesis",
+            "B. Levorotation",
+            "C. Mutarotation",
+            "D. Configuration"
+        ],
+        "option_images": [],
+        "answer": "D. Configuration",
+        "solution": "The $D/L$ notation denotes the absolute configuration of the chiral carbon farthest from the carbonyl group relative to glyceraldehyde. ",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Biomolecules",
+        "question": "Carbohydrates are stored in the body as",
+        "question_latex": "Carbohydrates are stored in the body as",
+        "question_images": [],
+        "options": [
+            "A. Sugars",
+            "B. Starch",
+            "C. Glucose",
+            "D. Glycogen"
+        ],
+        "option_images": [],
+        "answer": "D. Glycogen",
+        "solution": "In animals, carbohydrates are stored as glycogen, primarily in the liver and muscle tissues.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Biomolecules",
+        "question": "Which from following on hydrolysis forms invert sugar?",
+        "question_latex": "Which from following on hydrolysis forms invert sugar?",
+        "question_images": [],
+        "options": [
+            "A. Starch",
+            "B. Lactose",
+            "C. Sucrose",
+            "D. Maltose"
+        ],
+        "option_images": [],
+        "answer": "C. Sucrose",
+        "solution": "Sucrose hydrolyses to an equimolar mixture of D-glucose and D-fructose. This mixture is called 'invert sugar' because the sign of optical rotation changes (inverts) from dextro to levo during hydrolysis.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Biomolecules",
+        "question": "Which of the following enzymes is useful in conversion of glucose to fructose?",
+        "question_latex": "Which of the following enzymes is useful in conversion of glucose to fructose?",
+        "question_images": [],
+        "options": [
+            "A. Invertase",
+            "B. Amylase",
+            "C. Protease",
+            "D. Glucose isomerase"
+        ],
+        "option_images": [],
+        "answer": "D. Glucose isomerase",
+        "solution": "Glucose isomerase is the enzyme that catalyzes the isomerization of glucose into fructose.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Biomolecules",
+        "question": "Terpenes consist of ____ units.",
+        "question_latex": "Terpenes consist of \\_\\_\\_\\_ units.",
+        "question_images": [],
+        "options": [
+            "A. Steroid",
+            "B. Amino acid",
+            "C. Isoprene",
+            "D. Glucose"
+        ],
+        "option_images": [],
+        "answer": "C. Isoprene",
+        "solution": "Terpenes are a large and diverse class of organic compounds derived biosynthetically from units of isoprene ($C_{5}H_{8}$). [Image of Isoprene unit structure]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Biomolecules",
+        "question": "Which of following has similar glycosidic bond?",
+        "question_latex": "Which of following has similar glycosidic bond?",
+        "question_images": [],
+        "options": [
+            "A. Maltose and lactose",
+            "B. Maltose and cellulose",
+            "C. Amylose and amylopectin",
+            "D. Maltose and amylase"
+        ],
+        "option_images": [],
+        "answer": "B. Maltose and cellulose",
+        "solution": "Maltose and cellulose both contain glycosidic bonds between glucose units. Note: While maltose contains $\\alpha$-1,4 and cellulose contains $\\beta$-1,4, they are both 1-4 linkages between glucose molecules.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Biomolecules",
+        "question": "Which among the following carbohydrates yields highest number of monosaccharide units when one mole of it is hydrolysed?",
+        "question_latex": "Which among the following carbohydrates yields highest number of monosaccharide units when one mole of it is hydrolysed?",
+        "question_images": [],
+        "options": [
+            "A. Sucrose",
+            "B. Lactose",
+            "C. Stachyose",
+            "D. Raffinose"
+        ],
+        "option_images": [],
+        "answer": "C. Stachyose",
+        "solution": "Sucrose and Lactose are disaccharides (2 units), Raffinose is a trisaccharide (3 units), and Stachyose is a tetrasaccharide (4 units). Thus, Stachyose yields the highest number.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Biomolecules",
+        "question": "What is IUPAC name of glyceraldehyde?",
+        "question_latex": "What is IUPAC name of glyceraldehyde?",
+        "question_images": [],
+        "options": [
+            "A. Propanal",
+            "B. 2-Hydroxybutanal",
+            "C. 2,3-Dihydroxypropanal",
+            "D. 2-Hydroxypropanal"
+        ],
+        "option_images": [],
+        "answer": "C. 2,3-Dihydroxypropanal",
+        "solution": "Glyceraldehyde contains an aldehyde group (at $C_{1}$) and hydroxyl groups at $C_{2}$ and $C_{3}$. [Image of chemical structure of Glyceraldehyde]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Biomolecules",
+        "question": "Identity the glycosidic linkage present in sucrose.",
+        "question_latex": "Identity the glycosidic linkage present in sucrose.",
+        "question_images": [],
+        "options": [
+            "A. $\\alpha$-1 → 4",
+            "B. $\\beta$-1 → 4",
+            "C. $\\alpha$-1 → 2",
+            "D. $\\beta$-1 → 6"
+        ],
+        "option_images": [],
+        "answer": "C. $\\alpha$-1 → 2",
+        "solution": "Sucrose consists of $\\alpha$-D-glucose and $\\beta$-D-fructose linked by an $\\alpha$-1,2-glycosidic bond. [Image of Sucrose glycosidic bond structure]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Biomolecules",
+        "question": "DNA differ from RNA in respect to base",
+        "question_latex": "DNA differ from RNA in respect to base",
+        "question_images": [],
+        "options": [
+            "A. Uracil",
+            "B. Cytosine",
+            "C. Adenine",
+            "D. Guanine"
+        ],
+        "option_images": [],
+        "answer": "A. Uracil",
+        "solution": "RNA contains the base Uracil, whereas DNA contains Thymine.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Biomolecules",
+        "question": "Which from following n mole molecules of carbohydrates contains 2n mole molecules of galactose, n moles of glucose and n moles of fructose in it?",
+        "question_latex": "Which from following $n$ mole molecules of carbohydrates contains $2n$ mole molecules of galactose, $n$ moles of glucose and $n$ moles of fructose in it?",
+        "question_images": [],
+        "options": [
+            "A. Stachyose",
+            "B. Amylose",
+            "C. Lactose",
+            "D. Raffinose"
+        ],
+        "option_images": [],
+        "answer": "A. Stachyose",
+        "solution": "Stachyose is a tetrasaccharide that upon hydrolysis yields 2 molecules of galactose, 1 molecule of glucose, and 1 molecule of fructose.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Biomolecules",
+        "question": "In nucleic acid the sequence is",
+        "question_latex": "In nucleic acid the sequence is",
+        "question_images": [],
+        "options": [
+            "A. Base-phosphate-sugar",
+            "B. Base-sugar-phosphate",
+            "C. Sugar-base-phosphate",
+            "D. Phosphate-base-sugar"
+        ],
+        "option_images": [],
+        "answer": "B. Base-sugar-phosphate",
+        "solution": "Nucleotides, the building blocks of nucleic acids, are composed of a nitrogenous base, a pentose sugar, and a phosphate group. [Image of Nucleotide structure]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Biomolecules",
+        "question": "The A, B and C are respectively ____",
+        "question_latex": "The $A$, $B$ and $C$ are respectively \\_\\_\\_\\_",
+        "question_images": [],
+        "options": [
+            "A. Sucrose, lactose, maltose",
+            "B. Maltose, lactose, sucrose",
+            "C. Sucrose, maltose, lactose",
+            "D. Maltose, sucrose, lactose"
+        ],
+        "option_images": [],
+        "answer": "A. Sucrose, lactose, maltose",
+        "solution": "Sucrose hydrolyses to glucose and fructose ($A$). Lactose hydrolyses to glucose and galactose ($B$). Maltose hydrolyses to two units of glucose ($C$).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Biomolecules",
+        "question": "Which of the following is an essential amino acid?",
+        "question_latex": "Which of the following is an essential amino acid?",
+        "question_images": [],
+        "options": [
+            "A. Alanine",
+            "B. Glycine",
+            "C. Lysine",
+            "D. Glutamine"
+        ],
+        "option_images": [],
+        "answer": "C. Lysine",
+        "solution": "Lysine is an essential amino acid, meaning it cannot be synthesized by the human body and must be obtained from the diet.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Biomolecules",
+        "question": "Which among the following compounds is obtained when glucose reacts with hydrogen cyanide?",
+        "question_latex": "Which among the following compounds is obtained when glucose reacts with hydrogen cyanide?",
+        "question_images": [],
+        "options": [
+            "A. Gluconic acid",
+            "B. Saccharic acid",
+            "C. Glucose cyanohydrin",
+            "D. n-Hexane"
+        ],
+        "option_images": [],
+        "answer": "C. Glucose cyanohydrin",
+        "solution": "Hydrogen cyanide ($HCN$) adds to the carbonyl group of glucose to form glucose cyanohydrin. ",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Biomolecules",
+        "question": "All monosaccharides are defined as",
+        "question_latex": "All monosaccharides are defined as",
+        "question_images": [],
+        "options": [
+            "A. Non-reducing sugars",
+            "B. Reducing sugars",
+            "C. Hydrolysing sugars",
+            "D. Non-hydrolysing sugars"
+        ],
+        "option_images": [],
+        "answer": "B. Reducing sugars",
+        "solution": "All monosaccharides (aldoses and ketoses) possess a free aldehyde or ketone group (or can form one in solution) and thus reduce Tollen's or Fehling's reagents.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Biomolecules",
+        "question": "During preparation of glucose from starch, chalk powder is added to reaction mixture to",
+        "question_latex": "During preparation of glucose from starch, chalk powder is added to reaction mixture to",
+        "question_images": [],
+        "options": [
+            "A. Accelerate reaction",
+            "B. Neutralise excess sulphuric acid",
+            "C. Obtain crystals of glucose",
+            "D. Prevent oxidation"
+        ],
+        "option_images": [],
+        "answer": "B. Neutralise excess sulphuric acid",
+        "solution": "Chalk powder ($CaCO_{3}$) is added to neutralize the excess $H_{2}SO_{4}$ used for starch hydrolysis.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Biomolecules",
+        "question": "Which from following is an essential amino acid?",
+        "question_latex": "Which from following is an essential amino acid?",
+        "question_images": [],
+        "options": [
+            "A. Serine",
+            "B. Histidine",
+            "C. Glycine",
+            "D. Tyrosine"
+        ],
+        "option_images": [],
+        "answer": "B. Histidine",
+        "solution": "Histidine is considered an essential amino acid, especially for children.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Biomolecules",
+        "question": "Which from following statements is NOT true about maltose?",
+        "question_latex": "Which from following statements is NOT true about maltose?",
+        "question_images": [],
+        "options": [
+            "A. It is milk sugar",
+            "B. It is reducing sugar",
+            "C. It contains $\\alpha$-1,4-glycosidic bond",
+            "D. It is disaccharide"
+        ],
+        "option_images": [],
+        "answer": "A. It is milk sugar",
+        "solution": "Lactose is milk sugar. Maltose is malt sugar.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Biomolecules",
+        "question": "Which carbon atom of glucose ring is called anomeric carbon?",
+        "question_latex": "Which carbon atom of glucose ring is called anomeric carbon?",
+        "question_images": [],
+        "options": [
+            "A. C-3",
+            "B. C-6",
+            "C. C-1",
+            "D. C-2"
+        ],
+        "option_images": [],
+        "answer": "C. C-1",
+        "solution": "The $C_{1}$ carbonyl carbon becomes chiral upon ring closure and is known as the anomeric carbon. ",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Biomolecules",
+        "question": "Which of the following compounds is NOT a vitamin?",
+        "question_latex": "Which of the following compounds is NOT a vitamin?",
+        "question_images": [],
+        "options": [
+            "A. Nicotinamide",
+            "B. Thiamine",
+            "C. Testosterone",
+            "D. Riboflavin"
+        ],
+        "option_images": [],
+        "answer": "C. Testosterone",
+        "solution": "Testosterone is a steroid hormone, not a vitamin. Nicotinamide is Vitamin $B_3$, Thiamine is Vitamin $B_1$, and Riboflavin is Vitamin $B_2$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Biomolecules",
+        "question": "Which of the following is not present in nucleoside?",
+        "question_latex": "Which of the following is not present in nucleoside?",
+        "question_images": [],
+        "options": [
+            "A. Phosphoric acid",
+            "B. Cytosine",
+            "C. Uracil",
+            "D. Guanine"
+        ],
+        "option_images": [],
+        "answer": "A. Phosphoric acid",
+        "solution": "A nucleoside consists of a nitrogenous base and a pentose sugar only. When a phosphoric acid group is attached to a nucleoside, it is called a nucleotide.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Biomolecules",
+        "question": "Identify glycosidic linkage present in maltose.",
+        "question_latex": "Identify glycosidic linkage present in maltose.",
+        "question_images": [],
+        "options": [
+            "A. $\\beta$-1,6",
+            "B. $\\alpha$-1,4",
+            "C. $\\beta$-1,4",
+            "D. $\\alpha$-1,6"
+        ],
+        "option_images": [],
+        "answer": "B. $\\alpha$-1,4",
+        "solution": "Maltose is a disaccharide composed of two $\\alpha$-D-glucose units linked by an $\\alpha$-1,4-glycosidic bond. [Image of maltose chemical structure]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Biomolecules",
+        "question": "Gum is",
+        "question_latex": "Gum is",
+        "question_images": [],
+        "options": [
+            "A. Disaccharide",
+            "B. Monosaccharide",
+            "C. Polysaccharide",
+            "D. Trisaccharide"
+        ],
+        "option_images": [],
+        "answer": "C. Polysaccharide",
+        "solution": "Gums are complex carbohydrates classified as polysaccharides because they yield many monosaccharide units upon hydrolysis.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Biomolecules",
+        "question": "Vitamin C is",
+        "question_latex": "Vitamin C is",
+        "question_images": [],
+        "options": [
+            "A. Citric acid",
+            "B. Ascorbic acid",
+            "C. Lactic acid",
+            "D. Oil"
+        ],
+        "option_images": [],
+        "answer": "B. Ascorbic acid",
+        "solution": "The chemical name for Vitamin C is ascorbic acid ($C_6H_8O_6$).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Biomolecules",
+        "question": "The animal glycolipids that are found in plasma membranes of neural tissues and are abundant in myelin sheath of neurons is",
+        "question_latex": "The animal glycolipids that are found in plasma membranes of neural tissues and are abundant in myelin sheath of neurons is",
+        "question_images": [],
+        "options": [
+            "A. Lecithin",
+            "B. Erythrosides",
+            "C. Cerebrosides",
+            "D. Nucleotides"
+        ],
+        "option_images": [],
+        "answer": "C. Cerebrosides",
+        "solution": "Cerebrosides are a group of glycosphingolipids (glycolipids) important in the myelin sheath of nerve fibers.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Biomolecules",
+        "question": "Identify by name an amino acid from following.",
+        "question_latex": "Identify by name an amino acid from following.",
+        "question_images": [],
+        "options": [
+            "A. Lysine",
+            "B. Asparagine",
+            "C. Glycine",
+            "D. Alanine"
+        ],
+        "option_images": [],
+        "answer": "C. Glycine",
+        "solution": "While all options are amino acids, Glycine is specifically recognized as the simplest $\\alpha$-amino acid where the $R$ group is a Hydrogen atom ($H$).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Biomolecules",
+        "question": "Lipids are classified as",
+        "question_latex": "Lipids are classified as",
+        "question_images": [],
+        "options": [
+            "A. Complex lipids and simple lipids",
+            "B. Complex lipids and conjugated lipids",
+            "C. Complex lipids and fibrous lipids",
+            "D. Complex lipids and globular lipids"
+        ],
+        "option_images": [],
+        "answer": "B. Complex lipids and conjugated lipids",
+        "solution": "Lipids are broadly classified into simple lipids, complex (or compound) lipids, and derived/conjugated lipids.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Biomolecules",
+        "question": "Identify the hydrolysis product of starch.",
+        "question_latex": "Identify the hydrolysis product of starch.",
+        "question_images": [],
+        "options": [
+            "A. Fructose",
+            "B. Ribose",
+            "C. Galactose",
+            "D. Glucose"
+        ],
+        "option_images": [],
+        "answer": "D. Glucose",
+        "solution": "Starch is a polysaccharide made of $\\alpha$-D-glucose units. Complete hydrolysis of starch yields only D-glucose.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Biomolecules",
+        "question": "What is the product obtained when $Br_2$ water reacts with glucose?",
+        "question_latex": "What is the product obtained when $Br_2$ water reacts with glucose?",
+        "question_images": [],
+        "options": [
+            "A. Gluconic acid",
+            "B. 1,6-Dibromoglucose",
+            "C. Saccharic acid",
+            "D. Bromohaxane"
+        ],
+        "option_images": [],
+        "answer": "A. Gluconic acid",
+        "solution": "Bromine water ($Br_2/H_2O$) is a mild oxidizing agent that oxidizes the aldehyde group ($-CHO$) of glucose to a carboxylic acid group ($-COOH$), forming gluconic acid.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Biomolecules",
+        "question": "Which among following compounds possesses highest number of N atoms in it?",
+        "question_latex": "Which among following compounds possesses highest number of N atoms in it?",
+        "question_images": [],
+        "options": [
+            "A. Cytosine",
+            "B. Guanine",
+            "C. Thymine",
+            "D. Uracil"
+        ],
+        "option_images": [],
+        "answer": "B. Guanine",
+        "solution": "Guanine ($C_5H_5N_5O$) has 5 nitrogen atoms. Cytosine has 3, while Thymine and Uracil have 2 nitrogen atoms each. [Image of nitrogenous bases chemical structures]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Biomolecules",
+        "question": "Which from following amino acids contains heterocyclic ring at a side chain (R) group?",
+        "question_latex": "Which from following amino acids contains heterocyclic ring at a side chain (R) group?",
+        "question_images": [],
+        "options": [
+            "A. Arginine",
+            "B. Leucine",
+            "C. Tryptophan",
+            "D. Phenylalanine"
+        ],
+        "option_images": [],
+        "answer": "C. Tryptophan",
+        "solution": "Tryptophan contains an indole ring, which is a heterocyclic functional group, in its side chain. [Image of tryptophan chemical structure]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Biomolecules",
+        "question": "The essential constituent of plant cell wall is",
+        "question_latex": "The essential constituent of plant cell wall is",
+        "question_images": [],
+        "options": [
+            "A. Starch",
+            "B. Cellulose",
+            "C. Sucrose",
+            "D. Glucose"
+        ],
+        "option_images": [],
+        "answer": "B. Cellulose",
+        "solution": "Cellulose is a linear polysaccharide of $\\beta$-D-glucose units and is the primary structural component of plant cell walls.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Biomolecules",
+        "question": "Glycerides are",
+        "question_latex": "Glycerides are",
+        "question_images": [],
+        "options": [
+            "A. Esters of fatty acids and glycol",
+            "B. Esters of fatty acids and glycerol",
+            "C. Esters of fatty acids and sorbitol",
+            "D. Esters of fatty acids and glucose"
+        ],
+        "option_images": [],
+        "answer": "B. Esters of fatty acids and glycerol",
+        "solution": "Glycerides (fats and oils) are esters formed by the reaction of the trihydroxy alcohol, glycerol, with fatty acids.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Biomolecules",
+        "question": "Which of the following is NOT present in DNA?",
+        "question_latex": "Which of the following is NOT present in DNA?",
+        "question_images": [],
+        "options": [
+            "A. Adenine",
+            "B. Uracil",
+            "C. Guanine",
+            "D. Thymine"
+        ],
+        "option_images": [],
+        "answer": "B. Uracil",
+        "solution": "DNA contains Adenine, Guanine, Cytosine, and Thymine. Uracil is found in RNA instead of Thymine.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Biomolecules",
+        "question": "Which of the following is an ester?",
+        "question_latex": "Which of the following is an ester?",
+        "question_images": [],
+        "options": [
+            "A. Soap",
+            "B. Seed oil",
+            "C. Glycerine",
+            "D. Kerosene oil"
+        ],
+        "option_images": [],
+        "answer": "B. Seed oil",
+        "solution": "Seed oils (vegetable oils) are triglycerides, which are tri-esters of glycerol and long-chain fatty acids.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Biomolecules",
+        "question": "How many amino acids are linked together by $(n - 1)$ amide bonds?",
+        "question_latex": "How many amino acids are linked together by $(n - 1)$ amide bonds?",
+        "question_images": [],
+        "options": [
+            "A. $n$",
+            "B. $n - 1$",
+            "C. $n + 1$",
+            "D. $2n$"
+        ],
+        "option_images": [],
+        "answer": "A. $n$",
+        "solution": "In a linear polypeptide chain, $n$ amino acids are joined together by $(n-1)$ peptide (amide) bonds.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Biomolecules",
+        "question": "Protein on hydrolysis gives",
+        "question_latex": "Protein on hydrolysis gives",
+        "question_images": [],
+        "options": [
+            "A. $\\alpha$-amino acids",
+            "B. $\\beta$-amino acids",
+            "C. $\\gamma$-amino acids",
+            "D. $\\delta$-amino acids"
+        ],
+        "option_images": [],
+        "answer": "A. $\\alpha$-amino acids",
+        "solution": "Proteins are biopolymers made specifically from $\\alpha$-amino acids; thus, their hydrolysis yields $\\alpha$-amino acids.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Biomolecules",
+        "question": "Choose the CORRECT statement about proteins.",
+        "question_latex": "Choose the CORRECT statement about proteins.",
+        "question_images": [],
+        "options": [
+            "A. They are nitrogenous organic compounds of high molecular weights",
+            "B. They on hydrolysis by enzyme give amino acids",
+            "C. Many of them are enzymes",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D. All of these",
+        "solution": "Proteins are high molecular weight polymers of amino acids, they hydrolyze to amino acids, and all enzymes are proteins.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Biomolecules",
+        "question": "Which of the following is a protein?",
+        "question_latex": "Which of the following is a protein?",
+        "question_images": [],
+        "options": [
+            "A. Serine",
+            "B. Glycogen",
+            "C. Alanine",
+            "D. Keratin"
+        ],
+        "option_images": [],
+        "answer": "D. Keratin",
+        "solution": "Keratin is a fibrous structural protein. Serine and Alanine are amino acids, and Glycogen is a polysaccharide.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Biomolecules",
+        "question": "Oils are",
+        "question_latex": "Oils are",
+        "question_images": [],
+        "options": [
+            "A. Triglycerides of saturated fatty acids",
+            "B. Triglycerides of unsaturated fatty acids",
+            "C. Diglycerides of saturated fatty acids",
+            "D. Diglycerides of unsaturated fatty acids"
+        ],
+        "option_images": [],
+        "answer": "B. Triglycerides of unsaturated fatty acids",
+        "solution": "Oils are liquid at room temperature because they consist mainly of triglycerides containing unsaturated fatty acid chains (which have lower melting points than saturated ones).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Biomolecules",
+        "question": "To detect reducing and non-reducing sugars following test is used",
+        "question_latex": "To detect reducing and non-reducing sugars following test is used",
+        "question_images": [],
+        "options": [
+            "A. Millon test",
+            "B. Biuret test",
+            "C. Tollen's test",
+            "D. Xanthoproteic test"
+        ],
+        "option_images": [],
+        "answer": "C. Tollen's test",
+        "solution": "Tollen's test (silver mirror test) is used to distinguish reducing sugars (which have free aldehyde/ketone groups) from non-reducing sugars.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Biomolecules",
+        "question": "Which carbon atoms of fructose are bonded together through oxygen forming fructofuranose?",
+        "question_latex": "Which carbon atoms of fructose are bonded together through oxygen forming fructofuranose?",
+        "question_images": [],
+        "options": [
+            "A. $C-2$ and $C-5$",
+            "B. $C-1$ and $C-6$",
+            "C. $C-2$ and $C-6$",
+            "D. $C-1$ and $C-5$"
+        ],
+        "option_images": [],
+        "answer": "A. $C-2$ and $C-5$",
+        "solution": "In fructose, the cyclic furanose (five-membered ring) structure is formed by a hemiacetal linkage between the $C-2$ keto group and the $C-5$ hydroxyl group via an oxygen atom. ",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Biomolecules",
+        "question": "Sucrose contain",
+        "question_latex": "Sucrose contain",
+        "question_images": [],
+        "options": [
+            "A. 1-2 $\\alpha$-$\\beta$ acetal bond",
+            "B. 1-2 $\\alpha$-$\\alpha$ acetal bond",
+            "C. 1-2 $\\beta$-$\\alpha$ acetal bond",
+            "D. 1-2 $\\beta$-$\\beta$ acetal bond"
+        ],
+        "option_images": [],
+        "answer": "A. 1-2 $\\alpha$-$\\beta$ acetal bond",
+        "solution": "Sucrose is formed by a glycosidic linkage between $C-1$ of $\\alpha$-D-glucose and $C-2$ of $\\beta$-D-fructose. [Image of sucrose chemical structure]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Biomolecules",
+        "question": "Identify compound 'X' in following reaction.",
+        "question_latex": "Identify compound 'X' in following reaction: $\\text{Glucose} \\xrightarrow{\\text{Br}_2/\\text{H}_2\\text{O}} \\text{Gluconic acid} \\xrightarrow{\\text{dil. } \\text{HNO}_3} X$",
+        "question_images": [],
+        "options": [
+            "A. Gluconic acid",
+            "B. Saccharic acid",
+            "C. Hexane",
+            "D. Sorbitol"
+        ],
+        "option_images": [],
+        "answer": "B. Saccharic acid",
+        "solution": "Nitric acid ($HNO_3$) is a strong oxidizing agent that oxidizes both the aldehyde group and the primary alcohol group of glucose to carboxylic acid groups, resulting in saccharic acid (glucaric acid). ",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Biomolecules",
+        "question": "Which of the following is levorotatory?",
+        "question_latex": "Which~of~the~following~is~levorotatory?",
+        "question_images": [],
+        "options": [
+            "A. Glucose",
+            "B. Sucrose",
+            "C. Fructose",
+            "D. Lactose"
+        ],
+        "option_images": [],
+        "answer": "C. Fructose",
+        "solution": "D(-)-fructose shows levorotation.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Biomolecules",
+        "question": "Maltose is made up of",
+        "question_latex": "Maltose~is~made~up~of",
+        "question_images": [],
+        "options": [
+            "A. $\\alpha$-D-glucopyranose",
+            "B. $\\alpha$- and $\\beta$-D-glucopyranose",
+            "C. Glucose and fructose",
+            "D. Fructose only"
+        ],
+        "option_images": [],
+        "answer": "B. $\\alpha$- and $\\beta$-D-glucopyranose",
+        "solution": "Maltose consists of two glucose units (one $\\alpha$ and one $\\beta$).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Biomolecules",
+        "question": "Vitamin B$_6$ is",
+        "question_latex": "Vitamin~B_6~is",
+        "question_images": [],
+        "options": [
+            "A. Riboflavin",
+            "B. Cobalamin",
+            "C. Thiamine",
+            "D. Pyridoxine"
+        ],
+        "option_images": [],
+        "answer": "D. Pyridoxine",
+        "solution": "Vitamin B$_6$ is pyridoxine.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Biomolecules",
+        "question": "Amino acids are the building block of",
+        "question_latex": "Amino~acids~are~the~building~block~of",
+        "question_images": [],
+        "options": [
+            "A. Fats",
+            "B. Vitamins",
+            "C. Proteins",
+            "D. Carbohydrates"
+        ],
+        "option_images": [],
+        "answer": "C. Proteins",
+        "solution": "Proteins are polymers of amino acids.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Biomolecules",
+        "question": "Mg is an important component of which biomolecule occurring extensively in living world?",
+        "question_latex": "Mg~is~an~important~component~of~which~biomolecule~occurring~extensively~in~living~world?",
+        "question_images": [],
+        "options": [
+            "A. Haemoglobin",
+            "B. Chlorophyll",
+            "C. Vitamin",
+            "D. ATP"
+        ],
+        "option_images": [],
+        "answer": "B. Chlorophyll",
+        "solution": "Magnesium is the central metal ion in chlorophyll.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Biomolecules",
+        "question": "Which hormones increase lactic acid in muscles?",
+        "question_latex": "Which~hormones~increase~lactic~acid~in~muscles?",
+        "question_images": [],
+        "options": [
+            "A. Progesterone",
+            "B. Estrogen",
+            "C. Nor-adrenaline",
+            "D. Androgen"
+        ],
+        "option_images": [],
+        "answer": "C. Nor-adrenaline",
+        "solution": "Nor-adrenaline enhances glycolysis leading to lactic acid formation.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Biomolecules",
+        "question": "Proteins are high molecular weight polymers mainly containing the elements",
+        "question_latex": "Proteins~are~high~molecular~weight~polymers~mainly~containing~the~elements",
+        "question_images": [],
+        "options": [
+            "A. C, H",
+            "B. C, H, O",
+            "C. C, H, N, O, S",
+            "D. C, H, O, P"
+        ],
+        "option_images": [],
+        "answer": "C. C, H, N, O, S",
+        "solution": "Proteins contain carbon, hydrogen, oxygen, nitrogen and often sulfur.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Biomolecules",
+        "question": "What type of peptide is the glycylalanine?",
+        "question_latex": "What~type~of~peptide~is~the~glycylalanine?",
+        "question_images": [],
+        "options": [
+            "A. Polypeptide",
+            "B. Tripeptide",
+            "C. Tetrapeptide",
+            "D. Dipeptide"
+        ],
+        "option_images": [],
+        "answer": "D. Dipeptide",
+        "solution": "Glycylalanine contains two amino acids joined by one peptide bond.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Biomolecules",
+        "question": "Which following amino acids is synthesized in our body?",
+        "question_latex": "Which~of~the~following~amino~acids~is~synthesized~in~our~body?",
+        "question_images": [],
+        "options": [
+            "A. Proline",
+            "B. Phenylalanine",
+            "C. Valine",
+            "D. Methionine"
+        ],
+        "option_images": [],
+        "answer": "A. Proline",
+        "solution": "Proline is a non-essential amino acid synthesized in the body.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Biomolecules",
+        "question": "Vitamin that is most readily produced in our body is",
+        "question_latex": "Vitamin~that~is~most~readily~produced~in~our~body~is",
+        "question_images": [],
+        "options": [
+            "A. Vit-C",
+            "B. Vit-D",
+            "C. Vit-B",
+            "D. Vit-P"
+        ],
+        "option_images": [],
+        "answer": "B. Vit-D",
+        "solution": "Vitamin D is synthesized in skin under sunlight.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Biomolecules",
+        "question": "What is the number of moles of N atoms and number of moles of oxygen atoms respectively present in one mole of uracil?",
+        "question_latex": "What~is~the~number~of~moles~of~N~atoms~and~number~of~moles~of~O~atoms~respectively~present~in~one~mole~of~uracil?",
+        "question_images": [],
+        "options": [
+            "A. 1 and 5",
+            "B. 2 and 2",
+            "C. 2 and 3",
+            "D. 1 and 3"
+        ],
+        "option_images": [],
+        "answer": "B. 2 and 2",
+        "solution": "Uracil contains two nitrogen and two oxygen atoms per molecule.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Biomolecules",
+        "question": "Which carbon atom of glucopyranose numbered from C-1 to C-6 is anomeric?",
+        "question_latex": "Which~carbon~atom~of~glucopyranose~numbered~from~C\\text{-}1~to~C\\text{-}6~is~anomeric?",
+        "question_images": [],
+        "options": [
+            "A. C-2",
+            "B. C-5",
+            "C. C-6",
+            "D. C-1"
+        ],
+        "option_images": [],
+        "answer": "D. C-1",
+        "solution": "C-1 becomes chiral after cyclisation and is the anomeric carbon.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Biomolecules",
+        "question": "Biotin is an organic compound present in diet causes paralysis it is also known as",
+        "question_latex": "Biotin~is~an~organic~compound;~its~deficiency~causes~paralysis~and~it~is~also~known~as",
+        "question_images": [],
+        "options": [
+            "A. Vit-A",
+            "B. Vit-B$_3$",
+            "C. Vit-B$_{12}$",
+            "D. Vit-H"
+        ],
+        "option_images": [],
+        "answer": "D. Vit-H",
+        "solution": "Biotin is also called Vitamin H.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Biomolecules",
+        "question": "Monoterpene contains how many carbon atoms?",
+        "question_latex": "Monoterpene~contains~how~many~carbon~atoms?",
+        "question_images": [],
+        "options": [
+            "A. 10",
+            "B. 12",
+            "C. 14",
+            "D. 16"
+        ],
+        "option_images": [],
+        "answer": "A. 10",
+        "solution": "Monoterpenes consist of two isoprene units ($2\\times C_5H_8$).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Biomolecules",
+        "question": "On hydrolysis sucrose gives",
+        "question_latex": "On~hydrolysis~sucrose~gives",
+        "question_images": [],
+        "options": [
+            "A. 2 moles of galactose",
+            "B. 2 moles of fructose",
+            "C. 2 moles of glucose",
+            "D. Equimolar mixture of glucose and fructose"
+        ],
+        "option_images": [],
+        "answer": "D. Equimolar mixture of glucose and fructose",
+        "solution": "Sucrose hydrolyses to one mole each of glucose and fructose.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Biomolecules",
+        "question": "The compound which has five carbon atoms with –CHO group is",
+        "question_latex": "The~compound~which~has~five~carbon~atoms~with~{-}CHO~group~is",
+        "question_images": [],
+        "options": [
+            "A. Aldopentose",
+            "B. Ketopentose",
+            "C. Aldohexose",
+            "D. Ketohexose"
+        ],
+        "option_images": [],
+        "answer": "A. Aldopentose",
+        "solution": "Aldopentoses have five carbons and an aldehyde group.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Biomolecules",
+        "question": "The only α-amino acid which is achiral is",
+        "question_latex": "The~only~$\\alpha$-amino~acid~which~is~achiral~is",
+        "question_images": [],
+        "options": [
+            "A. Lysine",
+            "B. Glycine",
+            "C. Proline",
+            "D. Alanine"
+        ],
+        "option_images": [],
+        "answer": "B. Glycine",
+        "solution": "Glycine has two hydrogen atoms on $\\alpha$-carbon, hence achiral.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Biomolecules",
+        "question": "Which among the following is a product of hydrolysis of one mole raffinose?",
+        "question_latex": "Which~among~the~following~is~a~product~of~hydrolysis~of~one~mole~raffinose?",
+        "question_images": [],
+        "options": [
+            "A. 2 moles of glucose",
+            "B. 2 moles of fructose + 1 mole galactose",
+            "C. 1 mole fructose + 1 mole galactose",
+            "D. 1 mole glucose + 1 mole fructose + 1 mole galactose"
+        ],
+        "option_images": [],
+        "answer": "D. 1 mole glucose + 1 mole fructose + 1 mole galactose",
+        "solution": "Raffinose hydrolyses to glucose, fructose and galactose.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Biomolecules",
+        "question": "Identify the enzyme used in conversion of sucrose",
+        "question_latex": "Identify~the~enzyme~used~in~conversion~of~sucrose",
+        "question_images": [],
+        "options": [
+            "A. Amylase",
+            "B. Lipase",
+            "C. Invertase",
+            "D. Diastase"
+        ],
+        "option_images": [],
+        "answer": "C. Invertase",
+        "solution": "Invertase catalyses hydrolysis of sucrose.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Biomolecules",
+        "question": "Which amino acid from following contains highest number of nitrogen atoms?",
+        "question_latex": "Which~amino~acid~from~the~following~contains~highest~number~of~nitrogen~atoms?",
+        "question_images": [],
+        "options": [
+            "A. Histidine",
+            "B. Arginine",
+            "C. Glutamine",
+            "D. Lysine"
+        ],
+        "option_images": [],
+        "answer": "B. Arginine",
+        "solution": "Arginine contains the guanidino group with highest nitrogen count.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Biomolecules",
+        "question": "Maltose on hydrolysis produces",
+        "question_latex": "Maltose~on~hydrolysis~produces",
+        "question_images": [],
+        "options": [
+            "A. $\\beta$-D-glucose",
+            "B. $\\alpha$-D-glucose",
+            "C. $\\beta$-D-fructose",
+            "D. $\\alpha$-D-fructose"
+        ],
+        "option_images": [],
+        "answer": "B. $\\alpha$-D-glucose",
+        "solution": "Hydrolysis of maltose gives $\\alpha$-D-glucose units.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Biomolecules",
+        "question": "Which from following statements is false regarding dCMP?",
+        "question_latex": "Which~of~the~following~statements~is~false~regarding~dCMP?",
+        "question_images": [],
+        "options": [
+            "A. This contains cytosine nitrogen base",
+            "B. It is a nucleotide",
+            "C. Nitrogen of cytosine at 3rd position is bonded with 1' carbon of sugar",
+            "D. It contains deoxyribose sugar"
+        ],
+        "option_images": [],
+        "answer": "C. Nitrogen of cytosine at 3rd position is bonded with 1' carbon of sugar",
+        "solution": "In nucleotides, N-1 of pyrimidine bases bonds with C-1' of sugar.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Biomolecules",
+        "question": "Identify the pair of carbohydrates containing galactose as one constituent in both of them",
+        "question_latex": "Identify~the~pair~of~carbohydrates~containing~galactose~as~one~constituent~in~both~of~them",
+        "question_images": [],
+        "options": [
+            "A. Raffinose and stachyose",
+            "B. Lactose and maltose",
+            "C. Sucrose and stachyose",
+            "D. Maltose and raffinose"
+        ],
+        "option_images": [],
+        "answer": "A. Raffinose and stachyose",
+        "solution": "Both raffinose and stachyose contain galactose units.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Biomolecules",
+        "question": "Which from following amino acids contains sulfur?",
+        "question_latex": "Which~of~the~following~amino~acids~contains~sulfur?",
+        "question_images": [],
+        "options": [
+            "A. Alanine",
+            "B. Tryptophan",
+            "C. Cysteine",
+            "D. Histidine"
+        ],
+        "option_images": [],
+        "answer": "C. Cysteine",
+        "solution": "Cysteine contains a thiol ($-SH$) group.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Biomolecules",
+        "question": "Which carbon atom of glucose numbered from C-1 to C-6 in Fischer projection formula attached with –OH group describes the D or L configuration of glucose?",
+        "question_latex": "Which~carbon~atom~of~glucose~(C\\text{-}1~to~C\\text{-}6)~in~Fischer~projection~attached~with~{-}OH~group~describes~the~D/L~configuration~of~glucose?",
+        "question_images": [],
+        "options": [
+            "A. C-4",
+            "B. C-3",
+            "C. C-2",
+            "D. C-5"
+        ],
+        "option_images": [],
+        "answer": "D. C-5",
+        "solution": "Configuration is determined by the chiral carbon farthest from the carbonyl carbon (C-5).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Biomolecules",
+        "question": "Carbohydrates insoluble in water is",
+        "question_latex": "Carbohydrates~that~are~insoluble~in~water~are",
+        "question_images": [],
+        "options": [
+            "A. Glucose",
+            "B. Fructose",
+            "C. Cellulose",
+            "D. Sucrose"
+        ],
+        "option_images": [],
+        "answer": "C. Cellulose",
+        "solution": "Cellulose is a polysaccharide insoluble in water due to extensive hydrogen bonding.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Biomolecules",
+        "question": "The complex lifeless organic substances which build up living organisms and are required for their growth and maintenance are",
+        "question_latex": "The~complex~lifeless~organic~substances~which~build~up~living~organisms~and~are~required~for~their~growth~and~maintenance~are",
+        "question_images": [],
+        "options": [
+            "A. Grains",
+            "B. Fibres",
+            "C. Homologues",
+            "D. Polymers"
+        ],
+        "option_images": [],
+        "answer": "D. Polymers",
+        "solution": "Biomolecules are complex polymers required for structure and function of living organisms.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Biomolecules",
+        "question": "Which of the following enzyme hydrolyses starch?",
+        "question_latex": "Which~of~the~following~enzymes~hydrolyses~starch?",
+        "question_images": [],
+        "options": [
+            "A. Amylase",
+            "B. Glucose isomerase",
+            "C. Penicillin G acylase",
+            "D. Proteases"
+        ],
+        "option_images": [],
+        "answer": "A. Amylase",
+        "solution": "Amylase catalyses hydrolysis of starch into maltose and glucose.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Biomolecules",
+        "question": "Which of the following exists as zwitter ion?",
+        "question_latex": "Which~of~the~following~exists~as~zwitter~ion?",
+        "question_images": [],
+        "options": [
+            "A. Salicylic acid",
+            "B. Sulphanilic acid",
+            "C. Ethanamine",
+            "D. p-aminoacetophenone"
+        ],
+        "option_images": [],
+        "answer": "B. Sulphanilic acid",
+        "solution": "Sulphanilic acid exists as a zwitter ion due to presence of $-NH_3^+$ and $-SO_3^-$ groups.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Biomolecules",
+        "question": "What are the different functional groups present in glucose cyanohydrin?",
+        "question_latex": "What~are~the~different~functional~groups~present~in~glucose~cyanohydrin?",
+        "question_images": [],
+        "options": [
+            "A. –CHO and –CN",
+            "B. –CN and –OH",
+            "C. –CHO and –NH$_2$",
+            "D. –CHO and –OH"
+        ],
+        "option_images": [],
+        "answer": "B. –CN and –OH",
+        "solution": "Glucose cyanohydrin contains a nitrile group ($-CN$) and hydroxyl groups ($-OH$).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Biomolecules",
+        "question": "Chalk powder is added to hydrolysed solution of starch during manufacture of glucose",
+        "question_latex": "Chalk~powder~is~added~to~hydrolysed~solution~of~starch~during~manufacture~of~glucose",
+        "question_images": [],
+        "options": [
+            "A. For hydrolysis is necessary",
+            "B. For cooling of sulphuric acid",
+            "C. For alkylation of sulphuric acid",
+            "D. Because hydrolysed solution of starch contains excess sulphuric acid"
+        ],
+        "option_images": [],
+        "answer": "D. Because hydrolysed solution of starch contains excess sulphuric acid",
+        "solution": "CaCO$_3$ neutralises excess $H_2SO_4$ present after hydrolysis.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Biomolecules",
+        "question": "In amylose glycosidic branching present in between",
+        "question_latex": "In~amylose~glycosidic~branching~present~in~between",
+        "question_images": [],
+        "options": [
+            "A. 1–4 of $\\alpha$-D-glucopyranose",
+            "B. 1–4 of $\\beta$-D-glucopyranose",
+            "C. 1–6 of $\\alpha$-D-glucopyranose",
+            "D. 1–6 of $\\beta$-D-glucopyranose"
+        ],
+        "option_images": [],
+        "answer": "A. 1–4 of $\\alpha$-D-glucopyranose",
+        "solution": "Amylose has linear chains with $\\alpha$-1,4 glycosidic bonds.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Biomolecules",
+        "question": "Identify the reagent used to convert –CHO group of glucose to =N–OH",
+        "question_latex": "Identify~the~reagent~used~to~convert~{-}CHO~group~of~glucose~to~=N{-}OH",
+        "question_images": [],
+        "options": [
+            "A. Acetic anhydride",
+            "B. Hydroxylamine",
+            "C. Hydrogen cyanide",
+            "D. Hydrogen iodide"
+        ],
+        "option_images": [],
+        "answer": "B. Hydroxylamine",
+        "solution": "Hydroxylamine converts aldehyde group into oxime ($C{=}N{-}OH$).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Biomolecules",
+        "question": "Which amino acid from following list is NOT synthesized in our body?",
+        "question_latex": "Which~amino~acid~from~the~following~list~is~NOT~synthesized~in~our~body?",
+        "question_images": [],
+        "options": [
+            "A. Methionine",
+            "B. Cysteine",
+            "C. Glutamine",
+            "D. Proline"
+        ],
+        "option_images": [],
+        "answer": "A. Methionine",
+        "solution": "Methionine is an essential amino acid and cannot be synthesised in the body.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Biomolecules",
+        "question": "Denaturation of protein",
+        "question_latex": "Denaturation~of~protein",
+        "question_images": [],
+        "options": [
+            "A. Disrupts the $1^\\circ$ and $2^\\circ$ structure",
+            "B. Disrupts the $2^\\circ$ and $3^\\circ$ structure",
+            "C. Disrupts the $1^\\circ$ structure",
+            "D. Is reversible process"
+        ],
+        "option_images": [],
+        "answer": "B. Disrupts the $2^\\circ$ and $3^\\circ$ structure",
+        "solution": "Denaturation affects secondary and tertiary structures without breaking peptide bonds.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Biomolecules",
+        "question": "Maltose and glucose are",
+        "question_latex": "Maltose~and~glucose~are",
+        "question_images": [],
+        "options": [
+            "A. Oxidising sugar",
+            "B. Reducing sugar",
+            "C. First is oxidising and second is reducing sugar",
+            "D. Both are non-reducing sugars"
+        ],
+        "option_images": [],
+        "answer": "B. Reducing sugar",
+        "solution": "Both maltose and glucose have free anomeric carbon and are reducing sugars.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Biomolecules",
+        "question": "What is NOT true for carbohydrates?",
+        "question_latex": "What~is~NOT~true~for~carbohydrates?",
+        "question_images": [],
+        "options": [
+            "A. General formula is $C_n(H_2O)_n$",
+            "B. Glucose is the most common monomer of carbohydrates",
+            "C. Fructose is the sweetest of all sugars",
+            "D. Carbohydrates not conjugate with lipids"
+        ],
+        "option_images": [],
+        "answer": "D. Carbohydrates not conjugate with lipids",
+        "solution": "Carbohydrates can conjugate with lipids forming glycolipids.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Biomolecules",
+        "question": "In plant glycolipids sugar is",
+        "question_latex": "In~plant~glycolipids~sugar~is",
+        "question_images": [],
+        "options": [
+            "A. Glucose",
+            "B. Fructose",
+            "C. Galactose",
+            "D. Mannose"
+        ],
+        "option_images": [],
+        "answer": "C. Galactose",
+        "solution": "Plant glycolipids commonly contain galactose.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Biomolecules",
+        "question": "What type of glycosidic linkages are present in amylose?",
+        "question_latex": "What~type~of~glycosidic~linkages~are~present~in~amylose?",
+        "question_images": [],
+        "options": [
+            "A. $\\alpha$-1,4 and $\\alpha$-1,6",
+            "B. $\\beta$-1,4",
+            "C. $\\alpha$-1,4",
+            "D. $\\alpha$-1,6"
+        ],
+        "option_images": [],
+        "answer": "C. $\\alpha$-1,4",
+        "solution": "Amylose contains only $\\alpha$-1,4 glycosidic linkages.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Biomolecules",
+        "question": "Which among the following enzymes hydrolyses starch?",
+        "question_latex": "Which~among~the~following~enzymes~hydrolyses~starch?",
+        "question_images": [],
+        "options": [
+            "A. Insulin",
+            "B. Glucose isomerase",
+            "C. Proteases",
+            "D. Amylase"
+        ],
+        "option_images": [],
+        "answer": "D. Amylase",
+        "solution": "Amylase catalyses hydrolysis of starch.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Biomolecules",
+        "question": "Identify acidic amino acid from following",
+        "question_latex": "Identify~acidic~amino~acid~from~the~following",
+        "question_images": [],
+        "options": [
+            "A. Glycine",
+            "B. Lysine",
+            "C. Alanine",
+            "D. Aspartic acid"
+        ],
+        "option_images": [],
+        "answer": "D. Aspartic acid",
+        "solution": "Aspartic acid contains an extra $-COOH$ group making it acidic.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Biomolecules",
+        "question": "Which one of the following give positive Fehling solution test?",
+        "question_latex": "Which~one~of~the~following~gives~positive~Fehling~solution~test?",
+        "question_images": [],
+        "options": [
+            "A. Sucrose",
+            "B. Glucose",
+            "C. Fats",
+            "D. Protein"
+        ],
+        "option_images": [],
+        "answer": "B. Glucose",
+        "solution": "Glucose is a reducing sugar and gives positive Fehling test.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Biomolecules",
+        "question": "During conversion of glucose into glucose cyanohydrin, what functional group of glucose is replaced?",
+        "question_latex": "During~conversion~of~glucose~into~glucose~cyanohydrin,~what~functional~group~of~glucose~is~replaced?",
+        "question_images": [],
+        "options": [
+            "A. Hydrogen",
+            "B. Aldehyde group",
+            "C. Primary alcoholic group",
+            "D. Secondary alcoholic group"
+        ],
+        "option_images": [],
+        "answer": "B. Aldehyde group",
+        "solution": "HCN reacts with aldehyde group forming cyanohydrin.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Biomolecules",
+        "question": "Select correct statement",
+        "question_latex": "Select~the~correct~statement",
+        "question_images": [],
+        "options": [
+            "A. Valine is essential amino acid",
+            "B. In peptide linkage oxygen and hydrogen are at trans position",
+            "C. Molecular mass up to 10000 are called polypeptide",
+            "D. All are correct"
+        ],
+        "option_images": [],
+        "answer": "D. All are correct",
+        "solution": "All statements given are correct.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Biomolecules",
+        "question": "D-glactose and D-galactose are",
+        "question_latex": "D\\text{-}galactose~and~D\\text{-}glucose~are",
+        "question_images": [],
+        "options": [
+            "A. Epimers",
+            "B. Metamers",
+            "C. Anomers",
+            "D. Tautomers"
+        ],
+        "option_images": [],
+        "answer": "A. Epimers",
+        "solution": "They differ in configuration at one carbon atom.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Biomolecules",
+        "question": "Aqueous solution of glucose on crystallization at 303 K produces",
+        "question_latex": "Aqueous~solution~of~glucose~on~crystallization~at~303~K~produces",
+        "question_images": [],
+        "options": [
+            "A. Anomers",
+            "B. Epimers",
+            "C. Enantiomers",
+            "D. Polymers"
+        ],
+        "option_images": [],
+        "answer": "A. Anomers",
+        "solution": "Glucose crystallizes as $\\alpha$ and $\\beta$ anomers.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Biomolecules",
+        "question": "Which from following is essential amino acid?",
+        "question_latex": "Which~of~the~following~is~an~essential~amino~acid?",
+        "question_images": [],
+        "options": [
+            "A. Proline",
+            "B. Tyrosine",
+            "C. Valine",
+            "D. Alanine"
+        ],
+        "option_images": [],
+        "answer": "C. Valine",
+        "solution": "Valine is an essential amino acid.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Biomolecules",
+        "question": "Which from following amino acids is synthesized in our body?",
+        "question_latex": "Which~of~the~following~amino~acids~is~synthesized~in~our~body?",
+        "question_images": [],
+        "options": [
+            "A. Phenylalanine",
+            "B. Tyrosine",
+            "C. Isoleucine",
+            "D. Threonine"
+        ],
+        "option_images": [],
+        "answer": "B. Tyrosine",
+        "solution": "Tyrosine is synthesized from phenylalanine in the body.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Biomolecules",
+        "question": "What is value of specific rotation in fructose?",
+        "question_latex": "What~is~the~value~of~specific~rotation~in~fructose?",
+        "question_images": [],
+        "options": [
+            "A. $+66.5^\\circ$",
+            "B. $+52.7^\\circ$",
+            "C. $-92.4^\\circ$",
+            "D. $+42.7^\\circ$"
+        ],
+        "option_images": [],
+        "answer": "C. $-92.4^\\circ$",
+        "solution": "Fructose is levorotatory with specific rotation $-92.4^\\circ$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Biomolecules",
+        "question": "Glucitol is prepared by",
+        "question_latex": "Glucitol~is~prepared~by",
+        "question_images": [],
+        "options": [
+            "A. Oxidation of sucrose with bromine water",
+            "B. Reduction of glucose with sodium amalgam and water",
+            "C. Oxidation of glucose by conc. $HNO_3$",
+            "D. Oxidation of glucose by mild oxidizing agent"
+        ],
+        "option_images": [],
+        "answer": "B. Reduction of glucose with sodium amalgam and water",
+        "solution": "Reduction of aldehyde group of glucose produces glucitol (sorbitol).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    }
 ]
-
-
-

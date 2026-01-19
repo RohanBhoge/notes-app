@@ -1,1934 +1,1902 @@
 [
-  {
-    "id": 1,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "polymers are resistant to environmental degradation process and do not degrade on theie own but accumulate as solid waste materials.",
-    "question_latex": "polymers are resistant to environmental degradation process and do not degrade on theie own but accumulate as solid waste materials.",
-    "question_images": [],
-    "options": [
-      "A. Natural",
-      "B. Semi synthetic",
-      "C. Synthetic",
-      "D. All of these"
-    ],
-    "option_images": [],
-    "answer": "C. Synthetic",
-    "solution": "Synthetic polymers are resistant to environmental degradation process and do not degrade on their own but accumulate as solid waste materials. Thus they are called non biodegradable polymers.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 2,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which from following polymers is obtained from $C_2F_4$?",
-    "question_latex": "Which from following polymers is obtained from $C_2F_4$?",
-    "question_images": [],
-    "options": [
-      "A. Polyisobutylene",
-      "B. PVC",
-      "C. Polyacrylonitrile",
-      "D. Teflon"
-    ],
-    "option_images": [],
-    "answer": "D. Teflon",
-    "solution": "$nCF_2=CF_2 \\xrightarrow[Peroxide]{Polymerization} [CF_2-CF_2]_n$\nTetrafluoroethene $\\rightarrow$ Teflon",
-    "solution_images": [
-      "q2_solution_1"
-    ],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 3,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which from following polymers is used to obtain surgical sutures?",
-    "question_latex": "Which from following polymers is used to obtain surgical sutures?",
-    "question_images": [],
-    "options": [
-      "A. Nylon 6",
-      "B. Nylon 6,6",
-      "C. Terylene",
-      "D. Neoprene"
-    ],
-    "option_images": [],
-    "answer": "B. Nylon 6,6",
-    "solution": "Nylon 6,6 is used for making surgical sutures due to its strength and biocompatibility properties.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 4,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which polymer is obtained from adipic acid and hexamethylene diamine?",
-    "question_latex": "Which polymer is obtained from adipic acid and hexamethylene diamine?",
-    "question_images": [],
-    "options": [
-      "A. Teflon",
-      "B. Nylon-6",
-      "C. Dacron",
-      "D. Nylon-6,6"
-    ],
-    "option_images": [],
-    "answer": "D. Nylon-6,6",
-    "solution": "Adipic acid reacts with hexamethylene diamine under high pressure and temperature to form Nylon 6,6.\n$nHOOC-(CH_2)_4-COOH + nH_2N-(CH_2)_6-NH_2 \\xrightarrow{-\\text{H}_2\\text{O}, \\Delta} [-CO-(CH_2)_4-CO-NH-(CH_2)_6-NH-]_n$",
-    "solution_images": [
-      "q4_solution_1"
-    ],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 5,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following polymers is obtained from $\\epsilon$-caprolactam?",
-    "question_latex": "Which of the following polymers is obtained from $\\epsilon$-caprolactam?",
-    "question_images": [],
-    "options": [
-      "A. Terylene",
-      "B. Polyacrylonitrile",
-      "C. Nylon-6",
-      "D. Neoprene"
-    ],
-    "option_images": [],
-    "answer": "C. Nylon-6",
-    "solution": "$\\epsilon$-caprolactam undergoes ring-opening polymerization at 533-543 K to produce Nylon-6.\n$[\\text{Image of ring opening reaction}]$ \n$[NH-(CH_2)_5-CO]_n$",
-    "solution_images": [
-      "q5_solution_1"
-    ],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 6,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Polyethylene is a resin obtained by polymerization of",
-    "question_latex": "Polyethylene is a resin obtained by polymerization of",
-    "question_images": [],
-    "options": [
-      "A. Styrene",
-      "B. Isoprene",
-      "C. Ethylene",
-      "D. Butadiene"
-    ],
-    "option_images": [],
-    "answer": "C. Ethylene",
-    "solution": "Polyethylene is obtained by the polymerization of ethylene monomers ($CH_2=CH_2$).",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 7,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Identify polyamide polymer from following.",
-    "question_latex": "Identify polyamide polymer from following.",
-    "question_images": [],
-    "options": [
-      "A. Polyacrylonitrile",
-      "B. Dacron",
-      "C. Nylon-6",
-      "D. Bakelite"
-    ],
-    "option_images": [],
-    "answer": "C. Nylon-6",
-    "solution": "Nylon-6 is a polyamide polymer containing the $-C(=O)-NH-$ (amide) group in its backbone.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 8,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Identify the monomers needed for synthesis of nylon-6,6.",
-    "question_latex": "Identify the monomers needed for synthesis of nylon-6,6.",
-    "question_images": [],
-    "options": [
-      "A. Acrylonitrile and $\\epsilon$-caprolactam",
-      "B. Adipic acid and hexamethylenediamine",
-      "C. Ethylene glycol and $\\epsilon$-caprolactam",
-      "D. Ethylene glycol and adipic acid"
-    ],
-    "option_images": [],
-    "answer": "B. Adipic acid and hexamethylenediamine",
-    "solution": "Nylon-6,6 is synthesized from adipic acid [$HOOC-(CH_2)_4-COOH$] and hexamethylenediamine [$H_2N-(CH_2)_6-NH_2$].",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 9,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following polymers does not involve cross-linkages?",
-    "question_latex": "Which of the following polymers does not involve cross-linkages?",
-    "question_images": [],
-    "options": [
-      "A. Vulcanized rubber",
-      "B. Melamine",
-      "C. Bakelite",
-      "D. Polystyrene"
-    ],
-    "option_images": [],
-    "answer": "D. Polystyrene",
-    "solution": "Polystyrene is a thermoplastic and contains only linear chains, whereas Vulcanized rubber, Melamine, and Bakelite are cross-linked polymers.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 10,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Urea formaldehyde resin is an example of",
-    "question_latex": "Urea formaldehyde resin is an example of",
-    "question_images": [],
-    "options": [
-      "A. Fibres",
-      "B. Elastomer",
-      "C. Thermosetting polymer",
-      "D. Thermoplastic polymer"
-    ],
-    "option_images": [],
-    "answer": "C. Thermosetting polymer",
-    "solution": "Urea formaldehyde resin is a thermosetting polymer as it forms a permanent three-dimensional network upon heating.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 11,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "The monomers used in the condensation polymerization have",
-    "question_latex": "The monomers used in the condensation polymerization have",
-    "question_images": [],
-    "options": [
-      "A. same structure",
-      "B. alcoholic group",
-      "C. bifunctional groups",
-      "D. atleast aone multiple bond"
-    ],
-    "option_images": [],
-    "answer": "C. bifunctional groups",
-    "solution": "Condensation polymerization requires monomers to have at least two functional groups (bifunctional or polyfunctional) to allow the chain to grow.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 12,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Nylon threads are made up",
-    "question_latex": "Nylon threads are made up",
-    "question_images": [],
-    "options": [
-      "A. Polyvinyl polymer",
-      "B. Polyester polymer",
-      "C. Polyamide polymer",
-      "D. Polyethylene polymer"
-    ],
-    "option_images": [],
-    "answer": "C. Polyamide polymer",
-    "solution": "Nylon is a generic name for synthetic fibers composed of polyamides, such as Nylon-6 and Nylon-6,6.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 13,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Identify polyamide polymer from following.",
-    "question_latex": "Identify polyamide polymer from following.",
-    "question_images": [],
-    "options": [
-      "A. Melamine formaldehyde polymer",
-      "B. Nylon 6,6",
-      "C. SBR",
-      "D. Bakelite"
-    ],
-    "option_images": [],
-    "answer": "B. Nylon 6,6",
-    "solution": "Nylons are polyamide polymers having $-CO-NH-$ groups as the inter-unit linkages.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 14,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Ziegler Natta catalyst is",
-    "question_latex": "Ziegler Natta catalyst is",
-    "question_images": [],
-    "options": [
-      "A. $Co(CO)_8$",
-      "B. $(Ph_3P)$",
-      "C. $Al(C_2H_5)_3 + TiCl_4$",
-      "D. Co Th alloy"
-    ],
-    "option_images": [],
-    "answer": "C. $Al(C_2H_5)_3 + TiCl_4$",
-    "solution": "Ziegler-Natta catalyst is a mixture of Triethylaluminium [$Al(C_2H_5)_3$] and Titanium tetrachloride [$TiCl_4$].",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 15,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Polymer given below is $[-HN-CH_2-CONH(CH_2)_5CO]_n$",
-    "question_latex": "Polymer given below is $[-HN-CH_2-CONH(CH_2)_5CO]_n$",
-    "question_images": [],
-    "options": [
-      "A. Nylon-6",
-      "B. Nylon-2, 6",
-      "C. Nylon-6, 6",
-      "D. Nylon-3,6"
-    ],
-    "option_images": [],
-    "answer": "B. Nylon-2, 6",
-    "solution": "The structure shows a repeating unit derived from glycine (2 carbons) and $\\epsilon$-aminocaproic acid (6 carbons), making it Nylon-2,6.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 16,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which among the following polymer is used to make crockeries?",
-    "question_latex": "Which among the following polymer is used to make crockeries?",
-    "question_images": [],
-    "options": [
-      "A. HDPE",
-      "B. Buna-N",
-      "C. Buna-S",
-      "D. Melamine"
-    ],
-    "option_images": [],
-    "answer": "D. Melamine",
-    "solution": "Melamine-formaldehyde resin is a hard, thermosetting plastic used in making unbreakable dinnerware (crockeries).",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 17,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Nylon-6,6 is not a",
-    "question_latex": "Nylon-6,6 is not a",
-    "question_images": [],
-    "options": [
-      "A. Condensation polymer",
-      "B. Polyamide",
-      "C. Both (a) and (b)",
-      "D. None of the above"
-    ],
-    "option_images": [],
-    "answer": "D. None of the above",
-    "solution": "Nylon-6,6 is both a polyamide and a condensation polymer. Therefore, 'None of the above' is correct as it is both.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 18,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Among cellulose, poly(vinyl chloride), nylon and natural rubber, the polymer in which the intermolecular force of attraction is weakest is",
-    "question_latex": "Among cellulose, poly(vinyl chloride), nylon and natural rubber, the polymer in which the intermolecular force of attraction is weakest is",
-    "question_images": [],
-    "options": [
-      "A. Nylon",
-      "B. Poly (vinyl chloride)",
-      "C. Cellulose",
-      "D. Natural rubber"
-    ],
-    "option_images": [],
-    "answer": "D. Natural rubber",
-    "solution": "Natural rubber is an elastomer and possesses the weakest van der Waals forces. Nylon and cellulose have strong H-bonding, and PVC has dipole-dipole interactions.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 19,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which among the following is synthetic polymer?",
-    "question_latex": "Which among the following is synthetic polymer?",
-    "question_images": [],
-    "options": [
-      "A. Neoprene",
-      "B. Linen",
-      "C. Wool",
-      "D. Silk"
-    ],
-    "option_images": [],
-    "answer": "A. Neoprene",
-    "solution": "Neoprene is a synthetic rubber (polychloroprene), whereas Linen, Wool, and Silk are natural polymers.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 20,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which among following compounds is used as monomer in preparation of Teflon?",
-    "question_latex": "Which among following compounds is used as monomer in preparation of Teflon?",
-    "question_images": [],
-    "options": [
-      "A. Tetraiodoethylene",
-      "B. Tetrafluoroethylene",
-      "C. Tetrabromoethylene",
-      "D. Tetrachloroethylene"
-    ],
-    "option_images": [],
-    "answer": "B. Tetrafluoroethylene",
-    "solution": "Teflon (PTFE) is prepared by the polymerization of tetrafluoroethylene ($CF_2=CF_2$).",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 21,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Dacron is an example of",
-    "question_latex": "Dacron is an example of",
-    "question_images": [],
-    "options": [
-      "A. Elastomer",
-      "B. Fibre",
-      "C. Thermoplastic",
-      "D. Thermosetting polymer"
-    ],
-    "option_images": [],
-    "answer": "B. Fibre",
-    "solution": "Dacron (Terylene) is a polyester used primarily as a synthetic fibre.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 22,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which type of polymer is cellulose diacetate fibre?",
-    "question_latex": "Which type of polymer is cellulose diacetate fibre?",
-    "question_images": [],
-    "options": [
-      "A. Synthetic",
-      "B. Natural",
-      "C. Semi-synthetic",
-      "D. None of these"
-    ],
-    "option_images": [],
-    "answer": "C. Semi-synthetic",
-    "solution": "Cellulose diacetate is a semi-synthetic polymer because it is obtained by the chemical modification of a natural polymer (cellulose).",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 23,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which from following polymers contains ester linkages?",
-    "question_latex": "Which from following polymers contains ester linkages?",
-    "question_images": [],
-    "options": [
-      "A. SBR",
-      "B. Teflon",
-      "C. PHBV",
-      "D. Nylon 6"
-    ],
-    "option_images": [],
-    "answer": "C. PHBV",
-    "solution": "PHBV (Polyhydroxybutyrate-co-hydroxyvalerate) is a biodegradable polyester containing ester linkages.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 24,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Identify biodegradable polymer from following.",
-    "question_latex": "Identify biodegradable polymer from following.",
-    "question_images": [],
-    "options": [
-      "A. PHBV",
-      "B. LDP",
-      "C. Teflon",
-      "D. Polyacrylonitrile"
-    ],
-    "option_images": [],
-    "answer": "A. PHBV",
-    "solution": "PHBV is a well-known biodegradable polymer, unlike LDP, Teflon, or PAN.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 25,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following statement is wrong",
-    "question_latex": "Which of the following statement is wrong",
-    "question_images": [],
-    "options": [
-      "A. PVC stands for polyvinyl chloride",
-      "B. PTFE stands for Teflon",
-      "C. Buna-N stand for nautral rubber",
-      "D. PAN stands for polyacrylonitrile"
-    ],
-    "option_images": [],
-    "answer": "C. Buna-N stand for nautral rubber",
-    "solution": "Buna-N is a synthetic rubber (Nitrile rubber), not natural rubber. Natural rubber is cis-1,4-polyisoprene.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 26,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Low density polythene is",
-    "question_latex": "Low density polythene is",
-    "question_images": [],
-    "options": [
-      "A. Branched polymer",
-      "B. Linear polymer",
-      "C. Copolymer",
-      "D. Step growth polymer"
-    ],
-    "option_images": [],
-    "answer": "A. Branched polymer",
-    "solution": "Low density polyethylene (LDP) is a branched polymer because the polymerization process involves chain transfer, leading to the formation of branches. [cite: 20]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 27,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "The monomer of PVC is",
-    "question_latex": "The monomer of PVC is",
-    "question_images": [],
-    "options": [
-      "A. Ethane",
-      "B. Chloroethene",
-      "C. Dichloroethene",
-      "D. Tetra chloroethene"
-    ],
-    "option_images": [],
-    "answer": "B. Chloroethene",
-    "solution": "PVC (poly vinyl chloride) is a polymer of vinyl chloride or chloroethene ($CH_2=CHCl$). [cite: 20, 21]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 28,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which from following polymers is used as wool substitute?",
-    "question_latex": "Which from following polymers is used as wool substitute?",
-    "question_images": [],
-    "options": [
-      "A. Terylene",
-      "B. Neoprene",
-      "C. Polyacrylonitrile",
-      "D. Glyptal"
-    ],
-    "option_images": [],
-    "answer": "C. Polyacrylonitrile",
-    "solution": "Polyacrylonitrile (Orlon or Acrilan) is used as a substitute for wool. [cite: 21, 22]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 29,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Glyptal polymer is obtained from ethylene glycol by reacting with",
-    "question_latex": "Glyptal polymer is obtained from ethylene glycol by reacting with",
-    "question_images": [],
-    "options": [
-      "A. malonic acid",
-      "B. phthalic acid",
-      "C. maleic acid",
-      "D. acetic acid"
-    ],
-    "option_images": [],
-    "answer": "B. phthalic acid",
-    "solution": "Glyptal is a polyester obtained by the condensation polymerization of ethylene glycol and phthalic acid. [cite: 22]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 30,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Identify semisynthetic polymer from following.",
-    "question_latex": "Identify semisynthetic polymer from following.",
-    "question_images": [],
-    "options": [
-      "A. Silk",
-      "B. Neoprene",
-      "C. Terylene",
-      "D. Cellulose nitrate"
-    ],
-    "option_images": [],
-    "answer": "D. Cellulose nitrate",
-    "solution": "Cellulose nitrate is a semi-synthetic polymer because it is obtained by the nitration of natural cellulose. [cite: 22, 23]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 31,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Identify addition polymer from following.",
-    "question_latex": "Identify addition polymer from following.",
-    "question_images": [],
-    "options": [
-      "A. Orlon",
-      "B. Nylon-6, 6",
-      "C. Polyester",
-      "D. Urea formaldehyde polymer"
-    ],
-    "option_images": [],
-    "answer": "A. Orlon",
-    "solution": "Orlon (Polyacrylonitrile) is formed by addition polymerization of acrylonitrile. [cite_start]Nylon-6,6, Polyester, and Urea-formaldehyde are condensation polymers. [cite: 23, 24]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 32,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Identify the natural polymer from following.",
-    "question_latex": "Identify the natural polymer from following.",
-    "question_images": [],
-    "options": [
-      "A. Bakelite",
-      "B. Cuprammonium silk",
-      "C. Linen",
-      "D. Acetate rayon"
-    ],
-    "option_images": [],
-    "answer": "C. Linen",
-    "solution": "Linen is a natural polymer obtained from the flax plant. [cite: 25]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 33,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following compounds is used to prepare orlon?",
-    "question_latex": "Which of the following compounds is used to prepare orlon?",
-    "question_images": [],
-    "options": [
-      "A. $CH_2=C(CH_3)_2$",
-      "B. $CH_2=CH-CN$",
-      "C. $HOOC-(CH_2)_4COOH$",
-      "D. $H_2C=CH-CH=CH_2$"
-    ],
-    "option_images": [],
-    "answer": "B. $CH_2=CH-CN$",
-    "solution": "Orlon (Polyacrylonitrile) is prepared from the monomer acrylonitrile ($CH_2=CH-CN$) via peroxide-initiated polymerization. [cite: 26, 27]\n$nCH_2=CHCN \\xrightarrow{Peroxide} [CH_2-CH(CN)]_n$",
-    "solution_images": [
-      "q33_solution_1"
-    ],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 34,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following polymers is used to obtain adhesives?",
-    "question_latex": "Which of the following polymers is used to obtain adhesives?",
-    "question_images": [],
-    "options": [
-      "A. Buna-N",
-      "B. Neoprene rubber",
-      "C. Melamine",
-      "D. Buna-S"
-    ],
-    "option_images": [],
-    "answer": "A. Buna-N",
-    "solution": "Buna-N is used in the preparation of adhesives and as a pigment binder. [cite: 27, 28]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 35,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following fibre has water repellent property?",
-    "question_latex": "Which of the following fibre has water repellent property?",
-    "question_images": [],
-    "options": [
-      "A. Jute",
-      "B. Silk",
-      "C. Dacron",
-      "D. Acetate rayon"
-    ],
-    "option_images": [],
-    "answer": "C. Dacron",
-    "solution": "Dacron (Terylene) is a polyester fibre known for being crease-resistant and having water-repellent properties. [cite: 29, 30]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 36,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following is not a synthetic polymer?",
-    "question_latex": "Which of the following is not a synthetic polymer?",
-    "question_images": [],
-    "options": [
-      "A. Polyisoprene",
-      "B. Polybutadiene",
-      "C. Polyethylene terephthalate",
-      "D. Polyethylene"
-    ],
-    "option_images": [],
-    "answer": "A. Polyisoprene",
-    "solution": "Polyisoprene (cis-1,4-polyisoprene) is natural rubber, which is a natural polymer. [cite: 30, 31]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 37,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Nylon is generic name for all synthetic fibre forming",
-    "question_latex": "Nylon is generic name for all synthetic fibre forming",
-    "question_images": [],
-    "options": [
-      "A. Polyesters",
-      "B. Polymeric amides",
-      "C. Polystyrene",
-      "D. Polyethylene"
-    ],
-    "option_images": [],
-    "answer": "B. Polymeric amides",
-    "solution": "Nylon is a generic name for all synthetic fibre-forming polyamides, characterized by the $-CONH-$ linkage. [cite: 31, 32]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 38,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Polymerisation in which two or more chemically different monomers take part is called",
-    "question_latex": "Polymerisation in which two or more chemically different monomers take part is called",
-    "question_images": [],
-    "options": [
-      "A. Addition polymerization",
-      "B. Copolymerization",
-      "C. Chain polymerization",
-      "D. Homopolymerizsation"
-    ],
-    "option_images": [],
-    "answer": "B. Copolymerization",
-    "solution": "Copolymerization is the process where two or more different types of monomer units polymerize together to form a polymer chain. [cite: 32, 33]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 39,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which one is chain-growth polymers?",
-    "question_latex": "Which one is chain-growth polymers?",
-    "question_images": [],
-    "options": [
-      "A. Teflon",
-      "B. Nylon-6",
-      "C. Nylon-66",
-      "D. Bakelite"
-    ],
-    "option_images": [],
-    "answer": "A. Teflon",
-    "solution": "Teflon is formed via chain-growth (addition) polymerization of tetrafluoroethylene. [cite_start]Nylon and Bakelite are step-growth polymers. [cite: 33, 34, 36]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 40,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "The polymer which can stretched easily by applying small stress and return to its original shape when stress is removed",
-    "question_latex": "The polymer which can stretched easily by applying small stress and return to its original shape when stress is removed",
-    "question_images": [],
-    "options": [
-      "A. Buna-S",
-      "B. Dacron",
-      "C. Teflon",
-      "D. Bakelite"
-    ],
-    "option_images": [],
-    "answer": "A. Buna-S",
-    "solution": "Polymers that exhibit elasticity and return to their original shape after stretching are called elastomers. [cite_start]Buna-S is an elastomer. [cite: 36, 37]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 41,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following is artificial silk?",
-    "question_latex": "Which of the following is artificial silk?",
-    "question_images": [],
-    "options": [
-      "A. Viscose rayon",
-      "B. Nylon-6",
-      "C. Terylene",
-      "D. Nylon-66"
-    ],
-    "option_images": [],
-    "answer": "A. Viscose rayon",
-    "solution": "Viscose rayon is known as artificial silk because it mimics the texture and appearance of natural silk but is made from cellulose. [cite: 37, 38]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 42,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "When two or more chemically different monomers take part in polymerization, it is called",
-    "question_latex": "When two or more chemically different monomers take part in polymerization, it is called",
-    "question_images": [],
-    "options": [
-      "A. Addition polymerization",
-      "B. Copolymerization",
-      "C. Chain polymerization",
-      "D. Homopolymerisation"
-    ],
-    "option_images": [],
-    "answer": "B. Copolymerization",
-    "solution": "This is the definition of copolymerization, where chemically distinct monomers combine in the same polymer chain. [cite: 38]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 43,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "The polymer containing strong intermolecular forces e.g. hydrogen bonding, is",
-    "question_latex": "The polymer containing strong intermolecular forces e.g. hydrogen bonding, is",
-    "question_images": [],
-    "options": [
-      "A. Teflon",
-      "B. Nylon-66",
-      "C. Polystyrene",
-      "D. Natural rubber"
-    ],
-    "option_images": [],
-    "answer": "B. Nylon-66",
-    "solution": "In Nylon-6,6, the presence of amide groups allows for strong intermolecular hydrogen bonding between adjacent chains, providing high tensile strength. [cite: 38, 39]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 44,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "The S in Buna-S refers to",
-    "question_latex": "The S in Buna-S refers to",
-    "question_images": [],
-    "options": [
-      "A. Sulphur",
-      "B. Styrene",
-      "C. Sodium",
-      "D. Just a trade name"
-    ],
-    "option_images": [],
-    "answer": "B. Styrene",
-    "solution": "Buna-S is a copolymer of 1,3-butadiene and styrene. [cite_start]The 'S' stands for Styrene. [cite: 39, 40]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 45,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Dacron is obtained by the condensation polymerization of",
-    "question_latex": "Dacron is obtained by the condensation polymerization of",
-    "question_images": [],
-    "options": [
-      "A. Dimethyl terephthalate and ethylene glycol",
-      "B. Terephthalic acid and formaldehyde",
-      "C. Phenol and phthalic acid",
-      "D. Phenol and formaldehyde"
-    ],
-    "option_images": [],
-    "answer": "A. Dimethyl terephthalate and ethylene glycol",
-    "solution": "Dacron (Terylene) is a polyester produced from ethylene glycol and terephthalic acid (or dimethyl terephthalate) through condensation polymerization. [cite: 40, 41]\n$nHO-CH_2-CH_2-OH + nH_3COOCC_6H_4COOCH_3 \\rightarrow [OCH_2CH_2O-COC_6H_4CO]_n + 2nCH_3OH$",
-    "solution_images": [
-      "q45_solution_1"
-    ],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 46,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following pair of compounds is used as monomers for bakelite?",
-    "question_latex": "Which of the following pair of compounds is used as monomers for bakelite?",
-    "question_images": [],
-    "options": [
-      "A. $(CH_3)_2C=CH_2$ and $CH_2=CH-CN$",
-      "B. HCHO and $C_6H_5OH$",
-      "C. HCHO and $H_2NCONH_2$",
-      "D. $C_6H_5CH=CH_2$ and $CH_2=CH-CH=CH_2$"
-    ],
-    "option_images": [],
-    "answer": "B. HCHO and $C_6H_5OH$",
-    "solution": "Bakelite is a thermosetting phenol-formaldehyde resin formed from the monomers phenol ($C_6H_5OH$) and formaldehyde (HCHO). [cite: 41, 42]",
-    "solution_images": [
-      "q46_solution_1"
-    ],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 47,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "What type of polymerization $\\epsilon$-Caprolactam undergo to form Nylon-6?",
-    "question_latex": "What type of polymerization $\\epsilon$-Caprolactam undergo to form Nylon-6?",
-    "question_images": [],
-    "options": [
-      "A. Ring opening polymerization",
-      "B. Condensation polymerization",
-      "C. Addition polymerization",
-      "D. Both (A) and (B)"
-    ],
-    "option_images": [],
-    "answer": "A. Ring opening polymerization",
-    "solution": "$\\epsilon$-Caprolactam undergoes ring-opening polymerization upon heating with water at high temperatures to form Nylon-6. [cite: 43, 44]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 48,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Neoprene is a polymer of",
-    "question_latex": "Neoprene is a polymer of",
-    "question_images": [],
-    "options": [
-      "A. Isoprene",
-      "B. Chloroprene",
-      "C. Styrene",
-      "D. Butadiene"
-    ],
-    "option_images": [],
-    "answer": "B. Chloroprene",
-    "solution": "Neoprene is synthetic rubber made by the polymerization of 2-chloro-1,3-butadiene, also known as chloroprene. [cite: 44, 45]",
-    "solution_images": [
-      "q48_solution_1"
-    ],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 49,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "The weakest interparticle forces of attraction are present in",
-    "question_latex": "The weakest interparticle forces of attraction are present in",
-    "question_images": [],
-    "options": [
-      "A. Elastomers",
-      "B. Fibres",
-      "C. Thermoplastics",
-      "D. Thermosetting polymers"
-    ],
-    "option_images": [],
-    "answer": "A. Elastomers",
-    "solution": "Elastomers have the weakest intermolecular forces (like van der Waals forces), which allow them to be stretched significantly. [cite: 48, 49]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 50,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following type of forces are present in vulcanized rubber?",
-    "question_latex": "Which of the following type of forces are present in vulcanized rubber?",
-    "question_images": [],
-    "options": [
-      "A. Weakest intermolecular forces",
-      "B. Hydrogen bonding",
-      "C. Three dimensional network of bonds",
-      "D. Metallic bonding"
-    ],
-    "option_images": [],
-    "answer": "A. Weakest intermolecular forces",
-    "solution": "Vulcanized rubber is highly elastic, meaning it contains the weakest intermolecular forces among polymers, though it has sulfur cross-links to prevent permanent deformation. [cite: 49, 50]",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 51,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Nylon-6,6 is an example of",
-    "question_latex": "Nylon\\text{-}6,6~is~an~example~of",
-    "question_images": [],
-    "options": [
-      "A. Polypropylene",
-      "B. Polyester",
-      "C. Polyamide",
-      "D. Polystyrene"
-    ],
-    "option_images": [],
-    "answer": "C. Polyamide",
-    "solution": "Nylon-6,6 contains repeating amide ($-CONH-$) linkages, hence it is a polyamide.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 52,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "The natural polymer among the following is",
-    "question_latex": "The~natural~polymer~among~the~following~is",
-    "question_images": [],
-    "options": [
-      "A. Pectin",
-      "B. Teflon",
-      "C. Polyethylene",
-      "D. Terylene"
-    ],
-    "option_images": [],
-    "answer": "A. Pectin",
-    "solution": "Pectin is a naturally occurring polysaccharide obtained from plant cell walls.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 53,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following is a natural polymer?",
-    "question_latex": "Which~of~the~following~is~a~natural~polymer?",
-    "question_images": [],
-    "options": [
-      "A. Polyethene",
-      "B. Polysaccharides",
-      "C. Nylon",
-      "D. Terylene"
-    ],
-    "option_images": [],
-    "answer": "B. Polysaccharides",
-    "solution": "Polysaccharides such as starch and cellulose occur naturally.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 54,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "The IUPAC name of adipic acid is",
-    "question_latex": "The~IUPAC~name~of~adipic~acid~is",
-    "question_images": [],
-    "options": [
-      "A. Tetramethylene-2,4-dioic acid",
-      "B. Tetramethylene dicarboxylic acid",
-      "C. Hexane-1,6-dicarboxylic acid",
-      "D. Hexane-2,4-dicarboxylic acid"
-    ],
-    "option_images": [],
-    "answer": "C. Hexane-1,6-dicarboxylic acid",
-    "solution": "Adipic acid has six carbon atoms with carboxyl groups at positions 1 and 6.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 55,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following polymers does not contain –CONH– linkage?",
-    "question_latex": "Which~of~the~following~polymers~does~not~contain~{-}CONH{-}~linkage?",
-    "question_images": ["q55_1"],
-    "options": [
-      "A. PAN",
-      "B. Nylon-6,6",
-      "C. Nylon-2,6",
-      "D. Nylon-6"
-    ],
-    "option_images": [],
-    "answer": "A. PAN",
-    "solution": "Polyacrylonitrile (PAN) contains $-CN$ groups and no amide linkage.",
-    "solution_images": ["q55_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 56,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Identify the monomer used to prepare Teflon",
-    "question_latex": "Identify~the~monomer~used~to~prepare~Teflon",
-    "question_images": ["q56_1"],
-    "options": [
-      "A. $C_2F_2$",
-      "B. $C_2F_4$",
-      "C. $CF_2Cl_2$",
-      "D. $C_2H_3N$"
-    ],
-    "option_images": [],
-    "answer": "B. $C_2F_4$",
-    "solution": "Teflon is prepared by polymerization of tetrafluoroethene ($CF_2{=}CF_2$).",
-    "solution_images": ["q56_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 57,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following is branched polymer?",
-    "question_latex": "Which~of~the~following~is~a~branched~polymer?",
-    "question_images": [],
-    "options": [
-      "A. Low density polymer",
-      "B. Polyester",
-      "C. High density polymer",
-      "D. Nylon"
-    ],
-    "option_images": [],
-    "answer": "A. Low density polymer",
-    "solution": "Low density polyethylene has branched chains.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 58,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Dimethyl terephthalate is ester of",
-    "question_latex": "Dimethyl~terephthalate~is~ester~of",
-    "question_images": [],
-    "options": [
-      "A. Phthalic acid",
-      "B. Terephthalic acid",
-      "C. Oxalic acid",
-      "D. Caproic acid"
-    ],
-    "option_images": [],
-    "answer": "B. Terephthalic acid",
-    "solution": "Dimethyl terephthalate is the dimethyl ester of terephthalic acid.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 59,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following is used to make bullet proof window?",
-    "question_latex": "Which~of~the~following~is~used~to~make~bullet~proof~window?",
-    "question_images": [],
-    "options": [
-      "A. Novex",
-      "B. Lexan",
-      "C. Glyptal",
-      "D. PAN"
-    ],
-    "option_images": [],
-    "answer": "B. Lexan",
-    "solution": "Lexan (polycarbonate) is used for making bullet-proof windows.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 60,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following is not an addition polymer?",
-    "question_latex": "Which~of~the~following~is~not~an~addition~polymer?",
-    "question_images": [],
-    "options": [
-      "A. Neoprene",
-      "B. Polystyrene",
-      "C. Terylene",
-      "D. Polyethylene"
-    ],
-    "option_images": [],
-    "answer": "C. Terylene",
-    "solution": "Terylene is formed by condensation polymerization.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 61,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "In chain growth polymerization initiator is",
-    "question_latex": "In~chain~growth~polymerization~initiator~is",
-    "question_images": [],
-    "options": [
-      "A. Free radicals",
-      "B. Cations",
-      "C. Anions",
-      "D. One of these"
-    ],
-    "option_images": [],
-    "answer": "D. One of these",
-    "solution": "Chain growth polymerization may be initiated by free radicals, cations or anions.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 62,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which among following polymers is used to manufacture water pipes?",
-    "question_latex": "Which~among~the~following~polymers~is~used~to~manufacture~water~pipes?",
-    "question_images": [],
-    "options": [
-      "A. Polyacrylamide",
-      "B. Polycarbonate",
-      "C. Buna-N",
-      "D. PVC"
-    ],
-    "option_images": [],
-    "answer": "D. PVC",
-    "solution": "PVC is commonly used in manufacturing water pipes.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 63,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "What are the monomers used in preparation of SBR?",
-    "question_latex": "What~are~the~monomers~used~in~preparation~of~SBR?",
-    "question_images": [],
-    "options": [
-      "A. Melamine and formaldehyde",
-      "B. Phenol and formaldehyde",
-      "C. Terephthalic acid and formaldehyde",
-      "D. 1,3-Butadiene and styrene"
-    ],
-    "option_images": [],
-    "answer": "D. 1,3-Butadiene and styrene",
-    "solution": "SBR is a copolymer of styrene and butadiene.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 64,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "A homopolymer molecule made up of large number of small units is known as",
-    "question_latex": "A~homopolymer~molecule~made~up~of~large~number~of~small~units~is~known~as",
-    "question_images": [],
-    "options": [
-      "A. Monomolecule",
-      "B. Biomolecule",
-      "C. Polymer",
-      "D. Both (b) and (c)"
-    ],
-    "option_images": [],
-    "answer": "C. Polymer",
-    "solution": "A polymer is formed from a large number of repeating monomer units.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 65,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following is used in manufacture of paints?",
-    "question_latex": "Which~of~the~following~is~used~in~manufacture~of~paints?",
-    "question_images": [],
-    "options": [
-      "A. Glyptal",
-      "B. Dylene",
-      "C. Thiokol",
-      "D. Kevlar"
-    ],
-    "option_images": [],
-    "answer": "A. Glyptal",
-    "solution": "Glyptal resin is used in manufacture of paints and varnishes.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 66,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which among the following polymers is heat resistant and used to obtain oil seals?",
-    "question_latex": "Which~among~the~following~polymers~is~heat~resistant~and~used~to~obtain~oil~seals?",
-    "question_images": [],
-    "options": [
-      "A. Polyacrylamide",
-      "B. Polyacrylonitrile",
-      "C. Teflon",
-      "D. Polycarbonate"
-    ],
-    "option_images": [],
-    "answer": "C. Teflon",
-    "solution": "Teflon is heat resistant and chemically inert, suitable for oil seals.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 67,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Polymerization of chloroprene is catalyzed by",
-    "question_latex": "Polymerization~of~chloroprene~is~catalyzed~by",
-    "question_images": [],
-    "options": [
-      "A. $N_2$ catalyst",
-      "B. Peroxide catalyst",
-      "C. $H_2SO_4$ catalyst",
-      "D. Lindlar catalyst"
-    ],
-    "option_images": [],
-    "answer": "B. Peroxide catalyst",
-    "solution": "Chloroprene polymerizes via free radical (peroxide) mechanism.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 68,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "From following pairs which is WRONG?",
-    "question_latex": "From~the~following~pairs~which~is~WRONG?",
-    "question_images": [],
-    "options": [
-      "A. Vegetable fibres – cellulose fibres",
-      "B. Animal fibre – protein fibres",
-      "C. Regenerated fibres – semi synthetic fibre",
-      "D. Natural fibre – synthetic fibre"
-    ],
-    "option_images": [],
-    "answer": "D. Natural fibre – synthetic fibre",
-    "solution": "Natural fibres are not synthetic fibres.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 69,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which from following polymers contains –CO–NH– linkage?",
-    "question_latex": "Which~of~the~following~polymers~contains~{-}CO{-}NH{-}~linkage?",
-    "question_images": ["q69_1"],
-    "options": [
-      "A. Glyptal",
-      "B. Thermocol",
-      "C. Buna-N",
-      "D. Urea-formaldehyde resin"
-    ],
-    "option_images": [],
-    "answer": "D. Urea-formaldehyde resin",
-    "solution": "Urea-formaldehyde resin contains amide ($-CONH-$) linkages.",
-    "solution_images": ["q69_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 70,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "The monomer of Teflon is",
-    "question_latex": "The~monomer~of~Teflon~is",
-    "question_images": [],
-    "options": [
-      "A. Monofluoroethene",
-      "B. Difluoroethene",
-      "C. Trifluoroethene",
-      "D. Tetrafluoroethene"
-    ],
-    "option_images": [],
-    "answer": "D. Tetrafluoroethene",
-    "solution": "Teflon is polymer of tetrafluoroethene ($CF_2{=}CF_2$).",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 71,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Cupra-ammonium silk is",
-    "question_latex": "Cupra\\text{-}ammonium~silk~is",
-    "question_images": [],
-    "options": [
-      "A. Natural fibre",
-      "B. Semi synthetic fibre",
-      "C. Protein fibre",
-      "D. True synthetic fibre"
-    ],
-    "option_images": [],
-    "answer": "B. Semi synthetic fibre",
-    "solution": "Cupra-ammonium silk is regenerated cellulose fibre.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 72,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Teflon, neoprene, nylon-6 are all",
-    "question_latex": "Teflon,~neoprene~and~nylon\\text{-}6~are~all",
-    "question_images": [],
-    "options": [
-      "A. Copolymers",
-      "B. Condensation polymers",
-      "C. Homopolymers",
-      "D. Monomers"
-    ],
-    "option_images": [],
-    "answer": "C. Homopolymers",
-    "solution": "Each is formed from a single type of monomer.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 73,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which pair of monomers from following is used to obtain Buna-S?",
-    "question_latex": "Which~pair~of~monomers~from~the~following~is~used~to~obtain~Buna\\text{-}S?",
-    "question_images": [],
-    "options": [
-      "A. Chloroprene and styrene",
-      "B. Styrene and butadiene",
-      "C. Acrylonitrile and butadiene",
-      "D. Styrene and ethene"
-    ],
-    "option_images": [],
-    "answer": "B. Styrene and butadiene",
-    "solution": "Buna-S is styrene–butadiene rubber.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 74,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Identify the use of Teflon from following",
-    "question_latex": "Identify~the~use~of~Teflon~from~the~following",
-    "question_images": [],
-    "options": [
-      "A. To obtain oil seals",
-      "B. To manufacture packaging containers",
-      "C. As a substitute of wool",
-      "D. To obtain synthetic rubber"
-    ],
-    "option_images": [],
-    "answer": "A. To obtain oil seals",
-    "solution": "Teflon is chemically inert and heat resistant, suitable for oil seals.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-
-  {
-    "id": 75,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which from following polymers is obtained from its monomers using Ziegler–Natta catalyst?",
-    "question_latex": "Which~of~the~following~polymers~is~obtained~from~its~monomers~using~Ziegler\\text{-}Natta~catalyst?",
-    "question_images": [],
-    "options": [
-      "A. HDP",
-      "B. Teflon",
-      "C. Glyptal",
-      "D. LDP"
-    ],
-    "option_images": [],
-    "answer": "A. HDP",
-    "solution": "High density polyethylene is prepared using Ziegler–Natta catalyst.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 76,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following structure represents terylene?",
-    "question_latex": "Which~of~the~following~structures~represents~terylene?",
-    "question_images": ["q76_1"],
-    "options": [
-      "A. Structure A",
-      "B. Structure B",
-      "C. Structure C",
-      "D. Structure D"
-    ],
-    "option_images": ["q76optionA1", "q76optionB1", "q76optionC1", "q76optionD1"],
-    "answer": "D. Structure D",
-    "solution": "Terylene is a polyester formed from ethylene glycol and terephthalic acid.",
-    "solution_images": ["q76_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 77,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following is not thermoplastic polymer?",
-    "question_latex": "Which~of~the~following~is~not~a~thermoplastic~polymer?",
-    "question_images": [],
-    "options": [
-      "A. Polyethene",
-      "B. Neoprene",
-      "C. Polyvinyl chloride",
-      "D. Polytetrafluoroethene"
-    ],
-    "option_images": [],
-    "answer": "B. Neoprene",
-    "solution": "Neoprene is a thermosetting elastomer, not a thermoplastic polymer.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 78,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Bakelite is obtained from phenol by reacting with",
-    "question_latex": "Bakelite~is~obtained~from~phenol~by~reacting~with~formaldehyde~in~acidic~or~alkaline~medium",
-    "question_images": ["q78_1"],
-    "options": [
-      "A. $(CH_3)_2CO$",
-      "B. $CH_3CHO$",
-      "C. $CH_3COCH_3$",
-      "D. $HCHO$"
-    ],
-    "option_images": [],
-    "answer": "D. $HCHO$",
-    "solution": "Phenol reacts with formaldehyde to form Bakelite via condensation polymerization.",
-    "solution_images": ["q78_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 79,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which is not an example of copolymer?",
-    "question_latex": "Which~is~not~an~example~of~copolymer?",
-    "question_images": [],
-    "options": [
-      "A. SAN",
-      "B. ABS",
-      "C. Saran",
-      "D. PVC"
-    ],
-    "option_images": [],
-    "answer": "D. PVC",
-    "solution": "PVC is a homopolymer of vinyl chloride.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 80,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Orlon is a hard, horny and high melting material. Which of the following represents its structure?",
-    "question_latex": "Orlon~is~a~hard,~horny~and~high~melting~material.~Which~structure~represents~it?",
-    "question_images": ["q80_1"],
-    "options": [
-      "A. Structure A",
-      "B. Structure B",
-      "C. Structure C",
-      "D. Structure D"
-    ],
-    "option_images": ["q80optionA1", "q80optionB1", "q80optionC1", "q80optionD1"],
-    "answer": "C. Structure C",
-    "solution": "Orlon is polyacrylonitrile, formed from acrylonitrile monomers.",
-    "solution_images": ["q80_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 81,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following is co-polymer?",
-    "question_latex": "Which~of~the~following~is~a~copolymer?",
-    "question_images": [],
-    "options": [
-      "A. Orlon",
-      "B. Teflon",
-      "C. PHBV",
-      "D. Polyisoprene"
-    ],
-    "option_images": [],
-    "answer": "C. PHBV",
-    "solution": "PHBV is a copolymer of hydroxybutyrate and hydroxyvalerate.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 82,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "The catalyst used to prepare monomer of terylene is",
-    "question_latex": "The~catalyst~used~to~prepare~monomer~of~terylene~is",
-    "question_images": [],
-    "options": [
-      "A. Copper acetate and zinc chloride",
-      "B. Zinc acetate and antimony trioxide",
-      "C. Sodium sulphate and lead oxide",
-      "D. Copper chloride and zinc chloride"
-    ],
-    "option_images": [],
-    "answer": "B. Zinc acetate and antimony trioxide",
-    "solution": "Zinc acetate and antimony trioxide are used as catalysts in polyester synthesis.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 83,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following sets contain only non-biodegradable polymers?",
-    "question_latex": "Which~of~the~following~sets~contain~only~non\\text{-}biodegradable~polymers?",
-    "question_images": [],
-    "options": [
-      "A. Plastic, PVC, Nylon",
-      "B. Plastic, PVC, PHBV",
-      "C. PHBV, PVC, Dextrin",
-      "D. PHBV, PVC, Dacron"
-    ],
-    "option_images": [],
-    "answer": "A. Plastic, PVC, Nylon",
-    "solution": "Plastic, PVC and Nylon are non-biodegradable polymers.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 84,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following is a natural polymer?",
-    "question_latex": "Which~of~the~following~is~a~natural~polymer?",
-    "question_images": [],
-    "options": [
-      "A. Orlon",
-      "B. Teflon",
-      "C. Nylon",
-      "D. Linen"
-    ],
-    "option_images": [],
-    "answer": "D. Linen",
-    "solution": "Linen is obtained from flax plant and is a natural polymer.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 85,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Identify a monomer used in preparation of neoprene",
-    "question_latex": "Identify~the~monomer~used~in~preparation~of~neoprene",
-    "question_images": ["q85_1"],
-    "options": [
-      "A. Melamine",
-      "B. 2-methyl-1,3-butadiene",
-      "C. 2-chloro-1,3-butadiene",
-      "D. 1,3-butadiene"
-    ],
-    "option_images": [],
-    "answer": "C. 2-chloro-1,3-butadiene",
-    "solution": "Neoprene is polymer of chloroprene (2-chloro-1,3-butadiene).",
-    "solution_images": ["q85_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 86,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Buna-S is obtained from",
-    "question_latex": "Buna\\text{-}S~is~obtained~from",
-    "question_images": [],
-    "options": [
-      "A. Glycine and $\u03b1$-amino caproic acid",
-      "B. Adipic acid and hexamethylene diamine",
-      "C. Styrene and butadiene",
-      "D. Glycine and $\u03b1$-amino acid"
-    ],
-    "option_images": [],
-    "answer": "C. Styrene and butadiene",
-    "solution": "Buna-S is a copolymer of styrene and butadiene.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 87,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Dimethyl terephthalate and ethylene glycol react to form",
-    "question_latex": "Dimethyl~terephthalate~and~ethylene~glycol~react~to~form",
-    "question_images": [],
-    "options": [
-      "A. Nylon-66",
-      "B. Nylon-6",
-      "C. Buna-S",
-      "D. Dacron"
-    ],
-    "option_images": [],
-    "answer": "D. Dacron",
-    "solution": "Dacron (terylene) is a polyester formed from these monomers.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 88,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following is styrene?",
-    "question_latex": "Which~of~the~following~is~styrene?",
-    "question_images": ["q88_1"],
-    "options": [
-      "A. Structure A",
-      "B. Structure B",
-      "C. Structure C",
-      "D. Structure D"
-    ],
-    "option_images": ["q88optionA1", "q88optionB1", "q88optionC1", "q88optionD1"],
-    "answer": "C. Structure C",
-    "solution": "Styrene is vinyl benzene.",
-    "solution_images": ["q88_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 89,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Thiokol is used as",
-    "question_latex": "Thiokol~is~used~as",
-    "question_images": [],
-    "options": [
-      "A. Rubber",
-      "B. For making human hair wigs",
-      "C. Helmets",
-      "D. Bullet proof windows"
-    ],
-    "option_images": [],
-    "answer": "A. Rubber",
-    "solution": "Thiokol is a polysulfide rubber.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 90,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which among the following catalysts is used in the preparation of dacron?",
-    "question_latex": "Which~among~the~following~catalysts~is~used~in~the~preparation~of~dacron?",
-    "question_images": [],
-    "options": [
-      "A. Oxygen",
-      "B. Zinc acetate and antimony trioxide",
-      "C. Peroxide",
-      "D. Titanium chloride and triethyl aluminium"
-    ],
-    "option_images": [],
-    "answer": "B. Zinc acetate and antimony trioxide",
-    "solution": "These catalysts are used in polyester (dacron) manufacture.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 91,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following polymer has ester linkage?",
-    "question_latex": "Which~of~the~following~polymer~has~ester~linkage?",
-    "question_images": [],
-    "options": [
-      "A. Nylon-66",
-      "B. PVC",
-      "C. Terylene",
-      "D. SBR"
-    ],
-    "option_images": [],
-    "answer": "C. Terylene",
-    "solution": "Terylene is a polyester containing ester linkages.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 92,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Identify the monomer used to obtain thermocol",
-    "question_latex": "Identify~the~monomer~used~to~obtain~thermocol",
-    "question_images": ["q92_1"],
-    "options": [
-      "A. Acrylonitrile",
-      "B. Styrene",
-      "C. Vinyl chloride",
-      "D. Ethene"
-    ],
-    "option_images": [],
-    "answer": "B. Styrene",
-    "solution": "Thermocol is expanded polystyrene.",
-    "solution_images": ["q92_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 93,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Rayon is",
-    "question_latex": "Rayon~is",
-    "question_images": [],
-    "options": [
-      "A. Natural silk",
-      "B. Artificial silk",
-      "C. Regenerated fibre",
-      "D. Synthetic fibre"
-    ],
-    "option_images": [],
-    "answer": "C. Regenerated fibre",
-    "solution": "Rayon is regenerated cellulose fibre.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 94,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Nylon-6,6 is a",
-    "question_latex": "Nylon\\text{-}6,6~is~a",
-    "question_images": [],
-    "options": [
-      "A. Polyester",
-      "B. Polyamide",
-      "C. Polyacrylate",
-      "D. None of these"
-    ],
-    "option_images": [],
-    "answer": "B. Polyamide",
-    "solution": "Nylon-6,6 contains amide linkages.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 95,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following fibre is used for stitching during surgical operation?",
-    "question_latex": "Which~of~the~following~fibre~is~used~for~stitching~during~surgical~operation?",
-    "question_images": [],
-    "options": [
-      "A. Nylon-66",
-      "B. Cotton",
-      "C. Nylon-6",
-      "D. Acetate rayon"
-    ],
-    "option_images": [],
-    "answer": "C. Nylon-6",
-    "solution": "Nylon-6 is used as surgical suture material.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 96,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Identify the monomer used for synthesis of nylon-6",
-    "question_latex": "Identify~the~monomer~used~for~synthesis~of~nylon\\text{-}6",
-    "question_images": ["q96_1"],
-    "options": [
-      "A. 1,3-Butadiene",
-      "B. $\u03b5$-Caprolactam",
-      "C. Phenol and formaldehyde",
-      "D. Styrene"
-    ],
-    "option_images": [],
-    "answer": "B. $\u03b5$-Caprolactam",
-    "solution": "$\\varepsilon$-Caprolactam undergoes ring opening polymerization to form nylon-6.",
-    "solution_images": ["q96_solution_1"],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 97,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which of the following is not the property of natural rubber?",
-    "question_latex": "Which~of~the~following~is~not~a~property~of~natural~rubber?",
-    "question_images": [],
-    "options": [
-      "A. Low tensile strength",
-      "B. High water absorption capacity",
-      "C. Soft and sticky",
-      "D. High elasticity"
-    ],
-    "option_images": [],
-    "answer": "B. High water absorption capacity",
-    "solution": "Natural rubber does not absorb water significantly.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 98,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Identify thermosetting polymer from following",
-    "question_latex": "Identify~thermosetting~polymer~from~the~following",
-    "question_images": [],
-    "options": [
-      "A. Polythene",
-      "B. Polyvinyl chloride",
-      "C. Urea formaldehyde resin",
-      "D. Polystyrene"
-    ],
-    "option_images": [],
-    "answer": "C. Urea formaldehyde resin",
-    "solution": "Urea formaldehyde resin is a thermosetting polymer.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 99,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which from following is NOT a property of thermosetting polymers?",
-    "question_latex": "Which~of~the~following~is~NOT~a~property~of~thermosetting~polymers?",
-    "question_images": [],
-    "options": [
-      "A. These are being shaped on heating",
-      "B. These are capable of repeated softening and hardening",
-      "C. These have extensive cross linking",
-      "D. These are rigid"
-    ],
-    "option_images": [],
-    "answer": "B. These are capable of repeated softening and hardening",
-    "solution": "Thermosetting polymers cannot be softened again after curing.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  },
-  {
-    "id": 100,
-    "chapter": "Introduction of Polymer Chemistry",
-    "question": "Which among the following polymers is used for making handles of cooker?",
-    "question_latex": "Which~among~the~following~polymers~is~used~for~making~handles~of~cooker?",
-    "question_images": [],
-    "options": [
-      "A. Bakelite",
-      "B. Acrylic",
-      "C. Melamine",
-      "D. Novolac"
-    ],
-    "option_images": [],
-    "answer": "A. Bakelite",
-    "solution": "Bakelite is heat resistant and used for electrical fittings and cooker handles.",
-    "solution_images": [],
-    "difficulty": "",
-    "marks": 4
-  }
+    {
+        "id": 1,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "polymers are resistant to environmental degradation process and do not degrade on theie own but accumulate as solid waste materials.",
+        "question_latex": "polymers are resistant to environmental degradation process and do not degrade on theie own but accumulate as solid waste materials.",
+        "question_images": [],
+        "options": [
+            "A. Natural",
+            "B. Semi synthetic",
+            "C. Synthetic",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "C. Synthetic",
+        "solution": "Synthetic polymers are resistant to environmental degradation process and do not degrade on their own but accumulate as solid waste materials. Thus they are called non biodegradable polymers.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which from following polymers is obtained from $C_2F_4$?",
+        "question_latex": "Which from following polymers is obtained from $C_2F_4$?",
+        "question_images": [],
+        "options": [
+            "A. Polyisobutylene",
+            "B. PVC",
+            "C. Polyacrylonitrile",
+            "D. Teflon"
+        ],
+        "option_images": [],
+        "answer": "D. Teflon",
+        "solution": "$nCF_2=CF_2 \\xrightarrow[Peroxide]{Polymerization} [CF_2-CF_2]_n$\nTetrafluoroethene $\\rightarrow$ Teflon",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which from following polymers is used to obtain surgical sutures?",
+        "question_latex": "Which from following polymers is used to obtain surgical sutures?",
+        "question_images": [],
+        "options": [
+            "A. Nylon 6",
+            "B. Nylon 6,6",
+            "C. Terylene",
+            "D. Neoprene"
+        ],
+        "option_images": [],
+        "answer": "B. Nylon 6,6",
+        "solution": "Nylon 6,6 is used for making surgical sutures due to its strength and biocompatibility properties.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which polymer is obtained from adipic acid and hexamethylene diamine?",
+        "question_latex": "Which polymer is obtained from adipic acid and hexamethylene diamine?",
+        "question_images": [],
+        "options": [
+            "A. Teflon",
+            "B. Nylon-6",
+            "C. Dacron",
+            "D. Nylon-6,6"
+        ],
+        "option_images": [],
+        "answer": "D. Nylon-6,6",
+        "solution": "Adipic acid reacts with hexamethylene diamine under high pressure and temperature to form Nylon 6,6.\n$nHOOC-(CH_2)_4-COOH + nH_2N-(CH_2)_6-NH_2 \\xrightarrow{-\\text{H}_2\\text{O}, \\Delta} [-CO-(CH_2)_4-CO-NH-(CH_2)_6-NH-]_n$",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following polymers is obtained from $\\epsilon$-caprolactam?",
+        "question_latex": "Which of the following polymers is obtained from $\\epsilon$-caprolactam?",
+        "question_images": [],
+        "options": [
+            "A. Terylene",
+            "B. Polyacrylonitrile",
+            "C. Nylon-6",
+            "D. Neoprene"
+        ],
+        "option_images": [],
+        "answer": "C. Nylon-6",
+        "solution": "$\\epsilon$-caprolactam undergoes ring-opening polymerization at 533-543 K to produce Nylon-6.\n$[\\text{Image of ring opening reaction}]$ \n$[NH-(CH_2)_5-CO]_n$",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Polyethylene is a resin obtained by polymerization of",
+        "question_latex": "Polyethylene is a resin obtained by polymerization of",
+        "question_images": [],
+        "options": [
+            "A. Styrene",
+            "B. Isoprene",
+            "C. Ethylene",
+            "D. Butadiene"
+        ],
+        "option_images": [],
+        "answer": "C. Ethylene",
+        "solution": "Polyethylene is obtained by the polymerization of ethylene monomers ($CH_2=CH_2$).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Identify polyamide polymer from following.",
+        "question_latex": "Identify polyamide polymer from following.",
+        "question_images": [],
+        "options": [
+            "A. Polyacrylonitrile",
+            "B. Dacron",
+            "C. Nylon-6",
+            "D. Bakelite"
+        ],
+        "option_images": [],
+        "answer": "C. Nylon-6",
+        "solution": "Nylon-6 is a polyamide polymer containing the $-C(=O)-NH-$ (amide) group in its backbone.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Identify the monomers needed for synthesis of nylon-6,6.",
+        "question_latex": "Identify the monomers needed for synthesis of nylon-6,6.",
+        "question_images": [],
+        "options": [
+            "A. Acrylonitrile and $\\epsilon$-caprolactam",
+            "B. Adipic acid and hexamethylenediamine",
+            "C. Ethylene glycol and $\\epsilon$-caprolactam",
+            "D. Ethylene glycol and adipic acid"
+        ],
+        "option_images": [],
+        "answer": "B. Adipic acid and hexamethylenediamine",
+        "solution": "Nylon-6,6 is synthesized from adipic acid [$HOOC-(CH_2)_4-COOH$] and hexamethylenediamine [$H_2N-(CH_2)_6-NH_2$].",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following polymers does not involve cross-linkages?",
+        "question_latex": "Which of the following polymers does not involve cross-linkages?",
+        "question_images": [],
+        "options": [
+            "A. Vulcanized rubber",
+            "B. Melamine",
+            "C. Bakelite",
+            "D. Polystyrene"
+        ],
+        "option_images": [],
+        "answer": "D. Polystyrene",
+        "solution": "Polystyrene is a thermoplastic and contains only linear chains, whereas Vulcanized rubber, Melamine, and Bakelite are cross-linked polymers.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Urea formaldehyde resin is an example of",
+        "question_latex": "Urea formaldehyde resin is an example of",
+        "question_images": [],
+        "options": [
+            "A. Fibres",
+            "B. Elastomer",
+            "C. Thermosetting polymer",
+            "D. Thermoplastic polymer"
+        ],
+        "option_images": [],
+        "answer": "C. Thermosetting polymer",
+        "solution": "Urea formaldehyde resin is a thermosetting polymer as it forms a permanent three-dimensional network upon heating.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "The monomers used in the condensation polymerization have",
+        "question_latex": "The monomers used in the condensation polymerization have",
+        "question_images": [],
+        "options": [
+            "A. same structure",
+            "B. alcoholic group",
+            "C. bifunctional groups",
+            "D. atleast aone multiple bond"
+        ],
+        "option_images": [],
+        "answer": "C. bifunctional groups",
+        "solution": "Condensation polymerization requires monomers to have at least two functional groups (bifunctional or polyfunctional) to allow the chain to grow.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Nylon threads are made up",
+        "question_latex": "Nylon threads are made up",
+        "question_images": [],
+        "options": [
+            "A. Polyvinyl polymer",
+            "B. Polyester polymer",
+            "C. Polyamide polymer",
+            "D. Polyethylene polymer"
+        ],
+        "option_images": [],
+        "answer": "C. Polyamide polymer",
+        "solution": "Nylon is a generic name for synthetic fibers composed of polyamides, such as Nylon-6 and Nylon-6,6.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Identify polyamide polymer from following.",
+        "question_latex": "Identify polyamide polymer from following.",
+        "question_images": [],
+        "options": [
+            "A. Melamine formaldehyde polymer",
+            "B. Nylon 6,6",
+            "C. SBR",
+            "D. Bakelite"
+        ],
+        "option_images": [],
+        "answer": "B. Nylon 6,6",
+        "solution": "Nylons are polyamide polymers having $-CO-NH-$ groups as the inter-unit linkages.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Ziegler Natta catalyst is",
+        "question_latex": "Ziegler Natta catalyst is",
+        "question_images": [],
+        "options": [
+            "A. $Co(CO)_8$",
+            "B. $(Ph_3P)$",
+            "C. $Al(C_2H_5)_3 + TiCl_4$",
+            "D. Co Th alloy"
+        ],
+        "option_images": [],
+        "answer": "C. $Al(C_2H_5)_3 + TiCl_4$",
+        "solution": "Ziegler-Natta catalyst is a mixture of Triethylaluminium [$Al(C_2H_5)_3$] and Titanium tetrachloride [$TiCl_4$].",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Polymer given below is $[-HN-CH_2-CONH(CH_2)_5CO]_n$",
+        "question_latex": "Polymer given below is $[-HN-CH_2-CONH(CH_2)_5CO]_n$",
+        "question_images": [],
+        "options": [
+            "A. Nylon-6",
+            "B. Nylon-2, 6",
+            "C. Nylon-6, 6",
+            "D. Nylon-3,6"
+        ],
+        "option_images": [],
+        "answer": "B. Nylon-2, 6",
+        "solution": "The structure shows a repeating unit derived from glycine (2 carbons) and $\\epsilon$-aminocaproic acid (6 carbons), making it Nylon-2,6.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which among the following polymer is used to make crockeries?",
+        "question_latex": "Which among the following polymer is used to make crockeries?",
+        "question_images": [],
+        "options": [
+            "A. HDPE",
+            "B. Buna-N",
+            "C. Buna-S",
+            "D. Melamine"
+        ],
+        "option_images": [],
+        "answer": "D. Melamine",
+        "solution": "Melamine-formaldehyde resin is a hard, thermosetting plastic used in making unbreakable dinnerware (crockeries).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Nylon-6,6 is not a",
+        "question_latex": "Nylon-6,6 is not a",
+        "question_images": [],
+        "options": [
+            "A. Condensation polymer",
+            "B. Polyamide",
+            "C. Both (a) and (b)",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "D. None of the above",
+        "solution": "Nylon-6,6 is both a polyamide and a condensation polymer. Therefore, 'None of the above' is correct as it is both.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Among cellulose, poly(vinyl chloride), nylon and natural rubber, the polymer in which the intermolecular force of attraction is weakest is",
+        "question_latex": "Among cellulose, poly(vinyl chloride), nylon and natural rubber, the polymer in which the intermolecular force of attraction is weakest is",
+        "question_images": [],
+        "options": [
+            "A. Nylon",
+            "B. Poly (vinyl chloride)",
+            "C. Cellulose",
+            "D. Natural rubber"
+        ],
+        "option_images": [],
+        "answer": "D. Natural rubber",
+        "solution": "Natural rubber is an elastomer and possesses the weakest van der Waals forces. Nylon and cellulose have strong H-bonding, and PVC has dipole-dipole interactions.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which among the following is synthetic polymer?",
+        "question_latex": "Which among the following is synthetic polymer?",
+        "question_images": [],
+        "options": [
+            "A. Neoprene",
+            "B. Linen",
+            "C. Wool",
+            "D. Silk"
+        ],
+        "option_images": [],
+        "answer": "A. Neoprene",
+        "solution": "Neoprene is a synthetic rubber (polychloroprene), whereas Linen, Wool, and Silk are natural polymers.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which among following compounds is used as monomer in preparation of Teflon?",
+        "question_latex": "Which among following compounds is used as monomer in preparation of Teflon?",
+        "question_images": [],
+        "options": [
+            "A. Tetraiodoethylene",
+            "B. Tetrafluoroethylene",
+            "C. Tetrabromoethylene",
+            "D. Tetrachloroethylene"
+        ],
+        "option_images": [],
+        "answer": "B. Tetrafluoroethylene",
+        "solution": "Teflon (PTFE) is prepared by the polymerization of tetrafluoroethylene ($CF_2=CF_2$).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Dacron is an example of",
+        "question_latex": "Dacron is an example of",
+        "question_images": [],
+        "options": [
+            "A. Elastomer",
+            "B. Fibre",
+            "C. Thermoplastic",
+            "D. Thermosetting polymer"
+        ],
+        "option_images": [],
+        "answer": "B. Fibre",
+        "solution": "Dacron (Terylene) is a polyester used primarily as a synthetic fibre.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which type of polymer is cellulose diacetate fibre?",
+        "question_latex": "Which type of polymer is cellulose diacetate fibre?",
+        "question_images": [],
+        "options": [
+            "A. Synthetic",
+            "B. Natural",
+            "C. Semi-synthetic",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C. Semi-synthetic",
+        "solution": "Cellulose diacetate is a semi-synthetic polymer because it is obtained by the chemical modification of a natural polymer (cellulose).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which from following polymers contains ester linkages?",
+        "question_latex": "Which from following polymers contains ester linkages?",
+        "question_images": [],
+        "options": [
+            "A. SBR",
+            "B. Teflon",
+            "C. PHBV",
+            "D. Nylon 6"
+        ],
+        "option_images": [],
+        "answer": "C. PHBV",
+        "solution": "PHBV (Polyhydroxybutyrate-co-hydroxyvalerate) is a biodegradable polyester containing ester linkages.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Identify biodegradable polymer from following.",
+        "question_latex": "Identify biodegradable polymer from following.",
+        "question_images": [],
+        "options": [
+            "A. PHBV",
+            "B. LDP",
+            "C. Teflon",
+            "D. Polyacrylonitrile"
+        ],
+        "option_images": [],
+        "answer": "A. PHBV",
+        "solution": "PHBV is a well-known biodegradable polymer, unlike LDP, Teflon, or PAN.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following statement is wrong",
+        "question_latex": "Which of the following statement is wrong",
+        "question_images": [],
+        "options": [
+            "A. PVC stands for polyvinyl chloride",
+            "B. PTFE stands for Teflon",
+            "C. Buna-N stand for nautral rubber",
+            "D. PAN stands for polyacrylonitrile"
+        ],
+        "option_images": [],
+        "answer": "C. Buna-N stand for nautral rubber",
+        "solution": "Buna-N is a synthetic rubber (Nitrile rubber), not natural rubber. Natural rubber is cis-1,4-polyisoprene.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Low density polythene is",
+        "question_latex": "Low density polythene is",
+        "question_images": [],
+        "options": [
+            "A. Branched polymer",
+            "B. Linear polymer",
+            "C. Copolymer",
+            "D. Step growth polymer"
+        ],
+        "option_images": [],
+        "answer": "A. Branched polymer",
+        "solution": "Low density polyethylene (LDP) is a branched polymer because the polymerization process involves chain transfer, leading to the formation of branches. [cite: 20]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "The monomer of PVC is",
+        "question_latex": "The monomer of PVC is",
+        "question_images": [],
+        "options": [
+            "A. Ethane",
+            "B. Chloroethene",
+            "C. Dichloroethene",
+            "D. Tetra chloroethene"
+        ],
+        "option_images": [],
+        "answer": "B. Chloroethene",
+        "solution": "PVC (poly vinyl chloride) is a polymer of vinyl chloride or chloroethene ($CH_2=CHCl$). [cite: 20, 21]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which from following polymers is used as wool substitute?",
+        "question_latex": "Which from following polymers is used as wool substitute?",
+        "question_images": [],
+        "options": [
+            "A. Terylene",
+            "B. Neoprene",
+            "C. Polyacrylonitrile",
+            "D. Glyptal"
+        ],
+        "option_images": [],
+        "answer": "C. Polyacrylonitrile",
+        "solution": "Polyacrylonitrile (Orlon or Acrilan) is used as a substitute for wool. [cite: 21, 22]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Glyptal polymer is obtained from ethylene glycol by reacting with",
+        "question_latex": "Glyptal polymer is obtained from ethylene glycol by reacting with",
+        "question_images": [],
+        "options": [
+            "A. malonic acid",
+            "B. phthalic acid",
+            "C. maleic acid",
+            "D. acetic acid"
+        ],
+        "option_images": [],
+        "answer": "B. phthalic acid",
+        "solution": "Glyptal is a polyester obtained by the condensation polymerization of ethylene glycol and phthalic acid. [cite: 22]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Identify semisynthetic polymer from following.",
+        "question_latex": "Identify semisynthetic polymer from following.",
+        "question_images": [],
+        "options": [
+            "A. Silk",
+            "B. Neoprene",
+            "C. Terylene",
+            "D. Cellulose nitrate"
+        ],
+        "option_images": [],
+        "answer": "D. Cellulose nitrate",
+        "solution": "Cellulose nitrate is a semi-synthetic polymer because it is obtained by the nitration of natural cellulose. [cite: 22, 23]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Identify addition polymer from following.",
+        "question_latex": "Identify addition polymer from following.",
+        "question_images": [],
+        "options": [
+            "A. Orlon",
+            "B. Nylon-6, 6",
+            "C. Polyester",
+            "D. Urea formaldehyde polymer"
+        ],
+        "option_images": [],
+        "answer": "A. Orlon",
+        "solution": "Orlon (Polyacrylonitrile) is formed by addition polymerization of acrylonitrile. [cite_start]Nylon-6,6, Polyester, and Urea-formaldehyde are condensation polymers. [cite: 23, 24]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Identify the natural polymer from following.",
+        "question_latex": "Identify the natural polymer from following.",
+        "question_images": [],
+        "options": [
+            "A. Bakelite",
+            "B. Cuprammonium silk",
+            "C. Linen",
+            "D. Acetate rayon"
+        ],
+        "option_images": [],
+        "answer": "C. Linen",
+        "solution": "Linen is a natural polymer obtained from the flax plant. [cite: 25]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following compounds is used to prepare orlon?",
+        "question_latex": "Which of the following compounds is used to prepare orlon?",
+        "question_images": [],
+        "options": [
+            "A. $CH_2=C(CH_3)_2$",
+            "B. $CH_2=CH-CN$",
+            "C. $HOOC-(CH_2)_4COOH$",
+            "D. $H_2C=CH-CH=CH_2$"
+        ],
+        "option_images": [],
+        "answer": "B. $CH_2=CH-CN$",
+        "solution": "Orlon (Polyacrylonitrile) is prepared from the monomer acrylonitrile ($CH_2=CH-CN$) via peroxide-initiated polymerization. [cite: 26, 27]\n$nCH_2=CHCN \\xrightarrow{Peroxide} [CH_2-CH(CN)]_n$",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following polymers is used to obtain adhesives?",
+        "question_latex": "Which of the following polymers is used to obtain adhesives?",
+        "question_images": [],
+        "options": [
+            "A. Buna-N",
+            "B. Neoprene rubber",
+            "C. Melamine",
+            "D. Buna-S"
+        ],
+        "option_images": [],
+        "answer": "A. Buna-N",
+        "solution": "Buna-N is used in the preparation of adhesives and as a pigment binder. [cite: 27, 28]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following fibre has water repellent property?",
+        "question_latex": "Which of the following fibre has water repellent property?",
+        "question_images": [],
+        "options": [
+            "A. Jute",
+            "B. Silk",
+            "C. Dacron",
+            "D. Acetate rayon"
+        ],
+        "option_images": [],
+        "answer": "C. Dacron",
+        "solution": "Dacron (Terylene) is a polyester fibre known for being crease-resistant and having water-repellent properties. [cite: 29, 30]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following is not a synthetic polymer?",
+        "question_latex": "Which of the following is not a synthetic polymer?",
+        "question_images": [],
+        "options": [
+            "A. Polyisoprene",
+            "B. Polybutadiene",
+            "C. Polyethylene terephthalate",
+            "D. Polyethylene"
+        ],
+        "option_images": [],
+        "answer": "A. Polyisoprene",
+        "solution": "Polyisoprene (cis-1,4-polyisoprene) is natural rubber, which is a natural polymer. [cite: 30, 31]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Nylon is generic name for all synthetic fibre forming",
+        "question_latex": "Nylon is generic name for all synthetic fibre forming",
+        "question_images": [],
+        "options": [
+            "A. Polyesters",
+            "B. Polymeric amides",
+            "C. Polystyrene",
+            "D. Polyethylene"
+        ],
+        "option_images": [],
+        "answer": "B. Polymeric amides",
+        "solution": "Nylon is a generic name for all synthetic fibre-forming polyamides, characterized by the $-CONH-$ linkage. [cite: 31, 32]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Polymerisation in which two or more chemically different monomers take part is called",
+        "question_latex": "Polymerisation in which two or more chemically different monomers take part is called",
+        "question_images": [],
+        "options": [
+            "A. Addition polymerization",
+            "B. Copolymerization",
+            "C. Chain polymerization",
+            "D. Homopolymerizsation"
+        ],
+        "option_images": [],
+        "answer": "B. Copolymerization",
+        "solution": "Copolymerization is the process where two or more different types of monomer units polymerize together to form a polymer chain. [cite: 32, 33]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which one is chain-growth polymers?",
+        "question_latex": "Which one is chain-growth polymers?",
+        "question_images": [],
+        "options": [
+            "A. Teflon",
+            "B. Nylon-6",
+            "C. Nylon-66",
+            "D. Bakelite"
+        ],
+        "option_images": [],
+        "answer": "A. Teflon",
+        "solution": "Teflon is formed via chain-growth (addition) polymerization of tetrafluoroethylene. [cite_start]Nylon and Bakelite are step-growth polymers. [cite: 33, 34, 36]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "The polymer which can stretched easily by applying small stress and return to its original shape when stress is removed",
+        "question_latex": "The polymer which can stretched easily by applying small stress and return to its original shape when stress is removed",
+        "question_images": [],
+        "options": [
+            "A. Buna-S",
+            "B. Dacron",
+            "C. Teflon",
+            "D. Bakelite"
+        ],
+        "option_images": [],
+        "answer": "A. Buna-S",
+        "solution": "Polymers that exhibit elasticity and return to their original shape after stretching are called elastomers. [cite_start]Buna-S is an elastomer. [cite: 36, 37]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following is artificial silk?",
+        "question_latex": "Which of the following is artificial silk?",
+        "question_images": [],
+        "options": [
+            "A. Viscose rayon",
+            "B. Nylon-6",
+            "C. Terylene",
+            "D. Nylon-66"
+        ],
+        "option_images": [],
+        "answer": "A. Viscose rayon",
+        "solution": "Viscose rayon is known as artificial silk because it mimics the texture and appearance of natural silk but is made from cellulose. [cite: 37, 38]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "When two or more chemically different monomers take part in polymerization, it is called",
+        "question_latex": "When two or more chemically different monomers take part in polymerization, it is called",
+        "question_images": [],
+        "options": [
+            "A. Addition polymerization",
+            "B. Copolymerization",
+            "C. Chain polymerization",
+            "D. Homopolymerisation"
+        ],
+        "option_images": [],
+        "answer": "B. Copolymerization",
+        "solution": "This is the definition of copolymerization, where chemically distinct monomers combine in the same polymer chain. [cite: 38]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "The polymer containing strong intermolecular forces e.g. hydrogen bonding, is",
+        "question_latex": "The polymer containing strong intermolecular forces e.g. hydrogen bonding, is",
+        "question_images": [],
+        "options": [
+            "A. Teflon",
+            "B. Nylon-66",
+            "C. Polystyrene",
+            "D. Natural rubber"
+        ],
+        "option_images": [],
+        "answer": "B. Nylon-66",
+        "solution": "In Nylon-6,6, the presence of amide groups allows for strong intermolecular hydrogen bonding between adjacent chains, providing high tensile strength. [cite: 38, 39]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "The S in Buna-S refers to",
+        "question_latex": "The S in Buna-S refers to",
+        "question_images": [],
+        "options": [
+            "A. Sulphur",
+            "B. Styrene",
+            "C. Sodium",
+            "D. Just a trade name"
+        ],
+        "option_images": [],
+        "answer": "B. Styrene",
+        "solution": "Buna-S is a copolymer of 1,3-butadiene and styrene. [cite_start]The 'S' stands for Styrene. [cite: 39, 40]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Dacron is obtained by the condensation polymerization of",
+        "question_latex": "Dacron is obtained by the condensation polymerization of",
+        "question_images": [],
+        "options": [
+            "A. Dimethyl terephthalate and ethylene glycol",
+            "B. Terephthalic acid and formaldehyde",
+            "C. Phenol and phthalic acid",
+            "D. Phenol and formaldehyde"
+        ],
+        "option_images": [],
+        "answer": "A. Dimethyl terephthalate and ethylene glycol",
+        "solution": "Dacron (Terylene) is a polyester produced from ethylene glycol and terephthalic acid (or dimethyl terephthalate) through condensation polymerization. [cite: 40, 41]\n$nHO-CH_2-CH_2-OH + nH_3COOCC_6H_4COOCH_3 \\rightarrow [OCH_2CH_2O-COC_6H_4CO]_n + 2nCH_3OH$",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following pair of compounds is used as monomers for bakelite?",
+        "question_latex": "Which of the following pair of compounds is used as monomers for bakelite?",
+        "question_images": [],
+        "options": [
+            "A. $(CH_3)_2C=CH_2$ and $CH_2=CH-CN$",
+            "B. HCHO and $C_6H_5OH$",
+            "C. HCHO and $H_2NCONH_2$",
+            "D. $C_6H_5CH=CH_2$ and $CH_2=CH-CH=CH_2$"
+        ],
+        "option_images": [],
+        "answer": "B. HCHO and $C_6H_5OH$",
+        "solution": "Bakelite is a thermosetting phenol-formaldehyde resin formed from the monomers phenol ($C_6H_5OH$) and formaldehyde (HCHO). [cite: 41, 42]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "What type of polymerization $\\epsilon$-Caprolactam undergo to form Nylon-6?",
+        "question_latex": "What type of polymerization $\\epsilon$-Caprolactam undergo to form Nylon-6?",
+        "question_images": [],
+        "options": [
+            "A. Ring opening polymerization",
+            "B. Condensation polymerization",
+            "C. Addition polymerization",
+            "D. Both (A) and (B)"
+        ],
+        "option_images": [],
+        "answer": "A. Ring opening polymerization",
+        "solution": "$\\epsilon$-Caprolactam undergoes ring-opening polymerization upon heating with water at high temperatures to form Nylon-6. [cite: 43, 44]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Neoprene is a polymer of",
+        "question_latex": "Neoprene is a polymer of",
+        "question_images": [],
+        "options": [
+            "A. Isoprene",
+            "B. Chloroprene",
+            "C. Styrene",
+            "D. Butadiene"
+        ],
+        "option_images": [],
+        "answer": "B. Chloroprene",
+        "solution": "Neoprene is synthetic rubber made by the polymerization of 2-chloro-1,3-butadiene, also known as chloroprene. [cite: 44, 45]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "The weakest interparticle forces of attraction are present in",
+        "question_latex": "The weakest interparticle forces of attraction are present in",
+        "question_images": [],
+        "options": [
+            "A. Elastomers",
+            "B. Fibres",
+            "C. Thermoplastics",
+            "D. Thermosetting polymers"
+        ],
+        "option_images": [],
+        "answer": "A. Elastomers",
+        "solution": "Elastomers have the weakest intermolecular forces (like van der Waals forces), which allow them to be stretched significantly. [cite: 48, 49]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following type of forces are present in vulcanized rubber?",
+        "question_latex": "Which of the following type of forces are present in vulcanized rubber?",
+        "question_images": [],
+        "options": [
+            "A. Weakest intermolecular forces",
+            "B. Hydrogen bonding",
+            "C. Three dimensional network of bonds",
+            "D. Metallic bonding"
+        ],
+        "option_images": [],
+        "answer": "A. Weakest intermolecular forces",
+        "solution": "Vulcanized rubber is highly elastic, meaning it contains the weakest intermolecular forces among polymers, though it has sulfur cross-links to prevent permanent deformation. [cite: 49, 50]",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Nylon-6,6 is an example of",
+        "question_latex": "Nylon\\text{-}6,6~is~an~example~of",
+        "question_images": [],
+        "options": [
+            "A. Polypropylene",
+            "B. Polyester",
+            "C. Polyamide",
+            "D. Polystyrene"
+        ],
+        "option_images": [],
+        "answer": "C. Polyamide",
+        "solution": "Nylon-6,6 contains repeating amide ($-CONH-$) linkages, hence it is a polyamide.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "The natural polymer among the following is",
+        "question_latex": "The~natural~polymer~among~the~following~is",
+        "question_images": [],
+        "options": [
+            "A. Pectin",
+            "B. Teflon",
+            "C. Polyethylene",
+            "D. Terylene"
+        ],
+        "option_images": [],
+        "answer": "A. Pectin",
+        "solution": "Pectin is a naturally occurring polysaccharide obtained from plant cell walls.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following is a natural polymer?",
+        "question_latex": "Which~of~the~following~is~a~natural~polymer?",
+        "question_images": [],
+        "options": [
+            "A. Polyethene",
+            "B. Polysaccharides",
+            "C. Nylon",
+            "D. Terylene"
+        ],
+        "option_images": [],
+        "answer": "B. Polysaccharides",
+        "solution": "Polysaccharides such as starch and cellulose occur naturally.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "The IUPAC name of adipic acid is",
+        "question_latex": "The~IUPAC~name~of~adipic~acid~is",
+        "question_images": [],
+        "options": [
+            "A. Tetramethylene-2,4-dioic acid",
+            "B. Tetramethylene dicarboxylic acid",
+            "C. Hexane-1,6-dicarboxylic acid",
+            "D. Hexane-2,4-dicarboxylic acid"
+        ],
+        "option_images": [],
+        "answer": "C. Hexane-1,6-dicarboxylic acid",
+        "solution": "Adipic acid has six carbon atoms with carboxyl groups at positions 1 and 6.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following polymers does not contain –CONH– linkage?",
+        "question_latex": "Which~of~the~following~polymers~does~not~contain~{-}CONH{-}~linkage?",
+        "question_images": [],
+        "options": [
+            "A. PAN",
+            "B. Nylon-6,6",
+            "C. Nylon-2,6",
+            "D. Nylon-6"
+        ],
+        "option_images": [],
+        "answer": "A. PAN",
+        "solution": "Polyacrylonitrile (PAN) contains $-CN$ groups and no amide linkage.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Identify the monomer used to prepare Teflon",
+        "question_latex": "Identify~the~monomer~used~to~prepare~Teflon",
+        "question_images": [],
+        "options": [
+            "A. $C_2F_2$",
+            "B. $C_2F_4$",
+            "C. $CF_2Cl_2$",
+            "D. $C_2H_3N$"
+        ],
+        "option_images": [],
+        "answer": "B. $C_2F_4$",
+        "solution": "Teflon is prepared by polymerization of tetrafluoroethene ($CF_2{=}CF_2$).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following is branched polymer?",
+        "question_latex": "Which~of~the~following~is~a~branched~polymer?",
+        "question_images": [],
+        "options": [
+            "A. Low density polymer",
+            "B. Polyester",
+            "C. High density polymer",
+            "D. Nylon"
+        ],
+        "option_images": [],
+        "answer": "A. Low density polymer",
+        "solution": "Low density polyethylene has branched chains.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Dimethyl terephthalate is ester of",
+        "question_latex": "Dimethyl~terephthalate~is~ester~of",
+        "question_images": [],
+        "options": [
+            "A. Phthalic acid",
+            "B. Terephthalic acid",
+            "C. Oxalic acid",
+            "D. Caproic acid"
+        ],
+        "option_images": [],
+        "answer": "B. Terephthalic acid",
+        "solution": "Dimethyl terephthalate is the dimethyl ester of terephthalic acid.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following is used to make bullet proof window?",
+        "question_latex": "Which~of~the~following~is~used~to~make~bullet~proof~window?",
+        "question_images": [],
+        "options": [
+            "A. Novex",
+            "B. Lexan",
+            "C. Glyptal",
+            "D. PAN"
+        ],
+        "option_images": [],
+        "answer": "B. Lexan",
+        "solution": "Lexan (polycarbonate) is used for making bullet-proof windows.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following is not an addition polymer?",
+        "question_latex": "Which~of~the~following~is~not~an~addition~polymer?",
+        "question_images": [],
+        "options": [
+            "A. Neoprene",
+            "B. Polystyrene",
+            "C. Terylene",
+            "D. Polyethylene"
+        ],
+        "option_images": [],
+        "answer": "C. Terylene",
+        "solution": "Terylene is formed by condensation polymerization.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "In chain growth polymerization initiator is",
+        "question_latex": "In~chain~growth~polymerization~initiator~is",
+        "question_images": [],
+        "options": [
+            "A. Free radicals",
+            "B. Cations",
+            "C. Anions",
+            "D. One of these"
+        ],
+        "option_images": [],
+        "answer": "D. One of these",
+        "solution": "Chain growth polymerization may be initiated by free radicals, cations or anions.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which among following polymers is used to manufacture water pipes?",
+        "question_latex": "Which~among~the~following~polymers~is~used~to~manufacture~water~pipes?",
+        "question_images": [],
+        "options": [
+            "A. Polyacrylamide",
+            "B. Polycarbonate",
+            "C. Buna-N",
+            "D. PVC"
+        ],
+        "option_images": [],
+        "answer": "D. PVC",
+        "solution": "PVC is commonly used in manufacturing water pipes.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "What are the monomers used in preparation of SBR?",
+        "question_latex": "What~are~the~monomers~used~in~preparation~of~SBR?",
+        "question_images": [],
+        "options": [
+            "A. Melamine and formaldehyde",
+            "B. Phenol and formaldehyde",
+            "C. Terephthalic acid and formaldehyde",
+            "D. 1,3-Butadiene and styrene"
+        ],
+        "option_images": [],
+        "answer": "D. 1,3-Butadiene and styrene",
+        "solution": "SBR is a copolymer of styrene and butadiene.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "A homopolymer molecule made up of large number of small units is known as",
+        "question_latex": "A~homopolymer~molecule~made~up~of~large~number~of~small~units~is~known~as",
+        "question_images": [],
+        "options": [
+            "A. Monomolecule",
+            "B. Biomolecule",
+            "C. Polymer",
+            "D. Both (b) and (c)"
+        ],
+        "option_images": [],
+        "answer": "C. Polymer",
+        "solution": "A polymer is formed from a large number of repeating monomer units.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following is used in manufacture of paints?",
+        "question_latex": "Which~of~the~following~is~used~in~manufacture~of~paints?",
+        "question_images": [],
+        "options": [
+            "A. Glyptal",
+            "B. Dylene",
+            "C. Thiokol",
+            "D. Kevlar"
+        ],
+        "option_images": [],
+        "answer": "A. Glyptal",
+        "solution": "Glyptal resin is used in manufacture of paints and varnishes.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which among the following polymers is heat resistant and used to obtain oil seals?",
+        "question_latex": "Which~among~the~following~polymers~is~heat~resistant~and~used~to~obtain~oil~seals?",
+        "question_images": [],
+        "options": [
+            "A. Polyacrylamide",
+            "B. Polyacrylonitrile",
+            "C. Teflon",
+            "D. Polycarbonate"
+        ],
+        "option_images": [],
+        "answer": "C. Teflon",
+        "solution": "Teflon is heat resistant and chemically inert, suitable for oil seals.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Polymerization of chloroprene is catalyzed by",
+        "question_latex": "Polymerization~of~chloroprene~is~catalyzed~by",
+        "question_images": [],
+        "options": [
+            "A. $N_2$ catalyst",
+            "B. Peroxide catalyst",
+            "C. $H_2SO_4$ catalyst",
+            "D. Lindlar catalyst"
+        ],
+        "option_images": [],
+        "answer": "B. Peroxide catalyst",
+        "solution": "Chloroprene polymerizes via free radical (peroxide) mechanism.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "From following pairs which is WRONG?",
+        "question_latex": "From~the~following~pairs~which~is~WRONG?",
+        "question_images": [],
+        "options": [
+            "A. Vegetable fibres – cellulose fibres",
+            "B. Animal fibre – protein fibres",
+            "C. Regenerated fibres – semi synthetic fibre",
+            "D. Natural fibre – synthetic fibre"
+        ],
+        "option_images": [],
+        "answer": "D. Natural fibre – synthetic fibre",
+        "solution": "Natural fibres are not synthetic fibres.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which from following polymers contains –CO–NH– linkage?",
+        "question_latex": "Which~of~the~following~polymers~contains~{-}CO{-}NH{-}~linkage?",
+        "question_images": [],
+        "options": [
+            "A. Glyptal",
+            "B. Thermocol",
+            "C. Buna-N",
+            "D. Urea-formaldehyde resin"
+        ],
+        "option_images": [],
+        "answer": "D. Urea-formaldehyde resin",
+        "solution": "Urea-formaldehyde resin contains amide ($-CONH-$) linkages.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "The monomer of Teflon is",
+        "question_latex": "The~monomer~of~Teflon~is",
+        "question_images": [],
+        "options": [
+            "A. Monofluoroethene",
+            "B. Difluoroethene",
+            "C. Trifluoroethene",
+            "D. Tetrafluoroethene"
+        ],
+        "option_images": [],
+        "answer": "D. Tetrafluoroethene",
+        "solution": "Teflon is polymer of tetrafluoroethene ($CF_2{=}CF_2$).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Cupra-ammonium silk is",
+        "question_latex": "Cupra\\text{-}ammonium~silk~is",
+        "question_images": [],
+        "options": [
+            "A. Natural fibre",
+            "B. Semi synthetic fibre",
+            "C. Protein fibre",
+            "D. True synthetic fibre"
+        ],
+        "option_images": [],
+        "answer": "B. Semi synthetic fibre",
+        "solution": "Cupra-ammonium silk is regenerated cellulose fibre.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Teflon, neoprene, nylon-6 are all",
+        "question_latex": "Teflon,~neoprene~and~nylon\\text{-}6~are~all",
+        "question_images": [],
+        "options": [
+            "A. Copolymers",
+            "B. Condensation polymers",
+            "C. Homopolymers",
+            "D. Monomers"
+        ],
+        "option_images": [],
+        "answer": "C. Homopolymers",
+        "solution": "Each is formed from a single type of monomer.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which pair of monomers from following is used to obtain Buna-S?",
+        "question_latex": "Which~pair~of~monomers~from~the~following~is~used~to~obtain~Buna\\text{-}S?",
+        "question_images": [],
+        "options": [
+            "A. Chloroprene and styrene",
+            "B. Styrene and butadiene",
+            "C. Acrylonitrile and butadiene",
+            "D. Styrene and ethene"
+        ],
+        "option_images": [],
+        "answer": "B. Styrene and butadiene",
+        "solution": "Buna-S is styrene–butadiene rubber.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Identify the use of Teflon from following",
+        "question_latex": "Identify~the~use~of~Teflon~from~the~following",
+        "question_images": [],
+        "options": [
+            "A. To obtain oil seals",
+            "B. To manufacture packaging containers",
+            "C. As a substitute of wool",
+            "D. To obtain synthetic rubber"
+        ],
+        "option_images": [],
+        "answer": "A. To obtain oil seals",
+        "solution": "Teflon is chemically inert and heat resistant, suitable for oil seals.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which from following polymers is obtained from its monomers using Ziegler–Natta catalyst?",
+        "question_latex": "Which~of~the~following~polymers~is~obtained~from~its~monomers~using~Ziegler\\text{-}Natta~catalyst?",
+        "question_images": [],
+        "options": [
+            "A. HDP",
+            "B. Teflon",
+            "C. Glyptal",
+            "D. LDP"
+        ],
+        "option_images": [],
+        "answer": "A. HDP",
+        "solution": "High density polyethylene is prepared using Ziegler–Natta catalyst.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following structure represents terylene?",
+        "question_latex": "Which~of~the~following~structures~represents~terylene?",
+        "question_images": [],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [],
+        "answer": "D. Structure D",
+        "solution": "Terylene is a polyester formed from ethylene glycol and terephthalic acid.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following is not thermoplastic polymer?",
+        "question_latex": "Which~of~the~following~is~not~a~thermoplastic~polymer?",
+        "question_images": [],
+        "options": [
+            "A. Polyethene",
+            "B. Neoprene",
+            "C. Polyvinyl chloride",
+            "D. Polytetrafluoroethene"
+        ],
+        "option_images": [],
+        "answer": "B. Neoprene",
+        "solution": "Neoprene is a thermosetting elastomer, not a thermoplastic polymer.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Bakelite is obtained from phenol by reacting with",
+        "question_latex": "Bakelite~is~obtained~from~phenol~by~reacting~with~formaldehyde~in~acidic~or~alkaline~medium",
+        "question_images": [],
+        "options": [
+            "A. $(CH_3)_2CO$",
+            "B. $CH_3CHO$",
+            "C. $CH_3COCH_3$",
+            "D. $HCHO$"
+        ],
+        "option_images": [],
+        "answer": "D. $HCHO$",
+        "solution": "Phenol reacts with formaldehyde to form Bakelite via condensation polymerization.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which is not an example of copolymer?",
+        "question_latex": "Which~is~not~an~example~of~copolymer?",
+        "question_images": [],
+        "options": [
+            "A. SAN",
+            "B. ABS",
+            "C. Saran",
+            "D. PVC"
+        ],
+        "option_images": [],
+        "answer": "D. PVC",
+        "solution": "PVC is a homopolymer of vinyl chloride.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Orlon is a hard, horny and high melting material. Which of the following represents its structure?",
+        "question_latex": "Orlon~is~a~hard,~horny~and~high~melting~material.~Which~structure~represents~it?",
+        "question_images": [],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [],
+        "answer": "C. Structure C",
+        "solution": "Orlon is polyacrylonitrile, formed from acrylonitrile monomers.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following is co-polymer?",
+        "question_latex": "Which~of~the~following~is~a~copolymer?",
+        "question_images": [],
+        "options": [
+            "A. Orlon",
+            "B. Teflon",
+            "C. PHBV",
+            "D. Polyisoprene"
+        ],
+        "option_images": [],
+        "answer": "C. PHBV",
+        "solution": "PHBV is a copolymer of hydroxybutyrate and hydroxyvalerate.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "The catalyst used to prepare monomer of terylene is",
+        "question_latex": "The~catalyst~used~to~prepare~monomer~of~terylene~is",
+        "question_images": [],
+        "options": [
+            "A. Copper acetate and zinc chloride",
+            "B. Zinc acetate and antimony trioxide",
+            "C. Sodium sulphate and lead oxide",
+            "D. Copper chloride and zinc chloride"
+        ],
+        "option_images": [],
+        "answer": "B. Zinc acetate and antimony trioxide",
+        "solution": "Zinc acetate and antimony trioxide are used as catalysts in polyester synthesis.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following sets contain only non-biodegradable polymers?",
+        "question_latex": "Which~of~the~following~sets~contain~only~non\\text{-}biodegradable~polymers?",
+        "question_images": [],
+        "options": [
+            "A. Plastic, PVC, Nylon",
+            "B. Plastic, PVC, PHBV",
+            "C. PHBV, PVC, Dextrin",
+            "D. PHBV, PVC, Dacron"
+        ],
+        "option_images": [],
+        "answer": "A. Plastic, PVC, Nylon",
+        "solution": "Plastic, PVC and Nylon are non-biodegradable polymers.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following is a natural polymer?",
+        "question_latex": "Which~of~the~following~is~a~natural~polymer?",
+        "question_images": [],
+        "options": [
+            "A. Orlon",
+            "B. Teflon",
+            "C. Nylon",
+            "D. Linen"
+        ],
+        "option_images": [],
+        "answer": "D. Linen",
+        "solution": "Linen is obtained from flax plant and is a natural polymer.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Identify a monomer used in preparation of neoprene",
+        "question_latex": "Identify~the~monomer~used~in~preparation~of~neoprene",
+        "question_images": [],
+        "options": [
+            "A. Melamine",
+            "B. 2-methyl-1,3-butadiene",
+            "C. 2-chloro-1,3-butadiene",
+            "D. 1,3-butadiene"
+        ],
+        "option_images": [],
+        "answer": "C. 2-chloro-1,3-butadiene",
+        "solution": "Neoprene is polymer of chloroprene (2-chloro-1,3-butadiene).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Buna-S is obtained from",
+        "question_latex": "Buna\\text{-}S~is~obtained~from",
+        "question_images": [],
+        "options": [
+            "A. Glycine and $α$-amino caproic acid",
+            "B. Adipic acid and hexamethylene diamine",
+            "C. Styrene and butadiene",
+            "D. Glycine and $α$-amino acid"
+        ],
+        "option_images": [],
+        "answer": "C. Styrene and butadiene",
+        "solution": "Buna-S is a copolymer of styrene and butadiene.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Dimethyl terephthalate and ethylene glycol react to form",
+        "question_latex": "Dimethyl~terephthalate~and~ethylene~glycol~react~to~form",
+        "question_images": [],
+        "options": [
+            "A. Nylon-66",
+            "B. Nylon-6",
+            "C. Buna-S",
+            "D. Dacron"
+        ],
+        "option_images": [],
+        "answer": "D. Dacron",
+        "solution": "Dacron (terylene) is a polyester formed from these monomers.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following is styrene?",
+        "question_latex": "Which~of~the~following~is~styrene?",
+        "question_images": [],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [],
+        "answer": "C. Structure C",
+        "solution": "Styrene is vinyl benzene.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Thiokol is used as",
+        "question_latex": "Thiokol~is~used~as",
+        "question_images": [],
+        "options": [
+            "A. Rubber",
+            "B. For making human hair wigs",
+            "C. Helmets",
+            "D. Bullet proof windows"
+        ],
+        "option_images": [],
+        "answer": "A. Rubber",
+        "solution": "Thiokol is a polysulfide rubber.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which among the following catalysts is used in the preparation of dacron?",
+        "question_latex": "Which~among~the~following~catalysts~is~used~in~the~preparation~of~dacron?",
+        "question_images": [],
+        "options": [
+            "A. Oxygen",
+            "B. Zinc acetate and antimony trioxide",
+            "C. Peroxide",
+            "D. Titanium chloride and triethyl aluminium"
+        ],
+        "option_images": [],
+        "answer": "B. Zinc acetate and antimony trioxide",
+        "solution": "These catalysts are used in polyester (dacron) manufacture.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following polymer has ester linkage?",
+        "question_latex": "Which~of~the~following~polymer~has~ester~linkage?",
+        "question_images": [],
+        "options": [
+            "A. Nylon-66",
+            "B. PVC",
+            "C. Terylene",
+            "D. SBR"
+        ],
+        "option_images": [],
+        "answer": "C. Terylene",
+        "solution": "Terylene is a polyester containing ester linkages.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Identify the monomer used to obtain thermocol",
+        "question_latex": "Identify~the~monomer~used~to~obtain~thermocol",
+        "question_images": [],
+        "options": [
+            "A. Acrylonitrile",
+            "B. Styrene",
+            "C. Vinyl chloride",
+            "D. Ethene"
+        ],
+        "option_images": [],
+        "answer": "B. Styrene",
+        "solution": "Thermocol is expanded polystyrene.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Rayon is",
+        "question_latex": "Rayon~is",
+        "question_images": [],
+        "options": [
+            "A. Natural silk",
+            "B. Artificial silk",
+            "C. Regenerated fibre",
+            "D. Synthetic fibre"
+        ],
+        "option_images": [],
+        "answer": "C. Regenerated fibre",
+        "solution": "Rayon is regenerated cellulose fibre.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Nylon-6,6 is a",
+        "question_latex": "Nylon\\text{-}6,6~is~a",
+        "question_images": [],
+        "options": [
+            "A. Polyester",
+            "B. Polyamide",
+            "C. Polyacrylate",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "B. Polyamide",
+        "solution": "Nylon-6,6 contains amide linkages.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following fibre is used for stitching during surgical operation?",
+        "question_latex": "Which~of~the~following~fibre~is~used~for~stitching~during~surgical~operation?",
+        "question_images": [],
+        "options": [
+            "A. Nylon-66",
+            "B. Cotton",
+            "C. Nylon-6",
+            "D. Acetate rayon"
+        ],
+        "option_images": [],
+        "answer": "C. Nylon-6",
+        "solution": "Nylon-6 is used as surgical suture material.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Identify the monomer used for synthesis of nylon-6",
+        "question_latex": "Identify~the~monomer~used~for~synthesis~of~nylon\\text{-}6",
+        "question_images": [],
+        "options": [
+            "A. 1,3-Butadiene",
+            "B. $ε$-Caprolactam",
+            "C. Phenol and formaldehyde",
+            "D. Styrene"
+        ],
+        "option_images": [],
+        "answer": "B. $ε$-Caprolactam",
+        "solution": "$\\varepsilon$-Caprolactam undergoes ring opening polymerization to form nylon-6.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which of the following is not the property of natural rubber?",
+        "question_latex": "Which~of~the~following~is~not~a~property~of~natural~rubber?",
+        "question_images": [],
+        "options": [
+            "A. Low tensile strength",
+            "B. High water absorption capacity",
+            "C. Soft and sticky",
+            "D. High elasticity"
+        ],
+        "option_images": [],
+        "answer": "B. High water absorption capacity",
+        "solution": "Natural rubber does not absorb water significantly.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Identify thermosetting polymer from following",
+        "question_latex": "Identify~thermosetting~polymer~from~the~following",
+        "question_images": [],
+        "options": [
+            "A. Polythene",
+            "B. Polyvinyl chloride",
+            "C. Urea formaldehyde resin",
+            "D. Polystyrene"
+        ],
+        "option_images": [],
+        "answer": "C. Urea formaldehyde resin",
+        "solution": "Urea formaldehyde resin is a thermosetting polymer.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which from following is NOT a property of thermosetting polymers?",
+        "question_latex": "Which~of~the~following~is~NOT~a~property~of~thermosetting~polymers?",
+        "question_images": [],
+        "options": [
+            "A. These are being shaped on heating",
+            "B. These are capable of repeated softening and hardening",
+            "C. These have extensive cross linking",
+            "D. These are rigid"
+        ],
+        "option_images": [],
+        "answer": "B. These are capable of repeated softening and hardening",
+        "solution": "Thermosetting polymers cannot be softened again after curing.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Introduction of Polymer Chemistry",
+        "question": "Which among the following polymers is used for making handles of cooker?",
+        "question_latex": "Which~among~the~following~polymers~is~used~for~making~handles~of~cooker?",
+        "question_images": [],
+        "options": [
+            "A. Bakelite",
+            "B. Acrylic",
+            "C. Melamine",
+            "D. Novolac"
+        ],
+        "option_images": [],
+        "answer": "A. Bakelite",
+        "solution": "Bakelite is heat resistant and used for electrical fittings and cooker handles.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    }
 ]
-
-
-

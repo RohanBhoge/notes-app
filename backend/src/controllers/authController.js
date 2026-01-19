@@ -266,9 +266,10 @@ const adminLogin = async (req, res) => {
     const ok = await bcrypt.compare(password, user.password_hash);
     if (!ok) return res.status(401).json({ error: 'Invalid password' });
 
-    let logoUrl = null;
+    let logoUrl = "https://papernest-logo.s3.ap-south-1.amazonaws.com/logos/1768298506778_WhatsApp+Image+2024-06-30+at+14.41.38_7e2ce26b.jpg";
     if (user.logo) {
-      logoUrl = await getObjectURL(user.logo);
+      // Use public URL instead of signed URL
+      logoUrl = `https://${process.env.AWS_BUCKET_NAME}.s3.${process.env.AWS_REGION}.amazonaws.com/${user.logo}`;
     }
     console.log('Generated S3 URL:', logoUrl);
 

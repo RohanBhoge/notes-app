@@ -5,8 +5,8 @@ import UserList from '../components/UserList'
 const HomePage = () => {
   return (
     <div>
-    <Header/>
-    <UserList/>
+      <Header />
+      <UserList />
     </div>
   )
 }

@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 1,
+    "chapter": "Current Electricity",
+    "question": "Kirchhoff's current and voltage law are respectively based on the conservation of [MHT-CET 2021]",
+    "question_latex": "Kirchhoff's current and voltage law are respectively based on the conservation of [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. charge, energy",
+      "B. energy, charge",
+      "C. charge, momentum",
+      "D. momentum, charge"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Kirchhoff's Current Law (KCL) is based on the conservation of charge, and Kirchhoff's Voltage Law (KVL) is based on the conservation of energy.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Current Electricity",
+    "question": "For ohmic conductor, the drift velocity vd and the electric field applied across it are related as",
+    "question_latex": "For ohmic conductor, the drift velocity $v_{d}$ and the electric field applied across it are related as",
+    "question_images": [],
+    "options": [
+      "A. vd proportional to sqrt(E)",
+      "B. vd proportional to E",
+      "C. vd proportional to E^3/2",
+      "D. vd proportional to E^2"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Drift velocity is given by $v_{d} = \\frac{eE\\tau}{m}$. Hence, $v_{d} \\propto E$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Current Electricity",
+    "question": "The resistance of a conductor is 5 ohm at 50°C and 6 ohm at 100°C. The resistance at 0°C is",
+    "question_latex": "The resistance of a conductor is $5~\\Omega$ at $50^{\\circ}C$ and $6~\\Omega$ at $100^{\\circ}C$. The resistance at $0^{\\circ}C$ is",
+    "question_images": [],
+    "options": [
+      "A. 2 ohm",
+      "B. 4 ohm",
+      "C. 2.5 ohm",
+      "D. 4.5 ohm"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Using $R_{t} = R_{0}(1 + \\alpha t)$: \n $5 = R_{0}(1 + 50\\alpha)$ ... (i) \n $6 = R_{0}(1 + 100\\alpha)$ ... (ii) \n Dividing (ii) by (i): $6/5 = (1 + 100\\alpha)/(1 + 50\\alpha) \\Rightarrow 6 + 300\\alpha = 5 + 500\\alpha \\Rightarrow 200\\alpha = 1 \\Rightarrow \\alpha = 1/200$. \n Substituting $\\alpha$ in (i): $5 = R_{0}(1 + 50/200) = R_{0}(1.25) \\Rightarrow R_{0} = 5/1.25 = 4~\\Omega$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Current Electricity",
+    "question": "A galvanometer of resistance 'G' can be converted into a voltmeter of range (0-V) volt by connecting a resistance 'R' in series with it. The resistance 'R' required to change its range from (0-V/4) volt will be [MHT-CET 2024]",
+    "question_latex": "A galvanometer of resistance '$G$' can be converted into a voltmeter of range $(0-V)$ volt by connecting a resistance '$R$' in series with it. The resistance '$R^{\\prime}$' required to change its range from $(0-\\frac{V}{4})$ volt will be [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. (R - 3G) / 4",
+      "B. (R + 3G) / 4",
+      "C. (R - 4G) / 3",
+      "D. (R + 4G) / 3"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Initially, $V = I_{g}(G + R) \\Rightarrow I_{g} = \\frac{V}{G+R}$. \n For new range $V/4 = I_{g}(G + R^{\\prime}) \\Rightarrow \\frac{V}{4} = \\frac{V}{G+R} (G + R^{\\prime}) \\Rightarrow \\frac{G+R}{4} = G + R^{\\prime} \\Rightarrow R^{\\prime} = \\frac{G+R-4G}{4} = \\frac{R-3G}{4}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 5,
+    "chapter": "Current Electricity",
+    "question": "Potentiometer is better than voltmeter because [MHT-CET 2019]",
+    "question_latex": "Potentiometer is better than voltmeter because [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. it measures e.m.f. correctly",
+      "B. it draws no current from source at balance",
+      "C. it has high resistance",
+      "D. Both A and B"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "A potentiometer is an ideal voltmeter because it works on null-point detection, meaning it draws no current from the source when balanced, thus measuring the true e.m.f.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 6,
+    "chapter": "Current Electricity",
+    "question": "A uniform wire of resistance 36 ohm is bent into a circle. The effective resistance between two points on any diameter is [MHT-CET 2022]",
+    "question_latex": "A uniform wire of resistance $36~\\Omega$ is bent into a circle. The effective resistance between two points on any diameter is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 9 ohm",
+      "B. 18 ohm",
+      "C. 36 ohm",
+      "D. 4.5 ohm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "The diameter divides the circle into two equal semicircular parts, each having resistance $36/2 = 18~\\Omega$. Since these two are in parallel, $R_{eff} = 18/2 = 9~\\Omega$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 7,
+    "chapter": "Current Electricity",
+    "question": "Wheatstone bridge is most sensitive when [MHT-CET 2020]",
+    "question_latex": "Wheatstone bridge is most sensitive when [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. all four resistances are equal",
+      "B. it is balanced",
+      "C. resistance in galvanometer is zero",
+      "D. battery has high e.m.f."
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "The sensitivity of a Wheatstone bridge is maximum when all four resistances $P, Q, R, S$ are of the same order of magnitude.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 8,
+    "chapter": "Current Electricity",
+    "question": "A cell of e.m.f. E and internal resistance r is connected to an external resistance R. The potential difference across the cell is [MHT-CET 2023]",
+    "question_latex": "A cell of e.m.f. $E$ and internal resistance $r$ is connected to an external resistance $R$. The potential difference across the cell is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. ER / (R+r)",
+      "B. Er / (R+r)",
+      "C. E",
+      "D. E(R+r) / R"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$I = E / (R+r)$. Potential difference $V = IR = \\frac{ER}{R+r}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 9,
+    "chapter": "Current Electricity",
+    "question": "Internal resistance of a cell depends on [MHT-CET 2024]",
+    "question_latex": "Internal resistance of a cell depends on [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. distance between electrodes",
+      "B. concentration of electrolyte",
+      "C. temperature of electrolyte",
+      "D. all of the above"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Internal resistance is affected by the nature, concentration, and temperature of the electrolyte, as well as the area and separation of electrodes.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 10,
+    "chapter": "Current Electricity",
+    "question": "The balancing length for a cell of e.m.f. 1.5 V is 60 cm in a potentiometer experiment. If another cell of e.m.f. 2.5 V is used, the balancing length will be",
+    "question_latex": "The balancing length for a cell of e.m.f. $1.5$ V is $60$ cm in a potentiometer experiment. If another cell of e.m.f. $2.5$ V is used, the balancing length will be",
+    "question_images": [],
+    "options": [
+      "A. 100 cm",
+      "B. 40 cm",
+      "C. 80 cm",
+      "D. 120 cm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$E_{1}/E_{2} = l_{1}/l_{2} \\Rightarrow 1.5/2.5 = 60/l_{2} \\Rightarrow l_{2} = (2.5 \\times 60) / 1.5 = 100$ cm.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Current Electricity",
+    "question": "Specific resistance of a wire depends on [MHT-CET 2021]",
+    "question_latex": "Specific resistance of a wire depends on [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. length",
+      "B. cross-sectional area",
+      "C. material of wire",
+      "D. mass"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Specific resistance (resistivity) is an intrinsic property of the material and does not depend on dimensions.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Current Electricity",
+    "question": "In a meter bridge experiment, the null point is obtained at 40 cm from left end. If the resistance in left gap is 10 ohm, the resistance in right gap is [MHT-CET 2020]",
+    "question_latex": "In a meter bridge experiment, the null point is obtained at $40$ cm from left end. If the resistance in left gap is $10~\\Omega$, the resistance in right gap is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 15 ohm",
+      "B. 6.67 ohm",
+      "C. 20 ohm",
+      "D. 10 ohm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$X/R = l/(100-l) \\Rightarrow 10/R = 40/60 = 2/3 \\Rightarrow R = (10 \\times 3)/2 = 15~\\Omega$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Current Electricity",
+    "question": "Potential gradient of a potentiometer wire is 0.2 V/m. The potential difference across 50 cm length is [MHT-CET 2023]",
+    "question_latex": "Potential gradient of a potentiometer wire is $0.2~V/m$. The potential difference across $50$ cm length is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 0.1 V",
+      "B. 10 V",
+      "C. 1 V",
+      "D. 0.01 V"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$V = k l = 0.2 \\times 0.5 = 0.1$ V.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Current Electricity",
+    "question": "A wire of resistance R is stretched to double its length. New resistance is [MHT-CET 2024]",
+    "question_latex": "A wire of resistance $R$ is stretched to double its length. New resistance is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 2R",
+      "B. 4R",
+      "C. R/2",
+      "D. R/4"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$R = \\rho L/A$. When stretched, volume $V=AL$ is constant. $L^{\\prime} = 2L \\Rightarrow A^{\\prime} = A/2$. $R^{\\prime} = \\rho (2L)/(A/2) = 4R$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Current Electricity",
+    "question": "Kirchhoff's first law (sum I = 0) at a junction is based on [MHT-CET 2019]",
+    "question_latex": "Kirchhoff's first law ($\\sum I = 0$) at a junction is based on [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. Conservation of energy",
+      "B. Conservation of charge",
+      "C. Conservation of momentum",
+      "D. Conservation of mass"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Duplicate of Q1 logic part.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Current Electricity",
+    "question": "To convert a galvanometer into an ammeter, we connect [MHT-CET 2022]",
+    "question_latex": "To convert a galvanometer into an ammeter, we connect [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. high resistance in series",
+      "B. low resistance in parallel",
+      "C. low resistance in series",
+      "D. high resistance in parallel"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "A shunt (low resistance) is connected in parallel to bypass most of the current.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Current Electricity",
+    "question": "A cell of e.m.f. 2V and internal resistance 0.1 ohm is being charged by a current of 5A. Potential difference across terminals is [MHT-CET 2021]",
+    "question_latex": "A cell of e.m.f. $2V$ and internal resistance $0.1~\\Omega$ is being charged by a current of $5A$. Potential difference across terminals is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 2.5 V",
+      "B. 1.5 V",
+      "C. 2.0 V",
+      "D. 2.1 V"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "During charging, $V = E + Ir = 2 + (5 \\times 0.1) = 2.5$ V.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Current Electricity",
+    "question": "The sensitivity of a potentiometer can be increased by [MHT-CET 2023]",
+    "question_latex": "The sensitivity of a potentiometer can be increased by [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. increasing length of wire",
+      "B. decreasing length of wire",
+      "C. increasing current",
+      "D. increasing radius of wire"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Increasing length reduces potential gradient ($k = V/L$), making the device more sensitive to small e.m.f. changes.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Current Electricity",
+    "question": "Two resistances 2 ohm and 3 ohm are in series across 10V. Power dissipated in 2 ohm resistor is [MHT-CET 2024]",
+    "question_latex": "Two resistances $2~\\Omega$ and $3~\\Omega$ are in series across $10V$. Power dissipated in $2~\\Omega$ resistor is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 8 W",
+      "B. 4 W",
+      "C. 12 W",
+      "D. 20 W"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$I = 10/(2+3) = 2$ A. $P = I^{2}R = (2^{2}) \\times 2 = 8$ W.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Current Electricity",
+    "question": "SI unit of potential gradient is [MHT-CET 2020]",
+    "question_latex": "SI unit of potential gradient is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. V/m",
+      "B. V m",
+      "C. V/m^2",
+      "D. ohm/m"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Potential gradient $k = dV/dL$, so units are Volt per meter.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Current Electricity",
+    "question": "A galvanometer has resistance 100 ohm and full scale deflection current 1 mA. Shunt required for 10 A range is",
+    "question_latex": "A galvanometer has resistance $100~\\Omega$ and full scale deflection current $1~mA$. Shunt required for $10~A$ range is",
+    "question_images": [],
+    "options": [
+      "A. 0.01 ohm",
+      "B. 0.1 ohm",
+      "C. 1 ohm",
+      "D. 10 ohm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$S = \\frac{I_{g}G}{I - I_{g}} = \\frac{10^{-3} \\times 100}{10 - 0.001} \\approx 0.1 / 10 = 0.01~\\Omega$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Current Electricity",
+    "question": "Temperature coefficient of resistance is negative for [MHT-CET 2022]",
+    "question_latex": "Temperature coefficient of resistance is negative for [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Carbon",
+      "B. Copper",
+      "C. Silver",
+      "D. Aluminium"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Resistance of semiconductors and certain non-metals like carbon decreases as temperature increases.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Current Electricity",
+    "question": "In a potentiometer, if we increase the current in the wire, potential gradient will [MHT-CET 2021]",
+    "question_latex": "In a potentiometer, if we increase the current in the wire, potential gradient will [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. increase",
+      "B. decrease",
+      "C. stay same",
+      "D. become zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$k = V/L = IR/L$. Since $k \\propto I$, increasing current increases the potential gradient.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Current Electricity",
+    "question": "Three identical resistors are in parallel, equivalent is 2 ohm. If in series, equivalent is [MHT-CET 2023]",
+    "question_latex": "Three identical resistors are in parallel, equivalent is $2~\\Omega$. If in series, equivalent is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 18 ohm",
+      "B. 6 ohm",
+      "C. 2 ohm",
+      "D. 9 ohm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$R/3 = 2 \\Rightarrow R = 6~\\Omega$. In series, $R_{s} = 3R = 18~\\Omega$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Current Electricity",
+    "question": "The drift velocity of electrons is of the order of [MHT-CET 2024]",
+    "question_latex": "The drift velocity of electrons is of the order of [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 10^-4 m/s",
+      "B. 10^6 m/s",
+      "C. 3 x 10^8 m/s",
+      "D. 100 m/s"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Typical drift speeds are very small, around $10^{-4}$ to $10^{-3}$ m/s.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Current Electricity",
+    "question": "End correction in a meter bridge is due to [MHT-CET 2019]",
+    "question_latex": "End correction in a meter bridge is due to [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. resistance of connecting wires",
+      "B. contact resistance",
+      "C. both A and B",
+      "D. uneven wire radius"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Resistance of thick copper strips and contact points contribute to discrepancies at the ends of the bridge wire.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Current Electricity",
+    "question": "A cell of e.m.f. 1.2 V is balanced against 30 cm length of potentiometer. For 2 V cell, balancing length is [MHT-CET 2022]",
+    "question_latex": "A cell of e.m.f. $1.2~V$ is balanced against $30$ cm length of potentiometer. For $2~V$ cell, balancing length is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 50 cm",
+      "B. 40 cm",
+      "C. 60 cm",
+      "D. 45 cm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$1.2 / 2 = 30 / l_{2} \\Rightarrow l_{2} = 60 / 1.2 = 50$ cm.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Current Electricity",
+    "question": "Which of the following is NOT a unit of energy? [MHT-CET 2020]",
+    "question_latex": "Which of the following is NOT a unit of energy? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. kWh",
+      "B. Watt-second",
+      "C. Electron-Volt",
+      "D. Volt / Ampere"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Volt per Ampere is Ohm, which is a unit of resistance.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Current Electricity",
+    "question": "Ohm's law is valid for [MHT-CET 2021]",
+    "question_latex": "Ohm's law is valid for [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. metallic conductors at constant temperature",
+      "B. semiconductors",
+      "C. vacuum tubes",
+      "D. electrolytes"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard applicability condition.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Current Electricity",
+    "question": "A voltmeter has resistance 2000 ohm and range 2 V. To increase range to 10 V, series resistance is [MHT-CET 2024]",
+    "question_latex": "A voltmeter has resistance $2000~\\Omega$ and range $2~V$. To increase range to $10~V$, series resistance is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 8000 ohm",
+      "B. 10000 ohm",
+      "C. 6000 ohm",
+      "D. 2000 ohm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$n = V'/V = 10/2 = 5$. $R = G(n-1) = 2000(5-1) = 8000~\\Omega$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Current Electricity",
+    "question": "Two wires of same material have length ratio 1:2 and radius ratio 2:1. Resistance ratio is [MHT-CET 2023]",
+    "question_latex": "Two wires of same material have length ratio $1:2$ and radius ratio $2:1$. Resistance ratio is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1 : 8",
+      "B. 8 : 1",
+      "C. 1 : 4",
+      "D. 4 : 1"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$R \\propto L/r^{2}$. $R_{1}/R_{2} = (L_{1}/L_{2}) \\times (r_{2}/r_{1})^{2} = (1/2) \\times (1/2)^{2} = 1/8$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Current Electricity",
+    "question": "Potential gradient depends on [MHT-CET 2019]",
+    "question_latex": "Potential gradient depends on [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. current in wire",
+      "B. resistance per unit length",
+      "C. both A and B",
+      "D. radius only"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$k = I \\sigma$ where $\\sigma$ is resistance per unit length.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Current Electricity",
+    "question": "Balancing point in meter bridge is at 20 cm. Resistance in gaps are exchanged, new null point is [MHT-CET 2022]",
+    "question_latex": "Balancing point in meter bridge is at $20$ cm. Resistance in gaps are exchanged, new null point is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 80 cm",
+      "B. 20 cm",
+      "C. 50 cm",
+      "D. 40 cm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "When resistances are swapped, null point shifts to $(100 - l)$. $100 - 20 = 80$ cm.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Current Electricity",
+    "question": "E.M.F. of a cell is 1.5 V. When connected to 2 ohm resistor, current is 0.5 A. Internal resistance is [MHT-CET 2020]",
+    "question_latex": "E.M.F. of a cell is $1.5~V$. When connected to $2~\\Omega$ resistor, current is $0.5~A$. Internal resistance is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 1 ohm",
+      "B. 0.5 ohm",
+      "C. 2 ohm",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$I = E/(R+r) \\Rightarrow 0.5 = 1.5 / (2+r) \\Rightarrow 2+r = 3 \\Rightarrow r = 1~\\Omega$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Current Electricity",
+    "question": "Kirchhoff's loop law represents [MHT-CET 2024]",
+    "question_latex": "Kirchhoff's loop law represents [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. conservation of energy",
+      "B. conservation of charge",
+      "C. conservation of mass",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of Q1 part.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Current Electricity",
+    "question": "A galvanometer can be converted into voltmeter using [MHT-CET 2021]",
+    "question_latex": "A galvanometer can be converted into voltmeter using [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. series high resistance",
+      "B. parallel low resistance",
+      "C. series low resistance",
+      "D. parallel high resistance"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "High resistance limits current and drops excess voltage.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Current Electricity",
+    "question": "A cell of 2V is connected to a 10m potentiometer wire of 10 ohm. Potential gradient is [MHT-CET 2023]",
+    "question_latex": "A cell of $2V$ is connected to a $10m$ potentiometer wire of $10~\\Omega$. Potential gradient is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 0.2 V/m",
+      "B. 2 V/m",
+      "C. 0.02 V/m",
+      "D. 20 V/m"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$k = V/L = 2/10 = 0.2$ V/m.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Current Electricity",
+    "question": "Unit of resistivity is [MHT-CET 2024]",
+    "question_latex": "Unit of resistivity is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. ohm-meter",
+      "B. ohm/meter",
+      "C. ohm",
+      "D. m/ohm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$[\\rho] = [R] [A] / [L] = \\Omega m$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Current Electricity",
+    "question": "A meter bridge is used to measure [MHT-CET 2019]",
+    "question_latex": "A meter bridge is used to measure [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. unknown resistance",
+      "B. e.m.f.",
+      "C. current",
+      "D. potential gradient"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Primary application of the slide-wire bridge.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Current Electricity",
+    "question": "In potentiometer, balancing length with cell in secondary is 40 cm. With shunt 2 ohm across cell, it is 20 cm. Internal resistance is [MHT-CET 2022]",
+    "question_latex": "In potentiometer, balancing length with cell in secondary is $40$ cm. With shunt $2~\\Omega$ across cell, it is $20$ cm. Internal resistance is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 2 ohm",
+      "B. 1 ohm",
+      "C. 0.5 ohm",
+      "D. 4 ohm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$r = R (l_{1}/l_{2} - 1) = 2 (40/20 - 1) = 2(2-1) = 2~\\Omega$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Current Electricity",
+    "question": "Two cells assisting each other balance at 4 m. Opposing each other, they balance at 1 m. Ratio of emf is [MHT-CET 2020]",
+    "question_latex": "Two cells assisting each other balance at $4$ m. Opposing each other, they balance at $1$ m. Ratio of emf is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 5 : 3",
+      "B. 3 : 1",
+      "C. 2 : 1",
+      "D. 4 : 1"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$E_{1}/E_{2} = (l_{1}+l_{2})/(l_{1}-l_{2}) = (4+1)/(4-1) = 5/3$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Current Electricity",
+    "question": "Wheatstone bridge is balanced. If battery and galvanometer are interchanged, balance point [MHT-CET 2024]",
+    "question_latex": "Wheatstone bridge is balanced. If battery and galvanometer are interchanged, balance point [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. remains same",
+      "B. changes",
+      "C. becomes zero",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Conjugate arms property of the bridge.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Current Electricity",
+    "question": "A potentiometer wire has length L. If length increases, range [MHT-CET 2021]",
+    "question_latex": "A potentiometer wire has length $L$. If length increases, range [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. decreases",
+      "B. increases",
+      "C. stays same",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Increasing length reduces potential per unit length, thus reducing the maximum measurable voltage for a fixed driver source.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Current Electricity",
+    "question": "Current through 10 ohm resistor is 2A. Voltage is [MHT-CET 2023]",
+    "question_latex": "Current through $10~\\Omega$ resistor is $2A$. Voltage is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 20 V",
+      "B. 5 V",
+      "C. 0.2 V",
+      "D. 12 V"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$V = IR = 2 \\times 10 = 20$ V.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Current Electricity",
+    "question": "Wheatstone bridge P=10, Q=20, R=5. Balanced S is [MHT-CET 2024]",
+    "question_latex": "Wheatstone bridge $P=10, Q=20, R=5$. Balanced $S$ is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 10 ohm",
+      "B. 40 ohm",
+      "C. 20 ohm",
+      "D. 2.5 ohm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$P/Q = R/S \\Rightarrow 10/20 = 5/S \\Rightarrow 1/2 = 5/S \\Rightarrow S = 10~\\Omega$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Current Electricity",
+    "question": "Conductivity is reciprocal of [MHT-CET 2019]",
+    "question_latex": "Conductivity is reciprocal of [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. resistance",
+      "B. resistivity",
+      "C. current",
+      "D. conductance"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Standard definition.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Current Electricity",
+    "question": "Material of potentiometer wire should have [MHT-CET 2020]",
+    "question_latex": "Material of potentiometer wire should have [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. high resistivity, low temp coefficient",
+      "B. low resistivity, high temp coefficient",
+      "C. low resistivity, low temp coefficient",
+      "D. high resistivity, high temp coefficient"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Magnanin or Constantan are used for this reason.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Current Electricity",
+    "question": "Resistance of ideal ammeter is [MHT-CET 2021]",
+    "question_latex": "Resistance of ideal ammeter is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. zero",
+      "B. infinite",
+      "C. 1 ohm",
+      "D. very high"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "So it doesn't drop any voltage or affect the circuit current.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Current Electricity",
+    "question": "Resistance of ideal voltmeter is [MHT-CET 2022]",
+    "question_latex": "Resistance of ideal voltmeter is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. zero",
+      "B. infinite",
+      "C. 1000 ohm",
+      "D. very low"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "So it draws no current from the circuit.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Current Electricity",
+    "question": "A potentiometer wire 10m has resistance 20 ohm. Total current 0.1 A. Potential gradient [MHT-CET 2023]",
+    "question_latex": "A potentiometer wire $10m$ has resistance $20~\\Omega$. Total current $0.1~A$. Potential gradient [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 0.2 V/m",
+      "B. 0.1 V/m",
+      "C. 2 V/m",
+      "D. 20 V/m"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$V = IR = 0.1 \\times 20 = 2$ V. $k = V/L = 2/10 = 0.2$ V/m.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Current Electricity",
+    "question": "Drift speed vd of electrons when area A and current I [MHT-CET 2024]",
+    "question_latex": "Drift speed $v_{d}$ of electrons when area $A$ and current $I$ [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. I / neA",
+      "B. neA / I",
+      "C. I ne A",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "From $I = nAev_{d}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Current Electricity",
+    "question": "Shunt resistance S required to pass 1/10th current through galvanometer G [MHT-CET 2019]",
+    "question_latex": "Shunt resistance $S$ required to pass $1/10^{th}$ current through galvanometer $G$ [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. G / 9",
+      "B. G / 10",
+      "C. 9 G",
+      "D. G / 11"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$n = I/I_{g} = 10$. $S = G / (n - 1) = G / 9$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Current Electricity",
+    "question": "Kelvin's method is used to measure [MHT-CET 2021]",
+    "question_latex": "Kelvin's method is used to measure [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. galvanometer resistance",
+      "B. unknown resistance",
+      "C. e.m.f.",
+      "D. internal resistance"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Uses equal-deflection method on a meter bridge.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Current Electricity",
+    "question": "Two resistances 3:2 in meter bridge. Null point from left [MHT-CET 2022]",
+    "question_latex": "Two resistances $3:2$ in meter bridge. Null point from left [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 60 cm",
+      "B. 40 cm",
+      "C. 30 cm",
+      "D. 20 cm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$3/2 = l / (100-l) \\Rightarrow 300 - 3l = 2l \\Rightarrow 5l = 300 \\Rightarrow l = 60$ cm.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Current Electricity",
+    "question": "E.M.F. of cell is 2 V. Potential gradient is 0.1 V/cm. Balancing length is [MHT-CET 2023]",
+    "question_latex": "E.M.F. of cell is $2~V$. Potential gradient is $0.1~V/cm$. Balancing length is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 20 cm",
+      "B. 2 cm",
+      "C. 200 cm",
+      "D. 0.2 cm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$l = E/k = 2 / 0.1 = 20$ cm.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Current Electricity",
+    "question": "Resistance of wire increases by 1% when stretched. % increase in length [MHT-CET 2024]",
+    "question_latex": "Resistance of wire increases by $1\\%$ when stretched. $\\%$ increase in length [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 0.5%",
+      "B. 1%",
+      "C. 2%",
+      "D. 0.1%"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$R \\propto L^{2} \\Rightarrow \\Delta R/R = 2 \\Delta L/L \\Rightarrow 1\\% = 2 \\times \\%L \\Rightarrow \\%L = 0.5\\%$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Current Electricity",
+    "question": "Internal resistance of cell E balanced at L. When resistor R connected, balances at l. r is [MHT-CET 2020]",
+    "question_latex": "Internal resistance of cell $E$ balanced at $L$. When resistor $R$ connected, balances at $l$. $r$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. R(L/l - 1)",
+      "B. R(l/L - 1)",
+      "C. R(L/l + 1)",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard potentiometer formula.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Current Electricity",
+    "question": "Current sensitivity of galvanometer is [MHT-CET 2021]",
+    "question_latex": "Current sensitivity of galvanometer is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. NAB / C",
+      "B. C / NAB",
+      "C. NB / AC",
+      "D. AB / NC"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\theta/I = NAB/C$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Current Electricity",
+    "question": "Wheatstone bridge is not used for [MHT-CET 2024]",
+    "question_latex": "Wheatstone bridge is not used for [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. very low resistance",
+      "B. medium resistance",
+      "C. very high resistance",
+      "D. Both A and C"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Inaccurate for extremes due to strip and lead resistances or insulating effects.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Current Electricity",
+    "question": "Power dissipated in R when connected to cell E, r [MHT-CET 2019]",
+    "question_latex": "Power dissipated in $R$ when connected to cell $E, r$ [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. E^2 R / (R+r)^2",
+      "B. E^2 R / (R+r)",
+      "C. E R / (R+r)",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$P = I^{2}R = (E/(R+r))^{2} R$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Current Electricity",
+    "question": "Copper wire and iron wire of same length and radius. Same current. Heat ratio is [MHT-CET 2022]",
+    "question_latex": "Copper wire and iron wire of same length and radius. Same current. Heat ratio is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. ratio of resistivities",
+      "B. inverse ratio of resistivities",
+      "C. square ratio",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$H = I^{2}Rt$. Since $I, L, A$ are same, $H \\propto R \\propto \\rho$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Current Electricity",
+    "question": "Meter bridge wire is made of [MHT-CET 2020]",
+    "question_latex": "Meter bridge wire is made of [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. Manganin",
+      "B. Constantan",
+      "C. both",
+      "D. Copper"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Alloys with low temperature coefficient.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Current Electricity",
+    "question": "Internal resistance of cell balanced at L. If L increases by increasing rheostat resistance in driver, balancing length l [MHT-CET 2024]",
+    "question_latex": "Internal resistance of cell balanced at $L$. If $L$ increases by increasing rheostat resistance in driver, balancing length $l$ [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. increases",
+      "B. decreases",
+      "C. stays same",
+      "D. becomes zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Higher rheostat resistance decreases driver current, decreases potential gradient, thus requiring more length to balance the same e.m.f.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Current Electricity",
+    "question": "Shunt S is connected for fraction f of current through G. [MHT-CET 2021]",
+    "question_latex": "Shunt $S$ is connected for fraction $f$ of current through $G$. [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. S = G f / (1-f)",
+      "B. S = G (1-f) / f",
+      "C. S = G f",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$I_{g} = I f$. $I_{g}G = (I - I_{g})S \\Rightarrow fIG = (1-f)IS \\Rightarrow S = Gf / (1-f)$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Current Electricity",
+    "question": "Potential difference V across r in discharging cell E [MHT-CET 2023]",
+    "question_latex": "Potential difference $V$ across $r$ in discharging cell $E$ [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. V = E - Ir",
+      "B. V = E + Ir",
+      "C. V = E",
+      "D. V = Ir"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Terminal voltage equation.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Current Electricity",
+    "question": "Range of voltmeter G increased 10 times. Resistance added [MHT-CET 2022]",
+    "question_latex": "Range of voltmeter $G$ increased $10$ times. Resistance added [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 9 G",
+      "B. 10 G",
+      "C. 11 G",
+      "D. G / 9"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$R = G(10-1) = 9G$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Current Electricity",
+    "question": "Specific resistance unit [MHT-CET 2024]",
+    "question_latex": "Specific resistance unit [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. ohm m",
+      "B. m / ohm",
+      "C. ohm / m",
+      "D. ohm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of 38.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Current Electricity",
+    "question": "Ohm's law graph is [MHT-CET 2020]",
+    "question_latex": "Ohm's law graph is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. straight line through origin",
+      "B. parabola",
+      "C. hyperbola",
+      "D. circle"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Direct proportionality.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Current Electricity",
+    "question": "Temperature coefficient of alloys is [MHT-CET 2021]",
+    "question_latex": "Temperature coefficient of alloys is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. small and positive",
+      "B. large and positive",
+      "C. small and negative",
+      "D. large and negative"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Allows stable resistance over temperature range.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Current Electricity",
+    "question": "Drift velocity is zero when [MHT-CET 2023]",
+    "question_latex": "Drift velocity is zero when [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. no field is applied",
+      "B. field is very high",
+      "C. temp is zero",
+      "D. never"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Thermal motion is random, net displacement zero.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Current Electricity",
+    "question": "Wheatstone bridge is most sensitive for [MHT-CET 2024]",
+    "question_latex": "Wheatstone bridge is most sensitive for [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 1 : 1 ratio",
+      "B. 10 : 1 ratio",
+      "C. 1 : 10 ratio",
+      "D. 100 : 1 ratio"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of Q7.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Current Electricity",
+    "question": "Resistivity of copper at room temp is [MHT-CET 2019]",
+    "question_latex": "Resistivity of copper at room temp is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 1.7 x 10^-8 ohm m",
+      "B. 1.7 x 10^8 ohm m",
+      "C. 1.7 x 10^-6 ohm m",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard material property.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Current Electricity",
+    "question": "Balancing point shifts right if [MHT-CET 2022]",
+    "question_latex": "Balancing point shifts right if [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. driver current decreases",
+      "B. secondary emf increases",
+      "C. both A and B",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Both actions require more length for balancing.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Current Electricity",
+    "question": "Unit of current is [MHT-CET 2024]",
+    "question_latex": "Unit of current is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Ampere",
+      "B. C/s",
+      "C. both",
+      "D. V ohm"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Defining relation $I=Q/t$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Current Electricity",
+    "question": "Internal resistance is measured by [MHT-CET 2020]",
+    "question_latex": "Internal resistance is measured by [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. Potentiometer",
+      "B. Voltmeter",
+      "C. Ammeter",
+      "D. Wattmeter"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Potentiometer is used for e.m.f. comparison and internal resistance.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Current Electricity",
+    "question": "A galvanometer resistance 50 ohm and shunt 5 ohm. Fraction of current in G is [MHT-CET 2021]",
+    "question_latex": "A galvanometer resistance $50~\\Omega$ and shunt $5~\\Omega$. Fraction of current in G is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 1/11",
+      "B. 1/10",
+      "C. 10/11",
+      "D. 1/5"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$I_{g}/I = S/(G+S) = 5/55 = 1/11$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Current Electricity",
+    "question": "Two resistances in parallel. Power ratio [MHT-CET 2023]",
+    "question_latex": "Two resistances $R_{1}$ and $R_{2}$ in parallel. Power ratio $P_{1}:P_{2}$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. R2 : R1",
+      "B. R1 : R2",
+      "C. square ratio",
+      "D. 1 : 1"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$P = V^{2}/R$. $V$ is same, so $P \\propto 1/R$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Current Electricity",
+    "question": "Potential gradient is Volt per [MHT-CET 2024]",
+    "question_latex": "Potential gradient is Volt per [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. unit length",
+      "B. unit area",
+      "C. unit time",
+      "D. unit resistance"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Basic definition.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Current Electricity",
+    "question": "Potentiometer wire has constant [MHT-CET 2019]",
+    "question_latex": "Potentiometer wire has constant [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. cross section",
+      "B. resistivity",
+      "C. both",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Requirements for uniform potential gradient.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Current Electricity",
+    "question": "Internal resistance of secondary cell is [MHT-CET 2020]",
+    "question_latex": "Internal resistance of secondary cell is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. lower than primary",
+      "B. higher than primary",
+      "C. zero",
+      "D. same"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Secondary cells like Lead-acid have very low internal resistance.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Current Electricity",
+    "question": "Kirchhoff's law is valid for [MHT-CET 2024]",
+    "question_latex": "Kirchhoff's law is valid for [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. linear and non-linear",
+      "B. linear only",
+      "C. passive only",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "General circuit laws.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Current Electricity",
+    "question": "Resistance of human body is nearly [MHT-CET 2021]",
+    "question_latex": "Resistance of human body is nearly [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 1000 ohm",
+      "B. 10 ohm",
+      "C. 10^6 ohm",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Typical value for dry skin.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Current Electricity",
+    "question": "A cell balance at 1 m. With R=2 in parallel, balance at 0.5 m. r is [MHT-CET 2023]",
+    "question_latex": "A cell balance at $1~m$. With $R=2$ in parallel, balance at $0.5~m$. $r$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 2 ohm",
+      "B. 1 ohm",
+      "C. 4 ohm",
+      "D. 0.5 ohm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$r = 2(1/0.5 - 1) = 2(2-1) = 2~\\Omega$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Current Electricity",
+    "question": "Drift velocity depends on [MHT-CET 2022]",
+    "question_latex": "Drift velocity depends on [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. field",
+      "B. relaxation time",
+      "C. both",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Duplicate of Q2 logic.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Current Electricity",
+    "question": "Sensitivity of bridge is max when ratio is [MHT-CET 2020]",
+    "question_latex": "Sensitivity of bridge is max when ratio is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 10",
+      "C. 100",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Duplicate of Q7/71.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Current Electricity",
+    "question": "Current through galvanometer G in balance is [MHT-CET 2024]",
+    "question_latex": "Current through galvanometer $G$ in balance is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. zero",
+      "B. max",
+      "C. constant",
+      "D. same as battery"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Fundamental balanced bridge property.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Current Electricity",
+    "question": "Terminal PD V and E related by [MHT-CET 2021]",
+    "question_latex": "Terminal PD $V$ and $E$ related by [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. V < E in discharge",
+      "B. V > E in charge",
+      "C. V = E in open",
+      "D. all of these"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Comprehensive cell relations.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Current Electricity",
+    "question": "Temperature coefficient unit [MHT-CET 2023]",
+    "question_latex": "Temperature coefficient unit [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. per K",
+      "B. ohm/K",
+      "C. K",
+      "D. K^-1"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "From $\\alpha = \\Delta R / (R_{0} \\Delta T)$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Current Electricity",
+    "question": "In potentiometer, balanced cell has [MHT-CET 2022]",
+    "question_latex": "In potentiometer, balanced cell has [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. net current zero",
+      "B. zero emf",
+      "C. zero internal resistance",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Null point property.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Current Electricity",
+    "question": "Resistance of conductor increases with [MHT-CET 2020]",
+    "question_latex": "Resistance of conductor increases with [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. temperature",
+      "B. impurity",
+      "C. strain",
+      "D. all of these"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Factors affecting resistivity.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Current Electricity",
+    "question": "Wheatstone bridge is used for [MHT-CET 2024]",
+    "question_latex": "Wheatstone bridge is used for [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. DC only",
+      "B. AC only",
+      "C. both",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Standard bridge circuit.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Current Electricity",
+    "question": "Conductance is [MHT-CET 2021]",
+    "question_latex": "Conductance is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. reciprocal of R",
+      "B. R",
+      "C. resistivity",
+      "D. V/I"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Standard definition.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Current Electricity",
+    "question": "Sensitivity of galvanometer NAB / C. To increase sensitivity [MHT-CET 2023]",
+    "question_latex": "Sensitivity of galvanometer $NAB/C$. To increase sensitivity [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. increase N",
+      "B. increase B",
+      "C. decrease C",
+      "D. all of these"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "From sensitivity formula.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Current Electricity",
+    "question": "A cell E, r balances at l. r is [MHT-CET 2022]",
+    "question_latex": "A cell $E, r$ balances at $l$. $r$ is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. k(L-l)/I",
+      "B. zero",
+      "C. constant",
+      "D. none"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$r = (E-V)/I$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Current Electricity",
+    "question": "Internal resistance of ideal cell is [MHT-CET 2020]",
+    "question_latex": "Internal resistance of ideal cell is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. zero",
+      "B. infinite",
+      "C. 1 ohm",
+      "D. constant"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "No internal voltage drop.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Current Electricity",
+    "question": "Meter bridge wire has length [MHT-CET 2024]",
+    "question_latex": "Meter bridge wire has length [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 1 m",
+      "B. 10 m",
+      "C. 100 cm",
+      "D. both A and C"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Standard instrument dimension.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Current Electricity",
+    "question": "A uniform wire of resistance 4 ohm is stretched to double its length. Resistance becomes [MHT-CET 2021]",
+    "question_latex": "A uniform wire of resistance $4~\\Omega$ is stretched to double its length. Resistance becomes [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 16 ohm",
+      "B. 8 ohm",
+      "C. 4 ohm",
+      "D. 2 ohm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$R' = n^{2} R = 2^{2} \\times 4 = 16~\\Omega$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Current Electricity",
+    "question": "The resistance of a conductor is R. It is cut into 3 equal parts. Resistance of each is [MHT-CET 2023]",
+    "question_latex": "The resistance of a conductor is $R$. It is cut into $3$ equal parts. Resistance of each is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. R/3",
+      "B. 3R",
+      "C. R",
+      "D. R/9"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$R \\propto L$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Current Electricity",
+    "question": "In a potentiometer experiment, for a particular cell, the balancing length is 2.5 m. If the internal resistance of the driver cell is increased, then the balancing length [MHT-CET 2023]",
+    "question_latex": "In a potentiometer experiment, for a particular cell, the balancing length is $2.5~m$. If the internal resistance of the driver cell is increased, then the balancing length [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. increases",
+      "B. decreases",
+      "C. stays same",
+      "D. becomes zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Increasing driver resistance decreases driver current, decreases potential gradient, and thus increases the balancing length for the same test e.m.f.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Current Electricity",
+    "question": "Two wires 'A' and 'B' of equal length are connected in left and right gap of meter bridge. Null point is at 40 cm. Ratio of radius RA/RB is [MHT-CET 2024]",
+    "question_latex": "Two wires 'A' and 'B' of equal length are connected in left and right gap of meter bridge. Null point is at $40$ cm. Ratio of radius $R_{A}/R_{B}$ is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. sqrt(3/2)",
+      "B. 3/2",
+      "C. sqrt(2/3)",
+      "D. 2/3"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$X/R = l/(100-l) = 40/60 = 2/3$. Since materials and lengths are same, $X/R = r_{B}^{2}/r_{A}^{2} = 2/3 \\Rightarrow r_{A}^{2}/r_{B}^{2} = 3/2 \\Rightarrow r_{A}/r_{B} = \\sqrt{3/2}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  }
+]

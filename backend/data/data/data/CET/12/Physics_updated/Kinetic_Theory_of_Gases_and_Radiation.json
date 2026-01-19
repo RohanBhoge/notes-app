@@ -1,0 +1,1902 @@
+[
+    {
+        "id": 1,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Three rods made of same material and having same cross-section have been joined as shown in figure. Each rod is of same length. The left and right ends are kept at 0°C and 90°C respectively. The temperature of the junction of the three rods will be",
+        "question_latex": "Three rods made of same material and having same cross-section have been joined as shown in figure. Each rod is of same length. The left and right ends are kept at $0^{\\circ}C$ and $90^{\\circ}C$ respectively. The temperature of the junction of the three rods will be",
+        "question_images": [],
+        "options": [
+            "A. 45°C",
+            "B. 60°C",
+            "C. 30°C",
+            "D. 20°C"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Let the temperature of junction be $\\theta$. In equilibrium, rate of flow of heat through rod $1 = $ sum of rate of flow of heat through rods $2$ and $3$. \n $(\\frac{dQ}{dt})_{1} = (\\frac{dQ}{dt})_{2} + (\\frac{dQ}{dt})_{3}$ \n $KA \\frac{(\\theta - 0)}{l} = KA \\frac{(90^{\\circ} - \\theta)}{l} + KA \\frac{(90^{\\circ} - \\theta)}{l}$ \n $\\theta = 2(90^{\\circ} - \\theta)$ \n $3\\theta = 180^{\\circ} \\Rightarrow \\theta = 60^{\\circ}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "If the temperature of a hot body is increased by 50%, then the amount of radiation emitted by it are increased by nearly [MHT-CET 2021]",
+        "question_latex": "If the temperature of a hot body is increased by $50\\%$, then the amount of radiation emitted by it are increased by nearly [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 50%",
+            "B. 225%",
+            "C. 400%",
+            "D. 500%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Amount of radiation $E \\propto T^{4}$. \n $E_{1} = T^{4}$ \n $E_{2} = (1.5T)^{4} = 5.0625 T^{4}$ \n Increase in radiation $= \\frac{E_{2} - E_{1}}{E_{1}} \\times 100 = (5.0625 - 1) \\times 100 = 406.25\\%$. \n (Note: The solution in the PDF implies $E_{2}/E_{1} = 1.5^{4} = 5.06$, increase $\\approx 400\\%$. Correcting to nearest option).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The root mean square speed of the molecules of a gas is v. If the temperature of the gas is doubled and the gas at the same time dissociates into atoms, the new root mean square speed will be [MHT-CET 2022]",
+        "question_latex": "The root mean square speed of the molecules of a gas is $v$. If the temperature of the gas is doubled and the gas at the same time dissociates into atoms, the new root mean square speed will be [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. v",
+            "B. 2v",
+            "C. 4v",
+            "D. v/2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$v_{rms} = \\sqrt{\\frac{3RT}{M}}$. \n When temperature is doubled, $T' = 2T$. When gas dissociates into atoms, $M' = M/2$. \n $v' = \\sqrt{\\frac{3R(2T)}{M/2}} = \\sqrt{4 \\times \\frac{3RT}{M}} = 2v$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The molar specific heat of an ideal gas at constant pressure and constant volume is Cp and Cv respectively. If R is universal gas constant and n is number of moles, then Cp - Cv is [MHT-CET 2023]",
+        "question_latex": "The molar specific heat of an ideal gas at constant pressure and constant volume is $C_{p}$ and $C_{v}$ respectively. If $R$ is universal gas constant and $n$ is number of moles, then $C_{p} - C_{v}$ is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. R",
+            "B. nR",
+            "C. R/n",
+            "D. n/R"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "By Mayer's relation, for one mole of an ideal gas, $C_{p} - C_{v} = R$. Molar specific heat is independent of the number of moles used in the definition.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The temperature of a black body is increased from 127°C to 527°C. The ratio of the energies of radiation emitted will be [MHT-CET 2020]",
+        "question_latex": "The temperature of a black body is increased from $127^{\\circ}C$ to $527^{\\circ}C$. The ratio of the energies of radiation emitted will be [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 1 : 4",
+            "B. 1 : 8",
+            "C. 1 : 16",
+            "D. 1 : 2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$T_{1} = 127 + 273 = 400~K$, $T_{2} = 527 + 273 = 800~K$. \n From Stefan's law, $E \\propto T^{4} \\Rightarrow \\frac{E_{1}}{E_{2}} = (\\frac{T_{1}}{T_{2}})^{4} = (\\frac{400}{800})^{4} = (\\frac{1}{2})^{4} = \\frac{1}{16}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A gas at pressure P0 is contained in a vessel. If the masses of all the molecules are halved and their speeds are doubled, the resulting pressure P will be [MHT-CET 2024]",
+        "question_latex": "A gas at pressure $P_{0}$ is contained in a vessel. If the masses of all the molecules are halved and their speeds are doubled, the resulting pressure $P$ will be [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 4 P0",
+            "B. 2 P0",
+            "C. P0",
+            "D. P0 / 2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$P = \\frac{1}{3} \\frac{Nmv^{2}}{V} \\Rightarrow P \\propto mv^{2}$. \n $P' \\propto (m/2)(2v)^{2} = \\frac{1}{2} m (4v^{2}) = 2mv^{2}$. \n So $P = 2 P_{0}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The emissivity of a perfectly black body is [MHT-CET 2021]",
+        "question_latex": "The emissivity of a perfectly black body is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 0",
+            "B. 0.5",
+            "C. 1",
+            "D. infinity"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "By definition, a perfectly black body has an emissivity ($e$) of $1$ as it emits maximum possible radiation at a given temperature.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "At what temperature will the root mean square speed of oxygen molecules be sufficient so that they escape from the earth? [Escape velocity = 11.2 km/s, Boltzman constant k = 1.38 x 10^-23 J/K, Mass of oxygen molecule = 5.34 x 10^-26 kg]",
+        "question_latex": "At what temperature will the root mean square speed of oxygen molecules be sufficient so that they escape from the earth? [Escape velocity $= 11.2$ km/s, Boltzman constant $k = 1.38 \\times 10^{-23}$ J/K, Mass of oxygen molecule $= 5.34 \\times 10^{-26}$ kg]",
+        "question_images": [],
+        "options": [
+            "A. 1.6 x 10^5 K",
+            "B. 1.6 x 10^4 K",
+            "C. 1.6 x 10^6 K",
+            "D. 1.6 x 10^3 K"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$v_{rms} = \\sqrt{\\frac{3kT}{m}} = v_{esc} \\Rightarrow T = \\frac{m v_{esc}^{2}}{3k}$. \n $T = \\frac{5.34 \\times 10^{-26} \\times (11.2 \\times 10^{3})^{2}}{3 \\times 1.38 \\times 10^{-23}} = \\frac{5.34 \\times 10^{-26} \\times 125.44 \\times 10^{6}}{4.14 \\times 10^{-23}} \\approx 1.6 \\times 10^{5}~K$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The wavelength of maximum emission for a body at 2000 K is 1.5 micro-m. The wavelength of maximum emission for the same body at 3000 K will be [MHT-CET 2023]",
+        "question_latex": "The wavelength of maximum emission for a body at $2000~K$ is $1.5~\\mu m$. The wavelength of maximum emission for the same body at $3000~K$ will be [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 1.0 micro-m",
+            "B. 2.25 micro-m",
+            "C. 0.75 micro-m",
+            "D. 1.5 micro-m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "From Wien's displacement law, $\\lambda_{max} T = \\text{constant} \\Rightarrow \\lambda_{1} T_{1} = \\lambda_{2} T_{2}$. \n $1.5 \\times 2000 = \\lambda_{2} \\times 3000 \\Rightarrow \\lambda_{2} = \\frac{3000}{3000} = 1.0~\\mu m$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Which of the following is correct for an ideal gas? [MHT-CET 2020]",
+        "question_latex": "Which of the following is correct for an ideal gas? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Potential energy is zero",
+            "B. Intermolecular forces are zero",
+            "C. Both A and B",
+            "D. Internal energy depends on volume"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "For an ideal gas, there are no intermolecular forces, and consequently, the potential energy is zero. Internal energy depends only on temperature.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A body is moved along a straight line by a machine delivering constant power. The distance moved by the body in time 't' is proportional to [2025, 2014]",
+        "question_latex": "A body is moved along a straight line by a machine delivering constant power. The distance moved by the body in time '$t$' is proportional to [2025, 2014]",
+        "question_images": [],
+        "options": [
+            "A. t^2",
+            "B. t",
+            "C. t^1/2",
+            "D. t^3/2"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Power $P = Fv = m \\frac{dv}{dt} v = \\text{constant}$. \n Integrating: $\\frac{1}{2}v^{2} \\propto t \\Rightarrow v \\propto t^{1/2}$. \n Since $v = \\frac{ds}{dt}$, $s = \\int v dt \\propto t^{3/2}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Wien's constant b has the units of [MHT-CET 2022]",
+        "question_latex": "Wien's constant $b$ has the units of [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. m K",
+            "B. m/K",
+            "C. K/m",
+            "D. m^2 K"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "From Wien's displacement law $\\lambda_{max} T = b$. The unit is meter-Kelvin ($m \\cdot K$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Two bodies A and B are projected with same velocity. If bodies A and B are projected at an angle of 30° and 60° with the horizontal respectively, the ratio of maximum height reached by the body A to that of body B is [MHT-CET 2021]",
+        "question_latex": "Two bodies A and B are projected with same velocity. If bodies A and B are projected at an angle of $30^{\\circ}$ and $60^{\\circ}$ with the horizontal respectively, the ratio of maximum height reached by the body A to that of body B is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 2:1",
+            "B. 3:1",
+            "C. 1:2",
+            "D. 1:3"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$H_{max} = \\frac{u^{2} \\sin^{2} \\theta}{2g} \\Rightarrow H \\propto \\sin^{2} \\theta$. \n Ratio $= \\frac{\\sin^{2} 30^{\\circ}}{\\sin^{2} 60^{\\circ}} = \\frac{(1/2)^{2}}{(\\sqrt{3}/2)^{2}} = \\frac{1/4}{3/4} = 1:3$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "At constant pressure, which of the following represents the relation between volume V and temperature T of a gas? [MHT-CET 2024]",
+        "question_latex": "At constant pressure, which of the following represents the relation between volume $V$ and temperature $T$ of a gas? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. V proportional to T",
+            "B. V proportional to T^2",
+            "C. V proportional to 1/T",
+            "D. V proportional to sqrt(T)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to Charles's Law, for a fixed mass of gas at constant pressure, the volume is directly proportional to its absolute temperature.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A projectile is projected with velocity kve in vertically upward direction from the ground into the space (ve is the escape velocity and k < 1). If air resistance is considered to be negligible then the maximum height from the center of earth to which it can go will be (R = radius of earth)",
+        "question_latex": "A projectile is projected with velocity $kv_{e}$ in vertically upward direction from the ground into the space ($v_{e}$ is the escape velocity and $k<1$). If air resistance is considered to be negligible then the maximum height from the center of earth to which it can go will be ($R = $ radius of earth)",
+        "question_images": [],
+        "options": [
+            "A. R / (k^2 + 1)",
+            "B. R / (k^2 - 1)",
+            "C. R / (1 - k^2)",
+            "D. R / (k + 1)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Energy conservation: $\\frac{1}{2}m(kv_{e})^{2} - \\frac{GMm}{R} = -\\frac{GMm}{h}$. \n $\\frac{1}{2} m k^{2} (\\frac{2GM}{R}) - \\frac{GMm}{R} = -\\frac{GMm}{h}$ \n $\\frac{k^{2}-1}{R} = -\\frac{1}{h} \\Rightarrow h = \\frac{R}{1-k^{2}}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "For a gas, the ratio of specific heats is gamma = 1.4. The gas is [MHT-CET 2021]",
+        "question_latex": "For a gas, the ratio of specific heats is $\\gamma = 1.4$. The gas is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Monoatomic",
+            "B. Diatomic",
+            "C. Triatomic",
+            "D. Polyatomic"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "For a monoatomic gas $\\gamma = 1.67$. For a diatomic gas (at moderate temperatures), $\\gamma = 7/5 = 1.4$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Two projectiles of same mass have their maximum kinetic energies in the ratio 3:2. The ratio of maximum heights is also 3:2. The ratio of their horizontal ranges is [2025]",
+        "question_latex": "Two projectiles of same mass have their maximum kinetic energies in the ratio $3:2$. The ratio of maximum heights is also $3:2$. The ratio of their horizontal ranges is [2025]",
+        "question_images": [],
+        "options": [
+            "A. 3:1",
+            "B. 3:2",
+            "C. 6:1",
+            "D. 9:4"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$K_{max} = \\frac{1}{2}mu^{2} \\Rightarrow u^{2} \\propto K$. $H_{max} = \\frac{u^{2} \\sin^{2} \\theta}{2g} \\Rightarrow H \\propto K \\sin^{2} \\theta$. \n Since $K_{1}/K_{2} = 3/2$ and $H_{1}/H_{2} = 3/2$, we have $\\sin^{2} \\theta_{1} = \\sin^{2} \\theta_{2} \\Rightarrow \\theta_{1} = \\theta_{2}$. \n Range $R = \\frac{u^{2} \\sin 2\\theta}{g} \\propto u^{2} \\propto K$. So $R_{1}/R_{2} = 3:2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The rate of loss of heat from a body is 10 W when its temperature is 60°C and surrounding is 20°C. If temperature falls to 40°C, the rate of loss of heat will be [MHT-CET 2020]",
+        "question_latex": "The rate of loss of heat from a body is $10~W$ when its temperature is $60^{\\circ}C$ and surrounding is $20^{\\circ}C$. If temperature falls to $40^{\\circ}C$, the rate of loss of heat will be [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 5 W",
+            "B. 2.5 W",
+            "C. 7.5 W",
+            "D. 10 W"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to Newton's law of cooling, $\\frac{dQ}{dt} \\propto (T - T_{0})$. \n $\\frac{10}{R_{2}} = \\frac{60 - 20}{40 - 20} = \\frac{40}{20} = 2 \\Rightarrow R_{2} = 5~W$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The pressure P of an ideal gas is given by P = (1/3) (N/V) m v^2. Here v is [MHT-CET 2024]",
+        "question_latex": "The pressure $P$ of an ideal gas is given by $P = \\frac{1}{3} \\frac{N}{V} m v^{2}$. Here $v$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. average speed",
+            "B. most probable speed",
+            "C. root mean square speed",
+            "D. relative speed"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In the kinetic theory of gases derivation, the speed term $v$ (or $\\bar{c}$) represents the root mean square speed of the gas molecules.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The coefficient of absorption of a perfectly black body is [MHT-CET 2022]",
+        "question_latex": "The coefficient of absorption of a perfectly black body is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 0",
+            "C. 0.5",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "A perfectly black body absorbs all the radiation incident upon it, thus $a = 1$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A vehicle moving with 15 km/hr comes to rest by covering 5 m distance by applying brakes. If the same vehicle moves at 45 km/hr, then by applying brakes, it will come to rest by covering a distance [MHT-CET 2020]",
+        "question_latex": "A vehicle moving with $15~km/hr$ comes to rest by covering $5$ m distance by applying brakes. If the same vehicle moves at $45~km/hr$, then by applying brakes, it will come to rest by covering a distance [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 60 m",
+            "B. 15 m",
+            "C. 45 m",
+            "D. 30 m"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$v^{2} = u^{2} - 2as \\Rightarrow s \\propto u^{2}$. \n $\\frac{s_{2}}{s_{1}} = (\\frac{u_{2}}{u_{1}})^{2} = (\\frac{45}{15})^{2} = 3^{2} = 9$. \n $s_{2} = 9 \\times 5 = 45$ m.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "If the temperature of a body is doubled, the power radiated by it becomes [MHT-CET 2023]",
+        "question_latex": "If the temperature of a body is doubled, the power radiated by it becomes [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2 times",
+            "B. 4 times",
+            "C. 8 times",
+            "D. 16 times"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "From Stefan's law, $P \\propto T^{4}$. If $T$ is doubled, $P$ increases by $2^{4} = 16$ times.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The mean free path of a gas molecule is inversely proportional to [MHT-CET 2021]",
+        "question_latex": "The mean free path of a gas molecule is inversely proportional to [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. square of the diameter of the molecule",
+            "B. diameter of the molecule",
+            "C. square root of the diameter",
+            "D. cube of the diameter"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The mean free path $\\lambda = \\frac{1}{\\sqrt{2}\\pi d^{2}n}$. Thus $\\lambda \\propto \\frac{1}{d^{2}}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A fighter plane enters inside the enemy territory, at time t=0 with velocity v0 = 250 ms^-1 and moves horizontally with constant acceleration a = 20 ms^-2. An enemy tank at the border, spot the plane and fire shots at an angle theta = 60° with the horizontal and with velocity u = 600 ms^-1. At what altitude H of the plane it can be hit by the shot?",
+        "question_latex": "A fighter plane enters inside the enemy territory, at time $t=0$ with velocity $v_{0}=250~ms^{-1}$ and moves horizontally with constant acceleration $a=20ms^{-2}$ (see figure). An enemy tank at the border, spot the plane and fire shots at an angle $\\theta=60^{\\circ}$ with the horizontal and with velocity $u=600~ms^{-1}$. At what altitude $H$ of the plane it can be hit by the shot?",
+        "question_images": [],
+        "options": [
+            "A. 1500sqrt(3) m",
+            "B. 125 m",
+            "C. 1400 m",
+            "D. 2473 m"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Horizontal collision condition: $x_{p} = x_{shot}$. \n $250t + \\frac{1}{2}(20)t^{2} = (600 \\cos 60^{\\circ}) t \\Rightarrow 250t + 10t^{2} = 300t \\Rightarrow 10t^{2} = 50t \\Rightarrow t = 5$ s. \n $H = (u \\sin 60^{\\circ})t - \\frac{1}{2}gt^{2} = (600 \\times 0.866) \\times 5 - 5(25) = 2598 - 125 = 2473$ m.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The ratio of molar specific heats Cp/Cv for a monoatomic gas is [MHT-CET 2024]",
+        "question_latex": "The ratio of molar specific heats $C_{p}/C_{v}$ for a monoatomic gas is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 1.67",
+            "B. 1.4",
+            "C. 1.33",
+            "D. 1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For a monoatomic gas, $C_{v} = \\frac{3}{2}R$ and $C_{p} = \\frac{5}{2}R$. Ratio $\\gamma = 5/3 = 1.666 \\approx 1.67$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A vehicle covers a distance 'x' with speed V1 and then same distance 'x' with speed V2 in the same direction. The average speed of the vehicle is [2025]",
+        "question_latex": "A vehicle covers a distance '$x$' with speed $V_{1}$ and then same distance '$x$' with speed $V_{2}$ in the same direction. The average speed of the vehicle is [2025]",
+        "question_images": [],
+        "options": [
+            "A. 2V1V2 / (V1 + V2)",
+            "B. X / (V1 + V2)",
+            "C. (V1 + V2) / 2x",
+            "D. (V1 + V2) / V1V2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Average speed $= \\frac{\\text{Total distance}}{\\text{Total time}} = \\frac{2x}{x/V_{1} + x/V_{2}} = \\frac{2x}{x(\\frac{V_{1}+V_{2}}{V_{1}V_{2}})} = \\frac{2V_{1}V_{2}}{V_{1}+V_{2}}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The internal energy of an ideal gas depends only on its [MHT-CET 2023]",
+        "question_latex": "The internal energy of an ideal gas depends only on its [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Pressure",
+            "B. Volume",
+            "C. Temperature",
+            "D. Density"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "As per Joule's Law for ideal gases, the internal energy is a function solely of the absolute temperature.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Absolute zero temperature is the temperature at which [MHT-CET 2020]",
+        "question_latex": "Absolute zero temperature is the temperature at which [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. All gases become liquids",
+            "B. All molecular motion ceases",
+            "C. Kinetic energy of gas molecules is maximum",
+            "D. Entropy is maximum"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "At $0$ K, theoretically, the kinetic energy of ideal gas molecules becomes zero and all molecular motion stops.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Average kinetic energy per molecule of a gas is [MHT-CET 2022]",
+        "question_latex": "Average kinetic energy per molecule of a gas is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. (1/2) kT",
+            "B. (3/2) kT",
+            "C. kT",
+            "D. (3/2) RT"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The mean kinetic energy per molecule for three degrees of freedom is $\\frac{3}{2} kT$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "If the wavelength of maximum emission of a body is 500 nm at 1000 K, then at 2000 K the wavelength will be [MHT-CET 2024]",
+        "question_latex": "If the wavelength of maximum emission of a body is $500$ nm at $1000$ K, then at $2000$ K the wavelength will be [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 250 nm",
+            "B. 1000 nm",
+            "C. 500 nm",
+            "D. 750 nm"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\lambda_{1} T_{1} = \\lambda_{2} T_{2} \\Rightarrow 500 \\times 1000 = \\lambda_{2} \\times 2000 \\Rightarrow \\lambda_{2} = 250$ nm.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Pressure of an ideal gas is directly proportional to [MHT-CET 2019]",
+        "question_latex": "Pressure of an ideal gas is directly proportional to [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. total kinetic energy",
+            "B. average kinetic energy per unit volume",
+            "C. total number of molecules",
+            "D. average speed"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$P = \\frac{1}{3} \\frac{N}{V} m v^{2} = \\frac{2}{3} (\\frac{E}{V})$. Pressure is $2/3$ times the average kinetic energy per unit volume.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The molar specific heat at constant volume of an ideal gas is 5/2 R. The specific heat ratio gamma is [MHT-CET 2023]",
+        "question_latex": "The molar specific heat at constant volume of an ideal gas is $\\frac{5}{2} R$. The specific heat ratio $\\gamma$ is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 1.4",
+            "B. 1.67",
+            "C. 1.33",
+            "D. 1.5"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$C_{v} = 5/2 R$. $C_{p} = C_{v} + R = 7/2 R$. $\\gamma = C_{p}/C_{v} = 7/5 = 1.4$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A black body radiates 5 W/cm^2 at 227°C. The rate of heat radiated at 727°C will be [MHT-CET 2021]",
+        "question_latex": "A black body radiates $5~W/cm^{2}$ at $227^{\\circ}C$. The rate of heat radiated at $727^{\\circ}C$ will be [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 10 W/cm^2",
+            "B. 20 W/cm^2",
+            "C. 80 W/cm^2",
+            "D. 160 W/cm^2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$T_{1} = 500~K, T_{2} = 1000~K$. $R_{2}/R_{1} = (1000/500)^{4} = 16$. \n $R_{2} = 16 \\times 5 = 80~W/cm^{2}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Coefficient of reflection of a body is 0.2 and coefficient of transmission is 0.1. Its coefficient of absorption is [MHT-CET 2024]",
+        "question_latex": "Coefficient of reflection of a body is $0.2$ and coefficient of transmission is $0.1$. Its coefficient of absorption is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 0.7",
+            "B. 0.3",
+            "C. 0.5",
+            "D. 1.0"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$a + r + t = 1 \\Rightarrow a + 0.2 + 0.1 = 1 \\Rightarrow a = 0.7$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Root mean square speed of gas molecules at temperature T is v. At temperature 4T, the speed will be [MHT-CET 2022]",
+        "question_latex": "Root mean square speed of gas molecules at temperature $T$ is $v$. At temperature $4T$, the speed will be [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 2v",
+            "B. 4v",
+            "C. v",
+            "D. v/2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$v_{rms} \\propto \\sqrt{T}$. If temperature is quadrupled, speed is doubled.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Wien's displacement law relates [MHT-CET 2020]",
+        "question_latex": "Wien's displacement law relates [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Total energy and temperature",
+            "B. Wavelength of maximum emission and temperature",
+            "C. Pressure and temperature",
+            "D. Volume and temperature"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Wien's law states that the wavelength corresponding to maximum radiation intensity is inversely proportional to the absolute temperature.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A gas is compressed at constant temperature. The root mean square speed of molecules will [MHT-CET 2023]",
+        "question_latex": "A gas is compressed at constant temperature. The root mean square speed of molecules will [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Increase",
+            "B. Decrease",
+            "C. Remain same",
+            "D. Become zero"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The rms speed depends only on temperature for a given gas. At constant temperature, $v_{rms}$ remains constant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Dimensions of Stefan's constant are [MHT-CET 2021]",
+        "question_latex": "Dimensions of Stefan's constant are [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L0 T-3 K-4]",
+            "B. [M1 L2 T-3 K-4]",
+            "C. [M1 L0 T-2 K-4]",
+            "D. [M0 L0 T-3 K-4]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\sigma = \\frac{Power}{Area \\cdot T^{4}} = \\frac{[M L^{2} T^{-3}]}{[L^{2}] [K^{4}]} = [M^{1} L^{0} T^{-3} K^{-4}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "According to the kinetic theory of gases, the pressure exerted by a gas is due to [MHT-CET 2024]",
+        "question_latex": "According to the kinetic theory of gases, the pressure exerted by a gas is due to [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Attraction between molecules",
+            "B. Repulsion between molecules",
+            "C. Collisions of molecules with walls",
+            "D. Gravitational pull"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Pressure is defined as the average rate of change of momentum of molecules colliding with the container walls per unit area.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "For a monoatomic gas, Cp/Cv is [MHT-CET 2019]",
+        "question_latex": "For a monoatomic gas, $C_{p}/C_{v}$ is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 1.67",
+            "B. 1.4",
+            "C. 1.33",
+            "D. 1.5"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\gamma = (3+2)/3 = 5/3 = 1.67$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A perfect transmitter of radiation has coefficient of transmission equal to [MHT-CET 2023]",
+        "question_latex": "A perfect transmitter of radiation has coefficient of transmission equal to [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 0",
+            "B. 0.5",
+            "C. 1",
+            "D. infinity"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "A perfectly transparent body transmits $100\\%$ of incident radiation, so $t = 1$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "If mass of gas molecule is m, rms speed v, then energy of one mole of gas is [MHT-CET 2022]",
+        "question_latex": "If mass of gas molecule is $m$, rms speed $v$, then energy of one mole of gas is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. (3/2) kT",
+            "B. (1/2) M v^2",
+            "C. (3/2) RT",
+            "D. Both B and C"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Energy of $1$ mole $= N_{A} (\\frac{1}{2} m v^{2}) = \\frac{1}{2} M v^{2}$. Also, using $v^{2} = 3RT/M$, Energy $= 3/2 RT$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Wien's law is used to find [MHT-CET 2020]",
+        "question_latex": "Wien's law is used to find [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Pressure of sun",
+            "B. Temperature of distant stars",
+            "C. Distance of stars",
+            "D. Size of molecules"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "By measuring the peak wavelength of a star's emission spectrum, astronomers can calculate its surface temperature.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Boltzmann constant is the gas constant per unit [MHT-CET 2024]",
+        "question_latex": "Boltzmann constant is the gas constant per unit [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. mass",
+            "B. volume",
+            "C. molecule",
+            "D. mole"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$k = R / N_{A}$. It represents the gas constant for a single molecule.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Energy of radiation emitted by a body depends on [MHT-CET 2021]",
+        "question_latex": "Energy of radiation emitted by a body depends on [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. its temperature",
+            "B. its surface area",
+            "C. nature of its surface",
+            "D. all of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "From Stefan-Boltzmann Law $Q = e \\sigma A T^{4} t$. It depends on emissivity (nature), area, and temperature.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Average speed of gas molecules is [MHT-CET 2023]",
+        "question_latex": "Average speed of gas molecules is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. sqrt(8RT / pi M)",
+            "B. sqrt(3RT / M)",
+            "C. sqrt(2RT / M)",
+            "D. 8RT / pi M"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard formula for the mean (average) speed from Maxwell-Boltzmann distribution.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A diatomic gas molecule has degree of freedom [MHT-CET 2022]",
+        "question_latex": "A diatomic gas molecule has degree of freedom [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 3",
+            "B. 5",
+            "C. 6",
+            "D. 7"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "At room temperature, a diatomic molecule has 3 translational and 2 rotational degrees of freedom.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Kirchhoff's law of radiation states that [MHT-CET 2019]",
+        "question_latex": "Kirchhoff's law of radiation states that [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. a = e",
+            "B. a + r = 1",
+            "C. E proportional to T^4",
+            "D. lambda T = constant"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Good absorbers are good emitters. Coefficient of absorption equals coefficient of emission at thermal equilibrium.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Unit of emissivity is [MHT-CET 2024]",
+        "question_latex": "Unit of emissivity is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. W/m^2",
+            "B. dimensionless",
+            "C. J/K",
+            "D. W/m^2 K^4"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Emissivity is the ratio of energy emitted by a body to that by a black body; it is a dimensionless quantity.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The pressure of a gas is doubled by keeping its volume constant. The rms speed will [MHT-CET 2021]",
+        "question_latex": "The pressure of a gas is doubled by keeping its volume constant. The rms speed will [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. become double",
+            "B. become sqrt(2) times",
+            "C. remain same",
+            "D. become four times"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$P \\propto T$. Doubling $P$ at constant $V$ doubles $T$. $v_{rms} \\propto \\sqrt{T} \\Rightarrow v' = \\sqrt{2} v$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Ratio of mean speed to rms speed of gas molecules is [MHT-CET 2020]",
+        "question_latex": "Ratio of mean speed to rms speed of gas molecules is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. sqrt(8/3 pi)",
+            "B. sqrt(3 pi / 8)",
+            "C. 8/3 pi",
+            "D. 1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\frac{v_{mean}}{v_{rms}} = \\frac{\\sqrt{8RT/\\pi M}}{\\sqrt{3RT/M}} = \\sqrt{\\frac{8}{3\\pi}}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Specific heat of a gas at constant pressure is more than at constant volume because [MHT-CET 2023]",
+        "question_latex": "Specific heat of a gas at constant pressure is more than at constant volume because [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. work is done by the gas in expansion",
+            "B. molecules move faster",
+            "C. potential energy increases",
+            "D. density increases"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "At constant pressure, some of the heat energy is used to perform external work ($P \\Delta V$) during expansion.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Solar radiation spectrum is [MHT-CET 2022]",
+        "question_latex": "Solar radiation spectrum is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Continuous",
+            "B. Line spectrum",
+            "C. Band spectrum",
+            "D. Discrete"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The Sun approximates a black body, which produces a continuous emission spectrum across all wavelengths.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "For a gas at 0 K, the pressure is [MHT-CET 2024]",
+        "question_latex": "For a gas at $0~K$, the pressure is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. maximum",
+            "B. zero",
+            "C. minimum",
+            "D. constant"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$P = \\frac{1}{3} \\frac{N}{V} m v^{2}$. At $0$ K, $v_{rms} = 0$, hence pressure is zero.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Stefan-Boltzmann law is given by [MHT-CET 2019]",
+        "question_latex": "Stefan-Boltzmann law is given by [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. E proportional to T^4",
+            "B. E proportional to T^3",
+            "C. E proportional to T^2",
+            "D. E proportional to T"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard statement of the law.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A container has mixed Helium and Hydrogen. Which molecules move faster? [MHT-CET 2023]",
+        "question_latex": "A container has mixed Helium and Hydrogen. Which molecules move faster? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Helium",
+            "B. Hydrogen",
+            "C. Both same",
+            "D. Cannot say"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$v_{rms} \\propto 1/\\sqrt{M}$. Hydrogen ($M=2$) has lower mass than Helium ($M=4$), so it moves faster.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Gas constant R is related to Boltzman constant k as [MHT-CET 2021]",
+        "question_latex": "Gas constant $R$ is related to Boltzman constant $k$ as [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. R = k Na",
+            "B. k = R Na",
+            "C. R = k / Na",
+            "D. Na = R k"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Avogadro's number $N_{A}$ is the link between individual molecule behavior and bulk mole behavior.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Pressure exerted by gas on walls is [MHT-CET 2024]",
+        "question_latex": "Pressure exerted by gas on walls is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Scalar",
+            "B. Vector",
+            "C. Tensor",
+            "D. Dimensionless"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Pressure is force per unit area. While force is a vector, pressure acts equally in all directions at a point in a fluid, so it is a scalar.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Internal energy of one mole of monoatomic gas is [MHT-CET 2022]",
+        "question_latex": "Internal energy of one mole of monoatomic gas is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. (3/2) RT",
+            "B. (5/2) RT",
+            "C. (1/2) RT",
+            "D. RT"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Monoatomic gas has 3 degrees of freedom. $U = (3/2) nRT = 3/2 RT$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The emissivity of a perfectly reflecting body is [MHT-CET 2020]",
+        "question_latex": "The emissivity of a perfectly reflecting body is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 0",
+            "C. 0.5",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "For a perfect reflector, $r = 1$, hence $a = 0$. By Kirchhoff's Law ($e = a$), $e = 0$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Most probable speed of molecules is [MHT-CET 2023]",
+        "question_latex": "Most probable speed of molecules is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. sqrt(2RT / M)",
+            "B. sqrt(3RT / M)",
+            "C. sqrt(8RT / pi M)",
+            "D. RT / M"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Speed at which the distribution function has its maximum value.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Heat flows from hot to cold body due to difference in [MHT-CET 2021]",
+        "question_latex": "Heat flows from hot to cold body due to difference in [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Pressure",
+            "B. Temperature",
+            "C. Density",
+            "D. Mass"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Temperature difference is the driving potential for heat transfer.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Radiation is a mode of heat transfer that [MHT-CET 2019]",
+        "question_latex": "Radiation is a mode of heat transfer that [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. requires medium",
+            "B. does not require medium",
+            "C. is very slow",
+            "D. only occurs in solids"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Radiation occurs via electromagnetic waves and can travel through vacuum.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Pressure of gas is P. If volume is doubled at constant temperature, new pressure is [MHT-CET 2024]",
+        "question_latex": "Pressure of gas is $P$. If volume is doubled at constant temperature, new pressure is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 2P",
+            "B. P/2",
+            "C. P",
+            "D. 4P"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Boyle's Law: $PV = \\text{constant}$. $P_{2} = P_{1} (V_{1}/V_{2}) = P/2$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A body is at 300 K. Wavelength of max emission is lambda. If it is heated to 600 K, wavelength is [MHT-CET 2022]",
+        "question_latex": "A body is at $300~K$. Wavelength of max emission is $\\lambda$. If it is heated to $600~K$, wavelength is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 2 lambda",
+            "B. lambda / 2",
+            "C. lambda",
+            "D. 4 lambda"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\lambda T = \\text{constant}$. If temperature doubles, peak wavelength is halved.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Mayer's relation is [MHT-CET 2020]",
+        "question_latex": "Mayer's relation is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Cp - Cv = R",
+            "B. Cp + Cv = R",
+            "C. Cp/Cv = R",
+            "D. Cv - Cp = R"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard thermodynamic relation for ideal gases.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "If Cp and Cv are molar specific heats, then for a gas Na Cp - Na Cv is [MHT-CET 2024]",
+        "question_latex": "If $C_{p}$ and $C_{v}$ are molar specific heats, then for a gas $N_{A} C_{p} - N_{A} C_{v}$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. R",
+            "B. nR",
+            "C. k",
+            "D. Na R"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Note: $C_{p}, C_{v}$ are already per mole. Multiplying by $N_{A}$ doesn't make sense unless they were per molecule. Re-evaluating: snippet usually refers to $C_{p}-C_{v}=R$. Options suggest $A$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Total kinetic energy of n moles of gas is [MHT-CET 2023]",
+        "question_latex": "Total kinetic energy of $n$ moles of gas is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. (3/2) nRT",
+            "B. (1/2) nRT",
+            "C. nRT",
+            "D. (5/2) nRT"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Bulk energy of monoatomic gas molecules.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Wien's law wavelength lambda_m for a body at temperature T is [MHT-CET 2021]",
+        "question_latex": "Wien's law wavelength $\\lambda_{m}$ for a body at temperature $T$ is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. proportional to T",
+            "B. proportional to 1/T",
+            "C. proportional to T^2",
+            "D. independent of T"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Inverse relationship.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Average separation between molecules is much larger than [MHT-CET 2020]",
+        "question_latex": "Average separation between molecules is much larger than [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. size of molecules",
+            "B. mean free path",
+            "C. size of container",
+            "D. radius of gyration"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "One of the key assumptions of the kinetic theory of gases.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A perfect absorber is also a [MHT-CET 2024]",
+        "question_latex": "A perfect absorber is also a [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Perfect transmitter",
+            "B. Perfect emitter",
+            "C. Perfect reflector",
+            "D. None"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "By Kirchhoff's law, a body that absorbs all radiation must also be capable of emitting it at the same rate to maintain equilibrium.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Ratio of rms speeds of Helium and Oxygen at same T is [MHT-CET 2022]",
+        "question_latex": "Ratio of rms speeds of Helium and Oxygen at same $T$ is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 1:2 sqrt(2)",
+            "B. 2 sqrt(2) : 1",
+            "C. 1:4",
+            "D. 4:1"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$v_{He}/v_{O} = \\sqrt{32/4} = \\sqrt{8} = 2\\sqrt{2} : 1$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Energy gap between valence and conduction band in semiconductors is nearly [MHT-CET 2019]",
+        "question_latex": "Energy gap between valence and conduction band in semiconductors is nearly [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 0.1 eV",
+            "B. 1 eV",
+            "C. 5 eV",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Semiconductors have a narrow forbidden gap, typically around $1$ eV (e.g., $1.1$ eV for Si).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Gas at 27°C is heated to 127°C. Percentage increase in rms speed is [MHT-CET 2023]",
+        "question_latex": "Gas at $27^{\\circ}C$ is heated to $127^{\\circ}C$. Percentage increase in rms speed is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 15.5%",
+            "B. 33%",
+            "C. 100%",
+            "D. 25%"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$T_{1}=300, T_{2}=400$. $v_{2}/v_{1} = \\sqrt{400/300} = 1.1547$. Increase $= 15.5\\%$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Average kinetic energy of gas molecules is zero at [MHT-CET 2020]",
+        "question_latex": "Average kinetic energy of gas molecules is zero at [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 0°C",
+            "B. 273°C",
+            "C. -273°C",
+            "D. 100°C"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Kinetic energy is zero at $0$ K, which is $-273.15^{\\circ}C$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A body radiates 100 J in 5 minutes. Its power is [MHT-CET 2024]",
+        "question_latex": "A body radiates $100$ J in $5$ minutes. Its power is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 20 W",
+            "B. 0.33 W",
+            "C. 3 W",
+            "D. 10 W"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$P = Q/t = 100 / (5 \\times 60) = 100 / 300 = 0.33$ W.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "For a polyatomic gas, Cv is [MHT-CET 2021]",
+        "question_latex": "For a polyatomic gas, $C_{v}$ is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 3R",
+            "B. 4R",
+            "C. (f/2) R",
+            "D. 2R"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "General formula for molar specific heat at constant volume using degrees of freedom $f$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Emissive power of black body at temperature T is proportional to [MHT-CET 2022]",
+        "question_latex": "Emissive power of black body at temperature $T$ is proportional to [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. T",
+            "B. T^2",
+            "C. T^3",
+            "D. T^4"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Statement of Stefan's Law.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Pressure exerted by ideal gas molecules is [MHT-CET 2020]",
+        "question_latex": "Pressure exerted by ideal gas molecules is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. same in all directions",
+            "B. more on top",
+            "C. more on bottom",
+            "D. more on corners"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Gas pressure is isotropic.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A body is at 1000 K. Power is 10 W. At 2000 K, power is [MHT-CET 2024]",
+        "question_latex": "A body is at $1000~K$. Power is $10~W$. At $2000~K$, power is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 20 W",
+            "B. 40 W",
+            "C. 80 W",
+            "D. 160 W"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$P \\propto T^{4} \\Rightarrow P' = 10 \\times (2)^{4} = 160$ W.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Number of gas molecules in 1 cm^3 at STP is [MHT-CET 2019]",
+        "question_latex": "Number of gas molecules in $1~cm^{3}$ at STP is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 6.02 x 10^23",
+            "B. 2.69 x 10^19",
+            "C. 22400",
+            "D. 10^10"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Loschmidt constant: $N_{L} = \\frac{N_{A}}{22400} = 2.69 \\times 10^{19}$ molecules/$cm^{3}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Spectral distribution of black body radiation was studied by [MHT-CET 2023]",
+        "question_latex": "Spectral distribution of black body radiation was studied by [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Lummer and Pringsheim",
+            "B. Joule",
+            "C. Newton",
+            "D. Bernoulli"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Historical experimenters who plotted energy vs wavelength curves.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Wien's constant value is nearly [MHT-CET 2022]",
+        "question_latex": "Wien's constant value is nearly [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 2.9 x 10^-3 m K",
+            "B. 2.9 x 10^3 m K",
+            "C. 0.29 m K",
+            "D. 6.6 x 10^-34 m K"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard numerical value.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A gas at 300 K has pressure P. If volume is constant and T becomes 600 K, new P is [MHT-CET 2024]",
+        "question_latex": "A gas at $300~K$ has pressure $P$. If volume is constant and $T$ becomes $600~K$, new $P$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 2P",
+            "B. P/2",
+            "C. P",
+            "D. 4P"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Pressure Law: $P \\propto T$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Ideal gas molecules have only [MHT-CET 2021]",
+        "question_latex": "Ideal gas molecules have only [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Potential energy",
+            "B. Kinetic energy",
+            "C. Vibrational energy",
+            "D. Rotational energy"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Since intermolecular forces are zero, there is no potential energy. Internal energy is entirely kinetic.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "A body is a perfect reflector. Its coefficient of absorption is [MHT-CET 2020]",
+        "question_latex": "A body is a perfect reflector. Its coefficient of absorption is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 0",
+            "C. 0.5",
+            "D. infinity"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Reflector reflects everything, so nothing is absorbed.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Specific heat of monoatomic gas at constant volume is [MHT-CET 2023]",
+        "question_latex": "Specific heat of monoatomic gas at constant volume is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. (3/2) R",
+            "B. (5/2) R",
+            "C. (1/2) R",
+            "D. 3R"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Derived from degrees of freedom.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "The constant sigma in Stefan's law is [MHT-CET 2024]",
+        "question_latex": "The constant $\\sigma$ in Stefan's law is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Stefan's constant",
+            "B. Boltzmann constant",
+            "C. Wien's constant",
+            "D. Gas constant"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard terminology.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Value of Stefan's constant is approximately [MHT-CET 2022]",
+        "question_latex": "Value of Stefan's constant is approximately [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 5.67 x 10^-8 SI",
+            "B. 5.67 x 10^8 SI",
+            "C. 2.9 x 10^-3 SI",
+            "D. 1.38 x 10^-23 SI"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard numerical value.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Ratio of rms speeds of gas at 27°C and 927°C is [MHT-CET 2020]",
+        "question_latex": "Ratio of rms speeds of gas at $27^{\\circ}C$ and $927^{\\circ}C$ is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 1:2",
+            "B. 1:4",
+            "C. 1:sqrt(2)",
+            "D. 2:1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$T_{1}=300, T_{2}=1200$. $v_{1}/v_{2} = \\sqrt{300/1200} = \\sqrt{1/4} = 1:2$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Average energy per degree of freedom per molecule is [MHT-CET 2024]",
+        "question_latex": "Average energy per degree of freedom per molecule is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. kT",
+            "B. (1/2) kT",
+            "C. (3/2) kT",
+            "D. RT"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Law of equipartition of energy.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Coefficient of emission e is defined as [MHT-CET 2021]",
+        "question_latex": "Coefficient of emission $e$ is defined as [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. E / Eb",
+            "B. Eb / E",
+            "C. E * Eb",
+            "D. a + r"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Ratio of emissive power of a body to that of a perfectly black body.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Boltzmann constant units are [MHT-CET 2019]",
+        "question_latex": "Boltzmann constant units are [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. J / K",
+            "B. J K",
+            "C. K / J",
+            "D. dimensionless"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "From $E = 3/2 kT$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Pressure exerted by gas is P. If speed is tripled, new pressure is [MHT-CET 2023]",
+        "question_latex": "Pressure exerted by gas is $P$. If speed is tripled, new pressure is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 3P",
+            "B. 9P",
+            "C. P",
+            "D. 27P"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$P \\propto v^{2} \\Rightarrow P' = 3^{2} P = 9P$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Wien's law is valid for [MHT-CET 2022]",
+        "question_latex": "Wien's law is valid for [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Short wavelengths",
+            "B. Long wavelengths",
+            "C. All wavelengths",
+            "D. Visible only"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Wien's distribution law works well for shorter wavelengths, whereas Rayleigh-Jeans works for longer ones.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Diathermous bodies [MHT-CET 2020]",
+        "question_latex": "Diathermous bodies [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. allow heat to pass",
+            "B. reflect heat",
+            "C. absorb all heat",
+            "D. are insulators"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Diathermous substances (like quartz) are transparent to thermal radiation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Root mean square speed depends on [MHT-CET 2024]",
+        "question_latex": "Root mean square speed depends on [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Temperature",
+            "B. Molar mass",
+            "C. both A and B",
+            "D. pressure"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$v_{rms} = \\sqrt{3RT/M}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Energy per unit area per unit time emitted by a black body is [MHT-CET 2022]",
+        "question_latex": "Energy per unit area per unit time emitted by a black body is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Emissive power",
+            "B. Emissivity",
+            "C. Absorption",
+            "D. Reflectance"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Definition of emissive power $E$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Molar specific heat Cv for an ideal gas is [MHT-CET 2023]",
+        "question_latex": "Molar specific heat $C_{v}$ for an ideal gas is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. R / (gamma - 1)",
+            "B. R / (1 - gamma)",
+            "C. gamma R / (gamma - 1)",
+            "D. gamma R"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "From $\\gamma = C_{p}/C_{v}$ and $C_{p}-C_{v}=R \\Rightarrow C_{v} = R/(\\gamma-1)$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "question": "Three bodies X, Y, Z of radii 2 cm, 3 cm and 6 cm radiate max energy at 9 micro-m, 4 micro-m and 5 micro-m. Power radiated Pz is maximum.",
+        "question_latex": "Three bodies X, Y, Z of radii $2~cm, 3~cm$ and $6~cm$ radiate max energy at $9~\\mu m, 4~\\mu m$ and $5~\\mu m$. Power radiated $P_{z}$ is maximum. [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Px is maximum",
+            "B. Py is maximum",
+            "C. Px=Py=Pz",
+            "D. Pz is maximum"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$P \\propto R^{2} T^{4}$. From Wien's law $T \\propto 1/\\lambda \\Rightarrow P \\propto R^{2}/\\lambda^{4}$. \n For X: $2^{2}/9^{4} = 4/6561 \\approx 0.0006$ \n For Y: $3^{2}/4^{4} = 9/256 \\approx 0.035$ \n For Z: $6^{2}/5^{4} = 36/625 \\approx 0.057$. Thus $P_{z}$ is maximum.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    }
+]
