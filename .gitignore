@@ -8,6 +8,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .env
+!.env.example
 build/
 dist/
 coverage/
@@ -16,6 +17,7 @@ coverage/
 __pycache__/
 *.pyc
 .env
+!.env.example
 venv/
 env/
 *.log
@@ -47,6 +49,10 @@ target/
 *.swp
 temp/
 tmp/
+
+# Backup directories
+*_backup/
+*_backup_logs/
 
 # Sensitive data (e.g., API keys, database credentials)
 # These should be handled with environment variables or a secure configuration management system

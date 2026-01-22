@@ -16,9 +16,6 @@ const ZIP_POSSIBLE_PATHS = [
 
 let _zipCache = { timestamp: 0, questions: null, sourcePath: null };
 
-/**
- * Normalizes a string key for comparison.
- */
 function normalizeKey(s) {
   if (s === null || s === undefined) return '';
   return String(s)
@@ -63,12 +60,9 @@ function findZipPath() {
         return p;
       }
     } catch (e) {
-      console.error(`❌ Error checking path ${p}: ${e.message}`);
+      // Skip this path
     }
   }
-  console.log(
-    '❌ findZipPath failed: No valid zip file found in possible paths.'
-  );
   return null;
 }
 
@@ -177,17 +171,17 @@ async function loadQuestionsFromZip({ force = false } = {}) {
           if (arrVal) pushArray(arrVal);
         }
       } catch (err) {
-        console.warn('Failed parse entry', entry.path, err?.message || err);
+        // console.warn('Failed parse entry', entry.path, err?.message || err); // Removed
       }
     }
 
     _zipCache = { timestamp: mtime, questions: all, sourcePath: zipPath };
     return { ok: true, zipPath, questions: all };
   } catch (err) {
-    console.error(
-      `[Zip Loader] ❌ Failed to open/parse ZIP file at path: ${zipPath}`
-    );
-    console.error(`[Zip Loader] Unzipper Error Details:`, err.message || err);
+    // console.error( // Removed
+    //   `[Zip Loader] ❌ Failed to open/parse ZIP file at path: ${zipPath}` // Removed
+    // ); // Removed
+    // console.error(`[Zip Loader] Unzipper Error Details:`, err.message || err); // Removed
 
     return {
       ok: false,
@@ -374,5 +368,4 @@ export {
   seededShuffle,
   loadQuestionsFromZip,
   matchesFiltersObj,
-  normalizeKey,
 };

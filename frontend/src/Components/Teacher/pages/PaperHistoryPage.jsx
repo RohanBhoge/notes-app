@@ -61,7 +61,7 @@ const PaperHistoryPage = ({ setActiveSection }) => {
         );
 
         if (response.data.success) {
-          let fetchedPapers = response.data.papers;
+          let fetchedPapers = response.data.data;
           console.log("[DEBUG] Fetched Papers:", fetchedPapers);
 
           if (searchTerm) {

@@ -30,43 +30,19 @@ const upload = multer({
 
 const router = Router();
 
-/**
- * Admin Routes
- */
-// Register new admin with optional logo upload
 router.post('/register', registerLimiter, upload.single('logo'), validate(adminRegisterSchema), adminRegister);
 
-// Admin login
 router.post('/login', loginLimiter, validate(adminLoginSchema), adminLogin);
 
-// Delete user by email
 router.delete('/delete-user', deleteUser);
 
-// Get all users
 router.get('/get-users', getAllUsersController);
-
-// Toggle user activation status
 router.post('/deactivate-user', handleToggleUserStatus);
-
-/**
- * Student Routes
- */
-// Register new student under an organization
 router.post('/register/student', registerLimiter, validate(studentRegisterSchema), studentRegister);
 
-// Student login
 router.post('/login/student', loginLimiter, validate(studentLoginSchema), studentLogin);
 
-/**
- * Token Management Routes
- */
-// Refresh access token
 router.post('/refresh', refresh);
-
-// Logout (clear cookies)
 router.post('/logout', logout);
 
 export default router;
-
-
-

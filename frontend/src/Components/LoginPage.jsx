@@ -17,16 +17,9 @@ const LoginPage = () => {
   // 💡 Auto-redirect if already logged in
   React.useEffect(() => {
     const token = localStorage.getItem("Admin_Token");
-    const role = localStorage.getItem("User_Role");
 
     if (token) {
-      if (role === "admin") {
-        navigate("/admin-dashboard", { replace: true });
-      } else if (role === "teacher") {
-        navigate("/teacher-dashboard", { replace: true });
-      } else {
-        navigate("/notes-dashboard", { replace: true });
-      }
+      navigate("/admin-dashboard", { replace: true });
     }
   }, [navigate]);
 
@@ -91,32 +84,17 @@ const LoginPage = () => {
     }
 
     // 💡 NEW: Save Class Name and Watermark
-    if (userData.user) {
-      if (userData.user.logo_url) {
-        localStorage.setItem("Class_Name", userData.user.class_name);
-        setLogo(userData.user.logo_url);
+    if (userData.data) {
+      if (userData.data.logo_url) {
+        localStorage.setItem("Class_Name", userData.data.class_name);
+        setLogo(userData.data.logo_url);
       }
-      if (userData.user.watermark) {
-        localStorage.setItem("Watermark", userData.user.watermark);
-        setWatermark(userData.user.watermark);
+      if (userData.data.watermark) {
+        localStorage.setItem("Watermark", userData.data.watermark);
+        setWatermark(userData.data.watermark);
       }
     }
-
-    // SAFE role-based routing
-    const role = userData.user?.role;
-
-    // Store role for persistent routing
-    if (role) {
-      localStorage.setItem("User_Role", role);
-    }
-
-    if (role === "admin") {
-      navigate("/admin-dashboard");
-    } else if (role === "teacher") {
-      navigate("/teacher-dashboard");
-    } else {
-      navigate("/notes-dashboard");
-    }
+    navigate("/admin-dashboard");
   };
 
   return (

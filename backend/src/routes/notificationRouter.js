@@ -9,11 +9,6 @@ import { createNotificationSchema } from '../validators/notificationValidator.js
 
 const notificationRouter = express.Router();
 
-/**
- * Notification Routes
- */
-
-// Create a new notification (Admin only)
 notificationRouter.post(
   '/store-notification',
   requireAuth,
@@ -21,7 +16,6 @@ notificationRouter.post(
   createNotification
 );
 
-// Get all notifications for the user's organization
 notificationRouter.get(
   '/getAll-notification',
   requireAuth,

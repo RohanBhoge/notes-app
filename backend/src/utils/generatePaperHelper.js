@@ -8,15 +8,12 @@ import {
 
 import { getS3ChapterFolder } from './s3PathHelper.js';
 
-// Base S3 URL construction
 const getS3Url = (exam, std, subj, chapterFolder, filename) => {
   if (!filename) return null;
   const bucketName = process.env.AWS_BUCKET_NAME;
   const region = process.env.AWS_REGION;
-  // Fallback if env vars missing (though they should be present)
   if (!bucketName || !region) return null;
 
-  // URL Encode parts just in case
   const pExam = encodeURIComponent(exam);
   const pStd = encodeURIComponent(std);
   const pSubj = encodeURIComponent(subj);
@@ -25,25 +22,6 @@ const getS3Url = (exam, std, subj, chapterFolder, filename) => {
 
   return `https://${bucketName}.s3.${region}.amazonaws.com/Questions_Image_Data/${pExam}/${pStd}/${pSubj}/${pChap}/${pFile}`;
 };
-
-/**
- * Handles error responses.
- */
-const handleError = (err, status, res) => {
-  console.error(`[Controller] 🚨 Error ${status} (${res.req.url}):`, err);
-  const errorMessage =
-    typeof err === 'string' ? err : err.message || 'Server error';
-
-  res.status(status).json({
-    error: errorMessage,
-    details: err.stack || null,
-    status: status,
-  });
-};
-
-/**
- * Generates a unique paper ID using timestamp to prevent duplicates.
- */
 function generatePaperId(exam, standard) {
   const examCode = String(exam || 'EX')
     .toUpperCase()
@@ -53,17 +31,12 @@ function generatePaperId(exam, standard) {
   const year = new Date().getFullYear();
   const stdCode = String(standard || 'XX').slice(0, 2);
 
-  // Use timestamp for uniqueness instead of random number
-  // Take last 6 digits of timestamp to keep ID reasonably short
   const timestamp = Date.now();
   const serial = String(timestamp).slice(-6);
 
   return `${examCode}-${year}-${stdCode}-${serial}`;
 }
 
-/**
- * Formats selected questions into paper content.
- */
 function formatPaperContent(selectedQuestions) {
   let paperQuestions = '';
   let paperAnswers = '';
@@ -90,16 +63,11 @@ function formatPaperContent(selectedQuestions) {
       solution: q.solution || '',
     });
 
-    // --- Inject Image URLs ---
-    // Extract metadata for path construction
     const meta = q._meta || {};
     const mExam = meta.exam || 'CET'; // Default or from Q
     const mStd = meta.standard || '11';
     const mSubj = meta.subject || 'Physics';
-    // Use the raw chapter name from JSON, let helper resolve it to "1. Motion in Plane"
     const mChapterName = q.chapter || meta.entryPath || '';
-
-    // Resolve the actual numbered folder name from S3 Helper
     const s3Folder = getS3ChapterFolder(mExam, mStd, mSubj, mChapterName);
 
     // Helpers to process arrays
@@ -135,9 +103,6 @@ function formatPaperContent(selectedQuestions) {
   };
 }
 
-/**
- * Selects questions based on criteria.
- */
 async function selectQuestions(params) {
   const {
     exam,
@@ -216,4 +181,4 @@ async function selectQuestions(params) {
   };
 }
 
-export { handleError, generatePaperId, formatPaperContent, selectQuestions };
+export { generatePaperId, formatPaperContent, selectQuestions };

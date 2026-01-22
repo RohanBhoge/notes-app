@@ -1,14 +1,10 @@
-/**
- * Validation middleware factory
- * Creates middleware to validate request body/query against Joi schema
- */
 export const validate = (schema, property = 'body') => {
     return (req, res, next) => {
         const dataToValidate = property === 'query' ? req.query : req.body;
 
         const { error, value } = schema.validate(dataToValidate, {
-            abortEarly: false, // Return all errors, not just the first one
-            stripUnknown: true // Remove unknown fields
+            abortEarly: false,
+            stripUnknown: true
         });
 
         if (error) {

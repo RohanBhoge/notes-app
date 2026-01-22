@@ -1,97 +1,66 @@
-import {
-  createOrganizationNotification,
-  getOrganizationNotifications,
-} from "../utils/helperFunctions.js";
 
-const createNotification = async (req, res) => {
+import * as notificationService from '../services/notificationService.js';
+import { ApiResponse } from '../utils/ApiResponse.js';
+import { ApiError } from '../utils/ApiError.js';
+import { asyncHandler } from '../middleware/errorHandler.js';
+
+export const createNotification = asyncHandler(async (req, res) => {
   const userId = req.user?.id;
-  const userRole = "admin";
+  const userRole = req.user?.role || 'admin';
 
-  if (userRole !== "admin") {
-    return res.status(403).json({
-      success: false,
-      message: "Forbidden: Only administrators can create notifications.",
-    });
+  if (userRole !== 'admin') {
+    throw ApiError.forbidden('Only administrators can create notifications');
   }
 
   const { content, event_date } = req.body;
 
-  if (!content) {
-    return res
-      .status(400)
-      .json({ success: false, message: "Notification content is required." });
-  }
-
-  if (!event_date) {
-    return res
-      .status(400)
-      .json({ success: false, message: "Event date is required." });
-  }
-
-  const dateObj = new Date(event_date);
-  if (isNaN(dateObj.getTime())) {
-    return res
-      .status(400)
-      .json({ success: false, message: "Invalid event date format." });
-  }
-
-  const validDate = String(event_date).split("T")[0];
-
-  console.log("[DEBUG] createNotification - validDate:", validDate);
-
   try {
-    const newId = await createOrganizationNotification(
+    const notification = await notificationService.createNotification(
       userId,
       content,
-      validDate
+      event_date
     );
 
-    res.status(201).json({
-      success: true,
-      message: "Notification created successfully.",
-      id: newId,
-      content: content,
-    });
+    res.status(201).json(
+      ApiResponse.success(
+        {
+          id: notification.id,
+          content: notification.content,
+        },
+        'Notification created successfully'
+      )
+    );
   } catch (error) {
-    console.error("API Error creating notification:", error);
-    res.status(500).json({
-      success: false,
-      message: "Internal server error during notification creation.",
-    });
+    if (error.message.includes('required') || error.message.includes('Invalid')) {
+      throw ApiError.badRequest(error.message);
+    }
+    throw error;
   }
-};
+});
 
-const getAllNotifications = async (req, res) => {
+export const getAllNotifications = asyncHandler(async (req, res) => {
   const userId = req.user?.id;
   const userRole = req.user?.role;
-  let adminUserId = userId;
-
-  if (userRole === "student") {
-    adminUserId = req.user.adminId;
-  }
-
-  if (!adminUserId) {
-    return res.status(401).json({
-      success: false,
-      message: "Unauthorized: User ID or Admin ID not found.",
-    });
-  }
+  const adminId = req.user?.adminId;
 
   try {
-    const notifications = await getOrganizationNotifications(adminUserId);
+    const notifications = await notificationService.getAllNotifications(
+      userId,
+      userRole,
+      adminId
+    );
 
-    res.status(200).json({
-      success: true,
-      count: notifications.length,
-      notifications: notifications,
-    });
+    res.json(
+      ApiResponse.success(
+        notifications,
+        'Notifications fetched successfully',
+        200
+      )
+    );
   } catch (error) {
-    console.error("API Error fetching notifications:", error);
-    res.status(500).json({
-      success: false,
-      message: "Internal server error while retrieving notifications.",
-    });
+    if (error.message.includes('not found')) {
+      throw ApiError.unauthorized(error.message);
+    }
+    throw error;
   }
-};
-
-export { createNotification, getAllNotifications };
+});

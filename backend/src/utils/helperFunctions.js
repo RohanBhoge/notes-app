@@ -4,9 +4,6 @@ import dotenv from 'dotenv';
 dotenv.config();
 const DB_NAME = process.env.DB_NAME || 'papergeneration';
 
-/**
- * Ensures necessary tables exist in the database.
- */
 async function ensureTablesExist() {
   let connection;
   try {
@@ -239,7 +236,6 @@ async function deleteUserByEmail(email) {
 
     return result.affectedRows; // 1 = deleted, 0 = not found
   } catch (error) {
-    console.error('DB Error in deleteUserByEmail:', error);
     throw error;
   } finally {
     if (connection) connection.release();
@@ -381,8 +377,7 @@ async function getAdminByUserName(userName) {
 
     return rows.length > 0 ? rows[0] : null;
   } catch (error) {
-    console.error('DB Error in getAdminByUserName:', error);
-    throw new Error('Database error during admin lookup.');
+    throw error;
   } finally {
     if (connection) connection.release();
   }
@@ -401,8 +396,7 @@ async function getStudentByEmail(email) {
 
     return rows.length > 0 ? rows[0] : null;
   } catch (error) {
-    console.error('DB Error in getStudentByEmail:', error);
-    throw new Error('Database error during student lookup.');
+    throw error;
   } finally {
     if (connection) connection.release();
   }
@@ -445,7 +439,6 @@ async function createStudent(
 
     return result.insertId;
   } catch (error) {
-    console.error('DB Error in createStudent:', error);
     throw error;
   } finally {
     if (connection) connection.release();
@@ -475,7 +468,6 @@ async function createOrganizationNotification(userId, content, eventDate) {
     const [result] = await connection.execute(insertQuery, values);
     return result.insertId;
   } catch (error) {
-    console.error('DB Error in createOrganizationNotification:', error);
     throw error;
   } finally {
     if (connection) connection.release();
@@ -509,7 +501,6 @@ async function getOrganizationNotifications(userId) {
 
     return rows;
   } catch (error) {
-    console.error('DB Error in getOrganizationNotifications:', error);
     throw error;
   } finally {
     if (connection) connection.release();
@@ -543,7 +534,6 @@ async function getAllUsers() {
     }
 
   } catch (error) {
-    console.error('DB Error in getAllUsers:', error);
     throw error;
   } finally {
     if (connection) connection.release();
@@ -595,8 +585,7 @@ async function toggleUserActivationStatus(userId) {
       newStatus: newStatusText,
     };
   } catch (error) {
-    console.error('DB Error in toggleUserActivationStatus:', error);
-    throw new Error('Database error during user status toggle.');
+    throw error;
   } finally {
     if (connection) connection.release();
   }
@@ -624,12 +613,10 @@ async function ensureUserColumnsExist() {
 
       if (rows.length > 0) {
         const colType = rows[0].DATA_TYPE;
-        console.log(`'${col.name}' column exists. Type: ${colType}`);
         // Basic type validation (loose)
         if (col.type === 'varchar' && colType !== 'varchar') {
-          // Handle specific alteration if needed, for now mainly focusing on 'logo' drop logic from original code
+          // Handle specific alteration if needed
           if (col.name === 'logo') {
-            console.log("Column type incorrect. Dropping...");
             await connection.execute(`ALTER TABLE users DROP COLUMN ${col.name}`);
             shouldAdd = true;
           }
@@ -639,7 +626,6 @@ async function ensureUserColumnsExist() {
       }
 
       if (shouldAdd) {
-        console.log(`Adding '${col.name}' column...`);
         let typeDef = '';
         if (col.type === 'varchar') typeDef = 'VARCHAR(255) DEFAULT NULL';
         if (col.type === 'datetime') typeDef = 'DATETIME DEFAULT NULL';
@@ -648,7 +634,6 @@ async function ensureUserColumnsExist() {
                   ALTER TABLE users
                   ADD COLUMN ${col.name} ${typeDef}
               `);
-        console.log(`'${col.name}' column added successfully.`);
       }
     }
 

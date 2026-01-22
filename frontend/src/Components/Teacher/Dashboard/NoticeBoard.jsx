@@ -26,7 +26,7 @@ const NoticeBoard = () => {
         console.log(response.data);
         if (response.data.success) {
           // Transform API data to match UI structure
-          const formattedNotices = response.data.notifications.map((note) => {
+          const formattedNotices = response.data.data.map((note) => {
             // Logic to determine if a notice is "New" (e.g., created in the last 3 days)
             const createdDate = new Date(note.created_at);
             const today = new Date();
@@ -82,11 +82,10 @@ const NoticeBoard = () => {
                   rotate: 0.5,
                   transition: { duration: 0.2 },
                 }}
-                className={`p-4 rounded-lg border-l-4 relative cursor-pointer ${
-                  notice.isNew
+                className={`p-4 rounded-lg border-l-4 relative cursor-pointer ${notice.isNew
                     ? "bg-blue-50 border-blue-500"
                     : "bg-slate-50 border-slate-300"
-                }`}
+                  }`}
               >
                 <div className="flex items-center justify-between">
                   <p className="text-slate-800 font-medium break-words">
