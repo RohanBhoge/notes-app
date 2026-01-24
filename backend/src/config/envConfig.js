@@ -19,7 +19,7 @@ const optionalEnvVars = {
     NODE_ENV: 'development',
     CORS_ORIGIN: 'http://localhost:5173',
     JWT_EXPIRES_IN: '15m',
-    REFRESH_TOKEN_EXPIRES_IN: '7d',
+    JWT_REFRESH_EXPIRES_IN: '7d',
     RATE_LIMIT_WINDOW_MS: '900000',
     RATE_LIMIT_MAX_REQUESTS: '100'
 };
@@ -62,7 +62,7 @@ export function getConfig() {
             secret: process.env.JWT_SECRET,
             refreshSecret: process.env.JWT_REFRESH_SECRET,
             expiresIn: process.env.JWT_EXPIRES_IN,
-            refreshExpiresIn: process.env.REFRESH_TOKEN_EXPIRES_IN
+            refreshExpiresIn: process.env.JWT_REFRESH_EXPIRES_IN
         },
         aws: {
             region: process.env.AWS_REGION,

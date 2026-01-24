@@ -7,20 +7,22 @@ import { getConfig } from '../config/envConfig.js';
 const config = getConfig();
 
 const setAuthCookies = (res, accessToken, refreshToken) => {
-  const isProduction = config.server.isProduction;
+  const isProduction = config.server.isProduction || process.env.NODE_ENV === 'production' || !!process.env.AWS_REGION;
+
+  const cookieOptions = {
+    httpOnly: true,
+    secure: isProduction ? true : false,
+    sameSite: isProduction ? 'none' : 'lax',
+  };
 
   res.cookie('access_token', accessToken, {
-    httpOnly: true,
-    secure: isProduction,
-    sameSite: 'strict',
-    maxAge: 15 * 60 * 1000 // 15 minutes
+    ...cookieOptions,
+    maxAge: 15 * 60 * 1000
   });
 
   res.cookie('refresh_token', refreshToken, {
-    httpOnly: true,
-    secure: isProduction,
-    sameSite: 'strict',
-    maxAge: 7 * 24 * 60 * 60 * 1000 // 7 days
+    ...cookieOptions,
+    maxAge: 7 * 24 * 60 * 60 * 1000
   });
 };
 
@@ -239,11 +241,13 @@ export const refresh = asyncHandler(async (req, res) => {
   try {
     const result = await authService.refreshAccessToken(refreshToken);
 
-    // Set new access token cookie
+    // Determine production status
+    const isProd = config.server.isProduction || process.env.NODE_ENV === 'production';
+
     res.cookie('access_token', result.accessToken, {
       httpOnly: true,
-      secure: config.server.isProduction,
-      sameSite: 'strict',
+      secure: isProd,
+      sameSite: isProd ? 'none' : 'lax',
       maxAge: 15 * 60 * 1000,
     });
 

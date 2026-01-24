@@ -7,7 +7,6 @@ import AuthContext from "../context/auth/AuthContext.jsx";
 const NoticeBoard = () => {
   const [notices, setNotices] = useState([]);
   const { adminAuthToken, BackendUrl } = useContext(AuthContext);
-  console.log(adminAuthToken);
 
   const token = "YOUR_BEARER_TOKEN_FROM_CONTEXT";
 
@@ -23,7 +22,6 @@ const NoticeBoard = () => {
           }
         );
 
-        console.log(response.data);
         if (response.data.success) {
           // Transform API data to match UI structure
           const formattedNotices = response.data.data.map((note) => {
@@ -83,8 +81,8 @@ const NoticeBoard = () => {
                   transition: { duration: 0.2 },
                 }}
                 className={`p-4 rounded-lg border-l-4 relative cursor-pointer ${notice.isNew
-                    ? "bg-blue-50 border-blue-500"
-                    : "bg-slate-50 border-slate-300"
+                  ? "bg-blue-50 border-blue-500"
+                  : "bg-slate-50 border-slate-300"
                   }`}
               >
                 <div className="flex items-center justify-between">

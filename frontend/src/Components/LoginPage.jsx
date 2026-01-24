@@ -36,22 +36,24 @@ const LoginPage = () => {
         password: userPassword,
       });
 
-      console.log("login response", response.data);
       return response.data;
     } catch (err) {
+      console.error("Login Error Details:", err);
       if (err.response) {
-        // Do NOT redirect on error. Stay on page to show error.
+        // Server responded with a status code outside of 2xx
         setError(
           err.response.data.error ||
           err.response.data.message ||
-          "Login failed. Please check your credentials."
+          `Login failed (${err.response.status}). Check credentials.`
         );
       } else if (err.request) {
+        // Request was made but no response received (CORS or Network Error)
+        console.error("No response received:", err.request);
         setError(
-          "No response from the server. Please check your network connection."
+          "Unable to reach the server. This could be a Network Error or CORS issue. Please check console logs."
         );
       } else {
-        setError("An unexpected error occurred during login.");
+        setError("An unexpected error occurred during login setup.");
       }
       return null;
     } finally {
@@ -73,9 +75,11 @@ const LoginPage = () => {
     }
 
     const userData = await loginUser(email, password);
-    console.log("userData", userData);
 
-    if (!userData) return; // Stop if login failed
+    if (!userData) {
+      console.log("Login failed user data is null");
+      return; // Stop if login failed
+    }
 
     // Save token
     if (userData.token) {

@@ -101,10 +101,6 @@ const GeneratedTemplate = ({
   const apiData = backendPaperData?.data || backendPaperData || {};
   const originalQuestions = apiData?.metadata?.original_questions_array || [];
 
-  console.log("[DEBUG] Generated Paper Data (Prop):", backendPaperData);
-
-  console.log("[DEBUG] Generated Paper Data (Prop):", logo);
-
   // 💡 LOGIC: Determine mode from prop (generation) or metadata (history retrieval)
   const effectiveMode = mode || apiData?.metadata?.mode;
 
@@ -145,17 +141,17 @@ const GeneratedTemplate = ({
 
   // 🔄 Sync effect: Log viewMode changes
   useEffect(() => {
-    console.log("[GeneratedTemplate] viewMode updated:", viewMode);
+    console.log("[GeneratedTemplate] viewMode updated:");
   }, [viewMode]);
 
   // 🔄 Sync effect: Log replaceMode changes
   useEffect(() => {
-    console.log("[GeneratedTemplate] replaceMode updated:", replaceMode);
+    console.log("[GeneratedTemplate] replaceMode updated:");
   }, [replaceMode]);
 
   // 🔄 Sync effect: Log selectedReplaceQuestions changes
   useEffect(() => {
-    console.log("[GeneratedTemplate] selectedReplaceQuestions count:", selectedReplaceQuestions.length);
+    console.log("[GeneratedTemplate] selectedReplaceQuestions count:");
   }, [selectedReplaceQuestions]);
 
   useEffect(() => {
@@ -206,17 +202,9 @@ const GeneratedTemplate = ({
   const finalMarks = (effectiveMode === 'Random' && totalMarks) ? totalMarks : (apiData.marks || totalMarks);
   const finalSubject = apiData.subject || subjects;
   const finalExamDate = apiData.exam_date || examDate;
-  console.log("finalExamDate", finalExamDate);
   const formattedDate = formatDateDDMMYYYY(finalExamDate);
   const rawDuration = apiData.duration || propExamDuration || examDuration;
   const finalExamDuration = rawDuration || "N/A";
-
-  console.log("[DEBUG] Duration Logic:", {
-    api: apiData.duration,
-    prop: propExamDuration,
-    context: examDuration,
-    final: finalExamDuration
-  });
 
   const baseQuestionMark = useMemo(() => {
     // 💡 IF Custom Selection (Random) AND totalMarks is provided, distribute evenly
@@ -253,21 +241,11 @@ const GeneratedTemplate = ({
       }
 
       try {
-        console.group("--------------- DEBUGGER: STORE PAPER CHECK ---------------");
-        console.log("Timestamp:", new Date().toISOString());
-        console.log("Payload being sent to Backend:", data);
-        console.log("Check for 'marks' in payload:", data.marks);
-        console.log("Frontend Calculated Total Marks:", totalCalculatedMarks);
-        console.log("Frontend Calculated Mark Per Question:", baseQuestionMark);
-        console.groupEnd();
 
         const response = await axios.post(STORE_PAPER_API_URL, data, {
           headers: { Authorization: `Bearer ${adminAuthToken}` },
         });
 
-        console.log("[DEBUG] Store API Response:", response.data);
-
-        console.log("Paper stored successfully!");
         setPaperStored(true);
         setError(null); // Clear any previous error on success
         return true;
@@ -304,8 +282,6 @@ const GeneratedTemplate = ({
       }
     };
 
-    console.log("[DEBUG] Store Payload:", payload);
-
     await storeGeneratedPaper(payload);
 
     // 2. Show the print options regardless of storage success/failure (as requested)
@@ -322,8 +298,6 @@ const GeneratedTemplate = ({
 
   /** * Handles general navigation logic: */
   const handleGlobalBack = () => {
-    console.log("show generate options", showGenerateOptions);
-
     if (showGenerateOptions) {
       handleBackFromPrintOptions();
       navigate("/teacher-dashboard")
@@ -359,9 +333,6 @@ const GeneratedTemplate = ({
   useEffect(() => {
     // Ensure we have replacement questions AND questions that were selected to be replaced
     if (replacementPool.length > 0 && selectedReplaceQuestions.length > 0) {
-
-      console.log(`[DEBUG] Performing replacement swap for ${replacementPool.length} question(s).`);
-
       setDisplayedQuestions((prevQuestions) => {
         let nextQuestions = [...prevQuestions];
         let replacementIndex = 0;
@@ -426,9 +397,6 @@ const GeneratedTemplate = ({
       replacementRequests: replacementRequests,
     };
 
-    console.log("[DEBUG] Replacement Request Payload:", replacementPayload);
-
-
     try {
       const response = await axios.post(
         REPLACEMENT_API_URL,
@@ -437,11 +405,8 @@ const GeneratedTemplate = ({
       );
 
       if (response.data.success) {
-
-        console.log("[DEBUG] Replacement API Success. New Questions:", response.data);
         setReplacementPool(response.data.data || []);
       } else {
-        console.error("[DEBUG] Replacement API Error (Backend Fail):", response.data);
         setError(
           response.data.message || "Failed to fetch replacement options."
         );
@@ -466,7 +431,6 @@ const GeneratedTemplate = ({
   const handleGeneratePrint = useCallback(async (mode) => {
     // 1. Set the desired view mode
     setViewMode(mode);
-    console.log(`[DEBUG] Setting viewMode to '${mode}' before printing.`);
 
     // 2. Wait for the state update
     setTimeout(() => {

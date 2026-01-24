@@ -8,6 +8,7 @@ import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 import cron from 'node-cron';
 
+// Internal Configs & Middleware
 import { validateEnv, getConfig } from './config/envConfig.js';
 import { errorHandler } from './middleware/errorHandler.js';
 import { pool } from './config/mySQLConfig.js';
@@ -18,31 +19,63 @@ import { ensureUserColumnsExist, checkSubscriptionExpirations } from './utils/he
 import { initS3Mapping } from './utils/s3PathHelper.js';
 
 dotenv.config();
-
 validateEnv();
 
 const config = getConfig();
-
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const app = express();
-const port = config.server.port;
+app.set('trust proxy', 1);
 
-app.use(cors({
-  origin: "http://localhost:5173",
-  credentials: true
-}));
+const port = config.server.port || 8080;
+
+// --- CORS CONFIGURATION ---
+const allowedOrigins = process.env.CORS_ORIGIN
+  ? process.env.CORS_ORIGIN.split(',').map(origin => origin.trim())
+  : ['http://localhost:5173'];
+
+const corsOptions = {
+  origin: function (origin, callback) {
+    // Allow requests with no origin (like mobile apps or server-to-server)
+    if (!origin) return callback(null, true);
+
+    // Allow if wildcard '*' is explicitly present in config (Development/Debugging)
+    if (allowedOrigins.includes('*')) return callback(null, true);
+
+    if (allowedOrigins.indexOf(origin) !== -1) {
+      callback(null, true);
+    } else {
+      console.error(`[CORS BLOCK] Origin '${origin}' was blocked. Allowed: ${allowedOrigins.join(', ')}`);
+      callback(new Error(`Not allowed by CORS. Origin: ${origin}`));
+    }
+  },
+  credentials: true, // Required to send/receive cookies
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With', 'Accept', 'Origin']
+};
+
+// --- MIDDLEWARE ---
+app.use(cors(corsOptions));
 app.use(cookieParser());
 app.use(express.json({ limit: '5mb' }));
-app.use(morgan('dev'));
+app.use(morgan(process.env.NODE_ENV === 'production' ? 'combined' : 'dev'));
 
+// --- API ROUTES ---
 app.use('/api/v1/paper', paperRouter);
 app.use('/api/v1/auth', authRouter);
 app.use('/api/v1/notification', notificationRouter);
+app.get('/', (req, res) => {
+  res.status(200).send('API Working and Healthy');
+});
+app.get('/health', (req, res) => {
+  res.status(200).send('API Working and Healthy');
+});
 
+// Error Handler (Must be after all API routes)
 app.use(errorHandler);
 
+// --- DATABASE & SERVER START ---
 process.on('SIGINT', async () => {
   console.log('\nClosing MySQL pool...');
   try {
@@ -54,22 +87,13 @@ process.on('SIGINT', async () => {
   process.exit(0);
 });
 
-app.get('/', (req, res) => {
-  res.send('API Working');
-});
-
-app.use(express.static(path.join(__dirname, '../../frontend/dist')));
-
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, '../../frontend/dist', 'index.html'));
-});
-
 app.listen(port, async () => {
   try {
     initS3Mapping();
     await ensureUserColumnsExist();
     console.log('Database initialized successfully.');
 
+    // Cron Job: Daily check at midnight
     cron.schedule('0 0 * * *', async () => {
       console.log('Running daily subscription expiration check...');
       await checkSubscriptionExpirations();
@@ -78,7 +102,7 @@ app.listen(port, async () => {
   } catch (error) {
     console.error('Failed to initialize database schema. Check connection/permissions.');
   }
-  console.log(`Server started on port ${port}`);
+  console.log(`Server started on port ${port} in ${process.env.NODE_ENV || 'development'} mode`);
 });
 
 export default app;

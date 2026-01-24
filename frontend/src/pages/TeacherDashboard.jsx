@@ -403,38 +403,37 @@ const TeacherDashboard = () => {
   // 🔄 Sync effect: Log selectedExam changes
   useEffect(() => {
     if (selectedExam) {
-      console.log("[TeacherDashboard] selectedExam updated:", selectedExam);
+      console.log("[TeacherDashboard] selectedExam updated:");
     }
   }, [selectedExam]);
 
   // 🔄 Sync effect: Log selectedClass changes
   useEffect(() => {
     if (selectedClass) {
-      console.log("[TeacherDashboard] selectedClass updated:", selectedClass);
+      console.log("[TeacherDashboard] selectedClass updated:");
     }
   }, [selectedClass]);
 
   // 🔄 Sync effect: Log selectedSubject changes
   useEffect(() => {
     if (selectedSubject) {
-      console.log("[TeacherDashboard] selectedSubject updated:", selectedSubject);
+      console.log("[TeacherDashboard] selectedSubject updated:");
     }
   }, [selectedSubject]);
 
   // 🔄 Sync effect: Log mode changes
   useEffect(() => {
-    console.log("[TeacherDashboard] mode updated:", mode);
+    console.log("[TeacherDashboard] mode updated:");
   }, [mode]);
 
   // 🔄 Sync effect: Log checkedChapters changes
   useEffect(() => {
     const checkedCount = Object.values(checkedChapters).filter(Boolean).length;
-    console.log("[TeacherDashboard] checkedChapters updated. Checked count:", checkedCount);
+    console.log("[TeacherDashboard] checkedChapters updated. Checked count:");
   }, [checkedChapters]);
 
   // 🔄 Sync effect: Sync numberOfQuestions with paperData.count
   useEffect(() => {
-    console.log("[TeacherDashboard] numberOfQuestions updated:", numberOfQuestions);
     setPaperData((prevData) => ({
       ...prevData,
       count: numberOfQuestions || 30,
@@ -456,7 +455,6 @@ const TeacherDashboard = () => {
 
     setSelectedExam(exam);
     setExam(exam);
-    console.log(exam);
     setPaperData((prevData) => ({
       ...prevData,
       exam: exam,
@@ -480,8 +478,6 @@ const TeacherDashboard = () => {
       chapters: [],
     }));
 
-    console.log("class selected is", cls);
-    console.log("paper data ", paperData);
     setSelectedClass(cls);
     setStandards(cls);
     setActiveSection("subjects");
@@ -537,7 +533,6 @@ const TeacherDashboard = () => {
     ); // 2. Decide the initial chapter selection list based on 'mode'
 
     let initialChapterSelection = [];
-    console.log("mode is", mode); // Auto-select ALL chapters if mode is NOT 'Random' (i.e., Fixed or null/initial)
     if (mode !== "Random") {
       initialChapterSelection = availableChaptersForView;
     }
@@ -575,8 +570,6 @@ const TeacherDashboard = () => {
 
     setCheckedChapters(newCheckedChapters);
 
-    console.log("subject selected is", subject);
-    console.log("paper data ", paperData); // Still shows old state
     setSelectedSubject(clickedSubject);
     setSubjects(clickedSubject);
     setChapters(chaptersData[selectedExam][clickedSubject]); // Pass the raw structure to ChaptersPage component
@@ -616,7 +609,6 @@ const TeacherDashboard = () => {
           );
         }
 
-        console.log("updated chapters array is", updatedChaptersArray);
         return {
           ...prevData,
           chapters: updatedChaptersArray,

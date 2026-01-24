@@ -7,10 +7,7 @@
     "dev": "nodemon src/app.js",
     "seed": "node src/seed/seed.js",
     "start": "node src/app.js",
-    "init-db": "node scripts/run-init-db.js",
-    "install-ui": "npm install --prefix ../frontend",
-    "compile-ui": "npm run build --prefix ../frontend",
-    "build-ui": "npm run install-ui && npm run compile-ui"
+    "init-db": "node scripts/run-init-db.js"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.948.0",
