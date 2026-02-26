@@ -1,0 +1,968 @@
+[
+  {
+    "id": 1,
+    "chapter": "Trigonometry",
+    "question": "If cos x ≠ -1/2 then the solutions of cos x + cos 2x + cos 3x = 0 are",
+    "question_latex": "If $\\cos x \\ne -\\frac{1}{2}$ then the solutions of $\\cos x + \\cos 2x + \\cos 3x = 0$ are",
+    "question_images": [],
+    "options": [
+      "A. $2n\\pi \\pm \\frac{\\pi}{4}, n \\in Z$",
+      "B. $2n\\pi, n \\in Z$",
+      "C. $2n\\pi \\pm \\frac{\\pi}{3}, n \\in Z$",
+      "D. $2n\\pi, n \\in Z$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Given, $\\cos x + \\cos 3x + \\cos 2x = 0$ \\\\\n$\\Rightarrow 2 \\cos 2x \\cos x + \\cos 2x = 0$ \\\\\n$\\Rightarrow \\cos 2x (2 \\cos x + 1) = 0$ \\\\\nSince $\\cos x \\ne -\\frac{1}{2}$, we have $\\cos 2x = 0$ \\\\\n$\\Rightarrow 2x = (2n + 1)\\frac{\\pi}{2} \\Rightarrow x = (2n + 1)\\frac{\\pi}{4}$ \\\\\nGeneral value is $2n\\pi \\pm \\frac{\\pi}{4}, n \\in Z$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Trigonometry",
+    "question": "In a Δ ABC ∠A = π/2, then cos² B + cos² C equals",
+    "question_latex": "In a $\\Delta ABC$ $\\angle A = \\frac{\\pi}{2}$, then $\\cos^{2}B + \\cos^{2}C$ equals",
+    "question_images": [],
+    "options": [
+      "A. -2",
+      "B. -1",
+      "C. 1",
+      "D. 0"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In $\\Delta ABC$, $A + B + C = \\pi$. \\\\\nGiven $A = \\frac{\\pi}{2}$, so $B + C = \\frac{\\pi}{2} \\Rightarrow C = \\frac{\\pi}{2} - B$ \\\\\n$\\cos^{2}B + \\cos^{2}C = \\cos^{2}B + \\cos^{2}(\\frac{\\pi}{2} - B)$ \\\\\n$= \\cos^{2}B + \\sin^{2}B = 1$",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Trigonometry",
+    "question": "Minimum value of 1 / (3 sin θ - 4 cos θ + 7) is",
+    "question_latex": "Minimum value of $\\frac{1}{3 \\sin \\theta - 4 \\cos \\theta + 7}$ is",
+    "question_images": [],
+    "options": [
+      "A. 1/12",
+      "B. 5/12",
+      "C. 7/12",
+      "D. 1/6"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Let $A = \\frac{1}{3 \\sin \\theta - 4 \\cos \\theta + 7}$ \\\\\n$A$ will be minimum when $3 \\sin \\theta - 4 \\cos \\theta + 7$ is maximum. \\\\\nMaximum value of $3 \\sin \\theta - 4 \\cos \\theta$ is $\\sqrt{3^2 + (-4)^2} = 5$. \\\\\nMaximum value of $3 \\sin \\theta - 4 \\cos \\theta + 7 = 5 + 7 = 12$. \\\\\nMinimum value of expression $= \\frac{1}{12}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Trigonometry",
+    "question": "If θ is an acute angle and sin(θ/2) = √((x-1)/2x) then tan θ is equal to",
+    "question_latex": "If $\\theta$ is an acute angle and $\\sin \\frac{\\theta}{2} = \\sqrt{\\frac{x-1}{2x}}$ then $\\tan \\theta$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. x² - 1",
+      "B. √(x² - 1)",
+      "C. √(x² + 1)",
+      "D. x² + 1"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Given $\\sin \\frac{\\theta}{2} = \\sqrt{\\frac{x-1}{2x}}$ \\\\\nThen $\\cos \\frac{\\theta}{2} = \\sqrt{1 - \\sin^2 \\frac{\\theta}{2}} = \\sqrt{1 - \\frac{x-1}{2x}} = \\sqrt{\\frac{x+1}{2x}}$ \\\\\n$\\tan \\frac{\\theta}{2} = \\sqrt{\\frac{x-1}{x+1}}$ \\\\\n$\\tan \\theta = \\frac{2 \\tan \\frac{\\theta}{2}}{1 - \\tan^2 \\frac{\\theta}{2}} = \\frac{2\\sqrt{\\frac{x-1}{x+1}}}{1 - \\frac{x-1}{x+1}} = \\frac{2\\sqrt{\\frac{x-1}{x+1}}}{\\frac{2}{x+1}} = \\sqrt{x^2 - 1}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 5,
+    "chapter": "Trigonometry",
+    "question": "If sin θ + cosec θ = 2, the value of sin^10 θ + cosec^10 θ is",
+    "question_latex": "If $\\sin \\theta + \\text{cosec } \\theta = 2$, the value of $\\sin^{10} \\theta + \\text{cosec}^{10} \\theta$ is",
+    "question_images": [],
+    "options": [
+      "A. 2",
+      "B. 2^10",
+      "C. 2^9",
+      "D. 10"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Given $\\sin \\theta + \\frac{1}{\\sin \\theta} = 2 \\Rightarrow \\sin^2 \\theta - 2 \\sin \\theta + 1 = 0 \\Rightarrow (\\sin \\theta - 1)^2 = 0 \\Rightarrow \\sin \\theta = 1$. \\\\\nThen $\\text{cosec } \\theta = 1$. \\\\\n$\\sin^{10} \\theta + \\text{cosec}^{10} \\theta = 1^{10} + 1^{10} = 2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 6,
+    "chapter": "Trigonometry",
+    "question": "The value of cot 70° + 4 cos 70° is",
+    "question_latex": "The value of $\\cot 70^{\\circ} + 4 \\cos 70^{\\circ}$ is",
+    "question_images": [],
+    "options": [
+      "A. 1/√3",
+      "B. √3",
+      "C. 2√3",
+      "D. 1/2"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\frac{\\cos 70^{\\circ} + 4 \\sin 70^{\\circ} \\cos 70^{\\circ}}{\\sin 70^{\\circ}} = \\frac{\\cos 70^{\\circ} + 2 \\sin 140^{\\circ}}{\\sin 70^{\\circ}}$ \\\\\n$= \\frac{\\sin 20^{\\circ} + 2 \\sin 40^{\\circ}}{\\sin 70^{\\circ}} = \\frac{(\\sin 20^{\\circ} + \\sin 40^{\\circ}) + \\sin 40^{\\circ}}{\\sin 70^{\\circ}}$ \\\\\n$= \\frac{2 \\sin 30^{\\circ} \\cos 10^{\\circ} + \\sin 40^{\\circ}}{\\sin 70^{\\circ}} = \\frac{\\cos 10^{\\circ} + \\sin 40^{\\circ}}{\\sin 70^{\\circ}} = \\frac{\\sin 80^{\\circ} + \\sin 40^{\\circ}}{\\sin 70^{\\circ}}$ \\\\\n$= \\frac{2 \\sin 60^{\\circ} \\cos 20^{\\circ}}{\\cos 20^{\\circ}} = 2 \\times \\frac{\\sqrt{3}}{2} = \\sqrt{3}$",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 7,
+    "chapter": "Heights and Distances",
+    "question": "Let 10 vertical poles standing at equal distances on a straight line, subtend the same angle of elevation α at a point O on this line and all the poles are on the same side of O. If the height of the longest pole is 'h' and the distance of the foot of the smallest pole from O is 'a'; then the distance between two consecutive poles is",
+    "question_latex": "Let 10 vertical poles standing at equal distances on a straight line, subtend the same angle of elevation $\\alpha$ at a point $O$ on this line and all the poles are on the same side of $O$. If the height of the longest pole is '$h$' and the distance of the foot of the smallest pole from $O$ is '$a$'; then the distance between two consecutive poles is",
+    "question_images": [],
+    "options": [
+      "A. $\\frac{h \\cos \\alpha - a \\sin \\alpha}{9 \\cos \\alpha}$",
+      "B. $\\frac{h \\sin \\alpha + a \\cos \\alpha}{9 \\sin \\alpha}$",
+      "C. $\\frac{h \\cos \\alpha - a \\sin \\alpha}{9 \\sin \\alpha}$",
+      "D. $\\frac{h \\sin \\alpha + a \\cos \\alpha}{9 \\cos \\alpha}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Let $d$ be the distance between consecutive poles. The distance of the $n$-th pole from $O$ is $x_n = a + (n-1)d$. \\\\\nFor the 10th (longest) pole: $h / x_{10} = \\tan \\alpha \\Rightarrow x_{10} = h \\cot \\alpha$. \\\\\n$a + 9d = h \\cot \\alpha \\Rightarrow 9d = h \\frac{\\cos \\alpha}{\\sin \\alpha} - a$ \\\\\n$9d = \\frac{h \\cos \\alpha - a \\sin \\alpha}{\\sin \\alpha} \\Rightarrow d = \\frac{h \\cos \\alpha - a \\sin \\alpha}{9 \\sin \\alpha}$",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 8,
+    "chapter": "Trigonometry",
+    "question": "If y = cos² x + sec² x, then",
+    "question_latex": "If $y = \\cos^{2}x + \\sec^{2}x$, then",
+    "question_images": [],
+    "options": [
+      "A. y ≤ 2",
+      "B. y ≤ 1",
+      "C. y ≥ 2",
+      "D. 1 < y < 2"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$y = \\cos^2 x + \\sec^2 x = (\\cos x - \\sec x)^2 + 2$. \\\\\nSince the square of a real number is always non-negative, $y \\ge 2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 9,
+    "chapter": "Trigonometry",
+    "question": "sin² θ = 4xy / (x + y)² is true if and only if",
+    "question_latex": "$\\sin^{2}\\theta = \\frac{4xy}{(x+y)^{2}}$ is true if and only if",
+    "question_images": [],
+    "options": [
+      "A. x + y ≠ 0",
+      "B. x = y, x ≠ 0, y ≠ 0",
+      "C. x = y",
+      "D. x ≠ 0, y ≠ 0"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "We know $\\sin^2 \\theta \\le 1$. \\\\\n$\\Rightarrow \\frac{4xy}{(x+y)^2} \\le 1 \\Rightarrow 4xy \\le (x+y)^2 \\Rightarrow (x-y)^2 \\ge 0$. \\\\\nThis is always true, but for $\\sin^2 \\theta$ to reach a valid value, if $x=y$, $\\sin^2 \\theta = 1$. If $x \\ne y$, then $4xy < (x+y)^2$, so $\\sin^2 \\theta < 1$. \\\\\nCritically, $x+y \\ne 0$. The condition for existence as a ratio is $x=y$ and $x,y \\ne 0$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 10,
+    "chapter": "Inverse Trigonometric Functions",
+    "question": "If x₁, x₂, x₃, x₄ are roots of the equation x⁴ - x³ sin 2β + x² cos 2β - x cos β - sin β = 0 then tan⁻¹ x₁ + tan⁻¹ x₂ + tan⁻¹ x₃ + tan⁻¹ x₄ =",
+    "question_latex": "If $x_{1}, x_{2}, x_{3}, x_{4}$ are roots of the equation $x^{4} - x^{3}\\sin 2\\beta + x^{2}\\cos 2\\beta - x\\cos \\beta - \\sin \\beta = 0$ then $\\tan^{-1}x_{1} + \\tan^{-1}x_{2} + \\tan^{-1}x_{3} + \\tan^{-1}x_{4} =$",
+    "question_images": [],
+    "options": [
+      "A. β",
+      "B. π/2 - β",
+      "C. π - β",
+      "D. -β"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Sum of roots $S_1 = \\sin 2\\beta$, $S_2 = \\cos 2\\beta$, $S_3 = \\cos \\beta$, $S_4 = -\\sin \\beta$. \\\\\n$\\tan(\\sum \\tan^{-1} x_i) = \\frac{S_1 - S_3}{1 - S_2 + S_4} = \\frac{\\sin 2\\beta - \\cos \\beta}{1 - \\cos 2\\beta - \\sin \\beta}$ \\\\\n$= \\frac{2 \\sin \\beta \\cos \\beta - \\cos \\beta}{2 \\sin^2 \\beta - \\sin \\beta} = \\frac{\\cos \\beta(2 \\sin \\beta - 1)}{\\sin \\beta(2 \\sin \\beta - 1)} = \\cot \\beta = \\tan(\\frac{\\pi}{2} - \\beta)$. \\\\\nSum $= \\frac{\\pi}{2} - \\beta$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Trigonometry",
+    "question": "If sin θ = 12/13 (0 < θ < π/2) and cos φ = -3/5 (π < φ < 3π/2), then sin(θ + φ) will be",
+    "question_latex": "If $\\sin \\theta = \\frac{12}{13} (0 < \\theta < \\frac{\\pi}{2})$ and $\\cos \\phi = -\\frac{3}{5} (\\pi < \\phi < \\frac{3\\pi}{2})$, then $\\sin(\\theta + \\phi)$ will be",
+    "question_images": [],
+    "options": [
+      "A. -56/61",
+      "B. -56/65",
+      "C. 1/65",
+      "D. -56"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\sin \\theta = 12/13 \\Rightarrow \\cos \\theta = 5/13$ (I quadrant). \\\\\n$\\cos \\phi = -3/5 \\Rightarrow \\sin \\phi = -4/5$ (III quadrant). \\\\\n$\\sin(\\theta + \\phi) = \\sin \\theta \\cos \\phi + \\cos \\theta \\sin \\phi = (12/13)(-3/5) + (5/13)(-4/5)$ \\\\\n$= -36/65 - 20/65 = -56/65$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Trigonometry",
+    "question": "If 0 < x < π and cos x + sin x = 1/2, then tan x is",
+    "question_latex": "If $0 < x < \\pi$ and $\\cos x + \\sin x = \\frac{1}{2}$, then $\\tan x$ is",
+    "question_images": [],
+    "options": [
+      "A. (4 - √7) / 3",
+      "B. -(4 + √7) / 3",
+      "C. (1 + √7) / 4",
+      "D. (1 - √7) / 4"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\cos x + \\sin x = 1/2$. Use half-angle: $\\frac{1-t^2}{1+t^2} + \\frac{2t}{1+t^2} = \\frac{1}{2}$ where $t = \\tan(x/2)$. \\\\\n$2 - 2t^2 + 4t = 1 + t^2 \\Rightarrow 3t^2 - 4t - 1 = 0 \\Rightarrow t = \\frac{4 \\pm \\sqrt{16+12}}{6} = \\frac{2 \\pm \\sqrt{7}}{3}$. \\\\\nSince $\\cos x + \\sin x = 1/2$ and $x \\in (0, \\pi)$, $x$ must be in II quadrant where $\\tan x$ is negative. \\\\\nUsing $\\tan x = \\frac{2t}{1-t^2}$ with $t = \\frac{2+\\sqrt{7}}{3}$ gives $\\tan x = -\\frac{4+\\sqrt{7}}{3}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Trigonometry",
+    "question": "If cos(θ - α) = a, cos(θ - β) = b, then sin²(α - β) + 2ab cos(α - β) is equal to",
+    "question_latex": "If $\\cos(\\theta - \\alpha) = a, \\cos(\\theta - \\beta) = b$, then $\\sin^{2}(\\alpha - \\beta) + 2ab \\cos(\\alpha - \\beta)$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. a² + b²",
+      "B. a² - b²",
+      "C. b² - a²",
+      "D. -a² - b²"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\alpha - \\beta = (\\theta - \\beta) - (\\theta - \\alpha)$. Let $x = \\theta - \\alpha, y = \\theta - \\beta$. \\\\\n$\\cos(y-x) = \\cos y \\cos x + \\sin y \\sin x = ab + \\sin x \\sin y$. \\\\\n$\\cos(\\alpha - \\beta) - ab = \\sin x \\sin y$. \\\\\nSquare both sides: $(\\cos(\\alpha - \\beta) - ab)^2 = \\sin^2 x \\sin^2 y = (1-a^2)(1-b^2)$. \\\\\n$\\cos^2(\\alpha - \\beta) + a^2b^2 - 2ab \\cos(\\alpha - \\beta) = 1 - a^2 - b^2 + a^2b^2$. \\\\\n$a^2 + b^2 = 1 - \\cos^2(\\alpha - \\beta) + 2ab \\cos(\\alpha - \\beta) = \\sin^2(\\alpha - \\beta) + 2ab \\cos(\\alpha - \\beta)$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Trigonometry",
+    "question": "If α, β ∈ (0, π/2), sin α = 4/5 and cos(α + β) = -12/13, then sin β is equal to",
+    "question_latex": "If $\\alpha, \\beta \\in (0, \\frac{\\pi}{2}), \\sin \\alpha = \\frac{4}{5}$ and $\\cos(\\alpha + \\beta) = -\\frac{12}{13}$, then $\\sin \\beta$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. 63/65",
+      "B. 61/65",
+      "C. 3/5",
+      "D. 5/13"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\sin \\alpha = 4/5 \\Rightarrow \\cos \\alpha = 3/5$. \\\\\n$\\cos(\\alpha + \\beta) = -12/13 \\Rightarrow \\sin(\\alpha + \\beta) = 5/13$ (since $\\alpha, \\beta$ are acute, sum is in II quadrant). \\\\\n$\\sin \\beta = \\sin((\\alpha + \\beta) - \\alpha) = \\sin(\\alpha + \\beta) \\cos \\alpha - \\cos(\\alpha + \\beta) \\sin \\alpha$ \\\\\n$= (5/13)(3/5) - (-12/13)(4/5) = 15/65 + 48/65 = 63/65$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Trigonometry",
+    "question": "In a Δ ABC, cos((B + 2C + 3A)/2) + cos((A - B)/2) is equal to",
+    "question_latex": "In a $\\Delta ABC, \\cos(\\frac{B + 2C + 3A}{2}) + \\cos(\\frac{A - B}{2})$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. -1",
+      "B. 0",
+      "C. 1",
+      "D. 2"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$A + B + C = \\pi$. \\\\\n$\\frac{B + 2C + 3A}{2} = \\frac{(A+B+C) + 2A + C}{2} = \\frac{\\pi + 2A + C}{2} = \\frac{\\pi}{2} + \\frac{2A + C}{2}$. \\\\\n$\\cos(\\frac{\\pi}{2} + \\frac{2A + C}{2}) = -\\sin(\\frac{2A + C}{2})$. This doesn't seem to lead to 0 directly. \\\\\nLet's use sum to product: $2 \\cos(\\frac{4A+2C}{4}) \\cos(\\frac{2A+2B+2C}{4})$ \\\\\n$= 2 \\cos(\\frac{2A+C}{2}) \\cos(\\frac{\\pi}{2}) = 0$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Trigonometry",
+    "question": "If cos(x/2) · cos(x/2²) · ... · cos(x/2ⁿ) = sin x / (2ⁿ sin(x/2ⁿ)), then 1/2 tan(x/2) + 1/2² tan(x/2²) + ... + 1/2ⁿ tan(x/2ⁿ) is",
+    "question_latex": "If $\\cos \\frac{x}{2} \\cdot \\cos \\frac{x}{2^{2}} \\dots \\cos \\frac{x}{2^{n}} = \\frac{\\sin x}{2^{n} \\sin(\\frac{x}{2^{n}})}$, then $\\frac{1}{2} \\tan \\frac{x}{2} + \\frac{1}{2^{2}} \\tan \\frac{x}{2^{2}} + \\dots + \\frac{1}{2^{n}} \\tan \\frac{x}{2^{n}}$ is",
+    "question_images": [],
+    "options": [
+      "A. $\\cot x - \\cot \\frac{x}{2^{n}}$",
+      "B. $\\frac{1}{2^{n}} \\cot(\\frac{x}{2^{n}}) - \\cot x$",
+      "C. $\\frac{1}{2^{n}} \\tan(\\frac{1}{2^{n}}) - \\tan x$",
+      "D. $\\frac{1}{2} \\cot x - \\frac{1}{2^{n}} \\cot(\\frac{x}{2^{n}})$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "We use the identity $\\frac{1}{2^k} \\tan \\frac{x}{2^k} = \\frac{1}{2^k} \\cot \\frac{x}{2^k} - \\frac{1}{2^{k-1}} \\cot \\frac{x}{2^{k-1}}$. \\\\\nSumming from $k=1$ to $n$: \\\\\n$(\\frac{1}{2} \\cot \\frac{x}{2} - \\cot x) + (\\frac{1}{2^2} \\cot \\frac{x}{2^2} - \\frac{1}{2} \\cot \\frac{x}{2}) + \\dots + (\\frac{1}{2^n} \\cot \\frac{x}{2^n} - \\frac{1}{2^{n-1}} \\cot \\frac{x}{2^{n-1}})$ \\\\\nAll terms cancel except the first and last: $\\frac{1}{2^n} \\cot \\frac{x}{2^n} - \\cot x$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Trigonometry",
+    "question": "The number of points of intersection of 2y = 1 and y = sin x, in -2π ≤ x ≤ 2π is",
+    "question_latex": "The number of points of intersection of $2y = 1$ and $y = \\sin x$, in $-2\\pi \\le x \\le 2\\pi$ is",
+    "question_images": [
+      "q17_1"
+    ],
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "We need to solve $\\sin x = 1/2$ for $x \\in [-2\\pi, 2\\pi]$. \\\\\nIn $[0, 2\\pi]$, solutions are $\\pi/6, 5\\pi/6$. \\\\\nIn $[-2\\pi, 0]$, solutions are $-2\\pi + \\pi/6 = -11\\pi/6$ and $-2\\pi + 5\\pi/6 = -7\\pi/6$. \\\\\nTotal 4 solutions.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Trigonometry",
+    "question": "The minimum value of f(x) = sin⁴ x + cos⁴ x, 0 ≤ x ≤ π/2 is",
+    "question_latex": "The minimum value of $f(x) = \\sin^{4}x + \\cos^{4}x, 0 \\le x \\le \\frac{\\pi}{2}$ is",
+    "question_images": [],
+    "options": [
+      "A. 1/(2√2)",
+      "B. 1/4",
+      "C. -1/2",
+      "D. 1/2"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$f(x) = (\\sin^2 x + \\cos^2 x)^2 - 2 \\sin^2 x \\cos^2 x = 1 - \\frac{1}{2} \\sin^2 2x$. \\\\\n$f(x)$ is minimum when $\\sin^2 2x$ is maximum (i.e., 1). \\\\\nMin value $= 1 - 1/2 = 1/2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Trigonometry",
+    "question": "The sides of a triangle are sin α, cos α and √(1 + sin α cos α) for some 0 < α < π/2. Then the greatest angle of the triangle is",
+    "question_latex": "The sides of a triangle are $\\sin \\alpha, \\cos \\alpha$ and $\\sqrt{1 + \\sin \\alpha \\cos \\alpha}$ for some $0 < \\alpha < \\frac{\\pi}{2}$. Then the greatest angle of the triangle is",
+    "question_images": [],
+    "options": [
+      "A. 120°",
+      "B. 90°",
+      "C. 60°",
+      "D. 150°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Let $a = \\sin \\alpha, b = \\cos \\alpha, c = \\sqrt{1 + \\sin \\alpha \\cos \\alpha}$. \\\\\n$\\cos C = \\frac{a^2 + b^2 - c^2}{2ab} = \\frac{\\sin^2 \\alpha + \\cos^2 \\alpha - (1 + \\sin \\alpha \\cos \\alpha)}{2 \\sin \\alpha \\cos \\alpha}$ \\\\\n$= \\frac{1 - 1 - \\sin \\alpha \\cos \\alpha}{2 \\sin \\alpha \\cos \\alpha} = -1/2$. \\\\\n$C = 120^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Trigonometry",
+    "question": "ABCD is a trapezium such that AB and CD are parallel and BC ⊥ CD. If ∠ADB = θ, BC = p and CD = q, then AB is equal to",
+    "question_latex": "ABCD is a trapezium such that $AB$ and $CD$ are parallel and $BC \\perp CD$. If $\\angle ADB = \\theta, BC = p$ and $CD = q$, then $AB$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. $\\frac{p^{2}+q^{2}}{p^{2}\\cos \\theta + q^{2}\\sin \\theta}$",
+      "B. $\\frac{(p^{2}+q^{2})\\sin \\theta}{(p\\cos \\theta + q\\sin \\theta)^{2}}$",
+      "C. $\\frac{p^{2}+q^{2}\\cos \\theta}{p\\cos \\theta + q\\sin \\theta}$",
+      "D. $\\frac{(p^{2}+q^{2})\\sin \\theta}{p\\cos \\theta + q\\sin \\theta}$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "In $\\Delta BCD$, $BD = \\sqrt{p^2 + q^2}$ and $\\tan \\beta = p/q$ (where $\\beta = \\angle BDC$). \\\\\nIn $\\Delta ABD$, using Sine Rule: $\\frac{AB}{\\sin \\theta} = \\frac{BD}{\\sin(\\angle DAB)}$. \\\\\nSince $AB \\parallel CD$, $\\angle DAB + \\angle ADC = 180^{\\circ} \\Rightarrow \\angle DAB = 180 - (\\theta + \\beta)$. \\\\\n$AB = \\frac{\\sqrt{p^2 + q^2} \\sin \\theta}{\\sin(\\theta + \\beta)} = \\frac{\\sqrt{p^2 + q^2} \\sin \\theta}{\\sin \\theta \\cos \\beta + \\cos \\theta \\sin \\beta}$ \\\\\n$= \\frac{\\sqrt{p^2 + q^2} \\sin \\theta}{\\sin \\theta (q/\\sqrt{p^2+q^2}) + \\cos \\theta (p/\\sqrt{p^2+q^2})} = \\frac{(p^2 + q^2) \\sin \\theta}{p \\cos \\theta + q \\sin \\theta}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Inverse Trigonometric Functions",
+    "question": "If x, y, z are in A.P. and tan⁻¹ x, tan⁻¹ y and tan⁻¹ z are also in A.P., then",
+    "question_latex": "If $x, y, z$ are in A.P. and $\\tan^{-1}x, \\tan^{-1}y$ and $\\tan^{-1}z$ are also in A.P., then",
+    "question_images": [],
+    "options": [
+      "A. x = y = z",
+      "B. 2x = 3y = 6z",
+      "C. 6x = 3y = 2z",
+      "D. 6x = 4y = 3z"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$2y = x + z$ and $2 \\tan^{-1} y = \\tan^{-1} x + \\tan^{-1} z$. \\\\\n$\\tan^{-1}(\\frac{2y}{1-y^2}) = \\tan^{-1}(\\frac{x+z}{1-xz})$. \\\\\nSince $2y = x + z$, we have $\\frac{x+z}{1-y^2} = \\frac{x+z}{1-xz}$. \\\\\nThis implies $1 - y^2 = 1 - xz \\Rightarrow y^2 = xz$. \\\\\nSince $x, y, z$ are in A.P. and G.P., $x = y = z$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Trigonometry",
+    "question": "{x ∈ R : cos 2x + 2 cos² x = 2} is equal to",
+    "question_latex": "$\\{x \\in R : \\cos 2x + 2 \\cos^{2}x = 2\\}$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. $\\{2n\\pi + \\frac{\\pi}{3} : n \\in Z\\}$",
+      "B. $\\{n\\pi \\pm \\frac{\\pi}{6} : n \\in Z\\}$",
+      "C. $\\{n\\pi + \\frac{\\pi}{3} : n \\in Z\\}$",
+      "D. $\\{2n\\pi - \\frac{\\pi}{3} : n \\in Z\\}$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\cos 2x + 2 \\cos^2 x = 2 \\Rightarrow (2 \\cos^2 x - 1) + 2 \\cos^2 x = 2$ \\\\\n$4 \\cos^2 x = 3 \\Rightarrow \\cos^2 x = 3/4$ \\\\\n$\\cos x = \\pm \\sqrt{3}/2 \\Rightarrow x = n\\pi \\pm \\pi/6$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Trigonometry",
+    "question": "If √((1 + cos A) / (1 - cos A)) = x / y, then the value of tan A is equal to",
+    "question_latex": "If $\\sqrt{\\frac{1 + \\cos A}{1 - \\cos A}} = \\frac{x}{y}$, then the value of $\\tan A$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. (x² + y²) / (x² - y²)",
+      "B. 2xy / (x² + y²)",
+      "C. 2xy / (x² - y²)",
+      "D. 2xy / (y² - x²)"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$\\sqrt{\\frac{2 \\cos^2(A/2)}{2 \\sin^2(A/2)}} = \\cot(A/2) = x/y \\Rightarrow \\tan(A/2) = y/x$. \\\\\n$\\tan A = \\frac{2 \\tan(A/2)}{1 - \\tan^2(A/2)} = \\frac{2(y/x)}{1 - (y/x)^2} = \\frac{2y/x}{(x^2-y^2)/x^2} = \\frac{2xy}{x^2 - y^2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Trigonometry",
+    "question": "(tan 80° - tan 10°) / tan 70° is",
+    "question_latex": "$\\frac{\\tan 80^{\\circ} - \\tan 10^{\\circ}}{\\tan 70^{\\circ}}$ is",
+    "question_images": [],
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$\\tan 70^{\\circ} = \\tan(80^{\\circ} - 10^{\\circ}) = \\frac{\\tan 80^{\\circ} - \\tan 10^{\\circ}}{1 + \\tan 80^{\\circ} \\tan 10^{\\circ}}$. \\\\\n$\\frac{\\tan 80^{\\circ} - \\tan 10^{\\circ}}{\\tan 70^{\\circ}} = 1 + \\tan 80^{\\circ} \\tan 10^{\\circ}$ \\\\\n$= 1 + \\tan 80^{\\circ} \\cot 80^{\\circ} = 1 + 1 = 2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Trigonometry",
+    "question": "The most general value of θ which satisfy both the equations cos θ = -1/√2 and tan θ = 1, is",
+    "question_latex": "The most general value of $\\theta$ which satisfy both the equations $\\cos \\theta = -\\frac{1}{\\sqrt{2}}$ and $\\tan \\theta = 1$, is",
+    "question_images": [],
+    "options": [
+      "A. $2n\\pi + 5\\pi/4$",
+      "B. $2n\\pi + \\pi/4$",
+      "C. $2n\\pi + 3\\pi/4$",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\cos \\theta$ is negative and $\\tan \\theta$ is positive in the IIIrd quadrant. \\\\\nPrincipal value: $\\theta = \\pi + \\pi/4 = 5\\pi/4$. \\\\\nGeneral value: $2n\\pi + 5\\pi/4$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Trigonometry",
+    "question": "The sum of $tan^{-1}(\\frac{1}{2})+tan^{-1}(\\frac{1}{8})+tan^{-1}(\\frac{1}{18})+\\cdot\\cdot\\cdot$ is",
+    "question_latex": "The sum of $tan^{-1}(\\frac{1}{2})+tan^{-1}(\\frac{1}{8})+tan^{-1}(\\frac{1}{18})+\\cdot\\cdot\\cdot$ is",
+    "question_images": [],
+    "options": [
+      "A. \\pi/2",
+      "B. \\pi",
+      "C. \\pi/3",
+      "D. \\pi/4"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Sum $S = \\sum_{n=1}^{\\infty} tan^{-1}\\left(\\frac{1}{2n^2}\\right)$. Using the identity $tan^{-1}x - tan^{-1}y = tan^{-1}\\left(\\frac{x-y}{1+xy}\\right)$, we can write $tan^{-1}\\left(\\frac{1}{2n^2}\\right) = tan^{-1}\\left(\\frac{(2n+1)-(2n-1)}{1+(2n+1)(2n-1)}\\right) = tan^{-1}(2n+1) - tan^{-1}(2n-1)$. The telescoping sum results in $\\lim_{n\\to\\infty} tan^{-1}(2n+1) - tan^{-1}(1) = \\frac{\\pi}{2} - \\frac{\\pi}{4} = \\frac{\\pi}{4}$. [cite: 408]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Trigonometry",
+    "question": "The value of $cos\\frac{2\\pi}{15}cos\\frac{4\\pi}{15}cos\\frac{8\\pi}{15}cos\\frac{14\\pi}{15}$ is",
+    "question_latex": "The value of $cos\\frac{2\\pi}{15}cos\\frac{4\\pi}{15}cos\\frac{8\\pi}{15}cos\\frac{14\\pi}{15}$ is",
+    "question_images": [],
+    "options": [
+      "A. 1/16",
+      "B. 1/8",
+      "C. 1/12",
+      "D. 1/4"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Given $cos 24^\\circ cos 48^\\circ cos 96^\\circ cos 168^\\circ$. This equals $-cos 12^\\circ cos 24^\\circ cos 48^\\circ cos 96^\\circ$. [cite_start]Multiplying and dividing by $16 sin 12^\\circ$: $-\\frac{16 sin 12^\\circ}{16 sin 12^\\circ} cos 12^\\circ cos 24^\\circ cos 48^\\circ cos 96^\\circ = -\\frac{sin 192^\\circ}{16 sin 12^\\circ} = \\frac{sin 12^\\circ}{16 sin 12^\\circ} = \\frac{1}{16}$. [cite: 408]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Heights and Distances",
+    "question": "Two vertical poles of heights, 20 m and 80 m stand apart on a horizontal plane. The height (in meters) of the point of intersection of the lines joining the top of each pole to the foot of the other, from this horizontal plane is",
+    "question_latex": "Two vertical poles of heights, 20 m and 80 m stand apart on a horizontal plane. The height (in meters) of the point of intersection of the lines joining the top of each pole to the foot of the other, from this horizontal plane is",
+    "question_images": [],
+    "options": [
+      "A. 18",
+      "B. 15",
+      "C. 12",
+      "D. 16"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Let heights be $h_1=20$ and $h_2=80$. The height of intersection $h$ is given by $\\frac{1}{h} = \\frac{1}{h_1} + \\frac{1}{h_2} = \\frac{1}{20} + \\frac{1}{80} = \\frac{5}{80} = \\frac{1}{16}$. [cite_start]Thus, $h = 16$ m. [cite: 409, 410]",
+    "solution_images": [
+      "q28_solution_1"
+    ],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Heights and Distances",
+    "question": "From the base of a pole of height 20 meter, the angle of elevation of the top of a tower is $60^\\circ$. The pole subtends an angle $30^\\circ$ at the top of the tower. Then the height of the tower is:",
+    "question_latex": "From the base of a pole of height 20 meter, the angle of elevation of the top of a tower is $60^\\circ$. The pole subtends an angle $30^\\circ$ at the top of the tower. Then the height of the tower is:",
+    "question_images": [],
+    "options": [
+      "A. 15\\sqrt{3}",
+      "B. 20\\sqrt{3}",
+      "C. 20+10\\sqrt{3}",
+      "D. 30"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "In $\\Delta ACD$, $tan 60^\\circ = \\frac{20+h}{AC} \\Rightarrow AC = \\frac{20+h}{\\sqrt{3}}$. In $\\Delta BDE$, $tan 30^\\circ = \\frac{h}{AC} \\Rightarrow AC = h\\sqrt{3}$. Equating both, $\\frac{20+h}{\\sqrt{3}} = h\\sqrt{3} \\Rightarrow 20+h = 3h \\Rightarrow h = 10$. [cite_start]Total height $= 20 + 10 = 30$ m. [cite: 410, 411, 412]",
+    "solution_images": [
+      "q29_solution_1"
+    ],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Heights and Distances",
+    "question": "AB is a vertical pole with B at the ground level and A at the top. A man finds that the angle of elevation of the point A from a certain point C on the ground is $60^\\circ$. He moves away from the pole along the line BC to a point D such that CD = 7 m. From D the angle of elevation of the point A is $45^\\circ$. Then the height of the pole is",
+    "question_latex": "AB is a vertical pole with B at the ground level and A at the top. A man finds that the angle of elevation of the point A from a certain point C on the ground is $60^\\circ$. He moves away from the pole along the line BC to a point D such that CD = 7 m. From D the angle of elevation of the point A is $45^\\circ$. Then the height of the pole is",
+    "question_images": [],
+    "options": [
+      "A. \\frac{7\\sqrt{3}}{2}(\\sqrt{3}-1)m",
+      "B. \\frac{7\\sqrt{3}}{2}\\frac{1}{\\sqrt{3}+1}m",
+      "C. \\frac{7\\sqrt{3}}{2}(\\sqrt{3}+1)m",
+      "D. \\frac{7\\sqrt{3}}{2}\\frac{1}{\\sqrt{3}-1}m"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Let $AB = h$. $BC = h cot 60^\\circ = h/\\sqrt{3}$. $BD = h cot 45^\\circ = h$. [cite_start]Given $BD - BC = 7 \\Rightarrow h - h/\\sqrt{3} = 7 \\Rightarrow h(\\frac{\\sqrt{3}-1}{\\sqrt{3}}) = 7 \\Rightarrow h = \\frac{7\\sqrt{3}}{\\sqrt{3}-1} = \\frac{7\\sqrt{3}(\\sqrt{3}+1)}{2}$. [cite: 412, 413]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Trigonometry",
+    "question": "The number of solutions of the equation $2 cos(e^x) = 5^x + 5^{-x}$ are",
+    "question_latex": "The number of solutions of the equation $2 cos(e^x) = 5^x + 5^{-x}$ are",
+    "question_images": [],
+    "options": [
+      "A. No solution",
+      "B. One solution",
+      "C. Two solutions",
+      "D. Infinity many solutions"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$LHS = 2 cos(e^x) \\le 2$. $RHS = 5^x + 5^{-x} \\ge 2$ (by AM $\\ge$ GM). Equality holds when $5^x = 5^{-x} \\Rightarrow x = 0$. At $x=0$, $LHS = 2 cos(1) \\ne 2$. [cite_start]Hence, no solution exists. [cite: 413, 414]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Trigonometry",
+    "question": "The most general value of satisfying the equations $sin \\theta = sin \\alpha$ and $cos \\theta = cos \\alpha$ is",
+    "question_latex": "The most general value of satisfying the equations $sin \\theta = sin \\alpha$ and $cos \\theta = cos \\alpha$ is",
+    "question_images": [],
+    "options": [
+      "A. 2n\\pi + \\alpha",
+      "B. 2n\\pi - \\alpha",
+      "C. n\\pi + \\alpha",
+      "D. n\\pi - \\alpha"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Dividing $sin \\theta = sin \\alpha$ by $cos \\theta = cos \\alpha$ gives $tan \\theta = tan \\alpha$. [cite_start]The general solution for this is $\\theta = n\\pi + \\alpha$. [cite: 414, 415]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Trigonometry",
+    "question": "A triangular park is enclosed on two sides by a fence and on the third side by a straight river bank. The two sides having fence are of same length x. The maximum area enclosed by the park is",
+    "question_latex": "A triangular park is enclosed on two sides by a fence and on the third side by a straight river bank. The two sides having fence are of same length x. The maximum area enclosed by the park is",
+    "question_images": [],
+    "options": [
+      "A. \\sqrt{\\frac{x^3}{8}}",
+      "B. \\pi x^2",
+      "C. \\frac{1}{2}x^2",
+      "D. \\frac{3}{2}x^2"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Area $A = \\frac{1}{2}x^2 sin(2\\alpha)$. Maximum value of $sin(2\\alpha)$ is 1 when $2\\alpha = 90^\\circ$. [cite_start]Thus, maximum area is $\\frac{1}{2}x^2$. [cite: 415, 416, 417]",
+    "solution_images": [
+      "q33_solution_1"
+    ],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Trigonometry",
+    "question": "If $sin 3\\theta = sin \\theta$, how many solutions exist such that $0 < \\theta < 2\\pi$?",
+    "question_latex": "If $sin 3\\theta = sin \\theta$, how many solutions exist such that $0 < \\theta < 2\\pi$?",
+    "question_images": [],
+    "options": [
+      "A. 8",
+      "B. 9",
+      "C. 5",
+      "D. 7"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$sin 3\\theta - sin \\theta = 0 \\Rightarrow 2 cos 2\\theta sin \\theta = 0$. So $cos 2\\theta = 0$ or $sin \\theta = 0$. Solutions are $\\theta = \\pi/4, 3\\pi/4, 5\\pi/4, 7\\pi/4, \\pi$. [cite_start]Total 5 solutions. [cite: 417, 418]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Trigonometry",
+    "question": "If $cosh^{-1}x = log(2 + \\sqrt{3})$, then x is equal to",
+    "question_latex": "If $cosh^{-1}x = log(2 + \\sqrt{3})$, then x is equal to",
+    "question_images": [],
+    "options": [
+      "A. 2",
+      "B. 1",
+      "C. 3",
+      "D. 5"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Formula $cosh^{-1}x = log(x + \\sqrt{x^2-1})$. [cite_start]Comparing with $log(2 + \\sqrt{3})$, we get $x=2$. [cite: 418]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Heights and Distances",
+    "question": "Consider a triangular plot ABC with $sides = 7$ m, $BC = 5$ m and $CA = 6$ m. A vertical lamp-post at the midpoint D of AC subtends an angle $30^\\circ$ at B. The height (in m) of the lamp-post is",
+    "question_latex": "Consider a triangular plot ABC with $sides = 7$ m, $BC = 5$ m and $CA = 6$ m. A vertical lamp-post at the midpoint D of AC subtends an angle $30^\\circ$ at B. The height (in m) of the lamp-post is",
+    "question_images": [],
+    "options": [
+      "A. 7\\sqrt{3}",
+      "B. \\frac{2}{3}\\sqrt{21}",
+      "C. \\frac{3}{2}\\sqrt{21}",
+      "D. 2\\sqrt{21}"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Let height be $h$. $BD = h cot 30^\\circ = h\\sqrt{3}$. [cite_start]Using Apollonius theorem on median BD: $AB^2 + BC^2 = 2(BD^2 + AD^2) \\Rightarrow 7^2 + 5^2 = 2((h\\sqrt{3})^2 + 3^2) \\Rightarrow 74 = 2(3h^2 + 9) \\Rightarrow 37 = 3h^2 + 9 \\Rightarrow h^2 = 28/3 \\Rightarrow h = \\frac{2}{3}\\sqrt{21}$. [cite: 418, 419, 420]",
+    "solution_images": [
+      "q36_solution_1"
+    ],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Trigonometry",
+    "question": "If $sin \\theta = sin 15^\\circ + sin 45^\\circ$, where $0^\\circ < \\theta < 90^\\circ$, then $\\theta$ is equal to",
+    "question_latex": "If $sin \\theta = sin 15^\\circ + sin 45^\\circ$, where $0^\\circ < \\theta < 90^\\circ$, then $\\theta$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. 45^\\circ",
+      "B. 54^\\circ",
+      "C. 60^\\circ",
+      "D. 75^\\circ"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Using $sin A + sin B = 2 sin\\frac{A+B}{2} cos\\frac{A-B}{2}$, $sin \\theta = 2 sin 30^\\circ cos 15^\\circ = 2(\\frac{1}{2}) cos 15^\\circ = cos 15^\\circ = sin 75^\\circ$. [cite_start]Hence $\\theta = 75^\\circ$. [cite: 420]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If a ≠ 0, then the value of |a|/a is",
+    "question_latex": "If \\( a \\ne 0 \\), then the value of \\( \\frac{|a|}{a} \\) is",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. −1",
+      "C. 0",
+      "D. Depends on a"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "For $a>0$, $\\frac{|a|}{a}=1$.\nFor $a<0$, $\\frac{|a|}{a}=-1$.\nHence value depends on $a$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If sinθ + cosθ = √2, then θ is equal to",
+    "question_latex": "If \\( \\sin \\theta + \\cos \\theta = \\sqrt{2} \\), then \\( \\theta \\) is equal to",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 30°",
+      "C. 45°",
+      "D. 90°"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Maximum value of $\\sin\\theta + \\cos\\theta$ is $\\sqrt{2}$, which occurs at $\\theta = 45^\\circ$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If a ≠ 0, then the value of (a² − |a|a)/a² is",
+    "question_latex": "If \\( a \\ne 0 \\), then the value of \\( \\frac{a^2 - |a|a}{a^2} \\) is",
+    "question_images": [],
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. −1",
+      "D. Depends on a"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "For $a>0$, numerator becomes $0$.\nFor $a<0$, numerator becomes $-2a^2$.\nHence value is $-1$.",
+    "solution_images": [
+      "q40_solution_1"
+    ],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If f(x) = x² − 2x + 3, then the minimum value of f(x) is",
+    "question_latex": "If \\( f(x) = x^2 - 2x + 3 \\), then the minimum value of \\( f(x) \\) is",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Minimum value occurs at $x=\\frac{-b}{2a}=1$.\n$f(1)=2$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If sinθ = 1/2 and θ is acute, then θ is",
+    "question_latex": "If \\( \\sin \\theta = \\frac{1}{2} \\) and \\( \\theta \\) is acute, then \\( \\theta \\) is",
+    "question_images": [],
+    "options": [
+      "A. 15°",
+      "B. 30°",
+      "C. 45°",
+      "D. 60°"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "For acute angles, $\\sin \\theta = \\frac{1}{2}$ at $30^\\circ$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If tanθ + cotθ = 2, then θ is equal to",
+    "question_latex": "If \\( \\tan \\theta + \\cot \\theta = 2 \\), then \\( \\theta \\) is equal to",
+    "question_images": [],
+    "options": [
+      "A. 30°",
+      "B. 45°",
+      "C. 60°",
+      "D. 90°"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Minimum value of $\\tan\\theta + \\cot\\theta$ is 2, attained at $\\theta = 45^\\circ$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If sin²θ + cos²θ + tan²θ = 2, then θ is",
+    "question_latex": "If \\( \\sin^2\\theta + \\cos^2\\theta + \\tan^2\\theta = 2 \\), then \\( \\theta \\) is",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 30°",
+      "C. 45°",
+      "D. 60°"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Using identity $\\sin^2\\theta + \\cos^2\\theta = 1$.\n$1 + \\tan^2\\theta = 2$ ⇒ $\\tan^2\\theta = 1$ ⇒ $\\theta = 45^\\circ$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If cosθ = sinθ, then θ is equal to",
+    "question_latex": "If \\( \\cos \\theta = \\sin \\theta \\), then \\( \\theta \\) is equal to",
+    "question_images": [],
+    "options": [
+      "A. 0°",
+      "B. 30°",
+      "C. 45°",
+      "D. 90°"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$\\cos\\theta = \\sin\\theta$ ⇒ $\\tan\\theta = 1$ ⇒ $\\theta = 45^\\circ$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "The minimum value of x² − 4x + 7 is",
+    "question_latex": "The minimum value of \\( x^2 - 4x + 7 \\) is",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 3",
+      "C. 5",
+      "D. 7"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Vertex occurs at $x=2$.\n$f(2)=3$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If θ is acute and sinθ = cosθ, then θ is",
+    "question_latex": "If \\( \\theta \\) is acute and \\( \\sin \\theta = \\cos \\theta \\), then \\( \\theta \\) is",
+    "question_images": [],
+    "options": [
+      "A. 30°",
+      "B. 45°",
+      "C. 60°",
+      "D. 90°"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "For acute angles, $\\sin\\theta = \\cos\\theta$ only at $45^\\circ$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "Equation x² + 1 = 0 has",
+    "question_latex": "The equation \\( x^2 + 1 = 0 \\) has",
+    "question_images": [],
+    "options": [
+      "A. No real solution",
+      "B. One real solution",
+      "C. Two real solutions",
+      "D. Infinite solutions"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Since $x^2 = -1$ has no real solution.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "The general value of θ satisfying sinθ = −1/2 is",
+    "question_latex": "The general value of \\( \\theta \\) satisfying \\( \\sin \\theta = -\\frac{1}{2} \\) is",
+    "question_images": [],
+    "options": [
+      "A. 210° + 360°n",
+      "B. 330° + 360°n",
+      "C. Both A and B",
+      "D. None"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Sine is negative in III and IV quadrants.\nHence solutions are $210^\\circ + 360^\\circ n$ and $330^\\circ + 360^\\circ n$.",
+    "solution_images": [
+      "q49_solution_1"
+    ],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "The general solution of cosθ = −√3/2 is",
+    "question_latex": "The general solution of \\( \\cos \\theta = -\\frac{\\sqrt{3}}{2} \\) is",
+    "question_images": [],
+    "options": [
+      "A. 30° + 360°n",
+      "B. 150° + 360°n",
+      "C. 210° + 360°n",
+      "D. Both B and C"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Cosine is negative in II and III quadrants.\nHence $\\theta = 150^\\circ + 360^\\circ n$ or $210^\\circ + 360^\\circ n$.",
+    "solution_images": [
+      "q50_solution_1"
+    ],
+    "difficulty": "",
+    "marks": 4
+  }
+]

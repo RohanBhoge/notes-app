@@ -1,0 +1,1910 @@
+[
+    {
+        "id": 1,
+        "chapter": "Chemical_Kinetics",
+        "question": "The first order integrated rate equation is [MHT-CET 2010]",
+        "question_latex": "The first order integrated rate equation is [MHT-CET 2010]",
+        "question_images": [],
+        "options": [
+            "A. k = x/t",
+            "B. k = - (2.303 / t) log(a / (a-x))",
+            "C. k = (1 / t) ln(a / (a-x))",
+            "D. k = (1 / t) [x / (a(a-x))]"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The integrated rate law for a first-order reaction is $k = \\frac{2.303}{t} \\log_{10} \\frac{[A]_0}{[A]_t}$. In the given options, $k = \\frac{1}{t} \\ln \\frac{a}{a-x}$ is the natural log form.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Chemical_Kinetics",
+        "question": "Instantaneous rate of reaction for equation, 2 A + B → C + 3D is given by [MHT-CET 2024]",
+        "question_latex": "Instantaneous rate of reaction for equation, $2A + B \\rightarrow C + 3D$ is given by [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. d[B]/dt",
+            "B. 1/3 d[D]/dt",
+            "C. 1/2 d[A]/dt",
+            "D. d[A]/dt"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "For the reaction $2A + B \\rightarrow C + 3D$, the rate is $Rate = -\\frac{1}{2} \\frac{d[A]}{dt} = -\\frac{d[B]}{dt} = \\frac{d[C]}{dt} = \\frac{1}{3} \\frac{d[D]}{dt}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Chemical_Kinetics",
+        "question": "Nitric oxide reacts with H2 according to reaction, 2NO(g) + 2H2(g) → N2(g) + 2H2O(g), identify the correct relationship among the following. [2025]",
+        "question_latex": "Nitric oxide reacts with $H_2$ according to reaction, $2NO_{(g)} + 2H_{2(g)} \\rightarrow N_{2(g)} + 2H_2O_{(g)}$, identify the correct relationship among the following. [2025]",
+        "question_images": [],
+        "options": [
+            "A. 2 d[H2]/dt = d[N2]/dt",
+            "B. -d[NO]/dt = d[H2O]/dt",
+            "C. -1/2 d[NO]/dt = d[H2O]/dt",
+            "D. -3/2 d[NO]/dt = d[H2O]/dt"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Rate $= -\\frac{1}{2}\\frac{d[NO]}{dt} = -\\frac{1}{2}\\frac{d[H_2]}{dt} = \\frac{d[N_2]}{dt} = \\frac{1}{2}\\frac{d[H_2O]}{dt}$. Multiplying by 2 gives $-\\frac{d[NO]}{dt} = \\frac{d[H_2O]}{dt}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction N2(g) + 3H2(g) → 2NH3(g), what is the relation between d[N2]/dt and d[H2]/dt? [MHT-CET 2021]",
+        "question_latex": "For the reaction $N_{2(g)} + 3H_{2(g)} \\rightarrow 2NH_{3(g)}$, what is the relation between $\\frac{d[N_2]}{dt}$ and $\\frac{d[H_2]}{dt}$? [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. d[H2]/dt = d[N2]/dt",
+            "B. 3 d[H2]/dt = 2 d[N2]/dt",
+            "C. 3 d[H2]/dt = d[N2]/dt",
+            "D. d[H2]/dt = 3 d[N2]/dt"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Rate $= -\\frac{d[N_2]}{dt} = -\\frac{1}{3}\\frac{d[H_2]}{dt}$. Therefore, $\\frac{d[H_2]}{dt} = 3\\frac{d[N_2]}{dt}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Chemical_Kinetics",
+        "question": "The efficiency of an enzyme in catalyzing a reaction is in its ability",
+        "question_latex": "The efficiency of an enzyme in catalyzing a reaction is in its ability",
+        "question_images": [],
+        "options": [
+            "A. To form a strong enzyme substrate complex",
+            "B. To decrease the bond energy of all substrate molecules",
+            "C. To change the shape of the substrate molecule",
+            "D. To lower the activation energy of the reaction"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Enzymes, like all catalysts, work by providing an alternative reaction pathway with a lower activation energy ($E_a$).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Chemical_Kinetics",
+        "question": "The relationship between rate constant and half-life period of zero order reaction is given by [MHT-CET 2015]",
+        "question_latex": "The relationship between rate constant and half-life period of zero order reaction is given by [MHT-CET 2015]",
+        "question_images": [],
+        "options": [
+            "A. t1/2 = [A]0 2k",
+            "B. t1/2 = 0.693/k",
+            "C. t1/2 = [A]0 / 2k",
+            "D. t1/2 = 2[A]0 / k"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "For a zero-order reaction, the integrated rate law is $[A]_t = -kt + [A]_0$. At $t_{1/2}$, $[A]_t = [A]_0/2$. Thus, $t_{1/2} = \\frac{[A]_0}{2k}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Chemical_Kinetics",
+        "question": "Which from following is the slope of the graph of [A]t versus time for zero order reaction? [MHT-CET 2023]",
+        "question_latex": "Which from following is the slope of the graph of $[A]_t$ versus time for zero order reaction? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. -k / 2.303",
+            "B. -k",
+            "C. k / 2.303",
+            "D. k"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The zero-order equation is $[A]_t = -kt + [A]_0$. Comparing with $y = mx + c$, the slope $m = -k$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction, A + 3B → 2C; rate of consumption of A is 1.4 mol dm⁻³ sec⁻¹. Calculate rate of formation of C? [MHT-CET 2024]",
+        "question_latex": "For the reaction, $A + 3B \\rightarrow 2C$; rate of consumption of $A$ is $1.4\\text{ mol dm}^{-3}s^{-1}$. Calculate rate of formation of $C$? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 1.4 mol dm⁻³ sec⁻¹",
+            "B. 2.8 mol dm⁻³ sec⁻¹",
+            "C. 0.07 mol dm⁻³ sec⁻¹",
+            "D. 3.5 mol dm⁻³ sec⁻¹"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Rate $= -\\frac{d[A]}{dt} = \\frac{1}{2}\\frac{d[C]}{dt}$. Given $-\\frac{d[A]}{dt} = 1.4$, then $\\frac{d[C]}{dt} = 2 \\times 1.4 = 2.8\\text{ mol dm}^{-3}s^{-1}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Chemical_Kinetics",
+        "question": "Consider the reaction 2A + 2B → C + 2D, if concentration of A is doubled at constant [B], rate increases by a factor 4. If concentration B is doubled at constant [A] the rate is doubled. Rate law of the reaction is [MHT-CET 2019]",
+        "question_latex": "Consider the reaction $2A + 2B \\rightarrow C + 2D$, if concentration of $A$ is doubled at constant $[B]$, rate increases by a factor $4$. If concentration $B$ is doubled at constant $[A]$ the rate is doubled. Rate law of the reaction is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. rate = k[A]²[B]",
+            "B. rate = k[A][B]²",
+            "C. rate = k[A]²[B]²",
+            "D. rate = k[A][B]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Rate $\\propto [A]^x[B]^y$. Doubling $[A]$ increases rate $4$x $\\Rightarrow 2^x = 4 \\Rightarrow x=2$. Doubling $[B]$ increases rate $2$x $\\Rightarrow 2^y = 2 \\Rightarrow y=1$. Rate Law: $k[A]^2[B]$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Chemical_Kinetics",
+        "question": "Consider the reaction, 3I⁻ + S2O8²⁻ → I3⁻ + 2SO4²⁻. If d[SO4²⁻]/dt = 2.2 × 10⁻² mol dm⁻³ s⁻¹, calculate the value of d[I3⁻]/dt? [MHT-CET 2022]",
+        "question_latex": "Consider the reaction, $3I^- + S_2O_8^{2-} \\rightarrow I_3^- + 2SO_4^{2-}$. If $\\frac{d[SO_4^{2-}]}{dt} = 2.2 \\times 10^{-2}\\text{ mol dm}^{-3}s^{-1}$, calculate the value of $\\frac{d[I_3^-]}{dt}$? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 3.3 × 10⁻²",
+            "B. 1.1 × 10⁻²",
+            "C. 2.2 × 10⁻²",
+            "D. 4.4 × 10⁻²"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Rate $= \\frac{d[I_3^-]}{dt} = \\frac{1}{2}\\frac{d[SO_4^{2-}]}{dt}$. Given $\\frac{d[SO_4^{2-}]}{dt} = 2.2 \\times 10^{-2}$, so $\\frac{d[I_3^-]}{dt} = \\frac{1}{2} \\times 2.2 \\times 10^{-2} = 1.1 \\times 10^{-2}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Chemical_Kinetics",
+        "question": "Rate constant of a reaction, 2NO2Cl2(g) -> 2NO2(g) + Cl2(g) is 4.7672 minute -1. Calculate half-life of reaction. [MHT-CET 2024]",
+        "question_latex": "Rate constant of a reaction, $2NO_{2}Cl_{2(g)} \\rightarrow 2NO_{2(g)} + Cl_{2(g)}$ is $4.7672 \\text{ minute}^{-1}$. Calculate half-life of reaction. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 0.4362 minute",
+            "B. 0.0727 minute",
+            "C. 0.2181 minute",
+            "D. 0.1454 minute"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Given: $k = 4.7672 \\text{ minute}^{-1}$, $t_{1/2} = ?$. $t_{1/2} = \\frac{0.693}{k} = \\frac{0.693}{4.7672 \\text{ minute}^{-1}} = 0.1454 \\text{ minute}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Chemical_Kinetics",
+        "question": "The reaction H3COOC2H5 + NaOH -> CH3COONa + C2H5OH",
+        "question_latex": "The reaction $H_{3}COOC_{2}H_{5} + NaOH \\rightarrow CH_{3}COONa + C_{2}H_{5}OH$",
+        "question_images": [],
+        "options": [
+            "A. Bimolecular reaction",
+            "B. II order reaction",
+            "C. both a and b",
+            "D. Pseudo unimolecular reaction"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In this $Rate \\propto [\\text{Ester}][NaOH]$. Hence the order of reaction is 2. And two molecules involved so it is bimolecular.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction A + B -> product, rate of reaction is 3.6 x 10-2 mol dm-3 sec-1. When [A] = 0.2 mol dm-3 and [B] = 0.1 mol dm-3 find rate constant of reaction if it is second order with respective to both reactants. [MHT-CET 2021]",
+        "question_latex": "For the reaction $A + B \\rightarrow \\text{product}$, rate of reaction is $3.6 \\times 10^{-2} \\text{ mol dm}^{-3} \\text{sec}^{-1}$. When $[A] = 0.2 \\text{ mol dm}^{-3}$ and $[B] = 0.1 \\text{ mol dm}^{-3}$ find rate constant of reaction if it is second order with respective to both reactants. [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 90 mol-3 dm9 sec-1",
+            "B. 72 mol-3 dm9 sec-1",
+            "C. 36 mol-3 dm9 sec-1",
+            "D. 18 mol-3 dm9 sec-1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$r = k[A]^{2}[B]^{2} \\Rightarrow k = \\frac{r}{[A]^{2}[B]^{2}} = \\frac{3.6 \\times 10^{-3}}{(0.2)^{2} \\times (0.1)^{2}} = \\frac{3.6 \\times 10^{-3}}{0.04 \\times 0.01} = 90 \\text{ mol}^{-3} \\text{dm}^{9} \\text{sec}^{-1}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Chemical_Kinetics",
+        "question": "After how many second will the concentration of the reactant in a first order reaction be halved if the rate constant is 1.155 x 10-3 s-1? [MHT CET 2008]",
+        "question_latex": "After how many second will the concentration of the reactant in a first order reaction be halved if the rate constant is $1.155 \\times 10^{-3} s^{-1}$? [MHT CET 2008]",
+        "question_images": [],
+        "options": [
+            "A. 600",
+            "B. 100",
+            "C. 60",
+            "D. 10"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$t_{1/2} = \\frac{0.693}{k} = \\frac{0.693}{1.155 \\times 10^{-3}} = 600 \\text{ s}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Chemical_Kinetics",
+        "question": "The rate constant of a reaction is 0.2 min-1 the order of the reaction is",
+        "question_latex": "The rate constant of a reaction is $0.2 \\text{ min}^{-1}$ the order of the reaction is",
+        "question_images": [],
+        "options": [
+            "A. Second",
+            "B. First",
+            "C. Zero",
+            "D. Thrid"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The unit of rate constant of a first order reaction is $\\text{time}^{-1}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Chemical_Kinetics",
+        "question": "Rate law for the reaction, C2H5I(g) -> C2H4(g) + HI(g) is r = k[C2H5I]. What is the order and molecularity of this reaction? [2025]",
+        "question_latex": "Rate law for the reaction, $C_{2}H_{5}I_{(g)} \\rightarrow C_{2}H_{4(g)} + HI_{(g)}$ is $r = k[C_{2}H_{5}I]$. What is the order and molecularity of this reaction? [2025]",
+        "question_images": [],
+        "options": [
+            "A. order is 2 and molecularity is 1",
+            "B. order is 1 and molecularity is 2",
+            "C. order and molecularity both are 1",
+            "D. order and molecularity both are 2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "For the given reaction, $r = k[C_{2}H_{5}I]$. Order = 1. Molecularity (no. of reactants) = 1.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Chemical_Kinetics",
+        "question": "The rate of the first order reaction X -> Products is 7.5 x 10-4 mol L-1 min-1 when the concentration of X is 0.5 mol L-1 the rate constant is",
+        "question_latex": "The rate of the first order reaction $X \\rightarrow \\text{Products}$ is $7.5 \\times 10^{-4} \\text{ mol L}^{-1} \\text{min}^{-1}$ when the concentration of $X$ is $0.5 \\text{ mol L}^{-1}$ the rate constant is",
+        "question_images": [],
+        "options": [
+            "A. 3.75 x 10-4 s-1",
+            "B. 2.5 x 10-5 s-1",
+            "C. 3.75 x 10-3 s-1",
+            "D. 3.75 x 104 s-1"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Rate $= 7.5 \\times 10^{-4} \\text{ mol L}^{-1} \\text{min}^{-1} = \\frac{7.5 \\times 10^{-4}}{60} \\text{ mol L}^{-1} s^{-1} = 1.25 \\times 10^{-5} \\text{ mol L}^{-1} s^{-1}$. Rate $= k[X] \\Rightarrow k = \\frac{1.25 \\times 10^{-5}}{0.5} = 2.5 \\times 10^{-5} s^{-1}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Chemical_Kinetics",
+        "question": "In a 1st order reaction, reactant concentration C varies with time t as",
+        "question_latex": "In a $1^{st}$ order reaction, reactant concentration $C$ varies with time $t$ as",
+        "question_images": [],
+        "options": [
+            "A. 1/C increases linearly with t",
+            "B. Log C decreases linearly with t",
+            "C. C decreases with 1/t",
+            "D. Log C decreases with 1/t"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "For a first-order reaction, $\\log C = -\\frac{k}{2.303}t + \\log C_{0}$. This represents a linear decrease of $\\log C$ with time $t$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Chemical_Kinetics",
+        "question": "For a reaction between gaseous compounds, 2A + B -> C + D. If volume is reduced to one fourth, how many times will the rate of reaction change?",
+        "question_latex": "For a reaction between gaseous compounds, $2A + B \\rightarrow C + D$. If volume is reduced to one fourth, how many times will the rate of reaction change?",
+        "question_images": [],
+        "options": [
+            "A. 16 times",
+            "B. 4 times",
+            "C. 1/8 times",
+            "D. 1/16 times"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "When volume is reduced to one fourth, concentration becomes four times. Assuming second order with respect to A (though rate law not fully provided, solution implies $Rate = k[A]^2$), rate becomes $4^2 = 16$ times.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Chemical_Kinetics",
+        "question": "The rate law for a reaction between the substances A and B is given by rate = k[A]n[B]m. On doubling the concentration of A and halving the concentration of B, the ratio of the new rate to the earlier rate of the reaction will be as",
+        "question_latex": "The rate law for a reaction between the substances $A$ and $B$ is given by $rate = k[A]^{n}[B]^{m}$. On doubling the concentration of $A$ and halving the concentration of $B$, the ratio of the new rate to the earlier rate of the reaction will be as",
+        "question_images": [],
+        "options": [
+            "A. 1/2^(m+n)",
+            "B. (m+n)",
+            "C. (n-m)",
+            "D. 2^(n-m)"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$Rate = k[A]^{n}[B]^{m}$. Doubling A makes rate $2^{n}$ times. Halving B makes rate $(\\frac{1}{2})^{m}$ times. Net rate $= (2)^{n} \\times (2)^{-m} = (2)^{n-m}$ times.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Chemical_Kinetics",
+        "question": "Rate of a reaction is given by Rate = k[A]^2[B]. If concentration of A is reduced to half, how many times should concentration of B be increased to keep rate same?",
+        "question_latex": "$\\text{The rate of a reaction is given by } \\text{Rate} = k[A]^2[B]. \\text{ If concentration of } A \\text{ is reduced to half, by how many times should concentration of } B \\text{ be increased so that the rate remains unchanged?}$",
+        "question_images": [],
+        "options": [
+            "A. 4 times",
+            "B. 2 times",
+            "C. 8 times",
+            "D. No change"
+        ],
+        "option_images": [],
+        "answer": "A. 4 times",
+        "solution": "$\\text{Initial rate } R = k[A]^2[B]. \\\\ A' = \\frac{A}{2}. \\\\ R = k\\left(\\frac{A}{2}\\right)^2 B' = k\\frac{A^2}{4}B'. \\\\ \\text{For same rate: } B' = 4B.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Chemical_Kinetics",
+        "question": "The differential rate law for the reaction 4NH3 + 5O2 → 4NO + 6H2O is",
+        "question_latex": "$\\text{For the reaction } 4NH_3 + 5O_2 \\rightarrow 4NO + 6H_2O, \\text{ the differential rate law is } -\\frac{1}{4}\\frac{d[NH_3]}{dt} = -\\frac{1}{5}\\frac{d[O_2]}{dt} = \\frac{1}{4}\\frac{d[NO]}{dt} = \\frac{1}{6}\\frac{d[H_2O]}{dt}$",
+        "question_images": [],
+        "options": [
+            "A. $-\\frac{d[NH_3]}{dt}$",
+            "B. $-\\frac{1}{4}\\frac{d[NH_3]}{dt}$",
+            "C. $\\frac{d[NO]}{dt}$",
+            "D. $\\frac{1}{6}\\frac{d[H_2O]}{dt}$"
+        ],
+        "option_images": [],
+        "answer": "B. $-\\frac{1}{4}\\frac{d[NH_3]}{dt}$",
+        "solution": "$\\text{Rate expressions are written by dividing by stoichiometric coefficients.}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Chemical_Kinetics",
+        "question": "For a chemical reaction A → Products, the rate controlling step is A → B. If concentration of B is tripled, the rate of reaction becomes",
+        "question_latex": "$\\text{For the reaction } A \\rightarrow \\text{Products}, \\text{ the rate controlling step is } A \\rightarrow B. \\text{ If concentration of } B \\text{ is tripled, how does the rate change?}$",
+        "question_images": [],
+        "options": [
+            "A. Becomes 3 times",
+            "B. Becomes 9 times",
+            "C. Becomes 1.732 times",
+            "D. Becomes double"
+        ],
+        "option_images": [],
+        "answer": "C. Becomes 1.732 times",
+        "solution": "$\\text{Rate} \\propto [A]^{1/2}. \\\\ \\text{Tripling concentration gives } (3)^{1/2} = 1.732.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Chemical_Kinetics",
+        "question": "Acid hydrolysis of sucrose is an example of",
+        "question_latex": "$\\text{Acid hydrolysis of sucrose is an example of which order reaction?}$",
+        "question_images": [],
+        "options": [
+            "A. Pseudo first order reaction",
+            "B. Zero order reaction",
+            "C. Second order reaction",
+            "D. Unimolecular reaction"
+        ],
+        "option_images": [],
+        "answer": "A. Pseudo first order reaction",
+        "solution": "$\\text{Since water is in excess, the reaction depends only on sucrose concentration.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Chemical_Kinetics",
+        "question": "For reaction A + 2B → C + D, the rate of formation of D doubles when [A] is doubled keeping [B] constant. The rate law is",
+        "question_latex": "$\\text{For the reaction } A + 2B \\rightarrow C + D, \\text{ the rate of formation of } D \\text{ doubles when } [A] \\text{ is doubled keeping } [B] \\text{ constant. The rate law is}$",
+        "question_images": [],
+        "options": [
+            "A. $k[A][B]$",
+            "B. $k[A]^2[B]$",
+            "C. $k[A][B]^2$",
+            "D. $k[A]$"
+        ],
+        "option_images": [],
+        "answer": "A. $k[A][B]$",
+        "solution": "$\\text{Doubling } [A] \\text{ doubles rate, hence order with respect to } A = 1.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Chemical_Kinetics",
+        "question": "What is the time required to reduce concentration of a reactant to half if rate constant of first order reaction is 1.155 × 10⁻³ s⁻¹?",
+        "question_latex": "$\\text{What is the time required to reduce concentration of a reactant to half if the rate constant of a first order reaction is } k = 1.155 \\times 10^{-3}\\,s^{-1}?$",
+        "question_images": [],
+        "options": [
+            "A. 300 s",
+            "B. 600 s",
+            "C. 1200 s",
+            "D. 900 s"
+        ],
+        "option_images": [],
+        "answer": "B. 600 s",
+        "solution": "$t_{1/2} = \\frac{0.693}{k} = \\frac{0.693}{1.155 \\times 10^{-3}} = 600\\,s.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Chemical_Kinetics",
+        "question": "The minimum energy required by a molecule to take part in an effective collision is called",
+        "question_latex": "$\\text{The minimum energy required by a molecule to participate in an effective collision is called}$",
+        "question_images": [],
+        "options": [
+            "A. Reaction energy",
+            "B. Collision energy",
+            "C. Activation energy",
+            "D. Threshold energy"
+        ],
+        "option_images": [],
+        "answer": "D. Threshold energy",
+        "solution": "$\\text{Threshold energy is the minimum energy required for effective collision.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction 3I⁻ + S₂O₈²⁻ → I₃⁻ + 2SO₄²⁻, rate of formation of SO₄²⁻ is 0.044 mol dm⁻³ s⁻¹. Find rate of reaction.",
+        "question_latex": "$\\text{For the reaction } 3I^- + S_2O_8^{2-} \\rightarrow I_3^- + 2SO_4^{2-}, \\text{ the rate of formation of } SO_4^{2-} \\text{ is } 0.044\\,mol\\,dm^{-3}s^{-1}. \\text{ Find the rate of reaction.}$",
+        "question_images": [],
+        "options": [
+            "A. 0.044",
+            "B. 0.022",
+            "C. 0.066",
+            "D. 0.088"
+        ],
+        "option_images": [],
+        "answer": "B. 0.022",
+        "solution": "$\\text{Rate} = \\frac{1}{2}\\times 0.044 = 0.022\\,mol\\,dm^{-3}s^{-1}.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Chemical_Kinetics",
+        "question": "The rate constant for a first order reaction is 0.02232 min⁻¹. Calculate time required for 75% completion.",
+        "question_latex": "$\\text{The rate constant for a first order reaction is } k = 0.02232\\,min^{-1}. \\text{ Calculate the time required for 75\\% completion.}$",
+        "question_images": [],
+        "options": [
+            "A. 62.12 min",
+            "B. 38.3 min",
+            "C. 48.12 min",
+            "D. 12.77 min"
+        ],
+        "option_images": [],
+        "answer": "A. 62.12 min",
+        "solution": "$t = \\frac{2.303}{k}\\log\\frac{a}{a-x} = \\frac{2.303}{0.02232}\\log\\frac{100}{25} = 62.12\\,min.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Chemical_Kinetics",
+        "question": "Which of the following reactions is an example of zero order reaction?",
+        "question_latex": "$\\text{Which of the following reactions represents a zero order reaction?}$",
+        "question_images": [],
+        "options": [
+            "A. $2SO_2 + O_2 \\rightarrow 2SO_3$",
+            "B. $H_2 + I_2 \\rightarrow 2HI$",
+            "C. $2H_2O_2 \\rightarrow 2H_2O + O_2$",
+            "D. $2SO_2 \\rightarrow 2SO_3$ (on surface)"
+        ],
+        "option_images": [],
+        "answer": "D. $2SO_2 \\rightarrow 2SO_3$ (on surface)",
+        "solution": "$\\text{Surface reactions often follow zero order kinetics.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Chemical_Kinetics",
+        "question": "Mathematical expression for t3/4 i.e. when one fourth reaction is over for a first order reaction is",
+        "question_latex": "$\\text{The mathematical expression for } t_{3/4}, \\text{ that is when one fourth of the reaction is over for a first order reaction, is}$",
+        "question_images": [],
+        "options": [
+            "A. $t_{3/4} = \\frac{2.303}{k}\\log 4$",
+            "B. $t_{3/4} = \\frac{2.303}{k}\\log \\frac{4}{3}$",
+            "C. $t_{3/4} = \\frac{2.303}{k}\\log 3$",
+            "D. $t_{3/4} = \\frac{2.303}{k}\\log \\frac{3}{4}$"
+        ],
+        "option_images": [],
+        "answer": "A. $t_{3/4} = \\frac{2.303}{k}\\log 4$",
+        "solution": "$\\text{For first order reaction: } t = \\frac{2.303}{k}\\log\\frac{a}{a-x}. \\\\ \\text{For } x = \\frac{3a}{4}, \\\\ t_{3/4} = \\frac{2.303}{k}\\log 4.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Chemical_Kinetics",
+        "question": "Which of the following statements about order of reaction is NOT correct?",
+        "question_latex": "$\\text{Which of the following statements regarding the order of a reaction is NOT correct?}$",
+        "question_images": [],
+        "options": [
+            "A. Order depends on experimental rate law",
+            "B. Order of reaction is equal to sum of powers of concentration terms",
+            "C. Order is affected by stoichiometric coefficients",
+            "D. Order cannot be fractional"
+        ],
+        "option_images": [],
+        "answer": "D. Order cannot be fractional",
+        "solution": "$\\text{Order of reaction can be fractional; hence statement D is incorrect.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Chemical_Kinetics",
+        "question": "A complex reaction takes place in the following steps. NO2 + Cl2 → NO2Cl + Cl, Identify the reaction intermediate",
+        "question_latex": "$\\text{A complex reaction occurs in steps. For the reaction } NO_2 + Cl_2 \\rightarrow NO_2Cl + Cl, \\text{ identify the reaction intermediate.}$",
+        "question_images": [],
+        "options": [
+            "A. NO2",
+            "B. NO2Cl",
+            "C. Cl",
+            "D. Cl2"
+        ],
+        "option_images": [],
+        "answer": "C. Cl",
+        "solution": "$\\text{Reaction intermediate is formed in one step and consumed in another. Chlorine radical } (Cl) \\text{ fits this definition.}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Chemical_Kinetics",
+        "question": "What is the half life of a first order reaction if it requires 32 minutes for 75% completion?",
+        "question_latex": "$\\text{What is the half life of a first order reaction if 75\\% of the reaction is completed in 32 minutes?}$",
+        "question_images": [],
+        "options": [
+            "A. 24 min",
+            "B. 20 min",
+            "C. 16 min",
+            "D. 32 min"
+        ],
+        "option_images": [],
+        "answer": "C. 16 min",
+        "solution": "$\\text{For first order reaction, } t_{75\\%} = 2t_{1/2}. \\\\ t_{1/2} = \\frac{32}{2} = 16\\,min.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Chemical_Kinetics",
+        "question": "In the reaction 3A → 2B, rate of reaction + d[B]/dt is equal to",
+        "question_latex": "$\\text{For the reaction } 3A \\rightarrow 2B, \\text{ the rate of reaction in terms of } \\frac{d[B]}{dt} \\text{ is}$",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{1}{3}\\frac{d[B]}{dt}$",
+            "B. $\\frac{1}{2}\\frac{d[B]}{dt}$",
+            "C. $\\frac{3}{2}\\frac{d[B]}{dt}$",
+            "D. $2\\frac{d[B]}{dt}$"
+        ],
+        "option_images": [],
+        "answer": "B. $\\frac{1}{2}\\frac{d[B]}{dt}$",
+        "solution": "$\\text{Rate} = \\frac{1}{\\text{stoichiometric coefficient}}\\times\\frac{d[B]}{dt} = \\frac{1}{2}\\frac{d[B]}{dt}.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Chemical_Kinetics",
+        "question": "For zero order reaction, the integrated rate equation is",
+        "question_latex": "$\\text{For a zero order reaction, the integrated rate equation is}$",
+        "question_images": [],
+        "options": [
+            "A. $[A] = [A]_0 - kt$",
+            "B. $[A] = [A]_0 e^{-kt}$",
+            "C. $\\log[A] = \\log[A]_0 - kt$",
+            "D. $\\frac{1}{[A]} = kt$"
+        ],
+        "option_images": [],
+        "answer": "A. $[A] = [A]_0 - kt$",
+        "solution": "$\\text{Zero order reactions show linear decrease of concentration with time.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction 2NO + 2H2 → N2 + 2H2O, if rate constant is given and concentration of NO is doubled, how does rate change?",
+        "question_latex": "$\\text{For the reaction } 2NO + 2H_2 \\rightarrow N_2 + 2H_2O, \\text{ if concentration of } NO \\text{ is doubled, how does the rate change?}$",
+        "question_images": [],
+        "options": [
+            "A. Becomes double",
+            "B. Becomes four times",
+            "C. Becomes eight times",
+            "D. Remains unchanged"
+        ],
+        "option_images": [],
+        "answer": "B. Becomes four times",
+        "solution": "$\\text{Rate} \\propto [NO]^2. \\\\ \\text{Doubling } [NO] \\Rightarrow 2^2 = 4.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Chemical_Kinetics",
+        "question": "For a first order reaction with respect to CO, if concentration is doubled, how does the rate change?",
+        "question_latex": "$\\text{For a first order reaction with respect to carbon monoxide, if its concentration is doubled, how does the rate change?}$",
+        "question_images": [],
+        "options": [
+            "A. Remains unchanged",
+            "B. Triples",
+            "C. Doubles",
+            "D. Quadruples"
+        ],
+        "option_images": [],
+        "answer": "C. Doubles",
+        "solution": "$\\text{For first order reaction, rate } \\propto [CO]. \\\\ \\text{Doubling concentration doubles the rate.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Chemical_Kinetics",
+        "question": "The rate constant for a first order reaction is 1.15 × 10⁻³ s⁻¹. How long will it take to reduce 3 g of reactant to 1 g?",
+        "question_latex": "$\\text{The rate constant for a first order reaction is } 1.15 \\times 10^{-3}\\,s^{-1}. \\text{ Calculate the time required to reduce 3 g of reactant to 1 g.}$",
+        "question_images": [],
+        "options": [
+            "A. 444 s",
+            "B. 200 s",
+            "C. 425 s",
+            "D. 434 s"
+        ],
+        "option_images": [],
+        "answer": "A. 444 s",
+        "solution": "$t = \\frac{2.303}{k}\\log\\frac{3}{1} = \\frac{2.303}{1.15 \\times 10^{-3}}\\log 3 = 444\\,s.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Chemical_Kinetics",
+        "question": "Half life of a first order reaction is 3 hours. Calculate the value of log(A0/At) after 8 hours.",
+        "question_latex": "$\\text{The half life of a first order reaction is 3 hours. Calculate the value of } \\log\\left(\\frac{A_0}{A_t}\\right) \\text{ after 8 hours.}$",
+        "question_images": [],
+        "options": [
+            "A. 1.82",
+            "B. 6.34",
+            "C. 4.34",
+            "D. 2.17"
+        ],
+        "option_images": [],
+        "answer": "B. 6.34",
+        "solution": "$k = \\frac{0.693}{t_{1/2}} = \\frac{0.693}{3}. \\\\ \\log\\frac{A_0}{A_t} = \\frac{kt}{2.303} = \\frac{0.231 \\times 8}{2.303} = 0.8024. \\\\ \\text{Antilog}(0.8024) = 6.34.$",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Chemical_Kinetics",
+        "question": "The reaction 2NO + O2 → 2NO2 is of first order. If volume of reaction vessel is reduced to one third, the rate of reaction will",
+        "question_latex": "$\\text{The reaction } 2NO + O_2 \\rightarrow 2NO_2 \\text{ is first order. If the volume of the reaction vessel is reduced to one third, how does the rate of reaction change?}$",
+        "question_images": [],
+        "options": [
+            "A. 3 times",
+            "B. 9 times",
+            "C. 1/3 times",
+            "D. Remains same"
+        ],
+        "option_images": [],
+        "answer": "A. 3 times",
+        "solution": "$\\text{Reducing volume to } \\frac{1}{3} \\text{ increases concentration three times. For first order reaction, rate } \\propto \\text{concentration, hence rate becomes } 3 \\text{ times.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Chemical_Kinetics",
+        "question": "Slope of the graph between rate (Y-axis) and concentration [A] (X-axis) for a first order reaction is equal to",
+        "question_latex": "$\\text{The slope of the graph between rate (Y-axis) and concentration } [A] \\text{ (X-axis) for a first order reaction is equal to}$",
+        "question_images": [
+            "q42_1"
+        ],
+        "options": [
+            "A. $2.303k$",
+            "B. $k$",
+            "C. $2.303$",
+            "D. $-k$"
+        ],
+        "option_images": [],
+        "answer": "B. $k$",
+        "solution": "$\\text{For a first order reaction, rate } = k[A]. \\text{ Hence slope of rate vs } [A] \\text{ graph is } k.$",
+        "solution_images": [
+            "42_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Chemical_Kinetics",
+        "question": "A first order reaction is 50% completed in 50 minutes. What is the rate constant of the reaction?",
+        "question_latex": "$\\text{A first order reaction is 50\\% completed in 50 minutes. Calculate the rate constant of the reaction.}$",
+        "question_images": [],
+        "options": [
+            "A. $1.386 \\times 10^{-2}\\,min^{-1}$",
+            "B. $3.465 \\times 10^{-2}\\,min^{-1}$",
+            "C. $1.386 \\times 10^{-1}\\,min^{-1}$",
+            "D. $0.693 \\times 10^{-2}\\,min^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "A. $1.386 \\times 10^{-2}\\,min^{-1}$",
+        "solution": "$t_{1/2} = 50\\,min. \\\\ k = \\frac{0.693}{t_{1/2}} = \\frac{0.693}{50} = 1.386 \\times 10^{-2}\\,min^{-1}.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Chemical_Kinetics",
+        "question": "In the reaction 2N2O5 → 4NO2 + O2, the rate of decomposition of N2O5 is 0.02 mol dm⁻³ s⁻¹. What is the rate of formation of NO2?",
+        "question_latex": "$\\text{For the reaction } 2N_2O_5 \\rightarrow 4NO_2 + O_2, \\text{ the rate of decomposition of } N_2O_5 \\text{ is } 0.02\\,mol\\,dm^{-3}s^{-1}. \\text{ Find the rate of formation of } NO_2.$",
+        "question_images": [],
+        "options": [
+            "A. $0.03\\,mol\\,dm^{-3}s^{-1}$",
+            "B. $0.04\\,mol\\,dm^{-3}s^{-1}$",
+            "C. $0.02\\,mol\\,dm^{-3}s^{-1}$",
+            "D. $0.01\\,mol\\,dm^{-3}s^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "B. $0.04\\,mol\\,dm^{-3}s^{-1}$",
+        "solution": "$\\text{Rate of formation of } NO_2 = \\frac{4}{2} \\times 0.02 = 0.04\\,mol\\,dm^{-3}s^{-1}.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Chemical_Kinetics",
+        "question": "The activation energy for most reactions is approximately 50 kJ mol⁻¹. The value of temperature coefficient is",
+        "question_latex": "$\\text{The activation energy for most reactions is approximately } 50\\,kJ\\,mol^{-1}. \\text{ The value of temperature coefficient is}$",
+        "question_images": [],
+        "options": [
+            "A. 1–2",
+            "B. 2–3",
+            "C. 3–4",
+            "D. 4–5"
+        ],
+        "option_images": [],
+        "answer": "B. 2–3",
+        "solution": "$\\text{For most reactions, the temperature coefficient lies between 2 and 3.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction H2 + Br2 → 2HBr, rate = k[H2][Br2]1/2. What is the molecularity and order of reaction respectively?",
+        "question_latex": "$\\text{For the reaction } H_2 + Br_2 \\rightarrow 2HBr, \\text{ the rate law is } r = k[H_2][Br_2]^{1/2}. \\text{ What are the molecularity and order respectively?}$",
+        "question_images": [],
+        "options": [
+            "A. Bimolecular and $\\frac{3}{2}$",
+            "B. Monomolecular and $\\frac{3}{2}$",
+            "C. Bimolecular and $2$",
+            "D. Monomolecular and $2$"
+        ],
+        "option_images": [],
+        "answer": "A. Bimolecular and $\\frac{3}{2}$",
+        "solution": "$\\text{Order} = 1 + \\frac{1}{2} = \\frac{3}{2}. \\text{ Molecularity depends on reactants involved, hence bimolecular.}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Chemical_Kinetics",
+        "question": "What is the rate of appearance of Z in the reaction 3X → 2Y + Z, if the rate of disappearance of X is 0.072 mol s⁻¹?",
+        "question_latex": "$\\text{For the reaction } 3X \\rightarrow 2Y + Z, \\text{ the rate of disappearance of } X \\text{ is } 0.072\\,mol\\,s^{-1}. \\text{ Find the rate of appearance of } Z.$",
+        "question_images": [],
+        "options": [
+            "A. $0.048\\,mol\\,s^{-1}$",
+            "B. $0.072\\,mol\\,s^{-1}$",
+            "C. $0.024\\,mol\\,s^{-1}$",
+            "D. $0.036\\,mol\\,s^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "C. $0.024\\,mol\\,s^{-1}$",
+        "solution": "$\\text{Rate} = \\frac{1}{3}\\times 0.072 = 0.024\\,mol\\,s^{-1}.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction 2A + B → C + D, the expression for rate of disappearance of B is",
+        "question_latex": "$\\text{For the reaction } 2A + B \\rightarrow C + D, \\text{ the expression for rate of disappearance of } B \\text{ is}$",
+        "question_images": [],
+        "options": [
+            "A. $-\\frac{d[A]}{dt}$",
+            "B. $-\\frac{1}{2}\\frac{d[A]}{dt}$",
+            "C. $-\\frac{d[B]}{dt}$",
+            "D. $\\frac{d[C]}{dt}$"
+        ],
+        "option_images": [],
+        "answer": "C. $-\\frac{d[B]}{dt}$",
+        "solution": "$\\text{Rate of disappearance of a reactant is represented by negative change in its concentration with time.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Chemical_Kinetics",
+        "question": "Rate of reaction for a first order reaction is 9.1 × 10⁻⁶ mol L⁻¹ s⁻¹. If concentration is 0.01 mol L⁻¹, what is the rate constant?",
+        "question_latex": "$\\text{For a first order reaction, rate } = 9.1 \\times 10^{-6}\\,mol\\,L^{-1}s^{-1} \\text{ and concentration } = 0.01\\,mol\\,L^{-1}. \\text{ Calculate the rate constant.}$",
+        "question_images": [],
+        "options": [
+            "A. $9.1 \\times 10^{-4}\\,s^{-1}$",
+            "B. $9.1 \\times 10^{-6}\\,s^{-1}$",
+            "C. $9.1 \\times 10^{-5}\\,s^{-1}$",
+            "D. $7.3 \\times 10^{-5}\\,s^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "A. $9.1 \\times 10^{-4}\\,s^{-1}$",
+        "solution": "$k = \\frac{\\text{Rate}}{[A]} = \\frac{9.1 \\times 10^{-6}}{0.01} = 9.1 \\times 10^{-4}\\,s^{-1}.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Chemical_Kinetics",
+        "question": "Rate law for the reaction A + B → C + D is r = k[A][B]. When will the rate decrease to half?",
+        "question_latex": "$\\text{For the reaction } A + B \\rightarrow C + D, \\text{ the rate law is } r = k[A][B]. \\text{ Under which condition will the rate decrease to half?}$",
+        "question_images": [],
+        "options": [
+            "A. Concentration of A is halved",
+            "B. Concentration of B is halved",
+            "C. Concentrations of both A and B are halved",
+            "D. Concentration of A is doubled"
+        ],
+        "option_images": [],
+        "answer": "A. Concentration of A is halved",
+        "solution": "$\\text{Since } r \\propto [A][B], \\text{ halving } [A] \\text{ halves the rate when } [B] \\text{ is constant.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Chemical_Kinetics",
+        "question": "Identify the expression for average rate for the following reaction N2 + 3H2 → 2NH3",
+        "question_latex": "$\\text{Identify the correct expression for the average rate of reaction for } N_2 + 3H_2 \\rightarrow 2NH_3.$",
+        "question_images": [],
+        "options": [
+            "A. $-\\frac{d[N_2]}{dt}$",
+            "B. $-\\frac{1}{3}\\frac{d[H_2]}{dt}$",
+            "C. $\\frac{1}{2}\\frac{d[NH_3]}{dt}$",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "D. All of the above",
+        "solution": "$\\text{Average rate is defined by dividing the rate of change of concentration by stoichiometric coefficients. Hence all expressions are equivalent.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Chemical_Kinetics",
+        "question": "The half life of a first order reaction is given by",
+        "question_latex": "$\\text{The half life of a first order reaction is given by which of the following expressions?}$",
+        "question_images": [],
+        "options": [
+            "A. $t_{1/2} \\propto a$",
+            "B. $t_{1/2} \\propto \\frac{1}{a}$",
+            "C. $t_{1/2} = \\frac{0.693}{k}$",
+            "D. $t_{1/2} = \\frac{a}{k}$"
+        ],
+        "option_images": [],
+        "answer": "C. $t_{1/2} = \\frac{0.693}{k}$",
+        "solution": "$\\text{For a first order reaction, half life is independent of initial concentration and equals } \\frac{0.693}{k}.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Chemical_Kinetics",
+        "question": "The rate constant of a first order reaction is 0.058 s⁻¹ at 300 K and 0.026 s⁻¹ at 290 K. What is the activation energy?",
+        "question_latex": "$\\text{The rate constant of a first order reaction is } k_1 = 0.058\\,s^{-1} \\text{ at } 300\\,K \\text{ and } k_2 = 0.026\\,s^{-1} \\text{ at } 290\\,K. \\text{ Calculate the activation energy.}$",
+        "question_images": [],
+        "options": [
+            "A. $348.18\\,kJ\\,mol^{-1}$",
+            "B. $124.48\\,kJ\\,mol^{-1}$",
+            "C. $224.55\\,kJ\\,mol^{-1}$",
+            "D. $513.21\\,kJ\\,mol^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "C. $224.55\\,kJ\\,mol^{-1}$",
+        "solution": "$\\log\\frac{k_1}{k_2} = \\frac{E_a}{2.303R}\\left(\\frac{T_1-T_2}{T_1T_2}\\right). \\\\ \\text{Substituting values gives } E_a = 224.55\\,kJ\\,mol^{-1}.$",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Chemical_Kinetics",
+        "question": "A first order reaction takes 40 minutes for 30% decomposition. What is the half life of reaction?",
+        "question_latex": "$\\text{A first order reaction takes } 40\\,minutes \\text{ for } 30\\% \\text{ decomposition. Calculate the half life of the reaction.}$",
+        "question_images": [],
+        "options": [
+            "A. 59 min",
+            "B. 77.8 min",
+            "C. 67.8 min",
+            "D. 82.2 min"
+        ],
+        "option_images": [],
+        "answer": "B. 77.8 min",
+        "solution": "$k = \\frac{2.303}{t}\\log\\frac{a}{a-x}. \\\\ t_{1/2} = \\frac{0.693}{k} = 77.8\\,min.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Chemical_Kinetics",
+        "question": "For a reaction 2A + B → C, rate of formation of C is 2.2 × 10⁻³ mol L⁻¹ min⁻¹. Calculate value of −d[A]/dt.",
+        "question_latex": "$\\text{For the reaction } 2A + B \\rightarrow C, \\text{ the rate of formation of } C \\text{ is } 2.2 \\times 10^{-3}\\,mol\\,L^{-1}min^{-1}. \\text{ Calculate } -\\frac{d[A]}{dt}.$",
+        "question_images": [],
+        "options": [
+            "A. $4.4 \\times 10^{-3}$",
+            "B. $1.1 \\times 10^{-3}$",
+            "C. $2.2 \\times 10^{-3}$",
+            "D. $3.3 \\times 10^{-3}$"
+        ],
+        "option_images": [],
+        "answer": "A. $4.4 \\times 10^{-3}$",
+        "solution": "$\\text{Rate} = \\frac{1}{2}\\left(-\\frac{d[A]}{dt}\\right). \\\\ -\\frac{d[A]}{dt} = 2 \\times 2.2 \\times 10^{-3}.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Chemical_Kinetics",
+        "question": "If concentration of reactant A is increased by 10 times and rate increases by 100 times, what is the order of reaction?",
+        "question_latex": "$\\text{If concentration of reactant } A \\text{ is increased by } 10 \\text{ times and the rate increases by } 100 \\text{ times, find the order of reaction.}$",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 0.5"
+        ],
+        "option_images": [],
+        "answer": "B. 2",
+        "solution": "$\\text{Rate} \\propto [A]^n. \\\\ 100 = 10^n \\Rightarrow n = 2.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Chemical_Kinetics",
+        "question": "The half life of reaction is 23.03 minutes when concentration of reactant is reduced to 1/8th. Find the half life.",
+        "question_latex": "$\\text{If the concentration of reactant is reduced to } \\frac{1}{8} \\text{ in } 23.03\\,minutes, \\text{ find the half life of the reaction.}$",
+        "question_images": [],
+        "options": [
+            "A. 7.7 min",
+            "B. 15 min",
+            "C. 11.5 min",
+            "D. 25 min"
+        ],
+        "option_images": [],
+        "answer": "A. 7.7 min",
+        "solution": "$\\text{Reduction to } \\frac{1}{8} = 3 \\text{ half lives}. \\\\ t_{1/2} = \\frac{23.03}{3} = 7.7\\,min.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Chemical_Kinetics",
+        "question": "Average rate of reaction 2SO2 + O2 → 2SO3 is written as",
+        "question_latex": "$\\text{The average rate of reaction for } 2SO_2 + O_2 \\rightarrow 2SO_3 \\text{ is written as}$",
+        "question_images": [],
+        "options": [
+            "A. $-\\frac{d[SO_2]}{dt}$",
+            "B. $\\frac{1}{2}\\frac{d[SO_3]}{dt}$",
+            "C. $-\\frac{1}{2}\\frac{d[SO_2]}{dt}$",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "B. $\\frac{1}{2}\\frac{d[SO_3]}{dt}$",
+        "solution": "$\\text{Average rate is expressed by dividing the rate of formation of } SO_3 \\text{ by its coefficient.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction 2NO + O2 → 2NO2, if volume is suddenly reduced, how does the rate change?",
+        "question_latex": "$\\text{For the reaction } 2NO + O_2 \\rightarrow 2NO_2, \\text{ if volume is suddenly reduced, how does the rate change?}$",
+        "question_images": [],
+        "options": [
+            "A. Remains same",
+            "B. Decreases to one eighth",
+            "C. Increases eight times",
+            "D. Increases four times"
+        ],
+        "option_images": [],
+        "answer": "C. Increases eight times",
+        "solution": "$\\text{Reducing volume increases concentration. Rate } \\propto [NO]^2[O_2]. \\text{ Hence rate increases } 2^3 = 8 \\text{ times.}$",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction NO2 + CO → NO + CO2, rate of reaction is proportional to square of NO2 and independent of CO. The rate law is",
+        "question_latex": "$\\text{For the reaction } NO_2 + CO \\rightarrow NO + CO_2, \\text{ the rate is proportional to the square of } [NO_2] \\text{ and independent of } [CO]. \\text{ Write the rate law.}$",
+        "question_images": [],
+        "options": [
+            "A. $r = k[NO_2][CO]$",
+            "B. $r = k[NO_2]^2$",
+            "C. $r = k[CO]^2$",
+            "D. $r = k[NO_2][CO]^2$"
+        ],
+        "option_images": [],
+        "answer": "B. $r = k[NO_2]^2$",
+        "solution": "$\\text{Since rate depends on } [NO_2]^2 \\text{ and is independent of } [CO], \\text{ rate law is } r = k[NO_2]^2.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Chemical_Kinetics",
+        "question": "What is the rate constant of a first order reaction if 75% of the reaction is completed in 23.03 minutes?",
+        "question_latex": "$\\text{What is the rate constant of a first order reaction if } 75\\% \\text{ of the reaction is completed in } 23.03\\,\\text{minutes?}$",
+        "question_images": [],
+        "options": [
+            "A. $0.06021\\,min^{-1}$",
+            "B. $0.6021\\,min^{-1}$",
+            "C. $2.6021\\,min^{-1}$",
+            "D. $0.00621\\,min^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "A. $0.06021\\,min^{-1}$",
+        "solution": "$t = \\frac{2.303}{k}\\log\\frac{a}{a-x}. \\\\ \\text{For } 75\\% \\text{ completion, } \\frac{a}{a-x}=4. \\\\ k = \\frac{2.303}{23.03}\\log 4 = 0.06021\\,min^{-1}.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Chemical_Kinetics",
+        "question": "Rate of reaction is r = k[A]^a[B]^b. If concentration of A is doubled and B is halved, what is the new rate?",
+        "question_latex": "$\\text{If the rate of reaction is } r = k[A]^a[B]^b, \\text{ and the concentration of } A \\text{ is doubled while that of } B \\text{ is halved, what is the new rate?}$",
+        "question_images": [],
+        "options": [
+            "A. $2^{a-b}r$",
+            "B. $2^{a+b}r$",
+            "C. $2^{b-a}r$",
+            "D. $r$"
+        ],
+        "option_images": [],
+        "answer": "A. $2^{a-b}r$",
+        "solution": "$r' = k(2A)^a\\left(\\frac{B}{2}\\right)^b = 2^{a-b}k[A]^a[B]^b = 2^{a-b}r.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction 3I⁻ + S2O8²⁻ → I3⁻ + 2SO4²⁻, rate of formation of SO4²⁻ is 0.022 mol dm⁻³ s⁻¹. What is the rate of consumption of I⁻?",
+        "question_latex": "$\\text{For the reaction } 3I^- + S_2O_8^{2-} \\rightarrow I_3^- + 2SO_4^{2-}, \\text{ the rate of formation of } SO_4^{2-} \\text{ is } 0.022\\,mol\\,dm^{-3}s^{-1}. \\text{ Find the rate of consumption of } I^-.$",
+        "question_images": [],
+        "options": [
+            "A. $0.044\\,mol\\,dm^{-3}s^{-1}$",
+            "B. $0.022\\,mol\\,dm^{-3}s^{-1}$",
+            "C. $0.033\\,mol\\,dm^{-3}s^{-1}$",
+            "D. $0.011\\,mol\\,dm^{-3}s^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "C. $0.033\\,mol\\,dm^{-3}s^{-1}$",
+        "solution": "$\\text{Rate} = \\frac{1}{2}\\frac{d[SO_4^{2-}]}{dt}. \\\\ \\text{Thus, } \\frac{d[I^-]}{dt} = 3 \\times 0.011 = 0.033\\,mol\\,dm^{-3}s^{-1}.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Chemical_Kinetics",
+        "question": "For a zero order reaction, the plot of concentration of reactant versus time is",
+        "question_latex": "$\\text{For a zero order reaction, the plot of concentration of reactant versus time is}$",
+        "question_images": [],
+        "options": [
+            "A. Linear with positive slope and zero intercept",
+            "B. Linear with negative slope and zero intercept",
+            "C. Linear with positive slope and non-zero intercept",
+            "D. Linear with negative slope and non-zero intercept"
+        ],
+        "option_images": [],
+        "answer": "D. Linear with negative slope and non-zero intercept",
+        "solution": "$[A] = [A]_0 - kt, \\text{ hence the graph is linear with slope } -k \\text{ and intercept } [A]_0.$",
+        "solution_images": [
+            "64_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Chemical_Kinetics",
+        "question": "In a first order reaction, concentration of reactant is reduced to 25% in one hour. What is the half life?",
+        "question_latex": "$\\text{In a first order reaction, the concentration of reactant is reduced to } 25\\% \\text{ in one hour. Calculate the half life.}$",
+        "question_images": [],
+        "options": [
+            "A. $30\\,min$",
+            "B. $15\\,min$",
+            "C. $60\\,min$",
+            "D. $45\\,min$"
+        ],
+        "option_images": [],
+        "answer": "A. $30\\,min$",
+        "solution": "$25\\% = \\left(\\frac{1}{2}\\right)^2, \\text{ hence } 2 \\text{ half lives } = 60\\,min. \\\\ t_{1/2} = 30\\,min.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Chemical_Kinetics",
+        "question": "Calculate the half life of a first order reaction if the rate constant is 27.72 × 10⁻² min⁻¹.",
+        "question_latex": "$\\text{Calculate the half life of a first order reaction if the rate constant is } 27.72 \\times 10^{-2}\\,min^{-1}.$",
+        "question_images": [],
+        "options": [
+            "A. $5.0\\,min$",
+            "B. $8.6\\,min$",
+            "C. $2.5\\,min$",
+            "D. $7.5\\,min$"
+        ],
+        "option_images": [],
+        "answer": "C. $2.5\\,min$",
+        "solution": "$t_{1/2} = \\frac{0.693}{k} = \\frac{0.693}{0.2772} = 2.5\\,min.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction 4NH3 + 5O2 → 4NO + 6H2O, rate of formation of NO is 3.6 × 10⁻³ mol L⁻¹ s⁻¹. Find the rate of disappearance of NH3.",
+        "question_latex": "$\\text{For the reaction } 4NH_3 + 5O_2 \\rightarrow 4NO + 6H_2O, \\text{ the rate of formation of } NO \\text{ is } 3.6 \\times 10^{-3}\\,mol\\,L^{-1}s^{-1}. \\text{ Find the rate of disappearance of } NH_3.$",
+        "question_images": [],
+        "options": [
+            "A. $3.6 \\times 10^{-3}$",
+            "B. $7.2 \\times 10^{-3}$",
+            "C. $4.5 \\times 10^{-3}$",
+            "D. $2.4 \\times 10^{-3}$"
+        ],
+        "option_images": [],
+        "answer": "A. $3.6 \\times 10^{-3}$",
+        "solution": "$\\text{Stoichiometric ratio of } NH_3 : NO = 4:4. \\\\ \\text{Hence rates are equal.}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction X(g) → Y(g) + Z(g), half life is 10 minutes. In what time will concentration become one tenth of original?",
+        "question_latex": "$\\text{For the reaction } X(g) \\rightarrow Y(g) + Z(g), \\text{ the half life is } 10\\,min. \\text{ In what time will the concentration become one tenth of its original value?}$",
+        "question_images": [],
+        "options": [
+            "A. $33\\,min$",
+            "B. $20\\,min$",
+            "C. $25\\,min$",
+            "D. $10\\,min$"
+        ],
+        "option_images": [],
+        "answer": "A. $33\\,min$",
+        "solution": "$k = \\frac{0.693}{10}. \\\\ t = \\frac{2.303}{k}\\log 10 = 33\\,min.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Chemical_Kinetics",
+        "question": "The order of reaction if the unit of rate constant is mol dm⁻³ s⁻¹ is",
+        "question_latex": "$\\text{If the unit of rate constant is } mol\\,dm^{-3}s^{-1}, \\text{ determine the order of reaction.}$",
+        "question_images": [],
+        "options": [
+            "A. Zero",
+            "B. First",
+            "C. Second",
+            "D. Third"
+        ],
+        "option_images": [],
+        "answer": "A. Zero",
+        "solution": "$\\text{For zero order reaction, unit of } k \\text{ is } mol\\,dm^{-3}s^{-1}.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Chemical_Kinetics",
+        "question": "In the reaction N2 + 3H2 → 2NH3, the rate of disappearance of H2 is 0.02 M s⁻¹. What is the rate of appearance of NH3?",
+        "question_latex": "$\\text{For the reaction } N_2 + 3H_2 \\rightarrow 2NH_3, \\text{ the rate of disappearance of } H_2 \\text{ is } 0.02\\,M\\,s^{-1}. \\text{ Find the rate of appearance of } NH_3.$",
+        "question_images": [],
+        "options": [
+            "A. $0.0133\\,M\\,s^{-1}$",
+            "B. $0.02\\,M\\,s^{-1}$",
+            "C. $0.04\\,M\\,s^{-1}$",
+            "D. $0.0067\\,M\\,s^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "A. $0.0133\\,M\\,s^{-1}$",
+        "solution": "$\\text{Rate} = \\frac{1}{3}\\frac{d[H_2]}{dt} = \\frac{1}{2}\\frac{d[NH_3]}{dt}. \\\\ \\frac{d[NH_3]}{dt} = \\frac{2}{3} \\times 0.02 = 0.0133\\,M\\,s^{-1}.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Chemical_Kinetics",
+        "question": "What is the rate constant of a first order reaction having half life 138.6 minutes?",
+        "question_latex": "$\\text{What is the rate constant of a first order reaction if the half life is } 138.6\\,\\text{minutes?}$",
+        "question_images": [],
+        "options": [
+            "A. $0.005\\,min^{-1}$",
+            "B. $0.025\\,min^{-1}$",
+            "C. $0.54\\,min^{-1}$",
+            "D. $5.0\\,min^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "A. $0.005\\,min^{-1}$",
+        "solution": "$t_{1/2} = \\frac{0.693}{k} \\\\ k = \\frac{0.693}{138.6} = 0.005\\,min^{-1}.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Chemical_Kinetics",
+        "question": "If the concentration units for a first order reaction are increased by m times, how does the rate constant change?",
+        "question_latex": "$\\text{If the concentration units for a first order reaction are increased by } m \\text{ times, how does the rate constant change?}$",
+        "question_images": [],
+        "options": [
+            "A. Becomes $m$ times",
+            "B. Becomes $\\frac{1}{m}$ times",
+            "C. Remains unchanged",
+            "D. Becomes $m^2$ times"
+        ],
+        "option_images": [],
+        "answer": "C. Remains unchanged",
+        "solution": "$\\text{Rate constant } k \\text{ of a first order reaction is independent of concentration units.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Chemical_Kinetics",
+        "question": "Half life of a first order reaction is 2 hours. How long will it take for 20% of reactant to react?",
+        "question_latex": "$\\text{The half life of a first order reaction is } 2\\,\\text{hours}. \\text{ Calculate the time required for } 20\\% \\text{ of the reactant to react.}$",
+        "question_images": [],
+        "options": [
+            "A. $0.77\\,h$",
+            "B. $0.35\\,h$",
+            "C. $0.526\\,h$",
+            "D. $0.6438\\,h$"
+        ],
+        "option_images": [],
+        "answer": "D. $0.6438\\,h$",
+        "solution": "$k = \\frac{0.693}{2}. \\\\ t = \\frac{2.303}{k}\\log\\frac{100}{80} = 0.6438\\,h.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Chemical_Kinetics",
+        "question": "A reaction which consists of a series of elementary reactions is called",
+        "question_latex": "$\\text{A reaction which consists of a series of elementary reactions is called}$",
+        "question_images": [],
+        "options": [
+            "A. Elementary reaction",
+            "B. Addition reaction",
+            "C. Complex reaction",
+            "D. Disproportionation reaction"
+        ],
+        "option_images": [],
+        "answer": "C. Complex reaction",
+        "solution": "$\\text{A complex reaction occurs via more than one elementary step.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Chemical_Kinetics",
+        "question": "What is the value of rate constant for first order reaction if slope for the graph of rate versus concentration is 2.5 × 10⁻³ s⁻¹?",
+        "question_latex": "$\\text{What is the rate constant for a first order reaction if the slope of the graph of rate versus concentration is } 2.5 \\times 10^{-3}\\,s^{-1}?$",
+        "question_images": [],
+        "options": [
+            "A. $5.0 \\times 10^{-3}\\,s^{-1}$",
+            "B. $7.5 \\times 10^{-3}\\,s^{-1}$",
+            "C. $1.25 \\times 10^{-3}\\,s^{-1}$",
+            "D. $2.5 \\times 10^{-3}\\,s^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "D. $2.5 \\times 10^{-3}\\,s^{-1}$",
+        "solution": "$\\text{For first order reaction, slope of rate vs concentration graph equals } k.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction 2NO + 2H2 → N2 + 2H2O, rate = k[NO]²[H2]. What are the orders with respect to NO, H2 and overall order?",
+        "question_latex": "$\\text{For the reaction } 2NO + 2H_2 \\rightarrow N_2 + 2H_2O, \\text{ the rate law is } r = k[NO]^2[H_2]. \\text{ Determine the order with respect to } NO, H_2 \\text{ and the overall order.}$",
+        "question_images": [],
+        "options": [
+            "A. $2, 1, 3$",
+            "B. $1, 2, 3$",
+            "C. $2, 2, 4$",
+            "D. $1, 1, 2$"
+        ],
+        "option_images": [],
+        "answer": "A. $2, 1, 3$",
+        "solution": "$\\text{Order w.r.t. } NO = 2, \\text{ w.r.t. } H_2 = 1, \\text{ total order } = 3.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction 2NO + Cl2 → 2NOCl, what is the relation between d[NO]/dt and d[NOCl]/dt?",
+        "question_latex": "$\\text{For the reaction } 2NO + Cl_2 \\rightarrow 2NOCl, \\text{ establish the relation between } \\frac{d[NO]}{dt} \\text{ and } \\frac{d[NOCl]}{dt}.$",
+        "question_images": [],
+        "options": [
+            "A. $-\\frac{d[NO]}{dt} = \\frac{d[NOCl]}{dt}$",
+            "B. $-\\frac{1}{2}\\frac{d[NO]}{dt} = \\frac{1}{2}\\frac{d[NOCl]}{dt}$",
+            "C. $-\\frac{d[NO]}{dt} = \\frac{1}{2}\\frac{d[NOCl]}{dt}$",
+            "D. $-\\frac{1}{2}\\frac{d[NO]}{dt} = \\frac{d[NOCl]}{dt}$"
+        ],
+        "option_images": [],
+        "answer": "C. $-\\frac{d[NO]}{dt} = \\frac{1}{2}\\frac{d[NOCl]}{dt}$",
+        "solution": "$\\text{Rate expressions are related using stoichiometric coefficients of the balanced equation.}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Chemical_Kinetics",
+        "question": "The reaction A + B → C occurs by the following mechanism: (i) A → Y (fast), (ii) Y + C → Z (slow). The rate of reaction is",
+        "question_latex": "$\\text{The reaction } A + B \\rightarrow C \\text{ occurs by the mechanism: } (i)\\ A \\rightarrow Y\\,(fast), (ii)\\ Y + C \\rightarrow Z\\,(slow). \\text{ Determine the rate law.}$",
+        "question_images": [],
+        "options": [
+            "A. $k[A]$",
+            "B. $k[A][C]$",
+            "C. $k[Y][C]$",
+            "D. $k[B][C]$"
+        ],
+        "option_images": [],
+        "answer": "C. $k[Y][C]$",
+        "solution": "$\\text{Rate is governed by slow step. Hence rate } = k[Y][C].$",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Chemical_Kinetics",
+        "question": "The unit of rate constant for second order reaction is",
+        "question_latex": "$\\text{What is the unit of rate constant for a second order reaction?}$",
+        "question_images": [],
+        "options": [
+            "A. $s^{-1}$",
+            "B. $mol\\,L^{-1}s^{-1}$",
+            "C. $L\\,mol^{-1}s^{-1}$",
+            "D. $L^2\\,mol^{-2}s^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "C. $L\\,mol^{-1}s^{-1}$",
+        "solution": "$\\text{For a second order reaction, } k \\text{ has units } L\\,mol^{-1}s^{-1}.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Chemical_Kinetics",
+        "question": "Calculate the rate constant of a first order reaction if half life of reaction is 40 minutes.",
+        "question_latex": "$\\text{Calculate the rate constant of a first order reaction if the half life is } 40\\,\\text{minutes.}$",
+        "question_images": [],
+        "options": [
+            "A. $1.155 \\times 10^{-2}\\,min^{-1}$",
+            "B. $0.173 \\times 10^{-2}\\,min^{-1}$",
+            "C. $1.256 \\times 10^{-2}\\,min^{-1}$",
+            "D. $1.733 \\times 10^{-2}\\,min^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "D. $1.733 \\times 10^{-2}\\,min^{-1}$",
+        "solution": "$k = \\frac{0.693}{40} = 1.733 \\times 10^{-2}\\,min^{-1}.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Chemical_Kinetics",
+        "question": "A certain reaction occurs in two steps as (i) 2SO2 + O2 → 2SO3 (ii) 2NO + O2 → 2NO2. In the reaction, which species is intermediate?",
+        "question_latex": "$\\text{A reaction occurs in two steps: } (i)\\ 2SO_2 + O_2 \\rightarrow 2SO_3 \\text{ and } (ii)\\ 2NO + O_2 \\rightarrow 2NO_2. \\text{ Identify the intermediate species.}$",
+        "question_images": [],
+        "options": [
+            "A. $SO_2$",
+            "B. $NO_2$",
+            "C. $NO$",
+            "D. $O_2$"
+        ],
+        "option_images": [],
+        "answer": "C. $NO$",
+        "solution": "$\\text{An intermediate is formed in one step and consumed in another. } NO \\text{ satisfies this condition.}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Chemical_Kinetics",
+        "question": "The time required for completion of 50% of first order reaction is t1/2. What is the time required for completion of 75% reaction?",
+        "question_latex": "$\\text{The time required for completion of } 50\\% \\text{ of a first order reaction is } t_{1/2}. \\text{ Find the time required for } 75\\% \\text{ completion.}$",
+        "question_images": [],
+        "options": [
+            "A. $t_{1/2}$",
+            "B. $2t_{1/2}$",
+            "C. $3t_{1/2}$",
+            "D. $\\frac{t_{1/2}}{2}$"
+        ],
+        "option_images": [],
+        "answer": "B. $2t_{1/2}$",
+        "solution": "$\\text{For a first order reaction, } 75\\% \\text{ completion corresponds to two half lives.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Chemical_Kinetics",
+        "question": "What is the rate of formation of C in the reaction A + 2B → 2C?",
+        "question_latex": "$\\text{What is the rate of formation of } C \\text{ in the reaction } A + 2B \\rightarrow 2C?$",
+        "question_images": [],
+        "options": [
+            "A. Same as rate of consumption of A",
+            "B. Half the rate of consumption of B",
+            "C. Twice the rate of consumption of A",
+            "D. Equal to the rate of consumption of B"
+        ],
+        "option_images": [],
+        "answer": "C. Twice the rate of consumption of A",
+        "solution": "$\\text{From stoichiometry, } 1A \\rightarrow 2C, \\text{ hence formation of } C \\text{ is twice the consumption of } A.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Chemical_Kinetics",
+        "question": "Collision theory is applicable to which type of reactions?",
+        "question_latex": "$\\text{Collision theory is applicable to which type of reactions?}$",
+        "question_images": [],
+        "options": [
+            "A. First order reactions",
+            "B. Zero order reactions",
+            "C. Bimolecular reactions",
+            "D. Intramolecular reactions"
+        ],
+        "option_images": [],
+        "answer": "C. Bimolecular reactions",
+        "solution": "$\\text{Collision theory explains reactions occurring due to collisions between two molecules.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Chemical_Kinetics",
+        "question": "Which is the correct statement?",
+        "question_latex": "$\\text{Which of the following statements is correct?}$",
+        "question_images": [],
+        "options": [
+            "A. Rate of reaction depends on decay constant",
+            "B. Rate of reaction is independent of concentration",
+            "C. Unit of rate constant for zero order reaction is $mol\\,L^{-1}s^{-1}$",
+            "D. Unit of rate constant for first order reaction is $mol\\,L^{-1}s^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "C. Unit of rate constant for zero order reaction is $mol\\,L^{-1}s^{-1}$",
+        "solution": "$\\text{For zero order reaction, } k \\text{ has the same unit as rate.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Chemical_Kinetics",
+        "question": "Rate expression of a chemical change is Rate = k[A]^2[B]. What is the order of reaction?",
+        "question_latex": "$\\text{The rate expression of a chemical change is } Rate = k[A]^2[B]. \\text{ Determine the order of the reaction.}$",
+        "question_images": [],
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 1",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "B. 3",
+        "solution": "$\\text{Order of reaction is the sum of powers of concentration terms } = 2 + 1 = 3.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Chemical_Kinetics",
+        "question": "The time required to decompose SO2Cl2 to half of its initial amount is 60 minutes. Calculate the rate constant.",
+        "question_latex": "$\\text{The time required to decompose } SO_2Cl_2 \\text{ to half of its initial amount is } 60\\,min. \\text{ Calculate the rate constant.}$",
+        "question_images": [],
+        "options": [
+            "A. $1.155 \\times 10^{-2}\\,min^{-1}$",
+            "B. $2.651 \\times 10^{-2}\\,min^{-1}$",
+            "C. $1.551 \\times 10^{-2}\\,min^{-1}$",
+            "D. $0.693 \\times 10^{-2}\\,min^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "A. $1.155 \\times 10^{-2}\\,min^{-1}$",
+        "solution": "$k = \\frac{0.693}{t_{1/2}} = \\frac{0.693}{60} = 1.155 \\times 10^{-2}\\,min^{-1}.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Chemical_Kinetics",
+        "question": "With increase in temperature, the rate of reaction",
+        "question_latex": "$\\text{With increase in temperature, the rate of reaction}$",
+        "question_images": [],
+        "options": [
+            "A. Increases",
+            "B. Decreases",
+            "C. Remains same",
+            "D. May increase or decrease"
+        ],
+        "option_images": [],
+        "answer": "A. Increases",
+        "solution": "$\\text{Increase in temperature increases the number of molecules having energy } \\geq E_a.$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Chemical_Kinetics",
+        "question": "The rate for the reaction is r = k[A]^a[B]^b. If concentration of A is doubled and that of B is halved, what is the new rate?",
+        "question_latex": "$\\text{For the reaction } r = k[A]^a[B]^b, \\text{ if concentration of } A \\text{ is doubled and } B \\text{ is halved, find the new rate.}$",
+        "question_images": [],
+        "options": [
+            "A. $2^{a-b}r$",
+            "B. $2^{a+b}r$",
+            "C. $2^{b-a}r$",
+            "D. $r$"
+        ],
+        "option_images": [],
+        "answer": "A. $2^{a-b}r$",
+        "solution": "$r' = k(2A)^a\\left(\\frac{B}{2}\\right)^b = 2^{a-b}r.$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Chemical_Kinetics",
+        "question": "The rate constant and half life of a first order reaction are related to each other as",
+        "question_latex": "$\\text{The rate constant and half life of a first order reaction are related as}$",
+        "question_images": [],
+        "options": [
+            "A. $t_{1/2} = \\frac{0.693}{k}$",
+            "B. $t_{1/2} = \\frac{k}{0.693}$",
+            "C. $k = 0.693\\,t_{1/2}$",
+            "D. $k = 1.303\\,t_{1/2}$"
+        ],
+        "option_images": [],
+        "answer": "A. $t_{1/2} = \\frac{0.693}{k}$",
+        "solution": "$\\text{For a first order reaction, half life is inversely proportional to the rate constant.}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Chemical_Kinetics",
+        "question": "A first order reaction is 80% complete in 10 mins find specific reaction rate per second.",
+        "question_latex": "A first order reaction is $80\\%$ complete in $10\\text{ mins}$ find specific reaction rate per second.",
+        "question_images": [],
+        "options": [
+            "A. 0.510 s⁻¹",
+            "B. 0.0027 s⁻¹",
+            "C. 0.161 s⁻¹",
+            "D. 0.2 s⁻¹"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Given, $a = 100, x = 80$, when $t = 10\\text{ min}$. Substituting these values in the first order rate equation $k = \\frac{2.303}{t} \\log \\frac{a}{a-x}$, we get $k = \\frac{2.303}{10 \\times 60} \\log \\frac{100}{100-80} = \\frac{2.303}{600} \\times 0.6989 \\approx 0.0027\\text{ s}^{-1}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Chemical_Kinetics",
+        "question": "Which of the following is true regarding following reaction 2 N₂O₅(g) → 4NO₂(g) + O₂(g), having rate law equation, r = k[N₂O₅] [2025]",
+        "question_latex": "Which of the following is true regarding following reaction $2 N_{2}O_{5(g)} \\rightarrow 4NO_{2(g)} + O_{2(g)}$, having rate law equation, $r = k[N_{2}O_{5}]$ [2025]",
+        "question_images": [],
+        "options": [
+            "A. order and molecularity is two",
+            "B. order and molecularity is one",
+            "C. order is 1 and molecularity is two",
+            "D. order is 2 and molecularity is one"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Molecularity = no. of reactants = 2. Order of reaction = 1 (from rate law).",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Chemical_Kinetics",
+        "question": "For a reaction A + B → product, if [A] is doubled keeping [B] constant, the rate of reaction doubles. Calculate the order of reaction with respect to A. [MHT-CET 2023]",
+        "question_latex": "For a reaction $A + B \\rightarrow$ product, if $[A]$ is doubled keeping $[B]$ constant, the rate of reaction doubles. Calculate the order of reaction with respect to $A$. [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2",
+            "B. 1",
+            "C. 1/2",
+            "D. 0"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$r = k[A]^x[B]^y$. On doubling the concentration of $A$, rate of reaction doubled. $\\therefore 2r = k[2A]^x[B]^y$. $\\therefore$ Order of reaction with respect to A is 1.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Chemical_Kinetics",
+        "question": "What is the relation between half life time and rate constant for a zero order reaction? [MHT-CET 2022]",
+        "question_latex": "What is the relation between half life time and rate constant for a zero order reaction? [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. t1/2 = 0.693/k",
+            "B. t1/2 = [A]0/2k",
+            "C. t1/2 = 2[A]0/k",
+            "D. t1/2 = [A]0/k"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In zero order reaction, $k = \\frac{[A]_0 - [A]_t}{t}$. At $t_{1/2}$, $[A]_t = [A]_0/2$. Therefore $k = \\frac{[A]_0 - [A]_0/2}{t_{1/2}} \\Rightarrow t_{1/2} = \\frac{[A]_0}{2k}$.",
+        "solution_images": [
+            "94_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Chemical_Kinetics",
+        "question": "Find the average rate of formation of O₂(g) in the following reaction. 2NO₂(g) → 2NO(g) + O₂(g); [∆[NO]/∆t] = x mol dm⁻³ s⁻¹ [MHT-CET 2023]",
+        "question_latex": "Find the average rate of formation of $O_{2(g)}$ in the following reaction. $2NO_{2(g)} \\rightarrow 2NO_{(g)} + O_{2(g)}$; $\\left[\\frac{\\Delta [NO]}{\\Delta t}\\right] = x\\text{ mol dm}^{-3} \\text{ s}^{-1}$ [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 4x mol dm⁻³ s⁻¹",
+            "B. x/2 mol dm⁻³ s⁻¹",
+            "C. x mol dm⁻³ s⁻¹",
+            "D. 2x mol dm⁻³ s⁻¹"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$Rate = -\\frac{1}{2}\\frac{\\Delta[NO_2]}{\\Delta t} = \\frac{1}{2}\\frac{\\Delta[NO]}{\\Delta t} = \\frac{\\Delta[O_2]}{\\Delta t}$. $\\therefore \\frac{\\Delta[O_2]}{\\Delta t} = \\frac{1}{2} \\frac{\\Delta[NO]}{\\Delta t} = \\frac{1}{2} \\times x = \\frac{x}{2}\\text{ mol dm}^{-3} \\text{ s}^{-1}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Chemical_Kinetics",
+        "question": "The rate law for reaction, 2 A → 2 B + C at 25°C is rate = k[A]². Calculate the rate constant at same temperature if the rate of reaction is 6.5 × 10⁻⁶ mol dm⁻³ s⁻¹. [[A] = 2 × 10⁻³ mol dm⁻³] [MHT-CET 2023]",
+        "question_latex": "The rate law for reaction, $2 A \\rightarrow 2 B + C$ at $25^{\\circ}C$ is rate = $k[A]^2$. Calculate the rate constant at same temperature if the rate of reaction is $6.5 \\times 10^{-6}\\text{ mol dm}^{-3} \\text{ s}^{-1}$. $[[A] = 2 \\times 10^{-3}\\text{ mol dm}^{-3}]$ [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 1.625 mol⁻¹ dm³ s⁻¹",
+            "B. 1.985 mol⁻¹ dm³ s⁻¹",
+            "C. 2.824 mol⁻¹ dm³ s⁻¹",
+            "D. 2.125 mol⁻¹ dm³ s⁻¹"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Given: rate $= 6.5 \\times 10^{-6}\\text{ mol dm}^{-3} \\text{ s}^{-1}$, $[A] = 2 \\times 10^{-3}\\text{ mol dm}^{-3}$. $k = \\frac{\\text{rate}}{[A]^2} = \\frac{6.5 \\times 10^{-6}}{(2 \\times 10^{-3})^2} = 1.625\\text{ mol}^{-1} \\text{ dm}^3 \\text{ s}^{-1}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Chemical_Kinetics",
+        "question": "Nitric oxide reacts with H₂ according to reaction. 2NO(g) + 2H₂(g) → N₂(g) + 2H₂O(g). Identify correct relation regarding rate of consumption of reactant and formation of product. [2025]",
+        "question_latex": "Nitric oxide reacts with $H_2$ according to reaction. $2NO_{(g)} + 2H_{2(g)} \\rightarrow N_{2(g)} + 2H_{2}O_{(g)}$. Identify correct relation regarding rate of consumption of reactant and formation of product. [2025]",
+        "question_images": [],
+        "options": [
+            "A. -1/2 d[NO]/2 dt = d[N2]/dt",
+            "B. -1/2 d[NO]/dt = -1/2 d[H2]/dt = d[N2]/dt = 1/2 d[H2O]/dt",
+            "C. d[NO]/dt = -1/2 d[H2]/2 dt",
+            "D. 1/2 d[H2O]/2 dt = 1/2 d[NO]/dt"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "For reaction $2NO_{(g)} + 2H_{2(g)} \\rightarrow N_{2(g)} + 2H_{2}O_{(g)}$, Rate of reaction $= -\\frac{1}{2}\\frac{d[NO]}{dt} = -\\frac{1}{2}\\frac{d[H_2]}{dt} = \\frac{d[N_2]}{dt} = \\frac{1}{2}\\frac{d[H_2O]}{dt}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction, CH₃Br(aq) + OH⁻(aq) → CH₃OH(aq) + Br⁻(aq), rate of consumption of OH⁻(aq) is x mol dm⁻³ s⁻¹. Calculate rate of formation of CH₃OH(aq). [MHT-CET 2024]",
+        "question_latex": "For the reaction, $CH_3Br_{(aq)} + OH^{-}_{(aq)} \\rightarrow CH_3OH_{(aq)} + Br^{-}_{(aq)}$, rate of consumption of $OH^{-}_{(aq)}$ is $x\\text{ mol dm}^{-3} \\text{ s}^{-1}$. Calculate rate of formation of $CH_3OH_{(aq)}$. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 0.5x mol dm⁻³ s⁻¹",
+            "B. 3/2 x mol dm⁻³ s⁻¹",
+            "C. 2x mol dm⁻³ s⁻¹",
+            "D. x mol dm⁻³ s⁻¹"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Rate $= -\\frac{d[CH_3Br]}{dt} = -\\frac{d[OH^-]}{dt} = \\frac{d[CH_3OH]}{dt}$. Given $-\\frac{d[OH^-]}{dt} = x$, therefore $\\frac{d[CH_3OH]}{dt} = x\\text{ mol dm}^{-3} \\text{ s}^{-1}$.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Chemical_Kinetics",
+        "question": "For the reaction A + B → C + D rate law is r = k[A][B]. What is the change in rate of reaction if concentration of both the reactants is doubled? [2025]",
+        "question_latex": "For the reaction $A + B \\rightarrow C + D$ rate law is $r = k[A][B]$. What is the change in rate of reaction if concentration of both the reactants is doubled? [2025]",
+        "question_images": [],
+        "options": [
+            "A. Rate will increase by factor 6",
+            "B. Rate will increase by factor 2",
+            "C. Rate will increase by factor 4",
+            "D. Rate will increase by factor 8"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Rate $= k[A][B]$. New Rate $= k[2A][2B] = 4k[A][B]$. Therefore, rate increases by a factor of 4.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Chemical_Kinetics",
+        "question": "In a multistep reaction, the overall rate of reaction is equal to the [MHT-CET 2011]",
+        "question_latex": "In a multistep reaction, the overall rate of reaction is equal to the [MHT-CET 2011]",
+        "question_images": [],
+        "options": [
+            "A. rate of slowest step",
+            "B. rate of fastest step",
+            "C. average rate of various steps",
+            "D. the rate of last step"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Rate of reaction depends upon the slowest step; hence the overall rate of a multistep reaction is equal to the rate of the slowest step.",
+        "solution_images": [],
+        "difficulty": "",
+        "marks": 4
+    }
+]

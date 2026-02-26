@@ -1,0 +1,1955 @@
+[
+  {
+    "id": 1,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "In IUPAC suffix name of CO X is:",
+    "question_latex": "In IUPAC suffix name of $-COX$ is:",
+    "question_images": [],
+    "options": [
+      "A. Oyl halide",
+      "B. Halo carbonyl",
+      "C. Carbamoyl",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "According to IUPAC nomenclature, the suffix used for acid halides ($-COX$) is 'oyl halide'. [cite: 80, 81, 82]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "A functional isomer of 1-butyne is",
+    "question_latex": "A functional isomer of $1$-butyne is",
+    "question_images": [],
+    "options": [
+      "A. 2-butyne",
+      "B. 1-butene",
+      "C. 2-butene",
+      "D. 1, 3-butadiene"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Alkynes and alkadienes are functional isomers. Both $1$-butyne and $1,3$-butadiene have the molecular formula $C_4H_6$. [cite: 83, 84, 85]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which one of the following will show geometrical isomerism? [29 Jan, 2024 (Shift-II)]",
+    "question_latex": "Which one of the following will show geometrical isomerism? [29 Jan, 2024 (Shift-II)]",
+    "question_images": [
+      "q3_1"
+    ],
+    "options": [
+      "A. a",
+      "B. c",
+      "C. b",
+      "D. d"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Structure (c) shows geometrical isomerism because the carbon atoms involved in the double bond are attached to two different groups (unsymmetrical structure), allowing for cis-trans or E-Z forms. [cite: 87, 101, 102, 103]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The highest electrical conductivity of the following aqueous solutions is of",
+    "question_latex": "The highest electrical conductivity of the following aqueous solutions is of",
+    "question_images": [],
+    "options": [
+      "A. 0.1 M difluoroacetic acid",
+      "B. 0.1 M fluoroacetic acid",
+      "C. 0.1 M chloroacetic acid",
+      "D. 0.1 M acetic acid"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Fluoro group causes a strong negative inductive effect ($-I$ effect), which increases the ionization of the acid. Difluoroacetic acid has two such groups, making it the strongest acid in the list and thus providing the highest ion concentration and conductivity. [cite: 104, 105]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 5,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The increasing order of nucleophilicity of the following nucleophiles is: I. CH3CO2- II. H2O III. CH3SO3- IV. -OH (April 2019)",
+    "question_latex": "The increasing order of nucleophilicity of the following nucleophiles is: I. $CH_3CO_2^-$ II. $H_2O$ III. $CH_3SO_3^-$ IV. $OH^-$",
+    "question_images": [],
+    "options": [
+      "A. II < III < I < IV",
+      "B. I < IV < III < II",
+      "C. IV < I < III < II",
+      "D. II < III < IV < I"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Nucleophilicity generally follows the order of basicity for atoms in the same row. Neutral molecules ($H_2O$) are less nucleophilic than their conjugate bases. $OH^-$ is the strongest base/nucleophile here. The order is $H_2O < CH_3SO_3^- < CH_3CO_2^- < OH^-$. [cite: 107, 108, 109, 110, 111, 112, 113]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 6,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "A liquid decomposes at its normal boiling point. It can be purified by",
+    "question_latex": "A liquid decomposes at its normal boiling point. It can be purified by",
+    "question_images": [],
+    "options": [
+      "A. Sublimation",
+      "B. Steam distillation",
+      "C. Vacuum distillation",
+      "D. Fractional distillation"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Vacuum distillation (distillation under reduced pressure) lowers the boiling point of the liquid, allowing it to boil at a temperature lower than its decomposition temperature. [cite: 115, 116, 117]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 7,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Incorrect statement is",
+    "question_latex": "Incorrect statement is",
+    "question_images": [],
+    "options": [
+      "A. Aniline can be purified by steam distillation",
+      "B. Beilstein test is not given by fluorine",
+      "C. Kjeldahl's method is used for estimation of sulphur",
+      "D. Lassaigen's test is used in the qualitative detection of elements in organic compounds"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Kjeldahl's method is used for the estimation of nitrogen, not sulphur. Sulphur is usually estimated using Carius method. [cite: 118, 119, 120, 121]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 8,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The compound which exhibits optical isomerism is:",
+    "question_latex": "The compound which exhibits optical isomerism is:",
+    "question_images": [],
+    "options": [
+      "A. CH3CHOHCH3",
+      "B. (CH3)2CHCH2CH3",
+      "C. CH3CHClCH2CH3",
+      "D. CH3CCl2CH2CH3"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In $CH_3CHClCH_2CH_3$ (2-chlorobutane), the second carbon is an asymmetric (chiral) carbon atom as it is attached to four different groups: $-H$, $-Cl$, $-CH_3$, and $-C_2H_5$. [cite: 122, 123, 124, 125]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 9,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which one of the following is a secondary alcohol?",
+    "question_latex": "Which one of the following is a secondary alcohol?",
+    "question_images": [],
+    "options": [
+      "A. 2-methyl-1-propanol",
+      "B. 2-methyl-2-propanol",
+      "C. 2-butanol",
+      "D. 1-butanol"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In 2-butanol ($CH_3-CH(OH)-CH_2-CH_3$), the $-OH$ group is attached to a secondary ($2^\\circ$) carbon (a carbon atom attached to two other carbon atoms). [cite: 126, 127, 128, 129, 130]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 10,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Assertion: Aniline is better nucleophile than anilium ion. Reason: Anilium ion have + ve charge.",
+    "question_latex": "Assertion: Aniline is better nucleophile than anilium ion. Reason: Anilium ion have $+$ ve charge.",
+    "question_images": [],
+    "options": [
+      "A. Assertion is correct, reason is correct; reason is a correct explanation for assertion.",
+      "B. Assertion is correct, reason is correct; reason is not a correct explanation for assertion.",
+      "C. Assertion is correct, reason is incorrect",
+      "D. Assertion is incorrect, reason is correct."
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Aniline ($C_6H_5NH_2$) has a lone pair of electrons on nitrogen available for donation. In the anilium ion ($C_6H_5NH_3^+$), the positive charge and lack of a lone pair drastically reduce its nucleophilicity. [cite: 142, 146, 148, 149, 150]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "'Adsorption' principle is used for which of the following purification method? [31 Jan, 2024 (Shift-1)]",
+    "question_latex": "'Adsorption' principle is used for which of the following purification method? [31 Jan, 2024 (Shift-1)]",
+    "question_images": [],
+    "options": [
+      "A. Sublimation",
+      "B. Chromatography",
+      "C. Extraction",
+      "D. Distillation"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Chromatography is based on the differential adsorption of different components of a mixture on a stationary phase. [cite: 152, 153, 154, 155]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which does not have sp2-hybridised carbon atom?",
+    "question_latex": "Which does not have $sp^2$-hybridised carbon atom?",
+    "question_images": [],
+    "options": [
+      "A. Acetamide",
+      "B. Acetic acid",
+      "C. Acetonitrile",
+      "D. Acetone"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Acetonitrile ($CH_3CN$) contains one $sp^3$ hybridised carbon (in $-CH_3$) and one $sp$ hybridised carbon (in $-CN$). It lacks any $sp^2$ hybridised carbon. [cite: 156, 157, 158]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The given compound in IUPAC may be called (CH3)2C(NH2)-CH2-CO-CH3",
+    "question_latex": "The given compound in IUPAC may be called: $(CH_3)_2C(NH_2)-CH_2-CO-CH_3$",
+    "question_images": [],
+    "options": [
+      "A. Diacetone",
+      "B. Acetoneamine",
+      "C. Diacetoneamine",
+      "D. 4-amino-4-methylpentan-2-one"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Numbering starts from the carbonyl group side. The longest chain has 5 carbons (pentan-2-one). There is an amino group and a methyl group at position 4. So, 4-amino-4-methylpentan-2-one. [cite: 160, 161, 162, 163, 164]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The number of isomers for the compound with the molecular formula C2FClBrI is",
+    "question_latex": "The number of isomers for the compound with the molecular formula $C_2FClBrI$ is",
+    "question_images": [],
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "For an ethene derivative with four different halogens ($CXY=CZW$), there are 6 possible isomers (including geometrical and optical considerations for the substituted carbons if applicable, but primarily based on positional arrangements on the double bond). [cite: 165, 166, 167, 168, 169]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which one is a nucleophilic substitution reaction among the following?",
+    "question_latex": "Which one is a nucleophilic substitution reaction among the following?",
+    "question_images": [
+      "q15_1"
+    ],
+    "options": [
+      "A. Option A Image",
+      "B. Option B Image",
+      "C. Option C Image",
+      "D. CH3-CH2-CH(CH3)Br + NH3 -> CH3-CH2-CH(CH3)NH2"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "In reaction (D), the nucleophile $NH_3$ replaces the leaving group $Br^-$ from the alkyl halide. This is a classic nucleophilic substitution. [cite: 194, 205, 206, 207]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "In estimation of percentage of oxygen, the mixture of gaseous products containing oxygen is passed over red hot coke. All oxygen is converted to A. This mixture is passed through B when A is converted to C. What is A, B and C?",
+    "question_latex": "In estimation of percentage of oxygen, the mixture of gaseous products containing oxygen is passed over red hot coke. All oxygen is converted to $A$. This mixture is passed through $B$ when $A$ is converted to $C$. What is $A, B$ and $C$?",
+    "question_images": [],
+    "options": [
+      "A. A=CO2, B=KOH, C=pure O2",
+      "B. A=CO, B=I2O5, C=CO2",
+      "C. A=CO, B=I2, C=CO2",
+      "D. A=CO2, B=Ca(OH)2, C=CaCO3"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Oxygen reacts with red hot coke to form $CO$ (A). $CO$ is then oxidized to $CO_2$ (C) using $I_2O_5$ (B). [cite: 208, 209, 210, 211, 214, 215]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The least stable free radical is",
+    "question_latex": "The least stable free radical is",
+    "question_images": [],
+    "options": [
+      "A. CH3CH2*",
+      "B. CH3CH2CH2*",
+      "C. (CH3)2CH*",
+      "D. *CH3"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "The stability order of free radicals is $3^\\circ > 2^\\circ > 1^\\circ > \\cdot CH_3$. Thus, the methyl radical is the least stable. [cite: 217, 218, 219, 220]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The compound in which C uses its sp3-hybrid orbitals for bond formation is",
+    "question_latex": "The compound in which $C$ uses its $sp^3$-hybrid orbitals for bond formation is",
+    "question_images": [],
+    "options": [
+      "A. HCOOH",
+      "B. (H2N)2CO",
+      "C. (CH3)3COH",
+      "D. CH3CHO"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In $(CH_3)_3COH$, the central carbon is bonded to four other atoms ($3$ Carbons and $1$ Oxygen) via sigma bonds, hence it is $sp^3$ hybridised. In the other options, the carbonyl carbon is $sp^2$ hybridised. [cite: 221, 226, 227, 230, 231, 232]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The number of stereoisomers obtained by bromination of trans-2-butene is?",
+    "question_latex": "The number of stereoisomers obtained by bromination of trans-$2$-butene is?",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Anti-addition of $Br_2$ to trans-2-butene yields a meso compound, which is a single stereoisomer due to internal symmetry. [cite: 233, 234]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The compound cis-2-butene and trans-2-butene can be distinguished by their:",
+    "question_latex": "The compound cis-$2$-butene and trans-$2$-butene can be distinguished by their:",
+    "question_images": [
+      "q20_1"
+    ],
+    "options": [
+      "A. Chlorinated products",
+      "B. Products formed by addition of bromine",
+      "C. Reaction with H2/Ni",
+      "D. None of the above"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Addition of $Br_2$ to cis-2-butene gives a racemic mixture $(\\pm)$, while addition to trans-2-butene gives a meso compound. [cite: 238, 245, 247, 248, 249]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which one of the following is the most energetic conformation of cyclohexane?",
+    "question_latex": "Which one of the following is the most energetic conformation of cyclohexane?",
+    "question_images": [],
+    "options": [
+      "A. Boat",
+      "B. Twisted boat",
+      "C. Chair",
+      "D. Half chair"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "The stability order is: Chair > Twist boat > Boat > Half chair. The 'most energetic' means the least stable, which is the Half chair. [cite: 250, 251, 252, 253, 254]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The number of primary, secondary, tertiary and quaternary carbons in neopentane are respectively",
+    "question_latex": "The number of primary, secondary, tertiary and quaternary carbons in neopentane are respectively",
+    "question_images": [],
+    "options": [
+      "A. 4, 3, 2 and 1",
+      "B. 5, 0, 0 and 1",
+      "C. 4, 0, 0 and 1",
+      "D. 4, 0, 1 and 1"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Neopentane (2,2-dimethylpropane) has a central carbon attached to 4 methyl groups. The central carbon is quaternary ($1$), and the 4 methyl carbons are primary ($4$). There are no secondary or tertiary carbons. [cite: 255, 256, 257, 258, 259, 260]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which of the following compounds has wrong IUPAC name?",
+    "question_latex": "Which of the following compounds has wrong IUPAC name?",
+    "question_images": [],
+    "options": [
+      "A. CH3-CH2-CH2-COO-CH2CH3 -> ethyl butanoate",
+      "B. CH3-CH(CH3)-CH2-CHO -> 3-methyl-butanal",
+      "C. CH3-CH(OH)-CH(CH3)-CH3 -> 2-methyl-3-butanol",
+      "D. CH3-CH(CH3)-CO-CH2-CH3 -> 2-methyl-3-pentanone"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In $CH_3-CH(OH)-CH(CH_3)-CH_3$, the numbering starts from the end closer to the $-OH$ group. So it should be 3-methylbutan-2-ol, not 2-methyl-3-butanol. [cite: 261, 262, 263, 266, 268]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "During a nitration of benzene, the attacking electrophile is",
+    "question_latex": "During a nitration of benzene, the attacking electrophile is",
+    "question_images": [],
+    "options": [
+      "A. NO3-",
+      "B. NO2-",
+      "C. NO2+",
+      "D. HNO3"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In the nitration of benzene, the nitronium ion ($NO_2^+$) is generated by the reaction of $HNO_3$ and $H_2SO_4$ and acts as the electrophile. [cite: 269, 270, 271, 272, 36, 37]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Lassaigne's test is used for detection of: [01 Feb, 2024 (Shift-II)]",
+    "question_latex": "Lassaigne's test is used for detection of: [01 Feb, 2024 (Shift-II)]",
+    "question_images": [],
+    "options": [
+      "A. Phosphorous and halogens only",
+      "B. Nitrogen, Sulphur, phosphorous and halogens",
+      "C. Nitrogen, Sulphur and Phosphorous Only",
+      "D. Nitrogen and Sulphur only"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Lassaigne's test is a general test for detecting Nitrogen, Sulphur, Halogens, and sometimes Phosphorus in organic compounds. [cite: 37]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The (R) and (S) enantiomers of an optically active compound differ in",
+    "question_latex": "The (R) and (S) enantiomers of an optically active compound differ in",
+    "question_images": [],
+    "options": [
+      "A. Their reactivity",
+      "B. Their optical rotation of plane polarised light",
+      "C. Their melting point",
+      "D. Their solubility in achiral reagents"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "The R and S enantiomers of an optically active compound differ in their optical rotation of plane polarised light. [cite: 38]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Cyclohexene is type of an organic compound. [27 Jan, 2024 (Shift-I)]",
+    "question_latex": "Cyclohexene is type of an organic compound. [27 Jan, 2024 (Shift-I)]",
+    "question_images": [],
+    "options": [
+      "A. Benzenoid non-aromatic",
+      "B. Benzenoid aromatic",
+      "C. Alicyclic",
+      "D. Acyclic"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Cyclohexene is an alicyclic compound. [cite: 39]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The correct decreasing order of priority of functional groups in naming an organic compound as per IUPAC system of nomenclature is (Jan 2023)",
+    "question_latex": "The correct decreasing order of priority of functional groups in naming an organic compound as per IUPAC system of nomenclature is (Jan 2023)",
+    "question_images": [],
+    "options": [
+      "A. $-COOH>-COOR>-CONH_2>-COCl$",
+      "B. $-SO_3H>-COCl>-CONH_2>-CN$",
+      "C. $-COOR > -COCI > -NH_2 > CO$",
+      "D. $-COOH >-CONH_2>-COCI > -CHO$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "The order of decreasing priority for some functional groups is $-COOH>-SO_3H>-COOR(R=Alkyl~group)>-COCl>-CONH_2>-CN>-HC=0>C=0>-0H>-NH_2>>C=C>-C\\equiv C$. [cite: 39]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Consider the following bromides (A) Me (B) Me Br (C) Me Br The correct order is SN1 reactivity is",
+    "question_latex": "Consider the following bromides (A) Me (B) Me Br (C) Me Br The correct order of $S_N1$ reactivity is",
+    "question_images": [
+      "q29_1"
+    ],
+    "options": [
+      "A. (B)>(C)>(A)",
+      "B. (B)>(A)>(C)",
+      "C. (C)>(B)>(A)",
+      "D. (A)>(B)>(C)"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Higher the stability of carbocation, faster is the reaction because $S_N1$ reactions involve the formation of carbocation intermediate. Stability: (B) 2° allylic > (C) 2° alkyl > (A) 1° alkyl. [cite: 40]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "What is the IUPAC name of the following compound?",
+    "question_latex": "What is the IUPAC name of the following compound?",
+    "question_images": [
+      "q30_1"
+    ],
+    "options": [
+      "A. 2-methyl-4-hexanamine",
+      "B. 5-methyl-3-amino hexane",
+      "C. 2-methyl-4-amino hexane",
+      "D. 5-methyl-3-hexanamine"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "The compound contains a longest chain of 6C atoms and an amino group. Following IUPAC rules, the name is 5-methyl-3-hexanamine. [cite: 41, 42]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which of the following compounds is expected to be optically active?",
+    "question_latex": "Which of the following compounds is expected to be optically active?",
+    "question_images": [],
+    "options": [
+      "A. (CH3)2CHCHO",
+      "B. CH3CH2CH2CHO",
+      "C. CH3CH2CHBrCHO",
+      "D. CH3CH2CBr2CHO"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Compounds having an asymmetric C-atom are optically active. $CH_3CH_2CHBrCHO$ has an asymmetric C-atom whose four valencies are satisfied by four different groups. [cite: 43]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The IUPAC name of neopentane is:",
+    "question_latex": "The IUPAC name of neopentane is:",
+    "question_images": [],
+    "options": [
+      "A. 2,2-dimethylpropane",
+      "B. 2-methylpropane",
+      "C. 2,2-dimethylbutane",
+      "D. 2-methylbutane"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Neopentane consists of a central carbon atom bonded to four methyl groups, which is IUPAC named 2,2-dimethylpropane. [cite: 44]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "In the reaction, ROH + R'COOH -> R-C-OR + H2O water is formed by the combination of:",
+    "question_latex": "In the reaction, $ROH + R'COOH \\rightarrow R-C-OR + H_2O$ water is formed by the combination of:",
+    "question_images": [],
+    "options": [
+      "A. Hydroxyl of acid with alcoholic hydroxyl hydrogen",
+      "B. Hydroxyl of alcohol with carboxylic hydrogen",
+      "C. Both the above changes",
+      "D. None of the above"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Following the mechanism of esterification, the water molecule is formed from the hydroxyl group of the acid and the hydrogen of the alcoholic hydroxyl group. [cite: 44]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "In paper chromatography",
+    "question_latex": "In paper chromatography",
+    "question_images": [],
+    "options": [
+      "A. moving phase is liquid and stationary phase in solid",
+      "B. moving phase is liquid and stationary phase is liquid",
+      "C. moving phase is solid and stationary phase is solid",
+      "D. moving phase is solid and stationary phase is liquid"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "In paper chromatography, both the moving phase and the stationary phase (water held in paper) are liquid. [cite: 45]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "In estimation of nitrogen by Duma's method 1.18 g of an organic compound gave 224 mL of N2 at NTP. The percentage of nitrogen in the compound is",
+    "question_latex": "In estimation of nitrogen by Duma's method $1.18$ g of an organic compound gave $224$ mL of $N_2$ at NTP. The percentage of nitrogen in the compound is",
+    "question_images": [],
+    "options": [
+      "A. 20.0",
+      "B. 11.8",
+      "C. 47.7",
+      "D. 23.7"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "% of $N = \\frac{28}{22400} \\times \\frac{\\text{volume of } N_2 \\text{ at NTP}}{\\text{wt. of compound}} \\times 100 = \\frac{28}{22400} \\times \\frac{224}{1.18} \\times 100 = \\frac{28}{1.18} = 23.728$. [cite: 45, 46, 47]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The electrophile involved in the sulphonation of benzene is",
+    "question_latex": "The electrophile involved in the sulphonation of benzene is",
+    "question_images": [],
+    "options": [
+      "A. SO3+",
+      "B. SO3 2-",
+      "C. H3O+",
+      "D. SO3"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "The electrophile involved in the sulphonation of benzene is $SO_3$, formed as follows: $2H_2SO_4 \\rightarrow SO_3 + H_3O^+ + HSO_4^-$. [cite: 47, 48]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The isomerism which exists between CH3CHCl2 and CH2ClCH2Cl is:",
+    "question_latex": "The isomerism which exists between $CH_3CHCl_2$ and $CH_2ClCH_2Cl$ is:",
+    "question_images": [],
+    "options": [
+      "A. Chain",
+      "B. Functional",
+      "C. Positional",
+      "D. Metamerism"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The positions of the chlorine atoms are different in the two structures, representing positional isomerism. [cite: 48]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The IUPAC name of the following compound is",
+    "question_latex": "The IUPAC name of the following compound is",
+    "question_images": [
+      "q38_1"
+    ],
+    "options": [
+      "A. 1-cyclohexa-2,4-dienylethanone",
+      "B. 3-cyclohexa-2,4-dienylethanone",
+      "C. 1-cyclohexa-3,5-dienylethanone",
+      "D. 3-cyclohexa-3,5-dienylethanone"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Following standard IUPAC rules for naming substituted cyclic compounds with double bonds, the name is 1-cyclohexa-2,4-dienylethanone. [cite: 48]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which of the following is used for detection of carbon and hydrogen?",
+    "question_latex": "Which of the following is used for detection of carbon and hydrogen?",
+    "question_images": [],
+    "options": [
+      "A. Ca(OH)2",
+      "B. CuO",
+      "C. CaCl2",
+      "D. KOH"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Carbon and hydrogen are detected by heating the compound with copper (II) oxide ($CuO$). Carbon is oxidized to $CO_2$ and hydrogen to $H_2O$. [cite: 48, 49]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Ethers are isomeric with",
+    "question_latex": "Ethers are isomeric with",
+    "question_images": [],
+    "options": [
+      "A. Aldehydes",
+      "B. Ketones",
+      "C. Both aldehydes and ketones",
+      "D. Alcohols"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Ethers show functional isomerism with alcohols having the general molecular formula $C_nH_{2n+2}O$. For example, $CH_3OCH_3$ and $CH_3CH_2OH$. [cite: 49]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which of the following reactions proceeds via secondary free radical?",
+    "question_latex": "Which of the following reactions proceeds via secondary free radical?",
+    "question_images": [
+      "q41_1"
+    ],
+    "options": [
+      "A. CH3-CH=CH2 + HBr -> CH3-CH(Br)-CH3",
+      "B. CH3-CH=CH2 + HBr/uv light -> CH3-CH2-CH2Br",
+      "C. C6H6 + Br2/FeBr3 -> C6H5Br",
+      "D. C6H6 + Br2/uv light -> C6H5Br"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Anti-Markovnikov addition of $HBr$ in the presence of peroxide or UV light proceeds via a free radical mechanism involving the most stable (secondary) radical intermediate. [cite: 49, 50]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Assertion: Components of a mixture of red and blue inks can be separated by distributing the components between stationary and mobile phases in paper chromatography. Reason: The coloured components of inks migrate at different rates because paper selectively retains different components according to the difference in their partition between the two phases.",
+    "question_latex": "Assertion: Components of a mixture of red and blue inks can be separated by distributing the components between stationary and mobile phases in paper chromatography. Reason: The coloured components of inks migrate at different rates because paper selectively retains different components according to the difference in their partition between the two phases.",
+    "question_images": [],
+    "options": [
+      "A. Assertion is correct, reason is correct; reason is a correct explanation for assertion.",
+      "B. Assertion is correct, reason is correct; reason is not a correct explanation for assertion.",
+      "C. Assertion is correct, reason is incorrect",
+      "D. Assertion is incorrect, reason is correct."
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Both statements are correct, and the reason accurately explains why components separate at different rates in paper chromatography. [cite: 50, 51, 57]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The best method to separate the mixture of ortho-and-para nitrophenol (1:1) is",
+    "question_latex": "The best method to separate the mixture of ortho-and-para nitrophenol ($1:1$) is",
+    "question_images": [],
+    "options": [
+      "A. Vaporisation",
+      "B. Colour spectrum",
+      "C. Distillation",
+      "D. Crystallisation"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Ortho and para-nitrophenols are separated by steam distillation because ortho-nitrophenol is steam volatile due to intramolecular H-bonding, whereas para-nitrophenol has higher boiling point due to intermolecular H-bonding. [cite: 57, 58]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Experimentally reducing a functional group cannot be done by which one of the following reagents? (Sept 2022)",
+    "question_latex": "Experimentally reducing a functional group cannot be done by which one of the following reagents? (Sept 2022)",
+    "question_images": [],
+    "options": [
+      "A. Pd-C/H2",
+      "B. Pt-C/H2",
+      "C. Zn/H2O",
+      "D. Na/H2"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$Na/H_2$ is not a standard reagent for functional group reduction. [cite: 59, 60]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Match the columns: Column - I (Elements) with Column - II (Colour of precipitate formed in Lassaigne's test).",
+    "question_latex": "Match the columns: Column - I (Elements) with Column - II (Colour of precipitate formed in Lassaigne's test).",
+    "question_images": [],
+    "options": [
+      "A. A-(q), B-(r), C-(p), D-(s)",
+      "B. A-(r), B-(q), C-(p), D-(s)",
+      "C. A-(q), B-(r), C-(s), D-(p)",
+      "D. A-(r), B-(q), C-(s), D-(p)"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Standard results for Lassaigne's test: Nitrogen - Prussian blue (q); Sulphur - Violet (r); Chlorine - White (s); Phosphorus - Yellow (p). [cite: 60]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "IUPAC name of HC-CH-CH2-CH-CH is",
+    "question_latex": "IUPAC name of $HC-CH-CH_2-CH-CH$ is",
+    "question_images": [
+      "q46_1"
+    ],
+    "options": [
+      "A. 2-chloromethyl-4-methyl-hexanal",
+      "B. 1-chloro-4-ethyl-2-pentanal",
+      "C. 1-chloro-4-methyl-2-hexanal",
+      "D. 1-chloro-2-aldo-4-methyl hexane"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Following IUPAC rules, prioritize the aldehyde group and identify the longest chain with substituents. [cite: 60, 61]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "For (i) I-, (ii) Cl-, (iii) Br-, the increasing order of nucleophilicity would be",
+    "question_latex": "For (i) $I^-$, (ii) $Cl^-$, (iii) $Br^-$, the increasing order of nucleophilicity would be",
+    "question_images": [],
+    "options": [
+      "A. Cl- < Br- < I-",
+      "B. I- < Cl- < Br-",
+      "C. Br- < Cl- < I-",
+      "D. I- < Br- < Cl-"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Nucleophilicity typically increases down the periodic table for these halides: $I^- > Br^- > Cl^- > F^-$. [cite: 61]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "In the structure H3C-CH-CH-C-CH3 the number of carbons are:",
+    "question_latex": "In the structure $H_3C-CH-CH-C-CH_3$ the number of carbons are:",
+    "question_images": [
+      "q48_1"
+    ],
+    "options": [
+      "A. One primary, two secondary and one tertiary",
+      "B. Four primary, two tertiary and one secondary",
+      "C. One primary, one secondary, one tertiary and one quaternary",
+      "D. Five primary, one secondary, one tertiary and one quaternary"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Primary carbon is joined to 1 carbon atom; secondary to 2; tertiary to 3; and quaternary to 4. Analysis of the structure shows five primary, one secondary, one tertiary, and one quaternary carbons. [cite: 61, 62, 63, 64]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The IUPAC name of the compound shown below is",
+    "question_latex": "The IUPAC name of the compound shown below is",
+    "question_images": [
+      "q49_1"
+    ],
+    "options": [
+      "A. 1-bromo-3-chlorocyclohexene",
+      "B. 2-bromo-6-chlorocyclohex-1-ene",
+      "C. 3-bromo-1-chlorocyclohexene",
+      "D. 6-bromo-2-chlorocyclohexene"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The correct IUPAC numbering gives the lowest locants to the double bond and substituents, resulting in 3-bromo-1-chlorocyclohexene. [cite: 65, 66]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which of the following statement(s) is/are correct? (i) A carbon atom having an sp hybrid orbital is less electronegative than carbon atoms possessing sp2 or sp3 hybridised orbitals. (ii) π -bonds provide the most reactive centres in the molecules containing multiple bonds (iii) The number of σ and π bonds in compound CH2=C=CHCH3 are 7 and 2 respectively.",
+    "question_latex": "Which of the following statement(s) is/are correct? (i) A carbon atom having an $sp$ hybrid orbital is less electronegative than carbon atoms possessing $sp^2$ or $sp^3$ hybridised orbitals. (ii) $\\pi$-bonds provide the most reactive centres in the molecules containing multiple bonds (iii) The number of $\\sigma$ and $\\pi$ bonds in compound $CH_2=C=CHCH_3$ are $7$ and $2$ respectively.",
+    "question_images": [],
+    "options": [
+      "A. (i) and (iii)",
+      "B. (ii) and (iii)",
+      "C. (ii) only",
+      "D. (i) only"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "(i) is incorrect because $sp$ carbons are more electronegative. (ii) is correct as $\\pi$ bonds are reactive. (iii) is incorrect as calculation shows $9 \\sigma$ bonds and $2 \\pi$ bonds. [cite: 67, 68, 69, 70]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which one of the following will show geometrical isomerism? [29 Jan, 2024 (Shift-II)]",
+    "question_latex": "Which one of the following will show geometrical isomerism? [29 Jan, 2024 (Shift-II)]",
+    "question_images": [
+      "q51_1"
+    ],
+    "options": [
+      "A. a",
+      "B. c",
+      "C. b",
+      "D. d"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Due to the unsymmetrical structure of the alkene where each doubly bonded carbon is attached to two different groups, structure (c) shows geometrical isomerism.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Match List-I with List-II. [Jan. 29, 2025(1)]",
+    "question_latex": "Match List-I with List-II. [Jan. 29, 2025(1)]",
+    "question_images": [
+      "q52_1"
+    ],
+    "options": [
+      "A. (A)-(III), (B)-(II), (C)-(IV), (D)-(I)",
+      "B. (A)-(II), (B)-(III), (C)-(I), (D)-(IV)",
+      "C. (A)-(II), (B)-(III), (C)-(IV), (D)-(I)",
+      "D. (A)-(IV), (B)-(I), (C)-(II), (D)-(III)"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "By identifying the longest carbon chain and numbering to give substituents the lowest locants: (A) matches (II) 3-Ethyl-5-methylheptane, (B) matches (III) 4,4-Dimethylheptane, (C) matches (IV) 2-Methyl-1,3-pentadiene, and (D) matches (I) 4-Methylpent-1-ene.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Match List I with List II: [01 Feb, 2024 (Shift-I)]",
+    "question_latex": "Match List I with List II: [01 Feb, 2024 (Shift-I)]",
+    "question_images": [
+      "q53_1"
+    ],
+    "options": [
+      "A. A-III, B-I, C-II, D-IV",
+      "B. A-II, B-IV, C-I, D-III",
+      "C. A-III, B-IV, C-I, D-II",
+      "D. A-II, B-I, C-IV, D-III"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Matching chromatography techniques with their principles: (A) Column chromatography matches (III) Differential adsorption, (B) Thin layer chromatography matches (IV) Adsorption, (C) Paper chromatography matches (I) Partition, (D) Gas chromatography matches (II) Differential partitioning.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Given below are two statements: Statement I: Phenols are more acidic than aliphatic alcohols. Statement II: The phenoxide ion is more resonance stabilized than the ethoxide ion. In the light of the above statements, choose the correct answer from the options given below:",
+    "question_latex": "Given below are two statements: Statement I: Phenols are more acidic than aliphatic alcohols. Statement II: The phenoxide ion is more resonance stabilized than the ethoxide ion. In the light of the above statements, choose the correct answer from the options given below:",
+    "question_images": [],
+    "options": [
+      "A. Both Statement I and Statement II are true",
+      "B. Both Statement I and Statement II are false",
+      "C. Statement I is true but Statement II is false",
+      "D. Statement I is false but Statement II is true"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Phenols are more acidic than alcohols because the phenoxide ion is stabilized by resonance, spreading the negative charge over the benzene ring, whereas the ethoxide ion has no resonance stabilization.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which of the following compound is not aromatic? [Jan 2023]",
+    "question_latex": "Which of the following compound is not aromatic? [Jan 2023]",
+    "question_images": [
+      "q55_1"
+    ],
+    "options": [
+      "A. a",
+      "B. b",
+      "C. c",
+      "D. d"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Compound (c) is non-aromatic because it contains an $sp^3$ hybridized carbon atom in the ring, which breaks the conjugation required for aromaticity.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The Correct order of stability of the following carbocations is: (Jan 2023)",
+    "question_latex": "The Correct order of stability of the following carbocations is: (Jan 2023)",
+    "question_images": [
+      "q56_1"
+    ],
+    "options": [
+      "A. A > B > C",
+      "B. C > B > A",
+      "C. B > C > A",
+      "D. A > C > B"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Stability of carbocations increases with resonance and inductive effects. (A) is the most stable due to maximum resonance with the phenyl ring and $+\\text{I}$ effect from alkyl groups.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "What is the hybridisation of carbon atoms in Diamond and Graphite respectively?",
+    "question_latex": "What is the hybridisation of carbon atoms in Diamond and Graphite respectively?",
+    "question_images": [],
+    "options": [
+      "A. $sp^3, sp^2$",
+      "B. $sp^2, sp^3$",
+      "C. $sp^3, sp^3$",
+      "D. $sp^2, sp^2$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "In diamond, each carbon atom is tetrahedrally bonded to four other carbon atoms ($sp^3$). In graphite, each carbon atom is bonded to three other carbon atoms in a hexagonal planar structure ($sp^2$).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Lassaigne's test for the detection of nitrogen fails in: [July 2022]",
+    "question_latex": "Lassaigne's test for the detection of nitrogen fails in: [July 2022]",
+    "question_images": [],
+    "options": [
+      "A. $H_2N-NH_2$",
+      "B. $C_6H_5NH_2$",
+      "C. $CH_3CONH_2$",
+      "D. $C_6H_5NO_2$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Hydrazine ($NH_2NH_2$) does not contain carbon. For the Lassaigne's test to detect nitrogen, $NaCN$ must be formed, which requires the presence of both carbon and nitrogen in the organic compound.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The correct IUPAC name for the following compound is: [June 2022]",
+    "question_latex": "The correct IUPAC name for the following compound is: [June 2022]",
+    "question_images": [
+      "q59_1"
+    ],
+    "options": [
+      "A. 4-Ethyl-2,6,6-trimethylheptane",
+      "B. 3,3,5-Trimethyl-5-ethylheptane",
+      "C. 4-Ethyl-2,2,6-trimethylheptane",
+      "D. 2,2,6-Trimethyl-4-ethylheptane"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Selecting the longest chain (7 carbons) and numbering from the side that gives the lowest set of locants for the substituents results in 4-Ethyl-2,2,6-trimethylheptane.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which of the following is most stable? [June 2022]",
+    "question_latex": "Which of the following is most stable? [June 2022]",
+    "question_images": [
+      "q60_1"
+    ],
+    "options": [
+      "A. a",
+      "B. b",
+      "C. c",
+      "D. d"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "The stability of carbocations follows the order: $3^\\circ > 2^\\circ > 1^\\circ$. Structure (a) represents a tertiary ($3^\\circ$) carbocation, which is the most stable among the options.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The Correct order of nucleophilicity is: [Aug 2021]",
+    "question_latex": "The Correct order of nucleophilicity is: [Aug 2021]",
+    "question_images": [],
+    "options": [
+      "A. $F^- > Cl^- > Br^- > I^-$",
+      "B. $I^- > Br^- > Cl^- > F^-$",
+      "C. $OH^- > NH_2^- > F^- > CH_3^-$",
+      "D. $CH_3^- > NH_2^- > OH^- > F^-$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "In a period, nucleophilicity decreases with increasing electronegativity. Thus, $CH_3^-$ is the strongest nucleophile and $F^-$ is the weakest.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Total number of isomers (including stereoisomers) of $C_3H_6Cl_2$ is: [March 2021]",
+    "question_latex": "Total number of isomers (including stereoisomers) of $C_3H_6Cl_2$ is: [March 2021]",
+    "question_images": [],
+    "options": [
+      "A. 4",
+      "B. 5",
+      "C. 3",
+      "D. 2"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "The structural isomers are 1,1-dichloropropane, 1,2-dichloropropane, 1,3-dichloropropane, and 2,2-dichloropropane. 1,2-dichloropropane has a chiral center, leading to two enantiomers. Total = 4 structural + 1 extra stereoisomer = 5.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Kjeldahl's method cannot be used for the estimation of nitrogen in which of the following? [Feb 2021]",
+    "question_latex": "Kjeldahl's method cannot be used for the estimation of nitrogen in which of the following? [Feb 2021]",
+    "question_images": [],
+    "options": [
+      "A. Pyridine",
+      "B. Nitrobenzene",
+      "C. Azobenzene",
+      "D. All of the above"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Kjeldahl's method fails for compounds containing nitrogen in the ring (pyridine), nitro groups (nitrobenzene), or azo groups (azobenzene) because these nitrogen atoms are not converted to ammonium sulfate under standard conditions.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which of the following is most acidic? [Sept 2020]",
+    "question_latex": "Which of the following is most acidic? [Sept 2020]",
+    "question_images": [],
+    "options": [
+      "A. $CH_4$",
+      "B. $C_2H_2$",
+      "C. $C_2H_4$",
+      "D. $C_2H_6$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Ethyne ($C_2H_2$) has $sp$ hybridized carbons with 50% s-character, making them more electronegative and the $C-H$ bond more acidic than $sp^2$ ($C_2H_4$) or $sp^3$ ($CH_4, C_2H_6$) carbons.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The functional group present in an organic compound which gives a silver mirror with Tollen's reagent is:",
+    "question_latex": "The functional group present in an organic compound which gives a silver mirror with Tollen's reagent is:",
+    "question_images": [],
+    "options": [
+      "A. Aldehyde",
+      "B. Ketone",
+      "C. Alcohol",
+      "D. Carboxylic acid"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Aldehydes reduce Tollen's reagent ($[Ag(NH_3)_2]OH$) to metallic silver, forming a silver mirror on the inner walls of the test tube.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The number of hyperconjugation structures possible for the following radical is: [Jan 2020]",
+    "question_latex": "The number of hyperconjugation structures possible for the following radical is: [Jan 2020]",
+    "question_images": [
+      "q66_1"
+    ],
+    "options": [
+      "A. 6",
+      "B. 3",
+      "C. 9",
+      "D. 5"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Hyperconjugation depends on the number of $\\alpha$-hydrogens. In the given radical, there are 6 $\\alpha$-hydrogens (two methyl groups attached to the radical center).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which of the following molecules has zero dipole moment? [April 2019]",
+    "question_latex": "Which of the following molecules has zero dipole moment? [April 2019]",
+    "question_images": [],
+    "options": [
+      "A. $CH_2Cl_2$",
+      "B. $BF_3$",
+      "C. $NH_3$",
+      "D. $CHCl_3$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$BF_3$ has a trigonal planar geometry. The individual $B-F$ bond dipoles cancel each other out, resulting in a net zero dipole moment.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "A solution of m-chloroaniline, m-chlorophenol and m-chlorobenzoic acid in ethyl acetate was extracted initially with a saturated solution of $NaHCO_3$ to give fraction A. The left over organic phase was extracted with dilute $NaOH$ solution to give fraction B. The final organic layer was fraction C. Fractions A, B and C contain respectively: [April 2019]",
+    "question_latex": "A solution of m-chloroaniline, m-chlorophenol and m-chlorobenzoic acid in ethyl acetate was extracted initially with a saturated solution of $NaHCO_3$ to give fraction A. The left over organic phase was extracted with dilute $NaOH$ solution to give fraction B. The final organic layer was fraction C. Fractions A, B and C contain respectively: [April 2019]",
+    "question_images": [],
+    "options": [
+      "A. m-chlorobenzoic acid, m-chlorophenol, m-chloroaniline",
+      "B. m-chlorobenzoic acid, m-chloroaniline, m-chlorophenol",
+      "C. m-chlorophenol, m-chlorobenzoic acid, m-chloroaniline",
+      "D. m-chloroaniline, m-chlorobenzoic acid, m-chlorophenol"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$NaHCO_3$ (weak base) extracts the strongest acid (m-chlorobenzoic acid). $NaOH$ (strong base) then extracts the remaining acid (m-chlorophenol). The base (m-chloroaniline) remains in the organic layer.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The correct decreasing order of the acidity of the following compounds is: [Jan 2019]",
+    "question_latex": "The correct decreasing order of the acidity of the following compounds is: [Jan 2019]",
+    "question_images": [
+      "q69_1"
+    ],
+    "options": [
+      "A. I > II > III > IV",
+      "B. III > I > II > IV",
+      "C. IV > II > I > III",
+      "D. II > IV > III > I"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Electron-withdrawing groups ($-NO_2$) increase acidity, while electron-donating groups ($-CH_3$) decrease acidity. The order reflects the relative positions and strengths of these effects.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The IUPAC name of the following compound is: [2011]",
+    "question_latex": "The IUPAC name of the following compound is: [2011]",
+    "question_images": [
+      "q70_1"
+    ],
+    "options": [
+      "A. 1,1-dimethyl-2-ethylcyclohexane",
+      "B. 2-ethyl-1,1-dimethylcyclohexane",
+      "C. 1-ethyl-2,2-dimethylcyclohexane",
+      "D. 2,2-dimethyl-1-ethylcyclohexane"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Numbering starts at the carbon with more substituents (dimethyl) and proceeds to give the ethyl group the lowest locant, yielding 2-ethyl-1,1-dimethylcyclohexane.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which of the following represents the correct order of increasing $pK_a$ values? [2010]",
+    "question_latex": "Which of the following represents the correct order of increasing $pK_a$ values? [2010]",
+    "question_images": [],
+    "options": [
+      "A. $CF_3COOH < CCl_3COOH < CHCl_2COOH < CH_3COOH$",
+      "B. $CH_3COOH < CHCl_2COOH < CCl_3COOH < CF_3COOH$",
+      "C. $CHCl_2COOH < CCl_3COOH < CF_3COOH < CH_3COOH$",
+      "D. $CF_3COOH < CH_3COOH < CHCl_2COOH < CCl_3COOH$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Stronger acids have lower $pK_a$. Electron-withdrawing halogens increase acidity via $-\\text{I}$ effect. Three fluorines ($CF_3$) create the strongest effect, resulting in the lowest $pK_a$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The purification of organic compounds by 'Differential extraction' is based on their difference in: [2009]",
+    "question_latex": "The purification of organic compounds by 'Differential extraction' is based on their difference in: [2009]",
+    "question_images": [],
+    "options": [
+      "A. Boiling points",
+      "B. Solubilities in different solvents",
+      "C. Adsorption properties",
+      "D. Volatility"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Differential extraction relies on the difference in solubilities of a compound in two immiscible liquids (usually an organic solvent and water).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "Which of the following compounds will not show geometrical isomerism? [2003]",
+    "question_latex": "Which of the following compounds will not show geometrical isomerism? [2003]",
+    "question_images": [],
+    "options": [
+      "A. 1-phenylpropene",
+      "B. 2-butene",
+      "C. 3-methyl-2-pentene",
+      "D. 2-methyl-2-butene"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "In 2-methyl-2-butene, one of the doubly bonded carbons is attached to two identical methyl groups, which precludes the existence of cis-trans isomers.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "The Correct order of basic strength is:",
+    "question_latex": "The Correct order of basic strength is:",
+    "question_images": [],
+    "options": [
+      "A. $NH_3 > CH_3NH_2 > (CH_3)_2NH > (CH_3)_3N$",
+      "B. $(CH_3)_2NH > CH_3NH_2 > (CH_3)_3N > NH_3$",
+      "C. $(CH_3)_3N > (CH_3)_2NH > CH_3NH_2 > NH_3$",
+      "D. $(CH_3)_2NH > (CH_3)_3N > CH_3NH_2 > NH_3$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "In aqueous solution, basicity of methylamines is determined by inductive effect, solvation effect, and steric hindrance, following the order: $2^\\circ > 1^\\circ > 3^\\circ > NH_3$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Organic Chemistry Some Basic Principles and Techniques",
+    "question": "In the Carius method for the estimation of halogens, 0.15 g of an organic compound gave 0.12 g of $AgBr$. The percentage of bromine in the compound is: [Atomic mass: $Ag = 108, Br = 80$]",
+    "question_latex": "In the Carius method for the estimation of halogens, 0.15 g of an organic compound gave 0.12 g of $AgBr$. The percentage of bromine in the compound is: [Atomic mass: $Ag = 108, Br = 80$]",
+    "question_images": [],
+    "options": [
+      "A. 34.04%",
+      "B. 40.12%",
+      "C. 42.55%",
+      "D. 48.00%"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Percentage of $Br = \\frac{80}{188} \\times \\frac{\\text{mass of } AgBr}{\\text{mass of compound}} \\times 100 = \\frac{80}{188} \\times \\frac{0.12}{0.15} \\times 100 = 34.04\\%$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "General Organic Chemistry",
+    "question": "Identify the compound that exhibits tautomerism. (2011)",
+    "question_latex": "Identify the compound that exhibits tautomerism. (2011)",
+    "question_images": [],
+    "options": [
+      "A. Phenol",
+      "B. 2-Butene",
+      "C. 2-Pentanone",
+      "D. Lactic acid"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The type of isomerism in which a substance exists in two readily interconvertible different structures leading to a dynamic equilibrium is known as tautomerism. 2-pentanone exhibits tautomerism. \n\n$CH_{3}-C(=O)-CH_{2}-CH_{2}-CH_{3} \\rightleftharpoons CH_{3}-C(OH)=CH-CH_{2}-CH_{3}$",
+    "solution_images": [
+      "q76_solution_1"
+    ],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "General Organic Chemistry",
+    "question": "The structure remaining after one H is removed from hydrocarbon is:",
+    "question_latex": "The structure remaining after one H is removed from hydrocarbon is:",
+    "question_images": [],
+    "options": [
+      "A. Alkyl group",
+      "B. Alkenyl group",
+      "C. Alkynyl group",
+      "D. All of these"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Removal of H from alkane, alkene and alkyne gives alkyl, alkenyl, alkynyl groups respectively.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "General Organic Chemistry",
+    "question": "Phosphorus is estimated as",
+    "question_latex": "Phosphorus is estimated as",
+    "question_images": [],
+    "options": [
+      "A. $Na_{3}PO_{4}$",
+      "B. $P_{2}O_{5}$",
+      "C. $P_{2}O_{3}$",
+      "D. $Mg_{2}P_{2}O_{7}$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Phosphorous is estimated as $Mg_{2}P_{2}O_{7}$ by first converting it to $H_{3}PO_{4}$ with $HNO_{3}$, then precipitating as $MgNH_{4}PO_{4}$ which on heating gives the pyrophosphate.",
+    "solution_images": [
+      "q78_solution_1"
+    ],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "General Organic Chemistry",
+    "question": "An organic compound which produces a bluish green coloured flame on heating in presence of copper is",
+    "question_latex": "An organic compound which produces a bluish green coloured flame on heating in presence of copper is",
+    "question_images": [],
+    "options": [
+      "A. Chlorobenzene",
+      "B. Benzaldehyde",
+      "C. Aniline",
+      "D. Benzoic acid"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "This is the Beilstein test. Halogen containing compounds (like Chlorobenzene) when placed in a flame in presence of copper produce a green to blue flame due to the formation of copper halides.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "General Organic Chemistry",
+    "question": "In the reaction, $ROH + R'COOH \\xrightarrow{H^+} R'-C(=O)-OR + H_{2}O$ water is formed by the combination of:",
+    "question_latex": "In the reaction, $ROH + R'COOH \\xrightarrow{H^+} R'-C(=O)-OR + H_{2}O$ water is formed by the combination of:",
+    "question_images": [],
+    "options": [
+      "A. Hydroxyl of acid with alcoholic hydroxyl hydrogen",
+      "B. Hydroxyl of alcohol with carboxylic hydrogen",
+      "C. Both the above changes",
+      "D. None of the above"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Following the mechanism of esterification (isotopic labeling studies), the $-OH$ group is removed from the carboxylic acid and the $-H$ is removed from the alcohol to form $H_{2}O$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "General Organic Chemistry",
+    "question": "An organic compound X having molecular formula $C_{6}H_{7}O_{2}N$ has 6 carbons in a ring system, two double bonds and also a nitro group as substituent. The X is:",
+    "question_latex": "An organic compound X having molecular formula $C_{6}H_{7}O_{2}N$ has 6 carbons in a ring system, two double bonds and also a nitro group as substituent. The X is:",
+    "question_images": [],
+    "options": [
+      "A. Homocyclic but not aromatic",
+      "B. Aromatic but not homocyclic",
+      "C. Homocyclic and aromatic",
+      "D. Heterocyclic"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "The ring consists only of carbon atoms (homocyclic). However, with only two double bonds in a six-membered ring, it does not satisfy Huckel's rule for aromaticity ($4n+2$ pi electrons) which requires three conjugated double bonds in a benzene-like system.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "General Organic Chemistry",
+    "question": "Which one is an elimination reaction?",
+    "question_latex": "Which one is an elimination reaction?",
+    "question_images": [],
+    "options": [
+      "A. $CH_{3}CH_{3} + Cl_{2} \\rightarrow CH_{3}CH_{2}Cl + HCl$",
+      "B. $CH_{3}Cl + KOH(aq.) \\rightarrow CH_{3}OH + KCl$",
+      "C. $CH_{2}=CH_{2} + Br_{2} \\rightarrow CH_{2}BrCH_{2}Br$",
+      "D. $C_{2}H_{5}Br + KOH(alc.) \\rightarrow C_{2}H_{4} + KBr + H_{2}O$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Elimination reactions involve the removal of a molecule (like $HBr$) from a substrate. Dehydrohalogenation of ethyl bromide with alcoholic $KOH$ yields ethylene.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "General Organic Chemistry",
+    "question": "The decreasing order of ease of alkaline hydrolysis for the following esters is:",
+    "question_latex": "The decreasing order of ease of alkaline hydrolysis for the following esters is:",
+    "question_images": [
+      "q83_1"
+    ],
+    "options": [
+      "A. III > II > I > IV",
+      "B. IV > II > III > I",
+      "C. III > II > IV > I",
+      "D. II > III > I > IV"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "More is the electrophilic nature of carboxyl carbon in the compound, highly reactive is the compound towards alkaline hydrolysis. $-I$ and $-M$ effect groups (like $-NO_{2}$ in III) increase reactivity, whereas $+I$ or $+M$ groups (like $-OCH_{3}$ in IV) decrease it. Correct order: $III (NO_{2}) > II (Cl) > I (H) > IV (OCH_{3})$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "General Organic Chemistry",
+    "question": "Chromatographic technique/s based on the principle of differential adsorption is/are:\nA. Column chromatography\nB. Thin layer chromatography\nC. Paper chromatography",
+    "question_latex": "Chromatographic technique/s based on the principle of differential adsorption is/are:\nA. Column chromatography\nB. Thin layer chromatography\nC. Paper chromatography",
+    "question_images": [],
+    "options": [
+      "A. A only",
+      "B. B only",
+      "C. C only",
+      "D. A & B only"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Column chromatography and Thin layer chromatography (TLC) are examples of adsorption chromatography, where components are separated based on differential adsorption on a stationary phase.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "General Organic Chemistry",
+    "question": "Isomers of propionic acid are",
+    "question_latex": "Isomers of propionic acid are",
+    "question_images": [],
+    "options": [
+      "A. $HCOOC_{2}H_{5}$ and $CH_{3}COOCH_{3}$",
+      "B. $HCOOC_{2}H_{5}$ and $C_{3}H_{7}COOH$",
+      "C. $CH_{3}COOCH_{3}$ and $C_{3}H_{7}OH$",
+      "D. $C_{3}H_{7}OH$ and $CH_{3}COCH_{3}$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Propionic acid ($C_{3}H_{6}O_{2}$) has functional isomers that are esters with the same molecular formula: Ethyl formate ($HCOOC_{2}H_{5}$) and Methyl acetate ($CH_{3}COOCH_{3}$).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "General Organic Chemistry",
+    "question": "How many structures of F are possible in the given reaction sequence?",
+    "question_latex": "How many structures of F are possible in the given reaction sequence?",
+    "question_images": [
+      "q86_1"
+    ],
+    "options": [
+      "A. 2",
+      "B. 5",
+      "C. 6",
+      "D. 3"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Based on the chemical transformations provided (addition of $Br_{2}$ followed by elimination/rearrangement), there are 3 possible structural products for F.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "General Organic Chemistry",
+    "question": "Following reaction, $(CH_{3})_{3}CBr + H_{2}O \\rightarrow (CH_{3})_{3}COH + HBr$ is an example of",
+    "question_latex": "Following reaction, $(CH_{3})_{3}CBr + H_{2}O \\rightarrow (CH_{3})_{3}COH + HBr$ is an example of",
+    "question_images": [],
+    "options": [
+      "A. Elimination reaction",
+      "B. Free radical substitution",
+      "C. Nucleophilic substitution",
+      "D. Electrophilic substitution"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In this reaction, the Bromine atom is substituted by the hydroxyl group ($-OH^{-}$), which is a nucleophile. Specifically, it follows the $S_{N}1$ mechanism.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "General Organic Chemistry",
+    "question": "Electromeric effect is a",
+    "question_latex": "Electromeric effect is a",
+    "question_images": [],
+    "options": [
+      "A. permanent effect",
+      "B. temporary effect",
+      "C. resonance effect",
+      "D. inductive effect"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "The electromeric effect is a temporary effect that occurs only in the presence of an attacking reagent and disappears once the reagent is removed.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "General Organic Chemistry",
+    "question": "In Kjeldahl's method for estimation of nitrogen, $CuSO_{4}$ acts as:",
+    "question_latex": "In Kjeldahl's method for estimation of nitrogen, $CuSO_{4}$ acts as:",
+    "question_images": [],
+    "options": [
+      "A. Hydrolysis agent",
+      "B. Reducing agent",
+      "C. Catalytic agent",
+      "D. Oxidising agent"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In the digestion step of Kjeldahl's method, $CuSO_{4}$ is used as a catalyst to accelerate the reaction between the organic compound and concentrated $H_{2}SO_{4}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "General Organic Chemistry",
+    "question": "Many organic compounds are prepared by using $PCl_{5}$ because:",
+    "question_latex": "Many organic compounds are prepared by using $PCl_{5}$ because:",
+    "question_images": [],
+    "options": [
+      "A. OH group of alcohol is easily replaced by chlorine atom",
+      "B. Chlorines are added to the unsaturated compounds",
+      "C. It removes water from organic compounds",
+      "D. Phosphorus atoms are entered in the alcohol"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Substitution of the hydroxyl ($-OH$) group from a substrate can be easily made using $PCl_{5}$ to produce alkyl chlorides.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "General Organic Chemistry",
+    "question": "The correct order of reactivity in electrophilic substitution reaction of the following compounds is:",
+    "question_latex": "The correct order of reactivity in electrophilic substitution reaction of the following compounds is:",
+    "question_images": [
+      "q91_1"
+    ],
+    "options": [
+      "A. B > C > A > D",
+      "B. D > C > B > A",
+      "C. B > A > C > D",
+      "D. A > B > C > D"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Reactivity depends on ring activation. $CH_{3}$ is activating (+I). $Cl$ is deactivating (-I > +M). $NO_{2}$ is strongly deactivating (-I, -M). Benzene is the reference. Order: Toluene (B) > Benzene (A) > Chlorobenzene (C) > Nitrobenzene (D).",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "General Organic Chemistry",
+    "question": "Different structures generated due to rotation about C-C axis of an organic molecule are examples of:",
+    "question_latex": "Different structures generated due to rotation about C-C axis of an organic molecule are examples of:",
+    "question_images": [],
+    "options": [
+      "A. Geometrical isomerism",
+      "B. Conformational isomerism",
+      "C. Optical isomerism",
+      "D. Structural isomerism"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Conformational isomers are different spatial arrangements of atoms that result from rotation about a carbon-carbon single bond.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "General Organic Chemistry",
+    "question": "What is the formula of tertiary butyl alcohol?",
+    "question_latex": "What is the formula of tertiary butyl alcohol?",
+    "question_images": [],
+    "options": [
+      "A. $CH_{3}-CH(CH_{3})-CH_{2}-OH$",
+      "B. $CH_{3}-(CH_{2})_{2}OH$",
+      "C. $CH_{3}-CH(OH)-CH_{2}-CH_{3}$",
+      "D. $(CH_{3})_{3}C-OH$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "In tertiary butyl alcohol, the $-OH$ group is attached to a tertiary carbon atom (bonded to three other carbons). The formula is $(CH_{3})_{3}C-OH$.",
+    "solution_images": [
+      "q93_solution_1"
+    ],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "General Organic Chemistry",
+    "question": "The adsorbent used in adsorption chromatography is/are:\nA. silica gel\nB. alumina\nC. quick lime\nD. magnesia",
+    "question_latex": "The adsorbent used in adsorption chromatography is/are:\nA. silica gel\nB. alumina\nC. quick lime\nD. magnesia",
+    "question_images": [],
+    "options": [
+      "A. A and B only",
+      "B. C and D only",
+      "C. B only",
+      "D. A only"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Silica gel (polar/acidic) and Alumina (polar/basic) are the most common adsorbents used in adsorption chromatography.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "General Organic Chemistry",
+    "question": "Which of the following carbocations is the most stable?",
+    "question_latex": "Which of the following carbocations is the most stable?",
+    "question_images": [],
+    "options": [
+      "A. $CH_{3}CH_{2}^+$",
+      "B. $(CH_{3})_{2}CH^+$",
+      "C. $(CH_{3})_{3}C^+$",
+      "D. $CH_{3}^+$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Stability of carbocations follows the order: $3^{\\circ} > 2^{\\circ} > 1^{\\circ} > methyl$. Tertiary butyl carbocation $(CH_{3})_{3}C^+$ is the most stable due to maximum hyperconjugation and +I effect from three methyl groups.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "General Organic Chemistry",
+    "question": "The IUPAC name of the compound $CH_{3}-CH=CH-CH_{2}-C \\equiv CH$ is:",
+    "question_latex": "The IUPAC name of the compound $CH_{3}-CH=CH-CH_{2}-C \\equiv CH$ is:",
+    "question_images": [],
+    "options": [
+      "A. Hex-2-en-5-yne",
+      "B. Hex-4-en-1-yne",
+      "C. Hex-5-en-2-yne",
+      "D. Hex-1-en-4-yne"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Numbering starts from the right to give the triple bond the lowest locant (1). The double bond then falls on carbon 4. Correct name is Hex-4-en-1-yne.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "General Organic Chemistry",
+    "question": "Which of the following groups shows the $+I$ effect?",
+    "question_latex": "Which of the following groups shows the $+I$ effect?",
+    "question_images": [],
+    "options": [
+      "A. $-OH$",
+      "B. $-NO_{2}$",
+      "C. $-CH_{3}$",
+      "D. $-Cl$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Alkyl groups like methyl ($-CH_{3}$) are electron-releasing and exhibit a positive inductive ($+I$) effect. The other groups are electron-withdrawing ($-I$).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "General Organic Chemistry",
+    "question": "Heterolysis of $CH_{3}-CH_{3}$ gives:",
+    "question_latex": "Heterolysis of $CH_{3}-CH_{3}$ gives:",
+    "question_images": [],
+    "options": [
+      "A. Two free radicals",
+      "B. Two carbocations",
+      "C. One carbocation and one carbanion",
+      "D. Two carbanions"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Heterolytic cleavage involves unequal sharing of bond electrons, where one atom takes both electrons from the bond, resulting in a positively charged ion ($CH_{3}^+$) and a negatively charged ion ($CH_{3}^-$).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "General Organic Chemistry",
+    "question": "Steam distillation is used for the purification of:",
+    "question_latex": "Steam distillation is used for the purification of:",
+    "question_images": [],
+    "options": [
+      "A. Aniline",
+      "B. Glycerol",
+      "C. Benzene",
+      "D. Ethanol"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Steam distillation is applicable for substances that are steam-volatile and immiscible with water. Aniline is purified using this method.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "General Organic Chemistry",
+    "question": "Which of the following is a nucleophile?",
+    "question_latex": "Which of the following is a nucleophile?",
+    "question_images": [],
+    "options": [
+      "A. $BF_{3}$",
+      "B. $AlCl_{3}$",
+      "C. $NH_{3}$",
+      "D. $H^+$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Nucleophiles are electron-rich species with a lone pair of electrons. Ammonia ($NH_{3}$) has a lone pair on nitrogen. $BF_{3}$ and $AlCl_{3}$ are Lewis acids (electrophiles), and $H^+$ is an electrophile.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  }
+]
+

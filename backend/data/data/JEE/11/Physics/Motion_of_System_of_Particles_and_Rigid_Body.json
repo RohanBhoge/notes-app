@@ -1,0 +1,2630 @@
+[
+    {
+        "id": 1,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A solid sphere of mass 1 kg, radius 10 cm rolls down an inclined plane of height 7 m. the velocity of its centre as it reaches the ground level is",
+        "question_latex": "A solid sphere of mass $1~kg$, radius $10~cm$ rolls down an inclined plane of height $7~m$. The velocity of its centre as it reaches the ground level is",
+        "question_images": [],
+        "options": [
+            "A. $7~m/s$",
+            "B. $10~m/s$",
+            "C. $15~m/s$",
+            "D. $20~m/s$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "When a body of mass $m$ and radius $R$ rolls down on inclined plane of height $h$, it loses potential energy and acquires both linear and angular speeds. Velocity at the lowest point: $v = \\sqrt{\\frac{2gh}{1+\\frac{K^2}{R^2}}}$. For a solid sphere, $\\frac{K^2}{R^2} = \\frac{2}{5}$. Substituting values: $v = \\sqrt{\\frac{2 \\times 10 \\times 7}{1 + \\frac{2}{5}}} = \\sqrt{\\frac{140}{7/5}} = \\sqrt{100} = 10~m/s$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A circular disc of radius R is removed from a bigger circular disc of radius 2R such that the circumferences of the discs coincide. The centre of mass of the new disc is alpha/R from the centre of the bigger disc. The value of alpha is [2007]",
+        "question_latex": "A circular disc of radius $R$ is removed from a bigger circular disc of radius $2R$ such that the circumferences of the discs coincide. The centre of mass of the new disc is $\\alpha R$ from the centre of the bigger disc. The value of $\\alpha$ is [2007]",
+        "question_images": [
+            "q2_1"
+        ],
+        "options": [
+            "A. $1/4$",
+            "B. $1/3$",
+            "C. $1/2$",
+            "D. $1/6$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Let $\\sigma$ be the mass per unit area. Mass of complete disc $M = \\sigma\\pi(2R)^2 = 4\\pi\\sigma R^2$. Mass of removed disc $m = \\sigma\\pi R^2$. Using negative mass concept: $x_{cm} = \\frac{M \\times 0 - m \\times R}{M - m} = \\frac{0 - (\\pi\\sigma R^2)R}{4\\pi\\sigma R^2 - \\pi\\sigma R^2} = \\frac{-\\pi\\sigma R^3}{3\\pi\\sigma R^2} = -\\frac{R}{3}$. Thus, distance is $\\frac{R}{3} = \\alpha R \\Rightarrow \\alpha = 1/3$.",
+        "solution_images": [
+            "2_so_1.png",
+            "2_so_2.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "The moment of inertia of a circular disc of mass M and radius R about an axis passing through the centre of mass is I0. The moment of inertia of another circular disc of same mass and thickness but half the density about the same axis is",
+        "question_latex": "The moment of inertia of a circular disc of mass $M$ and radius $R$ about an axis passing through the centre of mass is $I_0$. The moment of inertia of another circular disc of same mass and thickness but half the density about the same axis is",
+        "question_images": [],
+        "options": [
+            "A. $I_0/2$",
+            "B. $I_0$",
+            "C. $8I_0$",
+            "D. $2I_0$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "For disc 1: $I_0 = \\frac{1}{2}MR^2$. For disc 2: Mass $M$ is same, thickness $t$ is same, density $\\rho' = \\rho/2$. Since $M = \\rho \\pi R^2 t$, we have $M = (\\rho/2) \\pi R_2^2 t \\Rightarrow R_2^2 = 2R^2$. New moment of inertia $I_2 = \\frac{1}{2}MR_2^2 = \\frac{1}{2}M(2R^2) = 2(\\frac{1}{2}MR^2) = 2I_0$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A small ball of mass m is attached with upper end of a uniform straight rod of equal mass m and length l. The rod is held vertical over a smooth horizontal surface as shown in fig. When the system is released, the lower end slips freely and the systems falls down. Assuming the initial position of the lower end to be origin and initially rod to be along y-axis, the equation of trajectory of point P of the rod (P is at distance l/4 from the lower end) is",
+        "question_latex": "A small ball of mass $m$ is attached with upper end of a uniform straight rod of equal mass $m$ and length $l$. The rod is held vertical over a smooth horizontal surface. When the system is released, the lower end slips freely and the systems falls down. Assuming the initial position of the lower end to be origin and initially rod to be along y-axis, the equation of trajectory of point $P$ of the rod ($P$ is at distance $l/4$ from the lower end) is",
+        "question_images": [
+            "q4_1",
+            "4_qu_1.png"
+        ],
+        "options": [
+            "A. $x^2 + 16y^2 = l^2$",
+            "B. $4x^2 + 16y^2 = l^2$",
+            "C. $14x^2 + 16y^2 = 4l^2$",
+            "D. $x^2 + 4y^2 = l^2$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Since the floor is smooth, no horizontal force acts, so the CM falls vertically. The CM is at $3l/4$ from the bottom. Let the rod make angle $\\theta$ with vertical. Co-ordinates of $P$ (at $l/4$ from bottom) are $x = \\frac{l}{2}\\sin\\theta$ and $y = \\frac{l}{4}\\cos\\theta$. Then $\\sin\\theta = \\frac{2x}{l}$ and $\\cos\\theta = \\frac{4y}{l}$. Using $\\sin^2\\theta + \\cos^2\\theta = 1$, we get $(\\frac{2x}{l})^2 + (\\frac{4y}{l})^2 = 1 \\Rightarrow 4x^2 + 16y^2 = l^2$.",
+        "solution_images": [
+            "q4_solution_1",
+            "4_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A sphere is moving towards +ve x-axis with a velocity vc and rotates clockwise with angular speed w such that vc > wR. The instantaneous axis of rotation will be",
+        "question_latex": "A sphere is moving towards $+ve$ $x$-axis with a velocity $v_c$ and rotates clockwise with angular speed $\\omega$ such that $v_c > \\omega R$. The instantaneous axis of rotation will be",
+        "question_images": [
+            "q5_1",
+            "5_qu_1.png"
+        ],
+        "options": [
+            "A. On point P",
+            "B. On point P'",
+            "C. Inside the sphere",
+            "D. Outside the sphere"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The velocity of any point at distance $r$ from the centre is $v = v_c - \\omega r$. For the instantaneous axis of rotation, $v = 0 \\Rightarrow v_c = \\omega r \\Rightarrow r = v_c/\\omega$. Since $v_c > \\omega R$, then $r > R$. Therefore, the axis lies outside the sphere.",
+        "solution_images": [
+            "5_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A train of mass M is moving on a circular track of radius R with constant speed V. The length of the train is half of the perimeter of the track. The linear momentum of the train will be",
+        "question_latex": "A train of mass $M$ is moving on a circular track of radius $R$ with constant speed $V$. The length of the train is half of the perimeter of the track. The linear momentum of the train will be",
+        "question_images": [],
+        "options": [
+            "A. 0",
+            "B. $2MV/\\pi$",
+            "C. $MVR$",
+            "D. $MV$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Treat the train as a semi-circular ring. Its CM is at a distance $R_{CM} = 2R/\\pi$ from the center. Velocity of CM is $V_{CM} = R_{CM}\\omega = \\frac{2R}{\\pi} \\frac{V}{R} = \\frac{2V}{\\pi}$. Linear momentum $P = MV_{CM} = \\frac{2MV}{\\pi}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Force change the ...X... state of motion of a rigid body.",
+        "question_latex": "Force change the ...$X$... state of motion of a rigid body.",
+        "question_images": [],
+        "options": [
+            "A. Here X refers to rotational",
+            "B. translational",
+            "C. rotational and translational in general",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "An external force changes the linear momentum (translational motion) of a rigid body. Additionally, the torque produced by the force changes the rotational state of motion. Thus, both are affected in general.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "The moment of inertia of a uniform circular disc of radius 'R' and mass 'M' about an axis passing from the edge of the disc and normal to the disc is",
+        "question_latex": "The moment of inertia of a uniform circular disc of radius $R$ and mass $M$ about an axis passing from the edge of the disc and normal to the disc is",
+        "question_images": [],
+        "options": [
+            "A. $MR^2$",
+            "B. $1/2 MR^2$",
+            "C. $3/2 MR^2$",
+            "D. $7/2 MR^2$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "M.I. about center normal to disc is $I_{CM} = \\frac{1}{2}MR^2$. By parallel axis theorem, $I_{edge} = I_{CM} + MR^2 = \\frac{1}{2}MR^2 + MR^2 = \\frac{3}{2}MR^2$.",
+        "solution_images": [
+            "q8_solution_1",
+            "8_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "In the figure shown, a ball without sliding on a horizontal surface. It ascends a curved track up to height h and returns. The value of h is h1 for sufficiently rough curved track to avoid sliding and is h2 for smooth curved track, then",
+        "question_latex": "In the figure shown, a ball without sliding on a horizontal surface. It ascends a curved track up to height $h$ and returns. The value of $h$ is $h_1$ for sufficiently rough curved track to avoid sliding and is $h_2$ for smooth curved track, then",
+        "question_images": [
+            "q9_1",
+            "9_qu_1.png"
+        ],
+        "options": [
+            "A. $h_1 = h_2$",
+            "B. $h_1 < h_2$",
+            "C. $h_1 > h_2$",
+            "D. $h_2 = 2h_1$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "For a smooth track ($h_2$), only translational KE converts to PE ($mgh_2 = \\frac{1}{2}mv^2$). For a rough track ($h_1$), both translational and rotational KE convert to PE ($mgh_1 = \\frac{1}{2}mv^2 + \\frac{1}{2}I\\omega^2$). Since total KE is higher in the second case, $h_1 > h_2$. Note: Options text says $C$ is $h_1 \\ge h_2$, but logic confirms $h_1 > h_2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A spring mass system (mass m, spring constant k and natural length l) rests in equilibrium on a horizontal disc. The free end of the spring is fixed at the centre of the disc. If the disc rotates about it's axis with an angular velocity w, (k >> mw^2) the relative change in the length of the spring is best given by:",
+        "question_latex": "A spring mass system (mass $m$, spring constant $k$ and natural length $l$) rests in equilibrium on a horizontal disc. The free end of the spring is fixed at the centre of the disc. If the disc rotates about it's axis with an angular velocity $\\omega$, ($k \\gg m\\omega^2$) the relative change in the length of the spring is best given by:",
+        "question_images": [],
+        "options": [
+            "A. $\\sqrt{\\frac{2}{3}}(\\frac{m\\omega^2}{k})$",
+            "B. $\\frac{2m\\omega^2}{k}$",
+            "C. $\\frac{m\\omega^2}{k}$",
+            "D. $\\frac{m\\omega^2}{3k}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In the rotating frame, centrifugal force $m\\omega^2(l+x)$ balances spring force $kx$. $kx = m\\omega^2(l+x) \\Rightarrow x(k - m\\omega^2) = ml\\omega^2$. Since $k \\gg m\\omega^2$, $x \\approx \\frac{ml\\omega^2}{k}$. Relative change $\\frac{x}{l} = \\frac{m\\omega^2}{k}$.",
+        "solution_images": [
+            "q10_solution_1",
+            "10_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A ball of mass m is attached to a cord of length L, pivoted at point O. The ball is released from rest at A, swings down and makes an inelastic collision (e=2/3) with a block of mass 2m on a rough floor (mu). After collision, ball stops at angle theta and block moves 3L/2. Values of mu and cos(theta) are:",
+        "question_latex": "A ball of mass $m$ is attached to a cord of length $L$, pivoted at point $O$. The ball is released from rest at $A$, swings down and makes an inelastic collision ($e=2/3$) with a block of mass $2m$ on a rough floor ($\\mu$). After collision, ball comes to rest at $C$ (angle $\\theta$) and block moves $3L/2$. The values of $\\mu$ and $\\cos\\theta$ are, respectively:",
+        "question_images": [
+            "q11_1",
+            "11_qu_1.png"
+        ],
+        "options": [
+            "A. $\\frac{50}{243}, \\cos^{-1}(\\frac{80}{81})$",
+            "B. $\\frac{50}{81}, \\cos^{-1}(\\frac{80}{81})$",
+            "C. $\\frac{2}{81}, \\cos^{-1}(\\frac{80}{243})$",
+            "D. $\\frac{2}{243}, \\cos^{-1}(\\frac{80}{243})$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Velocity before collision $v_0 = \\sqrt{2gL}$. Conserving momentum: $mv_0 = -mv_1 + 2mv_2$. Restitution: $e = 2/3 = (v_1+v_2)/v_0$. Solving: $v_1 = v_0/9$, $v_2 = 5v_0/9$. For block: $\\frac{1}{2}(2m)v_2^2 = \\mu(2mg)(3L/2) \\Rightarrow \\mu = 50/243$. For ball: $mgh = \\frac{1}{2}mv_1^2 \\Rightarrow L(1-\\cos\\theta) = v_1^2/2g \\Rightarrow \\cos\\theta = 80/81$.",
+        "solution_images": [
+            "11_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "The first ball of mass m moving with velocity u collides head on with the second ball of mass m at rest. If the coefficient of restitution is e, then the ratio of the velocities of the first and the second ball after the collision is",
+        "question_latex": "The first ball of mass $m$ moving with a velocity $u$ collides head on with the second ball of mass $m$ at rest. If the coefficient of restitution is $e$, then the ratio of the velocities of the first and the second ball after the collision is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{1-e}{1+e}$",
+            "B. $\\frac{1+e}{1-e}$",
+            "C. $\\frac{1+e}{2}$",
+            "D. $\\frac{1-e}{2}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$v_1 = \\frac{u(1-e)}{2}$ and $v_2 = \\frac{u(1+e)}{2}$. Ratio $v_1/v_2 = (1-e)/(1+e)$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A ball released from height h0 above a horizontal surface rebounds to h1. The graph relates h0 to h1. If dropped from h and made three bounces, the kinetic energy after the third impact is:",
+        "question_latex": "A ball released from a height $h_0$ above a horizontal surface rebounds to a height $h_1$ after one bounce. The graph relates $h_0$ to $h_1$ ($h_1=80, h_0=100$). If the ball (mass $m$) was dropped from initial height $h$ and made three bounces, the kinetic energy of the ball immediately after the third impact is:",
+        "question_images": [
+            "q13_1",
+            "13_qu_1.png"
+        ],
+        "options": [
+            "A. $(0.8)^3 mgh$",
+            "B. $(0.8)^2 mgh$",
+            "C. $0.8 mg(h/3)$",
+            "D. $[1-(0.8)^3]mgh$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$h_1/h_0 = e^2 = 80/100 = 0.8$. After 3 bounces, velocity $v_3 = e^3 \\sqrt{2gh}$. $KE = \\frac{1}{2}mv_3^2 = e^6 mgh = (e^2)^3 mgh = (0.8)^3 mgh$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "The magnitude of torque on a particle of mass 1 kg is 2.5 Nm about the origin. If the force acting on it is 1 N, and the distance of the particle from the origin is 5m, the angle between the force and the position vector is (in radians):",
+        "question_latex": "The magnitude of torque on a particle of mass $1~kg$ is $2.5~Nm$ about the origin. If the force acting on it is $1~N$, and the distance of the particle from the origin is $5~m$, the angle between the force and the position vector is (in radians): [11 Jan. 2019 II]",
+        "question_images": [],
+        "options": [
+            "A. $\\pi/6$",
+            "B. $\\pi/3$",
+            "C. $\\pi/8$",
+            "D. $\\pi/4$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\tau = rF\\sin\\theta \\Rightarrow 2.5 = 5 \\times 1 \\times \\sin\\theta \\Rightarrow \\sin\\theta = 0.5 = 1/2 \\Rightarrow \\theta = \\pi/6$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "The angular momentum of a particle describing uniform circular motion in L. If its kinetic energy is halved and angular velocity doubled, its new angular momentum is",
+        "question_latex": "The angular momentum of a particle describing uniform circular motion in $L$. If its kinetic energy is halved and angular velocity doubled, its new angular momentum is",
+        "question_images": [],
+        "options": [
+            "A. $4L$",
+            "B. $L/4$",
+            "C. $L/2$",
+            "D. $2L$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$K = \\frac{1}{2}L\\omega \\Rightarrow L = 2K/\\omega$. New $L' = \\frac{2(K/2)}{2\\omega} = \\frac{K}{\\omega} = \\frac{1}{4}(2K/\\omega) = L/4$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A uniform thin rod AB of length L has linear mass density mu(x) = a + bx/L. If the CM lies at (7/12)L from A, then a and b are related as:",
+        "question_latex": "A uniform thin rod $AB$ of length $L$ has linear mass density $\\mu(x) = a + \\frac{bx}{L}$ where $x$ is measured from $A$. If the $CM$ of the rod lies at a distance of $(\\frac{7}{12})L$ from $A$, then $a$ and $b$ are related as:",
+        "question_images": [],
+        "options": [
+            "A. $a = 2b$",
+            "B. $2a = b$",
+            "C. $a = b$",
+            "D. $3a = 2b$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$x_{cm} = \\frac{\\int x dm}{\\int dm} = \\frac{\\int_0^L (ax + bx^2/L) dx}{\\int_0^L (a + bx/L) dx} = \\frac{aL^2/2 + bL^2/3}{aL + bL/2} = L\\frac{3a+2b}{6a+3b} = \\frac{7L}{12}$. Solving $12(3a+2b) = 7(6a+3b) \\Rightarrow 36a + 24b = 42a + 21b \\Rightarrow 3b = 6a \\Rightarrow b = 2a$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A mass m hangs with string around a pulley (mass m, radius R). Assuming pulley is a disc, the acceleration of mass m is:",
+        "question_latex": "A mass $m$ hangs with the help of a string wrapped around a pulley on a frictionless bearing. The pulley has mass $m$ and radius $R$. Assuming pulley to be a perfect uniform circular disc, the acceleration of the mass $m$, if the string does not slip, is:",
+        "question_images": [],
+        "options": [
+            "A. $g$",
+            "B. $2g/3$",
+            "C. $g/3$",
+            "D. $3g/2$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Equations: $mg - T = ma$ and $\\tau = TR = I\\alpha = (\\frac{1}{2}mR^2)(a/R) \\Rightarrow T = \\frac{1}{2}ma$. Substituting $T$: $mg - \\frac{1}{2}ma = ma \\Rightarrow mg = \\frac{3}{2}ma \\Rightarrow a = 2g/3$.",
+        "solution_images": [
+            "q17_solution_1",
+            "17_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A uniform ball of radius r rolls without slipping down from the top of a sphere of radius R. The angular velocity of the ball when it breaks from the sphere is",
+        "question_latex": "A uniform ball of radius $r$ rolls without slipping down from the top of a sphere of radius $R$. The angular velocity of the ball when it breaks from the sphere is",
+        "question_images": [],
+        "options": [
+            "A. $\\sqrt{\\frac{5g(R+r)}{17r^2}}$",
+            "B. $\\sqrt{\\frac{10g(R+r)}{17r^2}}$",
+            "C. $\\sqrt{\\frac{5g(R-r)}{10r^2}}$",
+            "D. $\\sqrt{\\frac{10g(R+r)}{7r^2}}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Condition for breaking: $N=0 \\Rightarrow \\frac{mv^2}{R+r} = mg\\cos\\theta$. Energy: $mg(R+r)(1-\\cos\\theta) = \\frac{1}{2}mv^2 + \\frac{1}{2}I\\omega^2 = \\frac{7}{10}mv^2$. Combining: $\\frac{10}{7}mg(R+r)(1-\\cos\\theta) = mg(R+r)\\cos\\theta \\Rightarrow 10 - 10\\cos\\theta = 7\\cos\\theta \\Rightarrow \\cos\\theta = 10/17$. Then $v = \\sqrt{g(R+r)(10/17)}$. $\\omega = v/r = \\sqrt{\\frac{10g(R+r)}{17r^2}}$.",
+        "solution_images": [
+            "18_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "In problem 5 (referring to a square system of rods), the moment of inertia of the system about one of the diagonals is",
+        "question_latex": "In the system of four rods forming a square of side $l$ and mass $M$ each, the moment of inertia of the system about one of the diagonals is",
+        "question_images": [],
+        "options": [
+            "A. $2Ml^2/3$",
+            "B. $13Ml^2/3$",
+            "C. $Ml^2/6$",
+            "D. $13Ml^2/6$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$I_{CM} = 4[\\frac{Ml^2}{12} + M(l/2)^2] = \\frac{4}{3}Ml^2$. Using perpendicular axis theorem for planar square: $I_{CM} = I_{d1} + I_{d2}$. Since $I_{d1} = I_{d2}$, $I_d = \\frac{1}{2}I_{CM} = \\frac{2}{3}Ml^2$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A particle of mass m1 moving with velocity v collides elastically with m2 moving in opposite direction also at v. If m2 >> m1, then",
+        "question_latex": "A particle of mass $m_1$ moving with velocity $v$ in a positive direction collides elastically with a mass $m_2$ moving in opposite direction also at velocity $v$. If $m_2 \\gg m_1$, then",
+        "question_images": [],
+        "options": [
+            "A. The velocity of $m_1$ after collision is nearly $3v$",
+            "B. The change in momentum of $m_1$ is nearly $4m_1v$",
+            "C. The change in kinetic energy of $m_1$ is nearly $4mv^2$",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$v_1 = \\frac{m_1-m_2}{m_1+m_2}u_1 + \\frac{2m_2u_2}{m_1+m_2} \\approx -u_1 + 2u_2 = -v + 2(-v) = -3v$. Speed is $3v$. $\\Delta P = m(-3v) - mv = -4mv$. $\\Delta KE = \\frac{1}{2}m(3v)^2 - \\frac{1}{2}mv^2 = 4mv^2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "If P and L represent angular and linear momentum of mass m with position r = a(i cos wt + j sin wt). The direction of force is:",
+        "question_latex": "If $\\vec{P}$ and $\\vec{L}$ represent the angular momentum and linear momentum respectively of a particle of mass $m$ having position vector $\\vec{r} = a(\\hat{i}\\cos\\omega t + \\hat{j}\\sin\\omega t)$. The direction of force is:",
+        "question_images": [],
+        "options": [
+            "A. Opposite to the direction of r",
+            "B. Opposite to the direction of P",
+            "C. Opposite to the direction of L x P",
+            "D. Opposite to the direction of L"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\vec{v} = d\\vec{r}/dt = a\\omega(-\\hat{i}\\sin\\omega t + \\hat{j}\\cos\\omega t)$. $\\vec{a} = d\\vec{v}/dt = -a\\omega^2(\\hat{i}\\cos\\omega t + \\hat{j}\\sin\\omega t) = -\\omega^2\\vec{r}$. $\\vec{F} = m\\vec{a} = -m\\omega^2\\vec{r}$. So force is opposite to $\\vec{r}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A particle performing uniform circular motion has angular frequency doubled & KE halved, then new angular momentum is:",
+        "question_latex": "A particle performing uniform circular motion has angular frequency doubled & its kinetic energy halved, then the new angular momentum is:",
+        "question_images": [],
+        "options": [
+            "A. $L/4$",
+            "B. $2L$",
+            "C. $4L$",
+            "D. $L/2$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$K = \\frac{1}{2}L\\omega \\Rightarrow L = 2K/\\omega$. New $L' = \\frac{2(K/2)}{2\\omega} = L/4$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A mass m is fixed to a light spring (k, l). The system rotates with angular speed w in gravity free space. Stretch in spring is:",
+        "question_latex": "A particle of mass $m$ is fixed to one end of a light spring having force constant $k$ and unstretched length $l$. The other end is fixed. The system is given an angular speed $\\omega$ about the fixed end of the spring such that it rotates in a circle in gravity free space. Then the stretch in the spring is:",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{ml\\omega^2}{k-\\omega m}$",
+            "B. $\\frac{ml\\omega^2}{k-m\\omega^2}$",
+            "C. $\\frac{ml\\omega^2}{k+m\\omega^2}$",
+            "D. $\\frac{ml\\omega^2}{k+m\\omega}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$kx = m(l+x)\\omega^2 \\Rightarrow kx = ml\\omega^2 + mx\\omega^2 \\Rightarrow x(k-m\\omega^2) = ml\\omega^2 \\Rightarrow x = \\frac{ml\\omega^2}{k-m\\omega^2}$.",
+        "solution_images": [
+            "23_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A disc is given a linear velocity on a rough horizontal surface then its angular momentum is",
+        "question_latex": "A disc is given a linear velocity on a rough horizontal surface then its angular momentum is",
+        "question_images": [],
+        "options": [
+            "A. conserved about COM only",
+            "B. conserved about the point of contact only",
+            "C. conserved about all the points",
+            "D. not conserved about any point."
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Friction acts at the point of contact. The torque due to friction about the point of contact is zero, hence angular momentum is conserved about that point.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Assertion: The centre of mass of a two particle system lies on the line joining the two particle, being closer to the heavier particle. Reason: Product of mass of particle and its distance from centre of mass is numerically equal to product of mass of other particle and its distance from centre of mass.",
+        "question_latex": "Assertion: The centre of mass of a two particle system lies on the line joining the two particle, being closer to the heavier particle. \\\\ Reason: Product of mass of particle and its distance from centre of mass is numerically equal to product of mass of other particle and its distance from centre of mass.",
+        "question_images": [],
+        "options": [
+            "A. Assertion is correct, reason is correct; reason is a correct explanation for assertion.",
+            "B. Assertion is correct, reason is correct; reason is not a correct explanation.",
+            "C. Assertion is correct, reason is incorrect.",
+            "D. Assertion is incorrect, reason is correct."
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$m_1 r_1 = m_2 r_2$. If $m_1 > m_2$, then $r_1 < r_2$, meaning the CM is closer to the heavier mass. The reason correctly explains the assertion.",
+        "solution_images": [
+            "q25_solution_1",
+            "25_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A bob of mass m is suspended through an inextensible string of length l. When the bob is at rest in equilibrium position, two particles each of mass m strike it as shown and stick to it. Choose the correct statement.",
+        "question_latex": "A\\ bob\\ of\\ mass\\ m\\ is\\ suspended\\ by\\ an\\ inextensible\\ string\\ of\\ length\\ l.\\ Two\\ particles\\ of\\ mass\\ m\\ strike\\ it\\ simultaneously\\ and\\ stick\\ to\\ it.",
+        "question_images": [
+            "q26_1",
+            "26_qu_1.png"
+        ],
+        "options": [
+            "A. Impulse in the string due to tension is $2mv$",
+            "B. Velocity of the system just after collision is $v$",
+            "C. Loss of energy is $mv^2$",
+            "D. Loss of energy is $2mv^2$"
+        ],
+        "option_images": [],
+        "answer": "A. Impulse in the string due to tension is $2mv$",
+        "solution": "Momentum in vertical direction before collision is $2mv$. This momentum becomes zero due to impulse in string. Hence impulse in string is $2mv$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A wheel is rolling on a plane surface. The speed of a particle at the highest point of the rim is v. What is the speed of a particle at the same level as the centre?",
+        "question_latex": "A\\ wheel\\ rolls\\ without\\ slipping.\\ Speed\\ at\\ highest\\ point\\ is\\ v.",
+        "question_images": [],
+        "options": [
+            "A. $v/2$",
+            "B. $v$",
+            "C. $v/\\sqrt{2}$",
+            "D. $2v$"
+        ],
+        "option_images": [],
+        "answer": "C. $v/\\sqrt{2}$",
+        "solution": "At highest point: $v = v_{cm} + \\omega R = 2v_{cm} \\Rightarrow v_{cm} = v/2$.\\ At centre level point, velocity is vector sum of $v_{cm}$ and $\\omega R = v_{cm}$ at right angles. Hence $v = \\sqrt{(v/2)^2+(v/2)^2}=v/\\sqrt{2}$.",
+        "solution_images": [
+            "27_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "In problem 8, the ratio of the final and initial velocities of the first ball is",
+        "question_latex": "Find\\ \\frac{v_f}{v_i}\\ for\\ the\\ first\\ ball\\ after\\ collision.",
+        "question_images": [],
+        "options": [
+            "A. $1/2$",
+            "B. $2/3$",
+            "C. $3/4$",
+            "D. $1/3$"
+        ],
+        "option_images": [],
+        "answer": "D. $1/3$",
+        "solution": "Using conservation of momentum and coefficient of restitution for head-on collision, the final velocity of first ball comes out to be one-third of its initial velocity.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A slender uniform rod of mass M and length L is pivoted at one end and released from vertical position. Find the angular acceleration when it makes an angle θ with vertical.",
+        "question_latex": "A\\ uniform\\ rod\\ of\\ mass\\ M\\ and\\ length\\ L\\ is\\ pivoted\\ at\\ one\\ end\\ and\\ released.",
+        "question_images": [
+            "q29_1",
+            "29_qu_1.png"
+        ],
+        "options": [
+            "A. $\\frac{g}{L}$",
+            "B. $\\frac{2g}{L}$",
+            "C. $\\frac{3g}{2L}\\sin\\theta$",
+            "D. $\\frac{g}{2L}\\cos\\theta$"
+        ],
+        "option_images": [],
+        "answer": "C. $\\frac{3g}{2L}\\sin\\theta$",
+        "solution": "Torque about pivot is $\\tau = Mg(L/2)\\sin\\theta$. Moment of inertia about pivot is $I = ML^2/3$. Hence $\\alpha = \\tau/I = \\frac{3g}{2L}\\sin\\theta$.",
+        "solution_images": [
+            "29_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A stationary particle explodes into two fragments of masses m and 2m. Find the ratio of their kinetic energies.",
+        "question_latex": "A\\ stationary\\ particle\\ breaks\\ into\\ masses\\ m\\ and\\ 2m.",
+        "question_images": [],
+        "options": [
+            "A. $2:1$",
+            "B. $1:2$",
+            "C. $4:1$",
+            "D. $1:4$"
+        ],
+        "option_images": [],
+        "answer": "A. $2:1$",
+        "solution": "Momentum conservation gives $mv_1 = 2mv_2$. Hence $v_1=2v_2$. Ratio of KE: $\\frac{1}{2}mv_1^2 : \\frac{1}{2}(2m)v_2^2 = 2:1$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two men stand on a plank on smooth surface. One moves such that the other remains stationary w.r.t ground. Where do they meet?",
+        "question_latex": "Two\\ men\\ stand\\ on\\ a\\ plank\\ on\\ a\\ frictionless\\ surface.",
+        "question_images": [
+            "q31_1",
+            "31_qu_1.png"
+        ],
+        "options": [
+            "A. Middle of plank",
+            "B. 30 cm from left end",
+            "C. Right end of plank",
+            "D. None"
+        ],
+        "option_images": [],
+        "answer": "C. Right end of plank",
+        "solution": "Centre of mass of system remains fixed. Given constraints show that meeting point shifts to right end.",
+        "solution_images": [
+            "31_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A car of mass 400 kg collides with a truck of mass 4000 kg. Find speed of truck after collision.",
+        "question_latex": "Car\\ of\\ mass\\ 400\\ kg\\ collides\\ with\\ truck\\ of\\ mass\\ 4000\\ kg.",
+        "question_images": [],
+        "options": [
+            "A. 9 km/h",
+            "B. 18 km/h",
+            "C. 27 km/h",
+            "D. 36 km/h"
+        ],
+        "option_images": [],
+        "answer": "B. 18 km/h",
+        "solution": "Applying conservation of linear momentum before and after collision gives truck speed as 18 km/h.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Three particles are placed at vertices of an equilateral triangle. Find coordinates of centre of mass.",
+        "question_latex": "Three\\ particles\\ are\\ placed\\ at\\ vertices\\ of\\ an\\ equilateral\\ triangle.",
+        "question_images": [
+            "q33_1",
+            "33_qu_1.png"
+        ],
+        "options": [
+            "A. $(1/2, \\sqrt{3}/6)$",
+            "B. $(0,0)$",
+            "C. $(1/3, \\sqrt{3}/3)$",
+            "D. $(2/3, \\sqrt{3}/3)$"
+        ],
+        "option_images": [],
+        "answer": "C. $(1/3, \\sqrt{3}/3)$",
+        "solution": "Coordinates of centre of mass are arithmetic mean of coordinates of vertices.",
+        "solution_images": [
+            "33_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A thin rod of length L has linear density proportional to $x^n$. Graph of centre of mass vs n is asked.",
+        "question_latex": "Linear\\ density\\ \\lambda = kx^n.",
+        "question_images": [
+            "q34_1"
+        ],
+        "options": [
+            "A. Option A graph",
+            "B. Option B graph",
+            "C. Option C graph",
+            "D. Option D graph"
+        ],
+        "option_images": [
+            "34_opA_1.png",
+            "34_opB_1.png",
+            "34_opC_1.png",
+            "34_opD_1.png"
+        ],
+        "answer": "A. Option A graph",
+        "solution": "As n increases, mass shifts away from origin. Only graph (A) satisfies this behavior.",
+        "solution_images": [
+            "34_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two objects rest on frictionless surface. One is pushed. Which statement about centre of mass is correct?",
+        "question_latex": "Two\\ objects\\ at\\ rest\\ on\\ frictionless\\ surface.",
+        "question_images": [],
+        "options": [
+            "A. COM concept invalid",
+            "B. COM acceleration greater than applied",
+            "C. COM acceleration equal to applied",
+            "D. COM acceleration less than applied"
+        ],
+        "option_images": [],
+        "answer": "D. COM acceleration less than applied",
+        "solution": "External force acts on only one mass, but total mass is larger, hence COM acceleration is less.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A uniform ring with back spin is thrown on rough surface. Find velocity when pure rolling starts.",
+        "question_latex": "Uniform\\ ring\\ with\\ angular\\ velocity\\ \\omega\\ and\\ velocity\\ v.",
+        "question_images": [],
+        "options": [
+            "A. $v$",
+            "B. $v/2$",
+            "C. $2v$",
+            "D. $0$"
+        ],
+        "option_images": [],
+        "answer": "B. $v/2$",
+        "solution": "Using rolling condition $v=\\omega R$ and angular momentum conservation gives $v/2$.",
+        "solution_images": [
+            "36_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Find moment of inertia of a door about its longer side.",
+        "question_latex": "Moment\\ of\\ inertia\\ of\\ a\\ rectangular\\ door.",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{1}{12}ML^2$",
+            "B. $\\frac{1}{3}ML^2$",
+            "C. $\\frac{1}{6}ML^2$",
+            "D. None"
+        ],
+        "option_images": [],
+        "answer": "C. $\\frac{1}{6}ML^2$",
+        "solution": "Using parallel axis theorem for rectangular lamina.",
+        "solution_images": [
+            "37_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Find distance of centre of mass of an L-shaped plate from origin.",
+        "question_latex": "L\\ shaped\\ lamina.",
+        "question_images": [
+            "q38_1",
+            "38_qu_1.png"
+        ],
+        "options": [
+            "A. 7 m",
+            "B. 2.7 m",
+            "C. 4 m",
+            "D. 1 m"
+        ],
+        "option_images": [],
+        "answer": "B. 2.7 m",
+        "solution": "Divide lamina into rectangles and apply COM formula.",
+        "solution_images": [
+            "38_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two identical billiard balls undergo elastic collision. Find deflection angle.",
+        "question_latex": "Elastic\\ oblique\\ collision\\ of\\ identical\\ balls.",
+        "question_images": [],
+        "options": [
+            "A. $30^\\circ$",
+            "B. $45^\\circ$",
+            "C. $90^\\circ$",
+            "D. $60^\\circ$"
+        ],
+        "option_images": [],
+        "answer": "C. $90^\\circ$",
+        "solution": "After elastic collision of identical balls, velocity vectors are perpendicular.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A bomb explodes mid-air. Path of centre of mass is",
+        "question_latex": "Explosion\\ in\\ projectile\\ motion.",
+        "question_images": [],
+        "options": [
+            "A. Vertical",
+            "B. Irregular",
+            "C. Straight line",
+            "D. Same parabolic path"
+        ],
+        "option_images": [],
+        "answer": "D. Same parabolic path",
+        "solution": "No external force acts, so centre of mass follows original projectile path.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A child standing on rotating platform doubles moment of inertia. New kinetic energy is?",
+        "question_latex": "Angular\\ momentum\\ conserved.",
+        "question_images": [],
+        "options": [
+            "A. Doubled",
+            "B. Halved",
+            "C. Same",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "B. Halved",
+        "solution": "Angular momentum conserved, so $\\omega$ halves. KE $\\propto \\omega^2$, hence halves.",
+        "solution_images": [
+            "41_so_1.png",
+            "41_so_2.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A block attached to pulley by slack string. Find velocity when string becomes taut.",
+        "question_latex": "Conservation\\ of\\ angular\\ momentum.",
+        "question_images": [
+            "q42_1"
+        ],
+        "options": [
+            "A. 3 m/s",
+            "B. 2.5 m/s",
+            "C. 5/3 m/s",
+            "D. 10/3 m/s"
+        ],
+        "option_images": [],
+        "answer": "D. 10/3 m/s",
+        "solution": "Apply angular momentum conservation about hinge.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "At what point should force be applied for pure translation of block?",
+        "question_latex": "Pure\\ translational\\ motion.",
+        "question_images": [],
+        "options": [
+            "A. Above COM",
+            "B. Through COM",
+            "C. No such point",
+            "D. Impossible"
+        ],
+        "option_images": [],
+        "answer": "B. Through COM",
+        "solution": "For pure translation, torque about COM must be zero.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Find moment of inertia of bent rod about given axis.",
+        "question_latex": "Bent\\ rod\\ moment\\ of\\ inertia.",
+        "question_images": [
+            "q44_1"
+        ],
+        "options": [
+            "A. Option A",
+            "B. Option B",
+            "C. Option C",
+            "D. Option D"
+        ],
+        "option_images": [],
+        "answer": "B. Option B",
+        "solution": "Use parallel axis theorem for each segment.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two spheres collide twice on circular groove. Find ratio of collision times.",
+        "question_latex": "Repeated\\ elastic\\ collisions\\ on\\ circular\\ track.",
+        "question_images": [
+            "45_qu_1.png"
+        ],
+        "options": [
+            "A. $1$",
+            "B. $e$",
+            "C. $1/e$",
+            "D. $\\frac{1+e}{1-e}$"
+        ],
+        "option_images": [],
+        "answer": "D. $\\frac{1+e}{1-e}$",
+        "solution": "Using relative velocity and coefficient of restitution relations.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Moment of inertia of system of four spheres at corners of square.",
+        "question_latex": "Combination\\ of\\ hollow\\ and\\ solid\\ spheres.",
+        "question_images": [
+            "q46_1",
+            "46_qu_1.png"
+        ],
+        "options": [
+            "A. Option A",
+            "B. Option B",
+            "C. Option C",
+            "D. Option D"
+        ],
+        "option_images": [],
+        "answer": "C. Option C",
+        "solution": "Add moments of inertia of each sphere about side using parallel axis theorem.",
+        "solution_images": [
+            "46_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Five balls collide elastically in a line. Final stationary balls?",
+        "question_latex": "Multiple\\ elastic\\ collisions\\ in\\ one\\ dimension.",
+        "question_images": [
+            "q47_1",
+            "47_qu_1.png"
+        ],
+        "options": [
+            "A. One",
+            "B. Two",
+            "C. Four",
+            "D. Three"
+        ],
+        "option_images": [],
+        "answer": "D. Three",
+        "solution": "After successive momentum exchanges, three balls remain stationary.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Velocity separation after last collision in five-ball system.",
+        "question_latex": "Final\\ velocity\\ separation.",
+        "question_images": [
+            "48_qu_1.png"
+        ],
+        "options": [
+            "A. $v$",
+            "B. $2v$",
+            "C. $3v$",
+            "D. $4v$"
+        ],
+        "option_images": [],
+        "answer": "C. $3v$",
+        "solution": "Derived from elastic collision symmetry.",
+        "solution_images": [
+            "48_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "System of particles shown. Find angular momentum about centre.",
+        "question_latex": "Angular\\ momentum\\ of\\ system.",
+        "question_images": [
+            "q49_1"
+        ],
+        "options": [
+            "A. Option A",
+            "B. Option B",
+            "C. Option C",
+            "D. Option D"
+        ],
+        "option_images": [],
+        "answer": "C. Option C",
+        "solution": "Sum of individual angular momenta.",
+        "solution_images": [
+            "49_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Final momentum distribution after elastic collisions of five balls.",
+        "question_latex": "Elastic\\ collision\\ momentum\\ exchange.",
+        "question_images": [
+            "q50_1"
+        ],
+        "options": [
+            "A. All move",
+            "B. Two move",
+            "C. One moves",
+            "D. Momentum exchange property holds"
+        ],
+        "option_images": [
+            "50_opA_1.png"
+        ],
+        "answer": "D. Momentum exchange property holds",
+        "solution": "Elastic collisions cause exchange of velocities without loss of kinetic energy.",
+        "solution_images": [
+            "50_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A force of 40 N acts on a point B at the end of an L-shaped object, as shown in the figure. The angle $\\theta$ that will produce maximum moment of the force about point A is given by:",
+        "question_latex": "A force of 40 N acts on a point B at the end of an L-shaped object, as shown in the figure. The angle $\\theta$ that will produce maximum moment of the force about point A is given by:",
+        "question_images": [
+            "q51_1",
+            "51_qu_1.png"
+        ],
+        "options": [
+            "A. $\\tan \\theta = \\frac{1}{4}$",
+            "B. $\\tan \\theta = 2$",
+            "C. $\\tan \\theta = \\frac{1}{2}$",
+            "D. $\\tan \\theta = 4$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "To produce maximum moment of force, the line of action of the force must be perpendicular to the line AB.\nFrom the geometry of the figure:\n$\\tan \\theta = \\frac{\\text{Perpendicular}}{\\text{Base}} = \\frac{2}{4} = \\frac{1}{2}$",
+        "solution_images": [
+            "q51_solution_1",
+            "51_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two blocks each of mass m and a cylinder C are connected as shown in Figure. Angular acceleration of the cylinder C of radius R is (all strings and pulley are ideal)",
+        "question_latex": "Two blocks each of mass m and a cylinder C are connected as shown in Figure. Angular acceleration of the cylinder C of radius R is (all strings and pulley are ideal)",
+        "question_images": [
+            "q52_1",
+            "52_qu_1.png"
+        ],
+        "options": [
+            "A. $\\frac{2g}{3R}$",
+            "B. $\\frac{2g}{5R}$",
+            "C. $\\frac{2g}{R}$",
+            "D. $\\frac{g}{2R}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Let $a$ be the acceleration of the cylinder, then acceleration of point A on the cylinder $\\vec{a}_{A} = \\vec{a}_{trans} + \\vec{a}_{rot}$.\n$|\\vec{a}_{A}| = a + R\\alpha = a_{Q}$\nSimilarly, the acceleration of point B on the cylinder is $|\\vec{a}_{B}| = a - R\\alpha = a_{p}$.\nEquations of motion:\n1. $mg - T_{1} = m(a + R\\alpha)$\n2. $T_{1} + mg - T_{2} = ma$\n3. $T_{2} = m(a - R\\alpha)$\n4. $T_{1}R + T_{2}R = \\frac{mR^{2}}{2}\\alpha$\nOn solving these equations, we get $a = \\frac{2g}{3}$ and $\\alpha = \\frac{2g}{5R}$.",
+        "solution_images": [
+            "q52_solution_1",
+            "52_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "If two circular discs A and B are of same mass but of radii r and 2r respectively, then the moment of inertia of A is",
+        "question_latex": "If two circular discs A and B are of same mass but of radii r and 2r respectively, then the moment of inertia of A is",
+        "question_images": [],
+        "options": [
+            "A. the same as that of B",
+            "B. twice that of B",
+            "C. four times that of B",
+            "D. 1/4 that of B"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The ratio of Moment of Inertia (M.I) for discs is given by:\n$\\frac{I_A}{I_B} = \\frac{\\frac{1}{2}M_A r^2}{\\frac{1}{2}M_B (2r)^2}$\nSince $M_A = M_B$:\n$\\frac{I_A}{I_B} = \\frac{r^2}{4r^2} = \\frac{1}{4}$\nThus, $I_A = \\frac{I_B}{4}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A uniform box of height 2 m and having a square base of side 1 m, weight 150 kg, is kept on one end on the floor of a truck. The maximum speed with which the truck can round a curve of radius 20 m without causing the block to tip over is (assume that friction is sufficient so that there is no sliding)",
+        "question_latex": "A uniform box of height 2 m and having a square base of side 1 m, weight 150 kg, is kept on one end on the floor of a truck. The maximum speed with which the truck can round a curve of radius 20 m without causing the block to tip over is (assume that friction is sufficient so that there is no sliding)",
+        "question_images": [],
+        "options": [
+            "A. 15 m/s",
+            "B. 10 m/s",
+            "C. 8 m/s",
+            "D. Depends on the value of coefficient of friction"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "For vertical equilibrium, $mg = N$. For horizontal equilibrium, $f = \\frac{mv^2}{r}$.\nFor rotational equilibrium about the edge, $f \\times 1 = N \\times x$.\nFor no tipping to take place, $x < \\frac{1}{2}$ m (half the base width).\n$mg \\times x = \\frac{mv^2}{r} \\times 1$\n$x = \\frac{v^2}{rg} < \\frac{1}{2} \\Rightarrow v < \\sqrt{\\frac{rg}{2}} = \\sqrt{\\frac{20 \\times 10}{2}} = 10 \\text{ m/s}$.",
+        "solution_images": [
+            "q54_solution_1",
+            "54_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "The moment of inertia of two spheres of equal masses about their diameters are equal. If one of them is solid and other is hollow, the ratio of their radii is",
+        "question_latex": "The moment of inertia of two spheres of equal masses about their diameters are equal. If one of them is solid and other is hollow, the ratio of their radii is",
+        "question_images": [],
+        "options": [
+            "A. $\\sqrt{3}:\\sqrt{5}$",
+            "B. 3:5",
+            "C. $\\sqrt{5}:\\sqrt{3}$",
+            "D. 5:3"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$I_{\\text{solid}} = \\frac{2}{5}MR_{s}^2$ and $I_{\\text{hollow}} = \\frac{2}{3}MR_{h}^2$\nGiven $I_{\\text{solid}} = I_{\\text{hollow}}$:\n$\\frac{2}{5}MR_{s}^2 = \\frac{2}{3}MR_{h}^2$\n$\\frac{R_{s}^2}{R_{h}^2} = \\frac{5}{3} \\Rightarrow \\frac{R_{s}}{R_{h}} = \\frac{\\sqrt{5}}{\\sqrt{3}}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two identical small balls, each of mass m are connected by a massless and inextensible string of length $l$ and placed on a smooth horizontal xy plane. An external agent starts pulling the string from its mid-point along y-axis with velocity $v_0$ as shown in Fig. When the separation between the two balls reduces to $l/2$, then the speed of each ball will be",
+        "question_latex": "Two identical small balls, each of mass m are connected by a massless and inextensible string of length $l$ and placed on a smooth horizontal xy plane. An external agent starts pulling the string from its mid-point along y-axis with velocity $v_0$ as shown in Fig. When the separation between the two balls reduces to $l/2$, then the speed of each ball will be",
+        "question_images": [
+            "q56_1",
+            "56_qu_1.png"
+        ],
+        "options": [
+            "A. $2v_0$",
+            "B. $v_0$",
+            "C. $\\frac{v_0}{2}$",
+            "D. $v_0/\\sqrt{2}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Using conservation of angular momentum about the midpoint or analyzing the velocity components, we find the velocity of each ball relative to the midpoint $v' = v_0$.\nThe resultant velocity $v = \\sqrt{v_0^2 + v_0^2 + 2v_0^2 \\cos 120^\\circ} = v_0$.",
+        "solution_images": [
+            "q56_solution_1",
+            "56_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "The radius of gyration of a uniform rod of length $l$, about an axis passing through a point $\\frac{l}{4}$ away from the centre of the rod, and perpendicular to it, is:",
+        "question_latex": "The radius of gyration of a uniform rod of length $l$, about an axis passing through a point $\\frac{l}{4}$ away from the centre of the rod, and perpendicular to it, is:",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{1}{4}l$",
+            "B. $\\frac{1}{8}l$",
+            "C. $\\sqrt{\\frac{7}{48}}l$",
+            "D. $\\sqrt{\\frac{3}{8}}l$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Moment of inertia about the center $I_g = \\frac{Ml^2}{12}$.\nUsing parallel axis theorem for a point $\\frac{l}{4}$ away:\n$I = I_g + M(\\frac{l}{4})^2 = \\frac{Ml^2}{12} + \\frac{Ml^2}{16} = \\frac{4Ml^2 + 3Ml^2}{48} = \\frac{7Ml^2}{48}$.\nSince $I = MK^2$, $K = \\sqrt{\\frac{7}{48}}l$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "The distance of the centre of mass of the T-shaped plate from O is",
+        "question_latex": "The distance of the centre of mass of the T-shaped plate from O is",
+        "question_images": [
+            "q58_1",
+            "58_qu_1.png"
+        ],
+        "options": [
+            "A. 7 m",
+            "B. 2.7 m",
+            "C. 4 m",
+            "D. 1 m"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$X_{CM} = \\frac{m_1x_1 + m_2x_2}{m_1 + m_2}$.\n$m_1 = 8 \\times 2 \\times \\sigma = 16\\sigma$ (vertical part), $x_1 = 1 \\text{ m}$.\n$m_2 = 6 \\times 2 \\times \\sigma = 12\\sigma$ (horizontal part), $x_2 = 2 + 3 = 5 \\text{ m}$.\n$X_{CM} = \\frac{16\\sigma(1) + 12\\sigma(5)}{16\\sigma + 12\\sigma} = \\frac{76}{28} = \\frac{19}{7} \\approx 2.7 \\text{ m from O}$.",
+        "solution_images": [
+            "q58_solution_1",
+            "58_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A particle of mass 2 kg is on a smooth horizontal table and moves in a circular path of radius 0.6 m. The height of the table from the ground is 0.8 m. If the angular speed of the particle is $12 \\text{ rad s}^{-1}$, the magnitude of its angular momentum about a point on the ground right under the centre of the circle is:",
+        "question_latex": "A particle of mass 2 kg is on a smooth horizontal table and moves in a circular path of radius 0.6 m. The height of the table from the ground is 0.8 m. If the angular speed of the particle is $12 \\text{ rad s}^{-1}$, the magnitude of its angular momentum about a point on the ground right under the centre of the circle is:",
+        "question_images": [],
+        "options": [
+            "A. 14.4 kg m² s⁻¹",
+            "B. 8.64 kg m² s⁻¹",
+            "C. 20.16 kg m² s⁻¹",
+            "D. 11.52 kg m² s⁻¹"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Angular momentum $L_0 = mvr = m(r\\omega)r = mr^2\\omega$.\n$L_0 = 2 \\times (0.6)^2 \\times 12 = 2 \\times 0.36 \\times 12 = 8.64 \\text{ kg m}^2/\\text{s}$ (relative to center of path).\nHowever, for a point on the ground under the center, the distance is $\\sqrt{0.6^2 + 0.8^2} = 1.0 \\text{ m}$.\n$L = mvr_{\\perp} = 2 \\times (0.6 \\times 12) \\times 1.0 \\sin 90^\\circ = 14.4 \\text{ kg m}^2/\\text{s}$.",
+        "solution_images": [
+            "q59_solution_1",
+            "59_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A solid sphere is rolling on a surface as shown in figure, with a translational velocity v m/s. If it is to climb the inclined surface continuing to roll without slipping, then minimum velocity for this to happen is",
+        "question_latex": "A solid sphere is rolling on a surface as shown in figure, with a translational velocity v m/s. If it is to climb the inclined surface continuing to roll without slipping, then minimum velocity for this to happen is",
+        "question_images": [
+            "q60_1",
+            "60_qu_1.png"
+        ],
+        "options": [
+            "A. $\\sqrt{2gh}$",
+            "B. $\\sqrt{\\frac{2}{3}gh}$",
+            "C. $\\sqrt{\\frac{5}{7}gh}$",
+            "D. $\\sqrt{\\frac{10}{7}gh}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Total Kinetic Energy = Potential Energy at height h.\n$\\frac{1}{2}mv^2(1 + \\frac{k^2}{R^2}) = mgh$\nFor solid sphere, $\\frac{k^2}{R^2} = \\frac{2}{5}$.\n$\\frac{1}{2}v^2(1 + \\frac{2}{5}) = gh \\Rightarrow \\frac{1}{2}v^2(\\frac{7}{5}) = gh \\Rightarrow v = \\sqrt{\\frac{10}{7}gh}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A slab is subjected to two forces $\\vec{F}_1$ and $\\vec{F}_2$ of same magnitude F as shown in the figure. Force $\\vec{F}_2$ is in XY-plane while force $\\vec{F}_1$ acts along z-axis at the point $(2\\hat{i}+3\\hat{j})$. The moment of these forces about point O will be",
+        "question_latex": "A slab is subjected to two forces $\\vec{F}_1$ and $\\vec{F}_2$ of same magnitude F as shown in the figure. Force $\\vec{F}_2$ is in XY-plane while force $\\vec{F}_1$ acts along z-axis at the point $(2\\hat{i}+3\\hat{j})$. The moment of these forces about point O will be",
+        "question_images": [
+            "q61_1",
+            "61_qu_1.png"
+        ],
+        "options": [
+            "A. $(3\\hat{i}-2\\hat{j}+3\\hat{k})F$",
+            "B. $(3\\hat{i}-2\\hat{j}-3\\hat{k})F$",
+            "C. $(3\\hat{i}+2\\hat{j}-3\\hat{k})F$",
+            "D. $(3\\hat{i}+2\\hat{j}+3\\hat{k})F$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\vec{F}_2$ acts in XY plane: $\\vec{F}_2 = \\frac{F}{2}(-\\hat{i}) + \\frac{F\\sqrt{3}}{2}(-\\hat{j})$ at $\\vec{r}_1 = 6\\hat{j}$.\n$\\vec{\\tau}_1 = \\vec{r}_1 \\times \\vec{F}_1 = 6\\hat{j} \\times (\\dots) = 3F\\hat{k}$.\n$\\vec{F}_1$ acts along Z-axis: $\\vec{F}_1 = F\\hat{k}$ at $\\vec{r}_2 = 2\\hat{i} + 3\\hat{j}$.\n$\\vec{\\tau}_2 = \\vec{r}_2 \\times \\vec{F}_1 = (2\\hat{i} + 3\\hat{j}) \\times F\\hat{k} = -2F\\hat{j} + 3F\\hat{i}$.\n$\\vec{\\tau}_{net} = (3\\hat{i} - 2\\hat{j} + 3\\hat{k})F$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A particle is moving in a circular path of radius a, with a constant velocity v as shown in the figure. The centre of circle is marked by 'C'. The angular momentum from the origin O can be written as:",
+        "question_latex": "A particle is moving in a circular path of radius a, with a constant velocity v as shown in the figure. The centre of circle is marked by 'C'. The angular momentum from the origin O can be written as:",
+        "question_images": [
+            "q62_1",
+            "62_qu_1.png"
+        ],
+        "options": [
+            "A. $va(1+\\cos 2\\theta)$",
+            "B. $va(1+\\cos \\theta)$",
+            "C. $va \\cos 2\\theta$",
+            "D. $va$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Angular momentum $L = m(\\vec{r} \\times \\vec{v})$. Based on the geometry of the circle and origin O, the distance and angle leads to $va(1 + \\cos 2\\theta)$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Choose the wrong statement from the following.",
+        "question_latex": "Choose the wrong statement from the following.",
+        "question_images": [],
+        "options": [
+            "A. The centre of mass of a uniform circular ring is at its geometric centre",
+            "B. Moment of inertia is a scalar quantity",
+            "C. Radius of gyration is a vector quantity",
+            "D. For same mass and radius, the moment of inertia of a ring is twice that of a uniform disc"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Moment of inertia is a tensor quantity, not a simple scalar, as its value depends on the axis of rotation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two blocks A and B of masses m and 2m, respectively, are connected with the help of a spring having spring constant k. Initially, both blocks are moving with same velocity v on a smooth horizontal plane. Block B makes an inelastic collision with block C (mass m) at rest. Coefficient of restitution is 1/2. The maximum compression in the spring is",
+        "question_latex": "Two blocks A and B of masses m and 2m, respectively, are connected with the help of a spring having spring constant k. Initially, both blocks are moving with same velocity v on a smooth horizontal plane. Block B makes an inelastic collision with block C (mass m) at rest. Coefficient of restitution is 1/2. The maximum compression in the spring is",
+        "question_images": [
+            "q64_1",
+            "64_qu_1.png"
+        ],
+        "options": [
+            "A. $v\\sqrt{\\frac{2m}{k}}$",
+            "B. Will never be attained",
+            "C. $v\\sqrt{\\frac{m}{12k}}$",
+            "D. $v\\sqrt{\\frac{m}{6k}}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "For collision of B and C: $2mv = 2mv_1 + mv_2$ and $e = 1/2 = (v_2 - v_1)/v$.\nSolving, $v_1 = v/2$. Now for A and B, reduced mass $\\mu = \\frac{m \\times 2m}{3m} = \\frac{2m}{3}$.\nUsing energy in center of mass frame: $\\frac{1}{2}\\mu v_{rel}^2 = \\frac{1}{2}kx_0^2$.\n$\\frac{1}{2}(\\frac{2m}{3})(v - v/2)^2 = \\frac{1}{2}kx_0^2 \\Rightarrow x_0 = v\\sqrt{\\frac{m}{6k}}$.",
+        "solution_images": [
+            "64_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two pendulums each of length $l$ are initially situated as shown. The first is released and strikes the second in a completely inelastic collision. How high does the centre of mass rise after the collision?",
+        "question_latex": "Two pendulums each of length $l$ are initially situated as shown. The first is released and strikes the second in a completely inelastic collision. How high does the centre of mass rise after the collision?",
+        "question_images": [
+            "q65_1",
+            "65_qu_1.png"
+        ],
+        "options": [
+            "A. $d[\\frac{m_1}{m_1+m_2}]^2$",
+            "B. $d[\\frac{m_1}{m_1+m_2}]$",
+            "C. $d[\\frac{m_1+m_2}{m_2}]^2$",
+            "D. $d[\\frac{m_2}{m_1+m_2}]^2$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Velocity before collision $v_1 = \\sqrt{2gd}$. By conservation of momentum: $m_1v_1 = (m_1+m_2)V$.\n$V = \\frac{m_1}{m_1+m_2}\\sqrt{2gd}$.\nHeight $h = \\frac{V^2}{2g} = \\frac{1}{2g}(\\frac{m_1}{m_1+m_2})^2(2gd) = d(\\frac{m_1}{m_1+m_2})^2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A rod of weight W is supported by two parallel knife edges A and B and is in equilibrium in a horizontal position. The knives are at a distance d from each other. The centre of mass of the rod is at distance x from A. The normal reaction on A is",
+        "question_latex": "A rod of weight W is supported by two parallel knife edges A and B and is in equilibrium in a horizontal position. The knives are at a distance d from each other. The centre of mass of the rod is at distance x from A. The normal reaction on A is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{Wd}{x}$",
+            "B. $\\frac{W(d-x)}{x}$",
+            "C. $\\frac{W(d-x)}{d}$",
+            "D. $\\frac{Wx}{d}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Balancing torque about point B:\n$N_A(d) = W(d - x)$\n$N_A = \\frac{W(d-x)}{d}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Assertion: The total kinetic energy of a rolling solid sphere is the sum of translational and rotational kinetic energies.\nReason: For all solid bodies total kinetic energy is always twice the translational kinetic energy.",
+        "question_latex": "Assertion: The total kinetic energy of a rolling solid sphere is the sum of translational and rotational kinetic energies.\nReason: For all solid bodies total kinetic energy is always twice the translational kinetic energy.",
+        "question_images": [],
+        "options": [
+            "A. Assertion is correct, reason is correct; reason is a correct explanation",
+            "B. Assertion is correct, reason is correct; reason is not a correct explanation",
+            "C. Assertion is correct, reason is incorrect",
+            "D. Assertion is incorrect, reason is correct"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The assertion is correct as $K_{total} = K_{trans} + K_{rot}$. The reason is incorrect because the ratio depends on the moment of inertia ($K_{total} = K_{trans}(1 + k^2/R^2)$), and it is not always twice.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two particles of mass 2 kg and 3 kg are shown. At t=0, a constant force F = 6 N starts acting on the 3 kg mass. Find the velocity of the centre of mass at t = 5 s.",
+        "question_latex": "Two particles of mass 2 kg and 3 kg are shown. At t=0, a constant force F = 6 N starts acting on the 3 kg mass. Find the velocity of the centre of mass at t = 5 s.",
+        "question_images": [
+            "q68_1"
+        ],
+        "options": [
+            "A. 5 m/s",
+            "B. 4 m/s",
+            "C. 6 m/s",
+            "D. 3 m/s"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Acceleration of CM: $a_{CM} = \\frac{F_{ext}}{M_{total}} = \\frac{6}{2+3} = 1.2 \\text{ m/s}^2$.\nVelocity of CM at $t=5$ s: $v_{CM} = u + a_{CM}t = 0 + 1.2 \\times 5 = 6 \\text{ m/s}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two men A (40 kg) and B (60 kg) are on a 40 kg plank. B is at the middle and A is at the left end. The plank is on a smooth surface. If A and B move such that B's position remains fixed w.r.t. ground, where do they meet?",
+        "question_latex": "Two men A (40 kg) and B (60 kg) are on a 40 kg plank. B is at the middle and A is at the left end. The plank is on a smooth surface. If A and B move such that B's position remains fixed w.r.t. ground, where do they meet?",
+        "question_images": [
+            "q69_1",
+            "69_qu_1.png"
+        ],
+        "options": [
+            "A. The middle of the plank",
+            "B. 30 cm from the left end",
+            "C. The right end of the plank",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Since no external horizontal force acts, $\\Delta x_{CM} = 0$. $m_1\\Delta x_1 + m_2\\Delta x_2 + m_3\\Delta x_3 = 0$.\nGiven B is fixed w.r.t ground, $\\Delta x_B = 0$. Let plank move by $x$.\n$40(60-x) + 40(-x) = 0 \\Rightarrow x = 30$ cm relative to ground, but relative to plank they meet at the right end.",
+        "solution_images": [
+            "69_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A solid cylinder can be tipped at an angle $\\theta$ before sliding. For pure rolling, the steepest angle is $\\phi$. The ratio $\\tan \\phi / \\tan \\theta$ is",
+        "question_latex": "A solid cylinder can be tipped at an angle $\\theta$ before sliding. For pure rolling, the steepest angle is $\\phi$. The ratio $\\tan \\phi / \\tan \\theta$ is",
+        "question_images": [],
+        "options": [
+            "A. 3",
+            "B. 1/3",
+            "C. 1",
+            "D. 1/2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For no sliding, $\\tan \\theta = \\mu_s$. For pure rolling, $f = \\frac{mg \\sin \\phi}{1 + R^2/k^2} \\le \\mu_s mg \\cos \\phi$.\nFor cylinder $k^2 = R^2/2$, so $1 + R^2/k^2 = 3$.\n$\\frac{1}{3}\\tan \\phi \\le \\mu_s \\Rightarrow \\tan \\phi = 3\\mu_s = 3\\tan \\theta$. Ratio is 3.",
+        "solution_images": [
+            "70_so_1.png",
+            "70_so_2.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "An object at rest explodes into fragments A, B, C. Momentum of A is $p\\hat{i}$, B is $\\sqrt{3}p\\hat{j}$. Momentum of C will be",
+        "question_latex": "An object at rest explodes into fragments A, B, C. Momentum of A is $p\\hat{i}$, B is $\\sqrt{3}p\\hat{j}$. Momentum of C will be",
+        "question_images": [],
+        "options": [
+            "A. $(1+\\sqrt{3})p$ at $120^\\circ$ with A",
+            "B. $(1+\\sqrt{3})p$ at $150^\\circ$ with B",
+            "C. $2p$ at $150^\\circ$ with A",
+            "D. $2p$ at $150^\\circ$ with B"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$\\vec{p}_C = -(\\vec{p}_A + \\vec{p}_B) = -(p\\hat{i} + \\sqrt{3}p\\hat{j})$.\nMagnitude $|p_C| = \\sqrt{p^2 + 3p^2} = 2p$.\nDirection: $\\tan \\alpha = \\sqrt{3}p/p = \\sqrt{3} \\Rightarrow 60^\\circ$ in 3rd quadrant. Angle with B ($\\hat{j}$) is $90 + 60 = 150^\\circ$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "By keeping moment of inertia of a body constant, if we double the time period, then angular momentum of body",
+        "question_latex": "By keeping moment of inertia of a body constant, if we double the time period, then angular momentum of body",
+        "question_images": [],
+        "options": [
+            "A. Remains constant",
+            "B. Becomes half",
+            "C. Doubles",
+            "D. quadruples"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$L = I\\omega = I(\\frac{2\\pi}{T})$.\n$L \\propto \\frac{1}{T}$. If T is doubled, L becomes half.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "If a spherical ball rolls on a table without slipping, the fraction of its total energy associated with rotation is",
+        "question_latex": "If a spherical ball rolls on a table without slipping, the fraction of its total energy associated with rotation is",
+        "question_images": [],
+        "options": [
+            "A. 3/5",
+            "B. 2/7",
+            "C. 2/5",
+            "D. 3/7"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$K_{rot} = \\frac{1}{2}I\\omega^2$, $K_{total} = \\frac{1}{2}mv^2 + \\frac{1}{2}I\\omega^2$.\nFraction $= \\frac{k^2/R^2}{1 + k^2/R^2}$. For sphere $k^2/R^2 = 2/5$.\nFraction $= \\frac{2/5}{1 + 2/5} = \\frac{2}{7}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Three particles of 1kg, 2kg, 3kg are at (3,3,3). Where should a 4th particle of 4kg be placed so CM shifts to (1,1,1)?",
+        "question_latex": "Three particles of 1kg, 2kg, 3kg are at (3,3,3). Where should a 4th particle of 4kg be placed so CM shifts to (1,1,1)?",
+        "question_images": [],
+        "options": [
+            "A. (-1,-1,-1)",
+            "B. (-2,-2,-2)",
+            "C. (2,2,2)",
+            "D. (1,1,1)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$x_{new} = \\frac{M_{old}x_{old} + m_4x_4}{M_{total}} \\Rightarrow 1 = \\frac{6(3) + 4x_4}{10}$.\n$10 = 18 + 4x_4 \\Rightarrow 4x_4 = -8 \\Rightarrow x_4 = -2$.\nSimilarly $y_4 = -2, z_4 = -2$. Point is (-2, -2, -2).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Assertion: When you lean behind over the hind legs of the chair, the chair falls back after a certain angle.\nReason: Centre of mass lying outside the system makes the system unstable.",
+        "question_latex": "Assertion: When you lean behind over the hind legs of the chair, the chair falls back after a certain angle.\nReason: Centre of mass lying outside the system makes the system unstable.",
+        "question_images": [],
+        "options": [
+            "A. Assertion is correct, reason is correct; reason is a correct explanation",
+            "B. Assertion is correct, reason is correct; reason is not a correct explanation",
+            "C. Assertion is correct, reason is incorrect",
+            "D. Assertion is incorrect, reason is correct"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The assertion is correct; tipping occurs when the vertical line from the CM falls outside the base of support. The reason is incorrect; a CM can lie outside a system (like a ring) without making it inherently unstable.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A force of 40 N acts on a point B at the end of an L-shaped object, as shown in the figure. The angle $\\theta$ that will produce maximum moment of the force about point A is given by:",
+        "question_latex": "A force of 40 N acts on a point B at the end of an L-shaped object, as shown in the figure. The angle $\\theta$ that will produce maximum moment of the force about point A is given by:",
+        "question_images": [
+            "q51_1"
+        ],
+        "options": [
+            "A. $\\tan \\theta = \\frac{1}{4}$",
+            "B. $\\tan \\theta = 2$",
+            "C. $\\tan \\theta = \\frac{1}{2}$",
+            "D. $\\tan \\theta = 4$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "To produce maximum moment of force, the line of action of the force must be perpendicular to the line AB.\nFrom the geometry of the figure:\n$\\tan \\theta = \\frac{\\text{Perpendicular}}{\\text{Base}} = \\frac{2}{4} = \\frac{1}{2}$",
+        "solution_images": [
+            "q51_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two blocks each of mass m and a cylinder C are connected as shown in Figure. Angular acceleration of the cylinder C of radius R is (all strings and pulley are ideal)",
+        "question_latex": "Two blocks each of mass m and a cylinder C are connected as shown in Figure. Angular acceleration of the cylinder C of radius R is (all strings and pulley are ideal)",
+        "question_images": [
+            "q52_1"
+        ],
+        "options": [
+            "A. $\\frac{2g}{3R}$",
+            "B. $\\frac{2g}{5R}$",
+            "C. $\\frac{2g}{R}$",
+            "D. $\\frac{g}{2R}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Let $a$ be the acceleration of the cylinder, then acceleration of point A on the cylinder $\\vec{a}_{A} = \\vec{a}_{trans} + \\vec{a}_{rot}$.\n$|\\vec{a}_{A}| = a + R\\alpha = a_{Q}$\nSimilarly, the acceleration of point B on the cylinder is $|\\vec{a}_{B}| = a - R\\alpha = a_{p}$.\nEquations of motion:\n1. $mg - T_{1} = m(a + R\\alpha)$\n2. $T_{1} + mg - T_{2} = ma$\n3. $T_{2} = m(a - R\\alpha)$\n4. $T_{1}R + T_{2}R = \\frac{mR^{2}}{2}\\alpha$\nOn solving these equations, we get $a = \\frac{2g}{3}$ and $\\alpha = \\frac{2g}{5R}$.",
+        "solution_images": [
+            "q52_solution_1"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "If two circular discs A and B are of same mass but of radii r and 2r respectively, then the moment of inertia of A is",
+        "question_latex": "If two circular discs A and B are of same mass but of radii r and 2r respectively, then the moment of inertia of A is",
+        "question_images": [],
+        "options": [
+            "A. the same as that of B",
+            "B. twice that of B",
+            "C. four times that of B",
+            "D. 1/4 that of B"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The ratio of Moment of Inertia (M.I) for discs is given by:\n$\\frac{I_A}{I_B} = \\frac{\\frac{1}{2}M_A r^2}{\\frac{1}{2}M_B (2r)^2}$\nSince $M_A = M_B$:\n$\\frac{I_A}{I_B} = \\frac{r^2}{4r^2} = \\frac{1}{4}$\nThus, $I_A = \\frac{I_B}{4}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A uniform box of height 2 m and having a square base of side 1 m, weight 150 kg, is kept on one end on the floor of a truck. The maximum speed with which the truck can round a curve of radius 20 m without causing the block to tip over is (assume that friction is sufficient so that there is no sliding)",
+        "question_latex": "A uniform box of height 2 m and having a square base of side 1 m, weight 150 kg, is kept on one end on the floor of a truck. The maximum speed with which the truck can round a curve of radius 20 m without causing the block to tip over is (assume that friction is sufficient so that there is no sliding)",
+        "question_images": [],
+        "options": [
+            "A. 15 m/s",
+            "B. 10 m/s",
+            "C. 8 m/s",
+            "D. Depends on the value of coefficient of friction"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "For vertical equilibrium, $mg = N$. For horizontal equilibrium, $f = \\frac{mv^2}{r}$.\nFor rotational equilibrium about the edge, $f \\times 1 = N \\times x$.\nFor no tipping to take place, $x < \\frac{1}{2}$ m (half the base width).\n$mg \\times x = \\frac{mv^2}{r} \\times 1$\n$x = \\frac{v^2}{rg} < \\frac{1}{2} \\Rightarrow v < \\sqrt{\\frac{rg}{2}} = \\sqrt{\\frac{20 \\times 10}{2}} = 10 \\text{ m/s}$.",
+        "solution_images": [
+            "q54_solution_1"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "The moment of inertia of two spheres of equal masses about their diameters are equal. If one of them is solid and other is hollow, the ratio of their radii is",
+        "question_latex": "The moment of inertia of two spheres of equal masses about their diameters are equal. If one of them is solid and other is hollow, the ratio of their radii is",
+        "question_images": [],
+        "options": [
+            "A. $\\sqrt{3}:\\sqrt{5}$",
+            "B. 3:5",
+            "C. $\\sqrt{5}:\\sqrt{3}$",
+            "D. 5:3"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$I_{\\text{solid}} = \\frac{2}{5}MR_{s}^2$ and $I_{\\text{hollow}} = \\frac{2}{3}MR_{h}^2$\nGiven $I_{\\text{solid}} = I_{\\text{hollow}}$:\n$\\frac{2}{5}MR_{s}^2 = \\frac{2}{3}MR_{h}^2$\n$\\frac{R_{s}^2}{R_{h}^2} = \\frac{5}{3} \\Rightarrow \\frac{R_{s}}{R_{h}} = \\frac{\\sqrt{5}}{\\sqrt{3}}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two identical small balls, each of mass m are connected by a massless and inextensible string of length $l$ and placed on a smooth horizontal xy plane. An external agent starts pulling the string from its mid-point along y-axis with velocity $v_0$ as shown in Fig. When the separation between the two balls reduces to $l/2$, then the speed of each ball will be",
+        "question_latex": "Two identical small balls, each of mass m are connected by a massless and inextensible string of length $l$ and placed on a smooth horizontal xy plane. An external agent starts pulling the string from its mid-point along y-axis with velocity $v_0$ as shown in Fig. When the separation between the two balls reduces to $l/2$, then the speed of each ball will be",
+        "question_images": [
+            "q56_1"
+        ],
+        "options": [
+            "A. $2v_0$",
+            "B. $v_0$",
+            "C. $\\frac{v_0}{2}$",
+            "D. $v_0/\\sqrt{2}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Using conservation of angular momentum about the midpoint or analyzing the velocity components, we find the velocity of each ball relative to the midpoint $v' = v_0$.\nThe resultant velocity $v = \\sqrt{v_0^2 + v_0^2 + 2v_0^2 \\cos 120^\\circ} = v_0$.",
+        "solution_images": [
+            "q56_solution_1"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "The radius of gyration of a uniform rod of length $l$, about an axis passing through a point $\\frac{l}{4}$ away from the centre of the rod, and perpendicular to it, is:",
+        "question_latex": "The radius of gyration of a uniform rod of length $l$, about an axis passing through a point $\\frac{l}{4}$ away from the centre of the rod, and perpendicular to it, is:",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{1}{4}l$",
+            "B. $\\frac{1}{8}l$",
+            "C. $\\sqrt{\\frac{7}{48}}l$",
+            "D. $\\sqrt{\\frac{3}{8}}l$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Moment of inertia about the center $I_g = \\frac{Ml^2}{12}$.\nUsing parallel axis theorem for a point $\\frac{l}{4}$ away:\n$I = I_g + M(\\frac{l}{4})^2 = \\frac{Ml^2}{12} + \\frac{Ml^2}{16} = \\frac{4Ml^2 + 3Ml^2}{48} = \\frac{7Ml^2}{48}$.\nSince $I = MK^2$, $K = \\sqrt{\\frac{7}{48}}l$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "The distance of the centre of mass of the T-shaped plate from O is",
+        "question_latex": "The distance of the centre of mass of the T-shaped plate from O is",
+        "question_images": [
+            "q58_1"
+        ],
+        "options": [
+            "A. 7 m",
+            "B. 2.7 m",
+            "C. 4 m",
+            "D. 1 m"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$X_{CM} = \\frac{m_1x_1 + m_2x_2}{m_1 + m_2}$.\n$m_1 = 8 \\times 2 \\times \\sigma = 16\\sigma$ (vertical part), $x_1 = 1 \\text{ m}$.\n$m_2 = 6 \\times 2 \\times \\sigma = 12\\sigma$ (horizontal part), $x_2 = 2 + 3 = 5 \\text{ m}$.\n$X_{CM} = \\frac{16\\sigma(1) + 12\\sigma(5)}{16\\sigma + 12\\sigma} = \\frac{76}{28} = \\frac{19}{7} \\approx 2.7 \\text{ m from O}$.",
+        "solution_images": [
+            "q58_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A particle of mass 2 kg is on a smooth horizontal table and moves in a circular path of radius 0.6 m. The height of the table from the ground is 0.8 m. If the angular speed of the particle is $12 \\text{ rad s}^{-1}$, the magnitude of its angular momentum about a point on the ground right under the centre of the circle is:",
+        "question_latex": "A particle of mass 2 kg is on a smooth horizontal table and moves in a circular path of radius 0.6 m. The height of the table from the ground is 0.8 m. If the angular speed of the particle is $12 \\text{ rad s}^{-1}$, the magnitude of its angular momentum about a point on the ground right under the centre of the circle is:",
+        "question_images": [],
+        "options": [
+            "A. 14.4 kg m² s⁻¹",
+            "B. 8.64 kg m² s⁻¹",
+            "C. 20.16 kg m² s⁻¹",
+            "D. 11.52 kg m² s⁻¹"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Angular momentum $L_0 = mvr = m(r\\omega)r = mr^2\\omega$.\n$L_0 = 2 \\times (0.6)^2 \\times 12 = 2 \\times 0.36 \\times 12 = 8.64 \\text{ kg m}^2/\\text{s}$ (relative to center of path).\nHowever, for a point on the ground under the center, the distance is $\\sqrt{0.6^2 + 0.8^2} = 1.0 \\text{ m}$.\n$L = mvr_{\\perp} = 2 \\times (0.6 \\times 12) \\times 1.0 \\sin 90^\\circ = 14.4 \\text{ kg m}^2/\\text{s}$.",
+        "solution_images": [
+            "q59_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A solid sphere is rolling on a surface as shown in figure, with a translational velocity v m/s. If it is to climb the inclined surface continuing to roll without slipping, then minimum velocity for this to happen is",
+        "question_latex": "A solid sphere is rolling on a surface as shown in figure, with a translational velocity v m/s. If it is to climb the inclined surface continuing to roll without slipping, then minimum velocity for this to happen is",
+        "question_images": [
+            "q60_1"
+        ],
+        "options": [
+            "A. $\\sqrt{2gh}$",
+            "B. $\\sqrt{\\frac{2}{3}gh}$",
+            "C. $\\sqrt{\\frac{5}{7}gh}$",
+            "D. $\\sqrt{\\frac{10}{7}gh}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Total Kinetic Energy = Potential Energy at height h.\n$\\frac{1}{2}mv^2(1 + \\frac{k^2}{R^2}) = mgh$\nFor solid sphere, $\\frac{k^2}{R^2} = \\frac{2}{5}$.\n$\\frac{1}{2}v^2(1 + \\frac{2}{5}) = gh \\Rightarrow \\frac{1}{2}v^2(\\frac{7}{5}) = gh \\Rightarrow v = \\sqrt{\\frac{10}{7}gh}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A slab is subjected to two forces $\\vec{F}_1$ and $\\vec{F}_2$ of same magnitude F as shown in the figure. Force $\\vec{F}_2$ is in XY-plane while force $\\vec{F}_1$ acts along z-axis at the point $(2\\hat{i}+3\\hat{j})$. The moment of these forces about point O will be",
+        "question_latex": "A slab is subjected to two forces $\\vec{F}_1$ and $\\vec{F}_2$ of same magnitude F as shown in the figure. Force $\\vec{F}_2$ is in XY-plane while force $\\vec{F}_1$ acts along z-axis at the point $(2\\hat{i}+3\\hat{j})$. The moment of these forces about point O will be",
+        "question_images": [
+            "q61_1"
+        ],
+        "options": [
+            "A. $(3\\hat{i}-2\\hat{j}+3\\hat{k})F$",
+            "B. $(3\\hat{i}-2\\hat{j}-3\\hat{k})F$",
+            "C. $(3\\hat{i}+2\\hat{j}-3\\hat{k})F$",
+            "D. $(3\\hat{i}+2\\hat{j}+3\\hat{k})F$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\vec{F}_2$ acts in XY plane: $\\vec{F}_2 = \\frac{F}{2}(-\\hat{i}) + \\frac{F\\sqrt{3}}{2}(-\\hat{j})$ at $\\vec{r}_1 = 6\\hat{j}$.\n$\\vec{\\tau}_1 = \\vec{r}_1 \\times \\vec{F}_1 = 6\\hat{j} \\times (\\dots) = 3F\\hat{k}$.\n$\\vec{F}_1$ acts along Z-axis: $\\vec{F}_1 = F\\hat{k}$ at $\\vec{r}_2 = 2\\hat{i} + 3\\hat{j}$.\n$\\vec{\\tau}_2 = \\vec{r}_2 \\times \\vec{F}_1 = (2\\hat{i} + 3\\hat{j}) \\times F\\hat{k} = -2F\\hat{j} + 3F\\hat{i}$.\n$\\vec{\\tau}_{net} = (3\\hat{i} - 2\\hat{j} + 3\\hat{k})F$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A particle is moving in a circular path of radius a, with a constant velocity v as shown in the figure. The centre of circle is marked by 'C'. The angular momentum from the origin O can be written as:",
+        "question_latex": "A particle is moving in a circular path of radius a, with a constant velocity v as shown in the figure. The centre of circle is marked by 'C'. The angular momentum from the origin O can be written as:",
+        "question_images": [
+            "q62_1"
+        ],
+        "options": [
+            "A. $va(1+\\cos 2\\theta)$",
+            "B. $va(1+\\cos \\theta)$",
+            "C. $va \\cos 2\\theta$",
+            "D. $va$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Angular momentum $L = m(\\vec{r} \\times \\vec{v})$. Based on the geometry of the circle and origin O, the distance and angle leads to $va(1 + \\cos 2\\theta)$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Choose the wrong statement from the following.",
+        "question_latex": "Choose the wrong statement from the following.",
+        "question_images": [],
+        "options": [
+            "A. The centre of mass of a uniform circular ring is at its geometric centre",
+            "B. Moment of inertia is a scalar quantity",
+            "C. Radius of gyration is a vector quantity",
+            "D. For same mass and radius, the moment of inertia of a ring is twice that of a uniform disc"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Moment of inertia is a tensor quantity, not a simple scalar, as its value depends on the axis of rotation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two blocks A and B of masses m and 2m, respectively, are connected with the help of a spring having spring constant k. Initially, both blocks are moving with same velocity v on a smooth horizontal plane. Block B makes an inelastic collision with block C (mass m) at rest. Coefficient of restitution is 1/2. The maximum compression in the spring is",
+        "question_latex": "Two blocks A and B of masses m and 2m, respectively, are connected with the help of a spring having spring constant k. Initially, both blocks are moving with same velocity v on a smooth horizontal plane. Block B makes an inelastic collision with block C (mass m) at rest. Coefficient of restitution is 1/2. The maximum compression in the spring is",
+        "question_images": [
+            "q64_1"
+        ],
+        "options": [
+            "A. $v\\sqrt{\\frac{2m}{k}}$",
+            "B. Will never be attained",
+            "C. $v\\sqrt{\\frac{m}{12k}}$",
+            "D. $v\\sqrt{\\frac{m}{6k}}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "For collision of B and C: $2mv = 2mv_1 + mv_2$ and $e = 1/2 = (v_2 - v_1)/v$.\nSolving, $v_1 = v/2$. Now for A and B, reduced mass $\\mu = \\frac{m \\times 2m}{3m} = \\frac{2m}{3}$.\nUsing energy in center of mass frame: $\\frac{1}{2}\\mu v_{rel}^2 = \\frac{1}{2}kx_0^2$.\n$\\frac{1}{2}(\\frac{2m}{3})(v - v/2)^2 = \\frac{1}{2}kx_0^2 \\Rightarrow x_0 = v\\sqrt{\\frac{m}{6k}}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two pendulums each of length $l$ are initially situated as shown. The first is released and strikes the second in a completely inelastic collision. How high does the centre of mass rise after the collision?",
+        "question_latex": "Two pendulums each of length $l$ are initially situated as shown. The first is released and strikes the second in a completely inelastic collision. How high does the centre of mass rise after the collision?",
+        "question_images": [
+            "q65_1"
+        ],
+        "options": [
+            "A. $d[\\frac{m_1}{m_1+m_2}]^2$",
+            "B. $d[\\frac{m_1}{m_1+m_2}]$",
+            "C. $d[\\frac{m_1+m_2}{m_2}]^2$",
+            "D. $d[\\frac{m_2}{m_1+m_2}]^2$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Velocity before collision $v_1 = \\sqrt{2gd}$. By conservation of momentum: $m_1v_1 = (m_1+m_2)V$.\n$V = \\frac{m_1}{m_1+m_2}\\sqrt{2gd}$.\nHeight $h = \\frac{V^2}{2g} = \\frac{1}{2g}(\\frac{m_1}{m_1+m_2})^2(2gd) = d(\\frac{m_1}{m_1+m_2})^2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A rod of weight W is supported by two parallel knife edges A and B and is in equilibrium in a horizontal position. The knives are at a distance d from each other. The centre of mass of the rod is at distance x from A. The normal reaction on A is",
+        "question_latex": "A rod of weight W is supported by two parallel knife edges A and B and is in equilibrium in a horizontal position. The knives are at a distance d from each other. The centre of mass of the rod is at distance x from A. The normal reaction on A is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{Wd}{x}$",
+            "B. $\\frac{W(d-x)}{x}$",
+            "C. $\\frac{W(d-x)}{d}$",
+            "D. $\\frac{Wx}{d}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Balancing torque about point B:\n$N_A(d) = W(d - x)$\n$N_A = \\frac{W(d-x)}{d}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Assertion: The total kinetic energy of a rolling solid sphere is the sum of translational and rotational kinetic energies.\nReason: For all solid bodies total kinetic energy is always twice the translational kinetic energy.",
+        "question_latex": "Assertion: The total kinetic energy of a rolling solid sphere is the sum of translational and rotational kinetic energies.\nReason: For all solid bodies total kinetic energy is always twice the translational kinetic energy.",
+        "question_images": [],
+        "options": [
+            "A. Assertion is correct, reason is correct; reason is a correct explanation",
+            "B. Assertion is correct, reason is correct; reason is not a correct explanation",
+            "C. Assertion is correct, reason is incorrect",
+            "D. Assertion is incorrect, reason is correct"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The assertion is correct as $K_{total} = K_{trans} + K_{rot}$. The reason is incorrect because the ratio depends on the moment of inertia ($K_{total} = K_{trans}(1 + k^2/R^2)$), and it is not always twice.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two particles of mass 2 kg and 3 kg are shown. At t=0, a constant force F = 6 N starts acting on the 3 kg mass. Find the velocity of the centre of mass at t = 5 s.",
+        "question_latex": "Two particles of mass 2 kg and 3 kg are shown. At t=0, a constant force F = 6 N starts acting on the 3 kg mass. Find the velocity of the centre of mass at t = 5 s.",
+        "question_images": [
+            "q68_1"
+        ],
+        "options": [
+            "A. 5 m/s",
+            "B. 4 m/s",
+            "C. 6 m/s",
+            "D. 3 m/s"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Acceleration of CM: $a_{CM} = \\frac{F_{ext}}{M_{total}} = \\frac{6}{2+3} = 1.2 \\text{ m/s}^2$.\nVelocity of CM at $t=5$ s: $v_{CM} = u + a_{CM}t = 0 + 1.2 \\times 5 = 6 \\text{ m/s}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two men A (40 kg) and B (60 kg) are on a 40 kg plank. B is at the middle and A is at the left end. The plank is on a smooth surface. If A and B move such that B's position remains fixed w.r.t. ground, where do they meet?",
+        "question_latex": "Two men A (40 kg) and B (60 kg) are on a 40 kg plank. B is at the middle and A is at the left end. The plank is on a smooth surface. If A and B move such that B's position remains fixed w.r.t. ground, where do they meet?",
+        "question_images": [
+            "q69_1"
+        ],
+        "options": [
+            "A. The middle of the plank",
+            "B. 30 cm from the left end",
+            "C. The right end of the plank",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Since no external horizontal force acts, $\\Delta x_{CM} = 0$. $m_1\\Delta x_1 + m_2\\Delta x_2 + m_3\\Delta x_3 = 0$.\nGiven B is fixed w.r.t ground, $\\Delta x_B = 0$. Let plank move by $x$.\n$40(60-x) + 40(-x) = 0 \\Rightarrow x = 30$ cm relative to ground, but relative to plank they meet at the right end.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A solid cylinder can be tipped at an angle $\\theta$ before sliding. For pure rolling, the steepest angle is $\\phi$. The ratio $\\tan \\phi / \\tan \\theta$ is",
+        "question_latex": "A solid cylinder can be tipped at an angle $\\theta$ before sliding. For pure rolling, the steepest angle is $\\phi$. The ratio $\\tan \\phi / \\tan \\theta$ is",
+        "question_images": [],
+        "options": [
+            "A. 3",
+            "B. 1/3",
+            "C. 1",
+            "D. 1/2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For no sliding, $\\tan \\theta = \\mu_s$. For pure rolling, $f = \\frac{mg \\sin \\phi}{1 + R^2/k^2} \\le \\mu_s mg \\cos \\phi$.\nFor cylinder $k^2 = R^2/2$, so $1 + R^2/k^2 = 3$.\n$\\frac{1}{3}\\tan \\phi \\le \\mu_s \\Rightarrow \\tan \\phi = 3\\mu_s = 3\\tan \\theta$. Ratio is 3.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "An object at rest explodes into fragments A, B, C. Momentum of A is $p\\hat{i}$, B is $\\sqrt{3}p\\hat{j}$. Momentum of C will be",
+        "question_latex": "An object at rest explodes into fragments A, B, C. Momentum of A is $p\\hat{i}$, B is $\\sqrt{3}p\\hat{j}$. Momentum of C will be",
+        "question_images": [],
+        "options": [
+            "A. $(1+\\sqrt{3})p$ at $120^\\circ$ with A",
+            "B. $(1+\\sqrt{3})p$ at $150^\\circ$ with B",
+            "C. $2p$ at $150^\\circ$ with A",
+            "D. $2p$ at $150^\\circ$ with B"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$\\vec{p}_C = -(\\vec{p}_A + \\vec{p}_B) = -(p\\hat{i} + \\sqrt{3}p\\hat{j})$.\nMagnitude $|p_C| = \\sqrt{p^2 + 3p^2} = 2p$.\nDirection: $\\tan \\alpha = \\sqrt{3}p/p = \\sqrt{3} \\Rightarrow 60^\\circ$ in 3rd quadrant. Angle with B ($\\hat{j}$) is $90 + 60 = 150^\\circ$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "By keeping moment of inertia of a body constant, if we double the time period, then angular momentum of body",
+        "question_latex": "By keeping moment of inertia of a body constant, if we double the time period, then angular momentum of body",
+        "question_images": [],
+        "options": [
+            "A. Remains constant",
+            "B. Becomes half",
+            "C. Doubles",
+            "D. quadruples"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$L = I\\omega = I(\\frac{2\\pi}{T})$.\n$L \\propto \\frac{1}{T}$. If T is doubled, L becomes half.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "If a spherical ball rolls on a table without slipping, the fraction of its total energy associated with rotation is",
+        "question_latex": "If a spherical ball rolls on a table without slipping, the fraction of its total energy associated with rotation is",
+        "question_images": [],
+        "options": [
+            "A. 3/5",
+            "B. 2/7",
+            "C. 2/5",
+            "D. 3/7"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$K_{rot} = \\frac{1}{2}I\\omega^2$, $K_{total} = \\frac{1}{2}mv^2 + \\frac{1}{2}I\\omega^2$.\nFraction $= \\frac{k^2/R^2}{1 + k^2/R^2}$. For sphere $k^2/R^2 = 2/5$.\nFraction $= \\frac{2/5}{1 + 2/5} = \\frac{2}{7}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Three particles of 1kg, 2kg, 3kg are at (3,3,3). Where should a 4th particle of 4kg be placed so CM shifts to (1,1,1)?",
+        "question_latex": "Three particles of 1kg, 2kg, 3kg are at (3,3,3). Where should a 4th particle of 4kg be placed so CM shifts to (1,1,1)?",
+        "question_images": [],
+        "options": [
+            "A. (-1,-1,-1)",
+            "B. (-2,-2,-2)",
+            "C. (2,2,2)",
+            "D. (1,1,1)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$x_{new} = \\frac{M_{old}x_{old} + m_4x_4}{M_{total}} \\Rightarrow 1 = \\frac{6(3) + 4x_4}{10}$.\n$10 = 18 + 4x_4 \\Rightarrow 4x_4 = -8 \\Rightarrow x_4 = -2$.\nSimilarly $y_4 = -2, z_4 = -2$. Point is (-2, -2, -2).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Assertion: When you lean behind over the hind legs of the chair, the chair falls back after a certain angle.\nReason: Centre of mass lying outside the system makes the system unstable.",
+        "question_latex": "Assertion: When you lean behind over the hind legs of the chair, the chair falls back after a certain angle.\nReason: Centre of mass lying outside the system makes the system unstable.",
+        "question_images": [],
+        "options": [
+            "A. Assertion is correct, reason is correct; reason is a correct explanation",
+            "B. Assertion is correct, reason is correct; reason is not a correct explanation",
+            "C. Assertion is correct, reason is incorrect",
+            "D. Assertion is incorrect, reason is correct"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The assertion is correct; tipping occurs when the vertical line from the CM falls outside the base of support. The reason is incorrect; a CM can lie outside a system (like a ring) without making it inherently unstable.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A thin uniform bar of length L and mass M lies on a smooth horizontal table. Two point masses m1 and m2 moving from opposite sides stick to the bar at distances x1 and x2 from the centre. Find the angular speed of the bar after collision.",
+        "question_latex": "A\\ thin\\ uniform\\ bar\\ of\\ length\\ L\\ and\\ mass\\ M\\ lies\\ on\\ a\\ smooth\\ table.\\ Two\\ masses\\ m_1, m_2\\ stick\\ at\\ distances\\ x_1, x_2.\\ Find\\ \\omega.",
+        "question_images": [
+            "q76_1",
+            "76_qu_1.png"
+        ],
+        "options": [
+            "A. Correct angular speed expression",
+            "B. Half of correct value",
+            "C. Double the correct value",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Using conservation of angular momentum about the centre:\n$L_i = m_1 v x_1 + m_2 v x_2$\nFinal moment of inertia:\n$I = \\frac{1}{12}ML^2 + m_1 x_1^2 + m_2 x_2^2$\n$\\omega = \\dfrac{L_i}{I}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two particles of equal mass moving at right angles stick together after collision. Find speed of combined mass.",
+        "question_latex": "Two\\ particles\\ of\\ mass\\ m\\ move\\ at\\ right\\ angles\\ with\\ speed\\ v\\ and\\ stick.",
+        "question_images": [],
+        "options": [
+            "A. $v$",
+            "B. $\\sqrt{2}v$",
+            "C. $\\frac{v}{\\sqrt{2}}$",
+            "D. $2v$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Resultant momentum:\n$p = \\sqrt{(mv)^2+(mv)^2}=mv\\sqrt{2}$\nTotal mass = $2m$\n$v_f = \\dfrac{mv\\sqrt{2}}{2m} = \\dfrac{v}{\\sqrt{2}}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two objects lie on a frictionless surface. A force acts on one. Which statement about centre of mass is correct?",
+        "question_latex": "Two\\ bodies\\ on\\ frictionless\\ surface.\\ External\\ force\\ acts\\ on\\ one.",
+        "question_images": [],
+        "options": [
+            "A. COM concept not valid",
+            "B. COM acceleration > a",
+            "C. COM acceleration = a",
+            "D. COM acceleration < a"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "COM acceleration:\n$a_{cm}=\\dfrac{F}{m_1+m_2} < \\dfrac{F}{m_1}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A force is applied at one corner of a block. Where should a parallel force act to cause pure translation?",
+        "question_latex": "Force\\ applied\\ at\\ corner.\\ Find\\ location\\ for\\ pure\\ translation.",
+        "question_images": [
+            "q79_1",
+            "79_qu_1.png"
+        ],
+        "options": [
+            "A. Above centre of mass",
+            "B. Through centre of mass",
+            "C. No such point",
+            "D. Impossible"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "For pure translation, torque about CM must be zero.\nHence force must pass through CM.",
+        "solution_images": [
+            "79_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two balls collide head-on. Given coefficient of restitution e, find ratio of velocities after collision.",
+        "question_latex": "Two\\ balls\\ collide\\ head\\ on\\ with\\ coefficient\\ of\\ restitution\\ e.",
+        "question_images": [],
+        "options": [
+            "A. $(1+e):(1-e)$",
+            "B. $(1-e):(1+e)$",
+            "C. $1:1$",
+            "D. $e:1$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Using restitution and momentum equations:\n$v_1:v_2=(1+e):(1-e)$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "The KE vs momentum graph of a particle is given. Find its mass.",
+        "question_latex": "KE\\ vs\\ p\\ graph\\ is\\ given.\\ Find\\ mass.",
+        "question_images": [
+            "q81_1",
+            "81_qu_1.png"
+        ],
+        "options": [
+            "A. 1 kg",
+            "B. 2 kg",
+            "C. 3 kg",
+            "D. 4 kg"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$KE=\\dfrac{p^2}{2m}$.\\ From\\ slope,\\ m=2\\,kg.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Match Column I with Column II (Angular momentum, Impulse, Torque, Energy).",
+        "question_latex": "Match\\ Column\\ I\\ and\\ Column\\ II.",
+        "question_images": [
+            "q82_1",
+            "82_qu_1.png"
+        ],
+        "options": [
+            "A. (1,4,3,2)",
+            "B. (1,2,4,3)",
+            "C. (2,4,1,3)",
+            "D. (1,4,3,2)"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Correct physical definitions give the matching sequence.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A planet moves in elliptical orbit. When is its speed maximum?",
+        "question_latex": "Planet\\ in\\ elliptical\\ orbit.\\ When\\ speed\\ maximum?",
+        "question_images": [],
+        "options": [
+            "A. Everywhere same",
+            "B. Nearest to sun",
+            "C. Farthest from sun",
+            "D. Cannot say"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Angular momentum conserved:\n$r v = const$ → $v$ maximum when $r$ minimum.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Two identical spheres collide elastically. Find height reached by second sphere.",
+        "question_latex": "Elastic\\ collision\\ between\\ identical\\ spheres.",
+        "question_images": [
+            "q84_1",
+            "84_qu_1.png"
+        ],
+        "options": [
+            "A. Same height",
+            "B. Less",
+            "C. More",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In elastic collision of equal masses, energy transfers completely.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Minimum coefficient of restitution required for a ball to reach top of incline.",
+        "question_latex": "Minimum\\ coefficient\\ of\\ restitution\\ required.",
+        "question_images": [
+            "q85_1",
+            "85_qu_1.png"
+        ],
+        "options": [
+            "A. Low",
+            "B. Correct minimum",
+            "C. High",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Using energy and restitution equations, minimum $e$ is obtained.",
+        "solution_images": [
+            "85_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Which conditions are essential for mechanical equilibrium?",
+        "question_latex": "Conditions\\ for\\ mechanical\\ equilibrium.",
+        "question_images": [],
+        "options": [
+            "A. Net force zero",
+            "B. Net torque zero",
+            "C. Both A and B",
+            "D. Momentum zero"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Mechanical equilibrium requires translational and rotational equilibrium.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Moment of inertia of a circular ring about its diameter.",
+        "question_latex": "Moment\\ of\\ inertia\\ of\\ ring\\ about\\ diameter.",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{1}{2}MR^2$",
+            "B. $MR^2$",
+            "C. $\\frac{1}{4}MR^2$",
+            "D. $2MR^2$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$I = \\frac{1}{2}MR^2$ for ring about diameter.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Distance of centre of mass of a solid cone from its vertex.",
+        "question_latex": "COM\\ of\\ solid\\ cone\\ from\\ vertex.",
+        "question_images": [
+            "q88_1"
+        ],
+        "options": [
+            "A. $\\frac{h}{4}$",
+            "B. $\\frac{h}{3}$",
+            "C. $\\frac{3h}{4}$",
+            "D. $\\frac{h}{4}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "For solid cone, COM lies at $\\frac{h}{4}$ from base.",
+        "solution_images": [
+            "88_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A man walks on a wedge holding a rope. Find displacement of wedge.",
+        "question_latex": "Man\\ walks\\ on\\ wedge.\\ Find\\ wedge\\ displacement.",
+        "question_images": [
+            "q89_1",
+            "89_qu_1.png"
+        ],
+        "options": [
+            "A. Right",
+            "B. Left",
+            "C. Zero",
+            "D. Large"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Using COM conservation, wedge shifts left.",
+        "solution_images": [
+            "89_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A bomb explodes mid-air. Path of centre of mass?",
+        "question_latex": "Bomb\\ explodes\\ in\\ air.\\ COM\\ path?",
+        "question_images": [],
+        "options": [
+            "A. Upwards",
+            "B. Downwards",
+            "C. Irregular",
+            "D. Parabolic"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "COM motion unaffected by internal forces.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Average braking torque on a vehicle wheel.",
+        "question_latex": "Average\\ braking\\ torque\\ calculation.",
+        "question_images": [],
+        "options": [
+            "A. Low",
+            "B. Medium",
+            "C. High",
+            "D. Correct"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$\\tau = I\\alpha = I\\frac{\\omega}{t}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Cylinder with minimum moment of inertia condition.",
+        "question_latex": "Minimum\\ MI\\ of\\ cylinder.",
+        "question_images": [
+            "q92_1"
+        ],
+        "options": [
+            "A. Large radius",
+            "B. Large length",
+            "C. $R=L$",
+            "D. Optimal ratio"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Minimum $I$ when mass distribution is balanced.",
+        "solution_images": [
+            "92_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Stationary body explodes into fragments moving perpendicular. Find explosion energy.",
+        "question_latex": "Explosion\\ energy\\ from\\ momentum\\ conservation.",
+        "question_images": [],
+        "options": [
+            "A. Correct",
+            "B. Half",
+            "C. Double",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Total KE equals sum of fragment energies.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Angular acceleration required to generate given rotational KE.",
+        "question_latex": "Angular\\ acceleration\\ for\\ given\\ KE.",
+        "question_images": [],
+        "options": [
+            "A. Small",
+            "B. Correct",
+            "C. Large",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$KE=\\frac{1}{2}I\\omega^2$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Angular velocity variation of rotating platform with tortoise motion.",
+        "question_latex": "Platform\\ angular\\ velocity\\ variation.",
+        "question_images": [
+            "q95_1"
+        ],
+        "options": [
+            "A. Linear",
+            "B. Constant",
+            "C. Nonlinear",
+            "D. Zero"
+        ],
+        "option_images": [
+            "95_opA_1.png",
+            "95_opB_1.png",
+            "95_opC_1.png",
+            "95_opD_1.png"
+        ],
+        "answer": "C",
+        "solution": "Moment of inertia varies nonlinearly.",
+        "solution_images": [
+            "95_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Angular momentum of rolling disc about elevated point.",
+        "question_latex": "Angular\\ momentum\\ of\\ rolling\\ disc.",
+        "question_images": [
+            "96_qu_1.png"
+        ],
+        "options": [
+            "A. Increases",
+            "B. Decreases",
+            "C. Zero",
+            "D. Constant"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Total angular momentum remains constant.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Height by which centre of mass rises for chain-block system.",
+        "question_latex": "COM\\ rise\\ of\\ chain-block\\ system.",
+        "question_images": [],
+        "options": [
+            "A. 0.417 m",
+            "B. 0.437 m",
+            "C. 0.365 m",
+            "D. 0.405 m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Energy conservation gives 0.417 m.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Power delivered by torque varying with angular position.",
+        "question_latex": "Power\\ from\\ torque\\ $\\tau(\\theta)$.",
+        "question_images": [],
+        "options": [
+            "A. Zero",
+            "B. Small",
+            "C. Correct",
+            "D. Infinite"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$P=\\tau\\omega$ evaluated at given $\\theta$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Acceleration of COM of Atwood machine.",
+        "question_latex": "COM\\ acceleration\\ of\\ Atwood\\ machine.",
+        "question_images": [],
+        "options": [
+            "A. $g$",
+            "B. $g/5$",
+            "C. $g/25$",
+            "D. 0"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Using COM formula for two masses.",
+        "solution_images": [
+            "99_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Centre of mass of sphere with cavity removed.",
+        "question_latex": "COM\\ of\\ sphere\\ with\\ cavity.",
+        "question_images": [
+            "q100_1"
+        ],
+        "options": [
+            "A. On surface",
+            "B. Inside",
+            "C. Outside",
+            "D. At centre"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Using superposition of masses.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    }
+]

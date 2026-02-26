@@ -1,0 +1,1951 @@
+[
+    {
+        "id": 1,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "A steel ball of mass 0.1 kg falls freely from a height of 10 m and bounces to a height of 5.4 m from the ground. If the dissipated energy in this process is absorbed by the ball, the rise in its temperature is",
+        "question_latex": "A steel ball of mass $0.1\\text{ kg}$ falls freely from a height of $10\\text{ m}$ and bounces to a height of $5.4\\text{ m}$ from the ground. If the dissipated energy in this process is absorbed by the ball, the rise in its temperature is",
+        "question_images": [],
+        "options": [
+            "A. $0.01^{\\circ}C$",
+            "B. $0.1^{\\circ}C$",
+            "C. $1.1^{\\circ}C$",
+            "D. $1^{\\circ}C$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Given: $m=0.1\\text{ kg}$, $h_{1}=10\\text{ m}$, $h_{2}=5.4\\text{ m}$, $c=460\\text{ J kg}^{-1\\circ}C^{-1}$, $g=10\\text{ ms}^{-2}$.\\\\Energy dissipated, $Q = mg(h_{1} - h_{2})$\\\\$Q = 0.1 \\times 10 \\times (10 - 5.4) = 4.6\\text{ J}$.\\\\From $Q = cm\\theta$, we have $\\theta = \\frac{Q}{cm} = \\frac{4.6}{460 \\times 0.1} = 0.1^{\\circ}C$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "If number of molecules of $H_2$ are double than that of $O_2$, then ratio of kinetic energy of hydrogen and that of oxygen at 300 K is",
+        "question_latex": "If number of molecules of $H_{2}$ are double than that of $O_{2}$, then ratio of kinetic energy of hydrogen and that of oxygen at $300\\text{ K}$ is",
+        "question_images": [],
+        "options": [
+            "A. $1:1$",
+            "B. $1:2$",
+            "C. $2:1$",
+            "D. $1:16$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Kinetic energy (K.E.) per molecule is a function of temperature only. Since both gases are at the same temperature ($300\\text{ K}$), the ratio $\\frac{E_{H_2}}{E_{O_2}} = 1:1$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "A gas is filled in a cylinder, its temperature is increased by 20% on kelvin scale and volume is reduced by 10%. How much percentage of the gas leaked out?",
+        "question_latex": "A gas is filled in a cylinder, its temperature is increased by $20\\%$ on kelvin scale and volume is reduced by $10\\%$. How much percentage of the gas leaked out?",
+        "question_images": [],
+        "options": [
+            "A. 30%",
+            "B. 40%",
+            "C. 15%",
+            "D. 25%"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "By Charles's law $V \\propto T$ (at constant P).\\\\$\\frac{V}{T} = \\frac{V'}{1.2T} \\Rightarrow V' = 1.2V$.\\\\As per question, actual volume is reduced by $10\\%$, so $V_{final} = 0.9V$.\\\\Percentage of volume leaked out $= \\frac{(1.2 - 0.9)V}{1.2V} \\times 100 = 25\\%$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "The parameter that remains the same for molecules of all gases at a given temperature is:",
+        "question_latex": "The parameter that remains the same for molecules of all gases at a given temperature is:",
+        "question_images": [],
+        "options": [
+            "A. momentum",
+            "B. kinetic energy",
+            "C. speed",
+            "D. mass"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The parameter that remains the same for molecules of all gases at a given temperature is kinetic energy. It is given by: $KE = \\frac{f}{2}kT$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "The total kinetic energy of 1 mole of oxygen at $27^{\\circ}C$ is: [Use universal gas constant (R) = 8.31 J/mole K]",
+        "question_latex": "The total kinetic energy of $1$ mole of oxygen at $27^{\\circ}C$ is: [Use universal gas constant $(R) = 8.31\\text{ J/mole K}$]",
+        "question_images": [],
+        "options": [
+            "A. 5670.5 J",
+            "B. 6845.5 J",
+            "C. 5942.0 J",
+            "D. 6232.5 J"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "For diatomic gases like $O_2$, degrees of freedom $f = 5$.\\\\Kinetic energy $= \\frac{f}{2}nRT = \\frac{5}{2} \\times 1 \\times 8.31 \\times 300\\text{ J} = 6232.5\\text{ J}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "The temperature of gas is produced by",
+        "question_latex": "The temperature of gas is produced by",
+        "question_images": [],
+        "options": [
+            "A. the potential energy of its molecules",
+            "B. the kinetic energy of its molecules",
+            "C. the attractive force between its molecules",
+            "D. the repulsive force between its molecules"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Temperature is a measure of the average kinetic energy of the molecules in a gas.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "Boyle's law holds for an ideal gas during",
+        "question_latex": "Boyle's law holds for an ideal gas during",
+        "question_images": [],
+        "options": [
+            "A. Isobaric changes",
+            "B. Isothermal changes",
+            "C. Isochoric changes",
+            "D. Isotonic changes"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Boyle's law states that for a fixed mass of gas, $PV = \\text{constant}$ provided the temperature is kept constant (isothermal change).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "For an ideal gas",
+        "question_latex": "For an ideal gas",
+        "question_images": [],
+        "options": [
+            "A. $C_P$ is less than $C_v$",
+            "B. $C_p$ is equal to $C_v$",
+            "C. $C_p$ is greater than $C_v$",
+            "D. $C_p = C_v = 0$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "For an ideal gas, $C_p - C_v = R$. Therefore, $C_p$ is always greater than $C_v$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "Air is filled in a bottle at atmospheric pressure and it is corked at $35^{\\circ}C$. If the cork can come out at 3 atmospheric pressure, then upto what temperature should the bottle be heated in order to remove the cork?",
+        "question_latex": "Air is filled in a bottle at atmospheric pressure and it is corked at $35^{\\circ}C$. If the cork can come out at $3$ atmospheric pressure then upto what temperature should the bottle be heated in order to remove the cork",
+        "question_images": [],
+        "options": [
+            "A. $325.5^{\\circ}C$",
+            "B. $851^{\\circ}C$",
+            "C. $651^{\\circ}C$",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "At constant volume, $\\frac{P_1}{T_1} = \\frac{P_2}{T_2} \\Rightarrow T_2 = \\left(\\frac{P_2}{P_1}\\right)T_1$.\\\\$T_2 = \\left(\\frac{3P}{P}\\right) \\times (273 + 35) = 3 \\times 308 = 924\\text{ K} = 651^{\\circ}C$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "A closed gas cylinder is divided into two parts by a piston held tight. The pressure and volume of gas in two parts respectively are (P, 5V) and (10P, V). If now the piston is left free and the system undergoes isothermal process, then the volume of the gas in two parts respectively are",
+        "question_latex": "A closed gas cylinder is divided into two parts by a piston held tight. The pressure and volume of gas in two parts respectively are $(P, 5V)$ and $(10P, V)$. If now the piston is left free and the system undergoes isothermal process, then the volume of the gas in two parts respectively are",
+        "question_images": [],
+        "options": [
+            "A. 2V, 4V",
+            "B. 3V, 3V",
+            "C. 5V, V",
+            "D. 4V, 2V"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Initial moles: $n_1 = \\frac{5PV}{RT}$, $n_2 = \\frac{10PV}{RT}$.\\\\Let final volumes be $x$ and $(6V-x)$. Final pressure $P'$ is equal for both.\\\\$P' = \\frac{n_1RT}{x} = \\frac{n_2RT}{6V-x} \\Rightarrow \\frac{5PV}{x} = \\frac{10PV}{6V-x} \\Rightarrow \\frac{1}{x} = \\frac{2}{6V-x}$.\\\\$6V - x = 2x \\Rightarrow 3x = 6V \\Rightarrow x = 2V$. Second part is $6V - 2V = 4V$.",
+        "solution_images": [
+            "10_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "Air inside a closed container is saturated with water vapour. The air pressure is p and the saturated vapour pressure of water is $\\overline{p}$. If the mixture is compressed to one half of its volume by maintaining temperature constant, the pressure becomes",
+        "question_latex": "Air inside a closed container is saturated with water vapour. The air pressure is $p$ and the saturated vapour pressure of water is $\\bar{p}$. If the mixture is compressed to one half of its volume by maintaining temperature constant, the pressure becomes",
+        "question_images": [],
+        "options": [
+            "A. $2(p+\\bar{p})$",
+            "B. $(2p+\\bar{p})$",
+            "C. $(p+\\bar{p})/2$",
+            "D. $p + 2\\bar{p}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Total initial pressure = partial pressure of air ($p$) + vapor pressure ($\\bar{p}$).\\\\When volume is halved, air pressure doubles ($2p$) because it follows Boyle's law. However, saturated vapor pressure ($\\bar{p}$) remains constant at constant temperature. Final pressure = $2p + \\bar{p}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "If the r.m.s speed of chlorine molecule is 490 m/s at $27^{\\circ}C$, the r.m.s. speed of argon molecules at the same temperature will be (Atomic mass of argon = 39.9 u, molecular mass of chlorine = 70.9 u)",
+        "question_latex": "If the r.m.s speed of chlorine molecule is $490\\text{ m/s}$ at $27^{\\circ}C$, the r.m.s. speed of argon molecules at the same temperature will be (Atomic mass of argon $= 39.9u$, molecular mass of chlorine $= 70.9u$)",
+        "question_images": [],
+        "options": [
+            "A. 651.7 m/s",
+            "B. 451.7 m/s",
+            "C. 551.7 m/s",
+            "D. 751.7 m/s"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$v_{rms} = \\sqrt{\\frac{3RT}{M}}$. At same $T$, $v \\propto \\frac{1}{\\sqrt{M}}$.\\\\$\\frac{v_{Ar}}{v_{Cl}} = \\sqrt{\\frac{M_{Cl}}{M_{Ar}}} = \\sqrt{\\frac{70.9}{39.9}} \\approx 1.33$.\\\\$v_{Ar} = 490 \\times 1.33 = 651.7\\text{ m/s}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "A certain ideal gas undergoes a polytropic process $PV^n = \\text{constant}$ such that the molar specific heat during the process is negative. If the ratio of the specific heats of the gas be $\\gamma$, then the range of values of n will be",
+        "question_latex": "A certain ideal gas undergoes a polytropic process $PV^{n} = \\text{constant}$ such that the molar specific heat during the process is negative. If the ratio of the specific heats of the gas be $\\gamma$, then the range of values of $n$ will be",
+        "question_images": [],
+        "options": [
+            "A. $0 < n < \\gamma$",
+            "B. $1 < n < \\gamma$",
+            "C. $n = \\gamma$",
+            "D. $n > \\gamma$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Molar specific heat $C = C_v - \\frac{R}{n-1} = \\frac{R}{\\gamma-1} - \\frac{R}{n-1} = \\frac{(n-\\gamma)R}{(n-1)(\\gamma-1)}$.\\\\$C$ is negative when $(n-\\gamma)$ and $(n-1)$ have opposite signs. Since $\\gamma > 1$, this occurs when $1 < n < \\gamma$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "When temperature is constant, the pressure of a given mass of gas varies inversely with volume. This is the statement of",
+        "question_latex": "When temperature is constant, the pressure of a given mass of gas varies inversely with volume. This is the statement of",
+        "question_images": [],
+        "options": [
+            "A. Boyle's law",
+            "B. Charle's law",
+            "C. Avogadro's law",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Boyle's law states that $P \\propto 1/V$ for a given mass of gas at constant temperature.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "The ratio of mean kinetic energy of hydrogen and oxygen at a given temperature is",
+        "question_latex": "The ratio of mean kinetic energy of hydrogen and oxygen at a given temperature is",
+        "question_images": [],
+        "options": [
+            "A. 1: 16",
+            "B. 1: 8",
+            "C. 1: 4",
+            "D. 1: 1"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Mean kinetic energy depends only on the temperature of the gas, not on the nature of the gas. Hence at a given temperature, the ratio is $1:1$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "Vapour is injected at a uniform rate in a closed vessel which was initially evacuated. The pressure in the vessel",
+        "question_latex": "Vapour is injected at a uniform rate in a closed vessel which was initially evacuated. The pressure in the vessel",
+        "question_images": [],
+        "options": [
+            "A. Increases continuously",
+            "B. Decreases continuously",
+            "C. First increases and then decreases",
+            "D. First increases and then becomes constant"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "As the number of moles increases, pressure increases. Once the pressure reaches the saturated vapor pressure, condensation occurs and the pressure decreases.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "In kinetic theory of gases, a molecule of mass m of an ideal gas collides with a wall of vessel with velocity V. The change in the linear momentum of the molecule is",
+        "question_latex": "In kinetic theory of gases, a molecule of mass $m$ of an ideal gas collides with a wall of vessel with velocity $V$. The change in the linear momentum of the molecule is",
+        "question_images": [],
+        "options": [
+            "A. 2mV",
+            "B. mV",
+            "C. -mV",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Change in momentum $\\Delta p = p_{final} - p_{initial} = mV - (-mV) = 2mV$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "An ideal monatomic gas is taken round the cycle ABCDA as shown in the P-V diagram. The work done during the cycle is",
+        "question_latex": "An ideal monatomic gas is taken round the cycle $ABCDA$ as shown in the $P-V$ diagram. The work done during the cycle is",
+        "question_images": [
+            "q18_1",
+            "18_qu_1.png"
+        ],
+        "options": [
+            "A. PV",
+            "B. 2PV",
+            "C. $1/2 PV$",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Work done during the cycle = area enclosed in the P-V curve.\\\\Area $= (2P - P) \\times (2V - V) = P \\times V = PV$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "If the rms speed of oxygen molecules at $0^{\\circ}C$ is $160\\text{ m/s}$. Find the rms speed of hydrogen molecules at $0^{\\circ}C$.",
+        "question_latex": "If the rms speed of oxygen molecules at $0^{\\circ}C$ is $160\\text{ m/s}$. Find the rms speed of hydrogen molecules at $0^{\\circ}C$.",
+        "question_images": [],
+        "options": [
+            "A. 332 m/s",
+            "B. 80 m/s",
+            "C. 640 m/s",
+            "D. 40 m/s"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$v_{rms} = \\sqrt{\\frac{3RT}{M}}$. At constant $T$, $\\frac{(v_{rms})_{O_2}}{(v_{rms})_{H_2}} = \\sqrt{\\frac{M_{H_2}}{M_{O_2}}} = \\sqrt{\\frac{2}{32}} = \\frac{1}{4}$.\\\\$(v_{rms})_{H_2} = 4 \\times (v_{rms})_{O_2} = 4 \\times 160 = 640\\text{ m/s}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "In the given graph of P vs V, curves A and B represent which processes?",
+        "question_latex": "In the given graph of $P$ vs $V$, curves $A$ and $B$ represent which processes?",
+        "question_images": [
+            "q20_1",
+            "20_qu_1.png"
+        ],
+        "options": [
+            "A. C and D, respectively",
+            "B. D and C, respectively",
+            "C. A and B, respectively",
+            "D. B and A, respectively"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Slope of adiabatic curve is greater than the slope of isothermal curve. Therefore, A represents adiabatic and B represents isothermal change.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "The rms velocity of gas molecules is $300\\text{ ms}^{-1}$. The rms velocity of molecules of gas with twice the molecular weight and half the absolute temperature is",
+        "question_latex": "The rms velocity of gas molecules is $300\\text{ ms}^{-1}$. The rms velocity of molecules of gas with twice the molecular weight and half the absolute temperature is",
+        "question_images": [],
+        "options": [
+            "A. $300\\text{ ms}^{-1}$",
+            "B. $600\\text{ ms}^{-1}$",
+            "C. $75\\text{ ms}^{-1}$",
+            "D. $150\\text{ ms}^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$c = \\sqrt{\\frac{3RT}{M}}$.\\\\$c_1 = \\sqrt{\\frac{3R(T/2)}{2M}} = \\frac{1}{2}\\sqrt{\\frac{3RT}{M}} = \\frac{c}{2} = \\frac{300}{2} = 150\\text{ ms}^{-1}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "A mixture of 2 moles of helium gas (atomic mass = 4 amu) and 1 mole of argon gas (atomic mass = 40 amu) is kept at 300 K in a container. The ratio of the rms speeds $[V_{rms}(\\text{helium}) / V_{rms}(\\text{argon})]$ is",
+        "question_latex": "A mixture of $2$ moles of helium gas (atomic mass $= 4\\text{ amu}$) and $1$ mole of argon gas (atomic mass $= 40\\text{ amu}$) is kept at $300\\text{ K}$ in a container. The ratio of the rms speeds $[V_{rms}(\\text{helium}) / V_{rms}(\\text{argon})]$ is",
+        "question_images": [],
+        "options": [
+            "A. 0.32",
+            "B. 0.45",
+            "C. 2.24",
+            "D. 3.16"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$\\frac{V_{rms, He}}{V_{rms, Ar}} = \\sqrt{\\frac{M_{Ar}}{M_{He}}} = \\sqrt{\\frac{40}{4}} = \\sqrt{10} \\approx 3.16$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "Two spherical vessels of equal volume are connected by a narrow tube. The apparatus contains an ideal gas at 1 atm and 300 K. If one vessel is immersed in 600 K bath and the other in 300 K, the common pressure will be",
+        "question_latex": "Two spherical vessels of equal volume are connected by a narrow tube. The apparatus contains an ideal gas at $1\\text{ atm}$ and $300\\text{ K}$. If one vessel is immersed in $600\\text{ K}$ bath and the other in $300\\text{ K}$, the common pressure will be",
+        "question_images": [
+            "23_qu_1.png"
+        ],
+        "options": [
+            "A. 1 atm",
+            "B. $4/5$ atm",
+            "C. $4/3$ atm",
+            "D. $3/4$ atm"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Initial moles $\\mu = \\frac{P(2V)}{RT_1}$. Final moles $\\mu = \\frac{P'V}{RT_1} + \\frac{P'V}{RT_2}$.\\\\$\\frac{2P}{T_1} = P' \\left( \\frac{1}{T_1} + \\frac{1}{T_2} \\right) \\Rightarrow P' = \\frac{2P T_1 T_2}{T_1(T_1 + T_2)} = \\frac{2P T_2}{T_1 + T_2}$.\\\\$P' = \\frac{2 \\times 1 \\times 600}{300 + 600} = \\frac{1200}{900} = \\frac{4}{3}\\text{ atm}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "Volume, pressure and temperature of an ideal gas are V, P and T respectively. If mass of its molecule is m, then its density is",
+        "question_latex": "Volume, pressure and temperature of an ideal gas are $V, P$ and $T$ respectively. If mass of its molecule is $m$, then its density is",
+        "question_images": [],
+        "options": [
+            "A. $mkT$",
+            "B. $P/kT$",
+            "C. $P/(kTV)$",
+            "D. $Pm/kT$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$PV = nRT = \\frac{w}{M}RT$. Density $\\rho = \\frac{w}{V} = \\frac{PM}{RT}$.\\\\Since $M = m N_A$ and $R = k N_A$, $\\rho = \\frac{P m N_A}{k N_A T} = \\frac{Pm}{kT}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "An ideal gas expands in such a manner that its pressure and volume can be related by equation $PV^2 = \\text{constant}$. During this process, the gas is",
+        "question_latex": "An ideal gas expands in such a manner that its pressure and volume can be related by equation $PV^{2} = \\text{constant}$. During this process, the gas is",
+        "question_images": [],
+        "options": [
+            "A. Heated",
+            "B. Cooled",
+            "C. Neither heated nor cooled",
+            "D. First heated and then cooled"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "For an isothermal process, $PV = \\text{constant}$. In the given process $PV^2 = \\text{constant}$, the pressure drops more rapidly than in an isothermal expansion. Since $T \\propto PV$, here $T \\propto 1/V$. As volume expands, temperature decreases, so the gas is cooled.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "At temperature 300K, the rms speed of oxygen molecules is sqrt((alpha+5)/alpha) times to that of its average speed in the gas. Then, the value of alpha will be (use pi = 22/7)",
+        "question_latex": "At temperature $300\\text{ K}$, the rms speed of oxygen molecules is $\\sqrt{\\frac{\\alpha+5}{\\alpha}}$ times to that of its average speed in the gas. Then, the value of $\\alpha$ will be (use $\\pi = \\frac{22}{7}$)",
+        "question_images": [],
+        "options": [
+            "A. 28",
+            "B. 32",
+            "C. 24",
+            "D. 27"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Given, $v_{rms} = \\sqrt{\\frac{\\alpha+5}{\\alpha}} \\times v_{avg}$ [cite: 589, 591].\\\\$\\sqrt{\\frac{3RT}{M}} = \\sqrt{\\frac{\\alpha+5}{\\alpha}} \\sqrt{\\frac{8RT}{\\pi M}}$ [cite: 591].\\\\$3 = \\frac{\\alpha+5}{\\alpha} \\times \\frac{8}{\\pi} \\Rightarrow 3 = \\frac{\\alpha+5}{\\alpha} \\times \\frac{8}{22/7} \\Rightarrow 3 = \\frac{\\alpha+5}{\\alpha} \\times \\frac{56}{22} \\Rightarrow 3 = \\frac{\\alpha+5}{\\alpha} \\times \\frac{28}{11}$ [cite: 591].\\\\$33\\alpha = 28\\alpha + 140 \\Rightarrow 5\\alpha = 140 \\Rightarrow \\alpha = 28$[cite: 592].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "10 moles of an ideal monoatomic gas at 10°C is mixed with 20 moles of another monoatomic gas at 20°C. Then the temperature of the mixture is",
+        "question_latex": "$10$ moles of an ideal monoatomic gas at $10^{\\circ}C$ is mixed with $20$ moles of another monoatomic gas at $20^{\\circ}C$. Then the temperature of the mixture is",
+        "question_images": [],
+        "options": [
+            "A. 15.5°C",
+            "B. 15°C",
+            "C. 16°C",
+            "D. 16.6°C"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Heat gained by colder gas = Heat lost by hotter gas [cite: 597].\\\\$n_{1}C_{v}(T - T_{1}) = n_{2}C_{v}(T_{2} - T)$ [cite: 597].\\\\$10(T - 10) = 20(20 - T)$ [cite: 598].\\\\$T - 10 = 40 - 2T \\Rightarrow 3T = 50 \\Rightarrow T = 16.6^{\\circ}C$[cite: 599, 600].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "The root mean square velocity of molecules of gas is",
+        "question_latex": "The root mean square velocity of molecules of gas is",
+        "question_images": [],
+        "options": [
+            "A. Proportional to temperature (T)",
+            "B. Proportional to square root of temperature (sqrt(T))",
+            "C. Proportional to square of temperature (T^2)",
+            "D. Inversely proportional to square root of temperature"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The r.m.s velocity is given by $v_{rms} = \\sqrt{\\frac{3RT}{M}}$[cite: 607]. Therefore, $v_{rms} \\propto \\sqrt{T}$[cite: 608].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "The temperature of a gas contained in a closed vessel of constant volume increases by 1°C when the pressure of the gas is increased by 1%. The initial temperature of the gas is",
+        "question_latex": "The temperature of a gas contained in a closed vessel of constant volume increases by $1^{\\circ}C$ when the pressure of the gas is increased by $1\\%$. The initial temperature of the gas is",
+        "question_images": [],
+        "options": [
+            "A. 100 K",
+            "B. 273°C",
+            "C. 100°C",
+            "D. 200 K"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to Gay-Lussac's law, $P \\propto T$ at constant volume [cite: 616].\\\\$\\frac{\\Delta P}{P} \\times 100 = \\frac{\\Delta T}{T} \\times 100$ [cite: 617].\\\\$1 = \\frac{1}{T} \\times 100 \\Rightarrow T = 100\\text{ K}$[cite: 618, 619].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "In a certain region of space there are only 5 molecules per cm^3 on an average. The temperature there is 3 K. The pressure of this dilute gas is (k = 1.38 x 10^-23 J/K)",
+        "question_latex": "In a certain region of space there are only $5$ molecules per $cm^{3}$ on an average. The temperature there is $3\\text{ K}$. The pressure of this dilute gas is $(k = 1.38 \\times 10^{-23}\\text{ J/K})$",
+        "question_images": [],
+        "options": [
+            "A. 20.7 x 10^-17 N/m^2",
+            "B. 15.3 x 10^-13 N/m^2",
+            "C. 2.3 x 10^-10 N/m^2",
+            "D. 5.3 x 10^-5 N/m^2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "From ideal gas equation $P = \\left(\\frac{n}{V}\\right)kT$ [cite: 625, 626].\\\\Number density $\\frac{n}{V} = 5/cm^{3} = 5 \\times 10^{6}/m^{3}$ [cite: 627].\\\\$P = (5 \\times 10^{6}) \\times (1.38 \\times 10^{-23}) \\times 3 = 20.7 \\times 10^{-17}\\text{ N/m}^{2}$[cite: 628, 629].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "According to law of equipartition of energy the molar specific heat of a diatomic gas at constant volume where the molecule has one additional vibration mode is",
+        "question_latex": "According to law of equipartition of energy the molar specific heat of a diatomic gas at constant volume where the molecule has one additional vibration mode is",
+        "question_images": [],
+        "options": [
+            "A. 9/2 R",
+            "B. 7/2 R",
+            "C. 5/2 R",
+            "D. 3/2 R"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "A diatomic gas has $3$ translational and $2$ rotational degrees of freedom. One vibrational mode adds $2$ degrees of freedom [cite: 633].\\\\Total degrees of freedom $f = 3 + 2 + 2 = 7$ [cite: 634].\\\\$C_{v} = \\frac{fR}{2} = \\frac{7R}{2}$[cite: 634].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "Two moles a monoatomic gas is mixed with six moles of a diatomic gas. The molar specific heat of the mixture at constant volume is:",
+        "question_latex": "Two moles a monoatomic gas is mixed with six moles of a diatomic gas. The molar specific heat of the mixture at constant volume is:",
+        "question_images": [],
+        "options": [
+            "A. 5/2 R",
+            "B. 3/2 R",
+            "C. 7/4 R",
+            "D. 9/4 R"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$C_{v}$ for monoatomic is $\\frac{3}{2}R$ and for diatomic is $\\frac{5}{2}R$ [cite: 639].\\\\$(C_{v})_{mix} = \\frac{n_{1}C_{v1} + n_{2}C_{v2}}{n_{1} + n_{2}} = \\frac{2(\\frac{3}{2}R) + 6(\\frac{5}{2}R)}{2 + 6} = \\frac{3R + 15R}{8} = \\frac{18R}{8} = \\frac{9}{4}R$[cite: 640, 641].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "A vessel of volume 4 L contains a mixture of 8 g of oxygen, 14 g of nitrogen and 22 g of carbon dioxide at 27°C. The pressure exerted by the mixture is",
+        "question_latex": "A vessel of volume $4\\text{ L}$ contains a mixture of $8\\text{ g}$ of oxygen, $14\\text{ g}$ of nitrogen and $22\\text{ g}$ of carbon dioxide at $27^{\\circ}C$. The pressure exerted by the mixture is",
+        "question_images": [],
+        "options": [
+            "A. 5.79 x 10^5 N/m^2",
+            "B. 6.79 x 10^5 N/m^2",
+            "C. 7.79 x 10^3 N/m^2",
+            "D. 7.79 x 10^5 N/m^2"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$P = (n_{O_2} + n_{N_2} + n_{CO_2}) \\frac{RT}{V}$ [cite: 649].\\\\Moles: $n_{O_2}=8/32=0.25$, $n_{N_2}=14/28=0.5$, $n_{CO_2}=22/44=0.5$ [cite: 649].\\\\$P = (0.25 + 0.5 + 0.5) \\times \\frac{8.31 \\times 300}{4 \\times 10^{-3}} = 7.79 \\times 10^{5}\\text{ N/m}^{2}$[cite: 649, 650].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "If n is the number density and d is the diameter of the molecule, then the average distance covered by a molecule between two successive collisions (i.e. mean free path) is represented by:",
+        "question_latex": "If $n$ is the number density and $d$ is the diameter of the molecule, then the average distance covered by a molecule between two successive collisions (i.e. mean free path) is represented by:",
+        "question_images": [],
+        "options": [
+            "A. 1 / (sqrt(2) n pi d^2)",
+            "B. 1 / (sqrt(2) n^2 pi d^2)",
+            "C. sqrt(2) n pi d^2",
+            "D. 1 / (sqrt(2) n pi d^2)"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The standard expression for mean free path is $\\lambda = \\frac{1}{\\sqrt{2}\\pi d^{2}n}$[cite: 655].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "The specific heats, Cp and Cv of a gas of diatomic molecules, A, are given by 29 and 22, respectively. Another gas of diatomic molecules, B, has the corresponding values 30 and 21. If they are treated as ideal gases, then",
+        "question_latex": "The specific heats, $C_{P}$ and $C_{v}$ of a gas of diatomic molecules, $A$, are given (in units of $Jmol^{-1}K^{-1}$) by $29$ and $22$, respectively. Another gas of diatomic molecules, $B$, has the corresponding values $30$ and $21$. If they are treated as ideal gases, then",
+        "question_images": [],
+        "options": [
+            "A. A has a vibrational mode but B has none.",
+            "B. A has one vibrational mode and B has two.",
+            "C. Both A and B have a vibrational mode each.",
+            "D. A is rigid but B has a vibrational mode."
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For gas A: $\\gamma = 29/22 \\approx 1.32$. Using $\\gamma = 1 + 2/f$, $f \\approx 6$ (3 trans, 2 rot, 1 vib)[cite: 661].\\\\For gas B: $\\gamma = 30/21 \\approx 1.43$. $f \\approx 5$ (3 trans, 2 rot, 0 vib)[cite: 662].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "An ideal gas in a closed container is slowly heated. As its temperature increases, which of the following statements are true?",
+        "question_latex": "An ideal gas in a closed container is slowly heated. As its temperature increases, which of the following statements are true?",
+        "question_images": [],
+        "options": [
+            "A. (B) and (C)",
+            "B. (C) and (D)",
+            "C. (A) and (D)",
+            "D. (A) and (B)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "As $T$ increases, velocity increases, so mean collision time decreases (Statement B)[cite: 672]. At constant volume, mean free path is independent of $T$ (Statement C)[cite: 673].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "If the root mean square velocity of hydrogen molecule at a given temperature and pressure is 2Km/s, the root mean square velocity of oxygen at the same condition in Km/s is:",
+        "question_latex": "If the root mean square velocity of hydrogen molecule at a given temperature and pressure is $2\\text{ Km/s}$, the root mean square velocity of oxygen at the same condition in $Km/s$ is:",
+        "question_images": [],
+        "options": [
+            "A. 2.0",
+            "B. 0.5",
+            "C. 1.0",
+            "D. 1.5"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$v_{rms} \\propto \\frac{1}{\\sqrt{M}}$ [cite: 676].\\\\$\\frac{v_{H_2}}{v_{O_2}} = \\sqrt{\\frac{M_{O_2}}{M_{H_2}}} \\Rightarrow \\frac{2}{v_{O_2}} = \\sqrt{\\frac{32}{2}} = 4 \\Rightarrow v_{O_2} = 0.5\\text{ km/s}$[cite: 677].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "Using equipartition of energy, the specific heat of aluminium at room temperature can be estimated to be (atomic weight of aluminium = 27)",
+        "question_latex": "Using equipartition of energy, the specific heat (in $Jkg^{-1}K^{-1}$) of aluminium at room temperature can be estimated to be (atomic weight of aluminium $= 27$)",
+        "question_images": [],
+        "options": [
+            "A. 410",
+            "B. 25",
+            "C. 1850",
+            "D. 925"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Using $\\frac{6}{2}RT = MC_{v}T$ for solids [cite: 686].\\\\$C = \\frac{3R}{M} = \\frac{3 \\times 8.31}{27 \\times 10^{-3}} \\approx 925\\text{ J/kgK}$[cite: 687, 688].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "Two chambers containing m1 and m2 gram of a gas at pressures p1 and p2 respectively are put in communication with each other, temperature remaining constant. The common pressure reached will be",
+        "question_latex": "Two chambers containing $m_{1}$ and $m_{2}$ gram of a gas at pressures $p_{1}$ and $p_{2}$ respectively are put in communication with each other, temperature remaining constant. The common pressure reached will be",
+        "question_images": [],
+        "options": [
+            "A. p1p2(m1+m2) / (p2m1 + p1m2)",
+            "B. p1p2m1 / (p2m1 + p1m2)",
+            "C. m1m2(p1+p2) / (p2m1 + p1m2)",
+            "D. m1m2p2 / (p2m1 + p1m2)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Total volume $V = V_1 + V_2 = \\frac{m_1RT}{p_1M} + \\frac{m_2RT}{p_2M} = \\frac{RT}{M}\\left(\\frac{m_1}{p_1} + \\frac{m_2}{p_2}\\right)$ [cite: 699].\\\\Common pressure $P = \\frac{(m_1+m_2)RT/M}{V} = \\frac{m_1+m_2}{\\frac{m_1}{p_1} + \\frac{m_2}{p_2}} = \\frac{p_1p_2(m_1+m_2)}{m_1p_2 + m_2p_1}$[cite: 702].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "The ratio of the specific heats Cp/Cv = gamma in terms of degrees of freedom (n) is given by",
+        "question_latex": "The ratio of the specific heats $\\frac{C_{p}}{C_{v}} = \\gamma$ in terms of degrees of freedom ($n$) is given by",
+        "question_images": [],
+        "options": [
+            "A. (1 + n/3)",
+            "B. (1 + 2/n)",
+            "C. (1 + n/2)",
+            "D. (1 + 1/n)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\gamma = \\frac{C_p}{C_v} = \\frac{(n/2 + 1)R}{(n/2)R} = 1 + \\frac{2}{n}$[cite: 707].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "If the internal energy of n1 moles of He at temperature 10 T is equal to the internal energy of n2 mole of hydrogen at temperature 6 T. the ratio of n1/n2 is",
+        "question_latex": "If the internal energy of $n_{1}$ moles of $He$ at temperature $10\\text{ T}$ is equal to the internal energy of $n_{2}$ mole of hydrogen at temperature $6\\text{ T}$. the ratio of $\\frac{n_{1}}{n_{2}}$ is",
+        "question_images": [],
+        "options": [
+            "A. 3/5",
+            "B. 2",
+            "C. 1",
+            "D. 5/3"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$n_1 C_{v1} T_1 = n_2 C_{v2} T_2$ [cite: 712].\\\\$n_1 \\times \\frac{3}{2}R \\times 10T = n_2 \\times \\frac{5}{2}R \\times 6T \\Rightarrow 15 n_1 = 15 n_2 \\Rightarrow \\frac{n_1}{n_2} = 1$[cite: 713].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "A gas is heated at a constant pressure. The fraction of heat supplied used for external work is",
+        "question_latex": "A gas is heated at a constant pressure. The fraction of heat supplied used for external work is",
+        "question_images": [],
+        "options": [
+            "A. 1/gamma",
+            "B. (1 - 1/gamma)",
+            "C. gamma - 1",
+            "D. (1 - 1/gamma^2)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Fraction of energy for internal energy is $1/\\gamma$ [cite: 720].\\\\Fraction for external work $= 1 - 1/\\gamma$[cite: 721].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "At NTP, sample of equal volume of chlorine and oxygen is taken. Now ratio of no. of molecules is",
+        "question_latex": "At NTP, sample of equal volume of chlorine and oxygen is taken. Now ratio of no. of molecules is",
+        "question_images": [],
+        "options": [
+            "A. 1: 1",
+            "B. 32: 27",
+            "C. 2: 1",
+            "D. 16: 14"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to Avogadro's hypothesis, equal volumes of all gases under similar conditions contain an equal number of molecules[cite: 725].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "The specific heats, Cp and Cv of a gas of diatomic molecules, A, are 29 and 22, and for B they are 30 and 21. If treated as ideal gases, then:",
+        "question_latex": "The specific heats, $C_{P}$ and $C_{v}$ of a gas of diatomic molecules, $A$, are $29$ and $22$. Another gas $B$ has $30$ and $21$. If they are treated as ideal gases, then:",
+        "question_images": [],
+        "options": [
+            "A. A is rigid but B has a vibrational mode.",
+            "B. A has a vibrational mode but B has none.",
+            "C. A has one vibrational mode and B has two.",
+            "D. Both A and B have a vibrational mode each."
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\gamma_A = 29/22 = 1.32$ (indicates vibrational modes) [cite: 733].\\\\$\\gamma_B = 30/21 = 1.43$ (standard diatomic value $7/5$)[cite: 735].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "At what temperature volume of an ideal gas at 0°C becomes triple",
+        "question_latex": "At what temperature volume of an ideal gas at $0^{\\circ}C$ becomes triple",
+        "question_images": [],
+        "options": [
+            "A. 546°C",
+            "B. 182°C",
+            "C. 819°C",
+            "D. 646°C"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "At constant pressure $V \\propto T$ [cite: 740].\\\\$\\frac{V_2}{V_1} = \\frac{T_2}{T_1} \\Rightarrow T_2 = 3 \\times 273 = 819\\text{ K}$ [cite: 741].\\\\$T_2 = 819 - 273 = 546^{\\circ}C$[cite: 741].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "One litre of oxygen at a pressure of 1 atm and two litres of nitrogen at a pressure of 0.5 atm, are introduced into a vessel of volume 1 L. If there is no change in temperature, the final pressure of the mixture of gas is",
+        "question_latex": "One litre of oxygen at a pressure of $1\\text{ atm}$ and two litres of nitrogen at a pressure of $0.5\\text{ atm}$, are introduced into a vessel of volume $1\\text{ L}$. If there is no change in temperature, the final pressure of the mixture of gas is",
+        "question_images": [],
+        "options": [
+            "A. 1.5",
+            "B. 2.5",
+            "C. 2",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Moles of $O_2: n_1 = \\frac{1 \\times 1}{RT}$[cite: 750]. Moles of $N_2: n_2 = \\frac{0.5 \\times 2}{RT} = \\frac{1}{RT}$ [cite: 753].\\\\Total moles $n_{mix} = \\frac{2}{RT}$ [cite: 755].\\\\$P_{mix} = \\frac{n_{mix}RT}{V_{mix}} = \\frac{2}{1} = 2\\text{ atm}$[cite: 756].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "A cyclic process ABCA: it rejects 50 J in AB, 0 J in BC, accepts 70 J in CA. 40 J of work is done ON the gas in BC. Internal energies at B and C are",
+        "question_latex": "A cyclic process $ABCA$: it rejects $50\\text{ J}$ in $AB$, $0\\text{ J}$ in $BC$, accepts $70\\text{ J}$ in $CA$. $40\\text{ J}$ of work is done ON the gas in $BC$. Internal energies at $B$ and $C$ are",
+        "question_images": [
+            "q47_1",
+            "47_qu_1.png"
+        ],
+        "options": [
+            "A. 1450 J and 1410 J",
+            "B. 1450 J and 1590 J",
+            "C. 1450 J and 1490 J",
+            "D. 1550 J and 1510 J"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Along AB: $\\Delta Q = U_B - U_A + W_{AB}$. Assuming $W_{AB}=0$ (isochoric), $-50 = U_B - 1500 \\Rightarrow U_B = 1450\\text{ J}$[cite: 770, 771].\\\\Along BC: $\\Delta Q = U_C - U_B + W_{BC}$. $0 = U_C - 1450 + (-40) \\Rightarrow U_C = 1490\\text{ J}$[cite: 775].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Kinetic Theory of Gases and Thermodynamics",
+        "question": "An air bubble doubles its radius on raising from the bottom of water reservoir to be the surface of water in it. If the atmospheric pressure is equal to 10 m of water, the height of water in the reservoir is",
+        "question_latex": "An air bubble doubles its radius on raising from the bottom of water reservoir to be the surface of water in it. If the atmospheric pressure is equal to $10\\text{ m}$ of water, the height of water in the reservoir is",
+        "question_images": [
+            "48_qu_1.png"
+        ],
+        "options": [
+            "A. 10 m",
+            "B. 20 m",
+            "C. 70 m",
+            "D. 80 m"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Using Boyle's law $P_1 V_1 = P_2 V_2$[cite: 780]. $V_2 = 8 V_1$ (since $r$ doubles).\\\\$P_2 = 10\\text{ m}$ (at surface). $P_1 = (10 + h)\\text{ m}$ (at bottom).\\\\$(10 + h) V_1 = 10 (8 V_1) \\Rightarrow 10 + h = 80 \\Rightarrow h = 70\\text{ m}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A sample of ideal gas is expanded to twice its original volume V in a quasi-static process for which pressure varies with volume as shown in the figure. Work done by the expanding gas is",
+        "question_latex": "A\\ sample\\ of\\ ideal\\ gas\\ is\\ expanded\\ to\\ twice\\ its\\ original\\ volume\\ V\\ in\\ a\\ quasi\\text{-}static\\ process\\ for\\ which\\ P\\ varies\\ with\\ V\\ as\\ shown\\ in\\ the\\ figure.\\ The\\ work\\ done\\ by\\ the\\ expanding\\ gas\\ is",
+        "question_images": [
+            "q49_1",
+            "49_qu_1.png"
+        ],
+        "options": [
+            "A. Option A",
+            "B. Option B",
+            "C. Option C",
+            "D. Option D"
+        ],
+        "option_images": [
+            "q49optionA1",
+            "q49optionB1",
+            "q49optionC1",
+            "q49optionD1"
+        ],
+        "answer": "B",
+        "solution": "Work\\ done\\ by\\ the\\ gas\\ is\\ given\\ by\\\\\n$W = \\int_{V}^{2V} P\\,dV$\\\\\nFrom\\ the\\ given\\ $P\\text{-}V$\\ graph,\\ the\\ area\\ under\\ the\\ curve\\ between\\ $V$\\ and\\ $2V$\\ represents\\ the\\ work\\ done.\\ Evaluating\\ the\\ shaded\\ area\\ from\\ the\\ graph\\ gives\\ the\\ correct\\ value\\ corresponding\\ to\\ option\\ (B).",
+        "solution_images": [
+            "q49_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "Which one of the following is not an assumption of kinetic theory of gases?",
+        "question_latex": "Which\\ one\\ of\\ the\\ following\\ is\\ not\\ an\\ assumption\\ of\\ kinetic\\ theory\\ of\\ gases?",
+        "question_images": [],
+        "options": [
+            "A. The volume occupied by the molecules of the gas is negligible",
+            "B. The force of attraction between the molecules is negligible",
+            "C. The collisions between the molecules are elastic",
+            "D. All molecules have the same speed"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "According\\ to\\ kinetic\\ theory\\ of\\ gases,\\ gas\\ molecules\\ have\\ a\\ distribution\\ of\\ speeds\\ and\\ not\\ the\\ same\\ speed.\\ Hence,\\ the\\ statement\\ \\\"all\\ molecules\\ have\\ the\\ same\\ speed\\\"\\ is\\ not\\ an\\ assumption.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "Kinetic theory of gases provide a base for",
+        "question_latex": "Kinetic theory of gases provide a base for",
+        "question_images": [],
+        "options": [
+            "A. Charle s law",
+            "B. Boyle s law",
+            "C. Charle s law and Boyle s law",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Boyle's and Charle's law follow kinetic theory of gases.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "Volume-temperature graph at atmospheric pressure for a monoatomic gas (V in m³, T in °C) is",
+        "question_latex": "Volume-temperature graph at atmospheric pressure for a monoatomic gas ($V$ in $m^3$, $T$ in $^\\circ C$) is",
+        "question_images": [
+            "q52_1"
+        ],
+        "options": [
+            "A. ",
+            "B. ",
+            "C. ",
+            "D. "
+        ],
+        "option_images": [
+            "q52optionA1",
+            "q52optionB1",
+            "q52optionC1",
+            "q52optionD1",
+            "52_opA_1.png",
+            "52_opB_1.png",
+            "52_opC_1.png",
+            "52_opD_1.png"
+        ],
+        "answer": "C",
+        "solution": "At constant pressure, the volume of a given mass of a gas is directly proportional to its absolute temperature $(T)$. i.e., $\\frac{V}{T} = \\text{constant}$. This is another form of Charles law. Hence, variation of volume with temperature is as shown in graph (C).",
+        "solution_images": [
+            "52_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "The relation between root mean square speed (vrms) and most probable speed (vp) for the molar mass M of oxygen gas molecule at the temperature of 300 K will be (June 2022)",
+        "question_latex": "The relation between root mean square speed $(v_{rms})$ and most probable speed $(v_{p})$ for the molar mass $M$ of oxygen gas molecule at the temperature of $300\\text{ K}$ will be (June 2022)",
+        "question_images": [],
+        "options": [
+            "A. $v_{rms}=\\sqrt{\\frac{2}{3}}v_{p}$",
+            "B. $v_{rms}=\\sqrt{\\frac{3}{2}}v_{p}$",
+            "C. $v_{rms}=v_{p}$",
+            "D. $v_{rms}=v_{p}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Root mean square speed, $v_{rms}=\\sqrt{\\frac{3RT}{M}}$. Most probable speed, $v_{p}=\\sqrt{\\frac{2RT}{M}}$. So, $\\frac{v_{rms}}{v_{p}}=\\sqrt{\\frac{3}{2}} \\Rightarrow v_{rms}=\\sqrt{\\frac{3}{2}}v_{p}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "The specific heats, CP and Cv of a gas of diatomic molecules, A, are given (in units of J mol⁻¹ K⁻¹) by 29 and 22, respectively. Another gas of diatomic molecules, B, has the corresponding values 30 and 21. If they are treated as ideal gases, then (April 2019)",
+        "question_latex": "The specific heats, $C_{P}$ and $C_{v}$ of a gas of diatomic molecules, $A$, are given (in units of $J\\text{ mol}^{-1}K^{-1}$) by $29$ and $22$, respectively. Another gas of diatomic molecules, $B$, has the corresponding values $30$ and $21$. If they are treated as ideal gases, then (April 2019)",
+        "question_images": [],
+        "options": [
+            "A. A has a vibrational mode but B has none.",
+            "B. A has one vibrational mode and B has two.",
+            "C. Both A and B have a vibrational mode each.",
+            "D. A is rigid but B has a vibrational mode."
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For gas $A$: $\\gamma = \\frac{C_p}{C_v} = 1 + \\frac{2}{f} \\Rightarrow \\frac{29}{22} = 1 + \\frac{2}{f} \\Rightarrow f \\approx 6$. This indicates $3$ translational, $2$ rotational, and $1$ vibrational degree of freedom. For gas $B$: $\\gamma = \\frac{C_p}{C_v} = 1 + \\frac{2}{f} \\Rightarrow \\frac{30}{21} = 1.42 \\approx 1.4$. This indicates $f=5$ ($3$ translational and $2$ rotational). Thus, A has vibrational mode while B does not.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Thermodynamics",
+        "question": "During an adiabatic process, the pressure of a gas is found to be proportional to the cube of its absolute temperature. The ratio CP/CV for the gas is [2003]",
+        "question_latex": "During an adiabatic process, the pressure of a gas is found to be proportional to the cube of its absolute temperature. The ratio $C_{P}/C_{V}$ for the gas is [2003]",
+        "question_images": [],
+        "options": [
+            "A. 4/3",
+            "B. 2",
+            "C. 5/3",
+            "D. 3/2"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$P \\propto T^3 \\Rightarrow PT^{-3} = \\text{constant}$. For an adiabatic process, $P^{1-\\gamma}T^{\\gamma} = \\text{constant} \\Rightarrow PT^{\\frac{\\gamma}{1-\\gamma}} = \\text{constant}$. Comparing exponents: $\\frac{\\gamma}{1-\\gamma} = -3 \\Rightarrow \\gamma = -3 + 3\\gamma \\Rightarrow 2\\gamma = 3 \\Rightarrow \\gamma = \\frac{3}{2}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Thermodynamics",
+        "question": "A certain balloon maintains an internal gas pressure of P0 = 100 kPa until the volume reaches V0 = 20 m³. Beyond a volume of 20 m³, the internal pressure varies as P = P0 + 2k(V - V0)² where P is in kPa, V is in m³ and k is a constant (k = 1 kPa/m³). Initially the balloon contains helium gas at 20°C, 100 kPa with a 15 m³ volume. The balloon is then heated until the volume becomes 25 m³ and the pressure is 150 kPa. Assume ideal gas behavior for helium. The work done by the balloon in kJ is",
+        "question_latex": "A certain balloon maintains an internal gas pressure of $P_{0}=100\\text{ kPa}$ until the volume reaches $V_{0}=20\\text{ m}^3$. Beyond a volume of $20\\text{ m}^3$ the internal pressure varies as $P=P_{0}+2k(V-V_{0})^{2}$ where $P$ is in $\\text{kPa}$, $V$ is in $\\text{m}^3$ and $k$ is a constant ($k=1\\text{ kPa/m}^3$). Initially the balloon contains helium gas at $20^\\circ\\text{C}$, $100\\text{ kPa}$ with a $15\\text{ m}^3$ volume. The balloon is then heated until the volume becomes $25\\text{ m}^3$ and the pressure is $150\\text{ kPa}$. Assume ideal gas behavior for helium. The work done by the balloon in $\\text{kJ}$ is",
+        "question_images": [],
+        "options": [
+            "A. 1256",
+            "B. 1414",
+            "C. 1083",
+            "D. 1512"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$W = \\int_{15}^{20} P_0 dV + \\int_{20}^{25} [P_0 + 2(V - V_0)^2] dV$. $W = [P_0 V]_{15}^{20} + [P_0 V + \\frac{2(V-20)^3}{3}]_{20}^{25}$. $W = 100(5) + 100(5) + \\frac{2(5)^3}{3} = 500 + 500 + 83.33 = 1083.33\\text{ kJ}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "The ratio of speed of sound in hydrogen gas to the speed of sound in oxygen gas at the same temperature is (April 2023)",
+        "question_latex": "The ratio of speed of sound in hydrogen gas to the speed of sound in oxygen gas at the same temperature is (April 2023)",
+        "question_images": [],
+        "options": [
+            "A. 1:2",
+            "B. 1:1",
+            "C. 4:4",
+            "D. 4:1"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$v = \\sqrt{\\frac{\\gamma RT}{M}}$. Since temperature and $\\gamma$ (both diatomic) are same, $\\frac{v_H}{v_O} = \\sqrt{\\frac{M_{O_2}}{M_{H_2}}} = \\sqrt{\\frac{32}{2}} = \\sqrt{16} = 4$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "If 10²² gas molecules each of mass 10⁻²⁶ kg collide with a surface (perpendicular to it) elastically per second over an area 1 m² with a speed 10⁴ m/s, the pressure exerted by the gas molecules will be of the order of (April 2019)",
+        "question_latex": "If $10^{22}$ gas molecules each of mass $10^{-26}\\text{ kg}$ collide with a surface (perpendicular to it) elastically per second over an area $1\\text{ m}^2$ with a speed $10^{4}\\text{ m s}^{-1}$, the pressure exerted by the gas molecules will be of the order of (April 2019)",
+        "question_images": [],
+        "options": [
+            "A. $10^{4}\\text{ N m}^{-2}$",
+            "B. $10^{16}\\text{ N m}^{-2}$",
+            "C. $10^{3}\\text{ N m}^{-2}$",
+            "D. $2\\text{ N m}^{-2}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Change in momentum per collision $\\Delta p = 2mv$. Force $F = \\frac{N \\Delta p}{t} = 2mvN$. Pressure $P = \\frac{F}{A} = \\frac{2 \\times 10^{-26} \\times 10^4 \\times 10^{22}}{1} = 2\\text{ N m}^{-2}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "States Of Matter",
+        "question": "The value of critical temperature in terms of Vander Waal s constant a and b is",
+        "question_latex": "The value of critical temperature in terms of Vander Waal s constant $a$ and $b$ is",
+        "question_images": [],
+        "options": [
+            "A. $T_{c}=\\frac{8a}{27Rb}$",
+            "B. $T_{c}=\\frac{a}{2Rb}$",
+            "C. $T_{c}=\\frac{8}{27Rb}$",
+            "D. $T_{c}=\\frac{27a}{8Rb}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The critical temperature $T_c$ for a Van der Waals gas is given by the formula $T_c = \\frac{8a}{27Rb}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Thermodynamics",
+        "question": "Four curve A, B, C and D are drawn in figure for a given amount of gas. The curves which represent adiabatic and isothermal changes are",
+        "question_latex": "Four curve $A$, $B$, $C$ and $D$ are drawn in figure for a given amount of gas. The curves which represent adiabatic and isothermal changes are",
+        "question_images": [
+            "q60_1",
+            "60_qu_1.png"
+        ],
+        "options": [
+            "A. C and D, respectively",
+            "B. D and C, respectively",
+            "C. A and B, respectively",
+            "D. B and A, respectively"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The slope of an adiabatic curve is steeper than that of an isothermal curve ($|\\text{slope}_{adia}| = \\gamma |\\text{slope}_{iso}|$). From the graph, curve A is steeper than curve B, representing adiabatic and isothermal changes respectively.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Thermodynamics",
+        "question": "A container of volume 1 m³ is divided into two equal compartments by a partition. One of these compartments contains an ideal gas at 300K. The other compartment is vaccum. The whole system is thermally isolated from its surroundings. The partition is removed and the gas expands to occupy the whole volume of the container. Its temperature now would be",
+        "question_latex": "A container of volume $1\\text{ m}^3$ is divided into two equal compartments by a partition. One of these compartments contains an ideal gas at $300\\text{K}$. The other compartment is vaccum. The whole system is thermally isolated from its surroundings. The partition is removed and the gas expands to occupy the whole volume of the container. Its temperature now would be",
+        "question_images": [],
+        "options": [
+            "A. 300 K",
+            "B. 250 K",
+            "C. 200 K",
+            "D. 10 K"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "This is a case of free expansion into a vacuum. Since the system is thermally isolated and no work is done against external pressure, the internal energy and thus the temperature remains constant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Thermodynamics",
+        "question": "Two cylinders A and B fitted with pistons contain equal amounts of an ideal diatomic gas at 300K. The piston of A is free to move, while that of B is held fixed. The same amount of heat is given to the gas in each cylinder. If the rise in temperature of the gas in A is 30 K, then the rise in temperature of the gas in B is",
+        "question_latex": "Two cylinders $A$ and $B$ fitted with pistons contain equal amounts of an ideal diatomic gas at $300\\text{K}$. The piston of $A$ is free to move, while that of $B$ is held fixed. The same amount of heat is given to the gas in each cylinder. If the rise in temperature of the gas in $A$ is $30\\text{ K}$, then the rise in temperature of the gas in $B$ is",
+        "question_images": [],
+        "options": [
+            "A. 30 K",
+            "B. 18 K",
+            "C. 50 K",
+            "D. 42 K"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "For $A$ (constant pressure): $dQ = n C_p dT_A$. For $B$ (constant volume): $dQ = n C_v dT_B$. Since $dQ$ is same: $n C_p dT_A = n C_v dT_B \\Rightarrow dT_B = (C_p / C_v) dT_A = \\gamma dT_A$. For diatomic gas, $\\gamma = 1.4$. $dT_B = 1.4 \\times 30 = 42\\text{ K}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "The relation PV=RT can describe the behaviour of a real gas at",
+        "question_latex": "The relation $PV=RT$ can describe the behaviour of a real gas at",
+        "question_images": [],
+        "options": [
+            "A. high temperature and high pressure",
+            "B. high temperature and low pressure",
+            "C. low temperature and low pressure",
+            "D. low temperature and high pressure"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Real gases behave most like ideal gases at high temperature and low pressure, where intermolecular forces and the volume of molecules themselves become negligible.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "Consider a mixture of n moles of helium gas and 2n moles of oxygen gas (molecules taken to be rigid) as an ideal gas. Its CP/CV value will be: [8 Jan. 2020 II]",
+        "question_latex": "Consider a mixture of $n$ moles of helium gas and $2n$ moles of oxygen gas (molecules taken to be rigid) as an ideal gas. Its $C_{P}/C_{V}$ value will be: [8 Jan. 2020 II]",
+        "question_images": [],
+        "options": [
+            "A. 19/13",
+            "B. 67/45",
+            "C. 40/27",
+            "D. 23/15"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\gamma_{mix} = \\frac{n_1 C_{p1} + n_2 C_{p2}}{n_1 C_{v1} + n_2 C_{v2}}$. Helium (mono): $C_{v1}=3/2R, C_{p1}=5/2R$. Oxygen (di): $C_{v2}=5/2R, C_{p2}=7/2R$. $\\gamma_{mix} = \\frac{n(5/2R) + 2n(7/2R)}{n(3/2R) + 2n(5/2R)} = \\frac{5/2 + 14/2}{3/2 + 10/2} = \\frac{19/2}{13/2} = \\frac{19}{13}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "At 300 K, the rms speed of oxygen molecules is sqrt((a+5)/a) times to that of its average speed in the gas, Then the value of a will be (used, pi = 22/7) (Jan 2023)",
+        "question_latex": "At $300\\text{ K}$, the rms speed of oxygen molecules is $\\sqrt{\\frac{\\alpha+5}{\\alpha}}$ times to that of its average speed in the gas, Then the value of $\\alpha$ will be (used, $\\pi = 22/7$) (Jan 2023)",
+        "question_images": [],
+        "options": [
+            "A. 28",
+            "B. 24",
+            "C. 27",
+            "D. 32"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$v_{rms} = \\sqrt{\\frac{3RT}{M}}$, $v_{av} = \\sqrt{\\frac{8RT}{\\pi M}}$. Given $\\sqrt{\\frac{3RT}{M}} = \\sqrt{\\frac{\\alpha+5}{\\alpha}} \\sqrt{\\frac{8RT}{\\pi M}} \\Rightarrow 3 = \\frac{\\alpha+5}{\\alpha} \\frac{8}{\\pi} \\Rightarrow 3\\alpha\\pi = 8\\alpha + 40 \\Rightarrow 3\\alpha(22/7) = 8\\alpha + 40 \\Rightarrow 66\\alpha = 56\\alpha + 280 \\Rightarrow 10\\alpha = 280 \\Rightarrow \\alpha = 28$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "Match the List-I with List-II regarding Cp/Cv ratio: List-I: A. Triatomic rigid gas, B. Diatomic non-rigid gas, C. Monoatomic gas, D. Diatomic rigid gas. List-II: I. 5/3, II. 7/5, III. 4/3, IV. 9/7.",
+        "question_latex": "Match the List-I with List-II regarding $C_p/C_v$ ratio: List-I: A. Triatomic rigid gas, B. Diatomic non-rigid gas, C. Monoatomic gas, D. Diatomic rigid gas. List-II: I. $5/3$, II. $7/5$, III. $4/3$, IV. $9/7$.",
+        "question_images": [
+            "66_qu_1.png"
+        ],
+        "options": [
+            "A. A-III, B-IV, C-I, D-II",
+            "B. A-II, B-IV, C-I, D-III",
+            "C. A-IV, B-II, C-III, D-I",
+            "D. A-III, B-II, C-IV, D-I"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\gamma = 1 + 2/f$. Monoatomic ($f=3$) $\\gamma=5/3$. Diatomic rigid ($f=5$) $\\gamma=7/5$. Diatomic non-rigid ($f=7$) $\\gamma=9/7$. Triatomic rigid ($f=6$) $\\gamma=4/3$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "In a mixture of gases at a fixed temperature",
+        "question_latex": "In a mixture of gases at a fixed temperature",
+        "question_images": [],
+        "options": [
+            "A. heavier molecule has higher average speed",
+            "B. lighter molecule has lower average speed",
+            "C. heavier molecule has lower average speed",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "At a fixed temperature, average speed $v_{av} \\propto 1/\\sqrt{M}$. Thus, heavier molecules have lower average speeds.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Thermodynamics",
+        "question": "Oxygen gas is made to undergo a process in which its molar heat capacity C depends on its absolute temperature T as C = alpha T. Work done by it when heated from an initial temperature T0 to a final temperature 2T0, will be",
+        "question_latex": "Oxygen gas is made to undergo a process in which its molar heat capacity $C$ depends on its absolute temperature $T$ as $C=\\alpha T$. Work done by it when heated from an initial temperature $T_{0}$ to a final temperature $2T_{0}$, will be",
+        "question_images": [],
+        "options": [
+            "A. $4\\alpha T_{0}^{2}$",
+            "B. $(\\alpha T_{0}-R)\\frac{3T_{0}}{2}$",
+            "C. $(3\\alpha T_{0}-5R)\\frac{T_{0}}{2}$",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$C = C_v + dW/dT$. $dW/dT = C - C_v = \\alpha T - 5R/2$. $W = \\int_{T_0}^{2T_0} (\\alpha T - 5R/2) dT = [\\alpha T^2/2 - 5RT/2]_{T_0}^{2T_0} = \\frac{\\alpha}{2}(4T_0^2 - T_0^2) - \\frac{5R}{2}(2T_0 - T_0) = \\frac{3\\alpha T_0^2}{2} - \\frac{5RT_0}{2} = (3\\alpha T_0 - 5R)\\frac{T_0}{2}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "Molecular motion shows itself as",
+        "question_latex": "Molecular motion shows itself as",
+        "question_images": [],
+        "options": [
+            "A. Temperature",
+            "B. Internal Energy",
+            "C. Friction",
+            "D. Viscosity"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to the kinetic theory, the temperature of a gas is a measure of the average kinetic energy of its molecules due to their motion.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Thermodynamics",
+        "question": "70 cal of heat is required to raise the temperature of 2 moles of an ideal gas from 30°C to 35°C while the pressure of the gas is kept constant. The amount of the heat required gas through the same temperature range at constant volume is (gas constant R = 2 cal mol⁻¹ K⁻¹)",
+        "question_latex": "$70\\text{ cal}$ of heat is required to raise the temperature of $2$ moles of an ideal gas from $30^\\circ\\text{C}$ to $35^\\circ\\text{C}$ while the pressure of the gas is kept constant. The amount of the heat required gas through the same temperature range at constant volume is (gas constant $R=2\\text{ cal mol}^{-1}K^{-1}$)",
+        "question_images": [],
+        "options": [
+            "A. 70 cal",
+            "B. 60 cal",
+            "C. 50 cal",
+            "D. 30 cal"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$C_p = Q / (n \\Delta T) = 70 / (2 \\times 5) = 7\\text{ cal/mol}\\cdot K$. $C_v = C_p - R = 7 - 2 = 5\\text{ cal/mol}\\cdot K$. $Q_v = n C_v \\Delta T = 2 \\times 5 \\times 5 = 50\\text{ cal}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "Assertion: The ratio Cv/Cp for a monatomic gas is less than for a diatomic gas. Reason: The molecules of a monatomic gas have more degrees of freedom than those of a diatomic gas.",
+        "question_latex": "Assertion: The ratio $C_{V}/C_{P}$ for a monatomic gas is less than for a diatomic gas. Reason: The molecules of a monatomic gas have more degrees of freedom than those of a diatomic gas.",
+        "question_images": [],
+        "options": [
+            "A. Assertion is correct, reason is correct; reason is a correct explanation for assertion.",
+            "B. Assertion is correct, reason is correct; reason is not a correct explanation for assertion",
+            "C. Assertion is correct, reason is incorrect",
+            "D. Assertion is incorrect, reason is correct."
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "For monatomic ($f=3$): $C_v/C_p = 3/5 = 0.6$. For diatomic ($f=5$): $C_v/C_p = 5/7 \\approx 0.71$. Assertion is correct ($0.6 < 0.71$). However, the reason is false because monatomic gases have fewer degrees of freedom (3) than diatomic gases (5 or 7).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Thermal Properties of Matter",
+        "question": "The plots of intensity versus wavelength for three black bodies at temperatures T1, T2 and T3, respectively are as shown. Their temperature are such that",
+        "question_latex": "The plots of intensity versus wavelength for three black bodies at temperatures $T_{1}$, $T_{2}$ and $T_{3}$, respectively are as shown. Their temperature are such that",
+        "question_images": [
+            "q72_1",
+            "72_qu_1.png"
+        ],
+        "options": [
+            "A. $T_{1}>T_{2}>T_{3}$",
+            "B. $T_{1}>T_{3}>T_{2}$",
+            "C. $T_{2}>T_{3}>T_{1}$",
+            "D. $T_{3}>T_{2}>T_{1}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "According to Wien's displacement law, $\\lambda_{max} T = \\text{constant} \\Rightarrow T \\propto 1/\\lambda_{max}$. From the graph, $\\lambda_1 < \\lambda_3 < \\lambda_2$, therefore $T_1 > T_3 > T_2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "In kinetic theory of gases, which of the following statements regarding elastic collisions of the molecules is wrong",
+        "question_latex": "In kinetic theory of gases, which of the following statements regarding elastic collisions of the molecules is wrong",
+        "question_images": [],
+        "options": [
+            "A. Kinetic energy is lost in collisions",
+            "B. Kinetic energy remains constant in collision",
+            "C. Momentum is conserved in collision",
+            "D. Pressure of the gas remains constant in collisions"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In an elastic collision, by definition, the total kinetic energy of the system is conserved (remains constant). Therefore, the statement that kinetic energy is lost is wrong.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Thermodynamics",
+        "question": "At constant volume the specific heat of a gas is 3R/2 then the value of gamma will be",
+        "question_latex": "At constant volume the specific heat of a gas is $3R/2$ then the value of $\\gamma$ will be",
+        "question_images": [],
+        "options": [
+            "A. 3/2",
+            "B. 5/2",
+            "C. 5/3",
+            "D. 4/3"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$C_v = \\frac{R}{\\gamma - 1} \\Rightarrow \\frac{3R}{2} = \\frac{R}{\\gamma - 1} \\Rightarrow \\gamma - 1 = \\frac{2}{3} \\Rightarrow \\gamma = 1 + \\frac{2}{3} = \\frac{5}{3}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "The temperature of an ideal gas is increased from 27°C to 127°C, then percentage increase in Vrms is",
+        "question_latex": "The temperature of an ideal gas is increased from $27^\\circ\\text{C}$ to $127^\\circ\\text{C}$, then percentage increase in $V_{rms}$ is",
+        "question_images": [],
+        "options": [
+            "A. 37%",
+            "B. 11%",
+            "C. 33%",
+            "D. 15.5%"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$V_{rms} \\propto \\sqrt{T}$. $T_1 = 300\\text{ K}$, $T_2 = 400\\text{ K}$. $\\frac{V_2}{V_1} = \\sqrt{\\frac{400}{300}} = \\sqrt{\\frac{4}{3}} = \\frac{2}{1.732} \\approx 1.155$. Percentage increase $= (1.155 - 1) \\times 100 = 15.5\\%$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "The kinetic energy of one g-mole of a gas at normal temperature and pressure is (R = 8.31 J/mol-K)",
+        "question_latex": "The kinetic energy of one g-mole of a gas at normal temperature and pressure is ($R = 8.31\\text{ J/mol-K}$)",
+        "question_images": [],
+        "options": [
+            "A. $0.56 \\times 10^4\\text{ J}$",
+            "B. $1.3 \\times 10^2\\text{ J}$",
+            "C. $2.7 \\times 10^2\\text{ J}$",
+            "D. $3.4 \\times 10^3\\text{ J}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$E = \\frac{3}{2}RT = \\frac{3}{2} \\times 8.31 \\times 273 = 3.4 \\times 10^3\\text{ J}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "The specific heat relation for ideal gas is",
+        "question_latex": "The specific heat relation for ideal gas is",
+        "question_images": [],
+        "options": [
+            "A. $C_p + C_V = R$",
+            "B. $C_p - C_V = R$",
+            "C. $C_p / C_V = R$",
+            "D. $C_V / C_p = R$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$C_p - C_V = R = \\text{Universal gas constant}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Thermodynamics",
+        "question": "An ideal monatomic gas is taken round the cycle ABCDA as shown in the P-V diagram (see figure). The work done during the cycle is",
+        "question_latex": "An ideal monatomic gas is taken round the cycle $ABCDA$ as shown in the $P-V$ diagram (see figure). The work done during the cycle is",
+        "question_images": [
+            "q78_1",
+            "78_qu_1.png"
+        ],
+        "options": [
+            "A. $PV$",
+            "B. $2PV$",
+            "C. $1/2 PV$",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Work done during the cycle = area enclosed in the curve $= (2P - P)(2V - V) = PV$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "According to law of equipartition of energy the molar specific heat of a diatomic gas at constant volume where the molecule has one additional vibration mode is (Jan 2023)",
+        "question_latex": "According to law of equipartition of energy the molar specific heat of a diatomic gas at constant volume where the molecule has one additional vibration mode is (Jan 2023)",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{9}{2}R$",
+            "B. $\\frac{7}{2}R$",
+            "C. $\\frac{5}{2}R$",
+            "D. $\\frac{3}{2}R$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "A diatomic gas has three translational degree of freedom and two rotational degree of freedom and according to question one additional vibrational mode means 2 degree of freedom. So total degree of freedom, $f = 2 + 3 + 2 = 7$. So, $C_V = \\frac{fR}{2} = \\frac{7R}{2}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "If 10²² gas molecules each of mass 10⁻²⁵ kg collide with a surface (perpendicular to it) elastically per second over an area 1 m² with a speed 10⁴ m/s the pressure exerted by the gas molecules will be of the order of : [8 April 2019 I]",
+        "question_latex": "If $10^{22}$ gas molecules each of mass $10^{-25}\\text{ kg}$ collide with a surface (perpendicular to it) elastically per second over an area $1\\text{ m}^2$ with a speed $10^4\\text{ m/s}$ the pressure exerted by the gas molecules will be of the order of : [8 April 2019 I]",
+        "question_images": [],
+        "options": [
+            "A. $10^4\\text{ N/m}^2$",
+            "B. $10^8\\text{ N/m}^2$",
+            "C. $2\\text{ N/m}^2$",
+            "D. $10^{16}\\text{ N/m}^2$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Rate of change of momentum during collision so pressure $= \\frac{mv - (-mv)}{\\Delta t} = \\frac{2mv}{\\Delta t}N$. $P = \\frac{N \\times (2mv)}{\\Delta t \\times A} = \\frac{10^{22} \\times 2 \\times 10^{-26} \\times 10^4}{1 \\times 1} = 2\\text{ N/m}^2$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "An ideal gas is enclosed in a cylinder at pressure of 2 atm and temperature, 300 K. The mean time between two successive collisions is 6 x 10⁻⁸ s. If the pressure is doubled and temperature is increased to 500 K, the mean time between two successive collisions wiil be close to: [12 Jan. 2019II]",
+        "question_latex": "An ideal gas is enclosed in a cylinder at pressure of $2\\text{ atm}$ and temperature, $300\\text{ K}$. The mean time between two successive collisions is $6 \\times 10^{-8}\\text{ s}$. If the pressure is doubled and temperature is increased to $500\\text{ K}$, the mean time between two successive collisions wiil be close to: [12 Jan. 2019II]",
+        "question_images": [],
+        "options": [
+            "A. $2 \\times 10^{-7}\\text{ s}$",
+            "B. $4 \\times 10^{-8}\\text{ s}$",
+            "C. $0.5 \\times 10^{-8}\\text{ s}$",
+            "D. $3 \\times 10^{-6}\\text{ s}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Using, $\\tau = \\frac{1}{2n\\pi d^2 v_{avg}}$. $\\tau \\propto \\frac{\\sqrt{T}}{P}$ because $n = \\frac{N}{V} \\propto \\frac{P}{T}$. So, $\\frac{\\tau_1}{\\tau_2} = \\frac{\\sqrt{T_1}}{P_1} \\times \\frac{P_2}{\\sqrt{T_2}} \\Rightarrow \\frac{6 \\times 10^{-8}}{t_2} = \\frac{\\sqrt{300}}{2P} \\times \\frac{P}{\\sqrt{500}} \\Rightarrow t_2 \\approx 4 \\times 10^{-8}$",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "The average kinetic energy of a gas molecule can be determined by knowing",
+        "question_latex": "The average kinetic energy of a gas molecule can be determined by knowing",
+        "question_images": [],
+        "options": [
+            "A. The number of molecules in the gas",
+            "B. The pressure of the gas only",
+            "C. The temperature of the gas only",
+            "D. None of the above is enough by itself"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Average kinetic energy is directly proportional to temperature.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "The temperature of an ideal gas is reduced from 927°C to 27°C. The r.m.s. velocity of the molecules becomes",
+        "question_latex": "The temperature of an ideal gas is reduced from $927^\\circ\\text{C}$ to $27^\\circ\\text{C}$. The r.m.s. velocity of the molecules becomes",
+        "question_images": [],
+        "options": [
+            "A. Double the initial value",
+            "B. Half of the initial value",
+            "C. Four times the initial value",
+            "D. Ten times the initial value"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Temperature becomes 1/4th of initial value [$1200\\text{ K} = 927^\\circ\\text{C} \\rightarrow 300\\text{ K} = 27^\\circ\\text{C}$]. Using $v_{rms} \\propto \\sqrt{T}$, the velocity will be half of the initial value.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "Pressure of an ideal gas, contained in a closed vessel, is increased by 0.4% when heated by 1°C. Its initial temperature must be: [April 3, 2025 (II)]",
+        "question_latex": "Pressure of an ideal gas, contained in a closed vessel, is increased by $0.4\\%$ when heated by $1^\\circ\\text{C}$. Its initial temperature must be: [April 3, 2025 (II)]",
+        "question_images": [],
+        "options": [
+            "A. 250 K",
+            "B. 2500 K",
+            "C. 25°C",
+            "D. 250°C"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For closed vessel, volume is constant. $P \\propto T \\Rightarrow \\frac{\\Delta P}{P} = \\frac{\\Delta T}{T} \\Rightarrow \\frac{0.4}{100} = \\frac{1}{T} \\Rightarrow T = 250\\text{ K}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "Three perfect gases at absolute temperature T1, T2 and T3 are mixed. The masses of molecules are m1, m2 and m3 and the number of molecules are n1, n2 and n3 respectively. Assuming no loss of energy, the final temperature of the mixture is",
+        "question_latex": "Three perfect gases at absolute temperature $T_1$, $T_2$ and $T_3$ are mixed. The masses of molecules are $m_1, m_2$ and $m_3$ and the number of molecules are $n_1, n_2$ and $n_3$ respectively. Assuming no loss of energy, the final temperature of the mixture is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{n_1 T_1 + n_2 T_2 + n_3 T_3}{n_1 + n_2 + n_3}$",
+            "B. $\\frac{n_1 T_1^2 + n_2 T_2^2 + n_3 T_3^2}{n_1 T_1 + n_2 T_2 + n_3 T_3}$",
+            "C. $\\frac{n_1^2 T_1^2 + n_2^2 T_2^2 + n_3^2 T_3^2}{n_1 + n_2 + n_3}$",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Using conservation of energy: $\\frac{f}{2}n_1 kT_1 + \\frac{f}{2}n_2 kT_2 + \\frac{f}{2}n_3 kT_3 = \\frac{f}{2}(n_1 + n_2 + n_3) kT$. Thus, $T = \\frac{n_1 T_1 + n_2 T_2 + n_3 T_3}{n_1 + n_2 + n_3}$",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "If 2 moles of diatomic gas and 1 mole of monatomic gas are mixed, then the ratio of specific heats for the mixture is",
+        "question_latex": "If $2$ moles of diatomic gas and $1$ mole of monatomic gas are mixed, then the ratio of specific heats for the mixture is",
+        "question_images": [],
+        "options": [
+            "A. 7/3",
+            "B. 5/4",
+            "C. 19/13",
+            "D. 15/19"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$\\mu_1 = 1$, $\\gamma_1 = 5/3$ (monatomic) and $\\mu_2 = 2$, $\\gamma_2 = 7/5$ (diatomic). $\\gamma_{mixture} = \\frac{\\frac{\\mu_1 \\gamma_1}{\\gamma_1 - 1} + \\frac{\\mu_2 \\gamma_2}{\\gamma_2 - 1}}{\\frac{\\mu_1}{\\gamma_1 - 1} + \\frac{\\mu_2}{\\gamma_2 - 1}} = \\frac{\\frac{5/3}{2/3} + \\frac{14/5}{2/5}}{\\frac{1}{2/3} + \\frac{2}{2/5}} = \\frac{5/2 + 7}{3/2 + 5} = \\frac{19}{13}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "The temperature of the mixture of one mole of helium and one mole of hydrogen is increased from 0°C to 100°C at constant pressure. The amount of heat delivered will be",
+        "question_latex": "The temperature of the mixture of one mole of helium and one mole of hydrogen is increased from $0^\\circ\\text{C}$ to $100^\\circ\\text{C}$ at constant pressure. The amount of heat delivered will be",
+        "question_images": [],
+        "options": [
+            "A. 600 cal",
+            "B. 1200 cal",
+            "C. 1800 cal",
+            "D. 3600 cal"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$(C_p)_{mix} = \\frac{\\mu_1 C_{p1} + \\mu_2 C_{p2}}{\\mu_1 + \\mu_2} = \\frac{1 \\times \\frac{5}{2}R + 1 \\times \\frac{7}{2}R}{2} = 3R = 3 \\times 2 = 6\\text{ cal/mol}\\cdot^\\circ\\text{C}$. $\\Delta Q = \\mu C_p \\Delta T = 2 \\times 6 \\times 100 = 1200\\text{ cal}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "The temperature of an ideal gas is increased from 120 K to 480 K. If at 120 K the root mean square velocity of the gas molecules is v, at 480 K it becomes",
+        "question_latex": "The temperature of an ideal gas is increased from $120\\text{ K}$ to $480\\text{ K}$. If at $120\\text{ K}$ the root mean square velocity of the gas molecules is $v$, at $480\\text{ K}$ it becomes",
+        "question_images": [],
+        "options": [
+            "A. 4v",
+            "B. 2v",
+            "C. v/2",
+            "D. v/4"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$v_{rms} \\propto \\sqrt{T}$. When temperature is increased from 120 K to 480 K (four times), $v_{rms}$ becomes $\\sqrt{4}$ or 2 times, i.e., 2v.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "The rms velocity of gas molecules is 300 ms⁻¹. The rms velocity of molecules of gas with twice the molecular weight and half the absolute temperature is",
+        "question_latex": "The rms velocity of gas molecules is $300\\text{ ms}^{-1}$. The rms velocity of molecules of gas with twice the molecular weight and half the absolute temperature is",
+        "question_images": [],
+        "options": [
+            "A. 300 ms⁻¹",
+            "B. 600 ms⁻¹",
+            "C. 75 ms⁻¹",
+            "D. 150 ms⁻¹"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$v = \\sqrt{\\frac{3RT}{M}}$. $v' = \\sqrt{\\frac{3R(T/2)}{2M}} = \\frac{1}{2}\\sqrt{\\frac{3RT}{M}} = \\frac{v}{2} = \\frac{300}{2} = 150\\text{ ms}^{-1}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "KE per unit volume is E. The pressure exerted by the gas is given by",
+        "question_latex": "KE per unit volume is $E$. The pressure exerted by the gas is given by",
+        "question_images": [],
+        "options": [
+            "A. E/3",
+            "B. 2E/3",
+            "C. 3E/2",
+            "D. E/2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$P = \\frac{1}{3}\\rho c^2 = \\frac{2}{3}(\\frac{1}{2}\\rho c^2) = \\frac{2}{3}E$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "If mass of He atom is 4 times that of hydrogen atom then mean velocity of He is",
+        "question_latex": "If mass of $He$ atom is $4$ times that of hydrogen atom then mean velocity of $He$ is",
+        "question_images": [],
+        "options": [
+            "A. 2 times of H-mean value",
+            "B. 1/2 times of H-mean value",
+            "C. 4 times of H-mean value",
+            "D. Same as H -mean value"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$v_{av} \\propto \\frac{1}{\\sqrt{M}} \\Rightarrow \\frac{v_{He}}{v_H} = \\sqrt{\\frac{M_H}{M_{He}}} = \\sqrt{\\frac{1}{4}} = \\frac{1}{2} \\Rightarrow v_{He} = \\frac{v_H}{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "The ratio of mean kinetic energy of hydrogen and nitrogen at temperature 300 K and 450 K respectively is",
+        "question_latex": "The ratio of mean kinetic energy of hydrogen and nitrogen at temperature $300\\text{ K}$ and $450\\text{ K}$ respectively is",
+        "question_images": [],
+        "options": [
+            "A. 3:2",
+            "B. 2:3",
+            "C. 2: 21",
+            "D. 4:9"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\frac{E_1}{E_2} = \\frac{T_1}{T_2} = \\frac{300}{450} = \\frac{2}{3}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "At what temperature, the mean kinetic energy of O2 will be the same for H2 molecules at -73°C",
+        "question_latex": "At what temperature, the mean kinetic energy of $O_2$ will be the same for $H_2$ molecules at $-73^\\circ\\text{C}$",
+        "question_images": [],
+        "options": [
+            "A. 127°C",
+            "B. 527°C",
+            "C. -73°C",
+            "D. -173°C"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Mean kinetic energy of molecule depends upon temperature only. For $O_2$ it is same as that of $H_2$ at the same temperature of $-73^\\circ\\text{C}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "A perfect gas at 27°C is heated at constant pressure so as to double its volume. The increase in temperature of the gas will be",
+        "question_latex": "A perfect gas at $27^\\circ\\text{C}$ is heated at constant pressure so as to double its volume. The increase in temperature of the gas will be",
+        "question_images": [],
+        "options": [
+            "A. 300°C",
+            "B. 54°C",
+            "C. 327°C",
+            "D. 600°C"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\frac{V_1}{V_2} = \\frac{T_1}{T_2} \\Rightarrow \\frac{1}{2} = \\frac{300}{T_2} \\Rightarrow T_2 = 600\\text{ K} = 327^\\circ\\text{C}$. Increase in temperature $\\Delta t = 327 - 27 = 300^\\circ\\text{C}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "Mean free path of gas molecule of constant temperature is inversely proportional to",
+        "question_latex": "Mean free path of gas molecule of constant temperature is inversely proportional to",
+        "question_images": [],
+        "options": [
+            "A. P",
+            "B. V",
+            "C. m",
+            "D. n (number density)"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Mean free path $\\lambda = \\frac{1}{\\sqrt{2}\\pi d^2 n}$, where $n$ is the number density.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Kinetic Theory of Gases",
+        "question": "22 g of carbon dioxide at 27°C is mixed in a closed container with 16 g of oxygen at 37°C. If both gases are considered as ideal gases, then the temperature of the mixture is",
+        "question_latex": "$22\\text{ g}$ of carbon dioxide at $27^\\circ\\text{C}$ is mixed in a closed container with $16\\text{ g}$ of oxygen at $37^\\circ\\text{C}$. If both gases are considered as ideal gases, then the temperature of the mixture is",
+        "question_images": [],
+        "options": [
+            "A. 24.2 °C",
+            "B. 28.5 °C",
+            "C. 31.5 °C",
+            "D. 33.5 °C"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$n_1 (CO_2) = 22/44 = 0.5$, $n_2 (O_2) = 16/32 = 0.5$. Using $n_1 C_{v1} T_1 + n_2 C_{v2} T_2 = (n_1 C_{v1} + n_2 C_{v2}) T_{mix}$. For $CO_2$ (triatomic), $C_{v1} = 3R$; for $O_2$ (diatomic), $C_{v2} = 5R/2$. $0.5 \\times 3R \\times 300 + 0.5 \\times 2.5R \\times 310 = (0.5 \\times 3R + 0.5 \\times 2.5R) T_{mix}$. $450 + 387.5 = 2.75 T_{mix} \\Rightarrow T_{mix} \\approx 304.5\\text{ K} = 31.5^\\circ\\text{C}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "At the same temperature and pressure and volume of two gases, which of the following quantities is constant?",
+        "question_latex": "At\\ the\\ same\\ temperature,\\ pressure\\ and\\ volume\\ of\\ two\\ gases,\\ which\\ of\\ the\\ following\\ quantities\\ is\\ constant?",
+        "question_images": [],
+        "options": [
+            "A. Total number of molecules",
+            "B. Average kinetic energy",
+            "C. Root mean square velocity",
+            "D. Mean free path"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The\\ average\\ kinetic\\ energy\\ of\\ gas\\ molecules\\ depends\\ only\\ on\\ temperature.\\\\\n$\\langle K \\rangle = \\frac{3}{2}kT$\\\\\nSince\\ temperature\\ is\\ same,\\ the\\ average\\ kinetic\\ energy\\ remains\\ constant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "The mean free path and the average speed of oxygen molecules at 300 K and 1 atm are λ and v respectively. Find the frequency of its collisions.",
+        "question_latex": "The\\ mean\\ free\\ path\\ $\\lambda$\\ and\\ the\\ average\\ speed\\ $v$\\ of\\ oxygen\\ molecules\\ at\\ $300\\,K$\\ and\\ $1\\,atm$\\ are\\ given.\\ Find\\ the\\ frequency\\ of\\ collisions.",
+        "question_images": [],
+        "options": [
+            "A. $\\dfrac{v}{\\lambda}$",
+            "B. $\\dfrac{\\lambda}{v}$",
+            "C. $v\\lambda$",
+            "D. $\\dfrac{1}{v\\lambda}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Collision\\ frequency\\ is\\ defined\\ as\\ the\\ number\\ of\\ collisions\\ per\\ second.\\\\\n$f = \\dfrac{v}{\\lambda}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "At room temperature, the rms speed of the molecules of a certain diatomic gas is found to be 1930 m/s. The gas is",
+        "question_latex": "At\\ room\\ temperature,\\ the\\ rms\\ speed\\ of\\ molecules\\ of\\ a\\ certain\\ diatomic\\ gas\\ is\\ found\\ to\\ be\\ $1930\\,m/s$.\\ The\\ gas\\ is",
+        "question_images": [],
+        "options": [
+            "A. Hydrogen",
+            "B. Oxygen",
+            "C. Nitrogen",
+            "D. Carbon monoxide"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Root\\ mean\\ square\\ speed\\ is\\ given\\ by\\\\\n$v_{rms}=\\sqrt{\\dfrac{3RT}{M}}$\\\\\nAt\\ room\\ temperature,\\ such\\ a\\ high\\ rms\\ speed\\ corresponds\\ to\\ a\\ very\\ low\\ molecular\\ mass,\\ which\\ matches\\ hydrogen.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "question": "A perfect gas at 27°C is heated at constant pressure so as to double its volume. The increase in temperature of the gas will be",
+        "question_latex": "A\\ perfect\\ gas\\ at\\ $27^\\circ C$\\ is\\ heated\\ at\\ constant\\ pressure\\ so\\ as\\ to\\ double\\ its\\ volume.\\ The\\ increase\\ in\\ temperature\\ of\\ the\\ gas\\ will\\ be",
+        "question_images": [],
+        "options": [
+            "A. $300\\,K$",
+            "B. $54\\,K$",
+            "C. $327\\,K$",
+            "D. $600\\,K$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "At\\ constant\\ pressure,\\ $\\dfrac{V}{T}=\\text{constant}$.\\\\\nInitial\\ temperature\\ $T_1 = 27^\\circ C = 300\\,K$.\\\\\nIf\\ volume\\ doubles,\\ final\\ temperature\\ $T_2 = 2T_1 = 600\\,K$.\\\\\nIncrease\\ in\\ temperature\\\\\n$\\Delta T = 600 - 300 = 300\\,K$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    }
+]

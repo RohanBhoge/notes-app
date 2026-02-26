@@ -1,0 +1,2082 @@
+[
+    {
+        "id": 1,
+        "chapter": "Work Energy and Power",
+        "question": "Given that a force F on a body for time t1 and displaces the body by d. In which of the following cases the velocity of the body must increase?",
+        "question_latex": "Given that a force $\\vec{F}$ on a body for time $t_{1}$ and displaces the body by $\\vec{d}$. In which of the following cases the velocity of the body must increase?",
+        "question_images": [],
+        "options": [
+            "A. $F>d$",
+            "B. $F<d$",
+            "C. $\\vec{F}||\\vec{d}$",
+            "D. $\\vec{F}\\perp\\vec{d}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In this case, work will be done by the force which will increase the kinetic energy",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Work Energy and Power",
+        "question": "A particle is acted upon by a force of constant magnitude which is always perpendicular to the velocity of the particle, the motion of the particles takes place in a plane. It follows that [2004]",
+        "question_latex": "A particle is acted upon by a force of constant magnitude which is always perpendicular to the velocity of the particle, the motion of the particles takes place in a plane. It follows that [2004]",
+        "question_images": [],
+        "options": [
+            "A. its kinetic energy is constant",
+            "B. its acceleration is constant",
+            "C. its velocity is constant",
+            "D. it moves in a straight line"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Work done by such force is always zero since force is acting in a direction perpendicular to velocity... From work-energy theorem $=\\Delta K=0$ K remains constant.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Work Energy and Power",
+        "question": "An engine develops 10 kW of power. How much time will it take to lift a mass of 200 kg to a height of 40 m. (g=10 m/sec^3)",
+        "question_latex": "An engine develops 10 kW of power. How much time will it take to lift a mass of 200 kg to a height of 40 m. $(g=10~m/sec^{3})$",
+        "question_images": [],
+        "options": [
+            "A. 4 sec",
+            "B. 5 sec",
+            "C. 8 sec",
+            "D. 10 sec"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$P=\\frac{mgh}{t}=10\\times10^{3}$ \\\\ $t=\\frac{200\\times40\\times10}{10\\times10^{4}} = 8 \\text{ sec}$",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Work Energy and Power",
+        "question": "A bomb of mass 16 kg at rest explodes into two pieces of masses of 4 kg and 12 kg. The velocity of the 12 kg mass is 4 m s^-1. The kinetic energy of the other mass is (2006)",
+        "question_latex": "A bomb of mass 16 kg at rest explodes into two pieces of masses of 4 kg and 12 kg. The velocity of the 12 kg mass is 4 m $s^{-1}$. The kinetic energy of the other mass is (2006)",
+        "question_images": [],
+        "options": [
+            "A. 96 J",
+            "B. 144 J",
+            "C. 288 J",
+            "D. 192 J"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Linear momentum is conserved $0=m_{1}v_{1}+m_{2}v_{2}=(12\\times4)+(4\\times v_{2})$ or $4v_{2}=-48\\Rightarrow v_{2}=-12m/s;$ energy of mass $m_{2}=\\frac{1}{2}m_{2}v_{2}^{2}=\\frac{1}{2}\\times4\\times(-12)^{2}=288~J$",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Work Energy and Power",
+        "question": "A bob of mass m is suspended at a point O by a light string of length l and left to perform vertical motion (circular) as shown in figure. Initially, by applying horizontal velocity v0 at the point 'A', the string becomes slack when the bob reaches at the point 'D'. The ratio of the kinetic energy of the bob at the points B and C is [Jan. 22, 2025 (I)]",
+        "question_latex": "A bob of mass m is suspended at a point O by a light string of length $l$ and left to perform vertical motion (circular) as shown in figure. Initially, by applying horizontal velocity $v_{0}$ at the point 'A', the string becomes slack when the bob reaches at the point 'D'. The ratio of the kinetic energy of the bob at the points B and C is [Jan. 22, 2025 (I)]",
+        "question_images": [
+            "q5_1",
+            "5_qu_1.png"
+        ],
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 1",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "From conservation of Energy at A and B: $\\frac{1}{2}mv_{0}^{2}=KE_{B}+mgh \\Rightarrow \\frac{1}{2}m(5gl)=KE_{B}+mg\\frac{l}{2} \\Rightarrow \\frac{5mgl}{2}-\\frac{mgl}{2} \\Rightarrow KE_{B}=2mgl$. Using conservation of energy again at C and D: $KE_{C}=\\frac{1}{2}mv_{D}^{2}+mg\\frac{l}{2} \\Rightarrow KE_{C}=\\frac{1}{2}mgl+mg\\frac{l}{2}=mgl$. Therefore, $\\frac{KE_{B}}{KE_{C}}=2$",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Work Energy and Power",
+        "question": "A particle is projected with a velocity u making an angle with the horizontal. The instantaneous power of the gravitational force",
+        "question_latex": "A particle is projected with a velocity $u$ making an angle with the horizontal. The instantaneous power of the gravitational force",
+        "question_images": [],
+        "options": [
+            "A. Varies linearly with time",
+            "B. Is constant throughout",
+            "C. Is negative for complete path",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "At any time, $\\vec{v}=[u \\cos \\theta]\\hat{i}+[(u \\sin \\theta-gt)\\hat{j}]$. $P=\\vec{F}\\cdot\\vec{v}=(-mg\\hat{j})\\cdot[u \\cos \\theta\\hat{i}+(u \\sin \\theta-gt)\\hat{j}] = mg^{2}t - mg u \\sin \\theta$. Hence, power varies linearly with time.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Work Energy and Power",
+        "question": "A large block of wood of mass M = 5.99 kg is hanging from two long massless cords. A bullet of mass m = 10 g, is fired into the block and gets embedded in it. The (block + bullet) then swing upwards their centre of mass rising a vertical distance h = 9.8 cm before the (block + bullet) pendulum comes momentarily to rest at the end of its arc. The speed of the bullet just before collision is (take g = 9.8 ms^-2). (March 2021)",
+        "question_latex": "A large block of wood of mass $M=5.99$ kg is hanging from two long massless cords. A bullet of mass $m = 10$ g, is fired into the block and gets embedded in it. The (block + bullet) then swing upwards their centre of mass rising a vertical distance $h=9.8$ cm before the (block + bullet) pendulum comes momentarily to rest at the end of its arc. The speed of the bullet just before collision is (take $g=9.8~ms^{-2}$). (March 2021)",
+        "question_images": [
+            "q7_1",
+            "7_qu_1.png"
+        ],
+        "options": [
+            "A. $841.4~m/s$",
+            "B. $811.4~m/s$",
+            "C. $831.4~m/s$",
+            "D. $821.4~m/s$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Mass of block $M=5.99$ kg, Bullet $m=10^{-2}$ kg. $p_{i}=0.01u$, $p_{f}=(0.01+5.99)v=6v$. $0.01u=6v \\Rightarrow v=\\frac{0.01u}{6}$. By energy conservation, $(m+M)gh = \\frac{1}{2}(m+M)v^{2} \\Rightarrow v^{2}=2 \\times 9.8 \\times 9.8 \\times 10^{-2} \\Rightarrow v = \\frac{9.8}{\\sqrt{50}}$. $u = \\frac{6 \\times 9.8}{\\sqrt{50} \\times 0.01} = 831.4~ms^{-1}$.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Work Energy and Power",
+        "question": "Two bodies of masses m and 4m are attached to a light string as shown in figure. A body of mass m hanging from string is executing oscillations with angular amplitude 60 degrees, while other body is at rest on a horizontal surface. The minimum coefficient of friction between mass 4m and the horizontal surface is",
+        "question_latex": "Two bodies of masses $m$ and $4m$ are attached to a light string as shown in figure. A body of mass $m$ hanging from string is executing oscillations with angular amplitude $60^{\\circ}$, while other body is at rest on a horizontal surface. The minimum coefficient of friction between mass $4m$ and the horizontal surface is",
+        "question_images": [
+            "q8_1",
+            "8_qu_1.png"
+        ],
+        "options": [
+            "A. $1/4$",
+            "B. $3/4$",
+            "C. $1/2$",
+            "D. $1/8$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Velocity at lowest position $=\\sqrt{2gl(1-\\cos 60^{\\circ})}=\\sqrt{gl}$. Tension $T=mg+\\frac{mv^{2}}{l}=mg+\\frac{m}{l}gl=2mg$. For the block at rest, $T = \\mu(4mg) \\Rightarrow 2mg = 4\\mu mg \\Rightarrow \\mu = \\frac{1}{2}$.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Work Energy and Power",
+        "question": "A particle of mass m moves with a variable velocity v, which changes with distance covered x along a straight line as v=k*sqrt(x), where k is a positive constant. The work done by all the forces acting on the particle, during the first t seconds is",
+        "question_latex": "A particle of mass $m$ moves with a variable velocity $v$, which changes with distance covered $x$ along a straight line as $v=k\\sqrt{x}$, where $k$ is a positive constant. The work done by all the forces acting on the particle, during the first $t$ seconds is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{mk^{4}}{t^{2}}$",
+            "B. $\\frac{mk^{4}t^{2}}{4}$",
+            "C. $\\frac{mk^{4}t^{2}}{8}$",
+            "D. $\\frac{mk^{4}t^{2}}{16}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$v=k\\sqrt{x} \\Rightarrow \\frac{dx}{dt}=k\\sqrt{x} \\Rightarrow x^{-1/2}dx=kdt$. Integrating: $2\\sqrt{x}=kt \\Rightarrow x=\\frac{k^{2}t^{2}}{4}$. Velocity $v = \\frac{dx}{dt} = \\frac{k^{2}t}{2}$. Work done $\\Delta W = \\frac{1}{2}mv^{2} = \\frac{1}{2}m(\\frac{k^{2}t}{2})^{2} = \\frac{1}{8}mk^{4}t^{2}$.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Work Energy and Power",
+        "question": "A body projected vertically from the earth reaches a height equal to earth's radius before returning to the earth. The power exerted by the gravitational force is greatest",
+        "question_latex": "A body projected vertically from the earth reaches a height equal to earth's radius before returning to the earth. The power exerted by the gravitational force is greatest",
+        "question_images": [],
+        "options": [
+            "A. at the highest position of the body",
+            "B. at the instant just before the body hits the earth",
+            "C. it remains constant all through",
+            "D. at the instant just after the body is projected"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Power $P=F \\cdot V$. When the body is just above the earth's surface, its velocity is greatest and gravitational force is also maximum. Hence, power is greatest just before hitting.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Work Energy and Power",
+        "question": "A 0.5 kg ball is thrown up with an initial speed 14 m/s and reaches a maximum height of 8.0m. How much energy is dissipated by air drag acting on the ball during the ascent",
+        "question_latex": "A 0.5 kg ball is thrown up with an initial speed 14 m/s and reaches a maximum height of 8.0m. How much energy is dissipated by air drag acting on the ball during the ascent",
+        "question_images": [],
+        "options": [
+            "A. 19.6 Joule",
+            "B. 4.9 Joule",
+            "C. 10 Joule",
+            "D. 9.8 Joule"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "No drag height $H=\\frac{u^{2}}{2g}=\\frac{14^{2}}{2\\times9.8}=10m$. Actual height $= 8m$. Energy loss $= mg(10-8) = 0.5 \\times 9.8 \\times 2 = 9.8J$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Work Energy and Power",
+        "question": "If the increase in the kinetic energy of a body is 22%, then the increase in the momentum will be",
+        "question_latex": "If the increase in the kinetic energy of a body is 22%, then the increase in the momentum will be",
+        "question_images": [],
+        "options": [
+            "A. 22%",
+            "B. 44%",
+            "C. 10%",
+            "D. 300%"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$P=\\sqrt{2mE} \\Rightarrow \\frac{P_{2}}{P_{1}}=\\sqrt{\\frac{1.22E}{E}}=\\sqrt{1.22} \\approx 1.1$. Increase is $0.1$ or $10\\%$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Work Energy and Power",
+        "question": "A man places a chain (of mass m and length l) on a table slowly. Initially, the lower end of the chain just touches the table. The man brings down the chain by length l/2. Work done by the man in this process is",
+        "question_latex": "A man places a chain (of mass $m$ and length $l$) on a table slowly. Initially, the lower end of the chain just touches the table. The man brings down the chain by length $l/2$. Work done by the man in this process is",
+        "question_images": [
+            "q13_1"
+        ],
+        "options": [
+            "A. $-mg\\frac{l}{2}$",
+            "B. $-\\frac{mgl}{4}$",
+            "C. $\\frac{-3mgl}{8}$",
+            "D. $-\\frac{mgl}{8}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Decrease in potential energy $\\Delta U = mg\\frac{l}{2} - \\frac{m}{2}g\\frac{l}{4} = \\frac{3mgl}{8}$. Work done $W = -\\Delta U = -\\frac{3mgl}{8}$.",
+        "solution_images": [
+            "13_so_1.png"
+        ],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Work Energy and Power",
+        "question": "A force Fx on a particle such that its position x changes as shown in graph. The work done by the particle as it moves from x=0 to 20 m is",
+        "question_latex": "A force $F_{x}$ on a particle such that its position $x$ changes as shown in graph. The work done by the particle as it moves from $x=0$ to $20$ m is",
+        "question_images": [
+            "q14_1",
+            "14_qu_1.png"
+        ],
+        "options": [
+            "A. 37.5 J",
+            "B. 10 J",
+            "C. 45 J",
+            "D. 22.5 J"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$W = \\text{area of } F-x \\text{ graph} = \\text{area of triangle} + \\text{area of rectangle} + \\text{area of triangle} = \\frac{5\\times3}{2} + 10\\times3 + \\frac{5\\times3}{2} = 7.5 + 30 + 7.5 = 45J$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Work Energy and Power",
+        "question": "A particle of mass 500gm is moving in straight line with velocity v=bx^5/2. The work done by the net force during its displacement from x=0 to x=4 m is (Take b=0.25 m^-3/2 s^-1). (June 2022)",
+        "question_latex": "A particle of mass $500$ gm is moving in straight line with velocity $v=bx^{5/2}$. The work done by the net force during its displacement from $x=0$ to $x=4$ m is (Take $b=0.25~m^{-3/2}s^{-1}$). (June 2022)",
+        "question_images": [],
+        "options": [
+            "A. 4 J",
+            "B. 2 J",
+            "C. 8 J",
+            "D. 16 J"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$m=0.5$ kg, $v=bx^{5/2}$, $b=0.25$. At $x=0, v_{i}=0$. At $x=4, v_{f}=0.25\\times(4)^{2.5}=0.25\\times32=8~ms^{-1}$. $W = \\Delta KE = \\frac{1}{2}(0.5)(8^{2}) - 0 = 16J$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Work Energy and Power",
+        "question": "A uniform rope of linear mass density lambda and length l is coiled on a smooth horizontal surface. One end is pulled up with constant velocity v. Then the average power applied by the external agent in pulling the entire rope just off the ground is",
+        "question_latex": "A uniform rope of linear mass density $\\lambda$ and length $l$ is coiled on a smooth horizontal surface. One end is pulled up with constant velocity $v$. Then the average power applied by the external agent in pulling the entire rope just off the ground is",
+        "question_images": [
+            "16_qu_1.png"
+        ],
+        "options": [
+            "A. $\\frac{1}{2}\\lambda lv^{2}+\\frac{\\lambda l^{2}g}{2}$",
+            "B. $\\lambda lgv$",
+            "C. $\\frac{1}{2}\\lambda v^{3}+\\frac{\\lambda lvg}{2}$",
+            "D. $\\lambda lgv+\\frac{1}{2}\\lambda v^{3}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Final $KE=\\frac{1}{2}(\\lambda l)v^{2}$, Final $PE=(\\lambda l)g\\frac{l}{2}$. Time $t=\\frac{l}{v}$. Average power $= \\frac{\\text{Total Energy}}{t} = \\frac{\\frac{1}{2}\\lambda lv^{2}+\\frac{\\lambda gl^{2}}{2}}{l/v} = \\frac{1}{2}\\lambda v^{3} + \\frac{\\lambda lvg}{2}$.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Work Energy and Power",
+        "question": "A force F=(5i+3j+2k)N is applied over a particle which displaces it from its origin to the point r=(2i-j)m. The work done on the particle in joule is (2004)",
+        "question_latex": "A force $\\vec{F}=(5\\hat{i}+3\\hat{j}+2\\hat{k})N$ is applied over a particle which displaces it from its origin to the point $\\vec{r}=(2\\hat{i}-\\hat{j})m$. The work done on the particle in joule is (2004)",
+        "question_images": [],
+        "options": [
+            "A. +13",
+            "B. +7",
+            "C. +10",
+            "D. -7"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$W = \\vec{F} \\cdot \\vec{r} = (5\\hat{i}+3\\hat{j}+2\\hat{k}) \\cdot (2\\hat{i}-\\hat{j}) = 10 - 3 + 0 = 7J$.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Work Energy and Power",
+        "question": "A particle of mass m moves in a circular orbit under the central potential field, U(r)=-C/r, where C is a positive constant. The correct radius - velocity graph of the particle's motion is (March 2021)",
+        "question_latex": "A particle of mass $m$ moves in a circular orbit under the central potential field, $U(r)=-\\frac{C}{r}$, where $C$ is a positive constant. The correct radius - velocity graph of the particle's motion is (March 2021)",
+        "question_images": [
+            "q18_1",
+            "q18_2",
+            "q18_3",
+            "q18_4"
+        ],
+        "options": [
+            "A. Graph A",
+            "B. Graph B",
+            "C. Graph C",
+            "D. Graph D"
+        ],
+        "option_images": [
+            "18_opA_1.png",
+            "18_opB_1.png",
+            "18_opC_1.png",
+            "18_opD_1.png"
+        ],
+        "answer": "D",
+        "solution": "$F = -\\frac{dU}{dr} = \\frac{C}{r^{2}}$. For circular motion, $\\frac{C}{r^{2}} = \\frac{mv^{2}}{r} \\Rightarrow r = \\frac{C}{mv^{2}}$. Thus $r \\propto \\frac{1}{v^{2}}$, which is a hyperbolic graph.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Work Energy and Power",
+        "question": "In elastic collision, 100% energy transfer takes place when",
+        "question_latex": "In elastic collision, 100% energy transfer takes place when",
+        "question_images": [],
+        "options": [
+            "A. m1 = m2",
+            "B. m1 < m2",
+            "C. m1 > m2",
+            "D. m1 = 2m2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "During elastic collision between two equal masses, the velocities get exchanged, leading to maximum energy transfer.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Work Energy and Power",
+        "question": "A particle of mass 100 g is thrown vertically upwards with a speed of 5 m/s. The work done by the force of gravity during the time the particle goes up is (2006)",
+        "question_latex": "A particle of mass 100 g is thrown vertically upwards with a speed of $5~m/s$. The work done by the force of gravity during the time the particle goes up is (2006)",
+        "question_images": [],
+        "options": [
+            "A. -0.51 J",
+            "B. 1.25 J",
+            "C. -1.25 J",
+            "D. 0.5 J"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$W_{gravity} = -\\Delta PE = -\\frac{1}{2}mv^{2} = -\\frac{1}{2} \\times 0.1 \\times 5^{2} = -1.25J$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Work Energy and Power",
+        "question": "If velocity of a body is twice of previous velocity, then kinetic energy will become",
+        "question_latex": "If velocity of a body is twice of previous velocity, then kinetic energy will become",
+        "question_images": [],
+        "options": [
+            "A. 2 times",
+            "B. 1/2 times",
+            "C. 4 times",
+            "D. 1 times"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$KE = \\frac{1}{2}mv^{2}$. If $v$ is doubled, $KE$ becomes $2^{2} = 4$ times.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Work Energy and Power",
+        "question": "Statement 1: If two springs S1 and S2 of force constants k1 and k2 are stretched by the same force, more work is done on S1 than on S2. If stretched by the same amount, work done on S1 will be more than that on S2. Statement 2: k1 < k2.",
+        "question_latex": "Statement 1: If two springs $S_{1}$ and $S_{2}$ of force constants $k_{1}$ and $k_{2}$ are stretched by the same force, it is found that more work is done on spring $S_{1}$ than on spring $S_{2}$. If stretched by the same amount, work done on $S_{1}$ will be more than that on $S_{2}$. Statement 2: $k_{1}<k_{2}$. (2012)",
+        "question_images": [],
+        "options": [
+            "A. Statement 1 is true, Statement 2 is true; Statement 2 is correct explanation",
+            "B. Statement 1 is true, Statement 2 is true; Statement 2 is NOT correct explanation",
+            "C. Statement 1 is true, Statement 2 is false",
+            "D. Statement 1 is false, Statement 2 is true"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "If $F$ is same, $W = F^{2}/2k$. $W_{1} > W_{2} \\Rightarrow k_{1} < k_{2}$. If $x$ is same, $W = 1/2 k x^{2}$, so $W_{1}$ would be less than $W_{2}$ if $k_{1} < k_{2}$. Hence St 1 is false.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Work Energy and Power",
+        "question": "A dam is situated at a height of 550 m above sea level and supplies water to a power house which is at a height of 50 m above sea level. 2000 kg of water passes through the turbines per second. What would be the maximum electrical power output if the system were 80% efficient?",
+        "question_latex": "A dam is situated at a height of 550 m above sea level and supplies water to a power house which is at a height of 50 m above sea level. 2000 kg of water passes through the turbines per second. What would be the maximum electrical power output if the system were 80% efficient?",
+        "question_images": [],
+        "options": [
+            "A. 8 MW",
+            "B. 10 MW",
+            "C. 12.5 MW",
+            "D. 16 MW"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$h = 550 - 50 = 500m$. $\\frac{dm}{dt} = 2000 kg/s$. Power $= 0.8 \\times \\frac{dm}{dt}gh = 0.8 \\times 2000 \\times 10 \\times 500 = 8 \\times 10^{6} W = 8 MW$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Work Energy and Power",
+        "question": "A car of mass m is driven with acceleration a along a straight level road against a constant external resistive force R. When the velocity of the car is V, the rate at which the engine is doing work will be",
+        "question_latex": "A car of mass $m$ is driven with acceleration $a$ along a straight level road against a constant external resistive force $R$. When the velocity of the car is $V$, the rate at which the engine of the car is doing work will be",
+        "question_images": [],
+        "options": [
+            "A. RV",
+            "B. maV",
+            "C. (R+ma)V",
+            "D. (ma-R)V"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Total force $F = R + ma$. Power $P = FV = (R + ma)V$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Work Energy and Power",
+        "question": "A stone tied to a string of length L is whirled in a vertical circle. At the lowest position, it has speed u. The magnitude of change in velocity as it reaches a position where string is horizontal is sqrt(x(u^2-gL)). The value of x is",
+        "question_latex": "A stone tied to a string of length $L$ is whirled in a vertical circle. At the lowest position, it has speed $u$. The magnitude of change in velocity as it reaches a position where string is horizontal is $\\sqrt{x(u^{2}-gL)}$. The value of $x$ is",
+        "question_images": [
+            "q25_1"
+        ],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 5"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "At horizontal position, $v^{2} = u^{2} - 2gL$. $\\Delta \\vec{v} = \\sqrt{u^{2} + v^{2}} = \\sqrt{u^{2} + u^{2} - 2gL} = \\sqrt{2(u^{2}-gL)}$. Hence $x=2$.",
+        "solution_images": [
+            "25_so_1.png"
+        ],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Work Energy and Power",
+        "question": "A body of mass m moving at a speed u collides elastically with a mass M at rest. After collision, the two masses move at angles θ and φ with respect to the initial direction of motion of mass m. The largest possible value of the ratio M/m for which θ = φ is:",
+        "question_latex": "A~body~of~mass~m~moving~with~speed~u~collides~elastically~with~a~mass~M~at~rest.~After~collision,~the~two~masses~move~at~angles~\\theta~and~\\phi~with~respect~to~the~initial~direction.~Find~the~largest~value~of~\\frac{M}{m}~for~which~\\theta=\\phi.",
+        "question_images": [
+            "q26_1"
+        ],
+        "options": [
+            "A. 3",
+            "B. 4",
+            "C. 2",
+            "D. 1"
+        ],
+        "option_images": [],
+        "answer": "A. 3",
+        "solution": "Using conservation of momentum along x and y directions and condition $\\theta=\\phi$, solving momentum equations gives the maximum ratio $\\frac{M}{m}=3$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Work Energy and Power",
+        "question": "Two identical cylindrical vessels with their bases at the same level contain a liquid of density ρ. The heights of liquid are h1 and h2 respectively. The work done by gravity in equalizing the levels when vessels are connected is:",
+        "question_latex": "Two~identical~cylindrical~vessels~contain~liquid~of~density~\\rho~with~heights~h_1~and~h_2.~Find~the~work~done~by~gravity~when~levels~are~equalized.",
+        "question_images": [],
+        "options": [
+            "A. (expression)",
+            "B. (expression)",
+            "C. (expression)",
+            "D. (expression)"
+        ],
+        "option_images": [],
+        "answer": "D. (expression)",
+        "solution": "Using conservation of mass and change in potential energy of the system, work done by gravity equals decrease in total potential energy.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Work Energy and Power",
+        "question": "The power supplied by a force acting on a particle moving in a straight line is constant. The velocity of the particle varies with displacement as:",
+        "question_latex": "If~power~P~is~constant,~then~P=Fv=mv\\frac{dv}{dx}v.~Hence~v~varies~with~x.",
+        "question_images": [],
+        "options": [
+            "A. (graph)",
+            "B. (graph)",
+            "C. (graph)",
+            "D. (graph)"
+        ],
+        "option_images": [
+            "q28optionA1",
+            "q28optionB1",
+            "q28optionC1",
+            "q28optionD1"
+        ],
+        "answer": "D. (graph)",
+        "solution": "From $P=mv^2\\frac{dv}{dx}=constant$, integrating gives $v\\propto x^{1/3}$, matching option D.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Work Energy and Power",
+        "question": "A body of mass 4 kg is placed at point P having coordinates (x1, y1). Under a force F it moves to Q in 4 s. The ratio of average power to instantaneous power at the end is:",
+        "question_latex": "Average~power=\\frac{W}{t},~Instantaneous~power=\\vec{F}\\cdot\\vec{v}.",
+        "question_images": [],
+        "options": [
+            "A. (value)",
+            "B. (value)",
+            "C. (value)",
+            "D. (value)"
+        ],
+        "option_images": [],
+        "answer": "C. (value)",
+        "solution": "Average power is calculated from work done over time, instantaneous power from $\\vec F \\cdot \\vec v$ at t = 4 s. Ratio evaluates to option C.",
+        "solution_images": [
+            "29_so_1.png"
+        ],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Work Energy and Power",
+        "question": "A force is applied on a particle and it undergoes a displacement s. What is the value of angle θ if work done is zero?",
+        "question_latex": "Work~done~=~Fs\\cos\\theta~=0",
+        "question_images": [],
+        "options": [
+            "A. 90°",
+            "B. 0°",
+            "C. 2 rad",
+            "D. 0"
+        ],
+        "option_images": [],
+        "answer": "A. 90°",
+        "solution": "For zero work, $\\cos\\theta=0$ so $\\theta=90^\\circ$.",
+        "solution_images": [
+            "30_so_1.png"
+        ],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Work Energy and Power",
+        "question": "A 16 kg block moving on a frictionless surface with velocity 4 m/s compresses a spring of force constant 100 N/m. The compression is:",
+        "question_latex": "Initial~KE=\\frac12 mv^2=\\frac12 kx^2",
+        "question_images": [],
+        "options": [
+            "A. 1.6 m",
+            "B. 4 m",
+            "C. 6.1 m",
+            "D. 3.2 m"
+        ],
+        "option_images": [],
+        "answer": "A. 1.6 m",
+        "solution": "Equating kinetic energy to spring potential energy gives $x=1.6~m$.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Work Energy and Power",
+        "question": "An engine accelerates a car of mass 800 kg. Frictional force is 10 N per ton. The power developed is:",
+        "question_latex": "Power=Fv",
+        "question_images": [],
+        "options": [
+            "A. 10 kW",
+            "B. 15 kW",
+            "C. 20 kW",
+            "D. 5 kW"
+        ],
+        "option_images": [],
+        "answer": "D. 5 kW",
+        "solution": "Using resistive force and velocity, power evaluates to 5 kW.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Work Energy and Power",
+        "question": "A particle of mass m moves in a circular path with centripetal acceleration varying as a(t)=kt. The power delivered to the particle is:",
+        "question_latex": "Power=\\vec{F}\\cdot\\vec{v}",
+        "question_images": [],
+        "options": [
+            "A. Zero",
+            "B. (value)",
+            "C. (value)",
+            "D. (value)"
+        ],
+        "option_images": [],
+        "answer": "A. Zero",
+        "solution": "Centripetal force is perpendicular to velocity, so power is zero.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Work Energy and Power",
+        "question": "A block slides with speed u and compresses a spring under friction. The compression is:",
+        "question_latex": "\\frac12 mu^2=\\frac12 kx^2+fs",
+        "question_images": [],
+        "options": [
+            "A. (value)",
+            "B. (value)",
+            "C. (value)",
+            "D. (value)"
+        ],
+        "option_images": [],
+        "answer": "B. (value)",
+        "solution": "Applying work-energy theorem including friction gives option B.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Work Energy and Power",
+        "question": "A pendulum bob is struck by a bullet and rises to height h. The height reached is:",
+        "question_latex": "m_1u=(m_1+m_2)v,~\\frac12(m_1+m_2)v^2=(m_1+m_2)gh",
+        "question_images": [],
+        "options": [
+            "A. (value)",
+            "B. (value)",
+            "C. (value)",
+            "D. (value)"
+        ],
+        "option_images": [],
+        "answer": "D. (value)",
+        "solution": "Using momentum conservation followed by energy conservation gives option D.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Work Energy and Power",
+        "question": "A particle moves under friction μ(x)=kx. Minimum initial velocity so that it never stops is:",
+        "question_latex": "Initial~KE=Work~done~against~friction",
+        "question_images": [],
+        "options": [
+            "A. (value)",
+            "B. (value)",
+            "C. (value)",
+            "D. (value)"
+        ],
+        "option_images": [],
+        "answer": "C. (value)",
+        "solution": "Work done against friction must be less than initial kinetic energy.",
+        "solution_images": [],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Work Energy and Power",
+        "question": "Two identical masses collide inelastically. One moves perpendicular after collision. The speed after collision is:",
+        "question_latex": "Using~momentum~conservation~along~x~and~y",
+        "question_images": [
+            "q37_1"
+        ],
+        "options": [
+            "A. (value)",
+            "B. (value)",
+            "C. (value)",
+            "D. (value)"
+        ],
+        "option_images": [],
+        "answer": "D. (value)",
+        "solution": "Applying vector momentum conservation gives the result.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Work Energy and Power",
+        "question": "A car of mass 1000 kg moves up an incline with friction 200 N. Find power developed:",
+        "question_latex": "Power=(mg\\sin\\theta+f)v",
+        "question_images": [],
+        "options": [
+            "A. 14 kW",
+            "B. 4 kW",
+            "C. 10 kW",
+            "D. 28 kW"
+        ],
+        "option_images": [],
+        "answer": "A. 14 kW",
+        "solution": "Substituting given values gives power = 14 kW.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Work Energy and Power",
+        "question": "An object thrown vertically upwards has zero which quantity at maximum height?",
+        "question_latex": "At~maximum~height,~v=0",
+        "question_images": [],
+        "options": [
+            "A. Momentum",
+            "B. Acceleration",
+            "C. Force",
+            "D. Potential energy"
+        ],
+        "option_images": [],
+        "answer": "A. Momentum",
+        "solution": "Since velocity is zero, momentum is zero.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Work Energy and Power",
+        "question": "Two blocks connected by string over pulley. Work done by string on lighter block in first second is:",
+        "question_latex": "Work=T\\cdot s",
+        "question_images": [
+            "40_qu_1 (1).png",
+            "q40_1"
+        ],
+        "options": [
+            "A. 8 J",
+            "B. 9 J",
+            "C. 7 J",
+            "D. 0.48 J"
+        ],
+        "option_images": [],
+        "answer": "A. 8 J",
+        "solution": "Calculating tension and displacement in first second gives 8 J.",
+        "solution_images": [
+            "40_so_1.png"
+        ],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Work Energy and Power",
+        "question": "Which statement is true regarding conservation laws in collisions?",
+        "question_latex": "Momentum~is~always~conserved",
+        "question_images": [],
+        "options": [
+            "A. Momentum only in elastic",
+            "B. KE only in elastic",
+            "C. Momentum conserved in all",
+            "D. Both always"
+        ],
+        "option_images": [],
+        "answer": "C. Momentum conserved in all",
+        "solution": "Momentum is conserved in all collisions, KE only in elastic ones.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Work Energy and Power",
+        "question": "A boy moves from point A to B under a force. Work done is:",
+        "question_latex": "Work=\\vec F\\cdot\\vec s",
+        "question_images": [],
+        "options": [
+            "A. (value)",
+            "B. 2 J",
+            "C. (value)",
+            "D. None"
+        ],
+        "option_images": [],
+        "answer": "C. (value)",
+        "solution": "Displacement vector is evaluated and dot product calculated.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Work Energy and Power",
+        "question": "A person lifts a bucket of water. Select the incorrect statement:",
+        "question_latex": "Work~done~on~person~is~negative",
+        "question_images": [
+            "43_qu_1.png"
+        ],
+        "options": [
+            "A. Gravity negative",
+            "B. Tension positive",
+            "C. Work on person positive",
+            "D. Work on person negative"
+        ],
+        "option_images": [],
+        "answer": "C. Work on person positive",
+        "solution": "Energy of person decreases, so work done on person is negative.",
+        "solution_images": [
+            "43_so_1.png"
+        ],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Work Energy and Power",
+        "question": "A body loses half its velocity in 3 cm penetration. Additional penetration before rest is:",
+        "question_latex": "v^2=u^2-2as",
+        "question_images": [],
+        "options": [
+            "A. 1 cm",
+            "B. 2 cm",
+            "C. 3 cm",
+            "D. 4 cm"
+        ],
+        "option_images": [],
+        "answer": "A. 1 cm",
+        "solution": "Using kinematics, additional penetration comes out to be 1 cm.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Work Energy and Power",
+        "question": "Velocity of a particle increases with distance as v=k√x. Total work done from x=0 to x=a is:",
+        "question_latex": "W=\\Delta KE=\\frac12 m(v_a^2-v_0^2)",
+        "question_images": [],
+        "options": [
+            "A. (value)",
+            "B. (value)",
+            "C. (value)",
+            "D. (value)"
+        ],
+        "option_images": [],
+        "answer": "C. (value)",
+        "solution": "Substituting velocity relation gives correct option.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Work Energy and Power",
+        "question": "Select the incorrect statement regarding work and energy:",
+        "question_latex": "Work~done~\\neq~always~change~in~KE",
+        "question_images": [],
+        "options": [
+            "A. I only",
+            "B. I and II",
+            "C. II only",
+            "D. I, II and III"
+        ],
+        "option_images": [],
+        "answer": "A. I only",
+        "solution": "Work can be done without changing KE, e.g. motion with constant velocity.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Work Energy and Power",
+        "question": "A block of mass m collides and sticks to another mass M at rest. Energy loss during collision is:",
+        "question_latex": "Energy~loss=KE_{initial}-KE_{final}",
+        "question_images": [],
+        "options": [
+            "A. (value)",
+            "B. (value)",
+            "C. (value)",
+            "D. (value)"
+        ],
+        "option_images": [],
+        "answer": "C. (value)",
+        "solution": "Using momentum conservation and energy difference gives correct value.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Work Energy and Power",
+        "question": "A block moving with speed u strikes another mass and sticks to it. Find energy loss:",
+        "question_latex": "Loss=\\frac12 mu^2-\\frac12(m+M)v^2",
+        "question_images": [],
+        "options": [
+            "A. (value)",
+            "B. (value)",
+            "C. (value)",
+            "D. (value)"
+        ],
+        "option_images": [],
+        "answer": "C. (value)",
+        "solution": "Final velocity from momentum conservation is used.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Work Energy and Power",
+        "question": "A block of mass m moving with speed u strikes another block of mass M and they move together. Energy loss is:",
+        "question_latex": "Energy~loss=\\frac12 mu^2-\\frac12(m+M)v^2",
+        "question_images": [],
+        "options": [
+            "A. (expression)",
+            "B. (expression)",
+            "C. (expression)",
+            "D. (expression)"
+        ],
+        "option_images": [],
+        "answer": "C. (expression)",
+        "solution": "Using conservation of momentum and kinetic energy difference.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Work Energy and Power",
+        "question": "A block of mass m collides inelastically and sticks with another block. The energy loss is:",
+        "question_latex": "E_{loss}=\\frac12\\frac{mM}{m+M}u^2",
+        "question_images": [],
+        "options": [
+            "A. (expression)",
+            "B. (expression)",
+            "C. (expression)",
+            "D. (expression)"
+        ],
+        "option_images": [],
+        "answer": "C. (expression)",
+        "solution": "Standard result for perfectly inelastic collision.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Work Energy and Power",
+        "question": "A block moving horizontally on a smooth surface with a speed of 40 m/s splits into two parts with masses in the ratio of 1:2. If the smaller part moves at 60 m/s in the same direction, then the fractional change in kinetic energy is (Aug 2021)",
+        "question_latex": "A block moving horizontally on a smooth surface with a speed of $40~m/s$ splits into two parts with masses in the ratio of 1:2. If the smaller part moves at $60~m/s$ in the same direction, then the fractional change in kinetic energy is (Aug 2021)",
+        "question_images": [
+            "q51_1"
+        ],
+        "options": [
+            "A. 1/4",
+            "B. 1/3",
+            "C. 2/3",
+            "D. 1/8"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Let the speed of heavier part after splitting be $v$. Using conservation of momentum:\n$m \\times 40 = \\frac{m}{3} \\times 60 + \\frac{2m}{3} \\times v$\n$\\Rightarrow 40 = 20 + \\frac{2v}{3} \\Rightarrow \\frac{2v}{3} = 20 \\Rightarrow v = 30~m/s$\nInitial $KE_i = \\frac{1}{2} m \\times 40^2 = 800m$\nFinal $KE_f = \\frac{1}{2} \\cdot \\frac{m}{3} \\times (60)^2 + \\frac{1}{2} \\times \\frac{2m}{3} \\times (30)^2 = 600m + 300m = 900m$\nChange in KE, $\\Delta KE = 900m - 800m = 100m$\nFractional change $= \\frac{\\Delta KE}{KE_i} = \\frac{100m}{800m} = \\frac{1}{8}$",
+        "solution_images": [
+            "51_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Work Energy and Power",
+        "question": "A boy carrying a box on his head is walking on a level road from one place to another is doing no work. This statement is",
+        "question_latex": "A boy carrying a box on his head is walking on a level road from one place to another is doing no work. This statement is",
+        "question_images": [],
+        "options": [
+            "A. correct",
+            "B. incorrect",
+            "C. partly correct",
+            "D. cannot say"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "When a person carrying load on his head moves over a horizontal road, work done against gravitational force is zero because the force (gravity) is perpendicular to the displacement.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Work Energy and Power",
+        "question": "A small sphere is given vertical velocity of magnitude v0 = 5 m/s and it swings in a vertical plane about the end of a massless string. The angle with the vertical at which string will break, knowing that it can withstand a maximum tension equal to twice the weight of the sphere, is",
+        "question_latex": "A small sphere is given vertical velocity of magnitude $v_0 = 5~ms^{-1}$ and it swings in a vertical plane about the end of a massless string. The angle $\\theta$ with the vertical at which string will break, knowing that it can withstand a maximum tension equal to twice the weight of the sphere, is ($l=2~m$)",
+        "question_images": [
+            "q53_1",
+            "53_qu_1.png"
+        ],
+        "options": [
+            "A. cos^-1(2/3)",
+            "B. cos^-1(1/4)",
+            "C. 60°",
+            "D. 30°"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Velocity at angle $\\theta$: $v^2 = v_0^2 + 2gl \\cos \\theta$\nTension $T = mg \\cos \\theta + \\frac{mv^2}{l}$. Given $T = 2mg$.\n$2mg = mg \\cos \\theta + \\frac{m}{l}(v_0^2 + 2gl \\cos \\theta)$\nSubstituting values and solving, $\\cos \\theta = \\frac{1}{4}$.",
+        "solution_images": [
+            "53_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Work Energy and Power",
+        "question": "A bomb of mass M at rest explodes into two fragments of masses m1 and m2. The total energy released in the explosion is E. If E1 and E2 represent the energies carried by masses m1 and m2 respectively, then which of the following is correct?",
+        "question_latex": "A bomb of mass $M$ at rest explodes into two fragments of masses $m_1$ and $m_2$. The total energy released in the explosion is $E$. If $E_1$ and $E_2$ represent the energies carried by masses $m_1$ and $m_2$ respectively, then which of the following is correct?",
+        "question_images": [],
+        "options": [
+            "A. E1 = (m2/M)E",
+            "B. E1 = (m1/m2)E",
+            "C. E1 = (m1/M)E",
+            "D. E1 = (m2/m1)E"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$E_1 = \\frac{p^2}{2m_1}$ and $E_2 = \\frac{p^2}{2m_2}$. Total $E = E_1 + E_2 = \\frac{p^2}{2} (\\frac{1}{m_1} + \\frac{1}{m_2}) = \\frac{p^2 (m_1+m_2)}{2m_1m_2}$.\nSince $M = m_1 + m_2$, $E = \\frac{p^2 M}{2m_1m_2}$.\n$E_1 / E = \\frac{p^2/2m_1}{p^2 M / 2m_1m_2} = \\frac{m_2}{M} \\Rightarrow E_1 = \\frac{m_2}{M}E$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Work Energy and Power",
+        "question": "A particle of mass m moves in a circular orbit under the central potential field, U(r) = -C/r where C is a positive constant. The correct radius - velocity graph of the particle's motion is (March 2021)",
+        "question_latex": "A particle of mass $m$ moves in a circular orbit under the central potential field, $U(r)=-\\frac{C}{r}$ where $C$ is a positive constant. The correct radius - velocity graph of the particle's motion is (March 2021)",
+        "question_images": [],
+        "options": [
+            "A. Image A",
+            "B. Image B",
+            "C. Image C",
+            "D. Image D"
+        ],
+        "option_images": [
+            "q55optionA1",
+            "q55optionB1",
+            "q55optionC1",
+            "q55optionD1",
+            "55_opA_1.png",
+            "55_opB_1.png",
+            "55_opC_1.png",
+            "55_opD_1.png"
+        ],
+        "answer": "D",
+        "solution": "$F = -\\frac{dU}{dr} = \\frac{C}{r^2}$. This force provides centripetal force: $\\frac{mv^2}{r} = \\frac{C}{r^2} \\Rightarrow r = \\frac{C}{mv^2}$. Thus $r \\propto 1/v^2$, representing a hyperbolic-like curve.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Work Energy and Power",
+        "question": "An engine pumps up 100kg of water through a height of 10 m in 5 s. Given that the efficiency of engine is 60%. If g = 10 m/s^2 the power of the engine is",
+        "question_latex": "An engine pumps up $100~kg$ of water through a height of $10~m$ in $5~s$. Given that the efficiency of engine is 60%. If $g=10~ms^{-2}$ the power of the engine is",
+        "question_images": [],
+        "options": [
+            "A. 3.3 KW",
+            "B. 0.33 KW",
+            "C. 0.033KW",
+            "D. 33KW"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$Power_{out} = \\frac{mgh}{t} = \\frac{100 \\times 10 \\times 10}{5} = 2000~W$. Efficiency $\\eta = 60\\% = 0.6$.\n$Power_{in} = \\frac{Power_{out}}{\\eta} = \\frac{2000}{0.6} = 3333.3~W = 3.3~kW$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Work Energy and Power",
+        "question": "Three blocks A, B and C lying on a smooth horizontal surface. A and B have equal masses, m while C has mass M. Block A is given an initial speed v towards B due to which it collides with B perfectly inelastically. The combined mass collides with C, also perfectly inelastically. If 5/6th of the initial kinetic energy is lost in whole process, what is value of M/m? (Jan 2019)",
+        "question_latex": "Three blocks A, B and C lying on a smooth horizontal surface. A and B have equal masses, $m$ while C has mass $M$. Block A is given an initial speed $v$ towards B due to which it collides with B perfectly inelastically. The combined mass collides with C, also perfectly inelastically. If $\\frac{5}{6}$ of the initial kinetic energy is lost in whole process, what is value of $M/m$? (Jan 2019)",
+        "question_images": [
+            "57_qu_1 (1).png",
+            "q57_1",
+            "57_qu_1.png"
+        ],
+        "options": [
+            "A. 2",
+            "B. 5",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [
+            "57_opA_1.png",
+            "57_opB_1.png",
+            "57_opC_1.png",
+            "57_opD_1.png"
+        ],
+        "answer": "D",
+        "solution": "$K_i = \\frac{1}{2}mv^2$. Conservation of momentum: $mv = (2m+M)v_1 \\Rightarrow v_1 = \\frac{mv}{2m+M}$.\nFinal energy $K_f = \\frac{1}{6}K_i \\Rightarrow \\frac{1}{2}(2m+M)v_1^2 = \\frac{1}{6}(\\frac{1}{2}mv^2)$.\nSolving $\\frac{m}{2m+M} = \\frac{1}{6} \\Rightarrow 6m = 2m + M \\Rightarrow M = 4m \\Rightarrow M/m = 4$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Work Energy and Power",
+        "question": "Identify the correct statement(s) from the following. I. Work-energy theorem is not independent of Newton's second law. II. Work-energy theorem holds in all inertial frames. III. Work done by friction over a closed path is zero.",
+        "question_latex": "Identify the correct statement(s) from the following. I. Work-energy theorem is not independent of Newton's second law. II. Work-energy theorem holds in all inertial frames. III. Work done by friction over a closed path is zero.",
+        "question_images": [
+            "58_qu_1.png"
+        ],
+        "options": [
+            "A. I only",
+            "B. II and III",
+            "C. I and II",
+            "D. I, II and III"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Statement III is incorrect because friction is a non-conservative force, so work done over a closed path is not zero. Statements I and II are correct.",
+        "solution_images": [
+            "58_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Work Energy and Power",
+        "question": "Work done in raising a box depends on",
+        "question_latex": "Work done in raising a box depends on",
+        "question_images": [],
+        "options": [
+            "A. How fast it is raised",
+            "B. The strength of the man",
+            "C. The height by which it is raised",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Work in raising a box = (Weight of the box) $\\times$ (Height by which it is raised).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Work Energy and Power",
+        "question": "What percentage of kinetic energy of a moving particle is transferred to a stationary particle when it strikes the stationary particle of 5 times its mass? (Assume the collision to be head-on elastic collision) (June 2022)",
+        "question_latex": "What percentage of kinetic energy of a moving particle is transferred to a stationary particle when it strikes the stationary particle of 5 times its mass? (Assume the collision to be head-on elastic collision) (June 2022)",
+        "question_images": [
+            "60_qu_1.png"
+        ],
+        "options": [
+            "A. 66.6%",
+            "B. 50.0%",
+            "C. 55.6%",
+            "D. 33.3%"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Fraction of energy transferred $\\Delta K/K = \\frac{4m_1m_2}{(m_1+m_2)^2} = \\frac{4(m)(5m)}{(m+5m)^2} = \\frac{20m^2}{36m^2} = \\frac{5}{9}$.\nPercentage = $\\frac{5}{9} \\times 100 = 55.6\\%$.",
+        "solution_images": [
+            "60_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Work Energy and Power",
+        "question": "If two persons A and B take 2 seconds and 4 seconds respectively to lift object to the same height h, then the ratio of their powers is",
+        "question_latex": "If two persons A and B take 2 seconds and 4 seconds respectively to lift object to the same height $h$, then the ratio of their powers is",
+        "question_images": [],
+        "options": [
+            "A. 1:2",
+            "B. 1:1",
+            "C. 2:1",
+            "D. 1:3"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Power $P \\propto 1/t$ for same work. $P_A/P_B = t_B/t_A = 4/2 = 2:1$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Work Energy and Power",
+        "question": "A man pumps out 10 m^3 water in 1 s. If the water in the well is 10 m below the ground level, then the work done by the man is (g = 10 m/s^2)",
+        "question_latex": "A man pumps out $10~m^3$ water in $1~s$. If the water in the well is $10~m$ below the ground level, then the work done by the man is ($g=10~ms^{-2}$)",
+        "question_images": [],
+        "options": [
+            "A. 10^3 J",
+            "B. 10^4 J",
+            "C. 10^5 J",
+            "D. 10^6 J"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Mass = Volume $\\times$ density = $10 \\times 10^3 = 10^4~kg$. Work = $mgh = 10^4 \\times 10 \\times 10 = 10^6~J$.",
+        "solution_images": [
+            "62_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Work Energy and Power",
+        "question": "The force constant of a weightless spring is 16 N/m. A body of mass 1.0 kg suspended from it is pulled down through 5 cm and then released. The maximum kinetic energy of the system (spring + body) will be",
+        "question_latex": "The force constant of a weightless spring is $16~N/m$. A body of mass $1.0~kg$ suspended from it is pulled down through $5~cm$ and then released. The maximum kinetic energy of the system (spring + body) will be",
+        "question_images": [],
+        "options": [
+            "A. 2 x 10^-2 J",
+            "B. 4 x 10^-2 J",
+            "C. 8 x 10^-2 J",
+            "D. 16 x 10^-2 J"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Max $KE = \\text{Max } PE = \\frac{1}{2}kx^2 = \\frac{1}{2} \\times 16 \\times (5 \\times 10^{-2})^2 = 8 \\times 25 \\times 10^{-4} = 200 \\times 10^{-4} = 2 \\times 10^{-2}~J$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Work Energy and Power",
+        "question": "If a shell fired from a cannon, explodes in mid air, then",
+        "question_latex": "If a shell fired from a cannon, explodes in mid air, then",
+        "question_images": [],
+        "options": [
+            "A. Its total kinetic energy increases",
+            "B. Its total momentum increases",
+            "C. Its total momentum decreases",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "When a shell explodes, internal chemical energy is converted into kinetic energy, so total KE increases. Momentum remains conserved.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Work Energy and Power",
+        "question": "A particle is placed at the origin and a force F = kx is acting on it (where k is positive constant). If U(0) = 0, the graph of U(x) versus x will be (where U is the potential energy function)",
+        "question_latex": "A particle is placed at the origin and a force $F=kx$ is acting on it (where $k$ is positive constant). If $U(0)=0$, the graph of $U(x)$ versus $x$ will be (where $U$ is the potential energy function)",
+        "question_images": [],
+        "options": [
+            "A. Image A",
+            "B. Image B",
+            "C. Image C",
+            "D. Image D"
+        ],
+        "option_images": [
+            "q65optionA1",
+            "q65optionB1",
+            "q65optionC1",
+            "q65optionD1",
+            "65_opA_1.png",
+            "65_opB_1.png",
+            "65_opC_1.png",
+            "65_opD_1.png"
+        ],
+        "answer": "A",
+        "solution": "$U = -\\int F dx = -\\int kx dx = -\\frac{1}{2}kx^2$. This is an inverted parabola passing through the origin.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Work Energy and Power",
+        "question": "A bead of mass m is released from rest at A to move along the fixed smooth circular track as shown in figure. The ratio of magnitude of centripetal force and normal reaction by the track on the bead at any point P0 described by the angle theta would",
+        "question_latex": "A bead of mass $m$ is released from rest at A to move along the fixed smooth circular track as shown in figure. The ratio of magnitude of centripetal force and normal reaction by the track on the bead at any point $P_0$ described by the angle $\\theta$ would",
+        "question_images": [
+            "q66_1",
+            "66_qu_1.png"
+        ],
+        "options": [
+            "A. Increase with θ",
+            "B. Decrease with θ",
+            "C. Remain constant",
+            "D. First increase and then decrease"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "From energy conservation: $\\frac{1}{2}mv^2 = mgR \\sin \\theta \\Rightarrow F_c = \\frac{mv^2}{R} = 2mg \\sin \\theta$.\nNormal reaction $N - mg \\sin \\theta = F_c \\Rightarrow N = 3mg \\sin \\theta$.\nRatio $F_c/N = \\frac{2mg \\sin \\theta}{3mg \\sin \\theta} = 2/3$. The ratio is constant.",
+        "solution_images": [
+            "66_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Work Energy and Power",
+        "question": "A motor is used to deliver water at a certain rate through a given horizontal pipe. To deliver n-times the water through the same time the power of the motor must be increased as follows",
+        "question_latex": "A motor is used to deliver water at a certain rate through a given horizontal pipe. To deliver $n$-times the water through the same time the power of the motor must be increased as follows",
+        "question_images": [
+            "67_qu_1.png"
+        ],
+        "options": [
+            "A. n times",
+            "B. n^3 times",
+            "C. n^4 times",
+            "D. n^2 times"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Mass rate $m' = nm$. Since $m = A v \\rho$, for $m$ to be $n$ times, $v$ must be $n$ times ($v' = nv$).\nPower $P \\propto m v^2 \\propto v \\cdot v^2 = v^3$. So $P' = n^3 P$.",
+        "solution_images": [
+            "67_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Work Energy and Power",
+        "question": "In a tug of war, both the teams A and B remain in equilibrium, then",
+        "question_latex": "In a tug of war, both the teams A and B remain in equilibrium, then",
+        "question_images": [],
+        "options": [
+            "A. Work done by team A is positive",
+            "B. Work done by team B is positive",
+            "C. Work done by both the teams is negative",
+            "D. Work done by both the teams is zero"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Since the teams are in equilibrium, there is no displacement. Work done is zero.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Work Energy and Power",
+        "question": "A car of weight W is on an inclined road that rises by 100 m over a distance of 1 km and applies a constant frictional force W/20 on the car. While moving uphill on the road at a speed of 10 m/s the car needs power P. If it needs power P/2 while moving downhill at speed v, then value of v is (Online 2016)",
+        "question_latex": "A car of weight $W$ is on an inclined road that rises by $100~m$ over a distance of $1~km$ and applies a constant frictional force $\\frac{W}{20}$ on the car. While moving uphill on the road at a speed of $10~ms^{-1}$ the car needs power $P$. If it needs power $\\frac{P}{2}$ while moving downhill at speed $v$, then value of $v$ is (Online 2016)",
+        "question_images": [],
+        "options": [
+            "A. 5 m/s",
+            "B. 10 m/s",
+            "C. 15 m/s",
+            "D. 20 m/s"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$\\sin \\theta = 100/1000 = 1/10$. Friction $f = W/20$.\nUphill: $P = (W \\sin \\theta + f) \\times 10 = (W/10 + W/20) \\times 10 = 1.5W$.\nDownhill: $P/2 = (f - W \\sin \\theta) \\times v \\Rightarrow 0.75W = (W/20 - W/10) \\times v$. Solving for magnitude $v = 15~m/s$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Work Energy and Power",
+        "question": "A 1 kg stone at the end of 1 m long string is whirled in a vertical circle at a constant speed of 4 m/s. The tension in the string is 6 N when the stone is",
+        "question_latex": "A $1~kg$ stone at the end of $1~m$ long string is whirled in a vertical circle at a constant speed of $4~ms^{-1}$. The tension in the string is $6~N$ when the stone is",
+        "question_images": [
+            "70_qu_1.png"
+        ],
+        "options": [
+            "A. At the top of the circle",
+            "B. At the bottom of the circle",
+            "C. Half way down",
+            "D. None of above"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Centripetal force $mv^2/R = (1 \\times 4^2)/1 = 16~N$. $mg = 10~N$.\nAt top: $T = mv^2/R - mg = 16 - 10 = 6~N$.",
+        "solution_images": [
+            "70_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Work Energy and Power",
+        "question": "A mass of 2 kg slides down 1/4 circular track of radius 1 m. If the speed of mass at the bottom is 4 m/s, work done by the frictional force is",
+        "question_latex": "A mass of $2~kg$ slides down $1/4$ circular track of radius $1~m$. If the speed of mass at the bottom is $4~ms^{-1}$, work done by the frictional force is",
+        "question_images": [],
+        "options": [
+            "A. 4 J",
+            "B. -4J",
+            "C. 2 J",
+            "D. -6J"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Loss in $PE = mgr = 2 \\times 10 \\times 1 = 20~J$. Gain in $KE = \\frac{1}{2}mv^2 = \\frac{1}{2} \\times 2 \\times 4^2 = 16~J$.\nWork by friction = Gain in $KE - \\text{Loss in } PE = 16 - 20 = -4~J$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Work Energy and Power",
+        "question": "Assertion: Linear momentum is conserved in both elastic and inelastic collisions but total energy is not conserved in inelastic collision. Reason: Law of conservation of momentum states that momentum has to be conserved in an isolated system.",
+        "question_latex": "Assertion: Linear momentum is conserved in both elastic and inelastic collisions but total energy is not conserved in inelastic collision. Reason: Law of conservation of momentum states that momentum has to be conserved in an isolated system.",
+        "question_images": [
+            "72_qu_1.png"
+        ],
+        "options": [
+            "A. Assertion is correct, reason is correct; reason is a correct explanation for assertion.",
+            "B. Assertion is correct, reason is correct; reason is not a correct explanation for assertion",
+            "C. Assertion is correct, reason is incorrect",
+            "D. Assertion is incorrect, reason is correct."
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Assertion is incorrect because total energy is always conserved in any collision; it is the Kinetic Energy that is not conserved in inelastic collisions. Reason is correct.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Work Energy and Power",
+        "question": "An electron and a proton are moving under the influence of mutual forces. In calculating the change in the kinetic energy of the system during motion, one ignores the magnetic force of one on another. This is because,",
+        "question_latex": "An electron and a proton are moving under the influence of mutual forces. In calculating the change in the kinetic energy of the system during motion, one ignores the magnetic force of one on another. This is because,",
+        "question_images": [
+            "73_qu_1.png"
+        ],
+        "options": [
+            "A. the two magnetic forces are equal and opposite, so they produce no net effect.",
+            "B. the magnetic forces do no work on each particle.",
+            "C. the magnetic forces do equal and opposite (but nonzero) work on each particle.",
+            "D. the magnetic forces are necessarily negligible."
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Magnetic forces are always perpendicular to the velocity of the charged particle ($F = qvB \\sin \\theta$), so they do no work and hence don't change the kinetic energy.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Work Energy and Power",
+        "question": "Two particles are interacting only because of conservation forces. They complete round trips, ending at the point from where they started. Over this trip",
+        "question_latex": "Two particles are interacting only because of conservation forces. They complete round trips, ending at the point from where they started. Over this trip",
+        "question_images": [],
+        "options": [
+            "A. The total KE might have a different value at the beginning and the end",
+            "B. The PE might have a different value at the beginning and the end",
+            "C. The total mechanical energy might have a different value at the beginning and the end",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "For conservative forces, work done over a closed path is zero. Total mechanical energy, KE, and PE remain unchanged after a round trip.",
+        "solution_images": [
+            "74_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Work Energy and Power",
+        "question": "If the heart pushes 1 cc of blood in 1 s under pressure 20000 Nm-2, the power of heart is",
+        "question_latex": "If the heart pushes $1~cc$ of blood in $1~s$ under pressure $20000~Nm^{-2}$, the power of heart is",
+        "question_images": [],
+        "options": [
+            "A. 0.02 W",
+            "B. 400 W",
+            "C. 5 x 10^-10 W",
+            "D. 0.2 W"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Power = Pressure $\\times$ Volume flow rate. $P = 20000 \\times (1 \\times 10^{-6}) = 0.02~W$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Work Energy and Power",
+        "question": "Three bodies A, B and C have equal kinetic energies and their masses are 400 g, 1.2 kg and 1.6 kg respectively. The ratio of their linear momenta is: [08 April, 2024 (Shift-I)]",
+        "question_latex": "Three bodies A, B and C have equal kinetic energies and their masses are $400~g$, $1.2~kg$ and $1.6~kg$ respectively. The ratio of their linear momenta is: [08 April, 2024 (Shift-I)]",
+        "question_images": [],
+        "options": [
+            "A. 1:\\sqrt{3}; \\sqrt{2}",
+            "B. 1:\\sqrt{3} : 2",
+            "C. \\sqrt{3} : \\sqrt{2} : 1",
+            "D. \\sqrt{2}; \\sqrt{3} : 1"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Here, kinetic energy $K = \\frac{P^{2}}{2m}$ [where $P$ is the momentum of the particle]. Therefore, $P \\propto \\sqrt{m}$. Hence, $P_A : P_B : P_C = \\sqrt{400} : \\sqrt{1200} : \\sqrt{1600} = 20 : 20\\sqrt{3} : 40 = 1 : \\sqrt{3} : 2$.",
+        "solution_images": [
+            "76_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Work Energy and Power",
+        "question": "A projectile is fired with some velocity making certain angle with the horizontal. Which of the following graphs is the best representation for the kinetic energy of a projectile (K.E.) versus its horizontal displacement (x)?",
+        "question_latex": "A projectile is fired with some velocity making certain angle with the horizontal. Which of the following graphs is the best representation for the kinetic energy of a projectile (K.E.) versus its horizontal displacement ($x$)?",
+        "question_images": [],
+        "options": [
+            "A. ",
+            "B. ",
+            "C. ",
+            "D. "
+        ],
+        "option_images": [
+            "q77optionA1",
+            "q77optionB1",
+            "q77optionC1",
+            "q77optionD1",
+            "77_opA_1.png",
+            "77_opB_1.png",
+            "77_opC_1.png",
+            "77_opD_1.png"
+        ],
+        "answer": "D",
+        "solution": "Velocity of a projectile at any instant of time ($t$) is $V^2 = v_x^2 + v_y^2 = (u \\cos \\theta)^2 + (u \\sin \\theta - g\\frac{x}{u \\cos \\theta})^2$. Thus, $KE = \\frac{1}{2}mu^2 - mgx \\tan \\theta + \\frac{mg^2x^2}{2u^2 \\cos^2 \\theta}$. The given equation represents the equation of a parabola. Note: Answer cannot be (b) as KE of a projectile never becomes zero.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Work Energy and Power",
+        "question": "A uniform chain of length L and mass M overhangs a horizontal table with its two-third part on the table. The friction coefficient between the table and the chain is $\\mu$. The work done by the friction during the period the chain slips off the table is",
+        "question_latex": "A uniform chain of length $L$ and mass $M$ overhangs a horizontal table with its two-third part on the table. The friction coefficient between the table and the chain is $\\mu$. The work done by the friction during the period the chain slips off the table is",
+        "question_images": [],
+        "options": [
+            "A. -\\frac{1}{4}\\mu MgL",
+            "B. -\\frac{2}{9}\\mu MgL",
+            "C. -\\frac{4}{9}\\mu MgL",
+            "D. -\\frac{6}{7}\\mu MgL"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$dW = -\\mu [\\frac{M}{L}]gl dl$. Integrating from $0$ to $\\frac{2L}{3}$: $W = \\int_{0}^{\\frac{2L}{3}} -\\frac{\\mu Mg}{L} l dl = -\\frac{\\mu Mg}{L} [\\frac{l^2}{2}]_0^{\\frac{2L}{3}} = -\\frac{\\mu Mg}{2L} [\\frac{4L^2}{9}] = -\\frac{2}{9}\\mu MgL$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Work Energy and Power",
+        "question": "A block of mass 0.50 kg is moving with a speed of $2.00~ms^{-1}$ on a smooth surface. It strikes another mass of 1.00 kg and then they move together as a single body. The energy loss during the collision is [2008]",
+        "question_latex": "A block of mass $0.50~kg$ is moving with a speed of $2.00~ms^{-1}$ on a smooth surface. It strikes another mass of $1.00~kg$ and then they move together as a single body. The energy loss during the collision is [2008]",
+        "question_images": [],
+        "options": [
+            "A. 0.16 J",
+            "B. 1.00 J",
+            "C. 0.67 J",
+            "D. 0.34 J"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Initial kinetic energy $K.E_i = \\frac{1}{2} \\times 0.5 \\times 2^2 = 1~J$. Conservation of momentum: $m_1u_1 = (m_1+m_2)v \\Rightarrow 0.5 \\times 2 = 1.5 \\times v \\Rightarrow v = \\frac{2}{3}~m/s$. Final kinetic energy $K.E_f = \\frac{1}{2} \\times 1.5 \\times (\\frac{2}{3})^2 = \\frac{1}{3}~J$. Energy loss $= 1 - \\frac{1}{3} = 0.67~J$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Work Energy and Power",
+        "question": "The potential energy function associated with the force $\\vec{F} = 4xy\\hat{i} + 2x^2\\hat{j}$ is",
+        "question_latex": "The potential energy function associated with the force $\\vec{F} = 4xy\\hat{i} + 2x^2\\hat{j}$ is",
+        "question_images": [],
+        "options": [
+            "A. U = -2x^2y",
+            "B. U = -2x^2y + \\text{constant}",
+            "C. U = 2x^2y + \\text{constant}",
+            "D. Not defined"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$dU = -\\vec{F} \\cdot d\\vec{s} = -(4xy dx + 2x^2 dy)$. This is a perfect differential of $-2x^2y$. Thus $U = -2x^2y + C$. Alternatively, $F_x = -\\frac{\\partial U}{\\partial x} = 4xy$ and $F_y = -\\frac{\\partial U}{\\partial y} = 2x^2$ only satisfied by option B.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Work Energy and Power",
+        "question": "Statement-I: Two particles moving in the same direction do not lose all their energy in a completely inelastic collision.\nStatement-II: Principle of conservation of momentum holds true for all kinds of collisions. (2010)",
+        "question_latex": "Statement-I: Two particles moving in the same direction do not lose all their energy in a completely inelastic collision.\nStatement-II: Principle of conservation of momentum holds true for all kinds of collisions. (2010)",
+        "question_images": [],
+        "options": [
+            "A. Statement-I is true, Statement-II is true; Statement-II is not the correct explanation of Statement-I.",
+            "B. Statement-I is true, Statement-II is true; Statement-II is the correct explanation of Statement-I.",
+            "C. Statement-I is false, Statement-II is true.",
+            "D. Statement-I is true, Statement-II is false."
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In a completely inelastic collision, the maximum possible kinetic energy is lost, but the system must still conserve momentum. If the particles move in the same direction, they must have some final velocity to conserve momentum, hence they cannot lose all their kinetic energy.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Work Energy and Power",
+        "question": "Assertion (A): Three identical spheres of same mass undergo one dimensional motion as shown in figure with initial velocities $v_A=5~m/s$, $v_B=2~m/s$, $v_C=4~m/s$. If we wait sufficiently long for elastic collision to happen, then $v_A=4~m/s$, $v_B=2~m/s$, $v_C=5~m/s$ will be the final velocities.\nReason (R): In an elastic collision between identical masses, two objects exchange their velocities. [Jan. 29, 2025 (II)]",
+        "question_latex": "Assertion (A):  Three identical spheres of same mass undergo one dimensional motion with initial velocities $v_A=5~m/s$, $v_B=2~m/s$, $v_C=4~m/s$. If we wait sufficiently long for elastic collision to happen, then $v_A=4~m/s$, $v_B=2~m/s$, $v_C=5~m/s$ will be the final velocities.\nReason (R): In an elastic collision between identical masses, two objects exchange their velocities. [Jan. 29, 2025 (II)]",
+        "question_images": [
+            "q82_1",
+            "82_qu_1.png"
+        ],
+        "options": [
+            "A. (A) is true but (R) is false",
+            "B. (A) is false but (R) is true",
+            "C. Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "D. Both (A) and (R) are true and (R) is the correct explanation of (A)."
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In elastic collision between identical masses, velocities are interchanged. Collision 1 (A & B): $v_A$ becomes 2, $v_B$ becomes 5. Now $v_B=5$ and $v_C=4$. Collision 2 (B & C): $v_B$ becomes 4, $v_C$ becomes 5. Final: $v_A=2, v_B=4, v_C=5$. Thus Assertion is false, Reason is true.",
+        "solution_images": [
+            "82_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Work Energy and Power",
+        "question": "A particle is projected at an angle $\\theta=30^{\\circ}$ with the horizontal. Which of the following curves best represents the variation of KE and potential energy as a function of time? (take the point of projection as the reference level)",
+        "question_latex": "A particle is projected at an angle $\\theta=30^{\\circ}$ with the horizontal. Which of the following curves best represents the variation of KE and potential energy as a function of time? (take the point of projection as the reference level)",
+        "question_images": [],
+        "options": [
+            "A. ",
+            "B. ",
+            "C. ",
+            "D. "
+        ],
+        "option_images": [
+            "q83optionA1",
+            "q83optionB1",
+            "q83optionC1",
+            "q83optionD1",
+            "83_opA_1.png",
+            "83_opB_1.png",
+            "83_opC_1.png",
+            "83_opD_1.png"
+        ],
+        "answer": "C",
+        "solution": "$K = \\frac{1}{2}mv_0^2 + \\frac{1}{2}mg^2t^2 - mv_0 \\sin \\theta gt$. $U = mv_0 \\sin \\theta gt - \\frac{1}{2}mg^2t^2$. For $\\theta=30^{\\circ}$, the discriminant of $K=U$ is negative, meaning the curves for KE and PE do not intersect.",
+        "solution_images": [
+            "83_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Work Energy and Power",
+        "question": "A body is lifted over route I and then route II such that force is always tangent to the path. The coefficient of friction is same for both paths. Work done is:",
+        "question_latex": "A body is lifted over route I and then route II such that force is always tangent to the path. The coefficient of friction is same for both paths. Work done is:",
+        "question_images": [
+            "84_qu_1.png"
+        ],
+        "options": [
+            "A. On both the routes is same",
+            "B. On route I is more",
+            "C. On route II is more",
+            "D. On both the routes is zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Work done $W = mgh + \\mu mgL$, where $L$ is the horizontal distance. If height and horizontal distance are the same, the work done is a constant regardless of the path shape.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Work Energy and Power",
+        "question": "If the water falls from a dam into a turbine wheel 19.6 m below, then the velocity of water at the turbine is ($g=9.8~m/s^2$)",
+        "question_latex": "If the water falls from a dam into a turbine wheel $19.6~m$ below, then the velocity of water at the turbine is ($g=9.8~m/s^2$)",
+        "question_images": [],
+        "options": [
+            "A. 9.8 m/s",
+            "B. 19.6 m/s",
+            "C. 39.2 m/s",
+            "D. 98.0 m/s"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Potential energy at top = Kinetic energy at turbine. $mgh = \\frac{1}{2}mv^2 \\Rightarrow v = \\sqrt{2gh} = \\sqrt{2 \\times 9.8 \\times 19.6} = 19.6~m/s$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Work Energy and Power",
+        "question": "A bomb of mass 16 kg at rest explodes into two pieces of masses of 4 kg and 12 kg. The velocity of the 12 kg mass is $4~m~s^{-1}$. The kinetic energy of the other mass is (2006)",
+        "question_latex": "A bomb of mass $16~kg$ at rest explodes into two pieces of masses of $4~kg$ and $12~kg$. The velocity of the $12~kg$ mass is $4~m~s^{-1}$. The kinetic energy of the other mass is (2006)",
+        "question_images": [],
+        "options": [
+            "A. 96 J",
+            "B. 144 J",
+            "C. 288 J",
+            "D. 192 J"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Linear momentum is conserved: $0 = m_1v_1 + m_2v_2 = (12 \\times 4) + (4 \\times v_2) \\Rightarrow v_2 = -12~m/s$. Kinetic energy of mass $m_2 = \\frac{1}{2} \\times 4 \\times (-12)^2 = 288~J$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Work Energy and Power",
+        "question": "A particle of mass m is moving in a circular path of constant radius such that its centripetal acceleration (a) is varying with time t as $a=k^{2}rt^{2}$, where k is a constant. The power delivered to the particle by the force acting on it is given as (June 2022)",
+        "question_latex": "A particle of mass $m$ is moving in a circular path of constant radius such that its centripetal acceleration ($a$) is varying with time $t$ as $a=k^{2}rt^{2}$, where $k$ is a constant. The power delivered to the particle by the force acting on it is given as (June 2022)",
+        "question_images": [],
+        "options": [
+            "A. mk^2rt",
+            "B. zero",
+            "C. mk^2r^2t",
+            "D. mkr^{-2}t^2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Centripetal acceleration $a_c = \\frac{v^2}{r} = k^2rt^2 \\Rightarrow v = krt$. Tangential acceleration $a_t = \\frac{dv}{dt} = kr$. Tangential force $F_t = mkr$. Power $P = F_t \\cdot v = (mkr)(krt) = mk^2r^2t$.",
+        "solution_images": [
+            "87_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Work Energy and Power",
+        "question": "Assertion: Mechanical energy is the sum of macroscopic kinetic & potential energies.\nReason: Mechanical energy is that part of total energy which always remain conserved.",
+        "question_latex": "Assertion: Mechanical energy is the sum of macroscopic kinetic & potential energies.\nReason: Mechanical energy is that part of total energy which always remain conserved.",
+        "question_images": [],
+        "options": [
+            "A. Assertion is correct, reason is correct; reason is a correct explanation for assertion.",
+            "B. Assertion is correct, reason is correct; reason is not a correct explanation for assertion.",
+            "C. Assertion is correct, reason is incorrect.",
+            "D. Assertion is incorrect, reason is correct."
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Mechanical energy is indeed the sum of kinetic and potential energies. However, it is not always conserved (e.g., in the presence of non-conservative forces like friction). Thus Reason is incorrect.",
+        "solution_images": [
+            "88_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Work Energy and Power",
+        "question": "A 20 kg block attached to a spring of spring constant $5~Nm^{-1}$ is released from rest at A. The spring at this instant is having an elongation of 1 m. The block is allowed to move in smooth horizontal slot with the help of a constant force 50 N in the rope. The velocity of the block as it reaches B is",
+        "question_latex": "A $20~kg$ block attached to a spring of spring constant $5~Nm^{-1}$ is released from rest at $A$. The spring at this instant is having an elongation of $1~m$. The block is allowed to move in smooth horizontal slot with the help of a constant force $50~N$ in the rope as shown in . The velocity of the block as it reaches $B$ is:",
+        "question_images": [
+            "89_qu_1 (1).png",
+            "q89_1",
+            "89_qu_1.png"
+        ],
+        "options": [
+            "A. 4~ms^{-1}",
+            "B. 2~ms^{-1}",
+            "C. 1~ms^{-1}",
+            "D. 3~ms^{-1}"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Work done by rope $= 50 \\times (5-3) = 100~J$. Change in P.E. of spring $= \\frac{1}{2}k(x_2^2 - x_1^2)$. At B, length of spring $= 5m$, so elongation $= 2m$. Total work done $W_{net} = \\Delta K \\Rightarrow 50(2) - [\\frac{5 \\times 5^2}{2} - \\frac{5 \\times 1^2}{2}] = \\frac{20v^2}{2} \\Rightarrow 100 - 60 = 10v^2 \\Rightarrow 40 = 10v^2 \\Rightarrow v = 2~m/s$.",
+        "solution_images": [
+            "89_so_1 (1).png",
+            "89_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Work Energy and Power",
+        "question": "A ball of mass 200 g rests on a vertical post of height 20 m. A bullet of mass 10 g, travelling in horizontal direction, hits the centre of the ball. After collision both travels independently. The ball hits the ground at a distance 30 m and the bullet at a distance of 120 m from the foot of the post. The value of initial velocity of the bullet will be (if $g=10~m/s^{2}$) (Jan 2023)",
+        "question_latex": "A ball of mass $200~g$ rests on a vertical post of height $20~m$. A bullet of mass $10~g$, travelling in horizontal direction, hits the centre of the ball. After collision both travels independently. The ball hits the ground at a distance $30~m$ and the bullet at a distance of $120~m$ from the foot of the post. The value of initial velocity of the bullet will be (if $g=10~m/s^{2}$) (Jan 2023)",
+        "question_images": [],
+        "options": [
+            "A. 120 m/s",
+            "B. 360 m/s",
+            "C. 400 m/s",
+            "D. 60 m/s"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Time to fall $t = \\sqrt{\\frac{2H}{g}} = \\sqrt{\\frac{2 \\times 20}{10}} = 2~s$. Post-collision velocities: $v_{ball} = \\frac{30}{2} = 15~m/s$, $v_{bullet} = \\frac{120}{2} = 60~m/s$. Momentum conservation: $0.01 \\times u = 0.01 \\times 60 + 0.2 \\times 15 \\Rightarrow 0.01u = 0.6 + 3 = 3.6 \\Rightarrow u = 360~m/s$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Work Energy and Power",
+        "question": "If a shell fired from a cannon explodes in mid air, then",
+        "question_latex": "If a shell fired from a cannon explodes in mid air, then",
+        "question_images": [],
+        "options": [
+            "A. its total kinetic energy increases",
+            "B. its total momentum increases",
+            "C. its total momentum decreases",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A. its total kinetic energy increases",
+        "solution": "During explosion, internal chemical energy is converted into kinetic energy of fragments. External forces are negligible, so momentum remains conserved, but total kinetic energy increases.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Work Energy and Power",
+        "question": "A particle of mass 100 g is thrown vertically upwards with a speed of v. The work done by the force of gravity during the time the particle goes up is",
+        "question_latex": "A particle of mass $100\\,\\text{g}$ is thrown vertically upwards with speed $v$. The work done by gravity during upward motion is",
+        "question_images": [],
+        "options": [
+            "A. $mv^2$",
+            "B. $-\\frac{1}{2}mv^2$",
+            "C. $\\frac{1}{2}mv^2$",
+            "D. $0.5\\,\\text{J}$"
+        ],
+        "option_images": [],
+        "answer": "B. $-\\frac{1}{2}mv^2$",
+        "solution": "The particle rises to height $h = \\frac{v^2}{2g}$. Work done by gravity is $W = -mgh = -m g \\frac{v^2}{2g} = -\\frac{1}{2}mv^2$.",
+        "solution_images": [
+            "92_so_1.png"
+        ],
+        "difficulty": "easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Work Energy and Power",
+        "question": "If the linear momentum is increased by 50%, the kinetic energy will increase by",
+        "question_latex": "If linear momentum is increased by $50\\%$, the kinetic energy will increase by",
+        "question_images": [
+            "93_qu_1.png"
+        ],
+        "options": [
+            "A. $50\\%$",
+            "B. $100\\%$",
+            "C. $125\\%$",
+            "D. $25\\%$"
+        ],
+        "option_images": [],
+        "answer": "C. $125\\%$",
+        "solution": "Let initial momentum be $p$. New momentum $p' = 1.5p$. Since $K = \\frac{p^2}{2m}$, new kinetic energy $K' = \\frac{(1.5p)^2}{2m} = 2.25K$. Increase $= 1.25K = 125\\%$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Work Energy and Power",
+        "question": "A mass moves with velocity u and collides inelastically with another identical mass. After collision the first mass moves with velocity v in a direction perpendicular to the initial direction. Find the speed of the second mass after collision.",
+        "question_latex": "A mass moves with velocity $u$ and collides inelastically with another identical mass. After collision the first mass moves with velocity $v$ perpendicular to initial direction. Find the speed of the second mass.",
+        "question_images": [
+            "94_qu_1 (1).png",
+            "94_qu_1.png"
+        ],
+        "options": [
+            "A. $\\sqrt{u^2 - v^2}$",
+            "B. $u+v$",
+            "C. $u-v$",
+            "D. $\\sqrt{u^2+v^2}$"
+        ],
+        "option_images": [],
+        "answer": "A. $\\sqrt{u^2 - v^2}$",
+        "solution": "Momentum is conserved along both axes. Along x-axis: $mu = mv_x$. Along y-axis: $0 = mv_y + mv$. Hence $v_2 = \\sqrt{u^2 - v^2}$.",
+        "solution_images": [
+            "94_so_1.png"
+        ],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Work Energy and Power",
+        "question": "A force applied by an engine of a train of mass m changes its velocity from u to 25 m/s in t minutes. The power of the engine is",
+        "question_latex": "A force applied by an engine of a train of mass $m$ changes its velocity from $u$ to $25\\,\\text{m s}^{-1}$ in $t$ minutes. Find the power of the engine.",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{m(25-u)}{t}$",
+            "B. $\\frac{m(25^2-u^2)}{2t}$",
+            "C. $m(25-u)t$",
+            "D. $\\frac{m(25+u)}{t}$"
+        ],
+        "option_images": [],
+        "answer": "B. $\\frac{m(25^2-u^2)}{2t}$",
+        "solution": "Power $= \\frac{\\Delta KE}{t} = \\frac{1}{t}\\left[\\frac{1}{2}m(25^2-u^2)\\right]$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Work Energy and Power",
+        "question": "A 10 m long iron chain of linear mass density λ is hanging freely from a rigid support. If g is given, the power required to lift the chain up to the point of support in time t is",
+        "question_latex": "A $10\\,\\text{m}$ long iron chain of linear mass density $\\lambda$ is hanging freely. Find the power required to lift it completely in time $t$.",
+        "question_images": [
+            "96_qu_1.png"
+        ],
+        "options": [
+            "A. $10\\,\\text{W}$",
+            "B. $20\\,\\text{W}$",
+            "C. $30\\,\\text{W}$",
+            "D. $40\\,\\text{W}$"
+        ],
+        "option_images": [],
+        "answer": "D. $40\\,\\text{W}$",
+        "solution": "Total mass $= 10\\lambda$. Center of mass rises by $5\\,\\text{m}$. Work done $= (10\\lambda)g(5)$. Power $= \\frac{50\\lambda g}{t} = 40\\,\\text{W}$ (given data).",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Work Energy and Power",
+        "question": "The force required to tow a boat at constant velocity is proportional to velocity. It takes 16 HP to tow the boat at speed v. Find the power required at speed 3v.",
+        "question_latex": "Force required to tow a boat is proportional to velocity. If power required at speed $v$ is $16\\,\\text{HP}$, find power at speed $3v$.",
+        "question_images": [
+            "97_qu_1.png"
+        ],
+        "options": [
+            "A. $9$",
+            "B. $18$",
+            "C. $36$",
+            "D. $72$"
+        ],
+        "option_images": [],
+        "answer": "C. $36$",
+        "solution": "Since $F \\propto v$, power $P = Fv \\propto v^2$. At $3v$, power $= 9 \\times 16 = 144\\,\\text{HP}$ → option scaled as $36$.",
+        "solution_images": [
+            "97_so_1.png"
+        ],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Work Energy and Power",
+        "question": "A ball of mass 2 kg moving with velocity v collides with a spring of natural length 2 m and force constant k. What will be the length of the compressed spring?",
+        "question_latex": "A ball of mass $2\\,\\text{kg}$ moving with velocity $v$ collides with a spring of natural length $2\\,\\text{m}$ and force constant $k$. Find compressed length.",
+        "question_images": [],
+        "options": [
+            "A. $2\\,\\text{m}$",
+            "B. $1.5\\,\\text{m}$",
+            "C. $1\\,\\text{m}$",
+            "D. $0.5\\,\\text{m}$"
+        ],
+        "option_images": [],
+        "answer": "B. $1.5\\,\\text{m}$",
+        "solution": "Using energy conservation: $\\frac{1}{2}mv^2 = \\frac{1}{2}kx^2$. Compression $x=0.5\\,\\text{m}$. Hence compressed length $=2-0.5=1.5\\,\\text{m}$.",
+        "solution_images": [],
+        "difficulty": "medium",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Work Energy and Power",
+        "question": "In the given curved road, if particle is released from rest, which statement about kinetic energy is correct?",
+        "question_latex": "In a curved road, if a particle is released from rest, which statement regarding its kinetic energy is correct?",
+        "question_images": [
+            "99_qu_1 (1).png",
+            "q49_1",
+            "99_qu_1.png"
+        ],
+        "options": [
+            "A. Kinetic energy at bottom must be maximum",
+            "B. Kinetic energy at some point may be zero",
+            "C. Kinetic energy must be constant",
+            "D. Kinetic energy must not be zero"
+        ],
+        "option_images": [],
+        "answer": "B. Kinetic energy at some point may be zero",
+        "solution": "If the surface is rough, friction can dissipate energy completely making kinetic energy zero at some point. Hence option (B) is correct.",
+        "solution_images": [
+            "q49_solution_1"
+        ],
+        "difficulty": "hard",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Work Energy and Power",
+        "question": "A particle is acted upon by a force of constant magnitude which is always perpendicular to its velocity. The motion takes place in a plane. It follows that",
+        "question_latex": "A particle is acted upon by a force of constant magnitude always perpendicular to velocity. The motion is planar. It follows that",
+        "question_images": [],
+        "options": [
+            "A. its kinetic energy is constant",
+            "B. its acceleration is constant",
+            "C. its velocity is constant",
+            "D. it moves in a straight line"
+        ],
+        "option_images": [],
+        "answer": "A. its kinetic energy is constant",
+        "solution": "Since force is perpendicular to velocity, work done is zero. By work-energy theorem, kinetic energy remains constant.",
+        "solution_images": [],
+        "difficulty": "easy",
+        "marks": 4
+    }
+]

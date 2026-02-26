@@ -42,19 +42,12 @@ const LoginPage = () => {
         }
       );
 
-      api.interceptors.response.use(
-        (response) => response, // Pass through successful responses
-        (error) => {
-          if (error.response && (error.response.status === 401 || error.response.status === 403)) {
-            // 1. Clear local storage/state
-            localStorage.removeItem('user_data');
+      // Redundant interceptor removed (handled globally in api.js)
 
-            // 2. Redirect to login
-            window.location.href = '/login-page';
-          }
-          return Promise.reject(error);
-        }
-      );
+      if (response.status === 204) {
+        return { success: true }; // Mock success object for 204 No Content
+      }
+      return response.data;
 
       return response.data;
     } catch (err) {
@@ -101,10 +94,14 @@ const LoginPage = () => {
       return; // Stop if login failed
     }
 
-    // Save token
+    // Save token or set cookie-auth flag
     if (userData.token) {
       localStorage.setItem("Admin_Token", userData.token);
       setAdminAuthToken(userData.token);
+    } else {
+      // 💡 If no token (e.g. 204 response / cookie-only auth), set the flag so ProtectedRoute passes
+      localStorage.setItem("isAuthenticated", "true");
+      setAdminAuthToken("cookie-auth");
     }
 
     // 💡 NEW: Save Class Name and Watermark

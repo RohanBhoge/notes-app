@@ -1,0 +1,1916 @@
+[
+    {
+        "id": 1,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The specific resistance $\\rho$ of a circular wire of radius $r$, resistance $R$, and length $l$ is given by $\\rho=\\frac{\\pi r^{2}R}{l}$. Given: $r=0.24\\pm0.02$ cm, $R=30\\pm1\\ \\Omega$ and $l=4.80\\pm0.01$ cm. The percentage error in $\\rho$ is nearly",
+        "question_latex": "The specific resistance $\\rho$ of a circular wire of radius $r$, resistance $R$, and length $l$ is given by $\\rho=\\frac{\\pi r^{2}R}{l}$. Given: $r=0.24\\pm0.02$ cm, $R=30\\pm1\\ \\Omega$ and $l=4.80\\pm0.01$ cm. The percentage error in $\\rho$ is nearly",
+        "question_images": [],
+        "options": [
+            "A. 7%",
+            "B. 9%",
+            "C. 13%",
+            "D. 20%"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Required percentage error in $\\rho$ is given by: $$\\frac{\\Delta \\rho}{\\rho} \\times 100 = \\left( 2\\frac{\\Delta r}{r} + \\frac{\\Delta R}{R} + \\frac{\\Delta l}{l} \\right) \\times 100$$ Substituting the values: $$= 2 \\times \\frac{0.02}{0.24} \\times 100 + \\frac{1}{30} \\times 100 + \\frac{0.01}{4.80} \\times 100$$ $$= 16.7 + 3.3 + 0.2 = 20\\%$$ [cite: 11, 12, 14]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Second is defined in terms of periods of radiation from Cesium 133 because",
+        "question_latex": "Second is defined in terms of periods of radiation from Cesium 133 because",
+        "question_images": [],
+        "options": [
+            "A. it is not affected by the change of place",
+            "B. it is not affected by the change of time",
+            "C. it is not affected by the change of Physical conditions",
+            "D. All of these."
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The definition of a second based on Cesium 133 radiation is preferred because it remains constant regardless of changes in place, time, or physical conditions. [cite: 15, 16, 17, 18]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The dimensional formula for the magnetic field is",
+        "question_latex": "The dimensional formula for the magnetic field is",
+        "question_images": [],
+        "options": [
+            "A. $[MT^{-2}A^{-1}]$ ",
+            "B. $[ML^{2}T^{-1}A^{-2}]$ ",
+            "C. $[MT^{-2}A^{-2}]$ ",
+            "D. $[MT^{-1}A^{-2}]$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Magnetic field $B = \\frac{\\text{Force}}{\\text{Charge} \\times \\text{velocity}}$ $$= \\frac{[MLT^{-2}]}{[AT][LT^{-1}]} = [MA^{-1}T^{-2}]$$ [cite: 21, 24, 25, 26, 27]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "A highly rigid cubical block A of small mass $M$ and side $L$ is fixed rigidly on the other cubical block B of same dimensions and of modulus of rigidity $\\eta$ such that the lower face of A completely covers the upper face of B. The lower face of B is rigidly held on a horizontal surface. A small force $F$ is applied perpendicular to one of the side faces of A. After the force is withdrawn, block A executes small oscillations, the time period of which is given by",
+        "question_latex": "A highly rigid cubical block A of small mass $M$ and side $L$ is fixed rigidly on the other cubical block B of same dimensions and of modulus of rigidity $\\eta$ such that the lower face of A completely covers the upper face of B. The lower face of B is rigidly held on a horizontal surface. A small force $F$ is applied perpendicular to one of the side faces of A. After the force is withdrawn, block A executes small oscillations, the time period of which is given by",
+        "question_images": [],
+        "options": [
+            "A. $2\\pi\\sqrt{M\\eta L}$",
+            "B. $2\\pi\\sqrt{M\\eta/L}$",
+            "C. $2\\pi\\sqrt{ML/\\eta}$",
+            "D. $2\\pi\\sqrt{M/\\eta L}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Dimensional analysis: $[\\eta] = [ML^{-1}T^{-2}]$. Testing option D: $$[\\sqrt{\\frac{M}{\\eta L}}] = \\sqrt{\\frac{[M]}{[ML^{-1}T^{-2}][L]}} = \\sqrt{[T^2]} = [T]$$ Thus, $T = 2\\pi\\sqrt{M/\\eta L}$. [cite: 28, 29, 31, 33, 34]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Which one of the following is the smallest unit?",
+        "question_latex": "Which one of the following is the smallest unit?",
+        "question_images": [],
+        "options": [
+            "A. millimetre",
+            "B. fermi",
+            "C. angstrom",
+            "D. metre"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "1 millimetre = $10^{-3}$ m, 1 Angstrom = $10^{-10}$ m, 1 fermi = $10^{-15}$ m. Therefore, fermi is the smallest unit. [Note: Source 36 says C but Source 37 correctly identifies 1 fermi = $10^{-15}$ m, making B the correct scientific answer]. [cite: 35, 37]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The scientific principle involves in production of ultra high magnetic fields is",
+        "question_latex": "The scientific principle involves in production of ultra high magnetic fields is",
+        "question_images": [],
+        "options": [
+            "A. super conductivity",
+            "B. digital logic",
+            "C. photoelectric effect",
+            "D. laws of thermodynamics"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The production of ultra high magnetic fields is based on the principle of superconductivity. [cite: 38, 39]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Match the Column I and Column II.\nColumn I:\n(A) Johannes Kepler\n(B) Tycho Brahe\n(C) Nicolas Copernicus\n(D) Ernest Rutherford\nColumn II:\n(1) Nuclear model of the atom\n(2) Planetary motion\n(3) Elliptical orbit theory\n(4) Circular orbit theory",
+        "question_latex": "Match the Column I and Column II.\nColumn I:\n(A) Johannes Kepler\n(B) Tycho Brahe\n(C) Nicolas Copernicus\n(D) Ernest Rutherford\nColumn II:\n(1) Nuclear model of the atom\n(2) Planetary motion\n(3) Elliptical orbit theory\n(4) Circular orbit theory",
+        "question_images": [
+            "7_qu_1.png"
+        ],
+        "options": [
+            "A. (A)→(2), (B)→(3), (C)→(4), (D)→(1)",
+            "B. (A)→(1), (B)→(2), (C)→(3), (D)→(4)",
+            "C. (A)→(2), (B)→(1), (C)→(4), (D)→(3)",
+            "D. (A)→(3), (B)→(2), (C)→(4), (D)→(1)"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Johannes Kepler developed elliptical orbit theory (A-3) based on Tycho Brahe's planetary motion data (B-2). Nicolas Copernicus proposed circular orbits in heliocentric theory (C-4), and Ernest Rutherford proposed the nuclear model of the atom (D-1). [cite: 41-53]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The effective length of a simple pendulum is the sum of the following three: Length of string, radius of bob, and length of hook. In a simple pendulum experiment, the length of the string is 92.0 cm and the radius of the bob combined with the length of the hook is 2.15 cm. The effective length of the pendulum is",
+        "question_latex": "The effective length of a simple pendulum is the sum of the following three: Length of string, radius of bob, and length of hook. In a simple pendulum experiment, the length of the string is 92.0 cm and the radius of the bob combined with the length of the hook is 2.15 cm. The effective length of the pendulum is",
+        "question_images": [],
+        "options": [
+            "A. 94.1 cm",
+            "B. 94.2 cm",
+            "C. 94.15 cm",
+            "D. 94 cm"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Effective length = $92.0\\text{ cm} + 2.15\\text{ cm} = 94.15\\text{ cm}$. In addition, the least precise measurement ($92.0$) has one decimal place. Rounding off $94.15$ to one decimal place gives $94.2\\text{ cm}$. [cite: 54, 55, 59]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Dimensional formula for volume elasticity is",
+        "question_latex": "Dimensional formula for volume elasticity is",
+        "question_images": [],
+        "options": [
+            "A. $M^{1}L^{-2}T^{-2}$",
+            "B. $M^{1}L^{-3}T^{-2}$",
+            "C. $M^{1}L^{2}T^{-2}$",
+            "D. $M^{1}L^{-1}T^{-2}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Volume elasticity = $\\frac{\\text{Force/Area}}{\\text{volume strain}}$. Since strain is dimensionless: $$= \\frac{\\text{Force}}{\\text{Area}} = \\frac{[MLT^{-2}]}{[L^{2}]} = [ML^{-1}T^{-2}]$$ [cite: 60, 63]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The characteristic distance at which quantum gravitational effects are significant, the Planck length, can be determined from a suitable combination of the fundamental physical constants $G$, $\\hbar$ and $c$. Which of the following correctly gives the Planck length?",
+        "question_latex": "The characteristic distance at which quantum gravitational effects are significant, the Planck length, can be determined from a suitable combination of the fundamental physical constants $G$, $\\hbar$ and $c$. Which of the following correctly gives the Planck length?",
+        "question_images": [],
+        "options": [
+            "A. $(G\\hbar^{2}c^{3})^{1/2}$ ",
+            "B. $(G^{1/2}\\hbar^{2}c)^{1/2}$ ",
+            "C. $(\\frac{G\\hbar}{c^{3}})^{1/2}$ ",
+            "D. $(G^{2}\\hbar c)^{1/2}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Planck length $l_p$ is given by the combination $\\sqrt{\\frac{G\\hbar}{c^3}}$. [cite: 64, 65, 67, 68]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The percentage errors in quantities $P$, $Q$, $R$ and $S$ are $0.5\\%$, $1\\%$, $3\\%$ and $1.5\\%$ respectively in the measurement of a physical quantity $A = \\frac{P^{3}Q^{2}}{\\sqrt{R}S}$. The maximum percentage error in the value of $A$ will be",
+        "question_latex": "The percentage errors in quantities $P$, $Q$, $R$ and $S$ are $0.5\\%$, $1\\%$, $3\\%$ and $1.5\\%$ respectively in the measurement of a physical quantity $A = \\frac{P^{3}Q^{2}}{\\sqrt{R}S}$. The maximum percentage error in the value of $A$ will be",
+        "question_images": [],
+        "options": [
+            "A. 6.5%",
+            "B. 8.5%",
+            "C. 6.0%",
+            "D. 7.5%"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Relative error in $A$ is: $$\\frac{\\Delta A}{A} = 3\\frac{\\Delta P}{P} + 2\\frac{\\Delta Q}{Q} + \\frac{1}{2}\\frac{\\Delta R}{R} + \\frac{\\Delta S}{S}$$ % error in $A = (3 \\times 0.5) + (2 \\times 1) + (\\frac{1}{2} \\times 3) + 1.5$ $$= 1.5 + 2 + 1.5 + 1.5 = 6.5\\%$$ [cite: 70-80]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "When we hold a book in our hand, we are balancing the gravitational force on the book due to the Earth by the",
+        "question_latex": "When we hold a book in our hand, we are balancing the gravitational force on the book due to the Earth by the",
+        "question_images": [],
+        "options": [
+            "A. normal force provided by our hand",
+            "B. friction force provided by our book",
+            "C. both (a) and (b)",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The gravitational force acting downwards is balanced by the upward 'normal force' provided by the palm of the hand. [cite: 81, 83]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "A physical quantity is represented by $X=M^{a}L^{b}T^{-c}$. If percentage errors in the measurements of $M$, $L$ and $T$ are $\\alpha\\%$, $\\beta\\%$ and $\\gamma\\%$ respectively, then total percentage error is",
+        "question_latex": "A physical quantity is represented by $X=M^{a}L^{b}T^{-c}$. If percentage errors in the measurements of $M$, $L$ and $T$ are $\\alpha\\%$, $\\beta\\%$ and $\\gamma\\%$ respectively, then total percentage error is",
+        "question_images": [],
+        "options": [
+            "A. $(\\alpha a + \\beta b - \\gamma c)\\%$",
+            "B. $(\\alpha a + \\beta b + \\gamma c)\\%$",
+            "C. $(\\alpha a - \\beta b - \\gamma c)\\%$",
+            "D. 0%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "For $X=M^{a}L^{b}T^{-c}$, the maximum relative error is: $$\\frac{\\Delta X}{X} = a\\frac{\\Delta M}{M} + b\\frac{\\Delta L}{L} + c\\frac{\\Delta T}{T}$$ Percentage error $= [a(\\alpha) + b(\\beta) + c(\\gamma)]\\%$. [cite: 84-89]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "If $1\\ \\text{g}\\ \\text{cm}\\ \\text{s}^{-1} = x\\ \\text{newton-second}$, then the number $x$ is equal to",
+        "question_latex": "If $1\\ \\text{g}\\ \\text{cm}\\ \\text{s}^{-1} = x\\ \\text{newton-second}$, then the number $x$ is equal to",
+        "question_images": [],
+        "options": [
+            "A. $1\\times10^{-3}$",
+            "B. $3.6\\times10^{-3}$",
+            "C. $1\\times10^{-5}$",
+            "D. $6\\times10^{-4}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$1\\text{ Newton-second} = 1\\text{ kg} \\cdot \\text{m/s} = (10^3\\text{ g}) \\cdot (10^2\\text{ cm/s}) = 10^5\\text{ g cm s}^{-1}$. Thus, $1\\text{ g cm s}^{-1} = 10^{-5}\\text{ Newton-second}$. $x = 10^{-5}$. [cite: 90, 92-95]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "If the capacitance of a nanocapacitor is measured in terms of a unit $u$ made by combining the electronic charge $e$, Bohr radius $a_{0}$, Planck's constant $h$ and speed of light $c$, then",
+        "question_latex": "If the capacitance of a nanocapacitor is measured in terms of a unit $u$ made by combining the electronic charge $e$, Bohr radius $a_{0}$, Planck's constant $h$ and speed of light $c$, then",
+        "question_images": [],
+        "options": [
+            "A. $u = \\frac{hc}{e^{2}a_{0}}$",
+            "B. $u = \\frac{e^{2}c}{ha_{0}}$",
+            "C. $u = \\frac{e^{2}a_{0}}{hc}$",
+            "D. $u = \\frac{e^{2}h}{ca_{0}}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Let $C = k e^x a_0^y h^z c^a$. Dimensional formulas: $[C] = [M^{-1}L^{-2}A^{2}T^{4}]$, $[e] = [AT]$, $[a_0] = [L]$, $[h] = [ML^2T^{-1}]$, $[c] = [LT^{-1}]$. Solving for exponents gives $x=2, y=1, z=-1, a=-1$. Thus, $u = \\frac{e^2 a_0}{hc}$. [cite: 96-107]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Identify the pair of physical quantities which have different dimensions",
+        "question_latex": "Identify the pair of physical quantities which have different dimensions",
+        "question_images": [],
+        "options": [
+            "A. Wave number and Rydberg's constant",
+            "B. Stress and coefficient of elasticity",
+            "C. Coercivity and magnetisation",
+            "D. Specific heat capacity and latent heat"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Specific heat capacity has dimensions $[L^2T^{-2}K^{-1}]$ while latent heat has dimensions $[L^2T^{-2}]$. They are different. All other pairs in options A, B, and C have identical dimensions. [cite: 108-112]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "One yard in SI unit is equal to",
+        "question_latex": "One yard in SI unit is equal to",
+        "question_images": [],
+        "options": [
+            "A. 1.9144 metre",
+            "B. 0.9144 metre",
+            "C. 0.09144 kilometre",
+            "D. 1.0936 kilometre"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "1 yard is equal to $0.9144$ meters in SI units. [cite: 113, 115]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Identify the pair whose dimensions are equal.",
+        "question_latex": "Identify the pair whose dimensions are equal.",
+        "question_images": [],
+        "options": [
+            "A. Torque and work",
+            "B. Stress and energy",
+            "C. Force and work",
+            "D. Force and stress"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Both torque and work have the dimensional formula $[ML^2T^{-2}]$. [cite: 117-120]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The resistance $R = V/I$ where $V=(200\\pm5)V$ and $I=(20\\pm0.2)A$. The percentage error in measurement of $R$ is",
+        "question_latex": "The resistance $R = V/I$ where $V=(200\\pm5)V$ and $I=(20\\pm0.2)A$. The percentage error in measurement of $R$ is",
+        "question_images": [],
+        "options": [
+            "A. 5.5%",
+            "B. 3.5%",
+            "C. 3%",
+            "D. 7%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Percentage error in $R$ is: $$\\frac{\\Delta R}{R} \\times 100 = \\left( \\frac{\\Delta V}{V} + \\frac{\\Delta I}{I} \\right) \\times 100$$ $$= \\left( \\frac{5}{200} + \\frac{0.2}{20} \\right) \\times 100 = \\left( \\frac{5}{200} + \\frac{2}{200} \\right) \\times 100$$ $$= \\frac{7}{200} \\times 100 = 3.5\\%$$ [cite: 121-132]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Coefficient of thermal conductivity has the dimensions",
+        "question_latex": "Coefficient of thermal conductivity has the dimensions",
+        "question_images": [],
+        "options": [
+            "A. $[MLT^{-3}K^{-1}]$ ",
+            "B. $[ML^{3}T^{3}K^{2}]$ ",
+            "C. $[ML^{3}T^{-3}K^{-2}]$ ",
+            "D. $[M^{2}L^{3}T^{-3}K^{2}]$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Using $Q = \\frac{KA(\\theta_1 - \\theta_2)t}{d} \\Rightarrow K = \\frac{Qd}{A(\\Delta\\theta)t}$ $$[K] = \\frac{[ML^2T^{-2}][L]}{[L^2][K][T]} = [MLT^{-3}K^{-1}]$$ [cite: 133, 134]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The dimension of magnetic field in $M, L, T$ and $C$ (coulomb) is given as",
+        "question_latex": "The dimension of magnetic field in $M, L, T$ and $C$ (coulomb) is given as",
+        "question_images": [],
+        "options": [
+            "A. $MT^{2}C^{-2}$ ",
+            "B. $LT^{-1}C^{-1}$ ",
+            "C. $MT^{-2}C^{-1}$ ",
+            "D. $MT^{-1}C^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "From Lorentz force $F = qvB \\Rightarrow B = \\frac{F}{qv}$ $$[B] = \\frac{[MLT^{-2}]}{[C][LT^{-1}]} = [MT^{-1}C^{-1}]$$ [cite: 135, 136]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "A gas bubble from an explosion under water oscillates with a time period $T$ depending upon static pressure $p$, density of water $\\rho$ and total energy of explosion $E$. Find the expression for the time period $T$. (where $k$ is a dimensionless constant)",
+        "question_latex": "A gas bubble from an explosion under water oscillates with a time period $T$ depending upon static pressure $p$, density of water $\\rho$ and total energy of explosion $E$. Find the expression for the time period $T$. (where $k$ is a dimensionless constant)",
+        "question_images": [],
+        "options": [
+            "A. $T = kp^{-5/6}\\rho^{1/2}E^{1/3}$",
+            "B. $T = kp^{-4/7}\\rho^{1/2}E$",
+            "C. $T = kp^{-5/6}\\rho^{1/2}E^{1/2}$",
+            "D. $T = kp^{-4/7}\\rho^{1/3}E^{1/2}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Let $T \\propto p^a \\rho^b E^c$. Equating dimensions: $$[T] = [ML^{-1}T^{-2}]^a [ML^{-3}]^b [ML^{2}T^{-2}]^c$$ Solving equations for $M, L, T$: $a+b+c=0$; $-a-3b+2c=0$; $-2a-2c=1$. Results: $a=-5/6, b=1/2, c=1/3$. [cite: 138-152]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The equation of a stationary wave is $y = 2A \\sin(\\frac{2\\pi ct}{\\lambda}) \\cos(\\frac{2\\pi x}{\\lambda})$. Which of the following statements is wrong?",
+        "question_latex": "The equation of a stationary wave is $y = 2A \\sin(\\frac{2\\pi ct}{\\lambda}) \\cos(\\frac{2\\pi x}{\\lambda})$. Which of the following statements is wrong?",
+        "question_images": [],
+        "options": [
+            "A. The unit of $ct$ is same as that of $\\lambda$",
+            "B. The unit of $x$ is same as that of $\\lambda$",
+            "C. The unit of $2\\pi c/\\lambda$ is same as that of $2\\pi x/\\lambda t$",
+            "D. The unit of $c/\\lambda$ is same as that of $x/\\lambda$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Arguments of trigonometric functions are dimensionless. Thus $[ct] = [\\lambda]$ and $[x] = [\\lambda]$. Also $[\\frac{c}{\\lambda}] = [T^{-1}]$ while $[\\frac{x}{\\lambda}]$ is dimensionless. Therefore, option D is incorrect. [cite: 154-162]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Consider the following statements and select the correct statement(s).\nI. Light year and year, both measure time.\nII. Both have dimension of time.\nIII. Light year measures length.",
+        "question_latex": "Consider the following statements and select the correct statement(s).\nI. Light year and year, both measure time.\nII. Both have dimension of time.\nIII. Light year measures length.",
+        "question_images": [],
+        "options": [
+            "A. I and II",
+            "B. II and III",
+            "C. II only",
+            "D. III only"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "A 'year' measures time, but a 'light year' is the distance light travels in one year, so it measures length. Only statement III is correct. [cite: 163-166]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Which of the following represents a volt?",
+        "question_latex": "Which of the following represents a volt?",
+        "question_images": [],
+        "options": [
+            "A. Joule/second",
+            "B. Watt/ampere",
+            "C. Watt/coulomb",
+            "D. Coulomb/joule"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Power $P = VI \\Rightarrow V = P/I$. Unit of Power is Watt and Current is Ampere. So, Volt = Watt/Ampere. [cite: 168-170]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "If voltage $V = (100 \\pm 5)$ volt and current $I = (10 \\pm 0.2)$ A, the percentage error in resistance $R$ is",
+        "question_latex": "If voltage $V = (100 \\pm 5)$ volt and current $I = (10 \\pm 0.2)$ A, the percentage error in resistance $R$ is",
+        "question_images": [],
+        "options": [
+            "A. 5.2%",
+            "B. 25%",
+            "C. 7%",
+            "D. 10%"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Given $V = (100 \\pm 5)$ V and $I = (10 \\pm 0.2)$ A. From Ohm's law, $R = \\frac{V}{I}$. Percentage error in $R$ is: $$\\frac{\\Delta R}{R} \\times 100 = \\left( \\frac{\\Delta V}{V} + \\frac{\\Delta I}{I} \\right) \\times 100$$ $$= \\left( \\frac{5}{100} \\times 100 \\right) + \\left( \\frac{0.2}{10} \\times 100 \\right) = 5\\% + 2\\% = 7\\%$$ [cite: 171-183]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "$[M^{0}L^{0}T^{0}]$ representation of coefficient of friction is",
+        "question_latex": "$[M^{0}L^{0}T^{0}]$ representation of coefficient of friction is",
+        "question_images": [],
+        "options": [
+            "A. $[ML^{2}T^{-2}]$ ",
+            "B. $[LT^{-2}]$ ",
+            "C. $[M^{0}L^{0}T^{0}]$ ",
+            "D. $[MLT^{-1}]$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The coefficient of friction is defined as the ratio of the limiting friction force to the normal reaction force. Since it is a ratio of two forces, it is a dimensionless quantity, represented as $[M^{0}L^{0}T^{0}]$. [cite: 180-186]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The speed ($v$) of ripples on the surface of water depends on surface tension ($\\sigma$), density ($\\rho$) and wavelength ($\\lambda$). The square of speed ($v$) is proportional to",
+        "question_latex": "The speed ($v$) of ripples on the surface of water depends on surface tension ($\\sigma$), density ($\\rho$) and wavelength ($\\lambda$). The square of speed ($v$) is proportional to",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{\\sigma}{\\rho\\lambda}$",
+            "B. $\\frac{\\rho}{\\sigma\\lambda}$",
+            "C. $\\frac{\\lambda}{\\sigma\\rho}$",
+            "D. $\\rho\\lambda\\sigma$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Let $v \\propto \\sigma^{a}\\rho^{b}\\lambda^{c}$. Dimensions: $[LT^{-1}] = [MT^{-2}]^{a}[ML^{-3}]^{b}[L]^{c}$. Comparing powers: $a+b=0$, $-3b+c=1$, $-2a=-1$. This gives $a=1/2$, $b=-1/2$, $c=-1/2$. Thus $v \\propto \\sqrt{\\frac{\\sigma}{\\rho\\lambda}} \\Rightarrow v^{2} \\propto \\frac{\\sigma}{\\rho\\lambda}$. [cite: 187-201]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The equation $(P+\frac{a}{V^{2}})(V-b) = \\text{constant}$. The unit of $a$ is",
+        "question_latex": "The equation $(P+\\frac{a}{V^{2}})(V-b) = \\text{constant}$. The unit of $a$ is",
+        "question_images": [],
+        "options": [
+            "A. $\\text{Dyne} \\times \\text{cm}^{5}$",
+            "B. $\\text{Dyne} \\times \\text{cm}^{4}$",
+            "C. $\\text{Dyne} \\times \\text{cm}^{3}$",
+            "D. $\\text{Dyne} \\times \\text{cm}^{2}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "According to the principle of homogeneity, dimensions of $\\frac{a}{V^2}$ must be equal to dimensions of Pressure $P$. Thus, unit of $a = \\text{unit of } P \\times (\\text{unit of } V)^2 = (\\text{dyne/cm}^2) \\times (\\text{cm}^3)^2 = \\text{dyne} \\times \\text{cm}^4$. [cite: 202-204]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "If there is a positive error of 50% in the measurement of speed of a body, then the error in the measurement of kinetic energy is",
+        "question_latex": "If there is a positive error of 50% in the measurement of speed of a body, then the error in the measurement of kinetic energy is",
+        "question_images": [],
+        "options": [
+            "A. 25%",
+            "B. 50%",
+            "C. 100%",
+            "D. 125%"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Kinetic energy $E = \\frac{1}{2}mv^{2}$. If $v$ increases by 50%, new velocity $v' = 1.5v$. New energy $E' = \\frac{1}{2}m(1.5v)^{2} = 2.25E$. Percentage error $= \\frac{E' - E}{E} \\times 100 = (2.25 - 1) \\times 100 = 125\\%$. [cite: 205-209]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Match List-I with List-II: \nList-I: (A) Torque, (B) Magnetic field, (C) Magnetic moment, (D) Permeability of free space. \nList-II: (I) $[M^{1}L^{1}T^{-2}A^{-2}]$, (II) $[L^{2}A^{1}]$, (III) $[M^{1}T^{-2}A^{-1}]$, (IV) $[M^{1}L^{2}T^{-2}]$.",
+        "question_latex": "Match List-I with List-II: \nList-I: (A) Torque, (B) Magnetic field, (C) Magnetic moment, (D) Permeability of free space. \nList-II: (I) $[M^{1}L^{1}T^{-2}A^{-2}]$, (II) $[L^{2}A^{1}]$, (III) $[M^{1}T^{-2}A^{-1}]$, (IV) $[M^{1}L^{2}T^{-2}]$.",
+        "question_images": [
+            "31_qu_1.png"
+        ],
+        "options": [
+            "A. A-I, B-III, C-II, D-IV",
+            "B. A-III, B-I, C-II, D-IV",
+            "C. A-IV, B-III, C-II, D-I",
+            "D. A-IV, B-II, C-III, D-I"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "(A) Torque = $[ML^{2}T^{-2}]$ (IV). (B) Magnetic field $B = \\frac{F}{qv} = [MT^{-2}A^{-1}]$ (III). (C) Magnetic moment $M = IA = [AL^{2}]$ (II). (D) Permeability $\\mu_{0} = [MLT^{-2}A^{-2}]$ (I). [cite: 210-233]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "SI unit of electric intensity is",
+        "question_latex": "SI unit of electric intensity is",
+        "question_images": [],
+        "options": [
+            "A. Coulomb",
+            "B. Coulomb/m²",
+            "C. Newton",
+            "D. Newton/coulomb"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Electric intensity $E = \\frac{\\text{Force (F)}}{\\text{Charge (q)}}$. The SI unit of force is Newton and charge is Coulomb. Thus, the unit is Newton/coulomb. [cite: 234-237]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "A student performs an experiment to determine the Young's modulus of a wire, exactly 2 m long, by Searle's method. The extension is 0.8 mm with an uncertainty of $\\pm 0.05$ mm at a load of 1.0 kg. The diameter is 0.4 mm with uncertainty $\\pm 0.01$ mm. The Young's modulus is",
+        "question_latex": "A student performs an experiment to determine the Young's modulus of a wire, exactly 2 m long, by Searle's method. The extension is 0.8 mm with an uncertainty of $\\pm 0.05$ mm at a load of 1.0 kg. The diameter is 0.4 mm with uncertainty $\\pm 0.01$ mm. The Young's modulus is",
+        "question_images": [],
+        "options": [
+            "A. $(2.0 \\pm 0.3) \\times 10^{11} \\text{ N/m}^2$",
+            "B. $(2.0 \\pm 0.2) \\times 10^{11} \\text{ N/m}^2$",
+            "C. $(2.0 \\pm 0.1) \\times 10^{11} \\text{ N/m}^2$",
+            "D. $(2.0 \\pm 0.05) \\times 10^{11} \\text{ N/m}^2$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$Y = \\frac{4FL}{\\pi d^{2}l} = 2.0 \\times 10^{11} \\text{ N/m}^2$. For error: $\\frac{\\Delta Y}{Y} = 2\\frac{\\Delta d}{d} + \\frac{\\Delta l}{l} = 2\\frac{0.01}{0.4} + \\frac{0.05}{0.8} = 0.05 + 0.0625 = 0.1125$. $\\Delta Y = 0.1125 \\times 2.0 \\times 10^{11} \\approx 0.2 \\times 10^{11}$. [cite: 240-251]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The best method to reduce random error is",
+        "question_latex": "The best method to reduce random error is",
+        "question_images": [],
+        "options": [
+            "A. To change the instrument used for measurement",
+            "B. To take help of experienced observer",
+            "C. To repeat the experiment many times and to take the average results",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Random errors can be minimized by taking a large number of observations and calculating their arithmetic mean. [cite: 252-255]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Dimensional formula of magnetic flux is",
+        "question_latex": "Dimensional formula of magnetic flux is",
+        "question_images": [],
+        "options": [
+            "A. $ML^{2}T^{-2}A^{-1}$",
+            "B. $ML^{0}T^{-2}A^{-2}$",
+            "C. $M^{0}L^{-2}T^{-3}$",
+            "D. $ML^{2}T^{-2}A^{3}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Magnetic flux $\\phi = BA = \\left(\\frac{F}{Il}\\right)A = \\frac{[MLT^{-2}][L^{2}]}{[A][L]} = [ML^{2}T^{-2}A^{-1}]$. [cite: 256-257]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "In the relation $y = a \\cos(\\omega t - kx)$ the dimensional formula for $k$ is",
+        "question_latex": "In the relation $y = a \\cos(\\omega t - kx)$ the dimensional formula for $k$ is",
+        "question_images": [],
+        "options": [
+            "A. $[M^{0}L^{-1}T^{-1}]$ ",
+            "B. $[M^{0}LT^{-1}]$ ",
+            "C. $[M^{0}L^{-1}T^{0}]$ ",
+            "D. $[M^{0}LT]$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The argument $(\\omega t - kx)$ must be dimensionless. Therefore, $[kx] = [M^{0}L^{0}T^{0}] \\Rightarrow [k] = [x^{-1}] = [L^{-1}]$. [cite: 258-260]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "One unified atomic mass unit is equal to",
+        "question_latex": "One unified atomic mass unit is equal to",
+        "question_images": [],
+        "options": [
+            "A. 12 times the mass of one carbon-12 atom",
+            "B. 1/12 of the mass of 12 atoms of C-12",
+            "C. 1/12 of the mass of one atom of C-12",
+            "D. 12 times the mass of 12 atoms of C-12"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "By definition, 1 amu (or u) is exactly $1/12$th the mass of one atom of Carbon-12. [cite: 261-266]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "If $\\epsilon_{0}$ is the permittivity of free space and $E$ is the electric field, then $\\epsilon_{0}E^{2}$ has the dimensions:",
+        "question_latex": "If $\\epsilon_{0}$ is the permittivity of free space and $E$ is the electric field, then $\\epsilon_{0}E^{2}$ has the dimensions:",
+        "question_images": [],
+        "options": [
+            "A. $[ML^{-1}T^{-2}]$ ",
+            "B. $[M^{0}L^{-2}TA]$ ",
+            "C. $[M^{-1}L^{-3}T^{4}A^{2}]$ ",
+            "D. $[ML^{2}T^{-2}]$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\epsilon_{0}E^{2}$ represents energy density (energy per unit volume). Dimensions = $\\frac{[ML^{2}T^{-2}]}{[L^{3}]} = [ML^{-1}T^{-2}]$. [cite: 268-275]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The unit of specific resistance is",
+        "question_latex": "The unit of specific resistance is",
+        "question_images": [],
+        "options": [
+            "A. $Ohm/cm^{2}$",
+            "B. $Ohm/cm$",
+            "C. $Ohm\\text{-}cm$",
+            "D. $(Ohm\\text{-}cm)^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Specific resistance $\\rho = \\frac{RA}{L} = \\text{ohm} \\times \\frac{\\text{cm}^{2}}{\\text{cm}} = \\text{ohm-cm}$. [cite: 276-279]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The dimensional formula for entropy is",
+        "question_latex": "The dimensional formula for entropy is",
+        "question_images": [],
+        "options": [
+            "A. $[MLT^{-2}K^{-1}]$ ",
+            "B. $[ML^{2}T^{-2}]$ ",
+            "C. $[ML^{2}T^{-2}K^{-1}]$ ",
+            "D. $[ML^{-2}T^{-2}K^{-1}]$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Entropy $S = \\frac{Q}{T}$. Dimensions = $\\frac{[ML^{2}T^{-2}]}{[K]} = [ML^{2}T^{-2}K^{-1}]$. [cite: 280-283]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The percentage errors in the measurement of a mass and speed are 2% and 3% respectively. Maximum error in kinetic energy is",
+        "question_latex": "The percentage errors in the measurement of a mass and speed are 2% and 3% respectively. Maximum error in kinetic energy is",
+        "question_images": [],
+        "options": [
+            "A. 11%",
+            "B. 8%",
+            "C. 5%",
+            "D. 1%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$KE = \\frac{1}{2}mv^{2}$. Error $= \\frac{\\Delta m}{m} + 2\\frac{\\Delta v}{v} = 2\\% + 2(3\\%) = 8\\%$. [cite: 284-289]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "What is the area of a disc of radius 1.1 cm?",
+        "question_latex": "What is the area of a disc of radius 1.1 cm?",
+        "question_images": [],
+        "options": [
+            "A. 3.8028571 cm²",
+            "B. 3.8029 cm²",
+            "C. 3.803 cm²",
+            "D. 3.8 cm²"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Area $A = \\pi r^{2} = \\pi(1.1)^{2} \\approx 3.8013...$ cm². Since the radius has two significant figures (1.1), the result must be rounded to two significant figures, giving 3.8 cm². [cite: 290-293]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The length, breadth and thickness of a block are 50 cm, 2.0 cm and 1.00 cm. The percentage error in volume is",
+        "question_latex": "The length, breadth and thickness of a block are 50 cm, 2.0 cm and 1.00 cm. The percentage error in volume is",
+        "question_images": [],
+        "options": [
+            "A. 0.8%",
+            "B. 8%",
+            "C. 10%",
+            "D. 12.5%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$V = lbt$. Percentage error $= \\left( \\frac{1}{50} + \\frac{0.1}{2.0} + \\frac{0.01}{1.00} \\right) \\times 100 = 2\\% + 5\\% + 1\\% = 8\\%$. [cite: 294-304]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "If L, C and R represent inductance, capacitance and resistance, which of the following does not represent dimensions of frequency?",
+        "question_latex": "If L, C and R represent inductance, capacitance and resistance, which of the following does not represent dimensions of frequency?",
+        "question_images": [],
+        "options": [
+            "A. $1/RC$",
+            "B. $R/L$",
+            "C. $1/\\sqrt{LC}$",
+            "D. $C/L$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$RC$, $L/R$, and $\\sqrt{LC}$ all have dimensions of time $[T]$. Thus their reciprocals or $R/L$ have dimensions of frequency $[T^{-1}]$. $C/L$ does not. [cite: 305-312]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Match List-I with List-II: \nList-I: (A) Rydberg constant, (B) Planck's constant, (C) Magnetic field energy density, (D) Coefficient of viscosity. \nList-II: (i) $kg\\ m^{-1}s^{-1}$, (ii) $kg\\ m^{2}s^{-1}$, (iii) $m^{-1}$, (iv) $kg\\ m^{-1}s^{-2}$.",
+        "question_latex": "Match List-I with List-II: \nList-I: (A) Rydberg constant, (B) Planck's constant, (C) Magnetic field energy density, (D) Coefficient of viscosity. \nList-II: (i) $kg\\ m^{-1}s^{-1}$, (ii) $kg\\ m^{2}s^{-1}$, (iii) $m^{-1}$, (iv) $kg\\ m^{-1}s^{-2}$.",
+        "question_images": [
+            "45_qu_1.png"
+        ],
+        "options": [
+            "A. (A)-(ii), (B)-(iii), (C)-(iv), (D)-(i)",
+            "B. (A)-(iii), (B)-(ii), (C)-(i), (D)-(iv)",
+            "C. (A)-(iii), (B)-(ii), (C)-(iv), (D)-(i)",
+            "D. (A)-(iv), (B)-(ii), (C)-(i), (D)-(iii)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "(A) Rydberg constant: $m^{-1}$ (iii). (B) Planck's constant: $kg\\ m^{2}s^{-1}$ (ii). (C) Energy density: $kg\\ m^{-1}s^{-2}$ (iv). (D) Viscosity: $kg\\ m^{-1}s^{-1}$ (i). [cite: 314-337]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The dimensional formula for entropy is",
+        "question_latex": "The dimensional formula for entropy is",
+        "question_images": [],
+        "options": [
+            "A. $[MLT^{-2}K^{-1}]$ ",
+            "B. $[ML^{2}T^{-2}]$ ",
+            "C. $[ML^{2}T^{-2}K^{-1}]$ ",
+            "D. $[ML^{-2}T^{-2}K^{-1}]$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$Entropy = \\frac{\\text{Heat}}{\\text{Temperature}} = \\frac{[ML^{2}T^{-2}]}{[K]} = [ML^{2}T^{-2}K^{-1}]$. [cite: 338-340]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Match List-I with List-II: \nList-I: (A) Planck's constant, (B) Stopping potential, (C) Work function, (D) Momentum. \nList-II: (I) $[M^{1}L^{2}T^{-2}]$, (II) $[M^{1}L^{1}T^{-1}]$, (III) $[M^{1}L^{2}T^{-1}]$, (IV) $[M^{1}L^{2}T^{-3}A^{-1}]$.",
+        "question_latex": "Match List-I with List-II: \nList-I: (A) Planck's constant, (B) Stopping potential, (C) Work function, (D) Momentum. \nList-II: (I) $[M^{1}L^{2}T^{-2}]$, (II) $[M^{1}L^{1}T^{-1}]$, (III) $[M^{1}L^{2}T^{-1}]$, (IV) $[M^{1}L^{2}T^{-3}A^{-1}]$.",
+        "question_images": [
+            "47_qu_1.png"
+        ],
+        "options": [
+            "A. A-I, B-III, C-IV, D-II",
+            "B. A-III, B-IV, C-I, D-II",
+            "C. A-II, B-IV, C-III, D-I",
+            "D. A-III, B-I, C-II, D-IV"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "(A) Planck's constant: $[ML^{2}T^{-1}]$ (III). (B) Stopping potential: $[ML^{2}T^{-3}A^{-1}]$ (IV). (C) Work function: $[ML^{2}T^{-2}]$ (I). (D) Momentum: $[MLT^{-1}]$ (II). [cite: 343-365]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Which of the following units denotes the dimensions $[ML^{2}/Q^{2}]$, where $Q$ denotes the electric charge?",
+        "question_latex": "Which of the following units denotes the dimensions $[ML^{2}/Q^{2}]$, where $Q$ denotes the electric charge?",
+        "question_images": [],
+        "options": [
+            "A. $Wb\\ m^{-2}$ ",
+            "B. Henry (H)",
+            "C. $H\\ m^{-2}$ ",
+            "D. Weber (Wb)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Magnetic energy $U = \\frac{1}{2}Li^{2} = \\frac{1}{2}L\\frac{Q^{2}}{t^{2}}$. Inductance $L = \\frac{2Ut^{2}}{Q^{2}}$. Dimensions: $\\frac{[ML^{2}T^{-2}][T^{2}]}{[Q^{2}]} = \\frac{[ML^{2}]}{[Q^{2}]}$. Thus, Henry represents these dimensions. [cite: 366-372]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Which of the following is not measured in units of energy?",
+        "question_latex": "Which of the following is not measured in units of energy?",
+        "question_images": [],
+        "options": [
+            "A. Couple $\\times$ angle turned through",
+            "B. Moment of inertia $\\times$ (angular velocity)²",
+            "C. Force $\\times$ distance",
+            "D. Impulse $\\times$ time"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Impulse $\\times$ time = (Force $\\times$ time) $\\times$ time = $Force \\times time^{2}$, which has dimensions $[MLT^{0}]$. This is not energy. All others represent forms of work or kinetic energy ($[ML^{2}T^{-2}]$). [cite: 373-377]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Instrumental errors are due to",
+        "question_latex": "Instrumental errors are due to",
+        "question_images": [],
+        "options": [
+            "A. imperfect design",
+            "B. zero error in the instrument",
+            "C. Both (a) and (b)",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Instrumental errors arise from the inherent shortcomings of the instrument, such as imperfect design, calibration, or zero errors. [cite: 378-380]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The expression given below shows the variation of velocity (v) with time (t), The $v = At^{2} + \\frac{Bt}{c+t}$ dimension of ABC is:",
+        "question_latex": "The expression given below shows the variation of velocity ($v$) with time ($t$), The $v = At^{2} + \\frac{Bt}{c+t}$ dimension of ABC is:",
+        "question_images": [],
+        "options": [
+            "A. $[M^{0}L^{2}T^{-2}]$ ",
+            "B. $[M^{0}L^{2}T^{-3}]$ ",
+            "C. $[M^{0}L^{1}T^{-3}]$ ",
+            "D. $[M^{0}L^{1}T^{-2}]$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "By principle of homogeneity, $[At^{2}] = [v] \\Rightarrow [A] = [\\frac{v}{t^{2}}]$. Also, $[c] = [t]$ and $[Bt] = [v][c+t] \\Rightarrow [B] = [v]$. Thus, $[ABC] = [\\frac{v}{t^{2}}][v][t] = \\frac{[v^{2}]}{[t]} = \\frac{[L^{2}T^{-2}]}{[T]} = [L^{2}T^{-3}]$. [cite: 1156-1165]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "1 Parsec is equal to",
+        "question_latex": "1 Parsec is equal to",
+        "question_images": [],
+        "options": [
+            "A. $3.1 \\times 10^{-16}$ m",
+            "B. $6.3 \\times 10^{4}$ AU",
+            "C. 3.26 ly",
+            "D. $1.496 \\times 10^{11}$ m"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "1 parsec = $3.08 \\times 10^{16}$ m and $1 ly = 9.46 \\times 10^{15}$ m. Ratio $\\frac{1 \\text{ Parsec}}{1 ly} = \\frac{3.08 \\times 10^{16}}{9.46 \\times 10^{15}} \\approx 3.26$. Therefore, 1 Parsec = 3.26 ly. [cite: 1166-1172]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The quantity $X = \\frac{\\epsilon_{0}LV}{t}$ is the permittivity of free space, L is length, V is potential difference and t is time. The dimensions of X are same as that of",
+        "question_latex": "The quantity $X = \\frac{\\epsilon_{0}LV}{t}$ is the permittivity of free space, L is length, V is potential difference and $t$ is time. The dimensions of X are same as that of",
+        "question_images": [],
+        "options": [
+            "A. resistance",
+            "B. charge",
+            "C. voltage",
+            "D. current"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "We know $[\\epsilon_{0}L]$ has dimensions of capacitance $[C]$. So, $X = \\frac{C \\times V}{t} = \\frac{Q}{t} = \\text{current}$. [cite: 1173-1177]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The relative density of a body is found by weighing the body first in air and then in water. If the weight in air is $(10.0 \\pm 0.1)$ gf and weight in water is $(5.0 \\pm 0.1)$ gf, then the maximum permissible percentage error in relative density is",
+        "question_latex": "The relative density of a body is found by weighing the body first in air and then in water. If the weight in air is $(10.0 \\pm 0.1)$ gf and weight in water is $(5.0 \\pm 0.1)$ gf, then the maximum permissible percentage error in relative density is",
+        "question_images": [],
+        "options": [
+            "A. 1%",
+            "B. 2%",
+            "C. 3%",
+            "D. 5%"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Relative density $\\rho = \\frac{W_{a}}{W_{a}-W_{w}} = \\frac{W_{a}}{w}$. $\\frac{\\Delta \\rho}{\\rho} = \\frac{\\Delta W_{a}}{W_{a}} + \\frac{\\Delta w}{w}$. Given $\\Delta W_{a} = 0.1$, $W_{a} = 10.0$, $w = 10.0 - 5.0 = 5.0$, $\\Delta w = 0.1 + 0.1 = 0.2$. Percentage error $= (\\frac{0.1}{10} + \\frac{0.2}{5}) \\times 100 = 1\\% + 4\\% = 5\\%$. [cite: 1178-1194]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The order of magnitude of 499 is 2, then the order of magnitude of 501 will be",
+        "question_latex": "The order of magnitude of 499 is 2, then the order of magnitude of 501 will be",
+        "question_images": [],
+        "options": [
+            "A. 4",
+            "B. 2",
+            "C. 1",
+            "D. 3"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$501 = 0.501 \\times 10^{3}$. Since $0.501$ is roughly $0.5$, the order of magnitude is determined by the power of 10, which is 3. [cite: 1195-1198]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The relative error in the determination of the surface area of a sphere is $\\alpha$. Then the relative error in the determination of its volume is",
+        "question_latex": "The relative error in the determination of the surface area of a sphere is $\\alpha$. Then the relative error in the determination of its volume is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{3}{2}\\alpha$",
+            "B. $\\alpha$",
+            "C. $\\frac{5}{2}\\alpha$",
+            "D. $\\frac{2}{3}\\alpha$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Surface area $S = 4\\pi r^{2} \\Rightarrow \\frac{\\Delta S}{S} = 2\\frac{\\Delta r}{r} = \\alpha$. Volume $V = \\frac{4}{3}\\pi r^{3} \\Rightarrow \\frac{\\Delta V}{V} = 3\\frac{\\Delta r}{r} = \\frac{3}{2}(2\\frac{\\Delta r}{r}) = \\frac{3}{2}\\alpha$. [cite: 1199-1203]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The respective number of significant figures for the numbers 23.023, 0.0003 and $2.1 \\times 10^{-3}$ are",
+        "question_latex": "The respective number of significant figures for the numbers 23.023, 0.0003 and $2.1 \\times 10^{-3}$ are",
+        "question_images": [],
+        "options": [
+            "A. 5, 1, 2",
+            "B. 5, 1, 5",
+            "C. 5, 5, 2",
+            "D. 4, 4, 2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "23.023 has 5 significant figures (all digits). 0.0003 has 1 (leading zeros are not significant). $2.1 \\times 10^{-3}$ has 2 (digits in the coefficient). [cite: 1204-1212]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Laws_of_Motion",
+        "question": "When we hold a book in our hand, we are balancing the gravitational force on the book due to",
+        "question_latex": "When we hold a book in our hand, we are balancing the gravitational force on the book due to",
+        "question_images": [],
+        "options": [
+            "A. normal force provided by our hand",
+            "B. friction force provided by our book",
+            "C. both (a) and (b)",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The gravitational force pulling the book down is balanced by the upward 'normal force' exerted by the hand. [cite: 1213-1216]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The mass of a body is 20.000 g and its volume is $10.00 \\text{ cm}^{3}$. If the measured values are expressed to the correct significant figures, the maximum error in the value of density is",
+        "question_latex": "The mass of a body is 20.000 g and its volume is $10.00 \\text{ cm}^{3}$. If the measured values are expressed to the correct significant figures, the maximum error in the value of density is",
+        "question_images": [],
+        "options": [
+            "A. 0.001 g cm⁻³",
+            "B. 0.010 g cm⁻³",
+            "C. 0.100 g cm⁻³",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Least count for mass is 0.001 g and for volume is 0.01 cm³. $\\frac{\\Delta \rho}{\\rho} = \\frac{0.001}{20.000} + \\frac{0.01}{10.00} = 0.00005 + 0.001 = 0.00105$. $\\Delta \rho = 0.00105 \\times (\\frac{20.000}{10.00}) = 0.0021 \\text{ g cm}^{-3}$. [cite: 1218-1227]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "An expression for a dimensionless quantity P is given by $P = \\frac{\\alpha}{\\beta} \\log_{e} (\\frac{kt}{\\beta x})$; where $\\alpha$ and $\\beta$ are constants, x is distance; k is Boltzmann constant and t is the temperature. Then the dimensions for $\\alpha$ will be",
+        "question_latex": "An expression for a dimensionless quantity P is given by $P = \\frac{\\alpha}{\\beta} \\log_{e} (\\frac{kt}{\\beta x})$; where $\\alpha$ and $\\beta$ are constants, x is distance; k is Boltzmann constant and $t$ is the temperature. Then the dimensions for $\\alpha$ will be",
+        "question_images": [],
+        "options": [
+            "A. $[ML^{2}T^{-2}]$ ",
+            "B. $[ML^{0}T^{-2}]$ ",
+            "C. $[MLT^{-2}]$ ",
+            "D. $[M^{0}L^{-1}T^{0}]$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Since P and the log argument are dimensionless, $[\\frac{kt}{\\beta x}] = [M^{0}L^{0}T^{0}] \\Rightarrow [\\beta] = [\\frac{kt}{x}]$. Dimension of $kt$ is Energy $[ML^{2}T^{-2}]$. So $[\\beta] = \\frac{[ML^{2}T^{-2}]}{[L]} = [MLT^{-2}]$. Since $P$ is dimensionless, $[\\alpha] = [\\beta] = [MLT^{-2}]$. [cite: 1228-1235]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "A student performs an experiment for determination of $g (= \\frac{4\\pi^{2}l}{T^{2}})$, $l \\approx 1$ m. For T he takes the time of n oscillations with the stop watch of least count $\\Delta T$ and he commits a human error of 0.1 s. For which of the following data, the measurement of g will be most accurate?",
+        "question_latex": "A student performs an experiment for determination of $g (= \\frac{4\\pi^{2}l}{T^{2}})$, $l \\approx 1$ m. For T he takes the time of $n$ oscillations with the stop watch of least count $\\Delta T$ and he commits a human error of 0.1 s. For which of the following data, the measurement of g will be most accurate?",
+        "question_images": [
+            "61_qu_1.png"
+        ],
+        "options": [
+            "A. $\\Delta L = 0.5$, $\\Delta T = 0.1$, $n = 20$",
+            "B. $\\Delta L = 0.5$, $\\Delta T = 0.1$, $n = 50$",
+            "C. $\\Delta L = 0.5$, $\\Delta T = 0.01$, $n = 20$",
+            "D. $\\Delta L = 0.5$, $\\Delta T = 0.05$, $n = 50$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The relative error $\\frac{\\Delta g}{g} = \\frac{\\Delta l}{l} + 2\\frac{\\Delta T}{T}$. Accuracy is highest when error is minimum. Larger n and smaller $\\Delta T$ reduce the timing error. Option (D) has the best combination. [cite: 1236-1244]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "What is dimensional formula of thermal conductivity?",
+        "question_latex": "What is dimensional formula of thermal conductivity?",
+        "question_images": [],
+        "options": [
+            "A. $[MLT^{-1}\\theta^{-1}]$ ",
+            "B. $[MLT^{-3}\\theta^{-1}]$ ",
+            "C. $[M^{2}LT^{-3}\\theta^{-2}]$ ",
+            "D. $[ML^{2}T^{-2}\\theta]$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\Delta Q = KA(\\frac{T_{1}-T_{2}}{L})\\Delta t \\Rightarrow K = \\frac{\\Delta Q \\cdot L}{A \\cdot \\Delta T \\cdot \\Delta t}$. Dimensions: $[K] = \\frac{[ML^{2}T^{-2}][L]}{[L^{2}][\\theta][T]} = [MLT^{-3}\\theta^{-1}]$. [cite: 1245-1254]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Which of the following is not a dimensionless quantity?",
+        "question_latex": "Which of the following is not a dimensionless quantity?",
+        "question_images": [],
+        "options": [
+            "A. Relative magnetic permeability",
+            "B. Power factor",
+            "C. Permeability of free space $(\\mu_{0})$",
+            "D. Quality factor"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Permeability of free space $\\mu_{0}$ has units ($T \\cdot m/A$) and dimensions $[MLT^{-2}A^{-2}]$, whereas others are ratios and thus dimensionless. [cite: 1256-1259]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Which of the following is not a systematic error?",
+        "question_latex": "Which of the following is not a systematic error?",
+        "question_images": [],
+        "options": [
+            "A. Instrumental error",
+            "B. Imperfection in experimental technique",
+            "C. Personal error",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Instrumental, imperfect technique, and personal errors are all types of systematic errors as they tend to be in one direction. [cite: 1262-1263]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The dimensions of surface tension are",
+        "question_latex": "The dimensions of surface tension are",
+        "question_images": [],
+        "options": [
+            "A. $ML^{-1}T^{-2}$",
+            "B. $MLT^{-2}$",
+            "C. $ML^{-1}T^{-1}$",
+            "D. $MT^{-2}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Surface tension $= \\frac{\\text{Force}}{\\text{Length}} = \\frac{[MLT^{-2}]}{[L]} = [MT^{-2}]$. [cite: 1265-1269]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Identify the pair whose dimensions are equal.",
+        "question_latex": "Identify the pair whose dimensions are equal.",
+        "question_images": [],
+        "options": [
+            "A. Torque and work",
+            "B. Stress and energy",
+            "C. Force and work",
+            "D. Force and stress"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Both Torque (force × distance) and Work (force × displacement) have the dimensions $[ML^{2}T^{-2}]$. [cite: 1270-1273]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The pair having the same dimensions is",
+        "question_latex": "The pair having the same dimensions is",
+        "question_images": [],
+        "options": [
+            "A. Angular momentum, work",
+            "B. Work, torque",
+            "C. Potential energy, linear momentum",
+            "D. Kinetic energy, velocity"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Work and torque both have dimensions $[ML^{2}T^{-2}]$. [cite: 1274-1278]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The physical quantity that does not have the dimensional formula $[ML^{-1}T^{-2}]$ is",
+        "question_latex": "The physical quantity that does not have the dimensional formula $[ML^{-1}T^{-2}]$ is",
+        "question_images": [],
+        "options": [
+            "A. force",
+            "B. pressure",
+            "C. stress",
+            "D. modulus of elasticity"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Force has dimensions $[MLT^{-2}]$. Pressure, stress, and modulus of elasticity all share the dimensions $[ML^{-1}T^{-2}]$. [cite: 1279-1281]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "SI unit of electric intensity is",
+        "question_latex": "SI unit of electric intensity is",
+        "question_images": [],
+        "options": [
+            "A. Coulomb",
+            "B. Coulomb/m²",
+            "C. Newton",
+            "D. Newton/coulomb"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Electric intensity $E = F/q$, so its unit is Newton/coulomb. [cite: 1282-1285]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "In a simple pendulum experiment, the maximum percentage error in the measurement of length is 2% and that in the observation of the time-period is 3%. Then the maximum percentage error in determination of the acceleration due to gravity g is",
+        "question_latex": "In a simple pendulum experiment, the maximum percentage error in the measurement of length is 2% and that in the observation of the time-period is 3%. Then the maximum percentage error in determination of the acceleration due to gravity $g$ is",
+        "question_images": [],
+        "options": [
+            "A. 5%",
+            "B. 6%",
+            "C. 1%",
+            "D. 8%"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$g = \\frac{4\\pi^{2}L}{T^{2}}$. $\\frac{\\Delta g}{g} \\times 100 = \\frac{\\Delta L}{L} \\times 100 + 2(\\frac{\\Delta T}{T} \\times 100) = 2\\% + 2(3\\%) = 8\\%$. [cite: 1286-1295]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "A physical quantity x is calculated from $x = \\frac{ab^{2}}{\\sqrt{c}}$. Calculate the percentage error in measuring x when the percentage errors in measuring a, b, and c are 4, 2, and 3%, respectively",
+        "question_latex": "A physical quantity $x$ is calculated from $x = \\frac{ab^{2}}{\\sqrt{c}}$. Calculate the percentage error in measuring $x$ when the percentage errors in measuring $a$, $b$, and $c$ are 4, 2, and 3%, respectively",
+        "question_images": [],
+        "options": [
+            "A. 7%",
+            "B. 9%",
+            "C. 11%",
+            "D. 9.5%"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$\\frac{\\Delta x}{x} = \\frac{\\Delta a}{a} + 2\\frac{\\Delta b}{b} + \\frac{1}{2}\\frac{\\Delta c}{c} = 4\\% + 2(2\\%) + \\frac{1}{2}(3\\%) = 4 + 4 + 1.5 = 9.5\\%$. [cite: 1296-1304]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "If E, m, J and G represent energy, mass, angular momentum and gravitational constant respectively, then the dimensional formula of $EJ^{2}/m^{5}G^{2}$ is",
+        "question_latex": "If E, $m$, J and G represent energy, mass, angular momentum and gravitational constant respectively, then the dimensional formula of $EJ^{2}/m^{5}G^{2}$ is",
+        "question_images": [],
+        "options": [
+            "A. $[MLT^{-2}]$ ",
+            "B. $[M^{0}L^{0}T]$ ",
+            "C. $[M^{0}L^{2}T^{0}]$ ",
+            "D. Dimensionless"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Dimensions: $E = [ML^{2}T^{-2}]$, $J = [ML^{2}T^{-1}]$, $m = [M]$, $G = [M^{-1}L^{3}T^{-2}]$. Substituting: $\\frac{[ML^{2}T^{-2}][ML^{2}T^{-1}]^{2}}{[M^{5}][M^{-1}L^{3}T^{-2}]^{2}} = [M^{0}L^{0}T^{0}]$. [cite: 1305-1310]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "The dimensions of stress are equal to",
+        "question_latex": "The dimensions of stress are equal to",
+        "question_images": [],
+        "options": [
+            "A. Force",
+            "B. Pressure",
+            "C. Work",
+            "D. Power"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Both stress and pressure are defined as force per unit area, having dimensions $[ML^{-1}T^{-2}]$. [cite: 1311-1316]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Match List-I with List-II: \nList-I: (A) Torque, (B) Magnetic field, (C) Magnetic moment, (D) Permeability of free space. \nList-II: (I) $[M^{1}L^{1}T^{-2}A^{-2}]$, (II) $[L^{2}A^{1}]$, (III) $[M^{1}T^{-2}A^{-1}]$, (IV) $[M^{1}L^{2}T^{-2}]$.",
+        "question_latex": "Match List-I with List-II: \nList-I: (A) Torque, (B) Magnetic field, (C) Magnetic moment, (D) Permeability of free space. \nList-II: (I) $[M^{1}L^{1}T^{-2}A^{-2}]$, (II) $[L^{2}A^{1}]$, (III) $[M^{1}T^{-2}A^{-1}]$, (IV) $[M^{1}L^{2}T^{-2}]$.",
+        "question_images": [
+            "74_qu_1.png"
+        ],
+        "options": [
+            "A. A-I, B-III, C-II, D-IV",
+            "B. A-III, B-I, C-II, D-IV",
+            "C. A-IV, B-III, C-II, D-I",
+            "D. A-IV, B-II, C-III, D-I"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "(A) Torque = $[ML^{2}T^{-2}]$ (IV). (B) Magnetic field $B = F/qv = [MT^{-2}A^{-1}]$ (III). (C) Magnetic moment $M = IA = [L^{2}A]$ (II). (D) Permeability $\\mu_{0} = [MLT^{-2}A^{-2}]$ (I). [cite: 1317-1337]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Physical_World_and_Measurement",
+        "question": "Two resistances are given as $R_{1} = (10 \\pm 0.5) \\Omega$ and $R_{2} = (15 \\pm 0.5) \\Omega$. The percentage error in the measurement of equivalent resistance when they are connected in parallel is",
+        "question_latex": "Two resistances are given as $R_{1} = (10 \\pm 0.5) \\Omega$ and $R_{2} = (15 \\pm 0.5) \\Omega$. The percentage error in the measurement of equivalent resistance when they are connected in parallel is",
+        "question_images": [],
+        "options": [
+            "A. 6.33",
+            "B. 2.33",
+            "C. 4.33",
+            "D. 5.33"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$R_{p} = \\frac{10 \\times 15}{10+15} = 6 \\Omega$. Error $\\Delta R_{p} = \\Delta R_{1}(\\frac{R_{p}}{R_{1}})^{2} + \\Delta R_{2}(\\frac{R_{p}}{R_{2}})^{2} = 0.5(0.6)^{2} + 0.5(0.4)^{2} = 0.18 + 0.08 = 0.26$. Percentage error $= (0.26/6) \\times 100 = 4.33\\%$. [cite: 1338-1348]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Units and Measurements",
+        "question": "Universal time is based on",
+        "question_latex": "Universal time is based on",
+        "question_images": [],
+        "options": [
+            "A. rotation of the earth on its axis",
+            "B. earth's orbital motion around the Sun",
+            "C. vibrations of cesium atom",
+            "D. oscillations of quartz crystal"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Universal time is based on the vibrations of the cesium atom, which provides a highly stable and accurate standard for timekeeping.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Units and Measurements",
+        "question": "In the equation $[X+\\frac{a}{Y^{2}}][Y-b]=RT$, X is pressure, Y is volume, R is universal gas constant and T is temperature. The physical quantity equivalent to the ratio $a/b$ is",
+        "question_latex": "In the equation $[X+\\frac{a}{Y^{2}}][Y-b]=RT$, $X$ is pressure, $Y$ is volume, $R$ is universal gas constant and $T$ is temperature. The physical quantity equivalent to the ratio $\\frac{a}{b}$ is",
+        "question_images": [],
+        "options": [
+            "A. impulse",
+            "B. pressure gradient",
+            "C. energy",
+            "D. coefficient of viscosity"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "By the principle of homogeneity, $[X] = [\\frac{a}{Y^2}] \\Rightarrow [a] = [X][Y^2] = [ML^{-1}T^{-2}][L^6] = [ML^5T^{-2}]$. Also, $[Y] = [b] = [L^3]$. Thus, the ratio $[\\frac{a}{b}] = \\frac{[ML^5T^{-2}]}{[L^3]} = [ML^2T^{-2}]$, which corresponds to the dimensions of energy.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Units and Measurements",
+        "question": "Solar constant is defined as energy received by earth per $cm^2$ per minute. The dimensions of solar constant are",
+        "question_latex": "Solar constant is defined as energy received by earth per $cm^{2}$ per minute. The dimensions of solar constant are",
+        "question_images": [],
+        "options": [
+            "A. $[ML^{2}T^{-3}]",
+            "B. $[M^{2}L^{0}T^{-1}]",
+            "C. $[ML^{0}T^{-3}]",
+            "D. $[MLT^{-2}]"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Solar constant $= \\frac{\\text{Energy}}{\\text{Area} \\times \\text{Time}} = \\frac{[ML^2T^{-2}]}{[L^2][T]} = [ML^0T^{-3}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Units and Measurements",
+        "question": "Dimensional formula of capacitance (or farad) is",
+        "question_latex": "Dimensional formula of capacitance (or farad) is",
+        "question_images": [],
+        "options": [
+            "A. $[M^{-1}L^{-2}T^{4}A^{2}]",
+            "B. $[M^{-1}L^{-2}T^{4}A^{2}]",
+            "C. $[ML^{2}T^{4}A^{-2}]",
+            "D. $[MLT^{-4}A^{2}]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$C = \\frac{Q}{V} = \\frac{Q^2}{W} = \\frac{[AT]^2}{[ML^2T^{-2}]} = [M^{-1}L^{-2}T^4A^2]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Units and Measurements",
+        "question": "If L, C and R represent inductance, capacitance and resistance respectively, then which of the following does not represent dimensions of frequency",
+        "question_latex": "If $L$, $C$ and $R$ represent inductance, capacitance and resistance respectively, then which of the following does not represent dimensions of frequency",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{1}{RC}",
+            "B. $\\frac{R}{L}",
+            "C. $\\frac{1}{\\sqrt{LC}}",
+            "D. $\\frac{C}{L}"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The resonant frequency $f = \\frac{1}{2\\pi\\sqrt{LC}}$, and the time constants for RC and LR circuits are $RC$ and $L/R$ respectively. Thus $\\frac{1}{RC}$, $\\frac{R}{L}$, and $\\frac{1}{\\sqrt{LC}}$ all have dimensions of $[T^{-1}]$. $\\frac{C}{L}$ does not.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Units and Measurements",
+        "question": "The physical quantity which is not a unit of energy is",
+        "question_latex": "The physical quantity which is not a unit of energy is",
+        "question_images": [],
+        "options": [
+            "A. Volt-coulomb",
+            "B. MeV-sec",
+            "C. Henry (ampere)$^2$",
+            "D. Farad- (volt)$^2$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Volt-coulomb ($Vq$), Henry-ampere$^2$ ($LI^2$), and Farad-volt$^2$ ($CV^2$) all represent energy. MeV-sec is energy multiplied by time, which is action or angular momentum, not energy.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Units and Measurements",
+        "question": "Which the following is/are correct? I. Pressure = energy per unit area II. Pressure = energy per unit volume III. Pressure = force per unit volume IV. Pressure = momentum per unit volume per unit time",
+        "question_latex": "Which the following is/are correct? I. Pressure = energy per unit area II. Pressure = energy per unit volume III. Pressure = force per unit volume IV. Pressure = momentum per unit volume per unit time",
+        "question_images": [],
+        "options": [
+            "A. I and II",
+            "B. II only",
+            "C. III only",
+            "D. I, II, III and IV"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Pressure $= \\frac{\\text{Force}}{\\text{Area}} = \\frac{\\text{Work}}{\\text{Volume}} = \\frac{\\text{Energy}}{\\text{Volume}}$. Dimensionally $[ML^{-1}T^{-2}]$. Only statement II is correct.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Units and Measurements",
+        "question": "If $v = \\frac{A}{t} + Bt^{2} + Ct^{3}$ where v is velocity, t is time and A, B and C are constants, then the dimensional formula of B is",
+        "question_latex": "If $v = \\frac{A}{t} + Bt^{2} + Ct^{3}$ where $v$ is velocity, $t$ is time and $A, B$ and $C$ are constants, then the dimensional formula of $B$ is",
+        "question_images": [],
+        "options": [
+            "A. $[M^{0}LT^{0}]",
+            "B. $[ML^{0}T^{0}]",
+            "C. $[M^{0}L^{0}T]",
+            "D. $[M^{0}LT^{-3}]"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "By the principle of homogeneity, $[Bt^2] = [v] \\Rightarrow [B] = \\frac{[LT^{-1}]}{[T^2]} = [LT^{-3}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Units and Measurements",
+        "question": "The maximum percentage error in the measurement of density of a wire is [Given, mass of wire $=(0.60\\pm0.003)g$, radius of wire $=(0.50\\pm0.01)cm$, length of wire $=(10.00\\pm0.05)cm$]",
+        "question_latex": "The maximum percentage error in the measurement of density of a wire is [Given, mass of wire $=(0.60\\pm0.003)g$, radius of wire $=(0.50\\pm0.01)cm$, length of wire $=(10.00\\pm0.05)cm$]",
+        "question_images": [],
+        "options": [
+            "A. 4%",
+            "B. 8%",
+            "C. 7%",
+            "D. 5%"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Density $\\rho = \\frac{m}{\\pi R^2 l}$. Relative error $\\frac{\\Delta \\rho}{\\rho} = \\frac{\\Delta m}{m} + 2\\frac{\\Delta R}{R} + \\frac{\\Delta l}{l}$. Percentage error $= (\\frac{0.003}{0.6} + 2 \\times \\frac{0.01}{0.5} + \\frac{0.05}{10}) \\times 100 = (0.005 + 0.04 + 0.005) \\times 100 = 5\\%$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Units and Measurements",
+        "question": "The physical quantities not having same dimensions are",
+        "question_latex": "The physical quantities not having same dimensions are",
+        "question_images": [],
+        "options": [
+            "A. torque and work",
+            "B. momentum and Planck's constant",
+            "C. stress and Young's modulus",
+            "D. speed and $(\\mu_{0}\\epsilon_{0})^{-1/2}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Momentum $= [MLT^{-1}]$. Planck's constant $= [ML^2T^{-1}]$. These are not identical. Torque and work are $[ML^2T^{-2}]$. Stress and Young's modulus are $[ML^{-1}T^{-2}]$. Speed and $(\\mu_0\\epsilon_0)^{-1/2}$ are $[LT^{-1}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Units and Measurements",
+        "question": "Which of the following pairs has same dimensions?",
+        "question_latex": "Which of the following pairs has same dimensions?",
+        "question_images": [],
+        "options": [
+            "A. Angular momentum and Plank's constant",
+            "B. Dipole moment and electric field",
+            "C. Both (a) and (b)",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Angular momentum and Planck's constant both have the dimensional formula $[ML^2T^{-1}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Units and Measurements",
+        "question": "If C is the restoring couple per unit radian twist and I is the moment of inertia, then the dimensional representation of $2\\pi\\sqrt{\\frac{I}{C}}$ will be",
+        "question_latex": "If $C$ is the restoring couple per unit radian twist and $I$ is the moment of inertia, then the dimensional representation of $2\\pi\\sqrt{\\frac{I}{C}}$ will be",
+        "question_images": [],
+        "options": [
+            "A. $[M^{0}L^{0}T^{-1}]",
+            "B. $[M^{0}L^{0}T]",
+            "C. $[M^{0}LT^{-1}]",
+            "D. $[M L^{2}T^{-2}]"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The expression $T = 2\\pi\\sqrt{\\frac{I}{C}}$ represents the time period of angular simple harmonic motion, so its dimension is $[T]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Units and Measurements",
+        "question": "Out of the following pairs, which one does not have identical dimensions?",
+        "question_latex": "Out of the following pairs, which one does not have identical dimensions?",
+        "question_images": [],
+        "options": [
+            "A. Moment of inertia and moment of a force",
+            "B. Work and torque",
+            "C. Impulse and momentum",
+            "D. Angular momentum and Planck's constant"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Moment of inertia is $[ML^2]$. Moment of a force (torque) is $[ML^2T^{-2}]$. These are not identical.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Units and Measurements",
+        "question": "The physical quantity angular momentum has the same dimensions as that of",
+        "question_latex": "The physical quantity angular momentum has the same dimensions as that of",
+        "question_images": [],
+        "options": [
+            "A. Work",
+            "B. Force",
+            "C. Momentum",
+            "D. Planck's constant"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Both angular momentum and Planck's constant have dimensions $[ML^2T^{-1}]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Units and Measurements",
+        "question": "Assertion: 'Light year' and 'Wavelength' both measure distance. Reason: Both have dimension of time.",
+        "question_latex": "Assertion: 'Light year' and 'Wavelength' both measure distance. Reason: Both have dimension of time.",
+        "question_images": [],
+        "options": [
+            "A. Assertion is correct, reason is correct; reason is a correct explanation for assertion.",
+            "B. Assertion is correct, reason is correct; reason is not a correct explanation for assertion.",
+            "C. Assertion is correct, reason is incorrect.",
+            "D. Assertion is incorrect, reason is correct."
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The assertion is correct as both Light year and Wavelength are units of distance. However, the reason is incorrect because their dimension is Length $[L]$, not Time $[T]$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Units and Measurements",
+        "question": "Match the Column I and Column II.\nColumn I:\n(A) Johannes Kepler\n(B) Tycho Brahe\n(C) Nicolas Copernicus\n(D) Ernest Rutherford\n\nColumn II:\n(1) Nuclear model of the atom\n(2) Planetary motion data\n(3) Elliptical orbit theory\n(4) Circular orbit theory",
+        "question_latex": "Match the Column I and Column II.\\\\\nColumn I:\\\\\n(A) Johannes Kepler\\\\\n(B) Tycho Brahe\\\\\n(C) Nicolas Copernicus\\\\\n(D) Ernest Rutherford\\\\\n\\\\\nColumn II:\\\\\n(1) Nuclear model of the atom\\\\\n(2) Planetary motion data\\\\\n(3) Elliptical orbit theory\\\\\n(4) Circular orbit theory",
+        "question_images": [],
+        "options": [
+            "A. (A)→(3); (B)→(2); (C)→(4); (D)→(1)",
+            "B. (A)→(1); (B)→(2); (C)→(3); (D)→(4)",
+            "C. (A)→(2); (B)→(1); (C)→(4); (D)→(3)",
+            "D. (A)→(3); (B)→(2); (C)→(4); (D)→(1)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Johannes Kepler proposed the elliptical orbit theory (3) based on the planetary motion data collected by Tycho Brahe (2). Nicolas Copernicus proposed circular orbits in the heliocentric theory (4), and Ernest Rutherford proposed the nuclear model of the atom (1).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Units and Measurements",
+        "question": "A liquid drop of density $\\rho$, radius $r$, and surface tension $\\sigma$ oscillates with time period T. Which of the following expression for $T^{2}$ is correct?",
+        "question_latex": "A liquid drop of density $\\rho$, radius $r$, and surface tension $\\sigma$ oscillates with time period $T$. Which of the following expression for $T^{2}$ is correct?",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{\\rho r^{3}}{\\sigma}",
+            "B. $\\frac{\\rho \\sigma}{r^{3}}",
+            "C. $\\frac{r^{3} \\sigma}{\\rho}",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Using dimensional analysis: $T^2 \\propto \\rho^a r^b \\sigma^c$. $[T^2] = [ML^{-3}]^a [L]^b [MT^{-2}]^c$. Solving for exponents: $a+c=0$, $-3a+b=0$, and $-2c=2$. This gives $c=-1$, $a=1$, and $b=3$. Thus $T^2 \\propto \\frac{\\rho r^3}{\\sigma}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Units and Measurements",
+        "question": "The unit of physical quantity obtained by the line integral of electric field is",
+        "question_latex": "The unit of physical quantity obtained by the line integral of electric field is",
+        "question_images": [],
+        "options": [
+            "A. $NC^{-1}",
+            "B. $Vm^{-1}",
+            "C. $JC^{-1}",
+            "D. $C^{2}N^{-1}m^{-2}"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The line integral of the electric field $\\int E \\cdot dl$ represents potential difference (Voltage). Voltage $V = W/q$, so its unit is Joule/Coulomb ($JC^{-1}$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Units and Measurements",
+        "question": "Which of the following is not the unit of time?",
+        "question_latex": "Which of the following is not the unit of time?",
+        "question_images": [],
+        "options": [
+            "A. Micro second",
+            "B. Leap year",
+            "C. Lunar month",
+            "D. Parallactic second"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Parallactic second (parsec) is a unit of distance used in astronomy, not a unit of time.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Units and Measurements",
+        "question": "The dimensions of $1/2\\epsilon_{0}E^{2}$ are same as",
+        "question_latex": "The dimensions of $\\frac{1}{2}\\epsilon_{0}E^{2}$ are same as",
+        "question_images": [],
+        "options": [
+            "A. Energy density (energy per unit volume)",
+            "B. Energy",
+            "C. Power",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The expression $\\frac{1}{2}\\epsilon_{0}E^{2}$ represents the energy density in an electric field, which is energy per unit volume.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Units and Measurements",
+        "question": "The density of a material in SI units is $128~kg~m^{-3}$. In certain units in which the unit of length is 25 cm and the unit of mass is 50 g, the numerical value of density of the material is",
+        "question_latex": "The density of a material in SI units is $128~kg~m^{-3}$. In certain units in which the unit of length is $25~cm$ and the unit of mass is $50~g$, the numerical value of density of the material is",
+        "question_images": [],
+        "options": [
+            "A. 16",
+            "B. 410",
+            "C. 40",
+            "D. 640"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Using $n_1 u_1 = n_2 u_2$: $128 \\times [\\frac{1 kg}{1 m^3}] = n_2 \\times [\\frac{50 g}{(25 cm)^3}]$. $n_2 = 128 \\times \\frac{1000 g}{(100 cm)^3} \\times \\frac{(25 cm)^3}{50 g} = 128 \\times \\frac{1000}{50} \\times (\\frac{25}{100})^3 = 128 \\times 20 \\times (\\frac{1}{4})^3 = 128 \\times 20 \\times \\frac{1}{64} = 2 \\times 20 = 40$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Units and Measurements",
+        "question": "Write the dimensions of $a/b$ in the relation $P = \\frac{a-t^{2}}{bx}$ where P is the pressure, x is the distance, and t is the time.",
+        "question_latex": "Write the dimensions of $a/b$ in the relation $P = \\frac{a-t^{2}}{bx}$ where $P$ is the pressure, $x$ is the distance, and $t$ is the time.",
+        "question_images": [],
+        "options": [
+            "A. $[M^{-1}L^{0}T^{-2}]",
+            "B. $[ML^{0}T^{-2}]",
+            "C. $[ML^{0}T^{2}]",
+            "D. $[MLT^{-2}]"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$[a] = [t^2] = [T^2]$. From $P = \\frac{a}{bx}$, $[b] = \\frac{[T^2]}{[P][x]} = \\frac{T^2}{[ML^{-1}T^{-2}][L]} = [M^{-1}T^4]$. Thus $[\\frac{a}{b}] = \\frac{[T^2]}{[M^{-1}T^4]} = [ML^0T^{-2}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Units and Measurements",
+        "question": "The position of a particle at time t is given by the equation $x(t) = \\frac{v_{0}}{A}(1 - e^{At})$. Dimensions of $v_{0}$ and A respectively are ($v_0 = \\text{constant}$ and $A > 0$):",
+        "question_latex": "The position of a particle at time $t$ is given by the equation $x(t) = \\frac{v_{0}}{A}(1 - e^{At})$. Dimensions of $v_{0}$ and $A$ respectively are ($v_{0} = \\text{constant}$ and $A > 0$):",
+        "question_images": [],
+        "options": [
+            "A. $[M^{0}LT^{0}]$ and $[M^{0}L^{0}T^{-1}]",
+            "B. $[M^{0}LT^{-1}]$ and $[M^{0}LT^{-2}]",
+            "C. $[M^{0}LT^{-1}]$ and $[M^{0}L^{0}T]",
+            "D. $[M^{0}LT^{-1}]$ and $[M^{0}L^{0}T^{-1}]"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The exponent $At$ must be dimensionless, so $[A] = [T^{-1}]$. Also $[x] = [\\frac{v_0}{A}] \\Rightarrow [L] = \\frac{[v_0]}{[T^{-1}]} \\Rightarrow [v_0] = [LT^{-1}]$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Units and Measurements",
+        "question": "The relation $\\tan\\theta = v^{2}/rg$ gives the angle of banking of the cyclist going round the curve. Here $v$ is the speed of the cyclist, $r$ is the radius of the curve, and $g$ is acceleration due to gravity. Which of the following statements about the relation is true?",
+        "question_latex": "The relation $\\tan\\theta = v^{2}/rg$ gives the angle of banking of the cyclist going round the curve. Here $v$ is the speed of the cyclist, $r$ is the radius of the curve, and $g$ is acceleration due to gravity. Which of the following statements about the relation is true?",
+        "question_images": [],
+        "options": [
+            "A. It is both dimensionally as well as numerically correct",
+            "B. It is neither dimensionally correct nor numerically correct",
+            "C. It is dimensionally correct but not numerically",
+            "D. It is numerically correct but not dimensionally"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\tan\\theta$ is dimensionless. $[v^2/rg] = \\frac{[L^2T^{-2}]}{[L][LT^{-2}]} = [M^0L^0T^0]$, which is also dimensionless. The formula also lacks any missing numerical factors, making it numerically correct.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Units and Measurements",
+        "question": "Match the following column I and II.\nColumn I:\n(A) 1 Fermi\n(B) 1 Astronomical unit\n(C) 1 Light year\n(D) 1 Parsec\n\nColumn II:\n(1) $3.08\\times10^{16} m$\n(2) $9.46\\times10^{15} m$\n(3) $1.496\\times10^{11} m$\n(4) $10^{-15} m$",
+        "question_latex": "Match the following column I and II.\\\\\nColumn I:\\\\\n(A) 1 Fermi\\\\\n(B) 1 Astronomical unit\\\\\n(C) 1 Light year\\\\\n(D) 1 Parsec\\\\\n\\\\\nColumn II:\\\\\n(1) $3.08\\times10^{16}~m$\\\\\n(2) $9.46\\times10^{15}~m$\\\\\n(3) $1.496\\times10^{11}~m$\\\\\n(4) $10^{-15}~m$",
+        "question_images": [
+            "100_qu_1.png"
+        ],
+        "options": [
+            "A. (A)→(4); (B)→(2); (C)→(1); (D)→(3)",
+            "B. (A)→(3); (B)→(2); (C)→(4); (D)→(1)",
+            "C. (A)→(4); (B)→(3); (C)→(2); (D)→(1)",
+            "D. (A)→(2); (B)→(1); (C)→(3); (D)→(4)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "1 Fermi = $10^{-15} m$ (4); 1 AU = $1.496 \\times 10^{11} m$ (3); 1 Light year = $9.46 \\times 10^{15} m$ (2); 1 Parsec = $3.08 \\times 10^{16} m$ (1).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    }
+]

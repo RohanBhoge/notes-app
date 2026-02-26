@@ -1,0 +1,1961 @@
+[
+    {
+        "id": 1,
+        "chapter": "Redox Reactions",
+        "question": "In permonosulphuric acid ($H_{2}SO_{5}$), the oxidation number of sulphur is",
+        "question_latex": "In permonosulphuric acid ($H_{2}SO_{5}$), the oxidation number of sulphur is",
+        "question_images": [],
+        "options": [
+            "A. +8",
+            "B. +4",
+            "C. +5",
+            "D. +6"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Permonosulphuric acid ($H_{2}SO_{5}$) has two oxygen atoms in peroxide linkage, hence, $2(+1) + x + 2(-1) + 3(-2) = 0$[cite: 14]. $2 + x - 2 - 6 = 0$[cite: 15]. $x = +6$[cite: 16].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Redox Reactions",
+        "question": "The number of electrons involved in the reduction of one nitrate ion to hydrazine is",
+        "question_latex": "The number of electrons involved in the reduction of one nitrate ion to hydrazine is",
+        "question_images": [],
+        "options": [
+            "A. 8",
+            "B. 5",
+            "C. 3",
+            "D. 7"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Reduction of one nitrate ion ($NO_{3}^{-}$) to hydrazine ($N_{2}H_{4}$): for reduction of 1 mole of $NO_{3}^{-}$, the number of electrons required is 7[cite: 20].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Redox Reactions",
+        "question": "Oxidation number of cobalt in $K[Co(CO)_{4}]$ is",
+        "question_latex": "Oxidation number of cobalt in $K[Co(CO)_{4}]$ is",
+        "question_images": [],
+        "options": [
+            "A. +1",
+            "B. +3",
+            "C. -1",
+            "D. -3"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In $K[Co(CO)_{4}]$, let the O.N. of Co be $x$[cite: 24, 25]. $1 \times (+1) + x + 4 \times (0) = 0$[cite: 26]. Therefore, $x = -1$[cite: 31].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Redox Reactions",
+        "question": "0.3 g of an oxalate salt was dissolved in 100 mL solution. The solution required 90 mL of N/20 $KMnO_{4}$ for complete oxidation. The % of oxalate ion in salt is:",
+        "question_latex": "0.3 g of an oxalate salt was dissolved in 100 mL solution. The solution required 90 mL of N/20 $KMnO_{4}$ for complete oxidation. The % of oxalate ion in salt is:",
+        "question_images": [],
+        "options": [
+            "A. 33%",
+            "B. 66%",
+            "C. 70%",
+            "D. 40%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Meq. of oxalate = Meq. of $KMnO_{4}$[cite: 39]. $\\frac{w}{88/2} \\times 1000 = 90 \\times \\frac{1}{20}$[cite: 40]. $w_{\\text{oxalate ion}} = 0.198 \\text{ g}$[cite: 41]. % of oxalate ion = $\\frac{0.198}{0.3} \\times 100 = 66\\%$[cite: 42].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Redox Reactions",
+        "question": "In which of the following reactions, hydrogen peroxide acts as an oxidizing agent?",
+        "question_latex": "In which of the following reactions, hydrogen peroxide acts as an oxidizing agent?",
+        "question_images": [],
+        "options": [
+            "A. $2MnO_{4}^{-} + 3H_{2}O_{2} \\rightarrow 2MnO_{2} + 3O_{2} + 2H_{2}O + 2OH^{-}$ ",
+            "B. $PbS + 4H_{2}O_{2} \\rightarrow PbSO_{4} + 4H_{2}O$",
+            "C. $ClO^{-} + H_{2}O_{2} \\rightarrow H_{3}O^{+} + Cl^{-} + O_{2}$",
+            "D. $I_{2} + H_{2}O_{2} + 2OH^{-} \\rightarrow 2I^{-} + 2H_{2}O + O_{2}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In the reaction $PbS + 4H_{2}O_{2} \\rightarrow PbSO_{4} + 4H_{2}O$, $H_{2}O_{2}$ gains electrons to convert into $H_{2}O$, thus acting as an oxidizing agent[cite: 47, 48].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Redox Reactions",
+        "question": "Which change occur when lead monoxide is converted into lead nitrate?",
+        "question_latex": "Which change occur when lead monoxide is converted into lead nitrate?",
+        "question_images": [],
+        "options": [
+            "A. Oxidation",
+            "B. Reduction",
+            "C. Neither oxidation nor reduction",
+            "D. Both oxidation and reduction"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "When lead monoxide is converted to lead nitrate, the oxidation number of each species remains the same[cite: 50, 51].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Redox Reactions",
+        "question": "The oxidation number of N in $NH_{3}$ is:",
+        "question_latex": "The oxidation number of N in $NH_{3}$ is:",
+        "question_images": [],
+        "options": [
+            "A. -3",
+            "B. +3",
+            "C. Zero",
+            "D. 5"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In $NH_{3}$, let the O.N. of N be $a$. $a + 3 \\times (+1) = 0 \\implies a = -3$[cite: 55].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Redox Reactions",
+        "question": "The standard electrode potentials of four elements A, B, C and D are -3.05, -1.66, -0.40 and +0.80. The highest chemical reactivity will be exhibited by",
+        "question_latex": "The standard electrode potentials of four elements A, B, C and D are -3.05, -1.66, -0.40 and +0.80. The highest chemical reactivity will be exhibited by",
+        "question_images": [],
+        "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard electrode potential (reduction potential) of A is minimum (-3.05 V), meaning its oxidation potential is maximum, implying A is the most reactive[cite: 60].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Redox Reactions",
+        "question": "Cerric ammonium sulphate and potassium permanganate are used as oxidising agents in acidic medium for oxidation of ferrous ammonium sulphate to ferric sulphate. The ratio of number of moles of cerric ammonium sulphate required per mole of ferrous ammonium sulphate to the number of moles of $KMnO_{4}$ required per mole of ferrous ammonium sulphate, is",
+        "question_latex": "Cerric ammonium sulphate and potassium permanganate are used as oxidising agents in acidic medium for oxidation of ferrous ammonium sulphate to ferric sulphate. The ratio of number of moles of cerric ammonium sulphate required per mole of ferrous ammonium sulphate to the number of moles of $KMnO_{4}$ required per mole of ferrous ammonium sulphate, is",
+        "question_images": [],
+        "options": [
+            "A. 5.0",
+            "B. 0.2",
+            "C. 0.6",
+            "D. 2.0"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$Fe^{2+} + Ce^{4+} \\rightarrow Fe^{3+} + Ce^{3+}$ (1 mole $Ce^{4+}$ per mole $Fe^{2+}$). $5Fe^{2+} + MnO_{4}^{-} + 8H^{+} \\rightarrow 5Fe^{3+} + Mn^{2+} + 4H_{2}O$ (1/5 mole $KMnO_{4}$ per mole $Fe^{2+}$)[cite: 65]. Ratio = $\\frac{1}{1/5} = 5.0$[cite: 76].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Organic Chemistry",
+        "question": "The products (A), (B), and (C) are formed based on the reaction of the given organic compound with (A) $H_{2}/Ni$, (B) $H_{2}/Ni$ at 100 atm, and (C) $Na + liq. NH_{3} + C_{2}H_{5}OH$.",
+        "question_latex": "The products (A), (B), and (C) are formed based on the reaction of the given organic compound with (A) $H_{2}/Ni$, (B) $H_{2}/Ni$ at 100 atm, and (C) $Na + liq. NH_{3} + C_{2}H_{5}OH$.",
+        "question_images": [
+            "q10_1",
+            "10_qu_1.png"
+        ],
+        "options": [
+            "A. Option A structure",
+            "B. Option B structure",
+            "C. Option C structure",
+            "D. Option D structure"
+        ],
+        "option_images": [
+            "q10optionA1",
+            "q10optionB1",
+            "q10optionC1",
+            "q10optionD1",
+            "10_opA_1.png",
+            "10_opB_1.png",
+            "10_opC_1.png",
+            "10_opD_1.png"
+        ],
+        "answer": "B",
+        "solution": "(i) $H_{2} + Ni$ converts $-CHO$ to $-CH_{2}OH$[cite: 85]. (ii) High pressure $H_{2} + Ni$ reduces both benzene ring and $-CHO$ group[cite: 86]. (iii) Birch reduction reduces the ring to an isolated double bond product where the EWG is allylic[cite: 87].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Redox Reactions",
+        "question": "Sulphur has the highest oxidation state in :",
+        "question_latex": "Sulphur has the highest oxidation state in :",
+        "question_images": [],
+        "options": [
+            "A. $SO_{2}$ ",
+            "B. $SO_{3}$ ",
+            "C. $H_{2}SO_{3}$ ",
+            "D. $H_{2}S$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Sulphur has a +6 oxidation number in $SO_{3}$, which is the highest among the given options[cite: 92, 93].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Redox Reactions",
+        "question": "What volume of 3 molar $HNO_{3}$ is needed to oxidise 8 g of $Fe^{2+}$ to $Fe^{3+}$? ($HNO_{3}$ gets converted to NO)",
+        "question_latex": "What volume of 3 molar $HNO_{3}$ is needed to oxidise 8 g of $Fe^{2+}$ to $Fe^{3+}$? ($HNO_{3}$ gets converted to NO)",
+        "question_images": [],
+        "options": [
+            "A. 8 mL",
+            "B. 16 mL",
+            "C. 32 mL",
+            "D. 64 mL"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Meq. of $HNO_{3}$ = Meq. of $Fe^{2+}$[cite: 97]. Eq. wt of $HNO_{3} = M/3$[cite: 99]. $3 \\times 3 \\times V = \\frac{8}{56} \\times 1000 \\implies V = 15.87 \\text{ mL} \\approx 16 \\text{ mL}$[cite: 100].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Redox Reactions",
+        "question": "In a conjugate pair of reductant and oxidant, the reductant has :",
+        "question_latex": "In a conjugate pair of reductant and oxidant, the reductant has :",
+        "question_images": [],
+        "options": [
+            "A. Lower ox.no.",
+            "B. Higher ox.no.",
+            "C. Same ox.no.",
+            "D. Either of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In a reaction like $M^{5+} \\rightarrow M^{7+} + 2e^{-}$, $M^{5+}$ is the reductant and has a lower oxidation number[cite: 103].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Redox Reactions",
+        "question": "Oxidation of thiosulphate ($S_{2}O_{3}^{2-}$) ions by iodine gives:",
+        "question_latex": "Oxidation of thiosulphate ($S_{2}O_{3}^{2-}$) ions by iodine gives:",
+        "question_images": [],
+        "options": [
+            "A. $SO_{3}^{-}$",
+            "B. $SO_{4}^{2-}$",
+            "C. $S_{4}O_{6}^{2-}$",
+            "D. $S_{2}O_{8}^{2-}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The reaction is $2S_{2}O_{3}^{2-} + I_{2} \\rightarrow S_{4}O_{6}^{2-} + 2I^{-}$[cite: 107].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Redox Reactions",
+        "question": "Which of the following is not a disproportionation reaction?",
+        "question_latex": "Which of the following is not a disproportionation reaction?",
+        "question_images": [],
+        "options": [
+            "A. $2PhCHO \\xrightarrow{Al(OEt)_3} PhCOOCH_{2}Ph$",
+            "B. Cannizzaro reaction of $CHO$ and $COOH$",
+            "C. $NaH + H_{2}O \\rightarrow NaOH + H_{2}$",
+            "D. All"
+        ],
+        "option_images": [
+            "q15optionA1",
+            "q15optionB1"
+        ],
+        "answer": "C",
+        "solution": "Options (a) and (b) are disproportionation reactions[cite: 115]. Reaction (c) is an oxidation-reduction (specifically oxidation of $H^{-}$ to $H_{2}$)[cite: 116, 117].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Redox Reactions",
+        "question": "For the reaction, $NH_{3} + OCl^{-} \\rightarrow N_{2}H_{4} + Cl^{-}$ occurring in basic medium, the coefficient of $N_{2}H_{4}$ in the balanced equation will be",
+        "question_latex": "For the reaction, $NH_{3} + OCl^{-} \\rightarrow N_{2}H_{4} + Cl^{-}$ occurring in basic medium, the coefficient of $N_{2}H_{4}$ in the balanced equation will be",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The balanced equation is $2NH_{3} + OCl^{-} \\rightarrow N_{2}H_{4} + Cl^{-} + H_{2}O$[cite: 122]. The coefficient of $N_{2}H_{4}$ is 1.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Redox Reactions",
+        "question": "Chlorine undergoes disproportionation in alkaline medium: $aCl_{2}(g) + bOH^{-}(aq) \\rightarrow cClO^{-}(aq) + dCl^{-}(aq) + eH_{2}O(l)$. The values of a, b, c and d in a balanced redox reaction are respectively:",
+        "question_latex": "Chlorine undergoes disproportionation in alkaline medium: $aCl_{2}(g) + bOH^{-}(aq) \\rightarrow cClO^{-}(aq) + dCl^{-}(aq) + eH_{2}O(l)$. The values of a, b, c and d in a balanced redox reaction are respectively:",
+        "question_images": [],
+        "options": [
+            "A. 3, 4, 4 and 2",
+            "B. 1, 2, 1 and 1",
+            "C. 2, 2, 1 and 3",
+            "D. 5, 10, 1 and 9"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The balanced redox reaction is $1Cl_{2} + 2OH^{-} \\rightarrow 1Cl^{-} + 1ClO^{-} + 1H_{2}O$[cite: 136]. Thus a=1, b=2, c=1, d=1.",
+        "solution_images": [
+            "17_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Redox Reactions",
+        "question": "How many gram of $KMnO_{4}$ are contained in 4 litre of 0.05 N solution? The $KMnO_{4}$ is to be used as an oxidant in acidic medium:",
+        "question_latex": "How many gram of $KMnO_{4}$ are contained in 4 litre of 0.05 N solution? The $KMnO_{4}$ is to be used as an oxidant in acidic medium:",
+        "question_images": [],
+        "options": [
+            "A. 1.58 g",
+            "B. 15.8 g",
+            "C. 6.32 g",
+            "D. 31.6 g"
+        ],
+        "option_images": [
+            "18_opC_1.png"
+        ],
+        "answer": "C",
+        "solution": "Meq. of $KMnO_{4} = 4000 \\times 0.05 = 200$[cite: 142]. $\\frac{w}{31.6} \\times 1000 = 200 \\implies w = 6.32 \\text{ g}$[cite: 143, 144].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Redox Reactions",
+        "question": "In the reaction given below, identify the species undergoing redox reaction: $2Na(s) + H_{2}(g) \\rightarrow 2NaH(s)$",
+        "question_latex": "In the reaction given below, identify the species undergoing redox reaction: $2Na(s) + H_{2}(g) \\rightarrow 2NaH(s)$",
+        "question_images": [],
+        "options": [
+            "A. Na is reduced and hydrogen is oxidised",
+            "B. Na is oxidised and hydrogen is reduced",
+            "C. Na undergoes oxidation and hydrogen undergoes reduction",
+            "D. Both (B) and (C)"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "In $2Na(s) + H_{2}(g) \\rightarrow 2NaH(s)$, sodium is oxidised and hydrogen is reduced based on electronegativity concepts[cite: 147, 148].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Redox Reactions",
+        "question": "The oxidation states of the most electronegative elements in the products of the reaction between $BaO_{2}$ and $H_{2}SO_{4}$ are",
+        "question_latex": "The oxidation states of the most electronegative elements in the products of the reaction between $BaO_{2}$ and $H_{2}SO_{4}$ are",
+        "question_images": [],
+        "options": [
+            "A. 0 and -1",
+            "B. -1 and -2",
+            "C. -2 and 0",
+            "D. -2 and +1"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$BaO_{2} + H_{2}SO_{4} \\rightarrow BaSO_{4} + H_{2}O_{2}$[cite: 152]. Oxidation state of O in $H_{2}O_{2} = -1$[cite: 153]. Oxidation state of O in $BaSO_{4} = -2$[cite: 154].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Redox Reactions",
+        "question": "Which of the following reactions is an example of a redox reaction?",
+        "question_latex": "Which of the following reactions is an example of a redox reaction?",
+        "question_images": [],
+        "options": [
+            "A. $XeF_{6} + 2H_{2}O \\rightarrow XeO_{2}F_{2} + 4HF$",
+            "B. $XeF_{2} + PF_{5} \\rightarrow [XeF]^{+}PF_{6}^{-}$",
+            "C. $XeF_{4} + O_{2}F_{2} \\rightarrow XeF_{6} + O_{2}$",
+            "D. $XeF_{6} + H_{2}O \\rightarrow XeOF_{4} + 2HF$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In $XeF_{4} + O_{2}F_{2} \\rightarrow XeF_{6} + O_{2}$, there is a change in oxidation numbers (Xe from +4 to +6; O from +1 to 0), making it a redox reaction[cite: 173, 175].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Redox Reactions",
+        "question": "The oxidation number of Pr in $Pr_{6}O_{11}$ is",
+        "question_latex": "The oxidation number of Pr in $Pr_{6}O_{11}$ is",
+        "question_images": [],
+        "options": [
+            "A. 22/6",
+            "B. 11/6",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$Pr_{6}O_{11}: 6x - 22 = 0 \\implies x = 22/6$[cite: 189, 190, 191].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Redox Reactions",
+        "question": "Which compound shows highest oxidation number for chlorine?",
+        "question_latex": "Which compound shows highest oxidation number for chlorine?",
+        "question_images": [],
+        "options": [
+            "A. $HCl$",
+            "B. $KClO$",
+            "C. $KClO_{3}$",
+            "D. $KClO_{4}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Chlorine has its highest oxidation number of +7 in $KClO_{4}$[cite: 195].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Redox Reactions",
+        "question": "Amount of oxalic acid present in a solution can be determined by its titration with $KMnO_{4}$ solution in the presence of $H_{2}SO_{4}$. The titration gives unsatisfactory result when carried out in the presence of HCl, because HCl",
+        "question_latex": "Amount of oxalic acid present in a solution can be determined by its titration with $KMnO_{4}$ solution in the presence of $H_{2}SO_{4}$. The titration gives unsatisfactory result when carried out in the presence of HCl, because HCl",
+        "question_images": [],
+        "options": [
+            "A. furnishes $H^{+}$ ions in addition to those from oxalic acid",
+            "B. gets oxidised by oxalic acid to chlorine",
+            "C. oxidises oxalic acid to carbon dioxide and water",
+            "D. reduces permanganate to $Mn^{2+}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$KMnO_{4}$ being a strong oxidizing agent oxidises $HCl$ to $Cl_{2}$ and gets itself reduced to $Mn^{2+}$, interfering with the oxalic acid determination[cite: 202].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Redox Reactions",
+        "question": "Sulphurous acid can be used as:",
+        "question_latex": "Sulphurous acid can be used as:",
+        "question_images": [],
+        "options": [
+            "A. Oxidising agent",
+            "B. Reducing agent",
+            "C. Bleaching agent",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "S in $H_{2}SO_{3}$ is in +4 oxidation state, which is intermediate between its max (+6) and min (-2) states, allowing it to act as both an oxidant and reductant[cite: 206, 207].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Redox Reactions",
+        "question": "For the reaction: $NH_{3} + OCl^{-} \\rightarrow N_{2}H_{4} + Cl^{-}$ in basic medium, the coefficients of $NH_{3}$, $OCl^{-}$ and $N_{2}H_{4}$ for the balanced equation are respectively",
+        "question_latex": "For the reaction: $NH_{3} + OCl^{-} \\rightarrow N_{2}H_{4} + Cl^{-}$ in basic medium, the coefficients of $NH_{3}$, $OCl^{-}$ and $N_{2}H_{4}$ for the balanced equation are respectively",
+        "question_images": [],
+        "options": [
+            "A. 2, 2, 2",
+            "B. 2, 2, 1",
+            "C. 2, 1, 1",
+            "D. 4, 4, 2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The balanced equation is: $2NH_{3} + OCl^{-} \\rightarrow N_{2}H_{4} + Cl^{-} + H_{2}O$. The coefficients are 2, 1, 1 respectively. [cite: 211, 212]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Redox Reactions",
+        "question": "Which of the following is not a redox reaction?",
+        "question_latex": "Which of the following is not a redox reaction?",
+        "question_images": [],
+        "options": [
+            "A. $CaCO_{3} \\rightarrow CaO + CO_{2}$",
+            "B. $O_{2} + 2H_{2} \\rightarrow 2H_{2}O$",
+            "C. $Na + H_{2}O \\rightarrow NaOH + H_{2}$",
+            "D. $MnCl_{3} \\rightarrow MnCl_{2} + (1/2)Cl_{2}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In $CaCO_{3} \\rightarrow CaO + CO_{2}$, the oxidation states of Ca (+2) and C (+4) remain unchanged in both reactant and product; hence, it is not a redox reaction. [cite: 222]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Redox Reactions",
+        "question": "What products are expected from the disproportionation reaction of hypochlorous acid?",
+        "question_latex": "What products are expected from the disproportionation reaction of hypochlorous acid?",
+        "question_images": [],
+        "options": [
+            "A. $HCl$ and $Cl_{2}O$",
+            "B. $HCl$ and $HClO_{3}$",
+            "C. $HClO_{3}$ and $Cl_{2}O$",
+            "D. $HClO_{2}$ and $HClO_{4}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "During disproportionation, the same compound undergoes simultaneous oxidation and reduction: $3HOCl \\rightarrow 2HCl + HClO_{3}$. [cite: 234, 237, 238]",
+        "solution_images": [
+            "28_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Redox Reactions",
+        "question": "In the chemical reaction, $K_{2}Cr_{2}O_{7} + xH_{2}SO_{4} + ySO_{2} \\rightarrow K_{2}SO_{4} + Cr_{2}(SO_{4})_{3} + zH_{2}O$, the values of x, y, and z are",
+        "question_latex": "In the chemical reaction, $K_{2}Cr_{2}O_{7} + xH_{2}SO_{4} + ySO_{2} \\rightarrow K_{2}SO_{4} + Cr_{2}(SO_{4})_{3} + zH_{2}O$, the values of x, y, and z are",
+        "question_images": [],
+        "options": [
+            "A. 1, 3, 1",
+            "B. 4, 1, 4",
+            "C. 3, 2, 3",
+            "D. 2, 1, 2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The balanced equation is $K_{2}Cr_{2}O_{7} + H_{2}SO_{4} + 3SO_{2} \\rightarrow Cr_{2}(SO_{4})_{3} + K_{2}SO_{4} + H_{2}O$. Thus $x=1, y=3, z=1$. [cite: 247]",
+        "solution_images": [
+            "29_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Redox Reactions",
+        "question": "The number of peroxide bond in perxenate ion $[XeO_{6}]^{4-}$ is",
+        "question_latex": "The number of peroxide bond in perxenate ion $[XeO_{6}]^{4-}$ is",
+        "question_images": [],
+        "options": [
+            "A. 0",
+            "B. 2",
+            "C. 3",
+            "D. 1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "There are no peroxide bonds in the perxenate ion $[XeO_{6}]^{4-}$. [cite: 251]",
+        "solution_images": [
+            "30_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Redox Reactions",
+        "question": "Given $E^{\\circ}_{Cr^{3+}/Cr} = -0.74 V$; $E^{\\circ}_{MnO_{4}^{-}/Mn^{2+}} = 1.51 V$; $E^{\\circ}_{Cr_{2}O_{7}^{2-}/Cr^{3+}} = 1.33 V$; $E^{\\circ}_{Cl_{2}/Cl^{-}} = 1.36 V$. Based on the data given above, strongest oxidising agent will be",
+        "question_latex": "Given $E^{\\circ}_{Cr^{3+}/Cr} = -0.74 V$; $E^{\\circ}_{MnO_{4}^{-}/Mn^{2+}} = 1.51 V$; $E^{\\circ}_{Cr_{2}O_{7}^{2-}/Cr^{3+}} = 1.33 V$; $E^{\\circ}_{Cl_{2}/Cl^{-}} = 1.36 V$. Based on the data given above, strongest oxidising agent will be",
+        "question_images": [
+            "31_qu_1.png"
+        ],
+        "options": [
+            "A. $MnO_{4}^{-}$",
+            "B. $Cr^{3+}$",
+            "C. $Mn^{2+}$",
+            "D. $Cl^{-}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Greater the reduction potential of a substance, stronger is the oxidising agent. $MnO_{4}^{-}$ has the highest reduction potential (1.51 V). [cite: 258]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Redox Reactions",
+        "question": "In the reaction $8Al + 3Fe_{3}O_{4} \\rightarrow 4Al_{2}O_{3} + 9Fe$, the number of electrons transferred from the reductant to the oxidant is",
+        "question_latex": "In the reaction $8Al + 3Fe_{3}O_{4} \\rightarrow 4Al_{2}O_{3} + 9Fe$, the number of electrons transferred from the reductant to the oxidant is",
+        "question_images": [],
+        "options": [
+            "A. 8",
+            "B. 4",
+            "C. 16",
+            "D. 24"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The oxidation half-reaction is $8Al \\rightarrow 8Al^{3+} + 24e^{-}$. Thus, 24 electrons are transferred. [cite: 262]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Redox Reactions",
+        "question": "In which iron has the lowest oxidation state?",
+        "question_latex": "In which iron has the lowest oxidation state?",
+        "question_images": [],
+        "options": [
+            "A. $Fe(CO)_{5}$",
+            "B. $Fe_{2}O_{3}$",
+            "C. $K_{4}Fe(CN)_{6}$",
+            "D. $FeSO_{4}\\cdot(NH_{4})_{2}SO_{4}\\cdot6H_{2}O$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Fe in $Fe(CO)_{5}$ has an oxidation number of zero, which is the lowest for metals in these compounds. [cite: 267]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Redox Reactions",
+        "question": "Which of the following chemical reactions depicts the oxidising behaviour of $H_{2}SO_{4}$?",
+        "question_latex": "Which of the following chemical reactions depicts the oxidising behaviour of $H_{2}SO_{4}$?",
+        "question_images": [],
+        "options": [
+            "A. $2HI + H_{2}SO_{4} \\rightarrow I_{2} + SO_{2} + 2H_{2}O$",
+            "B. $2PCl_{5} + H_{2}SO_{4} \\rightarrow 2POCl_{3} + 2HCl + SO_{2}Cl_{2}$",
+            "C. $NaCl + H_{2}SO_{4} \\rightarrow NaHSO_{4} + HCl$",
+            "D. $Ca(OH)_{2} + H_{2}SO_{4} \\rightarrow CaSO_{4} + 2H_{2}O$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In the reaction $2HI + H_{2}SO_{4} \\rightarrow I_{2} + SO_{2} + 2H_{2}O$, the oxidation number of S in $H_{2}SO_{4}$ decreases from +6 to +4 in $SO_{2}$, showing it acts as an oxidising agent. [cite: 276, 280]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Organic Chemistry",
+        "question": "Identify products (A) and (B) in the electrolytic reduction of nitrobenzene in (A) weakly acidic medium and (B) strongly acidic medium.",
+        "question_latex": "Identify products (A) and (B) in the electrolytic reduction of nitrobenzene in (A) weakly acidic medium and (B) strongly acidic medium.",
+        "question_images": [
+            "q35_1",
+            "35_qu_1.png"
+        ],
+        "options": [
+            "A. (A) Aniline, (B) Aniline",
+            "B. (A) Aniline, (B) Phenylhydroxylamine",
+            "C. (A) p-Aminophenol, (B) Phenylhydroxylamine",
+            "D. (A) Aniline, (B) p-Aminophenol"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Electrolytic reduction of nitrobenzene in weakly acidic medium yields aniline, whereas in strongly acidic medium, it yields p-aminophenol. [cite: 289]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Redox Reactions",
+        "question": "Oxidation state of oxygen is -1 in the compound :",
+        "question_latex": "Oxidation state of oxygen is -1 in the compound :",
+        "question_images": [],
+        "options": [
+            "A. $NO_{2}$",
+            "B. $MnO_{2}$",
+            "C. $PbO_{2}$",
+            "D. $Na_{2}O_{2}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$Na_{2}O_{2}$ is sodium peroxide, where oxygen exists in the -1 oxidation state. [cite: 295]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Redox Reactions",
+        "question": "Oxidation number of N in $N_{3}H$ (hydrazoic acid) is",
+        "question_latex": "Oxidation number of N in $N_{3}H$ (hydrazoic acid) is",
+        "question_images": [],
+        "options": [
+            "A. $-1/3$",
+            "B. +3",
+            "C. 0",
+            "D. -3"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In $N_{3}H$, $3(x) + 1 = 0 \\implies 3x = -1 \\implies x = -1/3$. [cite: 300, 301, 302]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Redox Reactions",
+        "question": "In the reaction, $Cr_{2}O_{7}^{2-} + 14H^{+} + 6I^{-} \\rightarrow 2Cr^{3+} + 7H_{2}O + 3I_{2}$, which element is reduced?",
+        "question_latex": "In the reaction, $Cr_{2}O_{7}^{2-} + 14H^{+} + 6I^{-} \\rightarrow 2Cr^{3+} + 7H_{2}O + 3I_{2}$, which element is reduced?",
+        "question_images": [],
+        "options": [
+            "A. I",
+            "B. O",
+            "C. H",
+            "D. Cr"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Chromium is reduced from +6 in $Cr_{2}O_{7}^{2-}$ to +3 in $Cr^{3+}$. [cite: 308, 309]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Redox Reactions",
+        "question": "In the reaction $K + O_{2} \\rightarrow KO_{2}$",
+        "question_latex": "In the reaction $K + O_{2} \\rightarrow KO_{2}$",
+        "question_images": [],
+        "options": [
+            "A. $O_{2}$ acts as an oxidizing agent",
+            "B. Both K and $O_{2}$ are oxidized",
+            "C. $O_{2}$ is oxidized while K is reduced",
+            "D. K acts as an oxidizing agent"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$O_{2}$ gains an electron to form $O_{2}^{-}$, thus it is reduced and acts as an oxidizing agent. [cite: 315, 316]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Redox Reactions",
+        "question": "Oxidation number of H in NaH, $CaH_{2}$ and LiH, respectively is",
+        "question_latex": "Oxidation number of H in NaH, $CaH_{2}$ and LiH, respectively is",
+        "question_images": [],
+        "options": [
+            "A. +1, +1, -1",
+            "B. +1, +1, +1",
+            "C. -1, +1, +1",
+            "D. -1, -1, -1"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Oxidation number of hydrogen when bonded to metals in binary compounds (metal hydrides) is -1. [cite: 320]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Redox Reactions",
+        "question": "Thiosulphate reacts differently with iodine and bromine as shown: $2S_{2}O_{3}^{2-} + I_{2} \\rightarrow S_{4}O_{6}^{2-} + 2I^{-}$ and $S_{2}O_{3}^{2-} + 5Br_{2} + 5H_{2}O \\rightarrow 2SO_{4}^{2-} + 4Br^{-} + 10H^{+}$. Which statement justifies this dual behaviour?",
+        "question_latex": "Thiosulphate reacts differently with iodine and bromine as shown: $2S_{2}O_{3}^{2-} + I_{2} \\rightarrow S_{4}O_{6}^{2-} + 2I^{-}$ and $S_{2}O_{3}^{2-} + 5Br_{2} + 5H_{2}O \\rightarrow 2SO_{4}^{2-} + 4Br^{-} + 10H^{+}$. Which statement justifies this dual behaviour?",
+        "question_images": [],
+        "options": [
+            "A. Bromine is a weaker oxidant than iodine",
+            "B. Bromine is a stronger oxidant than iodine",
+            "C. Bromine undergoes oxidation and iodine undergoes reduction",
+            "D. Thiosulphate undergoes oxidation by bromine and reduction by iodine"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$Br_{2}$ oxidises S from +2 to +6, while $I_{2}$ only oxidises it from +2 to +2.5. This shows $Br_{2}$ is a stronger oxidant. [cite: 325, 326]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Redox Reactions",
+        "question": "How many gram of $I_{2}$ are present in a solution which requires 40 mL of 0.11 N $Na_{2}S_{2}O_{3}$ to react with it ($2S_{2}O_{3}^{2-} + I_{2} \\rightarrow S_{4}O_{6}^{2-} + 2I^{-}$)?",
+        "question_latex": "How many gram of $I_{2}$ are present in a solution which requires 40 mL of 0.11 N $Na_{2}S_{2}O_{3}$ to react with it ($2S_{2}O_{3}^{2-} + I_{2} \\rightarrow S_{4}O_{6}^{2-} + 2I^{-}$)?",
+        "question_images": [],
+        "options": [
+            "A. 12.7 g",
+            "B. 0.558 g",
+            "C. 25.4 g",
+            "D. 11.4 g"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Meq. of $I_{2} = Meq.$ of $Na_{2}S_{2}O_{3} = 40 \\times 0.11$. Weight calculation: $\\frac{w}{254/2} \\times 1000 = 4.4 \\implies w = 0.558 g$. [cite: 330, 331]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Redox Reactions",
+        "question": "Which is a redox reaction?",
+        "question_latex": "Which is a redox reaction?",
+        "question_images": [],
+        "options": [
+            "A. $H_{2}SO_{4} + 2NaOH \\rightarrow Na_{2}SO_{4} + 2H_{2}O$",
+            "B. $BaCl_{2} + H_{2}SO_{4} \\rightarrow BaSO_{4} + 2HCl$",
+            "C. $CH_{3}COOH + C_{2}H_{5}OH \\rightarrow CH_{3}COOC_{2}H_{5} + H_{2}O$",
+            "D. $2FeCl_{3} + SnCl_{2} \\rightarrow 2FeCl_{2} + SnCl_{4}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The reaction $2Fe^{3+} + Sn^{2+} \\rightarrow 2Fe^{2+} + Sn^{4+}$ involves changes in oxidation numbers, making it a redox reaction. [cite: 336]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Redox Reactions",
+        "question": "Which of the following is the strongest reducing agent in aqueous medium?",
+        "question_latex": "Which of the following is the strongest reducing agent in aqueous medium?",
+        "question_images": [],
+        "options": [
+            "A. Mg",
+            "B. Na",
+            "C. Li",
+            "D. Ca"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In aqueous medium, Li is the strongest reducing agent due to its high negative enthalpy of hydration. [cite: 341]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Organic Chemistry",
+        "question": "Identify products (A) and (B) in the reaction of cinnamaldehyde with (A) $LiAlH_{4}$ and (B) $NaBH_{4}$.",
+        "question_latex": "Identify products (A) and (B) in the reaction of cinnamaldehyde with (A) $LiAlH_{4}$ and (B) $NaBH_{4}$.",
+        "question_images": [
+            "q45_1"
+        ],
+        "options": [
+            "A. (A) Saturated alcohol, (B) Unsaturated alcohol",
+            "B. (A) Unsaturated alcohol, (B) Saturated alcohol",
+            "C. (A) Saturated alcohol, (B) Saturated alcohol",
+            "D. (A) Saturated alcohol (reduction of both), (B) Unsaturated alcohol (reduction of -CHO only)"
+        ],
+        "option_images": [
+            "q45optionA1",
+            "q45optionB1",
+            "q45optionC1",
+            "q45optionD1",
+            "45_opA_1.png",
+            "45_opB_1.png",
+            "45_opC_1.png",
+            "45_opD_1.png"
+        ],
+        "answer": "D",
+        "solution": "$LiAlH_{4}$ reduces the -CHO group and the double bond (when Ph is at the beta-position), while $NaBH_{4}$ reduces only the -CHO group. [cite: 358]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Redox Reactions",
+        "question": "The oxidation number of oxygen in $KO_{3}$ and $Na_{2}O_{2}$ is respectively",
+        "question_latex": "The oxidation number of oxygen in $KO_{3}$ and $Na_{2}O_{2}$ is respectively",
+        "question_images": [],
+        "options": [
+            "A. 3, 2",
+            "B. 1, 0",
+            "C. 0, 1",
+            "D. -0.33, -1"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "In $KO_{3}$, $3x = -1 \\implies x = -0.33$. In $Na_{2}O_{2}$, $2x = -2 \\implies x = -1$. [cite: 367, 368, 369]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Redox Reactions",
+        "question": "The compound that cannot act both as oxidising and reducing agent is",
+        "question_latex": "The compound that cannot act both as oxidising and reducing agent is",
+        "question_images": [],
+        "options": [
+            "A. $H_{3}PO_{4}$",
+            "B. $HNO_{2}$",
+            "C. $H_{2}O_{2}$",
+            "D. $H_{2}SO_{3}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In $H_{3}PO_{4}$, the oxidation state of P is +5 (maximum). It cannot be further oxidized, so it cannot act as a reducing agent. [cite: 373]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Redox Reactions",
+        "question": "Which of the following arrangements represent increasing oxidation number of the central atom?",
+        "question_latex": "Which of the following arrangements represent increasing oxidation number of the central atom?",
+        "question_images": [],
+        "options": [
+            "A. $CrO_{2}^{-}$, $ClO_{3}^{-}$, $CrO_{4}^{2-}$, $MnO_{4}^{-}$",
+            "B. $ClO_{3}^{-}$, $CrO_{4}^{2-}$, $MnO_{4}^{-}$, $CrO_{2}^{-}$",
+            "C. $CrO_{2}^{-}$, $ClO_{3}^{-}$, $MnO_{4}^{-}$, $CrO_{4}^{2-}$",
+            "D. $CrO_{4}^{2-}$, $MnO_{4}^{-}$, $CrO_{2}^{-}$, $ClO_{3}^{-}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Oxidation states: $CrO_{2}^{-}$ (+3), $ClO_{3}^{-}$ (+5), $CrO_{4}^{2-}$ (+6), $MnO_{4}^{-}$ (+7). [cite: 377]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Redox Reactions",
+        "question": "When $SO_{2}$ is passed through acidified solution of potassium dichromate, chromium sulphate is formed. The change in oxidation number of chromium is:",
+        "question_latex": "When $SO_{2}$ is passed through acidified solution of potassium dichromate, chromium sulphate is formed. The change in oxidation number of chromium is:",
+        "question_images": [],
+        "options": [
+            "A. +4 to +2",
+            "B. +5 to +3",
+            "C. +6 to +3",
+            "D. +7 to +2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Chromium changes from +6 in $K_{2}Cr_{2}O_{7}$ to +3 in $Cr_{2}(SO_{4})_{3}$. [cite: 383]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Redox Reactions",
+        "question": "Reduction is a process which involves:",
+        "question_latex": "Reduction is a process which involves:",
+        "question_images": [],
+        "options": [
+            "A. Electronation (gain of electrons)",
+            "B. Addition of hydrogen or removal of oxygen",
+            "C. Addition of metal or removal of non-metal",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Reduction encompasses electronation (gain of electrons) and the addition of hydrogen or removal of oxygen. [cite: 385, 386, 388]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Redox Reactions",
+        "question": "Oxidation number of nitrogen in $AgNO_{3}$ is:",
+        "question_latex": "Oxidation number of nitrogen in $AgNO_{3}$ is:",
+        "question_images": [],
+        "options": [
+            "A. +5",
+            "B. -3",
+            "C. +3",
+            "D. -2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For $AgNO_{3}$: $1 + a + 3 \\times (-2) = 0 \\implies a = +5$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Redox Reactions",
+        "question": "The oxidation number of in Pr in $Pr_{6}O_{11}$ is",
+        "question_latex": "The oxidation number of in Pr in $Pr_{6}O_{11}$ is",
+        "question_images": [],
+        "options": [
+            "A. 22/6",
+            "B. 20",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For $Pr_{6}O_{11}$: $6x - 22 = 0 \\implies x = 22/6$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Redox Reactions",
+        "question": "The oxidation states of the most electronegative elements in the products of the reaction between $BaO_{2}$ and $H_{2}SO_{4}$ are",
+        "question_latex": "The oxidation states of the most electronegative elements in the products of the reaction between $BaO_{2}$ and $H_{2}SO_{4}$ are",
+        "question_images": [],
+        "options": [
+            "A. 0 and -1",
+            "B. -1 and -2",
+            "C. -2 and 0",
+            "D. -2 and +1"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$BaO_{2} + H_{2}SO_{4}(dil) \\rightarrow BaSO_{4} + H_{2}O_{2}$. Oxidation state of O in $H_{2}O_{2} = -1$ and in $BaSO_{4} = -2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Redox Reactions",
+        "question": "A standard solution is one whose :",
+        "question_latex": "A standard solution is one whose :",
+        "question_images": [],
+        "options": [
+            "A. Concentration is 1 M",
+            "B. Concentration is unknown",
+            "C. Concentration is known",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "A standard solution is defined as one whose concentration is accurately known.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Redox Reactions",
+        "question": "Sulphur has the highest oxidation state in :",
+        "question_latex": "Sulphur has the highest oxidation state in :",
+        "question_images": [],
+        "options": [
+            "A. $SO_{2}$ ",
+            "B. $SO_{3}$ ",
+            "C. $H_{2}SO_{3}$ ",
+            "D. $H_{2}S$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In $SO_{3}$, S is in the +6 oxidation state, which is the maximum for Sulphur.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Redox Reactions",
+        "question": "Identify the incorrect statements regarding primary standard of titrimetric analysis: (A) It should be purely available in dry form. (B) It should not undergo chemical change in air. (C) It should be hygroscopic and should react with another chemical instantaneously and stoichiometrically. (D) It should be readily soluble in water. (E) $KMnO_{4}$ & NaOH can be used as primary standard.",
+        "question_latex": "Identify the incorrect statements regarding primary standard of titrimetric analysis: (A) It should be purely available in dry form. (B) It should not undergo chemical change in air. (C) It should be hygroscopic and should react with another chemical instantaneously and stoichiometrically. (D) It should be readily soluble in water. (E) $KMnO_{4}$ & NaOH can be used as primary standard.",
+        "question_images": [],
+        "options": [
+            "A. (C) and (D) only",
+            "B. (B) and (E) only",
+            "C. (A) and (B) only",
+            "D. (C) and (E) only"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$KMnO_{4}$ and NaOH are secondary standards because they are hygroscopic or unstable; primary standards must not be hygroscopic.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Redox Reactions",
+        "question": "In which iron has the lowest oxidation state?",
+        "question_latex": "In which iron has the lowest oxidation state?",
+        "question_images": [],
+        "options": [
+            "A. $Fe(CO)_{5}$",
+            "B. $Fe_{2}O_{3}$",
+            "C. $K_{4}Fe(CN)_{6}$",
+            "D. $FeSO_{4} \\cdot (NH_{4})_{2}SO_{4} \\cdot 6H_{2}O$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In metal carbonyls like $Fe(CO)_{5}$, the oxidation state of the metal is zero.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Redox Reactions",
+        "question": "Which of the following shows highest ox. no. in combined state?",
+        "question_latex": "Which of the following shows highest ox. no. in combined state?",
+        "question_images": [],
+        "options": [
+            "A. Os",
+            "B. Ru",
+            "C. Both (A) and (B)",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Both Osmium (Os) and Ruthenium (Ru) can show a maximum oxidation state of +8.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Redox Reactions",
+        "question": "In which of the following reactions, $H_{2}O_{2}$ acts as a reducing agent? (1) $H_{2}O_{2} + 2H^{+} + 2e^{-} \\rightarrow 2H_{2}O$ (2) $H_{2}O_{2} - 2e^{-} \\rightarrow O_{2} + 2H^{+}$ (3) $H_{2}O_{2} + 2e^{-} \\rightarrow 2OH^{-}$ (4) $H_{2}O_{2} + 2OH^{-} - 2e^{-} \\rightarrow O_{2} + 2H_{2}O$",
+        "question_latex": "In which of the following reactions, $H_{2}O_{2}$ acts as a reducing agent? (1) $H_{2}O_{2} + 2H^{+} + 2e^{-} \\rightarrow 2H_{2}O$ (2) $H_{2}O_{2} - 2e^{-} \\rightarrow O_{2} + 2H^{+}$ (3) $H_{2}O_{2} + 2e^{-} \\rightarrow 2OH^{-}$ (4) $H_{2}O_{2} + 2OH^{-} - 2e^{-} \\rightarrow O_{2} + 2H_{2}O$",
+        "question_images": [],
+        "options": [
+            "A. (2), (4)",
+            "B. (1), (2)",
+            "C. (1), (3)",
+            "D. (3), (4)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "A reducing agent loses electrons and its oxidation number increases. In reactions (2) and (4), oxygen goes from -1 to 0 ($O_{2}$).",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Redox Reactions",
+        "question": "How many litre of $Cl_{2}$ at STP will be liberated by the oxidation of NaCl with 10 g $KMnO_{4}$?",
+        "question_latex": "How many litre of $Cl_{2}$ at STP will be liberated by the oxidation of NaCl with 10 g $KMnO_{4}$?",
+        "question_images": [],
+        "options": [
+            "A. 3.54 litre",
+            "B. 7.08 litre",
+            "C. 1.77 litre",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Meq. of $Cl_{2} = Meq.$ of $KMnO_{4}$. $10/31.6 \\times 1000$ gives equivalents. $V = (22.4 \\times 11.23) / 71 = 3.54 \\text{ L}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Redox Reactions",
+        "question": "$Zn^{2+}(aq.) + 2e^{-} \\rightarrow Zn(s)$. This is",
+        "question_latex": "$Zn^{2+}(aq.) + 2e^{-} \\rightarrow Zn(s)$. This is",
+        "question_images": [],
+        "options": [
+            "A. oxidation",
+            "B. reduction",
+            "C. redox reaction",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The gain of electrons is defined as reduction.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Redox Reactions",
+        "question": "Which is a redox reaction?",
+        "question_latex": "Which is a redox reaction?",
+        "question_images": [],
+        "options": [
+            "A. $H_{2}SO_{4} + 2NaOH \\rightarrow Na_{2}SO_{4} + 2H_{2}O$",
+            "B. $BaCl_{2} + H_{2}SO_{4} \\rightarrow BaSO_{4} + 2HCl$",
+            "C. $CH_{3}COOH + C_{2}H_{5}OH \\rightarrow CH_{3}COOC_{2}H_{5} + H_{2}O$",
+            "D. $2FeCl_{3} + SnCl_{2} \\rightarrow 2FeCl_{2} + SnCl_{4}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "In reaction D, Fe is reduced (+3 to +2) and Sn is oxidized (+2 to +4).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Redox Reactions",
+        "question": "Which gas is evolved when $PbO_{2}$ is treated with conc. $HNO_{3}$?",
+        "question_latex": "Which gas is evolved when $PbO_{2}$ is treated with conc. $HNO_{3}$?",
+        "question_images": [],
+        "options": [
+            "A. $NO_{2}$",
+            "B. $O_{2}$",
+            "C. $N_{2}$",
+            "D. $N_{2}O$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$PbO_{2} + 2HNO_{3} \\rightarrow Pb(NO_{3})_{2} + H_{2}O + 0.5 O_{2}$. $PbO_{2}$ acts as a strong oxidant.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Redox Reactions",
+        "question": "0.3 g of an oxalate salt was dissolved in 100 mL solution. The solution required 90 mL of N/20 $KMnO_{4}$ for complete oxidation. The % of oxalate ion in salt is:",
+        "question_latex": "0.3 g of an oxalate salt was dissolved in 100 mL solution. The solution required 90 mL of N/20 $KMnO_{4}$ for complete oxidation. The % of oxalate ion in salt is:",
+        "question_images": [],
+        "options": [
+            "A. 33%",
+            "B. 66%",
+            "C. 70%",
+            "D. 40%"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Milliequivalents of oxalate $=$ milliequivalents of $KMnO_4$.\n\n$\\dfrac{w}{44} \\times 1000 = 90 \\times \\dfrac{1}{20}$\n\n$\\Rightarrow w = 0.198\\,\\text{g}$.\n\nPercentage purity:\n\n$= \\dfrac{0.198}{0.3} \\times 100 = 66\\%$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Redox Reactions",
+        "question": "Given $E^{\\circ}_{O_{2}/H_{2}O} = +1.23 V$, $E^{\\circ}_{S_{2}O_{8}^{2-}/SO_{4}^{2-}} = 2.05 V$, $E^{\\circ}_{Br_{2}/Br^{-}} = +1.09 V$, $E^{\\circ}_{Au^{3+}/Au} = +1.4 V$. The strongest oxidizing agent is:",
+        "question_latex": "Given $E^{\\circ}_{O_{2}/H_{2}O} = +1.23 V$, $E^{\\circ}_{S_{2}O_{8}^{2-}/SO_{4}^{2-}} = 2.05 V$, $E^{\\circ}_{Br_{2}/Br^{-}} = +1.09 V$, $E^{\\circ}_{Au^{3+}/Au} = +1.4 V$. The strongest oxidizing agent is:",
+        "question_images": [],
+        "options": [
+            "A. $S_{2}O_{8}^{2-}$",
+            "B. $Au^{3+}$",
+            "C. $O_{2}$",
+            "D. $Br_{2}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The species with the highest positive reduction potential is the strongest oxidizing agent ($S_{2}O_{8}^{2-}$ at 2.05 V).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Redox Reactions",
+        "question": "In which of the following compounds, the oxidation number of iodine is fractional?",
+        "question_latex": "In which of the following compounds, the oxidation number of iodine is fractional?",
+        "question_images": [],
+        "options": [
+            "A. $IF_{7}$",
+            "B. $I_{3}^{-}$",
+            "C. $IF_{5}$",
+            "D. $IF_{3}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In $I_{3}^{-}$, the average oxidation state of iodine is $-1/3$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Redox Reactions",
+        "question": "Which of the following is a redox reaction?",
+        "question_latex": "Which of the following is a redox reaction?",
+        "question_images": [],
+        "options": [
+            "A. $H_{2}SO_{4}$ with NaOH",
+            "B. In atmosphere, $O_{3}$ from by lightning",
+            "C. Nitrogen oxides form nitrogen and oxygen by lightning",
+            "D. Evaporation of $H_{2}O$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The decomposition of nitrogen oxides into $N_{2}$ and $O_{2}$ involves a change in oxidation states, hence it is a redox reaction.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Organic Chemistry",
+        "question": "Identify the product (A) in the reaction of the given nitro compound with LAH.",
+        "question_latex": "Identify the product (A) in the reaction of the given nitro compound with LAH.",
+        "question_images": [
+            "q68_1",
+            "68_qu_1.png"
+        ],
+        "options": [
+            "A. Option A structure",
+            "B. Option B structure",
+            "C. Option C structure",
+            "D. Option D structure"
+        ],
+        "option_images": [
+            "68_opA_1.png",
+            "68_opB_1.png",
+            "68_opD_1.png"
+        ],
+        "answer": "D",
+        "solution": "LAH reduces aromatic nitro compounds ($ArNO_{2}$) to azo compounds ($Ar-N=N-Ar$).",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Redox Reactions",
+        "question": "The compound that cannot act both as oxidising and reducing agent is:",
+        "question_latex": "The compound that cannot act both as oxidising and reducing agent is:",
+        "question_images": [],
+        "options": [
+            "A. $H_{3}PO_{4}$",
+            "B. $HNO_{2}$",
+            "C. $H_{2}O_{2}$",
+            "D. $H_{2}SO_{3}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In $H_{3}PO_{4}$, P is in its maximum +5 state, so it can only be reduced (oxidizing agent) and cannot be oxidized.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Redox Reactions",
+        "question": "Oxidation numbers of P in $PO_{4}^{3-}$, of S in $SO_{4}^{2-}$ and that of Cr in $Cr_{2}O_{7}^{2-}$ are respectively",
+        "question_latex": "Oxidation numbers of P in $PO_{4}^{3-}$, of S in $SO_{4}^{2-}$ and that of Cr in $Cr_{2}O_{7}^{2-}$ are respectively",
+        "question_images": [],
+        "options": [
+            "A. +3, +6 and +5",
+            "B. -3, +6 and +6",
+            "C. +5, +3 and +6",
+            "D. +5, +6 and +6"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Calculations: $PO_{4}^{3-} (x-8=-3 \\rightarrow +5)$; $SO_{4}^{2-} (x-8=-2 \\rightarrow +6)$; $Cr_{2}O_{7}^{2-} (2x-14=-2 \\rightarrow +6)$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Redox Reactions",
+        "question": "Which reaction involves neither oxidation nor reduction?",
+        "question_latex": "Which reaction involves neither oxidation nor reduction?",
+        "question_images": [],
+        "options": [
+            "A. $CrO_{4}^{2-} \\rightarrow Cr_{2}O_{7}^{2-}$",
+            "B. $Na \\rightarrow Na^{+}$",
+            "C. $Cr \\rightarrow CrCl_{3}$",
+            "D. $2S_{2}O_{3}^{2-} \\rightarrow S_{4}O_{6}^{2-}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In the conversion of chromate to dichromate, the oxidation state of Cr remains +6.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Redox Reactions",
+        "question": "In a conjugate pair of reductant and oxidant, the reductant has :",
+        "question_latex": "In a conjugate pair of reductant and oxidant, the reductant has :",
+        "question_images": [],
+        "options": [
+            "A. Lower ox.no.",
+            "B. Higher ox.no.",
+            "C. Same ox.no.",
+            "D. Either of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "By definition, a reductant loses electrons to become an oxidant, meaning it starts at a lower oxidation number.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Organic Chemistry",
+        "question": "Identify product (A) in the reaction: $PhCH_{2}CH_{2}CH_{3} \\xrightarrow{(i) CrO_{2}Cl_{2}/CCl_{4}, (ii) H_{2}O} (A)$.",
+        "question_latex": "Identify product (A) in the reaction: $PhCH_{2}CH_{2}CH_{3} \\xrightarrow{(i) CrO_{2}Cl_{2}/CCl_{4}, (ii) H_{2}O} (A)$.",
+        "question_images": [],
+        "options": [
+            "A. PhCHO",
+            "B. $PhCH_{2}CHO$",
+            "C. $PhCH_{2}CH_{2}CHO$",
+            "D. PhCH(CH3)CHO"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The Etard reaction oxidizes the terminal methyl group of the alkyl chain to an aldehyde (-CHO) group.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Redox Reactions",
+        "question": "Which of the following is the correct representative of stock notation for auric chloride?",
+        "question_latex": "Which of the following is the correct representative of stock notation for auric chloride?",
+        "question_images": [],
+        "options": [
+            "A. $Au(III)Cl_{3}$",
+            "B. $Au(I)Cl_{2}$",
+            "C. $Au(II)Cl_{2}$",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Auric refers to Gold in the +3 oxidation state, written as Au(III) in stock notation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Redox Reactions",
+        "question": "$KMnO_{4}$ acts as _____ indicator in its redox titrations.",
+        "question_latex": "$KMnO_{4}$ acts as _____ indicator in its redox titrations.",
+        "question_images": [],
+        "options": [
+            "A. Self",
+            "B. External",
+            "C. Internal",
+            "D. Not an"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$KMnO_{4}$ is a self-indicator because it imparts a pink color to the solution at the end point.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Redox Reactions",
+        "question": "For the reaction, $NH_{3} + OCl^{-} \\rightarrow N_{2}H_{4} + Cl^{-}$ occurring in basic medium, the coefficient of $N_{2}H_{4}$ in the balanced equation will be",
+        "question_latex": "For the reaction, $NH_{3} + OCl^{-} \\rightarrow N_{2}H_{4} + Cl^{-}$ occurring in basic medium, the coefficient of $N_{2}H_{4}$ in the balanced equation will be",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The balanced equation in basic medium is: $2NH_{3} + OCl^{-} \\rightarrow N_{2}H_{4} + Cl^{-} + H_{2}O$. The coefficient of $N_{2}H_{4}$ is 1.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Redox Reactions",
+        "question": "The brown ring complex compound is formulated as $[Fe(H_{2}O)_{5}NO]SO_{4}$. The oxidation state of Fe is",
+        "question_latex": "The brown ring complex compound is formulated as $[Fe(H_{2}O)_{5}NO]SO_{4}$. The oxidation state of Fe is",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 0"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In the brown ring complex $[Fe(H_{2}O)_{5}NO]SO_{4}$, NO exists as $NO^{+}$. Let the oxidation state of Fe be $x$: $x + 5(0) + 1 = +2 \\implies x = +1$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Redox Reactions",
+        "question": "In which of the following pairs is there the greatest difference in the oxidation numbers of the underlined elements?",
+        "question_latex": "In which of the following pairs is there the greatest difference in the oxidation numbers of the underlined elements?",
+        "question_images": [],
+        "options": [
+            "A. $NO_{2}$ and $N_{2}O_{4}$ ",
+            "B. $SO_{3}^{2-}$ and $SO_{4}^{2-}$ ",
+            "C. $S^{2-}$ and $SO_{3}^{2-}$ ",
+            "D. $S^{2-}$ and $SO_{4}^{2-}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Oxidation numbers: $S^{2-}$ is -2 and $SO_{4}^{2-}$ is +6. Difference = $|+6 - (-2)| = 8$. This is the largest difference among the options.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Redox Reactions",
+        "question": "HBr and HI reduce $H_{2}SO_{4}$, HCl can reduce $KMnO_{4}$ and HF can reduce:",
+        "question_latex": "HBr and HI reduce $H_{2}SO_{4}$, HCl can reduce $KMnO_{4}$ and HF can reduce:",
+        "question_images": [],
+        "options": [
+            "A. $H_{2}SO_{4}$",
+            "B. $K_{2}Cr_{2}O_{7}$",
+            "C. $KMnO_{4}$",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$F^{-}$ is the weakest reducing agent among halides and cannot be oxidized by these chemical reagents; it requires electrolysis.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Redox Reactions",
+        "question": "What could be the $X^{-}$ in the system shown, where X signifies halogen; formation of $X_{2}$ takes place when $F_{2}$ is purged into an aqueous solution of $X^{-}$?",
+        "question_latex": "What could be the $X^{-}$ in the system shown, where X signifies halogen; formation of $X_{2}$ takes place when $F_{2}$ is purged into an aqueous solution of $X^{-}$?",
+        "question_images": [
+            "q80_1",
+            "80_qu_1.png"
+        ],
+        "options": [
+            "A. $Br^{-}$",
+            "B. $Cl^{-}$",
+            "C. $I^{-}$",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$F_{2}$ is the strongest oxidizing agent among halogens and can oxidize $Cl^{-}$, $Br^{-}$, and $I^{-}$ to their respective elemental forms.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Redox Reactions",
+        "question": "Identify the process in which change in the oxidation state is five.",
+        "question_latex": "Identify the process in which change in the oxidation state is five.",
+        "question_images": [],
+        "options": [
+            "A. $CrO_{4}^{2-} \\rightarrow Cr^{3+}$",
+            "B. $C_{2}O_{4}^{2-} \\rightarrow 2CO_{2}$",
+            "C. $Cr_{2}O_{7}^{2-} \\rightarrow 2Cr^{3+}$",
+            "D. $MnO_{4}^{-} \\rightarrow Mn^{2+}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "In $MnO_{4}^{-} \\rightarrow Mn^{2+}$, the oxidation state of Mn changes from +7 to +2, a change of 5.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Redox Reactions",
+        "question": "What is 'A' in the following reaction: $2Fe^{3+}(aq) + Sn^{2+}(aq) \\rightarrow 2Fe^{2+}(aq) + A$?",
+        "question_latex": "What is 'A' in the following reaction: $2Fe^{3+}(aq) + Sn^{2+}(aq) \\rightarrow 2Fe^{2+}(aq) + A$?",
+        "question_images": [],
+        "options": [
+            "A. $Sn^{3+}(aq)$",
+            "B. $Sn^{4+}(aq)$",
+            "C. $Sn^{+}(aq)$",
+            "D. $Sn$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In this redox reaction, $Fe^{3+}$ is reduced to $Fe^{2+}$ and $Sn^{2+}$ is oxidized to $Sn^{4+}$.",
+        "solution_images": [
+            "82_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Redox Reactions",
+        "question": "Which of the following statements is/are correct for the given reaction? $2HgCl_{2}(aq) + SnCl_{2}(aq) \\rightarrow Hg_{2}Cl_{2}(s) + SnCl_{4}(aq)$ (i) Mercuric chloride is reduced to $Hg_{2}Cl_{2}$ (ii) Stannous chloride is oxidised to stannic chloride (iii) $HgCl_{2}$ is oxidised to $Hg_{2}Cl_{2}$ (iv) It is an example of redox reaction",
+        "question_latex": "Which of the following statements is/are correct for the given reaction? $2HgCl_{2}(aq) + SnCl_{2}(aq) \\rightarrow Hg_{2}Cl_{2}(s) + SnCl_{4}(aq)$ (i) Mercuric chloride is reduced to $Hg_{2}Cl_{2}$ (ii) Stannous chloride is oxidised to stannic chloride (iii) $HgCl_{2}$ is oxidised to $Hg_{2}Cl_{2}$ (iv) It is an example of redox reaction",
+        "question_images": [],
+        "options": [
+            "A. (i), (ii) and (iv)",
+            "B. (i) and (ii)",
+            "C. (iii) and (iv)",
+            "D. (iii) only"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$Hg$ changes from +2 to +1 (reduction) and $Sn$ changes from +2 to +4 (oxidation). Statement (iii) is incorrect because $HgCl_{2}$ is reduced, not oxidized.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Redox Reactions",
+        "question": "The redox reaction among the following is",
+        "question_latex": "The redox reaction among the following is",
+        "question_images": [],
+        "options": [
+            "A. combination of dinitrogen with dioxygen at 2000 K",
+            "B. reaction of $H_{2}SO_{4}$ with NaOH",
+            "C. reaction of $[Co(H_{2}O)_{6}]Cl_{3}$ with $AgNO_{3}$",
+            "D. formation of ozone from atmospheric oxygen in the presence of sunlight"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$N_{2} + O_{2} \\rightarrow 2NO$ involves changes in oxidation states (0 to +2 for N, 0 to -2 for O).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Redox Reactions",
+        "question": "The $E^{\\circ}$ values for Cr, Mn, Fe and Co are -0.41, +1.57, +0.77 and +1.97 V respectively. For which one of these metals the change in oxidation state from +2 to +3 is easiest?",
+        "question_latex": "The $E^{\\circ}$ values for Cr, Mn, Fe and Co are -0.41, +1.57, +0.77 and +1.97 V respectively. For which one of these metals the change in oxidation state from +2 to +3 is easiest?",
+        "question_images": [],
+        "options": [
+            "A. Cr",
+            "B. Mn",
+            "C. Co",
+            "D. Fe"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Oxidation is easiest for the metal with the most negative reduction potential (or highest oxidation potential). Cr has the lowest reduction potential (-0.41 V).",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Redox Reactions",
+        "question": "Which of the following options are correct for the reaction: $2[Au(CN)_{2}]^{-}(aq) + Zn(s) \\rightarrow 2Au(s) + [Zn(CN)_{4}]^{2-}(aq)$? (A) Redox reaction (B) Displacement reaction (C) Decomposition reaction (D) Combination reaction",
+        "question_latex": "Which of the following options are correct for the reaction: $2[Au(CN)_{2}]^{-}(aq) + Zn(s) \\rightarrow 2Au(s) + [Zn(CN)_{4}]^{2-}(aq)$? (A) Redox reaction (B) Displacement reaction (C) Decomposition reaction (D) Combination reaction",
+        "question_images": [],
+        "options": [
+            "A. A and B only",
+            "B. A and D only",
+            "C. A only",
+            "D. C and D only"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Zinc displaces Gold from the complex, and oxidation states change (Zn: 0 to +2; Au: +1 to 0), making it both a displacement and a redox reaction.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Redox Reactions",
+        "question": "An example of a disproportionation reaction is",
+        "question_latex": "An example of a disproportionation reaction is",
+        "question_images": [],
+        "options": [
+            "A. $2NaBr + Cl_{2} \\rightarrow 2NaCl + Br_{2}$",
+            "B. $2KMnO_{4} \\rightarrow K_{2}MnO_{4} + MnO_{2} + O_{2}$",
+            "C. $2CuBr \\rightarrow CuBr_{2} + Cu$",
+            "D. $2MnO_{4}^{-} + 10I^{-} + 16H^{+} \\rightarrow 2Mn^{2+} + 5I_{2} + 8H_{2}O$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In $2CuBr \\rightarrow CuBr_{2} + Cu$, $Cu^{+}$ (+1) is simultaneously oxidized to $Cu^{2+}$ (+2) and reduced to $Cu$ (0).",
+        "solution_images": [
+            "87_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Redox Reactions",
+        "question": "Reduction is a process which involves:",
+        "question_latex": "Reduction is a process which involves:",
+        "question_images": [],
+        "options": [
+            "A. Electronation",
+            "B. Addition of hydrogen or removal of oxygen",
+            "C. Addition of metal or removal of non-metal",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Reduction is classically defined as the addition of hydrogen, removal of oxygen, or the gain of electrons (electronation).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Redox Reactions",
+        "question": "Oxidation number of carbon in carbon suboxide is:",
+        "question_latex": "Oxidation number of carbon in carbon suboxide is:",
+        "question_images": [],
+        "options": [
+            "A. $+2/3$",
+            "B. $+4/3$",
+            "C. +4",
+            "D. $-4/3$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Carbon suboxide is $C_{3}O_{2}$. $3x + 2(-2) = 0 \\implies 3x = 4 \\implies x = +4/3$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Redox Reactions",
+        "question": "In which of the following compounds, iron has lowest oxidation state?",
+        "question_latex": "In which of the following compounds, iron has lowest oxidation state?",
+        "question_images": [],
+        "options": [
+            "A. $K_{3}[Fe(CN)_{6}]$",
+            "B. $K_{4}[Fe(CN)_{6}]$",
+            "C. $FeSO_{4}(NH_{4})_{2}SO_{4} \\cdot 6H_{2}O$",
+            "D. $Fe(CO)_{5}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Iron in $Fe(CO)_{5}$ has an oxidation state of 0, which is the lowest among the given options.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Redox Reactions",
+        "question": "The Number of electrons lost in the following change is $Fe + H_{2}O \\rightarrow Fe_{3}O_{4} + H_{2}$:",
+        "question_latex": "The Number of electrons lost in the following change is $Fe + H_{2}O \\rightarrow Fe_{3}O_{4} + H_{2}$:",
+        "question_images": [],
+        "options": [
+            "A. 2",
+            "B. 4",
+            "C. 6",
+            "D. 8"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The balanced equation is $3Fe + 4H_{2}O \\rightarrow Fe_{3}O_{4} + 4H_{2}$. Total oxidation state change for 3 Fe is $3 \\times (8/3) = 8$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Redox Reactions",
+        "question": "Given below are two statements: Statement-I: $S_{8}$ solid undergoes disproportionation reaction under alkaline conditions to form $S^{2-}$ and $S_{2}O_{3}^{2-}$. Statement-II: $ClO_{4}^{-}$ can undergo disproportionation reaction under acidic condition.",
+        "question_latex": "Given below are two statements: Statement-I: $S_{8}$ solid undergoes disproportionation reaction under alkaline conditions to form $S^{2-}$ and $S_{2}O_{3}^{2-}$. Statement-II: $ClO_{4}^{-}$ can undergo disproportionation reaction under acidic condition.",
+        "question_images": [],
+        "options": [
+            "A. Both statement-I and statement-II are incorrect",
+            "B. Both statement-I and statement-II are correct",
+            "C. Statement-I is incorrect but statement-II is correct",
+            "D. Statement-I is correct but statement-II is incorrect"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$S_{8}$ disproportionates in alkali. $ClO_{4}^{-}$ cannot disproportionate because chlorine is already in its maximum +7 oxidation state.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Redox Reactions",
+        "question": "The oxidation number and covalency of sulphur in the sulphur molecule ($S_{8}$) are respectively:",
+        "question_latex": "The oxidation number and covalency of sulphur in the sulphur molecule ($S_{8}$) are respectively:",
+        "question_images": [],
+        "options": [
+            "A. 0 and 2",
+            "B. +6 and 8",
+            "C. 0 and 8",
+            "D. +6 and 2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In elemental $S_{8}$, the oxidation number is 0. Each sulfur atom forms two single bonds with adjacent sulfur atoms, so covalency is 2.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Redox Reactions",
+        "question": "Cerric ammonium sulphate and potassium permanganate are used as oxidising agents in acidic medium for oxidation of ferrous ammonium sulphate. What is the ratio of moles of cerric ammonium sulphate to $KMnO_{4}$ required per mole of ferrous ammonium sulphate?",
+        "question_latex": "Cerric ammonium sulphate and potassium permanganate are used as oxidising agents in acidic medium for oxidation of ferrous ammonium sulphate. What is the ratio of moles of cerric ammonium sulphate to $KMnO_{4}$ required per mole of ferrous ammonium sulphate?",
+        "question_images": [],
+        "options": [
+            "A. 5.0",
+            "B. 0.2",
+            "C. 0.6",
+            "D. 2.0"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$Ce^{4+}$ gains 1 electron, $MnO_{4}^{-}$ gains 5. Moles required for 1 mole $Fe^{2+}$: $Ce^{4+}$ = 1, $KMnO_{4}$ = 1/5. Ratio $1 / (1/5) = 5$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Redox Reactions",
+        "question": "The correct order of electron releasing tendency of the metals Cu, Zn and Ag is in the order:",
+        "question_latex": "The correct order of electron releasing tendency of the metals Cu, Zn and Ag is in the order:",
+        "question_images": [],
+        "options": [
+            "A. $Cu > Zn > Ag$",
+            "B. $Zn > Ag > Cu$",
+            "C. $Ag > Zn > Cu$",
+            "D. $Zn > Cu > Ag$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Based on the electrochemical series, Zinc is the most reactive (strongest reducer), followed by Copper and then Silver.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Redox Reactions",
+        "question": "Among $NH_{3}$, $HNO_{3}$, $NaN_{3}$ and $Mg_{3}N_{2}$, the number of molecules having nitrogen in negative oxidation state is",
+        "question_latex": "Among $NH_{3}$, $HNO_{3}$, $NaN_{3}$ and $Mg_{3}N_{2}$, the number of molecules having nitrogen in negative oxidation state is",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Oxidation states of N: $NH_{3}$ (-3), $HNO_{3}$ (+5), $NaN_{3}$ (-1/3), $Mg_{3}N_{2}$ (-3). Three molecules have negative states.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Redox Reactions",
+        "question": "Oxidation number of N in NOCl is:",
+        "question_latex": "Oxidation number of N in NOCl is:",
+        "question_images": [],
+        "options": [
+            "A. +3",
+            "B. +2",
+            "C. +1",
+            "D. +4"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In NOCl, O is -2 and Cl is -1. $x + (-2) + (-1) = 0 \\implies x = +3$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Redox Reactions",
+        "question": "The number of peroxide bond in perxenate ion $[XeO_{6}]^{4-}$ is",
+        "question_latex": "The number of peroxide bond in perxenate ion $[XeO_{6}]^{4-}$ is",
+        "question_images": [],
+        "options": [
+            "A. 0",
+            "B. 2",
+            "C. 3",
+            "D. 1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "There are no peroxide bonds in the perxenate ion $[XeO_{6}]^{4-}$; all oxygens are bonded directly to Xenon.",
+        "solution_images": [
+            "98_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Redox Reactions",
+        "question": "In the reaction, $Cr_{2}O_{7}^{2-} + 14H^{+} + 6I^{-} \\rightarrow 2Cr^{3+} + 7H_{2}O + 3I_{2}$, which element is reduced?",
+        "question_latex": "In the reaction, $Cr_{2}O_{7}^{2-} + 14H^{+} + 6I^{-} \\rightarrow 2Cr^{3+} + 7H_{2}O + 3I_{2}$, which element is reduced?",
+        "question_images": [],
+        "options": [
+            "A. I",
+            "B. O",
+            "C. H",
+            "D. Cr"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Chromium is reduced from +6 in $Cr_{2}O_{7}^{2-}$ to +3 in $Cr^{3+}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Redox Reactions",
+        "question": "Match the columns: (A) $V_{2}O_{5} + 5Ca \\rightarrow 2V + 5CaO$ (B) $CH_{4} + 2O_{2} \\rightarrow CO_{2} + 2H_{2}O$ (C) $P_{4} + 3OH^{-} + 3H_{2}O \\rightarrow PH_{3} + 3H_{2}PO_{2}^{-}$ (D) $2KClO_{3} \\rightarrow 2KCl + 3O_{2}$",
+        "question_latex": "Match the columns: (A) $V_{2}O_{5} + 5Ca \\rightarrow 2V + 5CaO$ (B) $CH_{4} + 2O_{2} \\rightarrow CO_{2} + 2H_{2}O$ (C) $P_{4} + 3OH^{-} + 3H_{2}O \\rightarrow PH_{3} + 3H_{2}PO_{2}^{-}$ (D) $2KClO_{3} \\rightarrow 2KCl + 3O_{2}$",
+        "question_images": [
+            "100_qu_1.png"
+        ],
+        "options": [
+            "A. A-(s), B-(q), C-(r), D-(p)",
+            "B. A-(s), B-(r), C-(p), D-(q)",
+            "C. A-(r), B-(s), C-(q), D-(p)",
+            "D. A-(r), B-(s), C-(p), D-(q)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "A is displacement (s), B is combination/redox (r), C is disproportionation (p), and D is decomposition (q).",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    }
+]

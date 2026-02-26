@@ -17,6 +17,11 @@ export const setupInterceptors = (navigateFn) => {
 // Add response interceptor
 api.interceptors.response.use(
     (response) => {
+        // [FRONTEND FIX] Normalizing 204 No Content responses
+        // Standardizing response.data so components checking "if (data)" succeed
+        if (response.status === 204 && !response.data) {
+            response.data = { success: true, status: 204 };
+        }
         return response;
     },
     (error) => {

@@ -21,7 +21,7 @@ const AdminDashboard1 = () => {
               <p className="text-slate-500 text-sm mt-1 font-medium">Empowering Education Through Innovation</p>
             </div>
           </div>
-          
+
         </header>
 
         {/* Main Cards */}
@@ -162,7 +162,7 @@ const AdminDashboard1 = () => {
         </div>
       </div>
 
-      <style jsx>{`
+      <style>{`
         @keyframes fade-in {
           from { opacity: 0; transform: translateY(20px); }
           to { opacity: 1; transform: translateY(0); }

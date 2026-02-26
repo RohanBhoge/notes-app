@@ -1,0 +1,1906 @@
+[
+  {
+    "id": 1,
+    "chapter": "Electrostatics",
+    "question": "Four identical charges +50 MC each are placed, one at each corner of a square of side 2m. How much external energy is required to bring another charge of +50 MC from infinity to the centre of the square (Given 1 / 4 pi epsilon_0 = 9 x 10^9 Nm^2/C^2)",
+    "question_latex": "Four identical charges $+50~\\mu C$ each are placed, one at each corner of a square of side $2$m. How much external energy is required to bring another charge of $+50~\\mu C$ from infinity to the centre of the square (Given $\\frac{1}{4\\pi\\epsilon_{0}}=9\\times10^{9}\\frac{Nm^{2}}{C^{2}}$)",
+    "question_images": [],
+    "options": [
+      "A. 64 J",
+      "B. 41 J",
+      "C. 16 J",
+      "D. 10 J"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Distance of center from each corner $r = \\frac{a}{\\sqrt{2}} = \\sqrt{2}$ m. Potential at center $V = 4 \\times \\frac{1}{4\\pi\\epsilon_{0}} \\frac{Q}{r} = 4 \\times 9 \\times 10^{9} \\times \\frac{50 \\times 10^{-6}}{\\sqrt{2}} = 90\\sqrt{2} \\times 10^{4}$ V. Work done $W = qV = 50 \\times 10^{-6} \\times 90\\sqrt{2} \\times 10^{4} = 45\\sqrt{2} \\approx 63.63$ J $\\approx 64$ J.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Electrostatics",
+    "question": "Which of the following is NOT the property of equipotential surfaces?",
+    "question_latex": "Which of the following is NOT the property of equipotential surfaces?",
+    "question_images": [],
+    "options": [
+      "A. They do not cross each other",
+      "B. They are concentric spheres for uniform electric field",
+      "C. Rate of change of potential with distance is zero along the surface",
+      "D. Work done in moving a charge over the surface is zero"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "For a uniform electric field, equipotential surfaces are parallel planes perpendicular to the field lines. Concentric spheres are for point charges.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Electrostatics",
+    "question": "A capacitor of 10 micro-F is charged to a potential 50V. The energy stored in it is [MHT-CET 2023]",
+    "question_latex": "A capacitor of $10~\\mu F$ is charged to a potential $50V$. The energy stored in it is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 12.5 x 10^-3 J",
+      "B. 25 x 10^-3 J",
+      "C. 50 x 10^-3 J",
+      "D. 100 x 10^-3 J"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$E = \\frac{1}{2}CV^{2} = 0.5 \\times 10 \\times 10^{-6} \\times 2500 = 12.5 \\times 10^{-3}$ J.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Electrostatics",
+    "question": "Three capacitors of capacitance 3 micro-F, 9 micro-F and 18 micro-F are connected once in series and another time in parallel. The ratio of equivalent capacitance in parallel to series is [MHT-CET 2021]",
+    "question_latex": "Three capacitors of capacitance $3~\\mu F, 9~\\mu F$ and $18~\\mu F$ are connected once in series and another time in parallel. The ratio of equivalent capacitance in parallel to series is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 15:1",
+      "B. 1:15",
+      "C. 10:1",
+      "D. 1:10"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$C_{p} = 3+9+18 = 30$. $\\frac{1}{C_{s}} = \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{18} = \\frac{6+2+1}{18} = \\frac{9}{18} = \\frac{1}{2} \\Rightarrow C_{s} = 2$. Ratio $= 30/2 = 15$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 5,
+    "chapter": "Electrostatics",
+    "question": "The electric potential at a point on the axis of an electric dipole depends on distance r from the center of dipole as [MHT-CET 2020]",
+    "question_latex": "The electric potential at a point on the axis of an electric dipole depends on distance $r$ from the center of dipole as [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. V proportional to 1/r",
+      "B. V proportional to 1/r^2",
+      "C. V proportional to 1/r^3",
+      "D. V proportional to r"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Dipole potential $V = \\frac{kp \\cos \\theta}{r^{2}}$. For axial points $\\theta = 0$, so $V \\propto \\frac{1}{r^{2}}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 6,
+    "chapter": "Electrostatics",
+    "question": "A parallel plate capacitor is charged and the charging battery is then disconnected. If the plates of the capacitor are moved further apart by means of insulating handles, then [MHT-CET 2024]",
+    "question_latex": "A parallel plate capacitor is charged and the charging battery is then disconnected. If the plates of the capacitor are moved further apart by means of insulating handles, then [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. The charge on the capacitor increases",
+      "B. The voltage across the plates decreases",
+      "C. The capacitance increases",
+      "D. The electrostatic energy stored in the capacitor increases"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Battery disconnected $\\Rightarrow Q$ is constant. $d$ increases $\\Rightarrow C = \\frac{\\epsilon_{0}A}{d}$ decreases. Energy $U = \\frac{Q^{2}}{2C}$, so $U$ increases.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 7,
+    "chapter": "Electrostatics",
+    "question": "The capacity of a parallel plate capacitor is 10 micro-F. When the distance between the plates is halved and a dielectric of constant k=4 is introduced, its new capacity will be [MHT-CET 2019]",
+    "question_latex": "The capacity of a parallel plate capacitor is $10~\\mu F$. When the distance between the plates is halved and a dielectric of constant $k=4$ is introduced, its new capacity will be [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 80 micro-F",
+      "B. 40 micro-F",
+      "C. 20 micro-F",
+      "D. 5 micro-F"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$C_{new} = \\frac{k \\epsilon_{0} A}{d/2} = 2k C_{old} = 2 \\times 4 \\times 10 = 80~\\mu F$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 8,
+    "chapter": "Electrostatics",
+    "question": "If an electron is brought towards another electron, the electric potential energy of the system [MHT-CET 2022]",
+    "question_latex": "If an electron is brought towards another electron, the electric potential energy of the system [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. increases",
+      "B. decreases",
+      "C. remains same",
+      "D. becomes zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Work is done against repulsive force, so potential energy increases.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 9,
+    "chapter": "Electrostatics",
+    "question": "The electric field intensity at a distance r from an infinitely long thin straight charged wire is proportional to [MHT-CET 2023]",
+    "question_latex": "The electric field intensity at a distance $r$ from an infinitely long thin straight charged wire is proportional to [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1/r",
+      "B. 1/r^2",
+      "C. r",
+      "D. r^2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$E = \\frac{\\lambda}{2\\pi\\epsilon_{0}r}$. Thus $E \\propto 1/r$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 10,
+    "chapter": "Electrostatics",
+    "question": "Energy per unit volume of a capacitor is proportional to [MHT-CET 2020]",
+    "question_latex": "Energy per unit volume of a capacitor is proportional to [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. E",
+      "B. E^2",
+      "C. 1/E",
+      "D. 1/E^2"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Energy density $u = \\frac{1}{2}\\epsilon_{0}E^{2}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Electrostatics",
+    "question": "A charged particle is released from rest in a uniform electric field. Its kinetic energy after time t is proportional to [MHT-CET 2024]",
+    "question_latex": "A charged particle is released from rest in a uniform electric field. Its kinetic energy after time $t$ is proportional to [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. t",
+      "B. t^2",
+      "C. sqrt(t)",
+      "D. 1/t"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$v = at = (qE/m)t$. $K.E. = \\frac{1}{2}mv^{2} \\propto t^{2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Electrostatics",
+    "question": "Work done in rotating an electric dipole of dipole moment p in a uniform electric field E through an angle theta from stable equilibrium is [MHT-CET 2021]",
+    "question_latex": "Work done in rotating an electric dipole of dipole moment $p$ in a uniform electric field $E$ through an angle $\\theta$ from stable equilibrium is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. pE sin theta",
+      "B. pE(1 - cos theta)",
+      "C. pE cos theta",
+      "D. -pE cos theta"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$W = pE(\\cos\\theta_{1} - \\cos\\theta_{2})$. For stable eqm, $\\theta_{1}=0$. So $W = pE(1 - \\cos\\theta)$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Electrostatics",
+    "question": "The dielectric constant k of a metal is [MHT-CET 2022]",
+    "question_latex": "The dielectric constant $k$ of a metal is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 0",
+      "C. infinity",
+      "D. 81"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Conductors have infinite dielectric constant.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Electrostatics",
+    "question": "Two charges +2 micro-C and -2 micro-C are separated by a distance of 10^-6 m. The maximum torque on this dipole in an electric field of 10^5 N/C is [MHT-CET 2023]",
+    "question_latex": "Two charges $+2~\\mu C$ and $-2~\\mu C$ are separated by a distance of $10^{-6}$ m. The maximum torque on this dipole in an electric field of $10^{5}$ N/C is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 2 x 10^-7 Nm",
+      "B. 2 x 10^-1 Nm",
+      "C. 4 x 10^-7 Nm",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\tau_{max} = pE = q d E = 2 \\times 10^{-6} \\times 10^{-6} \\times 10^{5} = 2 \\times 10^{-7}$ Nm.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Electrostatics",
+    "question": "Electric potential energy of a system of two charges is 10 J. If the separation between them is doubled, the potential energy becomes [MHT-CET 2020]",
+    "question_latex": "Electric potential energy of a system of two charges is $10$ J. If the separation between them is doubled, the potential energy becomes [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 20 J",
+      "B. 5 J",
+      "C. 10 J",
+      "D. 2.5 J"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$U \\propto 1/r$. Separation doubled $\\Rightarrow U$ halved. $10/2 = 5$ J.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Electrostatics",
+    "question": "The electric flux through a Gaussian surface enclosing a charge q is phi. If the radius of the Gaussian surface is doubled, the flux will be [MHT-CET 2024]",
+    "question_latex": "The electric flux through a Gaussian surface enclosing a charge $q$ is $\\phi$. If the radius of the Gaussian surface is doubled, the flux will be [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. phi",
+      "B. 2 phi",
+      "C. phi / 2",
+      "D. 4 phi"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Flux depends only on enclosed charge.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Electrostatics",
+    "question": "A hollow metal sphere of radius 5cm is charged such that the potential on its surface is 10V. The potential at a distance of 2cm from the centre of the sphere is",
+    "question_latex": "A hollow metal sphere of radius $5$cm is charged such that the potential on its surface is $10$V. The potential at a distance of $2$cm from the centre of the sphere is",
+    "question_images": [],
+    "options": [
+      "A. Zero",
+      "B. 10 V",
+      "C. 4 V",
+      "D. 10/3 V"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Potential inside a hollow conductor is uniform and equal to surface potential.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Electrostatics",
+    "question": "Two plates are 2cm apart, a potential difference of 10 volt is applied between them, the electric field between the plates is",
+    "question_latex": "Two plates are $2$cm apart, a potential difference of $10$ volt is applied between them, the electric field between the plates is",
+    "question_images": [],
+    "options": [
+      "A. 20 N/C",
+      "B. 500 N/C",
+      "C. 5 N/C",
+      "D. 250 N/C"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$E = V/d = 10 / 0.02 = 500$ V/m.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Electrostatics",
+    "question": "The number of electrons to be put on a spherical conductor of radius 0.1m to produce an electric field of 0.036 N/C just above its surface is",
+    "question_latex": "The number of electrons to be put on a spherical conductor of radius $0.1$m to produce an electric field of $0.036$ N/C just above its surface is",
+    "question_images": [],
+    "options": [
+      "A. 2.7 x 10^5",
+      "B. 2.6 x 10^5",
+      "C. 2.5 x 10^5",
+      "D. 2.4 x 10^5"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$E = \\frac{1}{4\\pi\\epsilon_{0}}\\frac{ne}{R^{2}} \\Rightarrow 0.036 = \\frac{9\\times 10^{9} \\times n \\times 1.6 \\times 10^{-19}}{(0.1)^{2}}$. Solving gives $n = 2.5 \\times 10^{5}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Electrostatics",
+    "question": "Five capacitors each of capacity 10 micro-F are connected in series. Their equivalent capacitance is [MHT-CET 2021]",
+    "question_latex": "Five capacitors each of capacity $10~\\mu F$ are connected in series. Their equivalent capacitance is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 50 micro-F",
+      "B. 2 micro-F",
+      "C. 10 micro-F",
+      "D. 5 micro-F"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$C_{s} = 10/5 = 2~\\mu F$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Electrostatics",
+    "question": "Van de Graaff generator is used to [MHT-CET 2022]",
+    "question_latex": "Van de Graaff generator is used to [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. measure current",
+      "B. produce high voltage",
+      "C. store energy",
+      "D. accelerate neutrons"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Conceptual use of Van de Graaff.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Electrostatics",
+    "question": "The work done in carrying a charge of 5 micro-C from a point at 20V to 50V is [MHT-CET 2023]",
+    "question_latex": "The work done in carrying a charge of $5~\\mu C$ from a point at $20V$ to $50V$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 150 micro-J",
+      "B. 350 micro-J",
+      "C. 100 micro-J",
+      "D. 250 micro-J"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$W = q \\Delta V = 5 \\times 10^{-6} \\times 30 = 150 \\times 10^{-6}$ J.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Electrostatics",
+    "question": "Dimensions of electric potential are [MHT-CET 2019]",
+    "question_latex": "Dimensions of electric potential are [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. [M1 L2 T-3 A-1]",
+      "B. [M1 L1 T-3 A-1]",
+      "C. [M1 L2 T-2 A-1]",
+      "D. [M1 L2 T-1 A-1]"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$V = W/q$. $[M L^{2} T^{-2}] / [A T] = [M L^{2} T^{-3} A^{-1}]$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Electrostatics",
+    "question": "A capacitor of 1 micro-F is charged and then connected to another uncharged capacitor of 9 micro-F. The percentage of energy lost is [MHT-CET 2024]",
+    "question_latex": "A capacitor of $1~\\mu F$ is charged and then connected to another uncharged capacitor of $9~\\mu F$. The percentage of energy lost is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 10%",
+      "B. 90%",
+      "C. 50%",
+      "D. 1%"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Loss ratio $= C_{2} / (C_{1}+C_{2}) = 9/10 = 90\\%$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Electrostatics",
+    "question": "Two tiny spheres each having charge q are separated by a distance d. A third charge Q is placed at the midpoint. For the system to be in equilibrium, Q should be [MHT-CET 2020]",
+    "question_latex": "Two tiny spheres each having charge $q$ are separated by a distance $d$. A third charge $Q$ is placed at the midpoint. For the system to be in equilibrium, $Q$ should be [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. -q/2",
+      "B. -q/4",
+      "C. q/2",
+      "D. q/4"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$F_{q} = \\frac{kq^{2}}{d^{2}} + \\frac{kqQ}{(d/2)^{2}} = 0 \\Rightarrow Q = -q/4$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Electrostatics",
+    "question": "If potential at a point (x,y,z) is V = 4x^2 V, then the electric field at (1m, 0, 2m) is [MHT-CET 2021]",
+    "question_latex": "If potential at a point $(x,y,z)$ is $V = 4x^{2}$ V, then the electric field at ($1$m, $0$, $2$m) is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 8 i V/m",
+      "B. -8 i V/m",
+      "C. 4 i V/m",
+      "D. -4 i V/m"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$E = -dV/dx = -8x$. At $x=1$, $E = -8$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Electrostatics",
+    "question": "Three identical charges of +q each are placed at the corners of an equilateral triangle of side a. The potential at the center is [MHT-CET 2022]",
+    "question_latex": "Three identical charges of $+q$ each are placed at the corners of an equilateral triangle of side $a$. The potential at the center is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 3kq / a",
+      "B. 3sqrt(3) kq / a",
+      "C. zero",
+      "D. 9kq / a"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$r = a/\\sqrt{3}$. $V = 3 \\times \\frac{kq}{r} = \\frac{3\\sqrt{3}kq}{a}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Electrostatics",
+    "question": "The SI unit of electric dipole moment is [MHT-CET 2023]",
+    "question_latex": "The SI unit of electric dipole moment is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. Cm",
+      "B. C/m",
+      "C. Nm",
+      "D. Am"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Dipole moment $p = ql$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Electrostatics",
+    "question": "A capacitor of 10 micro-F is charged by 100V. It is then disconnected from battery and plates are moved to double the distance. The work done is [MHT-CET 2024]",
+    "question_latex": "A capacitor of $10~\\mu F$ is charged by $100V$. It is then disconnected from battery and plates are moved to double the distance. The work done is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 0.05 J",
+      "B. 0.1 J",
+      "C. 0.2 J",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$U_{i} = 0.5 CV^{2} = 0.05$ J. $d$ doubled $\\Rightarrow C$ halved $\\Rightarrow U_{f} = 0.1$ J. $W = 0.05$ J.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Electrostatics",
+    "question": "Relation between electric field E and potential gradient dV/dx is [MHT-CET 2020]",
+    "question_latex": "Relation between electric field $E$ and potential gradient $dV/dx$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. E = dV/dx",
+      "B. E = -dV/dx",
+      "C. V = dE/dx",
+      "D. V = -dE/dx"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Basic definition.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Electrostatics",
+    "question": "Two charges 10 micro-C and 20 micro-C are 10 cm apart. The potential energy of the system is [MHT-CET 2019]",
+    "question_latex": "Two charges $10~\\mu C$ and $20~\\mu C$ are $10$ cm apart. The potential energy of the system is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 18 J",
+      "B. 1.8 J",
+      "C. 9 J",
+      "D. 0.18 J"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$U = \\frac{9 \\times 10^{9} \\times 10 \\times 20 \\times 10^{-12}}{0.1} = 18$ J.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Electrostatics",
+    "question": "Surface density of charge on a conductor depends on [MHT-CET 2021]",
+    "question_latex": "Surface density of charge on a conductor depends on [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. total charge",
+      "B. curvature of surface",
+      "C. both A and B",
+      "D. neither A nor B"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Depends on both charge and area (shape).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Electrostatics",
+    "question": "A dielectric slab is inserted between plates of a charged disconnected capacitor. The field between plates [MHT-CET 2022]",
+    "question_latex": "A dielectric slab is inserted between plates of a charged disconnected capacitor. The field between plates [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. increases",
+      "B. decreases",
+      "C. remains same",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$E' = E_{0}/k$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Electrostatics",
+    "question": "Potential at a point P due to charge q is V. If distance is doubled and charge is tripled, new potential is [MHT-CET 2023]",
+    "question_latex": "Potential at a point $P$ due to charge $q$ is $V$. If distance is doubled and charge is tripled, new potential is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1.5 V",
+      "B. 6 V",
+      "C. 3/2 V",
+      "D. Both A and C"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$V' = 3/2 V$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Electrostatics",
+    "question": "Capacity of a sphere of radius 9 km is [MHT-CET 2024]",
+    "question_latex": "Capacity of a sphere of radius $9$ km is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 1 micro-F",
+      "B. 1 milli-F",
+      "C. 1 Farad",
+      "D. 9 micro-F"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$C = R/k = 9000 / (9 \\times 10^{9}) = 10^{-6}$ F.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Electrostatics",
+    "question": "Angle between electric field and equipotential surface is [MHT-CET 2020]",
+    "question_latex": "Angle between electric field and equipotential surface is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. zero",
+      "B. 90°",
+      "C. 45°",
+      "D. 180°"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Surfaces are always perpendicular to field lines.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Electrostatics",
+    "question": "Torque on a dipole is maximum when it is [MHT-CET 2019]",
+    "question_latex": "Torque on a dipole is maximum when it is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. parallel to field",
+      "B. perpendicular to field",
+      "C. anti-parallel to field",
+      "D. at 45° to field"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\tau = pE \\sin 90 = pE$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Electrostatics",
+    "question": "Potential inside a charged soap bubble is [MHT-CET 2021]",
+    "question_latex": "Potential inside a charged soap bubble is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. zero",
+      "B. same as surface",
+      "C. double the surface",
+      "D. half the surface"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Equipotential region.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Electrostatics",
+    "question": "Flux linked with a unit charge in vacuum is [MHT-CET 2022]",
+    "question_latex": "Flux linked with a unit charge in vacuum is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. epsilon_0",
+      "B. 1/epsilon_0",
+      "C. 4 pi epsilon_0",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Gauss law.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Electrostatics",
+    "question": "Two capacitors 2 micro-F and 4 micro-F are in parallel. Potential across them is 10V. Total energy is [MHT-CET 2023]",
+    "question_latex": "Two capacitors $2~\\mu F$ and $4~\\mu F$ are in parallel. Potential across them is $10V$. Total energy is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 3 x 10^-4 J",
+      "B. 3 x 10^-3 J",
+      "C. 1.5 x 10^-4 J",
+      "D. 6 x 10^-4 J"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$C_{p} = 6$. $E = 0.5 \\times 6 \\times 10^{-6} \\times 100 = 3 \\times 10^{-4}$ J.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Electrostatics",
+    "question": "A capacitor of capacitance C is charged to potential V. Energy is U. If it is discharged to potential V/2, energy lost is [MHT-CET 2024]",
+    "question_latex": "A capacitor of capacitance $C$ is charged to potential $V$. Energy is $U$. If it is discharged to potential $V/2$, energy lost is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. U/2",
+      "B. U/4",
+      "C. 3U/4",
+      "D. U/8"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$U_{f} = 1/4 U_{i}$. Lost $= 3/4 U$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Electrostatics",
+    "question": "The magnitude of electric field at distance r on equatorial line of dipole is proportional to [MHT-CET 2020]",
+    "question_latex": "The magnitude of electric field at distance $r$ on equatorial line of dipole is proportional to [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 1/r",
+      "B. 1/r^2",
+      "C. 1/r^3",
+      "D. 1/r^4"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Equatorial field.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Electrostatics",
+    "question": "Force between two point charges is F. If a glass slab is placed between them, new force is [MHT-CET 2019]",
+    "question_latex": "Force between two point charges is $F$. If a glass slab is placed between them, new force is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. > F",
+      "B. < F",
+      "C. F",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$F' = F/k$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Electrostatics",
+    "question": "Potential energy of dipole is minimum when p and E are [MHT-CET 2021]",
+    "question_latex": "Potential energy of dipole is minimum when $p$ and $E$ are [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. parallel",
+      "B. perpendicular",
+      "C. anti-parallel",
+      "D. at 45°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$U = -pE \\cos 0 = -pE$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Electrostatics",
+    "question": "Capacitors in parallel share same [MHT-CET 2022]",
+    "question_latex": "Capacitors in parallel share same [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. charge",
+      "B. potential difference",
+      "C. energy",
+      "D. capacitance"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Basic parallel property.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Electrostatics",
+    "question": "Work done in moving 2C charge through 10V is [MHT-CET 2023]",
+    "question_latex": "Work done in moving $2C$ charge through $10V$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 5 J",
+      "B. 20 J",
+      "C. 0.2 J",
+      "D. 12 J"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$W = 2 \\times 10 = 20$ J.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Electrostatics",
+    "question": "Dimension of electric flux is [MHT-CET 2024]",
+    "question_latex": "Dimension of electric flux is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. [M1 L3 T-3 A-1]",
+      "B. [M1 L2 T-3 A-1]",
+      "C. [M1 L3 T-2 A-1]",
+      "D. [M1 L1 T-3 A-1]"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Check standard dimensions.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Electrostatics",
+    "question": "Two equal negative charges -q are fixed at (0,a) and (0,-a). A positive charge Q is released from rest at (x,0) where x >> a. The charge Q will [MHT-CET 2020]",
+    "question_latex": "Two equal negative charges $-q$ are fixed at $(0,a)$ and $(0,-a)$. A positive charge $Q$ is released from rest at $(x,0)$ where $x >> a$. The charge $Q$ will [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. move to infinity",
+      "B. stay at rest",
+      "C. execute SHM about origin",
+      "D. execute periodic but not SHM"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Oscillatory motion.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Electrostatics",
+    "question": "The dielectric strength of air is 3 x 10^6 V/m. Maximum charge that can be stored on sphere of radius 10 cm is [MHT-CET 2019]",
+    "question_latex": "The dielectric strength of air is $3 \\times 10^{6}$ V/m. Maximum charge that can be stored on sphere of radius $10$ cm is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 3.3 micro-C",
+      "B. 0.33 micro-C",
+      "C. 33 micro-C",
+      "D. 333 micro-C"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$Q = 4\\pi\\epsilon_{0} R^{2} E_{max} = 3.3~\\mu C$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Electrostatics",
+    "question": "Equivalent capacitance of two identical capacitors is 2 micro-F in series. In parallel, it is [MHT-CET 2021]",
+    "question_latex": "Equivalent capacitance of two identical capacitors is $2~\\mu F$ in series. In parallel, it is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 4 micro-F",
+      "B. 8 micro-F",
+      "C. 1 micro-F",
+      "D. 2 micro-F"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$C=4$. $C_{p}=8$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Electrostatics",
+    "question": "The electric potential at a distance r from an isolated point charge Q is V. The electric field intensity at that point is",
+    "question_latex": "The electric potential at a distance $r$ from an isolated point charge $Q$ is $V$. The electric field intensity at that point is",
+    "question_images": [],
+    "options": [
+      "A. V/r",
+      "B. V/r^2",
+      "C. Vr",
+      "D. Vr^2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$V = kQ/r$ and $E = kQ/r^{2}$. So $E = V/r$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Electrostatics",
+    "question": "A capacitor of 20 micro-F is charged to 500V. It is then connected in parallel with an uncharged 10 micro-F capacitor. The common potential is [MHT-CET 2023]",
+    "question_latex": "A capacitor of $20~\\mu F$ is charged to $500V$. It is then connected in parallel with an uncharged $10~\\mu F$ capacitor. The common potential is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 333.3 V",
+      "B. 250 V",
+      "C. 500 V",
+      "D. 100 V"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$V = (C_{1}V_{1}) / (C_{1}+C_{2}) = (20 \\times 500) / 30 = 1000/3 = 333.3$ V.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Electrostatics",
+    "question": "Work done in placing a charge of 2 x 10^-9 C on a conductor of capacity 100 micro-F is [MHT-CET 2020]",
+    "question_latex": "Work done in placing a charge of $2 \\times 10^{-9}$ C on a conductor of capacity $100~\\mu F$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. 2 x 10^-14 J",
+      "B. 4 x 10^-14 J",
+      "C. 2 x 10^-13 J",
+      "D. 4 x 10^-13 J"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$W = Q^{2} / 2C = (4 \\times 10^{-18}) / (2 \\times 10^{-4}) = 2 \\times 10^{-14}$ J.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Electrostatics",
+    "question": "An electric dipole of moment p is placed in a uniform electric field E. The torque acting on it is given by [MHT-CET 2022]",
+    "question_latex": "An electric dipole of moment $p$ is placed in a uniform electric field $E$. The torque acting on it is given by [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. p . E",
+      "B. p x E",
+      "C. p + E",
+      "D. p - E"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Vector form of torque.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Electrostatics",
+    "question": "A capacitor of 4 micro-F is charged to 400V. If the plates are joined through a resistance of 1000 ohm, the heat produced is [MHT-CET 2019]",
+    "question_latex": "A capacitor of $4~\\mu F$ is charged to $400V$. If the plates are joined through a resistance of $1000~\\Omega$, the heat produced is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 0.32 J",
+      "B. 0.64 J",
+      "C. 1.28 J",
+      "D. 0.16 J"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$H = 0.5 CV^{2} = 0.5 \\times 4 \\times 10^{-6} \\times 160000 = 0.32$ J.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Electrostatics",
+    "question": "Potential gradient is a [MHT-CET 2024]",
+    "question_latex": "Potential gradient is a [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. scalar",
+      "B. vector",
+      "C. dimensionless quantity",
+      "D. unitless quantity"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "It has magnitude and direction (opposite to field).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Electrostatics",
+    "question": "Two metallic spheres of radii 1 cm and 2 cm are given charges 10^-2 C and 5 x 10^-2 C respectively. They are then connected by a wire. The final charge on the smaller sphere is [MHT-CET 2021]",
+    "question_latex": "Two metallic spheres of radii $1$ cm and $2$ cm are given charges $10^{-2}$ C and $5 \\times 10^{-2}$ C respectively. They are then connected by a wire. The final charge on the smaller sphere is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 2 x 10^-2 C",
+      "B. 4 x 10^-2 C",
+      "C. 10^-2 C",
+      "D. 3 x 10^-2 C"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$Q_{1}' = (R_{1} / (R_{1}+R_{2})) \\times Q_{total} = (1/3) \\times 6 \\times 10^{-2} = 2 \\times 10^{-2}$ C.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Electrostatics",
+    "question": "A parallel plate capacitor has plate area A and separation d. It is filled with two dielectrics k1 and k2 as shown. The equivalent capacitance is [MHT-CET 2023]",
+    "question_latex": "A parallel plate capacitor has plate area $A$ and separation $d$. It is filled with two dielectrics $k_{1}$ and $k_{2}$ as shown. The equivalent capacitance is [MHT-CET 2023]",
+    "question_images": [
+      "q608_1"
+    ],
+    "options": [
+      "A. (epsilon_0 A / d) (k1+k2)/2",
+      "B. (epsilon_0 A / d) (2k1k2 / (k1+k2))",
+      "C. (epsilon_0 A / d) sqrt(k1k2)",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Parallel combination of two capacitors with area $A/2$ each.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Electrostatics",
+    "question": "Electric field intensity inside a charged conductor is [MHT-CET 2020]",
+    "question_latex": "Electric field intensity inside a charged conductor is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. zero",
+      "B. infinite",
+      "C. uniform",
+      "D. non-zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Basic conductor property.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Electrostatics",
+    "question": "The work done in increasing the potential of a capacitor from 20V to 40V is W. The work done in increasing it from 40V to 50V will be [MHT-CET 2022]",
+    "question_latex": "The work done in increasing the potential of a capacitor from $20V$ to $40V$ is $W$. The work done in increasing it from $40V$ to $50V$ will be [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 3W/4",
+      "B. W/2",
+      "C. 4W/3",
+      "D. 2W"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$W = 0.5 C(40^{2} - 20^{2}) = 600 C$. $W' = 0.5 C(50^{2} - 40^{2}) = 450 C$. $W' = (450/600) W = 0.75 W = 3W/4$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Electrostatics",
+    "question": "Specific induction capacity is also called [MHT-CET 2024]",
+    "question_latex": "Specific induction capacity is also called [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Dielectric constant",
+      "B. Surface density",
+      "C. Electric flux",
+      "D. Potential"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Synonym for dielectric constant.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Electrostatics",
+    "question": "Force of attraction between two plates of a parallel plate capacitor is [MHT-CET 2019]",
+    "question_latex": "Force of attraction between two plates of a parallel plate capacitor is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. Q^2 / (2 epsilon_0 A)",
+      "B. Q^2 / (epsilon_0 A)",
+      "C. Q / (2 epsilon_0 A)",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$F = QE/2 = Q(Q/\\epsilon_{0}A)/2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Electrostatics",
+    "question": "A point charge +q is at a distance d from center of uncharged metallic sphere of radius R. The potential at the center of sphere is [MHT-CET 2021]",
+    "question_latex": "A point charge $+q$ is at a distance $d$ from center of uncharged metallic sphere of radius $R$. The potential at the center of sphere is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. kq/d",
+      "B. kq/(d-R)",
+      "C. zero",
+      "D. kq/R"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Potential at center due to $q$ is $kq/d$. Induced charges on sphere contribute zero potential at center.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Electrostatics",
+    "question": "Three identical capacitors each of 3 micro-F are connected in star. The equivalent capacitance between any two points is [MHT-CET 2023]",
+    "question_latex": "Three identical capacitors each of $3~\\mu F$ are connected in star. The equivalent capacitance between any two points is [MHT-CET 2023]",
+    "question_images": [
+      "q614_1"
+    ],
+    "options": [
+      "A. 1.5 micro-F",
+      "B. 3 micro-F",
+      "C. 4.5 micro-F",
+      "D. 1 micro-F"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Between two terminals, it's two capacitors in series: $3/2 = 1.5$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Electrostatics",
+    "question": "Which of the following does not change when a dielectric is inserted in a connected capacitor? [MHT-CET 2020]",
+    "question_latex": "Which of the following does not change when a dielectric is inserted in a connected capacitor? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. potential difference",
+      "B. charge",
+      "C. energy",
+      "D. capacity"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Battery connected $\\Rightarrow V$ is constant.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Electrostatics",
+    "question": "Surface area of a conductor is 5 cm^2. It is given a charge of 10 micro-C. Surface charge density is [MHT-CET 2022]",
+    "question_latex": "Surface area of a conductor is $5~cm^{2}$. It is given a charge of $10~\\mu C$. Surface charge density is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 0.02 C/m^2",
+      "B. 20 C/m^2",
+      "C. 2 C/m^2",
+      "D. 0.2 C/m^2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\sigma = Q/A = (10 \\times 10^{-6}) / (5 \\times 10^{-4}) = 2 \\times 10^{-2} = 0.02$ C/m^2.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Electrostatics",
+    "question": "Work done in moving a charge of 4C across two points with PD 5V is [MHT-CET 2024]",
+    "question_latex": "Work done in moving a charge of $4C$ across two points with PD $5V$ is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 20 J",
+      "B. 1.25 J",
+      "C. 0.8 J",
+      "D. 10 J"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$W = qV = 4 \\times 5 = 20$ J.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Electrostatics",
+    "question": "A sphere of radius R has charge density rho = kr. Total charge is [MHT-CET 2019]",
+    "question_latex": "A sphere of radius $R$ has charge density $\\rho = kr$. Total charge is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. pi k R^4",
+      "B. 4 pi k R^3",
+      "C. 2 pi k R^4",
+      "D. pi k R^3"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$Q = \\int (kr) (4 \\pi r^{2} dr) = 4 \\pi k [r^{4}/4]_{0}^{R} = \\pi k R^{4}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Electrostatics",
+    "question": "Electric field due to a dipole at a large distance r is proportional to [MHT-CET 2021]",
+    "question_latex": "Electric field due to a dipole at a large distance $r$ is proportional to [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 1/r^2",
+      "B. 1/r^3",
+      "C. 1/r",
+      "D. 1/r^4"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Dipole field falls as $1/r^{3}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Electrostatics",
+    "question": "Two capacitors C1 and C2 are connected in series. The charge on each is [MHT-CET 2023]",
+    "question_latex": "Two capacitors $C_{1}$ and $C_{2}$ are connected in series. The charge on each is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. same",
+      "B. different",
+      "C. proportional to C",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Series combination property.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Electrostatics",
+    "question": "Potential energy of a pair of charges is [MHT-CET 2020]",
+    "question_latex": "Potential energy of a pair of charges is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. scalar",
+      "B. vector",
+      "C. tensor",
+      "D. dimensionless"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Energy is a scalar quantity.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Electrostatics",
+    "question": "Dielectric constant of water is [MHT-CET 2022]",
+    "question_latex": "Dielectric constant of water is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 80",
+      "C. infinity",
+      "D. 0.5"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Standard value.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Electrostatics",
+    "question": "A 10 micro-F capacitor is charged to 10V. It is then connected to a 20 micro-F uncharged capacitor. The final energy is [MHT-CET 2024]",
+    "question_latex": "A $10~\\mu F$ capacitor is charged to $10V$. It is then connected to a $20~\\mu F$ uncharged capacitor. The final energy is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 5 x 10^-4 J",
+      "B. 1.67 x 10^-4 J",
+      "C. 3.33 x 10^-4 J",
+      "D. 10^-3 J"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$V_{common} = (10 \\times 10) / 30 = 3.33$ V. $U_{f} = 0.5 \\times 30 \\times 10^{-6} \\times (3.33)^{2} = 1.67 \\times 10^{-4}$ J.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Electrostatics",
+    "question": "Electric potential due to a point charge at distance r is proportional to [MHT-CET 2019]",
+    "question_latex": "Electric potential due to a point charge at distance $r$ is proportional to [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 1/r",
+      "B. 1/r^2",
+      "C. r",
+      "D. r^2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$V = kQ/r$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Electrostatics",
+    "question": "SI unit of permittivity of free space is [MHT-CET 2021]",
+    "question_latex": "SI unit of permittivity of free space is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. C^2 / (Nm^2)",
+      "B. Nm^2 / C^2",
+      "C. C / (Nm)",
+      "D. NC / m"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "From Coulomb's law.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Electrostatics",
+    "question": "Angle between electric dipole moment and field in stable equilibrium is [MHT-CET 2023]",
+    "question_latex": "Angle between electric dipole moment and field in stable equilibrium is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. zero",
+      "B. 180°",
+      "C. 90°",
+      "D. 45°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Stable equilibrium occurs at $0$ degrees.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Electrostatics",
+    "question": "Polarization density is [MHT-CET 2020]",
+    "question_latex": "Polarization density is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. dipole moment per unit volume",
+      "B. charge per unit area",
+      "C. Both A and B",
+      "D. force per unit charge"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$P = p/V = Q_{i}d / Ad = Q_{i}/A$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Electrostatics",
+    "question": "A capacitor of 10 micro-F is connected to a 100V battery. The charge on it is [MHT-CET 2022]",
+    "question_latex": "A capacitor of $10~\\mu F$ is connected to a $100V$ battery. The charge on it is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 10^-3 C",
+      "B. 10^-4 C",
+      "C. 10^-2 C",
+      "D. 10^-5 C"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$Q = CV = 10 \\times 10^{-6} \\times 100 = 10^{-3}$ C.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Electrostatics",
+    "question": "Potential at a point is 10V. Work done to bring 2 micro-C from infinity is [MHT-CET 2024]",
+    "question_latex": "Potential at a point is $10V$. Work done to bring $2~\\mu C$ from infinity is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 20 micro-J",
+      "B. 5 micro-J",
+      "C. 20 J",
+      "D. 5 J"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$W = qV$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Electrostatics",
+    "question": "Flux through a cube of side a enclosing charge q at center is [MHT-CET 2019]",
+    "question_latex": "Flux through a cube of side $a$ enclosing charge $q$ at center is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. q/epsilon_0",
+      "B. q/6 epsilon_0",
+      "C. 6 q/epsilon_0",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Total flux through cube.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Electrostatics",
+    "question": "Electric susceptibility is [MHT-CET 2021]",
+    "question_latex": "Electric susceptibility is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. dimensionless",
+      "B. unitless",
+      "C. both A and B",
+      "D. having dimensions of charge"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$\\chi$ is a numeric constant.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Electrostatics",
+    "question": "PD across a 5 micro-F capacitor with 10 micro-C charge is [MHT-CET 2023]",
+    "question_latex": "PD across a $5~\\mu F$ capacitor with $10~\\mu C$ charge is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 2 V",
+      "B. 0.5 V",
+      "C. 50 V",
+      "D. 10 V"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$V = Q/C = 10/5 = 2$ V.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Electrostatics",
+    "question": "An uncharged capacitor is connected to a battery. Total energy supplied by battery is E. Energy stored in capacitor is [MHT-CET 2020]",
+    "question_latex": "An uncharged capacitor is connected to a battery. Total energy supplied by battery is $E$. Energy stored in capacitor is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. E/2",
+      "B. E",
+      "C. E/4",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Half energy is dissipated as heat.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Electrostatics",
+    "question": "Radius of an equipotential sphere is R. Work done to move charge q by distance x on surface is [MHT-CET 2022]",
+    "question_latex": "Radius of an equipotential sphere is $R$. Work done to move charge $q$ by distance $x$ on surface is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. zero",
+      "B. qEx",
+      "C. qVx",
+      "D. infinite"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "No PD on surface.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Electrostatics",
+    "question": "Coulomb force is [MHT-CET 2024]",
+    "question_latex": "Coulomb force is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Central force",
+      "B. Conservative force",
+      "C. Both A and B",
+      "D. Non-conservative force"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Nature of electrostatic force.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Electrostatics",
+    "question": "Dipole is in unstable equilibrium when angle is [MHT-CET 2019]",
+    "question_latex": "Dipole is in unstable equilibrium when angle is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 180°",
+      "B. zero",
+      "C. 90°",
+      "D. 45°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "At $180$ degrees, it's unstable.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Electrostatics",
+    "question": "Capacitance of earth is about [MHT-CET 2021]",
+    "question_latex": "Capacitance of earth is about [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. 711 micro-F",
+      "B. 1 Farad",
+      "C. 1 micro-F",
+      "D. 9 x 10^9 F"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$C = 4\\pi\\epsilon_{0} R \\approx 711~\\mu F$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Electrostatics",
+    "question": "A charge Q is divided into two parts q and Q-q. Force is max when q/Q is [MHT-CET 2023]",
+    "question_latex": "A charge $Q$ is divided into two parts $q$ and $Q-q$. Force is max when $q/Q$ is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 0.5",
+      "B. 1",
+      "C. 0.25",
+      "D. 2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Product is max when parts are equal.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Electrostatics",
+    "question": "Potential at a point P due to dipole is zero. The point must be on [MHT-CET 2020]",
+    "question_latex": "Potential at a point $P$ due to dipole is zero. The point must be on [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. Equator",
+      "B. Axis",
+      "C. Anywhere",
+      "D. Infinity only"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Equatorial line property.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Electrostatics",
+    "question": "Units of electric field are [MHT-CET 2022]",
+    "question_latex": "Units of electric field are [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. V/m",
+      "B. N/C",
+      "C. Both A and B",
+      "D. J/C"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Standard units.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Electrostatics",
+    "question": "Electric intensity at surface of charged conductor is [MHT-CET 2024]",
+    "question_latex": "Electric intensity at surface of charged conductor is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. sigma / epsilon_0",
+      "B. sigma / 2 epsilon_0",
+      "C. zero",
+      "D. infinite"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Gaussian surface approach.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Electrostatics",
+    "question": "Two charges are in air. If distance is doubled and they are put in medium k=4, new force is [MHT-CET 2019]",
+    "question_latex": "Two charges are in air. If distance is doubled and they are put in medium $k=4$, new force is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. F/16",
+      "B. F/8",
+      "C. F/4",
+      "D. F/2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$F' = F / (k \\times 2^{2}) = F/16$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Electrostatics",
+    "question": "Dimensions of capacitance are [MHT-CET 2021]",
+    "question_latex": "Dimensions of capacitance are [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. [M-1 L-2 T4 A2]",
+      "B. [M1 L2 T-4 A-2]",
+      "C. [M-1 L-2 T2 A2]",
+      "D. [M-1 L-1 T4 A2]"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "From $C = Q/V$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Electrostatics",
+    "question": "Which represents Gauss law? [MHT-CET 2023]",
+    "question_latex": "Which represents Gauss law? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. phi = q / epsilon_0",
+      "B. E = kq/r^2",
+      "C. V = kq/r",
+      "D. F = ma"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Gauss law formula.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Electrostatics",
+    "question": "A dielectric slab is introduced in a capacitor while battery is disconnected. Energy [MHT-CET 2020]",
+    "question_latex": "A dielectric slab is introduced in a capacitor while battery is disconnected. Energy [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. decreases",
+      "B. increases",
+      "C. same",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$U = Q^{2}/2C$. $C$ increases $\\Rightarrow U$ decreases.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Electrostatics",
+    "question": "Work done in moving a charge of 1C through 1V is [MHT-CET 2022]",
+    "question_latex": "Work done in moving a charge of $1C$ through $1V$ is [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. 1 J",
+      "B. 1 eV",
+      "C. 1.6 x 10^-19 J",
+      "D. zero"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$W = 1 \\times 1 = 1$ J.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Electrostatics",
+    "question": "If flux through closed surface is zero, net charge is [MHT-CET 2024]",
+    "question_latex": "If flux through closed surface is zero, net charge is [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. zero",
+      "B. positive",
+      "C. negative",
+      "D. infinite"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Gauss law.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Electrostatics",
+    "question": "Charge on a 2 micro-F capacitor at 5V is [MHT-CET 2019]",
+    "question_latex": "Charge on a $2~\\mu F$ capacitor at $5V$ is [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. 10 micro-C",
+      "B. 2.5 micro-C",
+      "C. 0.4 micro-C",
+      "D. 10 C"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$Q = CV$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Electrostatics",
+    "question": "Non-polar dielectrics have [MHT-CET 2021]",
+    "question_latex": "Non-polar dielectrics have [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. zero permanent dipole moment",
+      "B. non-zero dipole moment",
+      "C. asymmetric shape",
+      "D. infinite resistance"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Definition of non-polar molecules.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Electrostatics",
+    "question": "Two capacitors of 1 micro-F are in parallel. Equivalent is [MHT-CET 2023]",
+    "question_latex": "Two capacitors of $1~\\mu F$ are in parallel. Equivalent is [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 2 micro-F",
+      "B. 0.5 micro-F",
+      "C. 1 micro-F",
+      "D. 4 micro-F"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$C_{p} = 1+1 = 2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  }
+]

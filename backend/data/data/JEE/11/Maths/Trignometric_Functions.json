@@ -1,0 +1,1904 @@
+[
+  {
+    "id": 1,
+    "chapter": "Trigonometry",
+    "question": "If 7 cos x - 24 sin x = λ cos(x + α), 0 < α < π/2 be true for all x ∈ R, then",
+    "question_latex": "If $7 \\\\cos x - 24 \\\\sin x = \\\\lambda \\\\cos(x + \\\\alpha), 0 < \\\\alpha < \\\\frac{\\\\pi}{2}$ be true for all $x \\\\in R$, then",
+    "question_images": [],
+    "options": [
+      "A. $\\lambda = 25$",
+      "B. $\\alpha = \\sin^{-1} \\frac{21}{25}$",
+      "C. $\\lambda = -25$",
+      "D. $\\alpha = \\cos^{-1} \\frac{17}{25}$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Given, $7 \\cos x - 24 \\sin x = \\lambda \\cos(x + \\alpha)$ [cite: 354] \n$\\Rightarrow 25(\\frac{7}{25} \\cos x - \\frac{24}{25} \\sin x) = \\lambda \\cos(x + \\alpha)$ [cite: 355] \n$\\Rightarrow 25[\\cos(\\beta + x)] = \\lambda \\cos(x + \\alpha)$ where $\\cos \\beta = \\frac{7}{25}$ [cite: 355, 356] \nComparing both sides, we get $\\lambda = 25$. [cite: 357]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Trigonometry",
+    "question": "sin 12° sin 48° sin 54° is equal to",
+    "question_latex": "$\\sin 12^{\\circ} \\sin 48^{\\circ} \\sin 54^{\\circ}$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. 1/16",
+      "B. 1/32",
+      "C. 1/8",
+      "D. 1/4"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$\\sin 12^{\\circ} \\sin 48^{\\circ} \\sin 54^{\\circ}$ [cite: 359] \n$= \\frac{1}{2}[\\cos(48-12)^{\\circ} - \\cos(48+12)^{\\circ}] \\sin 54^{\\circ}$ \n$= \\frac{1}{2}[\\cos 36^{\\circ} - \\cos 60^{\\circ}] \\cos 36^{\\circ}$ [cite: 360] \n$= \\frac{1}{2}[\\frac{\\sqrt{5}+1}{4} - \\frac{1}{2}][\\frac{\\sqrt{5}+1}{4}] = \\frac{1}{8}$ [cite: 360]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Trigonometry",
+    "question": "solution of the equation 3^{sin 2x + 2 cos^2 x} + 3^{1 - sin 2x + 2 sin^2 x} = 28 is:",
+    "question_latex": "solution of the equation $3^{\\sin 2x + 2 \\cos^{2} x} + 3^{1 - \\sin 2x + 2 \\sin^{2} x} = 28$ is:",
+    "question_images": [],
+    "options": [
+      "A. x = nπ",
+      "B. x = (2n + 1)π/2",
+      "C. x = nπ - π/4",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "We have $3^{1 + \\sin 2x + \\cos 2x} + 3^{1 - \\sin 2x + 1 - \\cos 2x} = 28$ [cite: 367] \nLet $y = \\sin 2x + \\cos 2x$, then $3 \\cdot 3^{y} + 3 \\cdot 3^{-y} = 28$ [cite: 367] \nLet $t = 3^y$, then $3t + \\frac{3}{t} = 28 \\Rightarrow 3t^2 - 28t + 3 = 0$ [cite: 368] \nSolving for $t$, we get $t = 1/3$ or $t = 9$ [cite: 369] \nCase 1: $3^y = 3^{-1} \\Rightarrow \\sin 2x + \\cos 2x = -1$ [cite: 369, 370] \n$\\Rightarrow 2 \\sin x \\cos x + 2 \\cos^2 x = 0 \\Rightarrow 2 \\cos x (\\sin x + \\cos x) = 0$ [cite: 371, 372] \n$\\cos x = 0$ or $\\tan x = -1 \\Rightarrow x = (2n+1)\\frac{\\pi}{2}$ or $x = n\\pi - \\frac{\\pi}{4}$ [cite: 372, 373] \nCase 2: $3^y = 3^2 \\Rightarrow \\sin 2x + \\cos 2x = 2$, which is not possible since $\\max(\\sin 2x + \\cos 2x) = \\sqrt{2}$ [cite: 369, 373]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Trigonometry",
+    "question": "The least difference between the roots, in the first quadrant (0 ≤ x ≤ π/2) of the equation 4 cos x(2 - 3 sin^2 x) + (cos 2x + 1) = 0, is:",
+    "question_latex": "The least difference between the roots, in the first quadrant $(0 \\le x \\le \\frac{\\pi}{2})$ of the equation $4 \\cos x(2 - 3 \\sin^{2} x) + (\\cos 2x + 1) = 0$, is:",
+    "question_images": [],
+    "options": [
+      "A. π/6",
+      "B. π/4",
+      "C. π/3",
+      "D. π/2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "We have $4 \\cos x(2 - 3(1 - \\cos^2 x)) + 2 \\cos^2 x = 0$ [cite: 378, 379] \n$\\Rightarrow 4 \\cos x(3 \\cos^2 x - 1) + 2 \\cos^2 x = 0 \\Rightarrow 2 \\cos x(6 \\cos^2 x + \\cos x - 2) = 0$ [cite: 379, 380] \n$\\Rightarrow 2 \\cos x(3 \\cos x + 2)(2 \\cos x - 1) = 0$ [cite: 381] \nIn the first quadrant: $\\cos x = 0 \\Rightarrow x = \\pi/2$ or $\\cos x = 1/2 \\Rightarrow x = \\pi/3$ [cite: 382, 384] \nDifference $= \\pi/2 - \\pi/3 = \\pi/6$ [cite: 385]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 5,
+    "chapter": "Trigonometry",
+    "question": "The sides of an equilateral triangle, a square and a regular hexagon circumscribed in a circle are in",
+    "question_latex": "The sides of an equilateral triangle, a square and a regular hexagon circumscribed in a circle are in",
+    "question_images": [],
+    "options": [
+      "A. A.P.",
+      "B. G.P.",
+      "C. H.P.",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Let the radius of the circle be $R$. \nSide of equilateral triangle $a_3 = 2R \\tan(\\pi/3) = 2R\\sqrt{3}$. \nSide of square $a_4 = 2R \\tan(\\pi/4) = 2R$. \nSide of regular hexagon $a_6 = 2R \\tan(\\pi/6) = 2R/\\sqrt{3}$. \nTheir reciprocals are $\\frac{1}{2R\\sqrt{3}}, \\frac{1}{2R}, \\frac{\\sqrt{3}}{2R}$, which are in A.P. Thus sides are in H.P. [cite: 387, 388]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 6,
+    "chapter": "Trigonometry",
+    "question": "If A + B = 45°, then (cot A - 1)(cot B - 1) is equal to",
+    "question_latex": "If $A + B = 45^{\\circ}$, then $(\\cot A - 1)(\\cot B - 1)$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 1/2",
+      "C. -1",
+      "D. 2"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Given $A + B = 45^{\\circ} \\Rightarrow \\cot(A+B) = 1$ [cite: 393] \n$\\Rightarrow \\frac{\\cot A \\cot B - 1}{\\cot A + \\cot B} = 1 \\Rightarrow \\cot A \\cot B - (\\cot A + \\cot B) = 1$ [cite: 394, 396] \nNow, $(\\cot A - 1)(\\cot B - 1) = \\cot A \\cot B - (\\cot A + \\cot B) + 1$ [cite: 396] \n$= 1 + 1 = 2$. [cite: 396]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 7,
+    "chapter": "Trigonometry",
+    "question": "The quadratic equation whose roots are sec^2 θ and cosec^2 θ can be",
+    "question_latex": "The quadratic equation whose roots are $\\sec^{2} \\theta$ and $\\csc^{2} \\theta$ can be",
+    "question_images": [],
+    "options": [
+      "A. x^2 - 2x + 2 = 0",
+      "B. x^2 + 5x + 5 = 0",
+      "C. x^2 - 4x + 4 = 0",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Sum of roots $= \\sec^2 \\theta + \\csc^2 \\theta = \\frac{1}{\\cos^2 \\theta} + \\frac{1}{\\sin^2 \\theta} = \\frac{\\sin^2 \\theta + \\cos^2 \\theta}{\\sin^2 \\theta \\cos^2 \\theta} = \\sec^2 \\theta \\csc^2 \\theta$ [cite: 399] \nProduct of roots $= \\sec^2 \\theta \\csc^2 \\theta = \\frac{4}{\\sin^2 2\\theta}$ [cite: 400] \nSince $\\sin^2 2\\theta \\le 1$, $\\sec^2 \\theta \\csc^2 \\theta \\ge 4$ [cite: 400] \nLet $\\lambda = \\text{sum} = \\text{product}$, then equation is $x^2 - \\lambda x + \\lambda = 0$ with $\\lambda \\ge 4$ [cite: 401] \nFor $\\lambda = 4$, we get $x^2 - 4x + 4 = 0$. [cite: 397]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 8,
+    "chapter": "Trigonometry",
+    "question": "From the identity sin 3x = 3 sin x - 4 sin^3 x it follows that if x is real and |x| < 1, then",
+    "question_latex": "From the identity $\\sin 3x = 3 \\sin x - 4 \\sin^{3} x$ it follows that if $x$ is real and $|x| < 1$, then",
+    "question_images": [],
+    "options": [
+      "A. (3x - 4x^3) > 1",
+      "B. (3x - 4x^3) ≤ 1",
+      "C. (3x - 4x^3) < 1",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "The expression $3x - 4x^3$ represents $\\sin(3 \\arcsin x)$ only if we substitute $x = \\sin \\theta$. For general real $|x| < 1$, the function $f(x) = 3x - 4x^3$ has a maximum value of 1 at $x = 1/2$. Thus $|3x - 4x^3| \\le 1$ for $|x| \\le 1$. However, given the options and typical constraints, (D) is provided as the answer in the source. [cite: 404, 405]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 9,
+    "chapter": "Trigonometry",
+    "question": "If cos(θ + φ) = m cos(θ - φ), then tan θ is equal to",
+    "question_latex": "If $\\cos(\\theta + \\phi) = m \\cos(\\theta - \\phi)$, then $\\tan \\theta$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. [(1+m)/(1-m)] tan φ",
+      "B. [(1-m)/(1+m)] tan φ",
+      "C. [(1-m)/(1+m)] cot φ",
+      "D. [(1+m)/(1-m)] sec φ"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Given $\\cos \\theta \\cos \\phi - \\sin \\theta \\sin \\phi = m(\\cos \\theta \\cos \\phi + \\sin \\theta \\sin \\phi)$ [cite: 410, 411] \n$\\Rightarrow \\cos \\theta \\cos \\phi (1 - m) = \\sin \\theta \\sin \\phi (1 + m)$ [cite: 412] \n$\\Rightarrow \\tan \\theta = [\\frac{1-m}{1+m}] \\frac{\\cos \\phi}{\\sin \\phi} = [\\frac{1-m}{1+m}] \\cot \\phi$. [cite: 413]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 10,
+    "chapter": "Trigonometry",
+    "question": "The most general solutions of the equation sec x - 1 = (√2 - 1) tan x are given by",
+    "question_latex": "The most general solutions of the equation $\\sec x - 1 = (\\sqrt{2} - 1) \\tan x$ are given by",
+    "question_images": [],
+    "options": [
+      "A. nπ + π/8",
+      "B. 2nπ, 2nπ + π/4",
+      "C. 2nπ",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\frac{1 - \\cos x}{\\cos x} = (\\sqrt{2} - 1) \\frac{\\sin x}{\\cos x} \\Rightarrow 1 - \\cos x = (\\sqrt{2} - 1) \\sin x$ [cite: 417, 418] \n$2 \\sin^2 \\frac{x}{2} = (\\sqrt{2} - 1) 2 \\sin \\frac{x}{2} \\cos \\frac{x}{2}$ [cite: 419] \n$\\sin \\frac{x}{2} [\\sin \\frac{x}{2} - (\\sqrt{2} - 1) \\cos \\frac{x}{2}] = 0$ [cite: 419] \n$\\sin \\frac{x}{2} = 0 \\Rightarrow x = 2n\\pi$ [cite: 419] \nOR $\\tan \\frac{x}{2} = \\sqrt{2} - 1 = \\tan \\frac{\\pi}{8} \\Rightarrow x = 2n\\pi + \\frac{\\pi}{4}$. [cite: 419]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Trigonometry",
+    "question": "If A + C = 2B, then (cos C - cos A) / (sin A - sin C) =",
+    "question_latex": "If $A + C = 2B$, then $\\frac{\\cos C - \\cos A}{\\sin A - \\sin C} =$",
+    "question_images": [],
+    "options": [
+      "A. cot B",
+      "B. cot 2B",
+      "C. tan 2B",
+      "D. tan B"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$\\frac{\\cos C - \\cos A}{\\sin A - \\sin C} = \\frac{2 \\sin(\\frac{A+C}{2}) \\sin(\\frac{A-C}{2})}{2 \\cos(\\frac{A+C}{2}) \\sin(\\frac{A-C}{2})} = \\tan(\\frac{A+C}{2})$ [cite: 420] \nSince $A + C = 2B$, $\\frac{A+C}{2} = B$. \nResult $= \\tan B$. [cite: 421, 422]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Trigonometry",
+    "question": "Let ABC be a triangle such that ∠A = 45°, ∠B = 75° then a + c√2 is equal to",
+    "question_latex": "Let $ABC$ be a triangle such that $\\angle A = 45^{\\circ}$, $\\angle B = 75^{\\circ}$ then $a + c\\sqrt{2}$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. 0",
+      "B. b",
+      "C. 2b",
+      "D. -b"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$\\angle C = 180^{\\circ} - (45^{\\circ} + 75^{\\circ}) = 60^{\\circ}$ [cite: 428] \nUsing Sine Rule: $a = k \\sin 45^{\\circ}, c = k \\sin 60^{\\circ}$ [cite: 430] \n$a + c\\sqrt{2} = k(\\frac{1}{\\sqrt{2}} + \\sqrt{2} \\cdot \\frac{\\sqrt{3}}{2}) = k(\\frac{1 + \\sqrt{3}}{\\sqrt{2}})$ [cite: 432] \n$b = k \\sin 75^{\\circ} = k \\sin(45+30)^{\\circ} = k(\\frac{\\sqrt{3}+1}{2\\sqrt{2}})$ [cite: 435] \n$2b = k(\\frac{\\sqrt{3}+1}{\\sqrt{2}})$. Thus $a + c\\sqrt{2} = 2b$. [cite: 436, 437]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Trigonometry",
+    "question": "The value of cos(π/15) cos(2π/15) cos(3π/15) cos(4π/15) cos(5π/15) cos(6π/15) cos(7π/15) is",
+    "question_latex": "The value of $\\cos\\frac{\\pi}{15} \\cos\\frac{2\\pi}{15} \\cos\\frac{3\\pi}{15} \\cos\\frac{4\\pi}{15} \\cos\\frac{5\\pi}{15} \\cos\\frac{6\\pi}{15} \\cos\\frac{7\\pi}{15}$ is",
+    "question_images": [],
+    "options": [
+      "A. 1/128",
+      "B. 1/64",
+      "C. 1/16",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "The expression can be grouped as: \n$\\{ -\\cos\\frac{\\pi}{15} \\cos\\frac{2\\pi}{15} \\cos\\frac{4\\pi}{15} \\cos\\frac{8\\pi}{15} \\} \\cdot \\{ \\cos\\frac{3\\pi}{15} \\cos\\frac{6\\pi}{15} \\} \\cdot \\cos\\frac{5\\pi}{15}$ [cite: 442] \n$= -\\frac{\\sin(16\\pi/15)}{2^4 \\sin(\\pi/15)} \\times \\frac{\\sin(12\\pi/15)}{2^2 \\sin(3\\pi/15)} \\times \\frac{1}{2}$ [cite: 443] \n$= \\frac{1}{16} \\times \\frac{1}{4} \\times \\frac{1}{2} = \\frac{1}{128}$. [cite: 443]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Trigonometry",
+    "question": "The general solution of the equation (√3 - 1) sin θ + (√3 + 1) cos θ = 2 is",
+    "question_latex": "The general solution of the equation $(\\sqrt{3} - 1) \\sin \\theta + (\\sqrt{3} + 1) \\cos \\theta = 2$ is",
+    "question_images": [],
+    "options": [
+      "A. 2nπ ± π/4 + π/12",
+      "B. nπ + (-1)^n π/4 + π/12",
+      "C. 2nπ ± π/4 - π/12",
+      "D. nπ + (-1)^n π/4 - π/12"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Let $\\sqrt{3}+1 = r \\cos \\alpha$ and $\\sqrt{3}-1 = r \\sin \\alpha$ [cite: 445] \n$r = \\sqrt{(\\sqrt{3}+1)^2 + (\\sqrt{3}-1)^2} = 2\\sqrt{2}$ [cite: 446, 447] \n$\\tan \\alpha = \\frac{\\sqrt{3}-1}{\\sqrt{3}+1} = \\tan(45-30) = \\tan(\\pi/12) \\Rightarrow \\alpha = \\pi/12$ [cite: 448, 449] \nEquation becomes $2\\sqrt{2} \\cos(\\theta - \\pi/12) = 2 \\Rightarrow \\cos(\\theta - \\pi/12) = 1/\\sqrt{2} = \\cos(\\pi/4)$ [cite: 450, 451] \n$\\theta - \\pi/12 = 2n\\pi \\pm \\pi/4 \\Rightarrow \\theta = 2n\\pi \\pm \\pi/4 + \\pi/12$. [cite: 451]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Trigonometry",
+    "question": "If θ = 2 sin x / (1 + sin x + cos x) then (1 + sin x - cos x) / (1 + sin x) is",
+    "question_latex": "If $\\theta = \\frac{2 \\sin x}{1 + \\sin x + \\cos x}$ then $\\frac{1 + \\sin x - \\cos x}{1 + \\sin x}$ is",
+    "question_images": [],
+    "options": [
+      "A. 0",
+      "B. θ/2",
+      "C. θ",
+      "D. -θ/2"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$\\theta = \\frac{4 \\sin(x/2) \\cos(x/2)}{2 \\cos^2(x/2) + 2 \\sin(x/2) \\cos(x/2)} = \\frac{2 \\sin(x/2)}{\\cos(x/2) + \\sin(x/2)}$ [cite: 456, 457] \nMultiplying numerator and denominator by $(\\sin(x/2) + \\cos(x/2))$: \n$\\theta = \\frac{2 \\sin(x/2)(\\sin(x/2) + \\cos(x/2))}{(\\cos(x/2) + \\sin(x/2))^2} = \\frac{2 \\sin^2(x/2) + 2 \\sin(x/2) \\cos(x/2)}{1 + 2 \\sin(x/2) \\cos(x/2)} = \\frac{1 - \\cos x + \\sin x}{1 + \\sin x}$. [cite: 457]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Trigonometry",
+    "question": "The value of sin^-1(12/13) - sin^-1(3/5) is equal to",
+    "question_latex": "The value of $\\sin^{-1}(\\frac{12}{13}) - \\sin^{-1}(\\frac{3}{5})$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. sin^-1(33/65)",
+      "B. π - cos^-1(33/65)",
+      "C. π - sin^-1(33/65)",
+      "D. -cos^-1(33/65)"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Using $\\sin^{-1} x - \\sin^{-1} y = \\sin^{-1}(x\\sqrt{1-y^2} - y\\sqrt{1-x^2})$: [cite: 461] \n$= \\sin^{-1}(\\frac{12}{13} \\cdot \\frac{4}{5} - \\frac{3}{5} \\cdot \\frac{5}{13}) = \\sin^{-1}(\\frac{48 - 15}{65}) = \\sin^{-1}(\\frac{33}{65})$. [cite: 461]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Trigonometry",
+    "question": "If cos(θ - α) = a, cos(θ - β) = b, then sin^2(α - β) + 2ab cos(α - β) is equal to",
+    "question_latex": "If $\\cos(\\theta - \\alpha) = a, \\cos(\\theta - \\beta) = b$, then $\\sin^{2}(\\alpha - \\beta) + 2ab \\cos(\\alpha - \\beta)$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. a^2 + b^2",
+      "B. a^2 - b^2",
+      "C. b^2 - a^2",
+      "D. -a^2 - b^2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\alpha - \\beta = (\\theta - \\beta) - (\\theta - \\alpha)$ [cite: 473] \n$\\cos(\\alpha - \\beta) = \\cos(\\theta - \\beta)\\cos(\\theta - \\alpha) + \\sin(\\theta - \\beta)\\sin(\\theta - \\alpha) = ab + \\sqrt{1-a^2}\\sqrt{1-b^2}$ [cite: 474] \n$\\sin^2(\\alpha - \\beta) = 1 - \\cos^2(\\alpha - \\beta) = 1 - (ab + \\sqrt{1-a^2}\\sqrt{1-b^2})^2$ \nExpanding and simplifying: $\\sin^2(\\alpha - \\beta) = a^2 + b^2 - 2a^2b^2 - 2ab[\\cos(\\alpha - \\beta) - ab]$ [cite: 476, 477] \n$\\Rightarrow \\sin^2(\\alpha - \\beta) = a^2 + b^2 - 2ab \\cos(\\alpha - \\beta)$ [cite: 478] \n$\\Rightarrow \\sin^2(\\alpha - \\beta) + 2ab \\cos(\\alpha - \\beta) = a^2 + b^2$. [cite: 479]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Trigonometry",
+    "question": "If α + β + γ = 2π, then",
+    "question_latex": "If $\\alpha + \\beta + \\gamma = 2\\pi$, then",
+    "question_images": [],
+    "options": [
+      "A. tan(α/2) + tan(β/2) + tan(γ/2) = tan(α/2) tan(β/2) tan(γ/2)",
+      "B. tan(α/2) + tan(β/2) + tan(β/2) tan(γ/2) + tan(γ/2) tan(α/2) = 1",
+      "C. tan(α/2) + tan(β/2) + tan(γ/2) = -tan(α/2) tan(β/2) tan(γ/2)",
+      "D. tan(α/2) + tan(β/2) + tan(β/2) tan(γ/2) + tan(γ/2) tan(α/2) = 0"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\alpha + \\beta + \\gamma = 2\\pi \\Rightarrow \\frac{\\alpha}{2} + \\frac{\\beta}{2} + \\frac{\\gamma}{2} = \\pi$ [cite: 483, 484] \n$\\tan(\\frac{\\alpha}{2} + \\frac{\\beta}{2} + \\frac{\\gamma}{2}) = \\tan \\pi = 0$ [cite: 485] \n$\\Rightarrow \\frac{\\sum \\tan(\\alpha/2) - \\prod \\tan(\\alpha/2)}{1 - \\sum \\tan(\\alpha/2)\\tan(\\beta/2)} = 0$ [cite: 485] \n$\\Rightarrow \\tan\\frac{\\alpha}{2} + \\tan\\frac{\\beta}{2} + \\tan\\frac{\\gamma}{2} = \\tan\\frac{\\alpha}{2} \\tan\\frac{\\beta}{2} \\tan\\frac{\\gamma}{2}$. [cite: 486]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Trigonometry",
+    "question": "The value of sin 10° + sin 20° + sin 30° + ... + sin 360° is",
+    "question_latex": "The value of $\\sin 10^{\\circ} + \\sin 20^{\\circ} + \\sin 30^{\\circ} + \\dots + \\sin 360^{\\circ}$ is",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 0",
+      "C. -1",
+      "D. 1/2"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "We know $\\sin(180^{\\circ} + \\theta) = -\\sin \\theta$ [cite: 491] \n$\\sin 190^{\\circ} = -\\sin 10^{\\circ}, \\sin 200^{\\circ} = -\\sin 20^{\\circ}$, and so on. [cite: 492] \n$\\sin 180^{\\circ} = 0$ and $\\sin 360^{\\circ} = 0$. [cite: 493] \nAll terms cancel in pairs: $(\\sin 10^{\\circ} + \\sin 190^{\\circ}) + \\dots + \\sin 180^{\\circ} + \\sin 360^{\\circ} = 0$. [cite: 494]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Trigonometry",
+    "question": "cos 1° + cos 2° + cos 3° + ... + cos 180° =",
+    "question_latex": "$\\cos 1^{\\circ} + \\cos 2^{\\circ} + \\cos 3^{\\circ} + \\dots + \\cos 180^{\\circ} =$",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 0",
+      "C. 2",
+      "D. -1"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "We have $\\sum_{\\theta=1}^{89} (\\cos \\theta + \\cos(180^{\\circ}-\\theta)) + \\cos 90^{\\circ} + \\cos 180^{\\circ}$ [cite: 500] \nSince $\\cos(180^{\\circ}-\\theta) = -\\cos \\theta$, the sum from 1 to 179 except 90 is 0. [cite: 500] \nValue $= 0 + \\cos 90^{\\circ} + \\cos 180^{\\circ} = 0 + 0 - 1 = -1$. [cite: 500]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Trigonometry",
+    "question": "The equation sin x + sin y + sin z = -3 for 0 ≤ x ≤ 2π, 0 ≤ y ≤ 2π, 0 ≤ z ≤ 2π has",
+    "question_latex": "The equation $\\sin x + \\sin y + \\sin z = -3$ for $0 \\le x \\le 2\\pi, 0 \\le y \\le 2\\pi, 0 \\le z \\le 2\\pi$ has",
+    "question_images": [],
+    "options": [
+      "A. One solution",
+      "B. Two sets of solution",
+      "C. Four sets of solution",
+      "D. No solution"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "The minimum value of $\\sin \\theta$ is -1. [cite: 502] \nFor the sum to be -3, we must have $\\sin x = -1, \\sin y = -1, \\sin z = -1$. [cite: 502] \nIn the interval $[0, 2\\pi]$, this only happens at $x = y = z = 3\\pi/2$. [cite: 503, 504] \nThis is a single set of solutions. [cite: 504]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Trigonometry",
+    "question": "The general solution of sin x - 3 sin 2x + sin 3x = cos x - 3 cos 2x + cos 3x is",
+    "question_latex": "The general solution of $\\sin x - 3 \\sin 2x + \\sin 3x = \\cos x - 3 \\cos 2x + \\cos 3x$ is",
+    "question_images": [],
+    "options": [
+      "A. nπ + π/8",
+      "B. nπ/2 + π/8",
+      "C. (-1)^n nπ/2 + π/8",
+      "D. 2nπ + cos^-1(3/2)"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$(\\sin 3x + \\sin x) - 3 \\sin 2x = (\\cos 3x + \\cos x) - 3 \\cos 2x$ [cite: 509] \n$2 \\sin 2x \\cos x - 3 \\sin 2x = 2 \\cos 2x \\cos x - 3 \\cos 2x$ [cite: 510] \n$\\sin 2x(2 \\cos x - 3) - \\cos 2x(2 \\cos x - 3) = 0$ [cite: 510] \nSince $2 \\cos x - 3 \\ne 0$, $\\sin 2x = \\cos 2x \\Rightarrow \\tan 2x = 1$. [cite: 511, 512, 513] \n$2x = n\\pi + \\pi/4 \\Rightarrow x = \\frac{n\\pi}{2} + \\frac{\\pi}{8}$. [cite: 515]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Trigonometry",
+    "question": "All the pairs (x, y) that satisfy the inequality 2^{sqrt(sin^2 x - 2 sin x + 5)} ⋅ 4^{-sin^2 y} ≤ 1 also satisfy the equation",
+    "question_latex": "All the pairs $(x, y)$ that satisfy the inequality $2^{\\sqrt{\\sin^{2}x - 2 \\sin x + 5}} \\cdot 4^{-\\sin^{2} y} \\le 1$ also satisfy the equation",
+    "question_images": [],
+    "options": [
+      "A. sin x = 2 sin y",
+      "B. sin x = |sin y|",
+      "C. 2 sin x = sin y",
+      "D. 2|sin x| = 3|sin y|"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$2^{\\sqrt{(\\sin x - 1)^2 + 4}} \\le 2^{2 \\sin^2 y}$ [cite: 522] \n$\\sqrt{(\\sin x - 1)^2 + 4} \\le 2 \\sin^2 y$ [cite: 523] \nMin value of LHS is 2 (at $\\sin x = 1$). Max value of RHS is 2 (at $|\\sin y| = 1$). [cite: 523] \nEquality holds only when $\\sin x = 1$ and $|\\sin y| = 1$. [cite: 523] \nThis implies $\\sin x = |\\sin y|$. [cite: 521, 523]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Trigonometry",
+    "question": "If in a triangle ABC, (a^2 - b^2) / (a^2 + b^2) = sin(A - B) / sin(A + B), then the triangle is",
+    "question_latex": "If in a triangle $ABC$, $\\frac{a^{2}-b^{2}}{a^{2}+b^{2}} = \\frac{\\sin(A-B)}{\\sin(A+B)}$, then the triangle is",
+    "question_images": [],
+    "options": [
+      "A. Right angled or isosceles",
+      "B. Right angled and isosceles",
+      "C. Equilateral",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Using $a = k \\sin A, b = k \\sin B$: [cite: 531] \n$\\frac{\\sin^2 A - \\sin^2 B}{\\sin^2 A + \\sin^2 B} = \\frac{\\sin(A-B) \\sin(A+B)}{\\sin^2(A+B)}$ [cite: 533] \n$\\Rightarrow (\\sin^2 A - \\sin^2 B) [\\frac{1}{\\sin^2 A + \\sin^2 B} - \\frac{1}{\\sin^2 C}] = 0$ [cite: 534] \nEither $\\sin^2 A = \\sin^2 B \\Rightarrow A = B$ (isosceles) [cite: 534] \nOr $\\sin^2 A + \\sin^2 B = \\sin^2 C \\Rightarrow a^2 + b^2 = c^2$ (right angled). [cite: 534, 535]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Trigonometry",
+    "question": "If A + B + C = 3π/2, then cos 2A + cos 2B + cos 2C =",
+    "question_latex": "If $A + B + C = \\frac{3\\pi}{2}$, then $\\cos 2A + \\cos 2B + \\cos 2C =$",
+    "question_images": [],
+    "options": [
+      "A. 1 - 4 cos A cos B cos C",
+      "B. 4 sin A sin B sin C",
+      "C. 1 + 2 cos A cos B cos C",
+      "D. 1 - 4 sin A sin B sin C"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$\\cos 2A + \\cos 2B + \\cos 2C = 2 \\cos(A+B) \\cos(A-B) + \\cos 2C$ [cite: 539] \n$= 2 \\cos(\\frac{3\\pi}{2}-C) \\cos(A-B) + 1 - 2 \\sin^2 C$ [cite: 540] \n$= -2 \\sin C \\cos(A-B) + 1 - 2 \\sin^2 C = 1 - 2 \\sin C [\\cos(A-B) + \\sin C]$ [cite: 540, 541] \n$= 1 - 2 \\sin C [\\cos(A-B) + \\sin(\\frac{3\\pi}{2}-(A+B))]$ [cite: 542] \n$= 1 - 2 \\sin C [\\cos(A-B) - \\cos(A+B)] = 1 - 4 \\sin A \\sin B \\sin C$. [cite: 543, 544]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Trigonometry",
+    "question": "The most general solution of √3 cos θ + sin θ = √2 is",
+    "question_latex": "The most general solution of $\\sqrt{3}\\cos\\theta + \\sin\\theta = \\sqrt{2}$ is",
+    "question_images": [],
+    "options": [
+      "A. θ = nπ ± π/4 + π/6",
+      "B. θ = nπ ± π/4 - π/6",
+      "C. θ = 2nπ ± π/4 + π/6",
+      "D. θ = 2nπ ± π/4 - π/6"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Dividing by 2 on both sides: \n$\\frac{\\sqrt{3}}{2}\\cos\\theta + \\frac{1}{2}\\sin\\theta = \\frac{\\sqrt{2}}{2}$ \n$\\Rightarrow \\cos(\\theta - \\frac{\\pi}{6}) = \\frac{1}{\\sqrt{2}} = \\cos\\frac{\\pi}{4}$ \n$\\Rightarrow \\theta - \\frac{\\pi}{6} = 2n\\pi \\pm \\frac{\\pi}{4}$ \n$\\Rightarrow \\theta = 2n\\pi \\pm \\frac{\\pi}{4} + \\frac{\\pi}{6}$ \nNote: Re-evaluating the simplified form in the PDF[cite: 550, 551]: \n$\\cos(\\theta + \\frac{\\pi}{6})$ was used in the snippet resulting in $\\theta = 2n\\pi \\pm \\frac{\\pi}{4} - \\frac{\\pi}{6}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Trigonometry",
+    "question": "The general solution of the equation 7 cos^2 θ + 3 sin^2 θ = 4 is:",
+    "question_latex": "The general solution of the equation $7 \\cos^{2}\\theta + 3 \\sin^{2}\\theta = 4$ is:",
+    "question_images": [],
+    "options": [
+      "A. θ = 2nπ ± π/3",
+      "B. θ = nπ ± 2π/3",
+      "C. θ = nπ ± π/3",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$7 \\cos^{2}\\theta + 3(1 - \\cos^{2}\\theta) = 4$ [cite: 556] \n$\\Rightarrow 4 \\cos^{2}\\theta = 1 \\Rightarrow \\cos\\theta = \\pm 1/2$ [cite: 556] \nIf $\\cos\\theta = 1/2, \\theta = 2n\\pi \\pm \\pi/3$[cite: 559].",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Trigonometry",
+    "question": "In a Δ ABC if a = 5, b = 4 and tan(C/2) = √7/3 then c =",
+    "question_latex": "In a $\\Delta ABC$ if $a = 5, b = 4$ and $\\tan\\frac{C}{2} = \\frac{\\sqrt{7}}{3}$ then $c =$",
+    "question_images": [],
+    "options": [
+      "A. √6",
+      "B. √5",
+      "C. 6",
+      "D. 5"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$\\cos C = \\frac{1-\\tan^{2}(C/2)}{1+\\tan^{2}(C/2)} = \\frac{1-7/9}{1+7/9} = 1/8$ [cite: 569] \n$c^2 = a^2 + b^2 - 2ab\\cos C = 25 + 16 - 40(1/8) = 36$ [cite: 571] \n$\\Rightarrow c = 6$[cite: 572].",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Trigonometry",
+    "question": "The sides of a triangle are in A.P. and its area is 3/5 times the area of an equilateral triangle of the same perimeter. Then, the ratio of the sides is",
+    "question_latex": "The sides of a triangle are in A.P. and its area is $3/5$ times the area of an equilateral triangle of the same perimeter. Then, the ratio of the sides is",
+    "question_images": [],
+    "options": [
+      "A. 1:2:3",
+      "B. 3:5:7",
+      "C. 1:3:5",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Let sides be $a, b, c$ in A.P. $\\Rightarrow 2b = a+c$. Perimeter $P = 3b$[cite: 577]. \nArea $\\Delta = \\frac{3}{5} \\cdot \\frac{\\sqrt{3}}{4} (b)^2 = \\frac{3\\sqrt{3}}{20}b^2$[cite: 578, 579]. \nUsing Heron's formula and solving $(7b-5c)(3b-5c)=0$, we get ratio $3:5:7$[cite: 586, 590].",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Trigonometry",
+    "question": "The value of tan θ tan(θ + 60°) + tan θ tan(θ - 60°) + tan(θ + 60°) tan(θ - 60°) + 3 is:",
+    "question_latex": "The value of $\\tan\\theta \\tan(\\theta + 60^{\\circ}) + \\tan\\theta \\tan(\\theta - 60^{\\circ}) + \\tan(\\theta + 60^{\\circ}) \\tan(\\theta - 60^{\\circ}) + 3$ is:",
+    "question_images": [],
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. -1",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Using the identity $\\tan A \\tan B + \\tan B \\tan C + \\tan C \\tan A = 1$ when $A+B+C = 90^{\\circ}$ is not directly applicable here. The expansion shows terms cancel out to leave the result as 0 after processing the constant +3[cite: 604].",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Trigonometry",
+    "question": "The number of values of x in the interval [0, 3π] satisfying the equation 2 sin^2 x + 5 sin x - 3 = 0 is",
+    "question_latex": "The number of values of $x$ in the interval $[0, 3\\pi]$ satisfying the equation $2 \\sin^{2} x + 5 \\sin x - 3 = 0$ is",
+    "question_images": [
+      "q31_1"
+    ],
+    "options": [
+      "A. 6",
+      "B. 1",
+      "C. 2",
+      "D. 4"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$(2 \\sin x - 1)(\\sin x + 3) = 0 \\Rightarrow \\sin x = 1/2$[cite: 608]. \nIn $[0, 3\\pi]$, $\\sin x = 1/2$ at $x = \\pi/6, 5\\pi/6, 13\\pi/6, 17\\pi/6$. There are 4 solutions[cite: 614].",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Trigonometry",
+    "question": "If cosec θ = x + 1/(4x), then the value of cosec θ + cot θ is:",
+    "question_latex": "If $\\csc\\theta = x + \\frac{1}{4x}$, then the value of $\\csc\\theta + \\cot\\theta$ is:",
+    "question_images": [],
+    "options": [
+      "A. 2x",
+      "B. -2x",
+      "C. 1/(2x)",
+      "D. -1/(2x)"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Let $\\csc\\theta + \\cot\\theta = k$. Then $\\csc\\theta - \\cot\\theta = 1/k$[cite: 619, 620]. \nAdding gives $2\\csc\\theta = k + 1/k$. Given $2\\csc\\theta = 2x + 1/(2x)$. \nComparing, $k = 2x$[cite: 622].",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Trigonometry",
+    "question": "If 10 sin^4 θ + 15 cos^4 θ = 6, then the value of 27 cosec^6 θ + 8 sec^6 θ is:",
+    "question_latex": "If $10 \\sin^{4}\\theta + 15 \\cos^{4}\\theta = 6$, then the value of $27 \\csc^{6}\\theta + 8 \\sec^{6}\\theta$ is:",
+    "question_images": [],
+    "options": [
+      "A. 3/5",
+      "B. 1/5",
+      "C. 250",
+      "D. 3/4"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$10 \\sin^{4}\\theta + 15(1-\\sin^{2}\\theta)^2 = 6 \\Rightarrow (5\\sin^{2}\\theta - 3)^2 = 0 \\Rightarrow \\sin^{2}\\theta = 3/5, \\cos^{2}\\theta = 2/5$[cite: 628, 629]. \n$27(5/3)^3 + 8(5/2)^3 = 27(125/27) + 8(125/8) = 125 + 125 = 250$[cite: 632].",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Trigonometry",
+    "question": "If cos(A - B) = 3/5 and tan A tan B = 2, then",
+    "question_latex": "If $\\cos(A - B) = 3/5$ and $\\tan A \\tan B = 2$, then",
+    "question_images": [],
+    "options": [
+      "A. cos A cos B = 1/5",
+      "B. sin A sin B = -2/5",
+      "C. cos(A + B) = -1/5",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\frac{\\sin A \\sin B}{\\cos A \\cos B} = 2 \\Rightarrow \\sin A \\sin B = 2 \\cos A \\cos B$. \n$\\cos(A-B) = \\cos A \\cos B + \\sin A \\sin B = 3\\cos A \\cos B = 3/5 \\Rightarrow \\cos A \\cos B = 1/5$[cite: 644].",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Trigonometry",
+    "question": "If tan(θ/2) = √[(1-e)/(1+e)] tan(φ/2), then cos φ =",
+    "question_latex": "If $\\tan\\frac{\\theta}{2} = \\sqrt{\\frac{1-e}{1+e}} \\tan\\frac{\\phi}{2}$, then $\\cos\\phi =$",
+    "question_images": [],
+    "options": [
+      "A. (cos θ + e) / (1 - e cos θ)",
+      "B. (cos θ - e) / (1 + e cos θ)",
+      "C. (cos θ - e) / (1 - e cos θ)",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Using $\\cos\\phi = \\frac{1-\\tan^{2}(\\phi/2)}{1+\\tan^{2}(\\phi/2)}$ and substituting $\\tan(\\phi/2) = \\sqrt{\\frac{1+e}{1-e}}\\tan(\\theta/2)$[cite: 663]. \nSimplification leads to $\\cos\\phi = \\frac{\\cos\\theta - e}{1 - e \\cos\\theta}$[cite: 665].",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Trigonometry",
+    "question": "{x ∈ R : cos 2x + 2 cos^2 x = 2} is equal to",
+    "question_latex": "$\\{x \\in R : \\cos 2x + 2 \\cos^{2} x = 2\\}$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. {2nπ + π/3 : n ∈ Z}",
+      "B. {nπ ± π/6 : n ∈ Z}",
+      "C. {nπ + π/3 : n ∈ Z}",
+      "D. {2nπ - π/3 : n ∈ Z}"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\cos 2x + (1 + \\cos 2x) = 2 \\Rightarrow 2 \\cos 2x = 1 \\Rightarrow \\cos 2x = 1/2 = \\cos(\\pi/3)$[cite: 671]. \n$2x = 2n\\pi \\pm \\pi/3 \\Rightarrow x = n\\pi \\pm \\pi/6$[cite: 671].",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Trigonometry",
+    "question": "If 3 cos x ≠ 2 sin x, then the general solution of sin^2 x - cos 2x = 2 - sin 2x is",
+    "question_latex": "If $3 \\cos x \\ne 2 \\sin x$, then the general solution of $\\sin^{2} x - \\cos 2x = 2 - \\sin 2x$ is",
+    "question_images": [],
+    "options": [
+      "A. nπ + (-1)^n π/2",
+      "B. nπ, n ∈ Z",
+      "C. (4n + 1)π/2, n ∈ Z",
+      "D. (2n - 1)π, n ∈ Z"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$\\sin^{2} x - (1 - 2 \\sin^{2} x) = 2 - 2 \\sin x \\cos x \\Rightarrow 3 \\sin^{2} x + 2 \\sin x \\cos x - 3 = 0$. \nAlternatively, as per PDF[cite: 678]: $-3\\cos^2 x + 2\\sin x \\cos x = 0 \\Rightarrow \\cos x(2\\sin x - 3\\cos x) = 0$. \nSince $2\\sin x - 3\\cos x \\ne 0$, $\\cos x = 0 \\Rightarrow x = (4n \\pm 1)\\pi/2$[cite: 682].",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If y = cos^2 x + sec^2 x, then",
+    "question_latex": "If $y = \\cos^2 x + \\sec^2 x$, then",
+    "question_images": [],
+    "options": [
+      "A. $y \\le 2$",
+      "B. $y \\le 1$",
+      "C. $y \\ge 2$",
+      "D. $1 < y < 2$"
+    ],
+    "option_images": [],
+    "answer": "C. $y \\ge 2$",
+    "solution": "We have\n\\[y = \\cos^2 x + \\sec^2 x = (\\cos x - \\sec x)^2 + 2 \\ge 2.\\]\nHence, $y \\ge 2$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If y + cos θ = sin θ has a real solution, then",
+    "question_latex": "If $y + \\cos\\theta = \\sin\\theta$ has a real solution, then",
+    "question_images": [],
+    "options": [
+      "A. $-\\sqrt{2} \\le y \\le \\sqrt{2}$",
+      "B. $y > \\sqrt{2}$",
+      "C. $y \\le -\\sqrt{2}$",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A. $-\\sqrt{2} \\le y \\le \\sqrt{2}$",
+    "solution": "We have $y = \\sin\\theta - \\cos\\theta$. Since $\\sin\\theta - \\cos\\theta$ lies between $-\\sqrt{2}$ and $\\sqrt{2}$, hence $-\\sqrt{2} \\le y \\le \\sqrt{2}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If the median of ΔABC through A is perpendicular to AB, then",
+    "question_latex": "If the median of $\\triangle ABC$ through $A$ is perpendicular to $AB$, then",
+    "question_images": ["q40_1"],
+    "options": [
+      "A. $\\tan A + \\tan B = 0$",
+      "B. $2\\tan A + \\tan B = 0$",
+      "C. $\\tan A + 2\\tan B = 0$",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C. $\\tan A + 2\\tan B = 0$",
+    "solution": "Let $BD = DC$ and $\\angle DAB = 90^\\circ$. Draw $CN \\perp BA$. Then $DA = \\frac{1}{2}CN$ and $AB = AN$.\nLet $\\angle CAN = \\alpha$. Then $\\tan A = -\\tan\\alpha$.\nAlso, $\\tan B = \\frac{CN}{AB} = 2\\tan\\alpha$.\nHence, $\\tan A + 2\\tan B = 0$.",
+    "solution_images": ["q40_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If cos θ = 1/2 (x + 1/x), then 1/2 (x^2 + 1/x^2) is equal to",
+    "question_latex": "If $\\cos\\theta = \\frac{1}{2}\\left(x + \\frac{1}{x}\\right)$, then $\\frac{1}{2}\\left(x^2 + \\frac{1}{x^2}\\right)$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. $\\sin 2\\theta$",
+      "B. $\\cos 2\\theta$",
+      "C. $\\tan 2\\theta$",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "B. $\\cos 2\\theta$",
+    "solution": "From $x + \\frac{1}{x} = 2\\cos\\theta$.\nWe know $x^2 + \\frac{1}{x^2} = (x + \\frac{1}{x})^2 - 2 = 4\\cos^2\\theta - 2 = 2\\cos 2\\theta$.\nHence $\\frac{1}{2}(x^2 + \\frac{1}{x^2}) = \\cos 2\\theta$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "In ΔABC, if sin 2A = sin 2B + sin 2C, then",
+    "question_latex": "In $\\triangle ABC$, if $\\sin 2A = \\sin 2B + \\sin 2C$, then",
+    "question_images": [],
+    "options": [
+      "A. $A = 90^\\circ$ or $B = 90^\\circ$",
+      "B. $A = 90^\\circ$ or $C = 90^\\circ$",
+      "C. $B = 90^\\circ$ or $C = 90^\\circ$",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C. $B = 90^\\circ$ or $C = 90^\\circ$",
+    "solution": "Using identities and $A+B+C=180^\\circ$, we get $2\\cos B \\cos C = 0$. Hence either $\\cos B = 0$ or $\\cos C = 0$. Therefore, $B=90^\\circ$ or $C=90^\\circ$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "The value of cos^2(π/4 + θ) − sin^2(π/4 − θ) is",
+    "question_latex": "The value of $\\cos^2\\left(\\frac{\\pi}{4}+\\theta\\right) - \\sin^2\\left(\\frac{\\pi}{4}-\\theta\\right)$ is",
+    "question_images": [],
+    "options": [
+      "A. 0",
+      "B. $\\cos 2\\theta$",
+      "C. $\\sin 2\\theta$",
+      "D. $\\cos \\theta$"
+    ],
+    "option_images": [],
+    "answer": "A. 0",
+    "solution": "Using identities,\n\\[\\cos^2 A - \\sin^2 B = \\cos(A+B)\\cos(A-B).\\]\nHere it becomes $\\cos(\\frac{\\pi}{2})\\cos(2\\theta)=0$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "The sides of a triangle are 13, 14, 15 then the radius of its in-circle is",
+    "question_latex": "The sides of a triangle are $13,14,15$. The radius of its incircle is",
+    "question_images": [],
+    "options": [
+      "A. $\\frac{67}{8}$",
+      "B. $\\frac{65}{4}$",
+      "C. $4$",
+      "D. $24$"
+    ],
+    "option_images": [],
+    "answer": "C. $4$",
+    "solution": "Semi-perimeter $s=21$. Area $=84$. Hence $r=\\frac{\\Delta}{s}=\\frac{84}{21}=4$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If tan(θ/2) = 5/2 and tan(φ/2) = 3/4, the value of cos(θ + φ) is",
+    "question_latex": "If $\\tan\\frac{\\theta}{2}=\\frac{5}{2}$ and $\\tan\\frac{\\phi}{2}=\\frac{3}{4}$, then $\\cos(\\theta+\\phi)$ is",
+    "question_images": [],
+    "options": [
+      "A. $-\\frac{364}{725}$",
+      "B. $-\\frac{627}{339}$",
+      "C. $-\\frac{240}{339}$",
+      "D. $-\\frac{339}{725}$"
+    ],
+    "option_images": [],
+    "answer": "C. $-\\frac{240}{339}$",
+    "solution": "Using $\\cos(\\theta+\\phi)=\\frac{1-\\tan^2\\frac{\\theta+\\phi}{2}}{1+\\tan^2\\frac{\\theta+\\phi}{2}}$ and tangent addition, we get $\\cos(\\theta+\\phi)=-\\frac{240}{339}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "The value of cos(2π/7) + cos(4π/7) + cos(6π/7) is",
+    "question_latex": "The value of $\\cos\\frac{2\\pi}{7}+\\cos\\frac{4\\pi}{7}+\\cos\\frac{6\\pi}{7}$ is",
+    "question_images": [],
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. 1/2",
+      "D. -1/2"
+    ],
+    "option_images": [],
+    "answer": "D. -1/2",
+    "solution": "Using trigonometric sum identities, the given sum evaluates to $-\\frac{1}{2}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "The value of (sin 85° − sin 35°) / cos 65° is",
+    "question_latex": "The value of $\\frac{\\sin85^\\circ-\\sin35^\\circ}{\\cos65^\\circ}$ is",
+    "question_images": [],
+    "options": [
+      "A. 2",
+      "B. -1",
+      "C. 1",
+      "D. 0"
+    ],
+    "option_images": [],
+    "answer": "C. 1",
+    "solution": "Using sum-to-product identities and standard angle values, the expression simplifies to $1$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If A + B + C = π, then sin 2A + sin 2B + sin 2C is equal to",
+    "question_latex": "If $A+B+C=\\pi$, then $\\sin2A+\\sin2B+\\sin2C$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. $4\\sin A \\sin B \\sin C$",
+      "B. $4\\cos A \\cos B \\cos C$",
+      "C. $2\\cos A \\cos B \\cos C$",
+      "D. $2\\sin A \\sin B \\sin C$"
+    ],
+    "option_images": [],
+    "answer": "A. $4\\sin A \\sin B \\sin C$",
+    "solution": "Using trigonometric identities and $A+B+C=\\pi$, we get $\\sin2A+\\sin2B+\\sin2C=4\\sin A\\sin B\\sin C$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "ABC is a triangle such that sin(2A+B) = sin(C−A) = −sin(B+2C) = 1/2. If A, B, C are in A.P., then",
+    "question_latex": "In $\\triangle ABC$, $\\sin(2A+B)=\\sin(C-A)=-\\sin(B+2C)=\\frac12$. If $A,B,C$ are in A.P., then",
+    "question_images": [],
+    "options": [
+      "A. $45^\\circ,60^\\circ,75^\\circ$",
+      "B. $30^\\circ,60^\\circ,90^\\circ$",
+      "C. $20^\\circ,60^\\circ,100^\\circ$",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A. $45^\\circ,60^\\circ,75^\\circ$",
+    "solution": "Using A.P. condition and trigonometric equations, we obtain $A=45^\\circ$, $B=60^\\circ$, $C=75^\\circ$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If tan(cot x) = cot(tan x), then",
+    "question_latex": "If $\\tan(\\cot x)=\\cot(\\tan x)$, then",
+    "question_images": [],
+    "options": [
+      "A. $\\sin2x=\\frac{2}{(2n+1)\\pi}$",
+      "B. $\\sin x=\\frac{4}{(2n+1)\\pi}$",
+      "C. $\\sin2x=\\frac{4}{(2n+1)\\pi}$",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C. $\\sin2x=\\frac{4}{(2n+1)\\pi}$",
+    "solution": "Using $\\tan(\\cot x)=\\tan(\\frac{\\pi}{2}-\\tan x)$ and simplifying, we get $\\sin2x=\\frac{4}{(2n+1)\\pi}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Trigonometry",
+    "question": "Solution of the equation cos²(1/2 px) + cos²(1/2 qx) = 1 form an arithmetic progression with common difference",
+    "question_latex": "Solution of the equation $\\cos^{2}(\\frac{1}{2}px)+\\cos^{2}(\\frac{1}{2}qx)=1$ form an arithmetic progression with common difference",
+    "question_images": [],
+    "options": [
+      "A. $\\frac{2}{p+q}$",
+      "B. $\\frac{2}{p-q}$",
+      "C. $\\frac{\\pi}{p+q}$",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "We have, $\\cos^{2}(\\frac{1}{2}px) + \\cos^{2}(\\frac{1}{2}qx) = 1$ \\n $\\Rightarrow 1 + \\cos px + 1 + \\cos qx = 2$ \\n $\\Rightarrow \\cos px + \\cos qx = 0$ \\n $\\Rightarrow \\cos px = \\cos(\\pi - qx)$ \\n $\\Rightarrow px = 2n\\pi \\pm (\\pi - qx), n \\in Z$ \\n $\\Rightarrow x = \\frac{(2n+1)\\pi}{p+q}, \\frac{(2n-1)\\pi}{p-q}, n \\in Z$ \\n Clearly, the values given by $x = \\frac{(2n+1)\\pi}{p+q}$ form an A.P. with common difference $\\frac{2\\pi}{p+q}$ and values given by $x = \\frac{(2n-1)\\pi}{p-q}$ form an A.P. with common difference $\\frac{2\\pi}{p-q}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Trigonometry",
+    "question": "The value of cosec²(π/7) + cosec²(2π/7) + cosec²(3π/7) is:",
+    "question_latex": "The value of $\\text{cosec}^{2}\\frac{\\pi}{7}+\\text{cosec}^{2}\\frac{2\\pi}{7}+\\text{cosec}^{2}\\frac{3\\pi}{7}$ is:",
+    "question_images": [],
+    "options": [
+      "A. $2^1$",
+      "B. $2$",
+      "C. $2^2$",
+      "D. $2^3$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "We have, $\\text{cosec}^{2}\\theta = \\frac{2}{1-\\cos 2\\theta}$. Let $a=\\cos\\frac{2\\pi}{7}, b=\\cos\\frac{4\\pi}{7}, c=\\cos\\frac{6\\pi}{7}$. \\n The expression becomes $\\frac{2}{1-a} + \\frac{2}{1-b} + \\frac{2}{1-c} = 2\\{\\frac{3-2(a+b+c)+ab+bc+ca}{1-(a+b+c)+(ab+bc+ca)-abc}\\}$. \\n Using known results: $a+b+c = -1/2$, $ab+bc+ca = -1/2$, and $abc = 1/8$. \\n Substituting these: $\\frac{2\\{3-2(-1/2)-1/2\\}}{1-(-1/2)+(-1/2)-1/8} = \\frac{2(3.5)}{7/8} = 8 = 2^3$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Trigonometry",
+    "question": "The number of distinct values of satisfying 0 ≤ θ ≤ π and satisfying the equation sin θ + sin 5θ = sin 3θ, is:",
+    "question_latex": "The number of distinct values of satisfying $0\\le\\theta\\le\\pi$ and satisfying the equation $\\sin\\theta+\\sin 5\\theta=\\sin 3\\theta$, is:",
+    "question_images": [],
+    "options": [
+      "A. 6",
+      "B. 7",
+      "C. 8",
+      "D. 9"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "We have, $\\sin\\theta + \\sin 5\\theta = \\sin 3\\theta$ \\n $\\Rightarrow 2 \\sin 3\\theta \\cos 2\\theta = \\sin 3\\theta$ \\n $\\Rightarrow \\sin 3\\theta(2\\cos 2\\theta - 1) = 0$ \\n $\\Rightarrow \\sin 3\\theta = 0$ or $\\cos 2\\theta = 1/2$. \\n For $\\sin 3\\theta = 0$: $3\\theta = 0, \\pi, 2\\pi, 3\\pi \\Rightarrow \\theta = 0, \\pi/3, 2\\pi/3, \\pi$. \\n For $\\cos 2\\theta = 1/2$: $2\\theta = \\pi/3, 5\\pi/3 \\Rightarrow \\theta = \\pi/6, 5\\pi/6$. \\n Total distinct values in $[0, \\pi]$ are $0, \\pi/6, \\pi/3, 2\\pi/3, 5\\pi/6, \\pi$ (6 values).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Trigonometry",
+    "question": "Which of the following is correct?",
+    "question_latex": "Which of the following is correct?",
+    "question_images": [],
+    "options": [
+      "A. $\\sin 1^{\\circ} > \\sin 1$",
+      "B. $\\sin 1^{\\circ} < \\sin 1$",
+      "C. $\\sin 1^{\\circ} = \\sin 1$",
+      "D. $\\sin 1^{\\circ} = \\frac{\\pi}{180} \\sin 1$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Since $1$ radian is approximately $57^{\\circ}30'$, and in the first quadrant, the sine function is increasing, $\\sin 57^{\\circ}30' > \\sin 1^{\\circ}$. Thus, $\\sin 1 > \\sin 1^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Trigonometry",
+    "question": "The maximum value of 1 + 8 sin²x² cos²x² is",
+    "question_latex": "The maximum value of $1+8 \\sin^{2}x^{2}\\cos^{2}x^{2}$, is",
+    "question_images": [],
+    "options": [
+      "A. 3",
+      "B. -1",
+      "C. -8",
+      "D. 9"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "We have, $1+8 \\sin^{2}x^{2}\\cos^{2}x^{2} = 1 + 2(2 \\sin x^2 \\cos x^2)^2 = 1 + 2 \\sin^2(2x^2)$. \\n Since $0 \\le \\sin^2(2x^2) \\le 1$, the maximum value is $1 + 2(1) = 3$. Alternatively, $1 + (1 - \\cos 4x^2) = 2 - \\cos 4x^2$. Max value occurs when $\\cos 4x^2 = -1$, which gives $2 - (-1) = 3$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Trigonometry",
+    "question": "The value of the expression 1 - sin²y/(1 + cos y) + (1 + cos y)/sin y - sin y/(1 - cos y) is equal to",
+    "question_latex": "The value of the expression $1-\\frac{\\sin^{2}y}{1+\\cos y}+\\frac{1+\\cos y}{\\sin y}-\\frac{\\sin y}{1-\\cos y}$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. $\\sin y$",
+      "D. $\\cos y$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "First part: $1 - \\frac{1-\\cos^2 y}{1+\\cos y} = 1 - (1-\\cos y) = \\cos y$. \\n Second part: $\\frac{1+\\cos y}{\\sin y} - \\frac{\\sin y}{1-\\cos y} = \\frac{(1+\\cos y)(1-\\cos y) - \\sin^2 y}{\\sin y(1-\\cos y)} = \\frac{1-\\cos^2 y - \\sin^2 y}{\\sin y(1-\\cos y)} = \\frac{\\sin^2 y - \\sin^2 y}{\\dots} = 0$. \\n Total expression = $\\cos y + 0 = \\cos y$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Trigonometry",
+    "question": "If cos θ = 8/17 and θ lies in the first quadrant, then the value of cos(30° + θ) + cos(45° - θ) + cos(120° - θ), is",
+    "question_latex": "If $\\cos\\theta=\\frac{8}{17}$ and $\\theta$ lies in the first quadrant, then the value of $\\cos(30^{\\circ}+\\theta)+\\cos(45^{\\circ}-\\theta)+\\cos(120^{\\circ}-\\theta)$, is",
+    "question_images": [],
+    "options": [
+      "A. $\\frac{23}{17}(\\frac{\\sqrt{3}-1}{2}+\\frac{1}{\\sqrt{2}})$",
+      "B. $\\frac{23}{17}(\\frac{\\sqrt{3}+1}{2}+\\frac{1}{\\sqrt{2}})$",
+      "C. $\\frac{23}{17}(\\frac{\\sqrt{3}-1}{2}-\\frac{1}{\\sqrt{2}})$",
+      "D. $\\frac{23}{17}(\\frac{\\sqrt{3}+1}{2}-\\frac{1}{\\sqrt{2}})$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Given $\\cos\\theta = 8/17 \\Rightarrow \\sin\\theta = 15/17$. \\n Exp = $(\\cos 30^{\\circ}\\cos\\theta - \\sin 30^{\\circ}\\sin\\theta) + (\\cos 45^{\\circ}\\cos\\theta + \\sin 45^{\\circ}\\sin\\theta) + (\\cos 120^{\\circ}\\cos\\theta + \\sin 120^{\\circ}\\sin\\theta)$ \\n $= (\\frac{\\sqrt{3}}{2} + \\frac{1}{\\sqrt{2}} - \\frac{1}{2})\\frac{8}{17} + (-\\frac{1}{2} + \\frac{1}{\\sqrt{2}} + \\frac{\\sqrt{3}}{2})\\frac{15}{17}$ \\n $= \\frac{1}{17} [4\\sqrt{3} + \\frac{8}{\\sqrt{2}} - 4 - \\frac{15}{2} + \\frac{15}{\\sqrt{2}} + \\frac{15\\sqrt{3}}{2}] = \\frac{23}{17}(\\frac{\\sqrt{3}-1}{2} + \\frac{1}{\\sqrt{2}})$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Trigonometry",
+    "question": "The sides of a triangle are 13, 14, 15 then the radius of its in-circle is",
+    "question_latex": "The sides of a triangle are 13, 14, 15 then the radius of its in-circle is",
+    "question_images": [],
+    "options": [
+      "A. 67/8",
+      "B. 65/4",
+      "C. 4",
+      "D. 24"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Semi-perimeter $s = (13+14+15)/2 = 21$. \\n Area $\\Delta = \\sqrt{s(s-a)(s-b)(s-c)} = \\sqrt{21(8)(7)(6)} = \\sqrt{7056} = 84$. \\n In-radius $r = \\Delta/s = 84/21 = 4$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Trigonometry",
+    "question": "The value of tan θ tan(θ + 60°) + tan θ tan(θ - 60°) + tan(θ + 60°) tan(θ - 60°) + 3 is:",
+    "question_latex": "The value of $\\tan\\theta\\tan(\\theta+60^{\\circ})+\\tan\\theta\\tan(\\theta-60^{\\circ})+\\tan(\\theta+60^{\\circ})\\tan(\\theta-60^{\\circ})+3$ is:",
+    "question_images": [],
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. -1",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "The expression simplifies to 0 through trigonometric identity expansion and addition. Detailed calculation shows the numerator reduces to $\\frac{1}{2}(2 \\cos\\theta \\cos 60^{\\circ} - \\cos\\theta) = 0$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Trigonometry",
+    "question": "The number of values of x in the interval [0, 5π] satisfying the equation 3 sin²x - 7 sin x + 2 = 0 is",
+    "question_latex": "The number of values of $x$ in the interval $[0, 5\\pi]$ satisfying the equation $3\\sin^{2}x-7\\sin x+2=0$ is",
+    "question_images": [],
+    "options": [
+      "A. 0",
+      "B. 5",
+      "C. 6",
+      "D. 10"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Factorizing the quadratic: $(3 \\sin x - 1)(\\sin x - 2) = 0$. \\n Since $\\sin x \\ne 2$, $\\sin x = 1/3$. \\n Let $\\alpha = \\sin^{-1}(1/3)$ (in first quadrant). \\n Solutions in $[0, 5\\pi]$ are: $\\alpha, \\pi-\\alpha, 2\\pi+\\alpha, 3\\pi-\\alpha, 4\\pi+\\alpha, 5\\pi-\\alpha$. \\n There are 6 solutions.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Trigonometry",
+    "question": "Solution of the equation tan 3θ + tan θ = 2 tan 2θ; is:",
+    "question_latex": "Solution of the equation $\\tan 3\\theta+\\tan\\theta=2\\tan 2\\theta;$ is:",
+    "question_images": [],
+    "options": [
+      "A. $\\theta = n\\pi/2$",
+      "B. $\\theta = n\\pi/3$",
+      "C. $\\theta = n\\pi$",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$\\tan 3\\theta - \\tan 2\\theta = \\tan 2\\theta - \\tan\\theta \\Rightarrow \\frac{\\sin\\theta}{\\cos 3\\theta \\cos 2\\theta} = \\frac{\\sin\\theta}{\\cos 2\\theta \\cos\\theta}$ \\n $\\Rightarrow \\sin\\theta (\\cos\\theta - \\cos 3\\theta) = 0 \\Rightarrow \\sin\\theta (2 \\sin 2\\theta \\sin\\theta) = 0$. \\n $\\sin\\theta = 0 \\Rightarrow \\theta = n\\pi$. If $\\sin 2\\theta = 0, \\theta = n\\pi/2$. But odd multiples of $\\pi/2$ make $\\tan$ undefined. Thus $\\theta = n\\pi$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Trigonometry",
+    "question": "Let n be a positive integer such that: sin(π/2n) + cos(π/2n) = √n/2, then:",
+    "question_latex": "Let $n$ be a positive integer such that: $\\sin\\frac{\\pi}{2n}+\\cos\\frac{\\pi}{2n}=\\frac{\\sqrt{n}}{2}$, then:",
+    "question_images": [],
+    "options": [
+      "A. $6 \\le n \\le 8$",
+      "B. $4 < n \\le 8$",
+      "C. $4 \\le n < 8$",
+      "D. $4 < n < 8$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Squaring both sides: $1 + \\sin(\\pi/n) = n/4 \\Rightarrow \\sin(\\pi/n) = (n-4)/4$. \\n Since $\\sin(\\pi/n) > 0$ for $n>1$, $n-4 > 0 \\Rightarrow n > 4$. \\n Also, $\\sin(\\pi/2n) + \\cos(\\pi/2n) = \\sqrt{2}\\sin(\\pi/4 + \\pi/2n) = \\sqrt{n}/2$. \\n $\\sin(\\pi/4 + \\pi/2n) = \\sqrt{n}/2\\sqrt{2} < 1 \\Rightarrow n/8 < 1 \\Rightarrow n < 8$. \\n So, $4 < n < 8$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Trigonometry",
+    "question": "If tan²θ = 2 tan²φ + 1, then cos 2θ + sin²φ equals",
+    "question_latex": "If $\\tan^{2}\\theta=2\\tan^{2}\\phi+1$, then $\\cos 2\\theta+\\sin^{2}\\phi$ equals",
+    "question_images": [],
+    "options": [
+      "A. -1",
+      "B. 0",
+      "C. 1",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Note: The solution text in the PDF for Q13 appears to be for a different problem regarding $\\cos(\\pi/8)$. However, solving the given equation: $\\sec^2\\theta - 1 = 2\\tan^2\\phi + 1 \\Rightarrow \\sec^2\\theta = 2\\sec^2\\phi$. $\\cos^2\\phi = 2\\cos^2\\theta$. \\n $\\cos 2\\theta + \\sin^2\\phi = (2\\cos^2\\theta - 1) + (1 - \\cos^2\\phi) = 2\\cos^2\\theta - \\cos^2\\phi = 0$. \\n Based on provided Answer Key: (C) 1.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Trigonometry",
+    "question": "For m ≠ n, if tan mθ = tan nθ the different values of θ are in",
+    "question_latex": "For $m\\ne n,$ if $\\tan m\\theta=\\tan n\\theta$ the different values of $\\theta$ are in",
+    "question_images": [],
+    "options": [
+      "A. A.P.",
+      "B. H.P.",
+      "C. G.P.",
+      "D. No particular sequence"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\tan m\\theta = \\tan n\\theta \\Rightarrow m\\theta = r\\pi + n\\theta \\Rightarrow \\theta = \\frac{r\\pi}{m-n}, r \\in Z$. \\n These values form an Arithmetic Progression with common difference $\\frac{\\pi}{m-n}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Trigonometry",
+    "question": "The equation sin⁴x - 2 cos²x + a² = 0 is solvable for",
+    "question_latex": "The equation $\\sin^{4}x-2\\cos^{2}x+a^{2}=0$ is solvable for",
+    "question_images": [],
+    "options": [
+      "A. $-\\sqrt{3}\\le a\\le\\sqrt{3}$",
+      "B. $-\\sqrt{2}\\le a\\le\\sqrt{2}$",
+      "C. $-1\\le a\\le 1$",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Let $y = \\sin^2 x, 0 \\le y \\le 1$. \\n $y^2 - 2(1-y) + a^2 = 0 \\Rightarrow y^2 + 2y + a^2 - 2 = 0$. \\n $y = \\frac{-2 \\pm \\sqrt{4 - 4(a^2-2)}}{2} = -1 \\pm \\sqrt{3-a^2}$. \\n For $y$ to be in $[0, 1]$: $0 \\le -1 + \\sqrt{3-a^2} \\le 1 \\Rightarrow 1 \\le \\sqrt{3-a^2} \\le 2$. \\n $1 \\le 3 - a^2 \\le 4 \\Rightarrow -2 \\le -a^2 \\le 1 \\Rightarrow a^2 \\le 2$. \\n So, $-\\sqrt{2} \\le a \\le \\sqrt{2}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Trigonometry",
+    "question": "The value of the series cos 12° + cos 84° + cos 132° + cos 156° is",
+    "question_latex": "The value of the series $\\cos 12^{\\circ}+\\cos 84^{\\circ}+\\cos 132^{\\circ}+\\cos 156^{\\circ}$ is",
+    "question_images": [],
+    "options": [
+      "A. 1/2",
+      "B. 1/4",
+      "C. -1/4",
+      "D. -1/2"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$(\\cos 132^{\\circ} + \\cos 12^{\\circ}) + (\\cos 156^{\\circ} + \\cos 84^{\\circ})$ \\n $= 2 \\cos 72^{\\circ} \\cos 60^{\\circ} + 2 \\cos 120^{\\circ} \\cos 36^{\\circ}$ \\n $= 2(\\frac{\\sqrt{5}-1}{4})(\\frac{1}{2}) + 2(-\\frac{1}{2})(\\frac{\\sqrt{5}+1}{4}) = \\frac{\\sqrt{5}-1}{4} - \\frac{\\sqrt{5}+1}{4} = -1/2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Trigonometry",
+    "question": "If cos A / cos B = n and sin A / sin B = m, then (m² - n²) sin² B =",
+    "question_latex": "If $\\frac{\\cos A}{\\cos B}=n$ and $\\frac{\\sin A}{\\sin B}=m$, then $(m^{2}-n^{2})\\sin^{2}B=$",
+    "question_images": [],
+    "options": [
+      "A. $1-n^2$",
+      "B. $1+n^2$",
+      "C. $1-n$",
+      "D. $1+n$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$(m^2 - n^2)\\sin^2 B = (\\frac{\\sin^2 A}{\\sin^2 B} - \\frac{\\cos^2 A}{\\cos^2 B})\\sin^2 B = \\sin^2 A - \\frac{\\cos^2 A \\sin^2 B}{\\cos^2 B}$ \\n $= (1 - \\cos^2 A) - n^2(1 - \\cos^2 B) = 1 - \\cos^2 A - n^2 + n^2 \\cos^2 B$ \\n $= 1 - n^2 \\cos^2 B - n^2 + n^2 \\cos^2 B = 1 - n^2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Trigonometry",
+    "question": "The value of tan⁻¹([cos(25π/4) - 1] / sin(π/4)) is equal to:",
+    "question_latex": "The value of $\\tan^{-1}(\\frac{\\cos(\\frac{25\\pi}{4})-1}{\\sin(\\frac{\\pi}{4})})$ is equal to:",
+    "question_images": [],
+    "options": [
+      "A. -5π/12",
+      "B. -π/8",
+      "C. -4π/9",
+      "D. -π/4"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\cos(25\\pi/4) = \\cos(6\\pi + \\pi/4) = \\cos(\\pi/4) = 1/\\sqrt{2}$. \\n Exp = $\\tan^{-1}(\\frac{1/\\sqrt{2} - 1}{1/\\sqrt{2}}) = \\tan^{-1}(1 - \\sqrt{2})$. \\n Since $\\tan(\\pi/8) = \\sqrt{2}-1$, then $\\tan(-\\pi/8) = 1-\\sqrt{2}$. \\n Result = $-\\pi/8$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Trigonometry",
+    "question": "If sin A = 1/√10 and sin B = 1/√5 where A and B are positive acute angles, then A + B is equal to",
+    "question_latex": "If $\\sin A = \\frac{1}{\\sqrt{10}}$ and $\\sin B=\\frac{1}{\\sqrt{5}}$ where $A$ and $B$ are positive acute angles, then $A+B$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. π",
+      "B. π/2",
+      "C. π/3",
+      "D. π/4"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$\\cos A = \\sqrt{1 - 1/10} = 3/\\sqrt{10}$, $\\cos B = \\sqrt{1 - 1/5} = 2/\\sqrt{5}$. \\n $\\sin(A+B) = \\sin A \\cos B + \\cos A \\sin B = (1/\\sqrt{10})(2/\\sqrt{5}) + (3/\\sqrt{10})(1/\\sqrt{5}) = 5/\\sqrt{50} = 5/(5\\sqrt{2}) = 1/\\sqrt{2}$. \\n $A+B = \\pi/4$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Trigonometry",
+    "question": "The value of cos(π/15) cos(2π/15) cos(4π/15) cos(8π/15) is",
+    "question_latex": "The value of $\\cos\\frac{\\pi}{15}\\cos\\frac{2\\pi}{15}\\cos\\frac{4\\pi}{15}\\cos\\frac{8\\pi}{15}$ is",
+    "question_images": [],
+    "options": [
+      "A. 1/16",
+      "B. -1/16",
+      "C. 1",
+      "D. 0"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Using the formula $\\prod_{k=0}^{n-1} \\cos(2^k \\theta) = \\frac{\\sin(2^n \\theta)}{2^n \\sin \\theta}$. \\n Here $\\theta = \\pi/15, n=4$. \\n Result = $\\frac{\\sin(16\\pi/15)}{16 \\sin(\\pi/15)} = \\frac{\\sin(\\pi + \\pi/15)}{16 \\sin(\\pi/15)} = \\frac{-\\sin(\\pi/15)}{16 \\sin(\\pi/15)} = -1/16$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Trigonometry",
+    "question": "If sin θ + cos θ = x, then sin⁶θ + cos⁶θ = 1/4 [4 - 3(x² - 1)²] for",
+    "question_latex": "If $\\sin\\theta+\\cos\\theta=x,$ then $\\sin^{6}\\theta+\\cos^{6}\\theta=\\frac{1}{4}[4-3(x^{2}-1)^{2}]$ for",
+    "question_images": [],
+    "options": [
+      "A. all real x",
+      "B. x² ≤ 2",
+      "C. x² > 2",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$x^2 = (\\sin\\theta + \\cos\\theta)^2 = 1 + \\sin 2\\theta$. \\n Since $|\\sin 2\\theta| \\le 1$, $1-1 \\le x^2 \\le 1+1 \\Rightarrow 0 \\le x^2 \\le 2$. \\n Thus the relation holds for $x^2 \\le 2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Trigonometry",
+    "question": "The value of 1 + cos 56° + cos 58° - cos 66° is",
+    "question_latex": "The value of $1+\\cos 56^{\\circ}+\\cos 58^{\\circ}-\\cos 66^{\\circ}$ is",
+    "question_images": [],
+    "options": [
+      "A. 4 cos 28° cos 29° sin 33°",
+      "B. cos 28° cos 29° sin 33°",
+      "C. 4 cos 28° sin 29° cos 33°",
+      "D. 4 cos 28° sin 29° sin 33°"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Using identity: $\\cos A + \\cos B - \\cos C = -1 + 4 \\cos(A/2) \\cos(B/2) \\sin(C/2)$. \\n Here $A=56, B=58, C=66$. \\n $1 + (-1 + 4 \\cos 28^{\\circ} \\cos 29^{\\circ} \\sin 33^{\\circ}) = 4 \\cos 28^{\\circ} \\cos 29^{\\circ} \\sin 33^{\\circ}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Trigonometry",
+    "question": "If in a ΔABC, cos A + 2 cos B + cos C = 2 then a, b, c are in",
+    "question_latex": "If in a $\\triangle ABC$ $\\cos A+2\\cos B+\\cos C=2$ then $a, b, c$ are in",
+    "question_images": [],
+    "options": [
+      "A. A.P.",
+      "B. H.P.",
+      "C. G.P.",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\cos A + \\cos C = 2(1 - \\cos B) \\Rightarrow 2 \\cos\\frac{A+C}{2} \\cos\\frac{A-C}{2} = 4 \\sin^2\\frac{B}{2}$. \\n Since $\\cos\\frac{A+C}{2} = \\sin\\frac{B}{2}$, we get $2 \\sin\\frac{B}{2} \\cos\\frac{A-C}{2} = 4 \\sin^2\\frac{B}{2} \\Rightarrow \\cos\\frac{A-C}{2} \\cos\\frac{B}{2} = 2 \\sin\\frac{B}{2} \\cos\\frac{B}{2}$. \\n $\\sin\\frac{A+C}{2} \\cos\\frac{A-C}{2} = \\sin B \\Rightarrow \\sin A + \\sin C = 2 \\sin B$. \\n By Sine Rule, $a + c = 2b$, so $a, b, c$ are in A.P.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Trigonometry",
+    "question": "The value of cos(π/15) cos(2π/15) cos(3π/15) cos(4π/15) cos(5π/15) cos(6π/15) cos(7π/15) is",
+    "question_latex": "The value of $\\cos\\frac{\\pi}{15}\\cos\\frac{2\\pi}{15}\\cos\\frac{3\\pi}{15}\\cos\\frac{4\\pi}{15}\\cos\\frac{5\\pi}{15}\\cos\\frac{6\\pi}{15}\\cos\\frac{7\\pi}{15}$ is",
+    "question_images": [],
+    "options": [
+      "A. 1/128",
+      "B. 1/64",
+      "C. 1/16",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Group terms: $[\\cos(\\pi/15)\\cos(2\\pi/15)\\cos(4\\pi/15)\\cos(8\\pi/15)] \\times [\\cos(3\\pi/15)\\cos(6\\pi/15)] \\times \\cos(5\\pi/15)$. \\n Note: $\\cos(7\\pi/15) = -\\cos(8\\pi/15)$. \\n First part = $1/16$, Second part = $1/4$, Third part = $1/2$. \\n Total = $1/128$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Trigonometry",
+    "question": "If A + B + C = 180° then cot B cot C + cot C cot A + cot A cot B =",
+    "question_latex": "If $A+B+C=180^{\\circ}$ then $\\cot B \\cot C + \\cot C \\cot A + \\cot A \\cot B =$",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. -1",
+      "C. 2",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$A+B = 180 - C \\Rightarrow \\tan(A+B) = -\\tan C \\Rightarrow \\frac{\\tan A + \\tan B}{1 - \\tan A \\tan B} = -\\tan C$. \\n $\\tan A + \\tan B + \\tan C = \\tan A \\tan B \\tan C$. \\n Dividing by $\\tan A \\tan B \\tan C$: $\\frac{1}{\\tan B \\tan C} + \\frac{1}{\\tan A \\tan C} + \\frac{1}{\\tan A \\tan B} = 1$. \\n $\\cot B \\cot C + cot A \\cot C + \\cot A \\cot B = 1$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Trigonometry",
+    "question": "The value of 3[sin⁴(3π/2 - α) + sin⁴(3π + α)] - 2[sin⁶(π/2 + α) + sin⁶(5π - α)] is equal to",
+    "question_latex": "The value of $3[\\sin^{4}(\\frac{3\\pi}{2}-\\alpha)+\\sin^{4}(3\\pi+\\alpha)]-2[\\sin^{6}(\\frac{\\pi}{2}+\\alpha)+\\sin^{6}(5\\pi-\\alpha)]$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. 3",
+      "D. sin 4α + sin 6α"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "We have, $3[\\sin^{4}(\\frac{3\\pi}{2}-\\alpha)+\\sin^{4}(3\\pi+\\alpha)]-2[\\sin^{6}(\\frac{\\pi}{2}+\\alpha)+\\sin^{6}(5\\pi-\\alpha)]$ \\n $= 3[(-\\cos \\alpha)^{4}+(-\\sin \\alpha)^{4}]-2[\\cos^{6}\\alpha+\\sin^{6}\\alpha]$ \\n $= 3[\\cos^{4}\\alpha+\\sin^{4}\\alpha]-2[\\cos^{6}\\alpha+\\sin^{6}\\alpha]$ \\n $= 3[(\\cos^{2}\\alpha+\\sin^{2}\\alpha)^{2}-2\\sin^{2}\\alpha\\cos^{2}\\alpha]-2[(\\cos^{2}\\alpha+\\sin^{2}\\alpha)^{3}-3\\cos^{2}\\alpha\\sin^{2}\\alpha(\\cos^{2}\\alpha+\\sin^{2}\\alpha)]$ \\n $= 3[1-2\\sin^{2}\\alpha\\cos^{2}\\alpha]-2[1-3\\cos^{2}\\alpha\\sin^{2}\\alpha]$ \\n $= 3-6\\sin^{2}\\alpha\\cos^{2}\\alpha-2+6\\sin^{2}\\alpha\\cos^{2}\\alpha = 1$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Trigonometry",
+    "question": "The general solution of the equation tan 2θ . tan θ = 1 for n ∈ Z is",
+    "question_latex": "The general solution of the equation $\\tan 2\\theta \\cdot \\tan \\theta=1$ for $n\\in Z$ is",
+    "question_images": [],
+    "options": [
+      "A. (2n+1)π/4",
+      "B. (2n+1)π/6",
+      "C. (2n+1)π/2",
+      "D. (2n+1)π/3"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Given, $\\tan 2\\theta = \\frac{1}{\\tan \\theta} = \\cot \\theta$ \\n $\\Rightarrow \\tan 2\\theta = \\tan(\\frac{\\pi}{2}-\\theta)$ \\n $\\Rightarrow 2\\theta = n\\pi + \\frac{\\pi}{2} - \\theta$ \\n $\\Rightarrow 3\\theta = n\\pi + \\frac{\\pi}{2} = (2n+1)\\frac{\\pi}{2}$ \\n $\\Rightarrow \\theta = (2n+1)\\frac{\\pi}{6}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Trigonometry",
+    "question": "If sin⁴x + cos⁴y + 2 = 4 sin x cos y and 0 ≤ x, y ≤ π/2 then sin x + cos y is equal to",
+    "question_latex": "If $\\sin^{4}x+\\cos^{4}y+2=4\\sin x\\cos y$ and $0\\le x, y\\le\\frac{\\pi}{2}$ then $\\sin x+\\cos y$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. -2",
+      "B. 0",
+      "C. 2",
+      "D. 3/2"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The equation can be rewritten as: $(\\sin^{2}x-1)^{2}+(\\cos^{2}y-1)^{2}+2\\sin^{2}x+2\\cos^{2}y-4\\sin x\\cos y=0$ \\n $\\Rightarrow (\\sin^{2}x-1)^{2}+(\\cos^{2}y-1)^{2}+2(\\sin x-\\cos y)^{2}=0$. \\n Since the sum of squares is zero, each term must be zero: \\n $\\sin^{2}x=1$, $\\cos^{2}y=1$, and $\\sin x = \\cos y$. \\n For $0 \\le x, y \\le \\pi/2$, $\\sin x = 1$ and $\\cos y = 1$. \\n Thus, $\\sin x + \\cos y = 1 + 1 = 2$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Trigonometry",
+    "question": "The number of solutions of the equation tan x + sec x = 2 cos x lying in the interval [0, 2π] is",
+    "question_latex": "The number of solutions of the equation $\\tan x+\\sec x=2\\cos x$ lying in the interval $[0,2\\pi]$ is",
+    "question_images": [],
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Given, $\\frac{\\sin x + 1}{\\cos x} = 2\\cos x$. \\n On multiplying by $\\cos x \\ne 0$: $\\sin x + 1 = 2\\cos^{2}x = 2(1-\\sin^{2}x)$. \\n $\\Rightarrow \\sin x + 1 = 2(1-\\sin x)(1+\\sin x)$. \\n $\\Rightarrow (\\sin x + 1)(1 - 2 + 2\\sin x) = 0 \\Rightarrow (\\sin x + 1)(2\\sin x - 1) = 0$. \\n $\\sin x = -1$ or $\\sin x = 1/2$. \\n $\\sin x = -1 \\Rightarrow x = 3\\pi/2$, but then $\\cos x = 0$, making $\\tan x$ undefined. \\n $\\sin x = 1/2 \\Rightarrow x = \\pi/6, 5\\pi/6$. \\n Total solutions = 2.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Trigonometry",
+    "question": "The value of cos⁴(π/8) + cos⁴(3π/8) + cos⁴(5π/8) + cos⁴(7π/8) is",
+    "question_latex": "The value of $\\cos^{4}\\frac{\\pi}{8}+\\cos^{4}\\frac{3\\pi}{8}+\\cos^{4}\\frac{5\\pi}{8}+\\cos^{4}\\frac{7\\pi}{8}$ is",
+    "question_images": [],
+    "options": [
+      "A. 0",
+      "B. 1/2",
+      "C. 3/2",
+      "D. 1"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Note: $\\cos(7\\pi/8) = -\\cos(\\pi/8)$ and $\\cos(5\\pi/8) = -\\cos(3\\pi/8)$. \\n Expression $= 2[\\cos^4(\\pi/8) + \\cos^4(3\\pi/8)] = 2[\\cos^4(\\pi/8) + \\sin^4(\\pi/8)]$. \\n $= 2[(\\cos^2(\\pi/8) + \\sin^2(\\pi/8))^2 - 2\\sin^2(\\pi/8)\\cos^2(\\pi/8)]$ \\n $= 2[1 - \\frac{1}{2}\\sin^2(\\pi/4)] = 2[1 - \\frac{1}{2}(1/2)] = 2(3/4) = 3/2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Trigonometry",
+    "question": "If P is the product of the sines of angles of a triangle, and q the product of their cosines, then tangents of the angles are roots of the equation",
+    "question_latex": "If $P$ is the product of the sines of angles of a triangle, and $q$ the product of their cosines, then tangents of the angles are roots of the equation",
+    "question_images": [],
+    "options": [
+      "A. qx³ - px² + (1+q)x - p = 0",
+      "B. px³ - qx² + (1+p)x - q = 0",
+      "C. (1+q)x³ - px² + qx - p = 0",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Let $A, B, C$ be angles. $p = \\sin A\\sin B\\sin C$, $q = \\cos A\\cos B\\cos C$. \\n $\\tan A\\tan B\\tan C = p/q = S_3$. \\n In a triangle, $\\sum \\tan A = \\prod \\tan A$, so $S_1 = p/q$. \\n $S_2 = \\sum \\tan A \\tan B = \\frac{\\sum \\sin A \\sin B \\cos C}{\\cos A \\cos B \\cos C} = \\frac{-\\cos(A+B+C) + \\cos A \\cos B \\cos C}{\\cos A \\cos B \\cos C} = \\frac{1+q}{q}$. \\n Equation: $x^3 - S_1 x^2 + S_2 x - S_3 = 0 \\Rightarrow x^3 - (p/q)x^2 + (\\frac{1+q}{q})x - p/q = 0$ \\n $\\Rightarrow qx^3 - px^2 + (1+q)x - p = 0$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Trigonometry",
+    "question": "If b sin β = a sin(2α + β) then cot(α + β) / cot α =",
+    "question_latex": "If $b\\sin\\beta=a\\sin(2\\alpha+\\beta)$ then $\\frac{\\cot(\\alpha+\\beta)}{\\cot\\alpha}=$",
+    "question_images": [],
+    "options": [
+      "A. (b-a)/(b+a)",
+      "B. (b+a)/(b-a)",
+      "C. (a-b)/(a+b)",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$\\frac{b}{a} = \\frac{\\sin(2\\alpha+\\beta)}{\\sin\\beta}$. By Componendo and Dividendo: \\n $\\frac{b+a}{b-a} = \\frac{\\sin(2\\alpha+\\beta)+\\sin\\beta}{\\sin(2\\alpha+\\beta)-\\sin\\beta} = \\frac{2\\sin(\\alpha+\\beta)\\cos\\alpha}{2\\cos(\\alpha+\\beta)\\sin\\alpha} = \\tan(\\alpha+\\beta)\\cot\\alpha$. \\n Thus, $\\frac{\\cot(\\alpha+\\beta)}{\\cot\\alpha} = \\frac{b-a}{b+a}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Trigonometry",
+    "question": "Solution of the equation tan θ + tan(θ + π/3) + tan(θ + 2π/3) = 3 is:",
+    "question_latex": "Solution of the equation $\\tan\\theta+\\tan(\\theta+\\frac{\\pi}{3})+\\tan(\\theta+\\frac{2\\pi}{3})=3$ is:",
+    "question_images": [],
+    "options": [
+      "A. θ = nπ/3 + π/6",
+      "B. θ = nπ/3 - π/12",
+      "C. θ = nπ/3 + π/12",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "We know $\\tan\\theta + \\tan(\\theta+\\pi/3) + \\tan(\\theta+2\\pi/3) = 3\\tan 3\\theta$. \\n So, $3\\tan 3\\theta = 3 \\Rightarrow \\tan 3\\theta = 1$. \\n $3\\theta = n\\pi + \\pi/4 \\Rightarrow \\theta = \\frac{n\\pi}{3} + \\frac{\\pi}{12}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Trigonometry",
+    "question": "If the angles of a triangle are in the ratio 1:2:3 the corresponding sides are in the ratio",
+    "question_latex": "If the angles of a triangle are in the ratio $1:2:3$ the corresponding sides are in the ratio",
+    "question_images": [],
+    "options": [
+      "A. 2:3:1",
+      "B. √3:2:1",
+      "C. 2:√3:1",
+      "D. 1:√3:2"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Angles are $\\theta, 2\\theta, 3\\theta$. $\\theta + 2\\theta + 3\\theta = 180^{\\circ} \\Rightarrow 6\\theta = 180^{\\circ} \\Rightarrow \\theta = 30^{\\circ}$. \\n Angles: $30^{\\circ}, 60^{\\circ}, 90^{\\circ}$. \\n Ratio of sides $= \\sin 30^{\\circ} : \\sin 60^{\\circ} : \\sin 90^{\\circ} = 1/2 : \\sqrt{3}/2 : 1 = 1 : \\sqrt{3} : 2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "Let f(θ) = sin θ (sin θ + sin 3θ). Then f(θ):",
+    "question_latex": "Let \\ f(\\theta)=\\sin\\theta(\\sin\\theta+\\sin3\\theta). \\text{ Then } f(\\theta):",
+    "question_images": [],
+    "options": [
+      "A. ≥ 0 only when θ ≥ 0",
+      "B. ≤ 0 for all real θ",
+      "C. ≥ 0 for all real θ",
+      "D. ≤ 0 only when θ ≤ 0"
+    ],
+    "option_images": [],
+    "answer": "C. ≥ 0 for all real θ",
+    "solution": "We have,\n$f(\\theta)=\\sin\\theta(\\sin\\theta+\\sin3\\theta)$\n$=\\sin\\theta(2\\sin2\\theta\\cos\\theta)$\n$=2\\sin^2\\theta\\cos\\theta$\n$=\\sin^2 2\\theta \\ge 0$, for all real $\\theta$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "Let α, β be such that π < α − β < 3π. If sin α + sin β = −21/65 and cos α + cos β = −27/65, then the value of cos((α − β)/2) is",
+    "question_latex": "Let \\ \\alpha,\\beta \\text{ be such that } \\pi<\\alpha-\\beta<3\\pi. \\\\\n\\text{If } \\sin\\alpha+\\sin\\beta=-\\frac{21}{65} \\text{ and } \\cos\\alpha+\\cos\\beta=-\\frac{27}{65}, \\\\\n\\text{ then find } \\cos\\frac{\\alpha-\\beta}{2}.",
+    "question_images": [],
+    "options": [
+      "A. −3/√130",
+      "B. 3/√130",
+      "C. 6/65",
+      "D. −6/65"
+    ],
+    "option_images": [],
+    "answer": "A. −3/√130",
+    "solution": "On squaring and adding given equations,\n$(\\sin\\alpha+\\sin\\beta)^2+(\\cos\\alpha+\\cos\\beta)^2=\\left(\\frac{21}{65}\\right)^2+\\left(\\frac{27}{65}\\right)^2$\n$=\\frac{1170}{4225}$\n$\\Rightarrow 2+2\\cos(\\alpha-\\beta)=\\frac{1170}{4225}$\n$\\Rightarrow 4\\cos^2\\frac{\\alpha-\\beta}{2}=\\frac{1170}{4225}$\n$\\Rightarrow \\cos^2\\frac{\\alpha-\\beta}{2}=\\frac{9}{130}$\nSince $\\pi<\\alpha-\\beta<3\\pi$, cosine is negative.\n$\\therefore \\cos\\frac{\\alpha-\\beta}{2}=-\\frac{3}{\\sqrt{130}}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If A₁A₂A₃A₄A₅ be a regular pentagon inscribed in a unit circle, then (A₁A₂)(A₁A₃) is equal to",
+    "question_latex": "If \\ A_1A_2A_3A_4A_5 \\text{ is a regular pentagon inscribed in a unit circle, then } (A_1A_2)(A_1A_3) \\text{ is equal to}",
+    "question_images": ["q37_1"],
+    "options": [
+      "A. 1",
+      "B. 3",
+      "C. 4",
+      "D. √5"
+    ],
+    "option_images": [],
+    "answer": "D. √5",
+    "solution": "Let $O$ be the centre of the pentagon.\nEach central angle $=\\frac{360^\\circ}{5}=72^\\circ$.\n\nIn $\\triangle A_1OA_2$:\n$A_1A_2^2=1^2+1^2-2\\cos72^\\circ$\n\nIn $\\triangle A_1OA_3$:\n$A_1A_3^2=1^2+1^2-2\\cos144^\\circ$\n\n$(A_1A_2)(A_1A_3)=\\sqrt{2-2\\cos72^\\circ}\\sqrt{2-2\\cos144^\\circ}$\n$=2\\sqrt{(1-\\cos72^\\circ)(1-\\cos144^\\circ)}$\n$=\\sqrt{5}$.",
+    "solution_images": ["q37_solution_1"],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If |k| = 5 and 0° ≤ θ ≤ 360°, then the number of different solutions of 3 cos θ + 4 sin θ = k is",
+    "question_latex": "If \\ |k|=5 \\text{ and } 0^\\circ \\le \\theta \\le 360^\\circ, \\text{ then the number of different solutions of } 3\\cos\\theta+4\\sin\\theta=k \\text{ is}",
+    "question_images": [],
+    "options": [
+      "A. Zero",
+      "B. Two",
+      "C. One",
+      "D. Infinite"
+    ],
+    "option_images": [],
+    "answer": "B. Two",
+    "solution": "We have,\n$3\\cos\\theta+4\\sin\\theta=5\\left(\\frac{3}{5}\\cos\\theta+\\frac{4}{5}\\sin\\theta\\right)$\n$=5\\cos(\\theta-\\alpha)$, where $\\cos\\alpha=\\frac{3}{5}, \\sin\\alpha=\\frac{4}{5}$.\n\nGiven $3\\cos\\theta+4\\sin\\theta=k$ and $|k|=5$.\nSo $\\cos(\\theta-\\alpha)=\\pm1$.\n\nThus $\\theta-\\alpha=0^\\circ,180^\\circ$.\nHence there are **two** solutions.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If cos x + cos² x = 1, then the value of sin¹² x + 3 sin¹⁰ x + 3 sin⁸ x + sin⁶ x − 1 is equal to",
+    "question_latex": "If \\ \\cos x+\\cos^2 x=1, \\text{ then find the value of } \\\\\n\\sin^{12}x+3\\sin^{10}x+3\\sin^8x+\\sin^6x-1.",
+    "question_images": [],
+    "options": [
+      "A. 2",
+      "B. 1",
+      "C. −1",
+      "D. 0"
+    ],
+    "option_images": [],
+    "answer": "D. 0",
+    "solution": "Given $\\cos x+\\cos^2 x=1$.\n$\\Rightarrow \\cos x=\\sin^2 x$.\n\nNow,\n$\\sin^{12}x+3\\sin^{10}x+3\\sin^8x+\\sin^6x-1$\n$=(\\sin^2 x)^3\\left[(\\sin^2 x)^3+3(\\sin^2 x)^2+3(\\sin^2 x)+1\\right]-1$\n$=(\\sin^2 x+1)^3-1$\n$=(\\cos x+\\cos^2 x)^3-1=1-1=0$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If sec α and cosec α are the roots of the equation x² − ax + b = 0, then",
+    "question_latex": "If \\ \\sec\\alpha \\text{ and } \\cosec\\alpha \\text{ are the roots of the equation } x^2-ax+b=0, \\text{ then}",
+    "question_images": [],
+    "options": [
+      "A. a² = b(b − 2)",
+      "B. a² = b(b + 2)",
+      "C. a² + b² = 2b",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "B. a² = b(b + 2)",
+    "solution": "Since $\\sec\\alpha$ and $\\cosec\\alpha$ are roots,\n\n$\\sec\\alpha+\\cosec\\alpha=a$ and $\\sec\\alpha\\cosec\\alpha=b$.\n\n$\\Rightarrow \\sin\\alpha+\\cos\\alpha=\\frac{a}{b}$ and $\\sin\\alpha\\cos\\alpha=\\frac{1}{b}$.\n\nNow,\n$(\\sin\\alpha+\\cos\\alpha)^2=1+2\\sin\\alpha\\cos\\alpha$\n$\\Rightarrow \\frac{a^2}{b^2}=1+\\frac{2}{b}$\n$\\Rightarrow a^2=b(b+2)$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "In triangles ABC and DEF, AB = DE, AC = EF and ∠A = 2∠E. Two triangles will have the same area if angle A is equal to",
+    "question_latex": "In \\triangle ABC \\text{ and } \\triangle DEF, \\ AB=DE,\\ AC=EF \\text{ and } \\angle A=2\\angle E. \\\\\n\\text{Two triangles will have the same area if } \\angle A \\text{ is equal to}",
+    "question_images": [],
+    "options": [
+      "A. $\\pi/3$",
+      "B. $\\pi/2$",
+      "C. $2\\pi/3$",
+      "D. $5\\pi/6$"
+    ],
+    "option_images": [],
+    "answer": "C. $2\\pi/3$",
+    "solution": "It is given that areas are equal.\n\n$\\frac12 AB\\cdot AC\\sin A=\\frac12 DE\\cdot EF\\sin E$\n\n$\\Rightarrow \\sin A=\\sin E$\n\nGiven $A=2E$.\n\nSo $\\sin 2E=\\sin E$\n$\\Rightarrow 2E=\\pi-E$\n$\\Rightarrow E=\\pi/3$\n$\\Rightarrow A=2E=2\\pi/3$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If α is an acute angle and sin(α/2) = √((x − 1)/(2x)), then tan α is",
+    "question_latex": "If \\ \\alpha \\text{ is an acute angle and } \\sin\\frac{\\alpha}{2}=\\sqrt{\\frac{x-1}{2x}}, \\text{ then } \\tan\\alpha \\text{ is}",
+    "question_images": [],
+    "options": [
+      "A. $\\sqrt{\\frac{x-1}{x+1}}$",
+      "B. $\\frac{\\sqrt{x-1}}{x+1}$",
+      "C. $\\sqrt{x^2-1}$",
+      "D. $\\sqrt{x^2+1}$"
+    ],
+    "option_images": [],
+    "answer": "C. $\\sqrt{x^2-1}$",
+    "solution": "We have,\n\n$\\tan\\alpha=\\frac{\\sin\\alpha}{\\cos\\alpha}=\\frac{2\\sin(\\alpha/2)\\cos(\\alpha/2)}{1-2\\sin^2(\\alpha/2)}$\n\nSubstituting $\\sin(\\alpha/2)=\\sqrt{\\frac{x-1}{2x}}$,\n\n$\\tan\\alpha=\\frac{2\\sqrt{\\frac{x-1}{2x}}\\sqrt{1-\\frac{x-1}{2x}}}{1-2\\cdot\\frac{x-1}{2x}}$\n\n$=\\sqrt{x^2-1}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If AD, BE and CF are the medians of a ΔABC, then (AD² + BE² + CF²) : (BC² + CA² + AB²) is equal to",
+    "question_latex": "If \\ AD, BE \\text{ and } CF \\text{ are the medians of } \\triangle ABC, \\\\\n\\text{ then } (AD^2+BE^2+CF^2):(BC^2+CA^2+AB^2) \\text{ is}",
+    "question_images": [],
+    "options": [
+      "A. $4:3$",
+      "B. $3:2$",
+      "C. $3:4$",
+      "D. $2:3$"
+    ],
+    "option_images": [],
+    "answer": "C. $3:4$",
+    "solution": "We have,\n\n$AD^2+BE^2+CF^2=\\frac14(2b^2+2c^2-a^2+2c^2+2a^2-b^2+2a^2+2b^2-c^2)$\n\n$=\\frac34(a^2+b^2+c^2)$\n\n$=\\frac34(BC^2+CA^2+AB^2)$.\n\nHence the required ratio is $3:4$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If x + y + z = xyz, then \\( \\frac{2x}{1-x^2} + \\frac{2y}{1-y^2} + \\frac{2z}{1-z^2} = \\frac{kxyz}{(1-x^2)(1-y^2)(1-z^2)} \\), where k =",
+    "question_latex": "If \\ x+y+z=xyz, \\text{ then } \\frac{2x}{1-x^2}+\\frac{2y}{1-y^2}+\\frac{2z}{1-z^2}=\\frac{kxyz}{(1-x^2)(1-y^2)(1-z^2)}, \\text{ where } k=",
+    "question_images": [],
+    "options": [
+      "A. 2",
+      "B. 4",
+      "C. 8",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C. 8",
+    "solution": "Putting $x=\\tan A, y=\\tan B, z=\\tan C$.\n\nGiven $x+y+z=xyz$ gives $A+B+C=\\pi$.\n\nUsing tangent identities:\n$\\tan(2A+2B)=\\tan(2\\pi-2C)$.\n\nHence,\n$\\frac{2x}{1-x^2}+\\frac{2y}{1-y^2}+\\frac{2z}{1-z^2}=\\frac{2xyz}{(1-x^2)(1-y^2)(1-z^2)}\\times 4$.\n\nTherefore $k=8$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "In a ΔABC if a = 2, b = √6, c = √3 + 1, then cos A =",
+    "question_latex": "In \\triangle ABC, \\text{ if } a=2,\\ b=\\sqrt6,\\ c=\\sqrt3+1, \\text{ then } \\cos A=",
+    "question_images": [],
+    "options": [
+      "A. $30^\\circ$",
+      "B. $45^\\circ$",
+      "C. $60^\\circ$",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "B. $45^\\circ$",
+    "solution": "Using cosine rule:\n\n$\\cos A=\\frac{b^2+c^2-a^2}{2bc}$.\n\nSubstituting values:\n$\\cos A=\\frac{6+(\\sqrt3+1)^2-4}{2\\sqrt6(\\sqrt3+1)}=\\frac{1}{\\sqrt2}$.\n\nHence $A=45^\\circ$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "In a ΔABC if a = 26, b = 30 and cos C = 63/65, then r₂ =",
+    "question_latex": "In \\triangle ABC, \\text{ if } a=26,\\ b=30 \\text{ and } \\cos C=\\frac{63}{65}, \\text{ then } r_2=",
+    "question_images": [],
+    "options": [
+      "A. 84",
+      "B. 45",
+      "C. 48",
+      "D. 24"
+    ],
+    "option_images": [],
+    "answer": "C. 48",
+    "solution": "Using cosine rule:\n\n$\\cos C=\\frac{a^2+b^2-c^2}{2ab}$.\n\n$\\frac{63}{65}=\\frac{26^2+30^2-c^2}{2\\cdot26\\cdot30}$.\n\nSolving gives $c=8$.\n\nSemiperimeter $s=\\frac{26+30+8}{2}=32$.\n\nArea $\\Delta=\\sqrt{s(s-a)(s-b)(s-c)}=96$.\n\n$\\therefore r_2=\\frac{\\Delta}{s-b}=\\frac{96}{32-30}=48$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If sin θ + cosec θ = 2, then sin² θ + cosec² θ is equal to",
+    "question_latex": "If \\ \\sin\\theta+\\cosec\\theta=2, \\text{ then } \\sin^2\\theta+\\cosec^2\\theta \\text{ is equal to}",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 4",
+      "C. 2",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C. 2",
+    "solution": "We have,\n$\\sin\\theta+\\cosec\\theta=2$\n$\\Rightarrow (\\sin\\theta+\\cosec\\theta)^2=4$\n$\\Rightarrow \\sin^2\\theta+\\cosec^2\\theta+2=4$\n$\\Rightarrow \\sin^2\\theta+\\cosec^2\\theta=2$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "The common roots of the equations 2 sin² x + sin² 2x = 2 and sin 2x + cos 2x = tan x are",
+    "question_latex": "The common roots of the equations \\\\\n2\\sin^2 x+\\sin^2 2x=2 \\text{ and } \\sin2x+\\cos2x=\\tan x \\text{ are}",
+    "question_images": [],
+    "options": [
+      "A. $(2n-1)\\frac{\\pi}{2}$",
+      "B. $(2n+1)\\frac{\\pi}{2}$",
+      "C. $(2n+1)\\frac{\\pi}{4}$",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C. $(2n+1)\\frac{\\pi}{4}$",
+    "solution": "First equation:\n$2\\sin^2 x+\\sin^2 2x=2$\n$\\Rightarrow \\sin^2 2x=2-2\\sin^2 x=2\\cos^2 x$\n$\\Rightarrow 4\\sin^2 x\\cos^2 x=2\\cos^2 x$\n$\\Rightarrow \\cos^2 x(2\\sin^2 x-1)=0$\n$\\Rightarrow \\cos2x=0$ ...(1)\n\nSecond equation:\n$\\sin2x+\\cos2x=\\tan x$\n$\\Rightarrow 2\\sin x\\cos x-\\tan x+\\cos2x=0$\n$\\Rightarrow \\cos2x(\\tan x+1)=0$ ...(2)\n\nFrom (1) and (2):\n$\\cos2x=0 \\Rightarrow 2x=\\frac{\\pi}{2}+n\\pi$\n$\\Rightarrow x=(2n+1)\\frac{\\pi}{4}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If sin B = (1/5) sin(2A + B), then tan(A + B)/tan A is equal to",
+    "question_latex": "If \\ \\sin B=\\frac{1}{5}\\sin(2A+B), \\text{ then } \\frac{\\tan(A+B)}{\\tan A} \\text{ is equal to}",
+    "question_images": [],
+    "options": [
+      "A. $5/3$",
+      "B. $2/3$",
+      "C. $3/2$",
+      "D. $3/5$"
+    ],
+    "option_images": [],
+    "answer": "C. $3/2$",
+    "solution": "Given:\n$\\sin B=\\frac{1}{5}\\sin(2A+B)$\n$\\Rightarrow \\frac{\\sin(2A+B)}{\\sin B}=5$\n\nUsing identity:\n$\\frac{\\sin(2A+B)+\\sin B}{\\sin(2A+B)-\\sin B}=\\frac{5+1}{5-1}=\\frac{3}{2}$\n\n$\\Rightarrow \\frac{2\\sin(A+B)\\cos A}{2\\sin A\\cos(A+B)}=\\frac{3}{2}$\n$\\Rightarrow \\frac{\\tan(A+B)}{\\tan A}=\\frac{3}{2}$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Motion of System of Particles and Rigid Body",
+    "question": "If cos θ = 8/17 and θ lies in the first quadrant, then the value of cos(30° + θ) + cos(45° − θ) + cos(120° − θ) is",
+    "question_latex": "If \\ \\cos\\theta=\\frac{8}{17} \\text{ and } \\theta \\text{ lies in the first quadrant, find } \\\\\n\\cos(30^\\circ+\\theta)+\\cos(45^\\circ-\\theta)+\\cos(120^\\circ-\\theta).",
+    "question_images": [],
+    "options": [
+      "A. $\\frac{23}{17}\\left(\\frac{\\sqrt3-1}{2}+\\frac{1}{\\sqrt2}\\right)$",
+      "B. $\\frac{23}{17}\\left(\\frac{\\sqrt3+1}{2}+\\frac{1}{\\sqrt2}\\right)$",
+      "C. $\\frac{23}{17}\\left(\\frac{\\sqrt3-1}{2}-\\frac{1}{\\sqrt2}\\right)$",
+      "D. $\\frac{23}{17}\\left(\\frac{\\sqrt3+1}{2}-\\frac{1}{\\sqrt2}\\right)$"
+    ],
+    "option_images": [],
+    "answer": "A. $\\frac{23}{17}\\left(\\frac{\\sqrt3-1}{2}+\\frac{1}{\\sqrt2}\\right)$",
+    "solution": "Given $\\cos\\theta=\\frac{8}{17}$ and $\\theta$ in first quadrant,\n$\\sin\\theta=\\sqrt{1-\\cos^2\\theta}=\\frac{15}{17}$.\n\nNow,\n$\\cos(30^\\circ+\\theta)=\\cos30^\\circ\\cos\\theta-\\sin30^\\circ\\sin\\theta$\n$\\cos(45^\\circ-\\theta)=\\cos45^\\circ\\cos\\theta+\\sin45^\\circ\\sin\\theta$\n$\\cos(120^\\circ-\\theta)=\\cos120^\\circ\\cos\\theta+\\sin120^\\circ\\sin\\theta$\n\nAdding and substituting values,\n$=\\frac{23}{17}\\left(\\frac{\\sqrt3-1}{2}+\\frac{1}{\\sqrt2}\\right)$.",
+    "solution_images": [],
+    "difficulty": "",
+    "marks": 4
+  }
+  ]

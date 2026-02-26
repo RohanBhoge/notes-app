@@ -1,0 +1,2161 @@
+[
+  {
+    "id": 1,
+    "chapter": "Redox Reaction",
+    "question": "Oxidation states of the metal in the minerals haematite and magnetite, respectively, are",
+    "question_latex": "Oxidation states of the metal in the minerals haematite and magnetite, respectively, are",
+    "question_images": [],
+    "options": [
+      "A. II, III in haematite and III in magnetite",
+      "B. II, III in haematite and II in magnetite",
+      "C. II in haematite and II, III in magnetite",
+      "D. III in haematite and II, III in magnetite"
+    ],
+    "option_images": [],
+    "answer": "D. III in haematite and II, III in magnetite",
+    "solution": "Haematite is $Fe_2O_3$ where Fe is in +3 state. Magnetite is $Fe_3O_4$ (mixed oxide $FeO \\cdot Fe_2O_3$), containing Fe in both +2 and +3 states.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation number of phosphorus in Ca3(PO4)2? [MHT-CET 2023]",
+    "question_latex": "What is the oxidation number of phosphorus in $Ca_3(PO_4)_2$? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. -2",
+      "B. +2",
+      "C. +5",
+      "D. -5"
+    ],
+    "option_images": [],
+    "answer": "C. +5",
+    "solution": "$3(+2) + 2(x) + 8(-2) = 0 \\Rightarrow 6 + 2x - 16 = 0 \\Rightarrow 2x = 10 \\Rightarrow x = +5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Redox Reaction",
+    "question": "Which of the following statements is NOT correct for the following reaction? 4Fe + 3O2 -> 4Fe3+ + 6O2- [MHT-CET 2022]",
+    "question_latex": "Which of the following statements is NOT correct for the following reaction? $4Fe + 3O_2 \\rightarrow 4Fe^{3+} + 6O^{2-}$ [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Metallic iron is reduced to Fe3+.",
+      "B. Metallic iron is a reducing agent.",
+      "C. O2 is an oxidizing agent.",
+      "D. It is example of redox reaction."
+    ],
+    "option_images": [],
+    "answer": "A. Metallic iron is reduced to Fe3+.",
+    "solution": "Iron loses electrons ($Fe \\rightarrow Fe^{3+} + 3e^-$), so it is oxidized, not reduced.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Redox Reaction",
+    "question": "Manganese acts as strongest oxidising agent in the oxidation state",
+    "question_latex": "Manganese acts as strongest oxidising agent in the oxidation state",
+    "question_images": [],
+    "options": [
+      "A. +7",
+      "B. +2",
+      "C. +4",
+      "D. +5"
+    ],
+    "option_images": [],
+    "answer": "A. +7",
+    "solution": "In the +7 state (e.g., $KMnO_4$), Manganese has the highest tendency to gain electrons and act as a strong oxidizing agent.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 5,
+    "chapter": "Redox Reaction",
+    "question": "Identify the element reduced in following reaction. Cr2O72- + 14H+ + 6I- -> 2Cr3+ + 3H2O + 3I2 [MHT-CET 2024]",
+    "question_latex": "Identify the element reduced in following reaction. $Cr_2O_7^{2-} + 14H^+ + 6I^- \\rightarrow 2Cr^{3+} + 7H_2O + 3I_2$ [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. I",
+      "B. Cr",
+      "C. H",
+      "D. O"
+    ],
+    "option_images": [],
+    "answer": "B. Cr",
+    "solution": "Chromium changes from +6 in $Cr_2O_7^{2-}$ to +3 in $Cr^{3+}$, which is a decrease in oxidation number (reduction).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 6,
+    "chapter": "Redox Reaction",
+    "question": "Which of the following conversions does not involve either oxidation or reduction? [MHT-CET 2024]",
+    "question_latex": "Which of the following conversions does not involve either oxidation or reduction? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Na -> Na+",
+      "B. CrO42- -> Cr2O72-",
+      "C. VO2+ -> V2O3",
+      "D. Zn2+ -> Zn"
+    ],
+    "option_images": [],
+    "answer": "B. CrO42- -> Cr2O72-",
+    "solution": "In both $CrO_4^{2-}$ and $Cr_2O_7^{2-}$, the oxidation state of Chromium is +6. No change in oxidation number occurs.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 7,
+    "chapter": "Redox Reaction",
+    "question": "What is the change in oxidation number of S in following reaction? H2S + NO3 -> H2O + NO + S [MHT-CET 2024]",
+    "question_latex": "What is the change in oxidation number of $S$ in following reaction? $H_2S + NO_3 \\rightarrow H_2O + NO + S$ [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 0 to -2",
+      "B. 0 to +2",
+      "C. -2 to 0",
+      "D. -2 to +2"
+    ],
+    "option_images": [],
+    "answer": "C. -2 to 0",
+    "solution": "In $H_2S$, S is in -2 state. In elemental S, it is 0. The change is from -2 to 0.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 8,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation number of 'S' bonded with oxygen in S4O62- ion? [MHT-CET 2023]",
+    "question_latex": "What is the oxidation number of 'S' bonded with oxygen in $S_4O_6^{2-}$ ion? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. +10",
+      "B. +4",
+      "C. +5",
+      "D. -4"
+    ],
+    "option_images": [],
+    "answer": "C. +5",
+    "solution": "In tetrathionate ion, the terminal S atoms bonded to oxygen have an oxidation state of +5, while the central S-S atoms have an oxidation state of 0.",
+    "solution_images": [
+      "q347_solution_1"
+    ],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 9,
+    "chapter": "Redox Reaction",
+    "question": "Which is NOT correct regarding stock notation? [2025]",
+    "question_latex": "Which is NOT correct regarding stock notation? [2025]",
+    "question_images": [],
+    "options": [
+      "A. Hg2(I)Cl2 is reduced form of Hg(II)Cl2",
+      "B. Aurous chloride is written as Au(III)Cl3",
+      "C. Hg(II)Cl2 is oxidised form of Hg2(I)Cl2",
+      "D. It helps to identify whether species is present in oxidised form or reduced form"
+    ],
+    "option_images": [],
+    "answer": "B. Aurous chloride is written as Au(III)Cl3",
+    "solution": "Aurous corresponds to +1 oxidation state ($Au(I)Cl$), while Auric corresponds to +3 ($Au(III)Cl_3$).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 10,
+    "chapter": "Redox Reaction",
+    "question": "Which among the following compounds has lowest oxidation state of iron? [MHT-CET 2022]",
+    "question_latex": "Which among the following compounds has lowest oxidation state of iron? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. FeSO4 . (NH4)2SO4 . 6H2O",
+      "B. K4[Fe(CN)6]",
+      "C. Fe2O3",
+      "D. Fe(CO)5"
+    ],
+    "option_images": [],
+    "answer": "D. Fe(CO)5",
+    "solution": "In metal carbonyls like $Fe(CO)_5$, the metal exists in a zero (0) oxidation state.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Redox Reaction",
+    "question": "The coefficients of I-, IO3- and H+ in the redox reaction, I- + IO3- + H+ -> I2 + H2O in the balanced form respectively are",
+    "question_latex": "The coefficients of $I^-$, $IO_3^-$ and $H^+$ in the redox reaction, $I^- + IO_3^- + H^+ \\rightarrow I_2 + H_2O$ in the balanced form respectively are",
+    "question_images": [],
+    "options": [
+      "A. 5, 1, 6",
+      "B. 1, 5, 6",
+      "C. 6, 1, 5",
+      "D. 5, 6, 1"
+    ],
+    "option_images": [],
+    "answer": "A. 5, 1, 6",
+    "solution": "Balanced equation: $5I^- + IO_3^- + 6H^+ \\rightarrow 3I_2 + 3H_2O$. Coefficients are 5, 1, 6.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Redox Reaction",
+    "question": "The oxidation state of chromium in the final product formed by the reaction between KI and acidified potassium dichromate solution is",
+    "question_latex": "The oxidation state of chromium in the final product formed by the reaction between $KI$ and acidified potassium dichromate solution is",
+    "question_images": [],
+    "options": [
+      "A. +3",
+      "B. +2",
+      "C. +6",
+      "D. +4"
+    ],
+    "option_images": [],
+    "answer": "A. +3",
+    "solution": "Acidified dichromate ($Cr^{+6}$) is reduced to $Cr^{3+}$ in redox reactions.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Redox Reaction",
+    "question": "Find correct statement for following reaction. 2Ag+ + Cu -> 2Ag + Cu2+ [MHT-CET 2023]",
+    "question_latex": "Find correct statement for following reaction. $2Ag^+ + Cu \\rightarrow 2Ag + Cu^{2+}$ [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. In this reaction, Cu accepts 1 mole of electrons.",
+      "B. Cu undergoes oxidation.",
+      "C. Ag+ undergoes oxidation.",
+      "D. Both Ag+ and Cu undergo oxidation."
+    ],
+    "option_images": [],
+    "answer": "B. Cu undergoes oxidation.",
+    "solution": "Cu changes from 0 to +2 by losing electrons, which is oxidation.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Redox Reaction",
+    "question": "Reaction of Br2 with Na2CO3 in aqueous solution gives sodium bromide and sodium bromate with evolution of CO2 gas. The number of sodium bromide molecules involved in the balanced chemical equation is",
+    "question_latex": "Reaction of $Br_2$ with $Na_2CO_3$ in aqueous solution gives sodium bromide and sodium bromate with evolution of $CO_2$ gas. The number of sodium bromide molecules involved in the balanced chemical equation is",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 3",
+      "C. 5",
+      "D. 7"
+    ],
+    "option_images": [],
+    "answer": "C. 5",
+    "solution": "Balanced equation: $3Br_2 + 3Na_2CO_3 \\rightarrow 5NaBr + NaBrO_3 + 3CO_2$. There are 5 molecules of $NaBr$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Redox Reaction",
+    "question": "What is the change in oxidation number of Cr in the following redox reaction? 3H2O2(aq) + Cr2O72-(aq) + 8H+(aq) -> 3O2(g) + 2Cr3+(aq) + 7H2O(l) [MHT-CET 2023]",
+    "question_latex": "What is the change in oxidation number of $Cr$ in the following redox reaction? $3H_2O_2(aq) + Cr_2O_7^{2-}(aq) + 8H^+(aq) \\rightarrow 3O_2(g) + 2Cr^{3+}(aq) + 7H_2O(l)$ [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. +2 to +3",
+      "B. +6 to +3",
+      "C. +7 to +3",
+      "D. -2 to +3"
+    ],
+    "option_images": [],
+    "answer": "B. +6 to +3",
+    "solution": "Cr in $Cr_2O_7^{2-}$ is +6 and it changes to +3 in $Cr^{3+}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Redox Reaction",
+    "question": "The oxidation number of 'S' in HSO4- ion is [MHT-CET 2020]",
+    "question_latex": "The oxidation number of 'S' in $HSO_4^-$ ion is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. +1",
+      "B. +6",
+      "C. -1",
+      "D. -6"
+    ],
+    "option_images": [],
+    "answer": "B. +6",
+    "solution": "$(+1) + x + 4(-2) = -1 \\Rightarrow x - 7 = -1 \\Rightarrow x = +6$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Redox Reaction",
+    "question": "State the oxidation number of carbonyl carbon in methanal and methanoic acid respectively",
+    "question_latex": "State the oxidation number of carbonyl carbon in methanal and methanoic acid respectively",
+    "question_images": [],
+    "options": [
+      "A. 0 and 0",
+      "B. 0 and +2",
+      "C. +1 and +2",
+      "D. +1 and +3"
+    ],
+    "option_images": [],
+    "answer": "B. 0 and +2",
+    "solution": "Methanal ($HCHO$): $x + 2(+1) + (-2) = 0 \\Rightarrow x = 0$. Methanoic acid ($HCOOH$): $x + 2(+1) + 2(-2) = 0 \\Rightarrow x = +2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Redox Reaction",
+    "question": "Which conversion is an oxidation?",
+    "question_latex": "Which conversion is an oxidation?",
+    "question_images": [],
+    "options": [
+      "A. SO42- -> SO32-",
+      "B. Cu2+ -> Cu",
+      "C. H+ -> H",
+      "D. H- -> H"
+    ],
+    "option_images": [],
+    "answer": "D. H- -> H",
+    "solution": "Oxidation is the loss of electrons. $H^- \\rightarrow H + e^-$ involves loss of one electron.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Redox Reaction",
+    "question": "In which of the following, the oxidation number of oxygen has been arranged in increasing order?",
+    "question_latex": "In which of the following, the oxidation number of oxygen has been arranged in increasing order?",
+    "question_images": [],
+    "options": [
+      "A. OF2 < KO2 < BaO2 < O3",
+      "B. BaO2 < KO2 < O3 < OF2",
+      "C. BaO2 < O3 < OF2 < KO2",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "B. BaO2 < KO2 < O3 < OF2",
+    "solution": "Oxidation numbers: $BaO_2 (-1), KO_2 (-0.5), O_3 (0), OF_2 (+2)$. Order: $-1 < -0.5 < 0 < +2$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Redox Reaction",
+    "question": "In the reaction, SO2 + 2H2S -> 3S + 2H2O the substance that oxidizes is,",
+    "question_latex": "In the reaction, $SO_2 + 2H_2S \\rightarrow 3S + 2H_2O$ the substance that oxidizes is,",
+    "question_images": [],
+    "options": [
+      "A. H2S",
+      "B. SO2",
+      "C. S",
+      "D. H2O"
+    ],
+    "option_images": [],
+    "answer": "A. H2S",
+    "solution": "Sulphur in $H_2S$ is in -2 state and becomes 0 in elemental S, meaning $H_2S$ is oxidized.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation number of V in V2O74- ion? [MHT-CET 2020]",
+    "question_latex": "What is the oxidation number of $V$ in $V_2O_7^{4-}$ ion? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. +6",
+      "B. +3",
+      "C. +5",
+      "D. +4"
+    ],
+    "option_images": [],
+    "answer": "C. +5",
+    "solution": "$2x + 7(-2) = -4 \\Rightarrow 2x - 14 = -4 \\Rightarrow 2x = 10 \\Rightarrow x = +5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Redox Reaction",
+    "question": "In the reaction, H2O2 + Na2CO3 -> Na2O2 + CO2 + H2O the substance undergoing oxidation is",
+    "question_latex": "In the reaction, $H_2O_2 + Na_2CO_3 \\rightarrow Na_2O_2 + CO_2 + H_2O$ the substance undergoing oxidation is",
+    "question_images": [],
+    "options": [
+      "A. H2O2",
+      "B. Na2CO3",
+      "C. Na2O2",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "D. None of these",
+    "solution": "This is a non-redox reaction; none of the elements change their oxidation states.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Redox Reaction",
+    "question": "Identify correct statement for following reaction. H2O2(aq) + ClO4-(aq) -> ClO2-(aq) + O2(g) [MHT-CET 2021]",
+    "question_latex": "Identify correct statement for following reaction. $H_2O_2(aq) + ClO_4^-(aq) \\rightarrow ClO_2^-(aq) + O_2(g)$ [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. Oxidation state of oxygen on product side is -1 and -2 respectively.",
+      "B. Oxidation state of Cl decreases from +7 to +4.",
+      "C. Oxidation state of Cl is +3 on reactant side and +1 on product side.",
+      "D. Oxidation state of oxygen on reactant side is -1 and -2 respectively."
+    ],
+    "option_images": [],
+    "answer": "D. Oxidation state of oxygen on reactant side is -1 and -2 respectively.",
+    "solution": "In $H_2O_2$, O is -1. In $ClO_4^-$, O is -2. These are the reactant side states.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Redox Reaction",
+    "question": "The average oxidation state of sulphur in S4O62- is [MHT-CET 2021]",
+    "question_latex": "The average oxidation state of sulphur in $S_4O_6^{2-}$ is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. +4",
+      "B. +6",
+      "C. +2.5",
+      "D. +0.5"
+    ],
+    "option_images": [],
+    "answer": "C. +2.5",
+    "solution": "$4x + 6(-2) = -2 \\Rightarrow 4x = 10 \\Rightarrow x = +2.5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Redox Reaction",
+    "question": "Which of following compounds exhibits zero oxidation state of iron? [MHT-CET 2024]",
+    "question_latex": "Which of following compounds exhibits zero oxidation state of iron? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. Fe2O3",
+      "B. K4Fe(CN)6",
+      "C. FeSO4(NH4)2SO4 . 6H2O",
+      "D. Fe(CO)5"
+    ],
+    "option_images": [],
+    "answer": "D. Fe(CO)5",
+    "solution": "In $Fe(CO)_5$, the iron atom has an oxidation state of zero.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Redox Reaction",
+    "question": "The reaction, Ag2+(aq) + Ag(s) <-> 2Ag+(aq) is an example of",
+    "question_latex": "The reaction, $Ag^{2+}(aq) + Ag(s) \\rightleftharpoons 2Ag^+(aq)$ is an example of",
+    "question_images": [],
+    "options": [
+      "A. Reduction",
+      "B. Oxidation",
+      "C. Comproportionation",
+      "D. Disproportionation"
+    ],
+    "option_images": [],
+    "answer": "C. Comproportionation",
+    "solution": "A reaction where two species of the same element in different oxidation states form a single species in an intermediate state is called comproportionation.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Redox Reaction",
+    "question": "The oxidation state of sulphur in sodium tetrathionate (Na2S4O6) is",
+    "question_latex": "The oxidation state of sulphur in sodium tetrathionate ($Na_2S_4O_6$) is",
+    "question_images": [],
+    "options": [
+      "A. 2",
+      "B. 0",
+      "C. 2.5",
+      "D. 3.5"
+    ],
+    "option_images": [],
+    "answer": "C. 2.5",
+    "solution": "Average oxidation state calculation: $2(+1) + 4x + 6(-2) = 0 \\Rightarrow 4x = 10 \\Rightarrow x = 2.5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation state of As in H3AsO4? [MHT-CET 2020]",
+    "question_latex": "What is the oxidation state of $As$ in $H_3AsO_4$? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. -1",
+      "B. +3",
+      "C. -3",
+      "D. +5"
+    ],
+    "option_images": [],
+    "answer": "D. +5",
+    "solution": "$3(+1) + x + 4(-2) = 0 \\Rightarrow x - 5 = 0 \\Rightarrow x = +5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Redox Reaction",
+    "question": "Oxidation state of Cr in potassium dichromate is [MHT-CET 2021]",
+    "question_latex": "Oxidation state of $Cr$ in potassium dichromate is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. +6",
+      "B. +7",
+      "C. +5",
+      "D. +1"
+    ],
+    "option_images": [],
+    "answer": "A. +6",
+    "solution": "In $K_2Cr_2O_7$, $2(+1) + 2x + 7(-2) = 0 \\Rightarrow 2x = 12 \\Rightarrow x = +6$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Redox Reaction",
+    "question": "In the following reaction, 4P + 3KOH + 3H2O -> 3KH2PO2 + PH3",
+    "question_latex": "In the following reaction, $4P + 3KOH + 3H_2O \\rightarrow 3KH_2PO_2 + PH_3$",
+    "question_images": [],
+    "options": [
+      "A. P is only oxidized",
+      "B. P is only reduced",
+      "C. P is both oxidized as well as reduced",
+      "D. None of the above"
+    ],
+    "option_images": [],
+    "answer": "C. P is both oxidized as well as reduced",
+    "solution": "Phosphorus ($0$) goes to $+1$ in $KH_2PO_2$ (oxidation) and to $-3$ in $PH_3$ (reduction). This is a disproportionation reaction.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Redox Reaction",
+    "question": "What is the change in oxidation number of Sulphur in following reaction? MnO4-(aq) + SO32-(aq) -> MnO42-(aq) + SO42-(aq) [MHT-CET 2020]",
+    "question_latex": "What is the change in oxidation number of Sulphur in following reaction? $MnO_4^-(aq) + SO_3^{2-}(aq) \\rightarrow MnO_4^{2-}(aq) + SO_4^{2-}(aq)$ [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. +4 to +6",
+      "B. +6 to +5",
+      "C. +8 to +6",
+      "D. +6 to +8"
+    ],
+    "option_images": [],
+    "answer": "A. +4 to +6",
+    "solution": "Sulphur changes from +4 in $SO_3^{2-}$ to +6 in $SO_4^{2-}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation state of chlorine atom in perchloric acid? [MHT-CET 2020]",
+    "question_latex": "What is the oxidation state of chlorine atom in perchloric acid? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. +3",
+      "B. -5",
+      "C. +7",
+      "D. +5"
+    ],
+    "option_images": [],
+    "answer": "C. +7",
+    "solution": "Perchloric acid is $HClO_4$. $(+1) + x + 4(-2) = 0 \\Rightarrow x = +7$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Redox Reaction",
+    "question": "A compound contains atoms of x, y and z elements. Oxidation numbers of x, y and z are +3, +5 and -2 respectively. Identify the possible formula of this compound. [2025]",
+    "question_latex": "A compound contains atoms of $x, y$ and $z$ elements. Oxidation numbers of $x, y$ and $z$ are +3, +5 and -2 respectively. Identify the possible formula of this compound. [2025]",
+    "question_images": [],
+    "options": [
+      "A. X3(YZ4)3",
+      "B. Y2(XZ3)2",
+      "C. XYZ2",
+      "D. X3(Y4Z)2"
+    ],
+    "option_images": [],
+    "answer": "A. X3(YZ4)3",
+    "solution": "Sum of oxidation numbers: $3(+3) + 3[+5 + 4(-2)] = 9 + 3(-3) = 0$. Formula (A) is correct.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation state of S in SO42-? [MHT-CET 2024]",
+    "question_latex": "What is the oxidation state of $S$ in $SO_4^{2-}$? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. +2",
+      "B. +3",
+      "C. +6",
+      "D. -6"
+    ],
+    "option_images": [],
+    "answer": "C. +6",
+    "solution": "$x + 4(-2) = -2 \\Rightarrow x = +6$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Redox Reaction",
+    "question": "Which is the best description of behaviour of bromine in the reaction given below? H2O + Br2 -> HBr + HOBr",
+    "question_latex": "Which is the best description of behaviour of bromine in the reaction given below? $H_2O + Br_2 \\rightarrow HBr + HOBr$",
+    "question_images": [],
+    "options": [
+      "A. Proton accepted only",
+      "B. Both oxidised and reduced",
+      "C. Oxidised only",
+      "D. Reduced only"
+    ],
+    "option_images": [],
+    "answer": "B. Both oxidised and reduced",
+    "solution": "Bromine ($0$) goes to $-1$ in $HBr$ and $+1$ in $HOBr$. This is disproportionation.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Redox Reaction",
+    "question": "What is the number of electrons released in conversion of C2O42- to CO2? [2025]",
+    "question_latex": "What is the number of electrons released in conversion of $C_2O_4^{2-}$ to $CO_2$? [2025]",
+    "question_images": [],
+    "options": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 2"
+    ],
+    "option_images": [],
+    "answer": "D. 2",
+    "solution": "The oxidation of oxalate to $CO_2$ is: $C_2O_4^{2-} \\rightarrow 2CO_2 + 2e^-$. Two electrons are released.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Redox Reaction",
+    "question": "In the conversion of Br2 to BrO3-, the oxidation number of Br changes from",
+    "question_latex": "In the conversion of $Br_2$ to $BrO_3^-$, the oxidation number of $Br$ changes from",
+    "question_images": [],
+    "options": [
+      "A. Zero to +5",
+      "B. +1 to +5",
+      "C. Zero to -3",
+      "D. +2 to +5"
+    ],
+    "option_images": [],
+    "answer": "A. Zero to +5",
+    "solution": "Elemental $Br_2$ is 0. In $BrO_3^-$, $x + 3(-2) = -1 \\Rightarrow x = +5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation number of underlined species in PF6- and V2O7-4 ions respectively? [MHT-CET 2024]",
+    "question_latex": "What is the oxidation number of underlined species in $\\underline{P}F_6^-$ and $\\underline{V}_2O_7^{4-}$ ions respectively? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. -5 and +5",
+      "B. +3 and +3",
+      "C. +5 and +5",
+      "D. +5 and -5"
+    ],
+    "option_images": [],
+    "answer": "C. +5 and +5",
+    "solution": "In $PF_6^-$, $x + 6(-1) = -1 \\Rightarrow x = +5$. In $V_2O_7^{4-}$, $2x + 7(-2) = -4 \\Rightarrow 2x = 10 \\Rightarrow x = +5$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Redox Reaction",
+    "question": "Which of the following correctly represents the process of reduction? [MHT-CET 2022]",
+    "question_latex": "Which of the following correctly represents the process of reduction? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Loss of electron",
+      "B. Increase in oxidation number",
+      "C. Gain of oxygen",
+      "D. Gain of electron and addition of hydrogen"
+    ],
+    "option_images": [],
+    "answer": "D. Gain of electron and addition of hydrogen",
+    "solution": "Reduction is defined as the gain of electrons, decrease in oxidation state, or addition of hydrogen.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Redox Reaction",
+    "question": "In the reaction, 3MnO42- + 4H+ -> 2MnO4- + MnO2 + 2H2O [MHT-CET 2024]",
+    "question_latex": "In the reaction, $3MnO_4^{2-} + 4H^+ \\rightarrow 2MnO_4^- + MnO_2 + 2H_2O$ [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. 2 moles of Mn oxidised and 1 mole is reduced.",
+      "B. Mn is reduced only.",
+      "C. Oxygen is reduced.",
+      "D. Mn is oxidised only."
+    ],
+    "option_images": [],
+    "answer": "A. 2 moles of Mn oxidised and 1 mole is reduced.",
+    "solution": "Starting state is +6. In $MnO_4^-$, it is +7 (oxidation). In $MnO_2$, it is +4 (reduction). Stoichiometry shows 2:1 ratio for these processes.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Redox Reaction",
+    "question": "What is oxidation number of sulphur in SO3? [2025]",
+    "question_latex": "What is oxidation number of sulphur in $SO_3$? [2025]",
+    "question_images": [],
+    "options": [
+      "A. +6",
+      "B. -3",
+      "C. +3",
+      "D. +4"
+    ],
+    "option_images": [],
+    "answer": "A. +6",
+    "solution": "$x + 3(-2) = 0 \\Rightarrow x = +6$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Redox Reaction",
+    "question": "Which quantities are conserved in all oxidation-reduction reactions?",
+    "question_latex": "Which quantities are conserved in all oxidation-reduction reactions?",
+    "question_images": [],
+    "options": [
+      "A. Charge only",
+      "B. Mass only",
+      "C. Both charge and mass",
+      "D. Neither charge nor mass"
+    ],
+    "option_images": [],
+    "answer": "C. Both charge and mass",
+    "solution": "In any balanced chemical reaction, including redox, both mass and charge must be conserved.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Redox Reaction",
+    "question": "Which of the following species acts as weakest oxidising agent? [2025]",
+    "question_latex": "Which of the following species acts as weakest oxidising agent? [2025]",
+    "question_images": [],
+    "options": [
+      "A. Zn+2",
+      "B. Na+",
+      "C. Al+3",
+      "D. Li+"
+    ],
+    "option_images": [],
+    "answer": "D. Li+",
+    "solution": "$Li^+$ has the lowest reduction potential ($E^\\circ = -3.04$ V), making it the weakest oxidizing agent among the options.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Redox Reaction",
+    "question": "Which among the following compounds exhibits +2 oxidation state of oxygen? [MHT-CET 2023]",
+    "question_latex": "Which among the following compounds exhibits +2 oxidation state of oxygen? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. OF2",
+      "B. H2O",
+      "C. SO2",
+      "D. H2O2"
+    ],
+    "option_images": [],
+    "answer": "A. OF2",
+    "solution": "In $OF_2$, Fluorine is more electronegative than Oxygen. $x + 2(-1) = 0 \\Rightarrow x = +2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Redox Reaction",
+    "question": "The oxidation number of oxygen in KO3, Na2O2 is",
+    "question_latex": "The oxidation number of oxygen in $KO_3$, $Na_2O_2$ is",
+    "question_images": [],
+    "options": [
+      "A. 3, 2",
+      "B. 1, 0",
+      "C. 0, 1",
+      "D. -0.33, -1"
+    ],
+    "option_images": [],
+    "answer": "D. -0.33, -1",
+    "solution": "In $KO_3$ (ozonide), $x = -1/3 \\approx -0.33$. In $Na_2O_2$ (peroxide), $x = -1$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Redox Reaction",
+    "question": "When methane is burnt completely, oxidation state of carbon changes from [MHT-CET 2020]",
+    "question_latex": "When methane is burnt completely, oxidation state of carbon changes from [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. +2 to -2",
+      "B. -4 to +4",
+      "C. 0 to +4",
+      "D. +4 to 0"
+    ],
+    "option_images": [],
+    "answer": "B. -4 to +4",
+    "solution": "In $CH_4$, C is -4. In $CO_2$, C is +4.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Redox Reaction",
+    "question": "The oxidation state of phosphorous in Mg2P2O7 is [MHT-CET 2020]",
+    "question_latex": "The oxidation state of phosphorous in $Mg_2P_2O_7$ is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. +3",
+      "B. +2",
+      "C. +5",
+      "D. -3"
+    ],
+    "option_images": [],
+    "answer": "C. +5",
+    "solution": "$2(+2) + 2x + 7(-2) = 0 \\Rightarrow 4 + 2x - 14 = 0 \\Rightarrow 2x = 10 \\Rightarrow x = +5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Redox Reaction",
+    "question": "In which of the following molecules, nitrogen exhibit +4 oxidation state? [MHT-CET 2020]",
+    "question_latex": "In which of the following molecules, nitrogen exhibit +4 oxidation state? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. N2O5",
+      "B. N2O4",
+      "C. N2O",
+      "D. N2O3"
+    ],
+    "option_images": [],
+    "answer": "B. N2O4",
+    "solution": "In $N_2O_4$: $2x + 4(-2) = 0 \\Rightarrow 2x = 8 \\Rightarrow x = +4$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Redox Reaction",
+    "question": "White phosphorus reacts with caustic soda, the products are PH3 and NaH2PO2. This reaction is an example of",
+    "question_latex": "White phosphorus reacts with caustic soda, the products are $PH_3$ and $NaH_2PO_2$. This reaction is an example of",
+    "question_images": [],
+    "options": [
+      "A. Oxidation",
+      "B. Reduction",
+      "C. Disproportionation",
+      "D. Neutralisation"
+    ],
+    "option_images": [],
+    "answer": "C. Disproportionation",
+    "solution": "P changes from 0 to -3 (reduction) and +1 (oxidation).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Redox Reaction",
+    "question": "In which of the following compounds, the oxidation number of iodine is fractional?",
+    "question_latex": "In which of the following compounds, the oxidation number of iodine is fractional?",
+    "question_images": [],
+    "options": [
+      "A. IF3",
+      "B. IF5",
+      "C. I3-",
+      "D. IF7"
+    ],
+    "option_images": [],
+    "answer": "C. I3-",
+    "solution": "In triiodide ion $I_3^-$, the average oxidation state is $-1/3$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Redox Reaction",
+    "question": "Identify the compound formed from elements X, Y, Z having oxidation state +2, +5, -2 respectively. [MHT-CET 2021]",
+    "question_latex": "Identify the compound formed from elements X, Y, Z having oxidation state +2, +5, -2 respectively. [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. XYZ2",
+      "B. X(Y4Z)",
+      "C. X3(YZ2)2",
+      "D. X3(YZ4)2"
+    ],
+    "option_images": [],
+    "answer": "D. X3(YZ4)2",
+    "solution": "Sum of oxidation numbers: $3(+2) + 2[+5 + 4(-2)] = 6 + 2(-3) = 0$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Redox Reaction",
+    "question": "The oxidation number of N and Cl in NOClO4 respectively are",
+    "question_latex": "The oxidation number of N and Cl in $NOClO_4$ respectively are",
+    "question_images": [],
+    "options": [
+      "A. +2 and +7",
+      "B. +3 and +7",
+      "C. -3 and +5",
+      "D. +2 and -7"
+    ],
+    "option_images": [],
+    "answer": "B. +3 and +7",
+    "solution": "Compound consists of $NO^+$ and $ClO_4^-$. In $NO^+$: $x + (-2) = +1 \\Rightarrow x = +3$. In $ClO_4^-$: $y + 4(-2) = -1 \\Rightarrow y = +7$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Redox Reaction",
+    "question": "The sum of oxidation number of all atoms in SnO32- ion is [MHT-CET 2020]",
+    "question_latex": "The sum of oxidation number of all atoms in $SnO_3^{2-}$ ion is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. -2",
+      "B. -1",
+      "C. +2",
+      "D. Zero"
+    ],
+    "option_images": [],
+    "answer": "A. -2",
+    "solution": "The sum of oxidation numbers in a polyatomic ion equals the charge of the ion.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation number of Cr in K2Cr2O7? [MHT-CET 2020]",
+    "question_latex": "What is the oxidation number of $Cr$ in $K_2Cr_2O_7$? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. -6",
+      "B. +12",
+      "C. +2",
+      "D. +6"
+    ],
+    "option_images": [],
+    "answer": "D. +6",
+    "solution": "$2(+1) + 2x + 7(-2) = 0 \\Rightarrow 2x = 12 \\Rightarrow x = +6$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation number of carbon in methanal? [2025]",
+    "question_latex": "What is the oxidation number of carbon in methanal? [2025]",
+    "question_images": [],
+    "options": [
+      "A. +2",
+      "B. -2",
+      "C. zero",
+      "D. +4"
+    ],
+    "option_images": [],
+    "answer": "C. zero",
+    "solution": "Methanal is $H_2CO$. $2(+1) + x + (-2) = 0 \\Rightarrow x = 0$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Redox Reaction",
+    "question": "When K2Cr2O7 is converted into K2CrO4 the change in oxidation number of chromium is",
+    "question_latex": "When $K_2Cr_2O_7$ is converted into $K_2CrO_4$ the change in oxidation number of chromium is",
+    "question_images": [],
+    "options": [
+      "A. 0",
+      "B. 5",
+      "C. 7",
+      "D. 9"
+    ],
+    "option_images": [],
+    "answer": "A. 0",
+    "solution": "In both compounds, Chromium has an oxidation state of +6. Change is zero.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Redox Reaction",
+    "question": "Which of the following acts as an oxidising as well as reducing agent?",
+    "question_latex": "Which of the following acts as an oxidising as well as reducing agent?",
+    "question_images": [],
+    "options": [
+      "A. Na2O",
+      "B. Na2O2",
+      "C. NaNO3",
+      "D. NaNO2"
+    ],
+    "option_images": [],
+    "answer": "D. NaNO2",
+    "solution": "In $NaNO_2$, nitrogen is in +3 state, which is intermediate between +5 (max) and -3 (min), allowing it to either lose or gain electrons.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Redox Reaction",
+    "question": "Identify the reaction which is NOT a redox reaction.",
+    "question_latex": "Identify the reaction which is NOT a redox reaction.",
+    "question_images": [],
+    "options": [
+      "A. SnCl4 + FeCl2 -> FeCl3 + SnCl2",
+      "B. C2H5OH + [O] -> CH3CHO + H2O",
+      "C. CH3CHO + Cu(OH)2 -> CH3COOH + Cu2O",
+      "D. H2SO4 + Ca(OH)2 -> CaSO4 + H2O"
+    ],
+    "option_images": [],
+    "answer": "D. H2SO4 + Ca(OH)2 -> CaSO4 + H2O",
+    "solution": "This is a neutralization reaction where no changes in oxidation states occur.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Redox Reaction",
+    "question": "Oxidation number of N in NH3 and HNO3 respectively is [MHT-CET 2021]",
+    "question_latex": "Oxidation number of $N$ in $NH_3$ and $HNO_3$ respectively is [MHT-CET 2021]",
+    "question_images": [],
+    "options": [
+      "A. -3 and +5",
+      "B. +5 and -3",
+      "C. +3 and -3",
+      "D. -3 and +3"
+    ],
+    "option_images": [],
+    "answer": "A. -3 and +5",
+    "solution": "In $NH_3$, $x + 3(+1) = 0 \\Rightarrow x = -3$. In $HNO_3$, $(+1) + x + 3(-2) = 0 \\Rightarrow x = +5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Redox Reaction",
+    "question": "Arrange the following as increase in oxidation number (i) Mn2+ (ii) MnO2 (iii) KMnO4 (iv) K2MnO4",
+    "question_latex": "Arrange the following as increase in oxidation number (i) $Mn^{2+}$ (ii) $MnO_2$ (iii) $KMnO_4$ (iv) $K_2MnO_4$",
+    "question_images": [],
+    "options": [
+      "A. (i) > (ii) > (iii) > (iv)",
+      "B. (i) < (ii) < (iv) < (iii)",
+      "C. (ii) < (iii) < (i) < (iv)",
+      "D. (iii) > (i) > (iv) > (ii)"
+    ],
+    "option_images": [],
+    "answer": "B. (i) < (ii) < (iv) < (iii)",
+    "solution": "Oxidation numbers: $Mn^{2+} (+2)$, $MnO_2 (+4)$, $K_2MnO_4 (+6)$, $KMnO_4 (+7)$. Order is (i) < (ii) < (iv) < (iii).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Redox Reaction",
+    "question": "Identify the compound in which oxygen exists in the oxidized state? [MHT-CET 2019]",
+    "question_latex": "Identify the compound in which oxygen exists in the oxidized state? [MHT-CET 2019]",
+    "question_images": [],
+    "options": [
+      "A. CO2",
+      "B. O3",
+      "C. SO2",
+      "D. OF2"
+    ],
+    "option_images": [],
+    "answer": "D. OF2",
+    "solution": "Oxygen is normally -2. In $OF_2$, it is +2, which is an oxidized state relative to its normal state.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Redox Reaction",
+    "question": "Which one of the following conversions does not involve either oxidation or reduction? [MHT-CET 2022]",
+    "question_latex": "Which one of the following conversions does not involve either oxidation or reduction? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Na -> Na+",
+      "B. Zn2+ -> Zn",
+      "C. CrO42- -> Cr2O72-",
+      "D. VO2+ -> V2O3"
+    ],
+    "option_images": [],
+    "answer": "C. CrO42- -> Cr2O72-",
+    "solution": "Chromium remains in +6 state in both chromate and dichromate. This is a condensation/hydrolysis equilibrium, not redox.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Redox Reaction",
+    "question": "Find the number of electrons transferred when Mn of KMnO4 is converted to Mn2+ ions in a certain reaction. [2025]",
+    "question_latex": "Find the number of electrons transferred when $Mn$ of $KMnO_4$ is converted to $Mn^{2+}$ ions in a certain reaction. [2025]",
+    "question_images": [],
+    "options": [
+      "A. 5",
+      "B. 3",
+      "C. 4",
+      "D. 1"
+    ],
+    "option_images": [],
+    "answer": "A. 5",
+    "solution": "$Mn$ in $KMnO_4$ is +7. In $Mn^{2+}$, it is +2. Number of electrons gained $= 7 - 2 = 5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Redox Reaction",
+    "question": "In permonosulphuric acid (H2SO5), the oxidation number of sulphur is",
+    "question_latex": "In permonosulphuric acid ($H_2SO_5$), the oxidation number of sulphur is",
+    "question_images": [],
+    "options": [
+      "A. +8",
+      "B. +4",
+      "C. +5",
+      "D. +6"
+    ],
+    "option_images": [],
+    "answer": "D. +6",
+    "solution": "Due to one peroxide linkage ($O-O$), two oxygens are -1. $2(+1) + x + 2(-1) + 3(-2) = 0 \\Rightarrow x = +6$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Redox Reaction",
+    "question": "Identify the increasing order of oxidation state of sulphur in following series of anions? [2025]",
+    "question_latex": "Identify the increasing order of oxidation state of sulphur in following series of anions? [2025]",
+    "question_images": [],
+    "options": [
+      "A. SO32- < S2O42- < S2O62-",
+      "B. S2O42- < SO32- < S2O62-",
+      "C. S2O42- < S2O62- < SO32-",
+      "D. S2O62- < S2O42- < SO32-"
+    ],
+    "option_images": [],
+    "answer": "B. S2O42- < SO32- < S2O62-",
+    "solution": "Oxidation states: $S_2O_4^{2-} (+3)$, $SO_3^{2-} (+4)$, $S_2O_6^{2-} (+5)$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Redox Reaction",
+    "question": "One mole of acidified K2Cr2O7 on reaction with excess KI will liberate mole(s) of iodine",
+    "question_latex": "One mole of acidified $K_2Cr_2O_7$ on reaction with excess $KI$ will liberate mole(s) of iodine",
+    "question_images": [],
+    "options": [
+      "A. 6",
+      "B. 1",
+      "C. 7",
+      "D. 3"
+    ],
+    "option_images": [],
+    "answer": "D. 3",
+    "solution": "Balanced equation: $Cr_2O_7^{2-} + 14H^+ + 6I^- \\rightarrow 2Cr^{3+} + 3I_2 + 7H_2O$. 1 mole dichromate produces 3 moles of iodine.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Redox Reaction",
+    "question": "Identify the oxidising agent in following reaction: CH4(g) + 2O2(g) -> CO2(g) + 2H2O(l) [MHT-CET 2020]",
+    "question_latex": "Identify the oxidising agent in following reaction: $CH_4(g) + 2O_2(g) \\rightarrow CO_2(g) + 2H_2O(l)$ [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. O2(g)",
+      "B. CH4(g)",
+      "C. CO2(g)",
+      "D. H2O(l)"
+    ],
+    "option_images": [],
+    "answer": "A. O2(g)",
+    "solution": "Oxygen is reduced ($0$ to $-2$), thus it acts as the oxidizing agent.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Redox Reaction",
+    "question": "The reaction, Ag+2(aq) + Ag(s) <-> 2Ag+ (aq) is an example of",
+    "question_latex": "The reaction, $Ag^{2+}(aq) + Ag(s) \\rightleftharpoons 2Ag^+(aq)$ is an example of",
+    "question_images": [],
+    "options": [
+      "A. Reduction",
+      "B. Oxidation",
+      "C. Disproportionation",
+      "D. Comproprotionation"
+    ],
+    "option_images": [],
+    "answer": "D. Comproprotionation",
+    "solution": "Two different oxidation states of the same element combine to form a single intermediate state.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Redox Reaction",
+    "question": "The sum of oxidation states of all atoms in Cr2O72- ion is [MHT-CET 2020]",
+    "question_latex": "The sum of oxidation states of all atoms in $Cr_2O_7^{2-}$ ion is [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. -2",
+      "B. +2",
+      "C. -1",
+      "D. Zero"
+    ],
+    "option_images": [],
+    "answer": "A. -2",
+    "solution": "The sum equals the charge of the ion.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Redox Reaction",
+    "question": "In which of the following compounds, carbon shows highest oxidation state? [MHT-CET 2022]",
+    "question_latex": "In which of the following compounds, carbon shows highest oxidation state? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. C12H22O11",
+      "B. CHCl3",
+      "C. CH2Cl2",
+      "D. HCHO"
+    ],
+    "option_images": [],
+    "answer": "B. CHCl3",
+    "solution": "Oxidation states: $C_{12}H_{22}O_{11} (0)$, $CHCl_3 (+2)$, $CH_2Cl_2 (0)$, $HCHO (0)$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Redox Reaction",
+    "question": "The oxidation number of chromium in potassium dichromate is",
+    "question_latex": "The oxidation number of chromium in potassium dichromate is",
+    "question_images": [],
+    "options": [
+      "A. +2",
+      "B. +4",
+      "C. +6",
+      "D. +8"
+    ],
+    "option_images": [],
+    "answer": "C. +6",
+    "solution": "Calculated for $K_2Cr_2O_7$: $2(1) + 2x + 7(-2) = 0 \\Rightarrow 2x = 12 \\Rightarrow x = +6$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Redox Reaction",
+    "question": "What is the value of x and y to balance the following reaction? xH3AsO3 + yBrO3- -> yBr- + xH3AsO4 [MHT-CET 2024]",
+    "question_latex": "What is the value of x and y to balance the following reaction? $xH_3AsO_3 + yBrO_3^- \\rightarrow yBr^- + xH_3AsO_4$ [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. x = 3, y = 1",
+      "B. x = 1, y = 1",
+      "C. x = 1, y = 3",
+      "D. x = 2, y = 1"
+    ],
+    "option_images": [],
+    "answer": "A. x = 3, y = 1",
+    "solution": "Electron balance: $As^{+3} \\rightarrow As^{+5} (+2e^-)$, $Br^{+5} \\rightarrow Br^- (-6e^-)$. Ratio is 3:1.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Redox Reaction",
+    "question": "What is the value of x and y in order to balance the following redox reaction? MnO4-(aq) + 5Fe2+(aq) + xH+(aq) -> Mn2+(aq) + 5Fe3+(aq) + yH2O [MHT-CET 2024]",
+    "question_latex": "What is the value of x and y in order to balance the following redox reaction? $MnO_4^-(aq) + 5Fe^{2+}(aq) + xH^+(aq) \\rightarrow Mn^{2+}(aq) + 5Fe^{3+}(aq) + yH_2O$ [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. x = 6, y = 3",
+      "B. x = 4, y = 2",
+      "C. x = 10, y = 5",
+      "D. x = 8, y = 4"
+    ],
+    "option_images": [],
+    "answer": "D. x = 8, y = 4",
+    "solution": "Charge and oxygen balance leads to 8 $H^+$ and 4 $H_2O$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Redox Reaction",
+    "question": "What is the value of x in order to balance following redox reaction? Mn2+(aq) + xClO3-(aq) -> MnO2(s) + xClO2(aq) [MHT-CET 2023]",
+    "question_latex": "What is the value of $x$ in order to balance following redox reaction? $Mn^{2+}(aq) + xClO_3^-(aq) \\rightarrow MnO_2(s) + xClO_2(aq)$ [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. x = 4",
+      "B. x = 1",
+      "C. x = 2",
+      "D. x = 3"
+    ],
+    "option_images": [],
+    "answer": "C. x = 2",
+    "solution": "Mn oxidation: +2 to +4 ($2e^-$ lost). Cl reduction: +5 to +4 ($1e^-$ gained per Cl). So $x=2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Redox Reaction",
+    "question": "Of the following reactions, only one is a redox reaction. Identify this reaction.",
+    "question_latex": "Of the following reactions, only one is a redox reaction. Identify this reaction.",
+    "question_images": [],
+    "options": [
+      "A. Ca(OH)2 + 2HCl -> CaCl2 + 2H2O",
+      "B. 2S2O72- + 2H2O -> 2SO42- + 4H+",
+      "C. BaCl2 + MgSO4 -> BaSO4 + MgCl2",
+      "D. Cu2S + 2FeO -> 2Cu + 2Fe + SO2"
+    ],
+    "option_images": [],
+    "answer": "D. Cu2S + 2FeO -> 2Cu + 2Fe + SO2",
+    "solution": "In (D), $Cu$ and $Fe$ reduction states change ($+1 \\rightarrow 0$ and $+2 \\rightarrow 0$ respectively), and $S$ oxidation state changes ($-2 \\rightarrow +4$).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Redox Reaction",
+    "question": "The oxidation number of xenon in XeOF2 is",
+    "question_latex": "The oxidation number of xenon in $XeOF_2$ is",
+    "question_images": [],
+    "options": [
+      "A. Zero",
+      "B. 2",
+      "C. 4",
+      "D. 3"
+    ],
+    "option_images": [],
+    "answer": "C. 4",
+    "solution": "$x + (-2) + 2(-1) = 0 \\Rightarrow x - 4 = 0 \\Rightarrow x = +4$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Redox Reaction",
+    "question": "What is the difference in oxidation number of Mn in KMnO4 and MnO2? [2025]",
+    "question_latex": "What is the difference in oxidation number of $Mn$ in $KMnO_4$ and $MnO_2$? [2025]",
+    "question_images": [],
+    "options": [
+      "A. 3",
+      "B. 1",
+      "C. 5",
+      "D. 4"
+    ],
+    "option_images": [],
+    "answer": "A. 3",
+    "solution": "$MnO_4^- (+7)$ and $MnO_2 (+4)$. Difference $= 7 - 4 = 3$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Redox Reaction",
+    "question": "The oxidation number of Cr in K2CrO4",
+    "question_latex": "The oxidation number of $Cr$ in $K_2CrO_4$",
+    "question_images": [],
+    "options": [
+      "A. +3",
+      "B. -6",
+      "C. +6",
+      "D. -3"
+    ],
+    "option_images": [],
+    "answer": "C. +6",
+    "solution": "$2(1) + x + 4(-2) = 0 \\Rightarrow x = +6$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Redox Reaction",
+    "question": "What is the value of x in order to balance the following redox reaction? xH2O2(aq) + ClO4-(aq) -> xO2(g) + ClO2-(g) + xH2O(l) [MHT-CET 2023]",
+    "question_latex": "What is the value of $x$ in order to balance the following redox reaction? $xH_2O_2(aq) + ClO_4^-(aq) \\rightarrow xO_2(g) + ClO_2^-(g) + xH_2O(l)$ [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 2",
+      "B. 4",
+      "C. 3",
+      "D. 1"
+    ],
+    "option_images": [],
+    "answer": "A. 2",
+    "solution": "$Cl^{+7} \\rightarrow Cl^{+3} (4e^- gain)$. $O^{-1} \\rightarrow O^0 (1e^- loss per O)$. So 2 moles $H_2O_2$ are needed for 4 electrons. $x=2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation number of Pt in PtCl62-? [MHT-CET 2023]",
+    "question_latex": "What is the oxidation number of $Pt$ in $PtCl_6^{2-}$? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. -6",
+      "B. +6",
+      "C. +4",
+      "D. -4"
+    ],
+    "option_images": [],
+    "answer": "C. +4",
+    "solution": "$x + 6(-1) = -2 \\Rightarrow x = +4$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Redox Reaction",
+    "question": "Which of the following is not a redox reaction?",
+    "question_latex": "Which of the following is not a redox reaction?",
+    "question_images": [],
+    "options": [
+      "A. 2Na + Cl2 -> 2NaCl",
+      "B. C + O2 -> CO2",
+      "C. AgNO3 + NaCl -> AgCl + NaNO3",
+      "D. Zn + H2SO4 -> ZnSO4 + H2"
+    ],
+    "option_images": [],
+    "answer": "C. AgNO3 + NaCl -> AgCl + NaNO3",
+    "solution": "This is a double displacement precipitation reaction with no changes in oxidation states.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Redox Reaction",
+    "question": "Oxidation state of chromium in CrO5 is",
+    "question_latex": "Oxidation state of chromium in $CrO_5$ is",
+    "question_images": [],
+    "options": [
+      "A. +10",
+      "B. +6",
+      "C. +3",
+      "D. +2"
+    ],
+    "option_images": [],
+    "answer": "B. +6",
+    "solution": "CrO5 has a butterfly structure with 4 peroxo oxygens (-1) and 1 oxo oxygen (-2). $x + 4(-1) + 1(-2) = 0 \\Rightarrow x = +6$.",
+    "solution_images": [
+      "q421_solution_1"
+    ],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Redox Reaction",
+    "question": "Oxidation state of Fe in Fe3O4 is",
+    "question_latex": "Oxidation state of $Fe$ in $Fe_3O_4$ is",
+    "question_images": [],
+    "options": [
+      "A. +3",
+      "B. 8/3",
+      "C. +6",
+      "D. +2"
+    ],
+    "option_images": [],
+    "answer": "B. 8/3",
+    "solution": "$3x + 4(-2) = 0 \\Rightarrow 3x = 8 \\Rightarrow x = 8/3$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Redox Reaction",
+    "question": "Oxidation number of S in SO42- is",
+    "question_latex": "Oxidation number of $S$ in $SO_4^{2-}$ is",
+    "question_images": [],
+    "options": [
+      "A. +6",
+      "B. +3",
+      "C. +2",
+      "D. -2"
+    ],
+    "option_images": [],
+    "answer": "A. +6",
+    "solution": "$x + 4(-2) = -2 \\Rightarrow x = +6$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Redox Reaction",
+    "question": "a K2Cr2O7 + b KCl + c H2SO4 -> x CrO2Cl2 + y KHSO4 + z H2O. The above equation balances when",
+    "question_latex": "$a K_2Cr_2O_7 + b KCl + c H_2SO_4 \\rightarrow x CrO_2Cl_2 + y KHSO_4 + z H_2O$. The above equation balances when",
+    "question_images": [],
+    "options": [
+      "A. a=2, b=4, c=6 and x=2, y=6, z=3",
+      "B. a=4, b=2, c=6 and x=6, y=2, z=3",
+      "C. a=6, b=4, c=2 and x=6, y=3, z=2",
+      "D. a=1, b=4, c=6 and x=2, y=6, z=3"
+    ],
+    "option_images": [],
+    "answer": "D. a=1, b=4, c=6 and x=2, y=6, z=3",
+    "solution": "Balanced equation: $K_2Cr_2O_7 + 4KCl + 6H_2SO_4 \\rightarrow 2CrO_2Cl_2 + 6KHSO_4 + 3H_2O$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation state of phosphorus in phosphate ion? [MHT-CET 2024]",
+    "question_latex": "What is the oxidation state of phosphorus in phosphate ion? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. +3",
+      "B. -5",
+      "C. +6",
+      "D. +5"
+    ],
+    "option_images": [],
+    "answer": "D. +5",
+    "solution": "Phosphate ion is $PO_4^{3-}$. $x + 4(-2) = -3 \\Rightarrow x = +5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Redox Reaction",
+    "question": "In the following reaction Mx+ + MnO4- -> MO3- + Mn2+ + 1/2 O2. If one mole of MnO4- oxidises 2.5 moles of Mx+, then the value of x is",
+    "question_latex": "In the following reaction $M^{x+} + MnO_4^- \\rightarrow MO_3^- + Mn^{2+} + \\frac{1}{2} O_2$. If one mole of $MnO_4^-$ oxidises 2.5 moles of $M^{x+}$, then the value of $x$ is",
+    "question_images": [],
+    "options": [
+      "A. 5",
+      "B. 3",
+      "C. 4",
+      "D. 2"
+    ],
+    "option_images": [],
+    "answer": "B. 3",
+    "solution": "$Mn$ gains 5 electrons per mole. So 2.5 moles of $M$ must lose 5 electrons total. Each $M$ loses 2 electrons. Since product is $MO_3^- (+5)$, reactant $M^{x+}$ must be $+3$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation state of Cl in ClO4- ion? [2025]",
+    "question_latex": "What is the oxidation state of $Cl$ in $ClO_4^-$ ion? [2025]",
+    "question_images": [],
+    "options": [
+      "A. +3",
+      "B. +6",
+      "C. +7",
+      "D. +5"
+    ],
+    "option_images": [],
+    "answer": "C. +7",
+    "solution": "$x + 4(-2) = -1 \\Rightarrow x = +7$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Redox Reaction",
+    "question": "Which of the following ionic species exhibits more than one oxidation state for different atoms of same element? [MHT-CET 2022]",
+    "question_latex": "Which of the following ionic species exhibits more than one oxidation state for different atoms of same element? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. Permanganate ion",
+      "B. Tetrathionate ion",
+      "C. Perchlorate ion",
+      "D. Dichromate ion"
+    ],
+    "option_images": [],
+    "answer": "B. Tetrathionate ion",
+    "solution": "In $S_4O_6^{2-}$, the outer sulphurs are +5 and the inner sulphurs are 0.",
+    "solution_images": [
+      "q428_solution_1"
+    ],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation number of chlorine in ClO3-?",
+    "question_latex": "What is the oxidation number of chlorine in $ClO_3^-$?",
+    "question_images": [],
+    "options": [
+      "A. +5",
+      "B. +3",
+      "C. +4",
+      "D. +2"
+    ],
+    "option_images": [],
+    "answer": "A. +5",
+    "solution": "$x + 3(-2) = -1 \\Rightarrow x = +5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Redox Reaction",
+    "question": "In which of the following oxygen shows -1 oxidation state?",
+    "question_latex": "In which of the following oxygen shows -1 oxidation state?",
+    "question_images": [],
+    "options": [
+      "A. H2O2",
+      "B. CO2",
+      "C. H2O",
+      "D. OF2"
+    ],
+    "option_images": [],
+    "answer": "A. H2O2",
+    "solution": "In hydrogen peroxide ($H_2O_2$), oxygen is in the -1 state.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Redox Reaction",
+    "question": "Which of the following chemical reactions depicts the oxidising behaviour of H2SO4?",
+    "question_latex": "Which of the following chemical reactions depicts the oxidising behaviour of $H_2SO_4$?",
+    "question_images": [],
+    "options": [
+      "A. 2HI + H2SO4 -> I2 + SO2 + 2H2O",
+      "B. Ca(OH)2 + H2SO4 -> CaSO4 + 2H2O",
+      "C. NaCl + H2SO4 -> NaHSO4 + HCl",
+      "D. PCl5 + H2SO4 -> 2POCl3 + 2HCl + SO2Cl2"
+    ],
+    "option_images": [],
+    "answer": "A. 2HI + H2SO4 -> I2 + SO2 + 2H2O",
+    "solution": "In reaction (A), $H_2SO_4$ oxidizes $HI$ to $I_2$ while itself getting reduced to $SO_2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Redox Reaction",
+    "question": "What is the average oxidation number of sulphur in tetrathionate ion? [2025]",
+    "question_latex": "What is the average oxidation number of sulphur in tetrathionate ion? [2025]",
+    "question_images": [],
+    "options": [
+      "A. +3.0",
+      "B. +2.5",
+      "C. +1.5",
+      "D. 0"
+    ],
+    "option_images": [],
+    "answer": "B. +2.5",
+    "solution": "Calculated for $S_4O_6^{2-}$: $4x + 6(-2) = -2 \\Rightarrow x = +2.5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Redox Reaction",
+    "question": "In certain reaction, Br- ions are converted to Br2. What is the change in oxidation number of bromine? [MHT-CET 2024]",
+    "question_latex": "In certain reaction, $Br^-$ ions are converted to $Br_2$. What is the change in oxidation number of bromine? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. -1 to 0",
+      "B. -1 to +2",
+      "C. -2 to 0",
+      "D. -1 to +1"
+    ],
+    "option_images": [],
+    "answer": "A. -1 to 0",
+    "solution": "Bromide ion is -1. Bromine gas ($Br_2$) is 0.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation number of I in HIO3? [MHT-CET 2024]",
+    "question_latex": "What is the oxidation number of $I$ in $HIO_3$? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. +7",
+      "B. +5",
+      "C. +6",
+      "D. +3"
+    ],
+    "option_images": [],
+    "answer": "B. +5",
+    "solution": "$1 + x + 3(-2) = 0 \\Rightarrow x = +5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Redox Reaction",
+    "question": "What is the difference in oxidation number of Mn in KMnO4 and MnO4-? [2025]",
+    "question_latex": "What is the difference in oxidation number of $Mn$ in $KMnO_4$ and $MnO_4^-$? [2025]",
+    "question_images": [],
+    "options": [
+      "A. Four",
+      "B. Five",
+      "C. Zero",
+      "D. Three"
+    ],
+    "option_images": [],
+    "answer": "C. Zero",
+    "solution": "In both species, Manganese has an oxidation state of +7. $7 - 7 = 0$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Redox Reaction",
+    "question": "In which of the following compounds, Mn shows highest oxidation state? [MHT-CET 2022]",
+    "question_latex": "In which of the following compounds, $Mn$ shows highest oxidation state? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. KMnO4",
+      "B. K2MnO4",
+      "C. MnO2",
+      "D. Mn2O3"
+    ],
+    "option_images": [],
+    "answer": "A. KMnO4",
+    "solution": "States: $KMnO_4 (+7)$, $K_2MnO_4 (+6)$, $MnO_2 (+4)$, $Mn_2O_3 (+3)$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Redox Reaction",
+    "question": "In the equation, BiO3- + 6H+ + xe- -> Bi3+ + 3H2O What is the value of x? [2025]",
+    "question_latex": "In the equation, $BiO_3^- + 6H^+ + xe^- \\rightarrow Bi^{3+} + 3H_2O$ What is the value of $x$? [2025]",
+    "question_images": [],
+    "options": [
+      "A. 3",
+      "B. 6",
+      "C. 2",
+      "D. 4"
+    ],
+    "option_images": [],
+    "answer": "C. 2",
+    "solution": "Bi in $BiO_3^-$ is +5. In $Bi^{3+}$ it is +3. $5 - 3 = 2$ electrons.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Redox Reaction",
+    "question": "In acid medium Zn reduces nitrate ion to NH4+ ion according to the reaction Zn + NO3- -> Zn2+ + NH4+ + H2O (unbalanced) How many moles of HCl are required to reduce half a mole of NaNO3 completely?",
+    "question_latex": "In acid medium $Zn$ reduces nitrate ion to $NH_4^+$ ion according to the reaction $Zn + NO_3^- \\rightarrow Zn^{2+} + NH_4^+ + H_2O$ (unbalanced). How many moles of $HCl$ are required to reduce half a mole of $NaNO_3$ completely?",
+    "question_images": [],
+    "options": [
+      "A. 5",
+      "B. 4",
+      "C. 3",
+      "D. 2"
+    ],
+    "option_images": [],
+    "answer": "A. 5",
+    "solution": "Balanced half reaction: $NO_3^- + 10H^+ + 8e^- \\rightarrow NH_4^+ + 3H_2O$. 1 mole of $NO_3^-$ requires 10 moles of $H^+$. Half a mole requires 5 moles.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Redox Reaction",
+    "question": "Which of the following acts as both an oxidizing as well as reducing agent?",
+    "question_latex": "Which of the following acts as both an oxidizing as well as reducing agent?",
+    "question_images": [],
+    "options": [
+      "A. HNO3",
+      "B. HNO2",
+      "C. HI",
+      "D. H2SO4"
+    ],
+    "option_images": [],
+    "answer": "B. HNO2",
+    "solution": "N in $HNO_2$ is +3, which is an intermediate state.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 101,
+    "chapter": "Redox Reaction",
+    "question": "What is oxidation number of oxygen in OF2? [MHT-CET 2022]",
+    "question_latex": "What is oxidation number of oxygen in $OF_2$? [MHT-CET 2022]",
+    "question_images": [],
+    "options": [
+      "A. -2",
+      "B. +2",
+      "C. +1",
+      "D. -1"
+    ],
+    "option_images": [],
+    "answer": "B. +2",
+    "solution": "$x + 2(-1) = 0 \\Rightarrow x = +2$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 102,
+    "chapter": "Redox Reaction",
+    "question": "Oxidation number of P in HP2O7- ion is",
+    "question_latex": "Oxidation number of $P$ in $HP_2O_7^{2-}$ ion is",
+    "question_images": [],
+    "options": [
+      "A. +5",
+      "B. +6",
+      "C. +7",
+      "D. +3"
+    ],
+    "option_images": [],
+    "answer": "B. +6",
+    "solution": "$1 + 2x + 7(-2) = -1 \\Rightarrow 2x - 13 = -1 \\Rightarrow 2x = 12 \\Rightarrow x = +6$. Note: Ion charge usually 2-, resulting in +6.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 103,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation number of sulfur in H2SO5? [MHT-CET 2023]",
+    "question_latex": "What is the oxidation number of sulfur in $H_2SO_5$? [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. +6",
+      "B. +5",
+      "C. +8",
+      "D. +4"
+    ],
+    "option_images": [],
+    "answer": "A. +6",
+    "solution": "Calculated with peroxide bond: $x = +6$.",
+    "solution_images": [
+      "q442_solution_1"
+    ],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 104,
+    "chapter": "Redox Reaction",
+    "question": "In which of the following reactions, hydrogen is acting as an oxidising agent?",
+    "question_latex": "In which of the following reactions, hydrogen is acting as an oxidising agent?",
+    "question_images": [],
+    "options": [
+      "A. With Li to form LiH",
+      "B. With I2 to give HI",
+      "C. With S to give H2S",
+      "D. None of the above"
+    ],
+    "option_images": [],
+    "answer": "A. With Li to form LiH",
+    "solution": "$Li + 1/2 H_2 \\rightarrow LiH$. Hydrogen ($0$) becomes hydride ($-1$), which is reduction, meaning it acts as the oxidizing agent for Li.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 105,
+    "chapter": "Redox Reaction",
+    "question": "Which of the following is a redox reaction? [2025]",
+    "question_latex": "Which of the following is a redox reaction? [2025]",
+    "question_images": [],
+    "options": [
+      "A. CaC2O4 + 2HCl -> CaCl2 + H2C2O4",
+      "B. NaCl + KNO3 -> NaNO3 + KCl",
+      "C. Mg(OH)2 + 2NH4Cl -> MgCl2 + 2NH4OH",
+      "D. Zn + 2AgCN -> 2Ag + Zn(CN)2"
+    ],
+    "option_images": [],
+    "answer": "D. Zn + 2AgCN -> 2Ag + Zn(CN)2",
+    "solution": "Zn ($0$) to ($+2$) and Ag ($+1$) to ($0$).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 106,
+    "chapter": "Redox Reaction",
+    "question": "Which of the following acts as an oxidizing agent?",
+    "question_latex": "Which of the following acts as an oxidizing agent?",
+    "question_images": [],
+    "options": [
+      "A. HNO3",
+      "B. Cl2",
+      "C. FeCl3",
+      "D. All of these"
+    ],
+    "option_images": [],
+    "answer": "D. All of these",
+    "solution": "All these can accept electrons or contain elements in high oxidation states.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 107,
+    "chapter": "Redox Reaction",
+    "question": "What is the oxidation number of carbon in glucose? [MHT-CET 2020]",
+    "question_latex": "What is the oxidation number of carbon in glucose? [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. -6",
+      "B. +6",
+      "C. +3",
+      "D. Zero"
+    ],
+    "option_images": [],
+    "answer": "D. Zero",
+    "solution": "In $C_6H_{12}O_6$: $6x + 12(+1) + 6(-2) = 0 \\Rightarrow 6x = 0 \\Rightarrow x = 0$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 108,
+    "chapter": "Redox Reaction",
+    "question": "The oxidation number of Xe in XeF4 and XeO2 is",
+    "question_latex": "The oxidation number of $Xe$ in $XeF_4$ and $XeO_2$ is",
+    "question_images": [],
+    "options": [
+      "A. +6",
+      "B. +4",
+      "C. +1",
+      "D. +3"
+    ],
+    "option_images": [],
+    "answer": "B. +4",
+    "solution": "In both, Xe is in the +4 state.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 109,
+    "chapter": "Redox Reaction",
+    "question": "What is the number of moles of electrons gained by one mole oxidizing agent in following redox reaction? Zn(s) + 2HCl(aq) -> ZnCl2 + H2 [MHT-CET 2023]",
+    "question_latex": "What is the number of moles of electrons gained by one mole oxidizing agent in following redox reaction? $Zn_{(s)} + 2HCl_{(aq)} \\rightarrow ZnCl_2 + H_2$ [MHT-CET 2023]",
+    "question_images": [],
+    "options": [
+      "A. 1",
+      "B. 3",
+      "C. 4",
+      "D. 2"
+    ],
+    "option_images": [],
+    "answer": "A. 1",
+    "solution": "Oxidizing agent is $H^+$ in $HCl$. $H^+ + e^- \\rightarrow 1/2 H_2$. So 1 mole of oxidizing agent ($HCl$) gains 1 mole of electrons.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 110,
+    "chapter": "Redox Reaction",
+    "question": "The oxidation states of iodine in HIO4, H3IO5 and H5IO6 are respectively",
+    "question_latex": "The oxidation states of iodine in $HIO_4$, $H_3IO_5$ and $H_5IO_6$ are respectively",
+    "question_images": [],
+    "options": [
+      "A. +1, +3, +7",
+      "B. +7, +7, +3",
+      "C. +7, +7, +7",
+      "D. +7, +5, +3"
+    ],
+    "option_images": [],
+    "answer": "C. +7, +7, +7",
+    "solution": "All three are periodic acid derivatives where I is +7.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 111,
+    "chapter": "Redox Reaction",
+    "question": "What is oxidation number of S in SO32-? [MHT-CET 2024]",
+    "question_latex": "What is oxidation number of $S$ in $SO_3^{2-}$? [MHT-CET 2024]",
+    "question_images": [],
+    "options": [
+      "A. +6",
+      "B. -2",
+      "C. -3",
+      "D. +4"
+    ],
+    "option_images": [],
+    "answer": "D. +4",
+    "solution": "$x + 3(-2) = -2 \\Rightarrow x = +4$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 112,
+    "chapter": "Redox Reaction",
+    "question": "Identify the reducing agent in following reaction CH4(g) + O2(g) -> CO2(g) + 2H2O(l) [MHT-CET 2020]",
+    "question_latex": "Identify the reducing agent in following reaction $CH_4(g) + O_2(g) \\rightarrow CO_2(g) + 2H_2O(l)$ [MHT-CET 2020]",
+    "question_images": [],
+    "options": [
+      "A. CO2(g)",
+      "B. O2(g)",
+      "C. H2O(l)",
+      "D. CH4(g)"
+    ],
+    "option_images": [],
+    "answer": "D. CH4(g)",
+    "solution": "Carbon in $CH_4$ is oxidized from -4 to +4, thus $CH_4$ is the reducing agent.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 113,
+    "chapter": "Redox Reaction",
+    "question": "What are the respective oxidation states of sulphur atoms numbered 1 to 4 in tetrathionate ion shown below? [2025]",
+    "question_latex": "What are the respective oxidation states of sulphur atoms numbered 1 to 4 in tetrathionate ion shown below? [2025]",
+    "question_images": [
+      "q452_1"
+    ],
+    "options": [
+      "A. +2, -1, -1, +2",
+      "B. 0, +5, +5, 0",
+      "C. +5, 0, 0, +5",
+      "D. +2, 0, 0, +2"
+    ],
+    "option_images": [],
+    "answer": "C. +5, 0, 0, +5",
+    "solution": "The central S-S atoms (2, 3) have an oxidation state of 0. The terminal S atoms (1, 4) bonded to O have oxidation state of +5.",
+    "solution_images": [
+      "q452_solution_1"
+    ],
+    "difficulty": "Hard",
+    "marks": 4
+  }
+]

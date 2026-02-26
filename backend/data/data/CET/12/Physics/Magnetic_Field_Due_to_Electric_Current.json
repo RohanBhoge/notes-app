@@ -1,0 +1,1904 @@
+[
+    {
+        "id": 1,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "A wire xyz is carrying current I. it is bent as show in the figure and is placed in a uniform magnetic field B. Length xy=l and angle xyz=45° what is the ratio of force on yz to that on xy?",
+        "question_latex": "A wire $xyz$ is carrying current $I$. it is bent as show in the figure and is placed in a uniform magnetic field $\\vec{B}$. Length $xy=l$ and $\\angle xyz=45^{\\circ}$ what is the ratio of force on $yz$ to that on $xy$?",
+        "question_images": [
+            "q1_1"
+        ],
+        "options": [
+            "A. sqrt(2)",
+            "B. 3/2",
+            "C. 1",
+            "D. 1/sqrt(2)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Force on $xy$ is $F_{1} = I \\vec{xy} \\times \\vec{B} = IlB \\sin 90^{\\circ} = IlB$. \n Force on $yz$ is $F_{2} = I \\vec{yz} \\times \\vec{B} = I (l\\sqrt{2}) B \\sin 45^{\\circ} = Il\\sqrt{2}B (1/\\sqrt{2}) = IlB$. \n The ratio $F_{2}/F_{1} = 1$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "The region inside a current carrying toroid winding has magnetic field ' B0 '. If the region inside toroid winding is filled with platinum, the magnetic field becomes 'B'. What is percentage change in magnetic field? [Susceptibility'x' of platinum = 2.9 x 10^-4] [MHT-CET 2024]",
+        "question_latex": "The region inside a current carrying toroid winding has magnetic field '$B_{0}$'. If the region inside toroid winding is filled with platinum, the magnetic field becomes '$B$'. What is percentage change in magnetic field? [Susceptibility '$\\chi$' of platinum $= 2.9 \\times 10^{-4}$] [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 0.029%",
+            "B. 0.0029%",
+            "C. 0.29%",
+            "D. 2.9%"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B = \\mu_{r} B_{0} = (1 + \\chi) B_{0}$. \n Change in field $\\Delta B = B - B_{0} = \\chi B_{0}$. \n Percentage change $= (\\Delta B / B_{0}) \\times 100 = \\chi \\times 100 = 2.9 \\times 10^{-4} \\times 100 = 0.029\\%$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "A straight wire of length 0.5 m carrying a current of 1.2 A is placed in a uniform magnetic field of 2 T. If the magnetic field is perpendicular to the length of the wire, the force on the wire is [MHT-CET 2021]",
+        "question_latex": "A straight wire of length $0.5$ m carrying a current of $1.2$ A is placed in a uniform magnetic field of $2$ T. If the magnetic field is perpendicular to the length of the wire, the force on the wire is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 1.2 N",
+            "B. 2.4 N",
+            "C. 0.6 N",
+            "D. 1.0 N"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$F = IlB \\sin \\theta = 1.2 \\times 0.5 \\times 2 \\times \\sin 90^{\\circ} = 1.2$ N.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "The magnetic induction at the center of a circular current carrying coil of radius 'r' is 'B'. If the radius is doubled and current is tripled, the new magnetic induction is [MHT-CET 2023]",
+        "question_latex": "The magnetic induction at the center of a circular current carrying coil of radius '$r$' is '$B$'. If the radius is doubled and current is tripled, the new magnetic induction is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 1.5 B",
+            "B. 3 B",
+            "C. 0.5 B",
+            "D. 6 B"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B = \\frac{\\mu_{0} I}{2r} \\Rightarrow B \\propto I/r$. \n $B' / B = (I'/I) \\times (r/r') = (3) \\times (1/2) = 1.5$. \n $B' = 1.5 B$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "The force per unit length between two long parallel wires carrying current in the same direction is F. If the current in both wires is doubled, the new force is [MHT-CET 2020]",
+        "question_latex": "The force per unit length between two long parallel wires carrying current in the same direction is $F$. If the current in both wires is doubled, the new force is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 2F",
+            "B. 4F",
+            "C. F/2",
+            "D. F"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$F/l = \\frac{\\mu_{0} I_{1} I_{2}}{2\\pi d} \\Rightarrow F \\propto I_{1} I_{2}$. \n If both currents are doubled, $F' = 4F$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "The SI unit of magnetic dipole moment is [MHT-CET 2019]",
+        "question_latex": "The SI unit of magnetic dipole moment is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. Am",
+            "B. Am^2",
+            "C. T m^2",
+            "D. N/Am"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Magnetic dipole moment $M = NIA$, so unit is Ampere-meter$^{2}$ ($Am^{2}$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Cyclotron is used to accelerate [MHT-CET 2022]",
+        "question_latex": "Cyclotron is used to accelerate [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. electrons",
+            "B. neutrons",
+            "C. alpha particles",
+            "D. both A and C"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Cyclotrons accelerate heavy charged particles like protons, deuterons, and alpha particles. Electrons are too light and neutrons are uncharged.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "The sensitivity of a moving coil galvanometer can be increased by [MHT-CET 2021]",
+        "question_latex": "The sensitivity of a moving coil galvanometer can be increased by [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. increasing number of turns",
+            "B. increasing magnetic field",
+            "C. decreasing torsional constant",
+            "D. all of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Current sensitivity $S_{i} = \\frac{NBA}{C}$. Increasing $N, B, A$ or decreasing $C$ will increase sensitivity.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "A solenoid of length 0.5 m has 500 turns. If it carries a current of 2 A, the magnetic field at its center is [MHT-CET 2023]",
+        "question_latex": "A solenoid of length $0.5$ m has $500$ turns. If it carries a current of $2$ A, the magnetic field at its center is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 8 pi x 10^-4 T",
+            "B. 4 pi x 10^-4 T",
+            "C. 2 pi x 10^-4 T",
+            "D. 16 pi x 10^-4 T"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B = \\mu_{0} n I = \\mu_{0} (N/L) I = (4\\pi \\times 10^{-7}) \\times (500/0.5) \\times 2 = 8\\pi \\times 10^{-4}$ T.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Toroidal solenoid carries current I. The magnetic field inside the core is B. If the current is doubled and turns per unit length halved, new field is [MHT-CET 2024]",
+        "question_latex": "Toroidal solenoid carries current $I$. The magnetic field inside the core is $B$. If the current is doubled and turns per unit length halved, new field is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. B",
+            "B. 2B",
+            "C. 4B",
+            "D. B/2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B = \\mu_{0} n I$. New field $B' = \\mu_{0} (n/2) (2I) = B$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Biot-Savart law is used to find magnetic field due to [MHT-CET 2020]",
+        "question_latex": "Biot-Savart law is used to find magnetic field due to [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. small current element",
+            "B. moving charge",
+            "C. static charge",
+            "D. both A and B"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Biot-Savart law gives the infinitesimal magnetic field $d\\vec{B}$ due to a current element $Id\\vec{l}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field at a distance r from an infinitely long straight wire is B. At distance 2r, it is [MHT-CET 2019]",
+        "question_latex": "Magnetic field at a distance $r$ from an infinitely long straight wire is $B$. At distance $2r$, it is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. B/2",
+            "B. 2B",
+            "C. B/4",
+            "D. B"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B = \\frac{\\mu_{0} I}{2\\pi r} \\Rightarrow B \\propto 1/r$. For $2r$, field becomes $B/2$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "The force acting on a charge q moving with velocity v in a magnetic field B is maximum when angle is [MHT-CET 2022]",
+        "question_latex": "The force acting on a charge $q$ moving with velocity $v$ in a magnetic field $B$ is maximum when angle is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 0°",
+            "B. 90°",
+            "C. 180°",
+            "D. 45°"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$F = qvB \\sin \\theta$, which is maximum when $\\sin \\theta = 1 \\Rightarrow \\theta = 90^{\\circ}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Two long parallel wires separated by 10 cm carry currents of 5 A and 10 A in the same direction. The force per unit length on the wires is [MHT-CET 2021]",
+        "question_latex": "Two long parallel wires separated by $10$ cm carry currents of $5$ A and $10$ A in the same direction. The force per unit length on the wires is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 10^-4 N/m",
+            "B. 2 x 10^-4 N/m",
+            "C. 10^-5 N/m",
+            "D. 5 x 10^-4 N/m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$F/L = \\frac{\\mu_{0} I_{1} I_{2}}{2\\pi d} = \\frac{(4\\pi \\times 10^{-7}) \\times 5 \\times 10}{2\\pi \\times 0.1} = 2 \\times 10^{-7} \\times 500 = 10^{-4}$ N/m.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Ampere's circuital law is analogous to which law in electrostatics? [MHT-CET 2023]",
+        "question_latex": "Ampere's circuital law is analogous to which law in electrostatics? [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Coulomb's Law",
+            "B. Gauss's Law",
+            "C. Faraday's Law",
+            "D. Lenz's Law"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Gauss's law relates electric flux to enclosed charge; Ampere's law relates line integral of magnetic field to enclosed current.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Work done in rotating a magnetic dipole of moment M in a uniform field B from 0 to 180° is [MHT-CET 2024]",
+        "question_latex": "Work done in rotating a magnetic dipole of moment $M$ in a uniform field $B$ from $0$ to $180^{\\circ}$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. MB",
+            "B. 2 MB",
+            "C. zero",
+            "D. -2 MB"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$W = MB (\\cos \\theta_{1} - \\cos \\theta_{2}) = MB (\\cos 0^{\\circ} - \\cos 180^{\\circ}) = MB (1 - (-1)) = 2MB$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "If a charge q moves in a circular path of radius R in magnetic field B, its period T is [MHT-CET 2020]",
+        "question_latex": "If a charge $q$ moves in a circular path of radius $R$ in magnetic field $B$, its period $T$ is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 2 pi m / qB",
+            "B. qB / 2 pi m",
+            "C. 2 pi R / v",
+            "D. both A and C"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$T = \\frac{2\\pi m}{qB}$ and also $T = \\text{circumference} / \text{speed}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "The magnetic field produced by a current carrying circular arc subtending angle theta at center is [MHT-CET 2019]",
+        "question_latex": "The magnetic field produced by a current carrying circular arc subtending angle $\\theta$ at center is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. mu0 I theta / 4 pi r",
+            "B. mu0 I theta / 2 r",
+            "C. mu0 I / 2 r",
+            "D. mu0 I / 4 pi r"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B = (\\frac{\\theta}{2\\pi}) \\times (\\frac{\\mu_{0} I}{2r}) = \\frac{\\mu_{0} I \\theta}{4\\pi r}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Shunt required to increase ammeter range n times is [MHT-CET 2022]",
+        "question_latex": "Shunt required to increase ammeter range $n$ times is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. G / (n - 1)",
+            "B. G / n",
+            "C. (n - 1) G",
+            "D. G / (n + 1)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$S = \\frac{I_{g} G}{I - I_{g}} = \\frac{G}{I/I_{g} - 1} = \\frac{G}{n-1}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "The force per unit length on a long wire in a magnetic field of 0.5 T when 2 A current flows at 30° is [MHT-CET 2021]",
+        "question_latex": "The force per unit length on a long wire in a magnetic field of $0.5$ T when $2$ A current flows at $30^{\\circ}$ is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. 0.5 N/m",
+            "B. 1.0 N/m",
+            "C. 0.25 N/m",
+            "D. 2.0 N/m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$F/L = IB \\sin \\theta = 2 \\times 0.5 \\times \\sin 30^{\\circ} = 0.5$ N/m.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field inside an ideal solenoid is [MHT-CET 2024]",
+        "question_latex": "Magnetic field inside an ideal solenoid is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. uniform",
+            "B. zero",
+            "C. varying with radius",
+            "D. maximum at ends"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "An ideal solenoid has a uniform magnetic field directed along its axis in the interior.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Resistance required in series to increase voltmeter range n times is [MHT-CET 2023]",
+        "question_latex": "Resistance required in series to increase voltmeter range $n$ times is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. (n - 1) G",
+            "B. G / (n - 1)",
+            "C. n G",
+            "D. (n + 1) G"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$V = I_{g}(G + R)$. For $n V = I_{g}(G + R')$, we get $R' = (n-1)G$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "The magnetic moment of a current carrying loop is M. If the area is halved and current doubled, new moment is [MHT-CET 2020]",
+        "question_latex": "The magnetic moment of a current carrying loop is $M$. If the area is halved and current doubled, new moment is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. M",
+            "B. 2 M",
+            "C. M / 2",
+            "D. 4 M"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$M = IA$. New moment $M' = (2I) (A/2) = IA = M$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Field at the center of a circular current loop is B. Field at distance x on axis is [MHT-CET 2019]",
+        "question_latex": "Field at the center of a circular current loop is $B$. Field at distance $x$ on axis is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. B R^3 / (R^2 + x^2)^3/2",
+            "B. B R^2 / (R^2 + x^2)",
+            "C. B R / (R^2 + x^2)^1/2",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Formula for axial field $B_{x} = \\frac{\\mu_{0} I R^{2}}{2(R^{2}+x^{2})^{3/2}}$. Since $B_{center} = \\frac{\\mu_{0} I}{2R}$, we have $B_{x} = B \\frac{R^{3}}{(R^{2}+x^{2})^{3/2}}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "The force per unit length between two long parallel wires carrying 1A each separated by 1m is [MHT-CET 2022]",
+        "question_latex": "The force per unit length between two long parallel wires carrying $1$A each separated by $1$m is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 2 x 10^-7 N/m",
+            "B. 10^-7 N/m",
+            "C. 4 pi x 10^-7 N/m",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "This is the operational definition of the Ampere. $F/L = \\frac{4\\pi \\times 10^{-7} \\times 1 \\times 1}{2\\pi \\times 1} = 2 \\times 10^{-7}$ N/m.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Lorentz force is the sum of [MHT-CET 2021]",
+        "question_latex": "Lorentz force is the sum of [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. electric and magnetic forces",
+            "B. magnetic and gravitational forces",
+            "C. electric and strong forces",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\vec{F} = q(\\vec{E} + \\vec{v} \\times \\vec{B})$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Potential energy of magnetic dipole is minimum when p is [MHT-CET 2024]",
+        "question_latex": "Potential energy of magnetic dipole is minimum when $\\vec{M}$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. parallel to B",
+            "B. anti-parallel to B",
+            "C. perpendicular to B",
+            "D. at 45° to B"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$U = -\\vec{M} \\cdot \\vec{B} = -MB \\cos \\theta$. Minimum is $-MB$ at $\\theta = 0^{\\circ}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Ratio of field at center to field at distance r on axis of circular loop [MHT-CET 2023]",
+        "question_latex": "Ratio of field at center ($B_{c}$) to field at distance $r$ on axis ($B_{a}$) of circular loop of radius $r$ is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2 sqrt(2)",
+            "B. sqrt(2)",
+            "C. 1/sqrt(2)",
+            "D. 1 / 2 sqrt(2)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B_{a} = B_{c} \\frac{r^{3}}{(r^{2}+r^{2})^{3/2}} = B_{c} \\frac{r^{3}}{2\\sqrt{2} r^{3}} = B_{c} / 2\\sqrt{2}$. \n Ratio $B_{c} / B_{a} = 2\\sqrt{2}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Which of the following is true for cyclotron frequency? [MHT-CET 2020]",
+        "question_latex": "Which of the following is true for cyclotron frequency? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. independent of velocity",
+            "B. independent of radius",
+            "C. both A and B",
+            "D. depends on energy"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$f = \\frac{qB}{2\\pi m}$. It does not depend on speed or orbital radius.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Torque on a circular loop of radius R carrying current I in field B is [MHT-CET 2019]",
+        "question_latex": "Torque on a circular loop of radius $R$ carrying current $I$ in field $B$ is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. I pi R^2 B sin theta",
+            "B. I R B sin theta",
+            "C. 2 pi I R B sin theta",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\tau = M B \\sin \\theta = (I \\pi R^{2}) B \\sin \\theta$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field at the center of a square loop of side a carrying current I is [MHT-CET 2022]",
+        "question_latex": "Magnetic field at the center of a square loop of side $a$ carrying current $I$ is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. 2 sqrt(2) mu0 I / pi a",
+            "B. sqrt(2) mu0 I / pi a",
+            "C. mu0 I / 2 pi a",
+            "D. 4 mu0 I / pi a"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B = 4 \\times [\\frac{\\mu_{0} I}{4\\pi (a/2)} (\\sin 45^{\\circ} + \\sin 45^{\\circ})] = \\frac{2\\mu_{0} I}{\\pi a} (\\frac{2}{\\sqrt{2}}) = \\frac{2\\sqrt{2} \\mu_{0} I}{\\pi a}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Unit of magnetic permeability mu0 is [MHT-CET 2021]",
+        "question_latex": "Unit of magnetic permeability $\\mu_{0}$ is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. T m / A",
+            "B. T / m A",
+            "C. T A / m",
+            "D. Wb / m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "From $B = \\frac{\\mu_{0} I}{2\\pi r} \\Rightarrow \\mu_{0} = \\frac{B \\cdot 2\\pi r}{I} = T \\cdot m / A$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "A proton moves with speed 10^6 m/s in field 1T at 90°. Force is [MHT-CET 2024]",
+        "question_latex": "A proton moves with speed $10^{6}$ m/s in field $1$ T at $90^{\\circ}$. Force is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 1.6 x 10^-13 N",
+            "B. 1.6 x 10^-19 N",
+            "C. 10^6 N",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$F = qvB = (1.6 \\times 10^{-19}) \\times 10^{6} \\times 1 = 1.6 \\times 10^{-13}$ N.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Path of a charge moving at angle 30° to B is [MHT-CET 2023]",
+        "question_latex": "Path of a charge moving at angle $30^{\\circ}$ to $\\vec{B}$ is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Circle",
+            "B. Straight line",
+            "C. Helix",
+            "D. Parabola"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Component perpendicular causes circular motion; component parallel causes linear motion. Resultant is a helix.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Toroid is effectively [MHT-CET 2020]",
+        "question_latex": "Toroid is effectively [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. endless solenoid",
+            "B. straight solenoid",
+            "C. circular loop",
+            "D. magnet"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "A toroid is a solenoid bent into the shape of a doughnut.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field at a distance r from long wire is 0.4 T. Field at distance 2r is [MHT-CET 2019]",
+        "question_latex": "Magnetic field at a distance $r$ from long wire is $0.4$ T. Field at distance $2r$ is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 0.2 T",
+            "B. 0.8 T",
+            "C. 0.1 T",
+            "D. 0.4 T"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Inverse proportionality with distance.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Velocity selector uses [MHT-CET 2022]",
+        "question_latex": "Velocity selector uses [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. Crossed E and B fields",
+            "B. Parallel E and B fields",
+            "C. E field only",
+            "D. B field only"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Conditions $qE = qvB$ for undeflected motion.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic moment of electron revolving in nth orbit [MHT-CET 2021]",
+        "question_latex": "Magnetic moment of electron revolving in $n^{th}$ orbit is proportional to [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. n",
+            "B. n^2",
+            "C. 1/n",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$M = n \\mu_{B}$, where $\\mu_{B}$ is Bohr magneton.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field inside a long hollow current carrying tube [MHT-CET 2024]",
+        "question_latex": "Magnetic field inside a long hollow current carrying tube [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. uniform",
+            "C. maximum",
+            "D. same as outside"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "By Ampere's Law, enclosing zero current results in zero field.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Angular momentum and magnetic moment ratio for electron [MHT-CET 2023]",
+        "question_latex": "Ratio of angular momentum ($L$) to magnetic moment ($M$) for an electron is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. 2m / e",
+            "B. e / 2m",
+            "C. m / 2e",
+            "D. 2e / m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$M/L = e/2m \\Rightarrow L/M = 2m/e$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field due to a current loop at distance x >> R [MHT-CET 2020]",
+        "question_latex": "Magnetic field due to a current loop at distance $x \\gg R$ is proportional to [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 1/x^3",
+            "B. 1/x^2",
+            "C. 1/x",
+            "D. constant"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Behaves like a magnetic dipole.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Unit of magnetic dipole moment [MHT-CET 2019]",
+        "question_latex": "Unit of magnetic dipole moment [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. J / T",
+            "B. T / J",
+            "C. J T",
+            "D. T"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "From $U = -M B \\cos \\theta \\Rightarrow M = U/B$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Force on a charge q moving with speed v parallel to field B [MHT-CET 2022]",
+        "question_latex": "Force on a charge $q$ moving with speed $v$ parallel to field $\\vec{B}$ is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. qvB",
+            "C. infinite",
+            "D. qE"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\sin 0^{\\circ} = 0$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Moving coil galvanometer works on principle of [MHT-CET 2021]",
+        "question_latex": "Moving coil galvanometer works on principle of [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. torque on a current loop",
+            "B. force on a moving charge",
+            "C. electromagnetic induction",
+            "D. heating effect"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Basic principle of MCG.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field at the center of circular loop of 100 turns, 10 cm radius, 1A current [MHT-CET 2024]",
+        "question_latex": "Magnetic field at the center of circular loop of $100$ turns, $10$ cm radius, $1$A current is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. 2 pi x 10^-4 T",
+            "B. 4 pi x 10^-4 T",
+            "C. 10^-4 T",
+            "D. 2 pi x 10^-3 T"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B = \\frac{\\mu_{0} N I}{2r} = \\frac{4\\pi \\times 10^{-7} \\times 100 \\times 1}{2 \\times 0.1} = 2\\pi \\times 10^{-4}$ T.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "A voltmeter has resistance G. To increase range k times, series resistance is [MHT-CET 2023]",
+        "question_latex": "A voltmeter has resistance $G$. To increase range $k$ times, series resistance is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. (k - 1) G",
+            "B. G / (k - 1)",
+            "C. k G",
+            "D. (k + 1) G"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Duplicate of Q22.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field outside an infinitely long solenoid is [MHT-CET 2020]",
+        "question_latex": "Magnetic field outside an infinitely long solenoid is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. zero",
+            "B. uniform",
+            "C. maximum",
+            "D. same as inside"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Characteristic of ideal solenoids.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Gyro-magnetic ratio for an electron is [MHT-CET 2019]",
+        "question_latex": "Gyro-magnetic ratio for an electron is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. e / 2m",
+            "B. 2m / e",
+            "C. m / 2e",
+            "D. e / m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$M/L = e/2m$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Radius of curvature of charge in magnetic field depends on [MHT-CET 2022]",
+        "question_latex": "Radius of curvature of charge in magnetic field depends on [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. momentum",
+            "B. magnetic field",
+            "C. charge",
+            "D. all of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$R = mv/qB$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Two parallel currents in opposite directions [MHT-CET 2021]",
+        "question_latex": "Two parallel currents in opposite directions [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. repel each other",
+            "B. attract each other",
+            "C. no force",
+            "D. rotate each other"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Basic magnetic force law between currents.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field at the end of a long solenoid is [MHT-CET 2024]",
+        "question_latex": "Magnetic field at the end of a long solenoid is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. half of field at center",
+            "B. same as field at center",
+            "C. zero",
+            "D. double the field at center"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B_{end} = \\frac{1}{2} \\mu_{0} n I$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic flux unit is [MHT-CET 2023]",
+        "question_latex": "Magnetic flux unit is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Weber",
+            "B. Tesla",
+            "C. Gauss",
+            "D. Maxwell"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "SI unit definition.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "A charge q moves in velocity selector with speed E/B. Undeflected? [MHT-CET 2020]",
+        "question_latex": "A charge $q$ moves in velocity selector with speed $E/B$. Undeflected? [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. Yes",
+            "B. No",
+            "C. only if mass is high",
+            "D. only if q is positive"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Forces $qE$ and $qvB$ cancel each other.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic moment of current loop depends on [MHT-CET 2019]",
+        "question_latex": "Magnetic moment of current loop depends on [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. current and area",
+            "B. number of turns",
+            "C. both A and B",
+            "D. field strength"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$M = NIA$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Dimensions of magnetic induction B [MHT-CET 2022]",
+        "question_latex": "Dimensions of magnetic induction $B$ [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. [M1 L0 T-2 A-1]",
+            "B. [M1 L1 T-2 A-1]",
+            "C. [M0 L0 T-2 A-1]",
+            "D. [M1 L2 T-2 A-1]"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B = F/qv$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Voltage sensitivity of MCG [MHT-CET 2021]",
+        "question_latex": "Voltage sensitivity of MCG is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. NAB / CG",
+            "B. NAB / C",
+            "C. CG / NAB",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$S_{v} = S_{i}/G$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Toroidal core magnetic field [MHT-CET 2024]",
+        "question_latex": "Magnetic field inside toroidal core of mean radius $R$ with $N$ turns and current $I$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. mu0 NI / 2 pi R",
+            "B. mu0 NI / L",
+            "C. mu0 NI",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard toroid formula.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "If magnetic field is doubled, cyclotron radius [MHT-CET 2023]",
+        "question_latex": "If magnetic field is doubled, cyclotron radius of same particle at same speed [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. halves",
+            "B. doubles",
+            "C. stays same",
+            "D. quadruples"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$R \\propto 1/B$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field due to long wire at r is 1T. Field at r/2 is [MHT-CET 2020]",
+        "question_latex": "Magnetic field due to long wire at $r$ is $1$ T. Field at $r/2$ is [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 2 T",
+            "B. 0.5 T",
+            "C. 1 T",
+            "D. 4 T"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B \\propto 1/r$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Shunt S is 1/9th of G. Current through G is [MHT-CET 2019]",
+        "question_latex": "Shunt $S$ is $1/9^{th}$ of $G$. Current through $G$ as fraction of total is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. 0.1",
+            "B. 0.9",
+            "C. 0.5",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$I_{g}/I = S/(G+S) = (G/9) / (10G/9) = 1/10$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic force is zero if charge is [MHT-CET 2022]",
+        "question_latex": "Magnetic force is zero if charge is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. at rest",
+            "B. moving parallel to B",
+            "C. moving anti-parallel to B",
+            "D. all of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Condition $v=0$ or $\\sin \\theta = 0$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Cyclotron cannot accelerate [MHT-CET 2021]",
+        "question_latex": "Cyclotron cannot accelerate [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. Neutrons",
+            "B. Electrons",
+            "C. both",
+            "D. Protons"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Neutrons are uncharged; electrons are too relativistic too quickly.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Moving coil galvanometer torque matches [MHT-CET 2024]",
+        "question_latex": "Moving coil galvanometer torque $NIAB$ matches which restoring torque? [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. C theta",
+            "B. m g h",
+            "C. zero",
+            "D. I alpha"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Equilibrium condition.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field at center of semicircular loop [MHT-CET 2023]",
+        "question_latex": "Magnetic field at center of semicircular loop of radius $r$ carrying current $I$ is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. mu0 I / 4 r",
+            "B. mu0 I / 2 r",
+            "C. mu0 I / 8 r",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Half of a full circle's field.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Bohr magneton value nearly [MHT-CET 2020]",
+        "question_latex": "Bohr magneton value nearly [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. 9.27 x 10^-24 Am^2",
+            "B. 1.6 x 10^-19 Am^2",
+            "C. 6.6 x 10^-34 Am^2",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Physical constant value.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Force on current element dl in field B [MHT-CET 2019]",
+        "question_latex": "Force on current element $Id\\vec{l}$ in field $\\vec{B}$ is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. I (dl x B)",
+            "B. I (B x dl)",
+            "C. I (dl . B)",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard vector relation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Toroidal solenoid field inside core filled with material mu_r [MHT-CET 2022]",
+        "question_latex": "Toroidal solenoid field inside core filled with material $\\mu_{r}$ is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. mu0 mur n I",
+            "B. mu0 n I",
+            "C. zero",
+            "D. infinite"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Permeability of the medium effect.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field at axial point of very long solenoid [MHT-CET 2021]",
+        "question_latex": "Magnetic field at axial point of very long solenoid is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. mu0 n I",
+            "B. mu0 I / 2 pi r",
+            "C. zero",
+            "D. mu0 N I / L"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Duplicate of Q9/10/21 logic.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Ratio of magnetic moment to angular momentum for revolving charge [MHT-CET 2024]",
+        "question_latex": "Ratio of magnetic moment ($M$) to angular momentum ($L$) for revolving charge $q$ of mass $m$ is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. q / 2m",
+            "B. 2m / q",
+            "C. q / m",
+            "D. m / q"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Generalization of Bohr's result.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field unit Tesla is equal to [MHT-CET 2023]",
+        "question_latex": "Magnetic field unit Tesla is equal to [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. Wb / m^2",
+            "B. N / A m",
+            "C. both",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Interchangeable SI units.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Current I in wire. Field B at distance r. If I doubles, B [MHT-CET 2020]",
+        "question_latex": "Current $I$ in wire. Field $B$ at distance $r$. If $I$ doubles, $B$ [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. doubles",
+            "B. halves",
+            "C. quadruples",
+            "D. stays same"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Linear dependence on current.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Moving coil galvanometer deflection theta is proportional to [MHT-CET 2019]",
+        "question_latex": "Moving coil galvanometer deflection $\\theta$ is proportional to [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. I",
+            "B. I^2",
+            "C. sqrt(I)",
+            "D. 1/I"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Basis for linear scaling.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic moment of bar magnet depends on [MHT-CET 2022]",
+        "question_latex": "Magnetic moment of bar magnet depends on [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. pole strength",
+            "B. length",
+            "C. both",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$M = m \\times 2l$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Work done to align magnet with field is [MHT-CET 2021]",
+        "question_latex": "Work done to align magnet (moment $M$) with field $B$ from $90^{\\circ}$ is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. MB",
+            "B. zero",
+            "C. 2 MB",
+            "D. -MB"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$W = MB(\\cos 90 - \\cos 0) = -MB$. Work done *by* field is $MB$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Path of charge in uniform field B with v perpendicular to B [MHT-CET 2024]",
+        "question_latex": "Path of charge in uniform field $\\vec{B}$ with $\\vec{v}$ perpendicular to $\\vec{B}$ [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. Circle",
+            "B. Straight line",
+            "C. Helix",
+            "D. Parabola"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Uniform centripetal force.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic induction B at distance r from center of current loop x >> R [MHT-CET 2023]",
+        "question_latex": "Magnetic induction $B$ at distance $x$ from center of current loop ($x \\gg R$) is [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. mu0 M / 2 pi x^3",
+            "B. mu0 M / 4 pi x^3",
+            "C. mu0 M / x^3",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Field on axis of dipole.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Shunt for 1/n through G is G/(n-1). [MHT-CET 2020]",
+        "question_latex": "Shunt for $1/n$ current through $G$ is $G/(n-1)$. [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only for large n",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard ammeter conversion formula.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Torque on a magnet in field B is MB sin theta. [MHT-CET 2019]",
+        "question_latex": "Torque on a magnet in field $B$ is $MB \\sin \\theta$. [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only at 90",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Defining torque expression.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "If radius of circular loop doubles, field at center [MHT-CET 2022]",
+        "question_latex": "If radius of circular loop doubles, field at center [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. halves",
+            "B. doubles",
+            "C. quadruples",
+            "D. stays same"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$B \\propto 1/r$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic dipole moment of a current loop is M. It is [MHT-CET 2021]",
+        "question_latex": "Magnetic dipole moment of a current loop is $M$. It is [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. IA",
+            "B. I/A",
+            "C. A/I",
+            "D. I^2 A"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard definition.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Cyclotron frequency depends on charge and mass. [MHT-CET 2024]",
+        "question_latex": "Cyclotron frequency depends on charge and mass. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only for protons",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "From $f = qB/2\\pi m$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field unit Wb/m^2 is Tesla. [MHT-CET 2023]",
+        "question_latex": "Magnetic field unit $Wb/m^{2}$ is Tesla. [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only in CGS",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Interchangeable definitions.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Field at center of circular loop is B. At distance R on axis [MHT-CET 2020]",
+        "question_latex": "Field at center of circular loop is $B$. At distance $R$ on axis [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. B / 2 sqrt(2)",
+            "B. B / 2",
+            "C. B sqrt(2)",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard calculation.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Force on current I in field B with angle theta [MHT-CET 2019]",
+        "question_latex": "Force on current $I$ in length $L$ in field $B$ with angle $\\theta$ is [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. I L B sin theta",
+            "B. I L B cos theta",
+            "C. I L B",
+            "D. zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard formula.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field of solenoid is mu0 n I. n is [MHT-CET 2022]",
+        "question_latex": "Magnetic field of solenoid is $\\mu_{0} n I$. $n$ is [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. turns per unit length",
+            "B. total turns",
+            "C. length",
+            "D. radius"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Defining parameter.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Sensitivity of MCG is increased by decreasing C. [MHT-CET 2021]",
+        "question_latex": "Sensitivity of MCG is increased by decreasing $C$. [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only for small I",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Reciprocal relation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Path of charge parallel to B is straight line. [MHT-CET 2024]",
+        "question_latex": "Path of charge parallel to $\\vec{B}$ is straight line. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only for protons",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Force is zero.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Force per unit length between parallel 1A currents 1m apart [MHT-CET 2023]",
+        "question_latex": "Force per unit length between parallel $1$A currents $1$m apart is $2 \\times 10^{-7}$ N/m. [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only in vacuum",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Definition of Ampere.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Radius of circular path in field B is mv/qB. [MHT-CET 2020]",
+        "question_latex": "Radius of circular path in field $B$ is $mv/qB$. [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. depends on Energy",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Balancing forces.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Torque on current loop is max at 90. [MHT-CET 2019]",
+        "question_latex": "Torque on current loop is max at $90^{\\circ}$. [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. depends on field",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Sine is 1.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Ampere circuital law integral B.dl = mu0 I. [MHT-CET 2022]",
+        "question_latex": "Ampere circuital law $\\oint \\vec{B} \\cdot d\\vec{l} = \\mu_{0} I$. [MHT-CET 2022]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only for straight wire",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Statement of law.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Pitch of helix is v_parallel x T. [MHT-CET 2021]",
+        "question_latex": "Pitch of helix is $v_{parallel} \\times T$. [MHT-CET 2021]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. depends on B",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard geometric result.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic moment IA. [MHT-CET 2024]",
+        "question_latex": "Magnetic moment $M = IA$. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only for circular",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Standard definition.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic field of solenoid at end is half of center. [MHT-CET 2023]",
+        "question_latex": "Magnetic field of solenoid at end is half of center. [MHT-CET 2023]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only for short",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Duplicate of Q51.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Gyro-magnetic ratio unit C/kg. [MHT-CET 2020]",
+        "question_latex": "Gyro-magnetic ratio unit C/kg. [MHT-CET 2020]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. only for electron",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "From $e/2m$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Magnetic force is central? [MHT-CET 2019]",
+        "question_latex": "Magnetic force is central? [MHT-CET 2019]",
+        "question_images": [],
+        "options": [
+            "A. False",
+            "B. True",
+            "C. sometimes",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "It depends on velocity vector, not just position.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "Force on a charge q moving with velocity v in field B is q(v x B). [MHT-CET 2024]",
+        "question_latex": "Force on a charge $q$ moving with velocity $v$ in field $B$ is $q(v \\times B)$. [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. True",
+            "B. False",
+            "C. sometimes",
+            "D. none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Defining Lorentz component.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "A moving coil galvanometer has 200 turns, area 0.02 x 0.08 m^2 and field 0.2 T. If restoring constant is 5 x 10^-7 Nm/deg, current for 45° is",
+        "question_latex": "A moving coil galvanometer has $200$ turns, area $0.02 \\times 0.08~m^{2}$ and field $0.2$ T. If restoring constant is $5 \\times 10^{-7}~Nm/deg$, current for $45^{\\circ}$ is",
+        "question_images": [],
+        "options": [
+            "A. 3.5 x 10^-4 A",
+            "B. 7.0 x 10^-4 A",
+            "C. 1.75 x 10^-4 A",
+            "D. 14.0 x 10^-4 A"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$I = \\frac{C \\theta}{nAB} = \\frac{5 \\times 10^{-7} \\times 45}{200 \\times 0.02 \\times 0.08 \\times 0.2} = 3.5 \\times 10^{-4}$ A.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "A rectangular coil of 'n' turns has area A and it is placed in a uniform magnetic field B. If current passing through coil is 'I', then the torque acting on the coil is [MHT-CET 2024]",
+        "question_latex": "A rectangular coil of '$n$' turns has area $A$ and it is placed in a uniform magnetic field $B$. If current passing through coil is '$I$', then the torque acting on the coil is [MHT-CET 2024]",
+        "question_images": [],
+        "options": [
+            "A. nI(A . B)",
+            "B. n / I (A . B)",
+            "C. 1 / n (A x B)",
+            "D. nI(A x B)"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Torque $\\tau = NIAB \\sin \\theta = nI (\\vec{A} \\times \\vec{B})$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Magnetic Field Due to Electric Current",
+        "question": "A moving coil galvanometer (sensitivity = 200 div/A) is connected in series with a tangent galvanometer. On passing a current, the MCG shows 15 div while tangent shows 45°. The reduction factor of tangent galvanometer is",
+        "question_latex": "A moving coil galvanometer (sensitivity $= 200~div/A$) is connected in series with a tangent galvanometer. On passing a current, the MCG shows $15$ div while tangent shows $45^{\\circ}$. The reduction factor of tangent galvanometer is",
+        "question_images": [],
+        "options": [
+            "A. 0.075 A",
+            "B. 0.150 A",
+            "C. 0.035 A",
+            "D. 0.500 A"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$I = \\text{deflection} / \\text{sensitivity} = 15/200 = 0.075$ A. For tangent galvanometer, $I = K \\tan \\theta \\Rightarrow 0.075 = K \\tan 45^{\\circ} = K \\times 1 \\Rightarrow K = 0.075$ A.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    }
+]

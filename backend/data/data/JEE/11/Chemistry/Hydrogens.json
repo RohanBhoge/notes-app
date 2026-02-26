@@ -1,0 +1,1905 @@
+[
+  {
+    "id": 1,
+    "chapter": "Hydrogen",
+    "question": "Which of the following forms of hydrogen emits low energy particles? (Feb 2021)",
+    "question_latex": "Which of the following forms of hydrogen emits low energy particles? (Feb 2021)",
+    "question_images": [],
+    "options": [
+      "A. Protium, ${}_{1}^{1}H$",
+      "B. Tritium, H",
+      "C. Deuterium, ${}_{1}^{2}H$",
+      "D. Proton, $H^{+}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Tritium is the radioactive isotope of hydrogen which emits low energy $\\beta^{-}$ particles.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Hydrogen",
+    "question": "H2O2 is manufactured these days by",
+    "question_latex": "$H_{2}O_{2}$ is manufactured these days by",
+    "question_images": [],
+    "options": [
+      "A. The action of $H_{2}SO_{4}$ on $BaO_{2}$ ",
+      "B. The action of $H_{2}SO_{4}$ on $Na_{2}O_{2}$ ",
+      "C. Electrolysis of 50% $H_{2}SO_{4}$ ",
+      "D. Burning hydrogen in excess oxygen"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$H_{2}O_{2}$ is prepared industrially by the electrolysis of 50% $H_{2}SO_{4}$ solution.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Hydrogen",
+    "question": "100 mL of a water sample contains 0.81 g of calcium bicarbonate and 0.73 g of magnesium bicarbonate. The hardness of this water sample expressed in terms of equivalents of CaCO3 is (Molar mass of calcium bicarbonate is 162 g mol-1 and magnesium bicarbonate is 146 g mol-1)",
+    "question_latex": "100 mL of a water sample contains 0.81 g of calcium bicarbonate and 0.73 g of magnesium bicarbonate. The hardness of this water sample expressed in terms of equivalents of $CaCO_{3}$ is (Molar mass of calcium bicarbonate is 162 g mol$^{-1}$ and magnesium bicarbonate is 146 g mol$^{-1}$)",
+    "question_images": [],
+    "options": [
+      "A. 10,000ppm",
+      "B. 100ppm",
+      "C. 1,000ppm",
+      "D. 5,000 ppm"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "ppm of $CaCO_{3} = \\frac{(\\frac{0.73}{146} + \\frac{0.81}{162}) \\times 100}{100} \\times 10^{6} = 10^{4}$ ppm.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Hydrogen",
+    "question": "H2 can be obtained from (April 2019)",
+    "question_latex": "$H_{2}$ can be obtained from (April 2019)",
+    "question_images": [],
+    "options": [
+      "A. Water gas $(CO+H_{2})$ by liquefaction of CO at low temperature under pressure",
+      "B. Water gas by oxidation of CO into $CO_{2}$ (by steam) which can be easily removed by dissolving in $H_{2}O$",
+      "C. Electrolysis of water",
+      "D. All the above methods"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$H_{2}$ is obtained via all mentioned industrial methods: liquefaction of CO from water gas, Bosch process (oxidation of CO to $CO_{2}$), and electrolysis.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 5,
+    "chapter": "Hydrogen",
+    "question": "The temporary hardness of a water sample is due to compound X. Boiling this sample converts X to compound Y. X and Y respectively, are (April 2019)",
+    "question_latex": "The temporary hardness of a water sample is due to compound X. Boiling this sample converts X to compound Y. X and Y respectively, are (April 2019)",
+    "question_images": [],
+    "options": [
+      "A. $Ca(HCO_{3})_{2}$ and $Ca(OH)_{2}$ ",
+      "B. $Mg(HCO_{3})_{2}$ and $MgCO_{3}$ ",
+      "C. $Mg(HCO_{3})_{2}$ and $Mg(OH)_{2}$ ",
+      "D. $Ca(HCO_{3})_{2}$ and CaO"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Temporary hardness is due to $Mg(HCO_{3})_{2}$. On boiling: $Mg(HCO_{3})_{2} \\rightarrow Mg(OH)_{2} \\downarrow + 2CO_{2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 6,
+    "chapter": "Hydrogen",
+    "question": "Choose the correct statement(s)",
+    "question_latex": "Choose the correct statement(s)",
+    "question_images": [],
+    "options": [
+      "A. $H_{2}$ is more rapidly adsorbed on to surface than $D_{2}$ ",
+      "B. $H_{2}$ reacts over 13 times faster with $Cl_{2}$ than $D_{2}$ because $H_{2}$ has a lower energy of activation",
+      "C. Both (a) and (b) are true",
+      "D. None of the above is true"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$H_{2}$ is lighter and has lower activation energy for certain reactions compared to $D_{2}$, leading to faster reaction rates and adsorption.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 7,
+    "chapter": "Hydrogen",
+    "question": "Ag2O + H2O2 -> 2Ag + H2O + O2. In an above reaction H2O2 acts as/an",
+    "question_latex": "$Ag_{2}O + H_{2}O_{2} \\rightarrow 2Ag + H_{2}O + O_{2}$. In an above reaction $H_{2}O_{2}$ acts as/an",
+    "question_images": [],
+    "options": [
+      "A. Oxidizing agent",
+      "B. Reducing agent",
+      "C. Bleaching agent",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "In this reaction, silver is reduced from +1 to 0 state, while oxygen in $H_{2}O_{2}$ is oxidized from -1 to 0 ($O_{2}$). Thus, $H_{2}O_{2}$ is a reducing agent.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 8,
+    "chapter": "Hydrogen",
+    "question": "Which one the following removes temporary hardness of water?",
+    "question_latex": "Which one the following removes temporary hardness of water?",
+    "question_images": [],
+    "options": [
+      "A. Slaked lime",
+      "B. Plaster of Paris",
+      "C. Epsom",
+      "D. Hydrolith"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "In Clark's process, slaked lime is used to remove temporary hardness: $Ca(OH)_{2} + Ca(HCO_{3})_{2} \\rightarrow 2CaCO_{3} \\downarrow + 2H_{2}O$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 9,
+    "chapter": "Hydrogen",
+    "question": "The correct statements among (I) to (IV) are: I. saline hydrides produce H2 gas when reacted with H2O II. reaction of LiAlH4 with BF3 leads to B2H6. III. PH3 and CH4 are electron - rich and electron precise hydrides, respectively. IV. HF and CH4 are called as molecular hydrides. (April 2019)",
+    "question_latex": "The correct statements among (I) to (IV) are: I. saline hydrides produce $H_{2}$ gas when reacted with $H_{2}O$ II. reaction of $LiAlH_{4}$ with $BF_{3}$ leads to $B_{2}H_{6}$. III. $PH_{3}$ and $CH_{4}$ are electron - rich and electron precise hydrides, respectively. IV. HF and $CH_{4}$ are called as molecular hydrides. (April 2019)",
+    "question_images": [],
+    "options": [
+      "A. I, II, III and IV",
+      "B. III and IV only",
+      "C. I, II and III only",
+      "D. I, III and IV only"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "All four statements are correct based on the standard properties and classification of hydrides.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 10,
+    "chapter": "Hydrogen",
+    "question": "Which of the following statements is incorrect?",
+    "question_latex": "Which of the following statements is incorrect?",
+    "question_images": [],
+    "options": [
+      "A. $H_{2}O_{2}$ can act as an oxidising agent",
+      "B. $H_{2}O_{2}$ can act as a reducing agent",
+      "C. $H_{2}O_{2}$ has acidic properties",
+      "D. $H_{2}O_{2}$ has basic properties"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$H_{2}O_{2}$ is weakly acidic and can act as both an oxidizing and reducing agent, but it does not exhibit basic properties.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Hydrogen",
+    "question": "Match List I (Type of hydride) with List II (Example): (A) Electron deficient (B) Electron rich (C) Electron precise (D) Saline hydride. Examples: (I) MgH2, (II) HF, (III) B2H6, (IV) CH4. (April 2023)",
+    "question_latex": "Match List I (Type of hydride) with list II (Example): (A) Electron deficient (B) Electron rich (C) Electron precise (D) Saline hydride. (I) $MgH_{2}$ (II) HF (III) $B_{2}H_{6}$ (IV) $CH_{4}$",
+    "question_images": [],
+    "options": [
+      "A. A-III, B-II, C-I, D-IV",
+      "B. A-II, B-III, C-IV, D-I",
+      "C. A-II, B-III, C-I, D-IV",
+      "D. A-III, B-II, C-IV, D-I"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "A: Electron deficient ($B_{2}H_{6}$); B: Electron rich (HF); C: Electron precise ($CH_{4}$); D: Saline hydride ($MgH_{2}$).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Hydrogen",
+    "question": "30 volume hydrogen peroxide means",
+    "question_latex": "30 volume hydrogen peroxide means",
+    "question_images": [],
+    "options": [
+      "A. 30% of $H_{2}O_{2}$ solution",
+      "B. 30 $cm^{3}$ solution contains 1 g of $H_{2}O_{2}$ ",
+      "C. 1 $cm^{3}$ of solution liberates 30 $cm^{3}$ of $O_{2}$ at STP",
+      "D. 30 $cm^{3}$ of solution contains 1 mole of $H_{2}O_{2}$ "
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The volume strength of $H_{2}O_{2}$ refers to the volume of oxygen gas at STP liberated by 1 unit volume of the solution on decomposition.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Hydrogen",
+    "question": "Commercial 10 volume H2O2 is a solution with a strength of approximately",
+    "question_latex": "Commercial 10 volume $H_{2}O_{2}$ is a solution with a strength of approximately",
+    "question_images": [],
+    "options": [
+      "A. 15%",
+      "B. 3%",
+      "C. 1%",
+      "D. 10%"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Strength calculation for 10 vol $H_{2}O_{2}$: $\\frac{68 \\times 10}{22400} \\times 100 = 3.035\\%$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Hydrogen",
+    "question": "Which one of the following statements is incorrect? (Aug 2021)",
+    "question_latex": "Which one of the following statements is incorrect? (Aug 2021)",
+    "question_images": [],
+    "options": [
+      "A. Dihydrogen is produced on reacting zinc with HCl as well as $NaOH_{(aq)}$.",
+      "B. At around 2000 K, the dissociation of dihydrogen into its atoms is nearly 8.1%.",
+      "C. Atomic hydrogen is produced when $H_{2}$ molecules at a high temperature are irradiated with UV radiation.",
+      "D. Bond dissociation enthalpy of $H_{2}$ is highest among diatomic gaseous molecules which contain a single bond."
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "The dissociation of dihydrogen into atoms at 2000 K is extremely low, approximately 0.081%.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Hydrogen",
+    "question": "The oxide that gives H2O2 most readily on treatment with H2O is (Aug 2021)",
+    "question_latex": "The oxide that gives $H_{2}O_{2}$ most readily on treatment with $H_{2}O$ is (Aug 2021)",
+    "question_images": [],
+    "options": [
+      "A. $Na_{2}O_{2}$ ",
+      "B. $BaO_{2} \\cdot 8H_{2}O$",
+      "C. $SnO_{2}$ ",
+      "D. $PbO_{2}$ "
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$Na_{2}O_{2} + 2H_{2}O \\rightarrow 2NaOH + H_{2}O_{2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Hydrogen",
+    "question": "The hydride ion H- is stronger base than its hydroxide ion OH-. Which of the following reactions will occur if sodium hydride (NaH) is dissolved in water?",
+    "question_latex": "The hydride ion $H^{-}$ is stronger base than its hydroxide ion $OH^{-}$. Which of the following reactions will occur if sodium hydride (NaH) is dissolved in water?",
+    "question_images": [],
+    "options": [
+      "A. $2H^{+}(aq) \\rightarrow H_{2} + 2e^{-}$ ",
+      "B. $H^{-}(aq) + H_{2}O(l) \\rightarrow OH^{-} + H_{2}$ ",
+      "C. $H^{-} + H_{2}O(l) \\rightarrow$ No reaction",
+      "D. None of the above"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "The $H^{-}$ ion is a very strong base and reacts instantly with water to produce $OH^{-}$ and hydrogen gas.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Hydrogen",
+    "question": "Given below are two statements. Statement I: The process of producing syn-gas is called gasification of coal. Statement II: The composition of syn-gas is CO + CO2 + H2 (1:1:1). (Aug 2021)",
+    "question_latex": "Given below are two statements. Statement I: The process of producing syn-gas is called gasification of coal. Statement II: The composition of syn-gas is $CO + CO_{2} + H_{2}$ (1:1:1). (Aug 2021)",
+    "question_images": [],
+    "options": [
+      "A. Statement I is false but statement II is true.",
+      "B. Statement I is true but statement II is false.",
+      "C. Both statement I and statement II are false.",
+      "D. Both statement I and statement II are true."
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Statement I is true (Coal gasification produces syn-gas). Statement II is false (Syn-gas is primarily $CO + H_{2}$).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Hydrogen",
+    "question": "When zeolite (hydrated sodium aluminium silicate) is treated with hard water the sodium ions are exchanged with",
+    "question_latex": "When zeolite (hydrated sodium aluminium silicate) is treated with hard water the sodium ions are exchanged with",
+    "question_images": [],
+    "options": [
+      "A. $H^{+}$ ions",
+      "B. $Ca^{2+}$ ions",
+      "C. $SO_{4}^{2-}$ ions",
+      "D. $OH^{-}$ ions"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Zeolites work as ion exchangers where $Na^{+}$ ions are replaced by the divalent cations $Ca^{2+}$ and $Mg^{2+}$ from hard water.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Hydrogen",
+    "question": "The single largest industrial application of dihydrogen is (July 2021)",
+    "question_latex": "The single largest industrial application of dihydrogen is (July 2021)",
+    "question_images": [],
+    "options": [
+      "A. manufacture of metal hydrides",
+      "B. in the synthesis of nitric acid",
+      "C. rocket fuel in space research",
+      "D. in the synthesis of ammonia."
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "The synthesis of ammonia via the Haber process is the largest industrial use of dihydrogen.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Hydrogen",
+    "question": "Which one of the following is not an isotope of hydrogen?",
+    "question_latex": "Which one of the following is not an isotope of hydrogen?",
+    "question_images": [],
+    "options": [
+      "A. Deuterium",
+      "B. Tritium",
+      "C. Ortho hydrogen",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Protium, deuterium, and tritium are isotopes (same atomic number, different mass). Ortho and para hydrogen are allotropes based on nuclear spin.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Hydrogen",
+    "question": "Permanent hardness of water can be removed by adding Calgon (NaPO3)n. This is an example of",
+    "question_latex": "Permanent hardness of water can be removed by adding Calgon $(NaPO_{3})_{n}$. This is an example of",
+    "question_images": [],
+    "options": [
+      "A. Adsorption",
+      "B. Exchange of ion",
+      "C. Precipitation",
+      "D. None"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Calgon (sodium hexametaphosphate) works by ion exchange to form soluble complexes with $Ca^{2+}$ and $Mg^{2+}$ ions.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Hydrogen",
+    "question": "Which of the following is not true?",
+    "question_latex": "Which of the following is not true?",
+    "question_images": [],
+    "options": [
+      "A. $D_{2}O$ freezes at lower temperature than $H_{2}O$ ",
+      "B. Reaction between $H_{2}$ and $Cl_{2}$ is much faster than $D_{2}$ and $Cl_{2}$ ",
+      "C. Ordinary water gets electrolysed more rapidly than $D_{2}O$ ",
+      "D. Bond dissociation energy of $D_{2}$ is greater than $H_{2}$ "
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$D_{2}O$ has a higher freezing point ($3.8^{\\circ}C$) than $H_{2}O$ ($0^{\\circ}C$).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Hydrogen",
+    "question": "Given below are two statements: Assertion A: Hydrogen is an environment friendly fuel. Reason R: Atomic number of hydrogen is 1 and it is a very light element. (Feb 2023)",
+    "question_latex": "Assertion A: Hydrogen is an environment friendly fuel. Reason R: Atomic number of hydrogen is 1 and it is a very light element. (Feb 2023)",
+    "question_images": [],
+    "options": [
+      "A. A is true but R is false.",
+      "B. Both A and R are true and R is the correct explanation of A.",
+      "C. A is false but R is true.",
+      "D. Both A and R are true but R is not the correct explanation of A."
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Both statements are factually correct, but the fact that hydrogen is light is not why it is environment friendly (it is clean because its only combustion product is water).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Hydrogen",
+    "question": "The incorrect statement(s) about heavy water is(are) (A) used as a moderator in nuclear reactor (B) obtained as a by-product in fertilizer industry (C) used for the study of reaction mechanism (D) has a higher dielectric constant than water. (March 2021)",
+    "question_latex": "The incorrect statement(s) about heavy water is(are) (A) used as a moderator in nuclear reactor (B) obtained as a by-product in fertilizer industry (C) used for the study of reaction mechanism (D) has a higher dielectric constant than water. (March 2021)",
+    "question_images": [],
+    "options": [
+      "A. (B) and (D) only",
+      "B. (C) only",
+      "C. (D) only",
+      "D. (B) only"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$D_{2}O$ (78.06) has a slightly lower dielectric constant than water (78.39).",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Hydrogen",
+    "question": "Which one of the following pairs of substances will not produce hydrogen when reacted together?",
+    "question_latex": "Which one of the following pairs of substances will not produce hydrogen when reacted together?",
+    "question_images": [],
+    "options": [
+      "A. Copper and conc. nitric acid",
+      "B. Ethanol and metallic sodium",
+      "C. Magnesium and steam",
+      "D. Phenol and metallic sodium"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Copper with conc. $HNO_{3}$ produces $NO_{2}$ gas. All other options react to liberate hydrogen gas.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Hydrogen",
+    "question": "Hard water is not fit for washing clothes because",
+    "question_latex": "Hard water is not fit for washing clothes because",
+    "question_images": [],
+    "options": [
+      "A. It contains impurities",
+      "B. It is acidic in nature",
+      "C. It gives precipitate with soap",
+      "D. It contains $Na_{2}SO_{4}$ and KCI"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Hard water contains calcium and magnesium salts which react with soap to form insoluble scum (precipitate), making it unsuitable for washing.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Hydrogen",
+    "question": "In alkaline $H_{2}O_{2}$",
+    "question_latex": "In alkaline $H_{2}O_{2}$",
+    "question_images": [],
+    "options": [
+      "A. $Mn^{2+}$ changes to $MnO_{2}$",
+      "B. $Cr^{3+}$ changes to $CrO_{4}^{2-}$",
+      "C. Both (a) and (b) are correct",
+      "D. None of the above is correct"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Based on the provided key, the answer is None of the above. Generally, $H_{2}O_{2}$ in alkaline medium can oxidize $Mn^{2+}$ to $MnO_{2}$ and $Cr^{3+}$ to $CrO_{4}^{2-}$, but the specific source answer provided is (D).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Hydrogen",
+    "question": "Water does not produce CO on reacting with (Feb 2021)",
+    "question_latex": "Water does not produce CO on reacting with (Feb 2021)",
+    "question_images": [],
+    "options": [
+      "A. $CO_{2}$",
+      "B. $C_{3}H_{8}$",
+      "C. C",
+      "D. $CH_{4}$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "The reaction of $CO_{2}$ with $H_{2}O$ produces carbonic acid: $$CO_{2} + H_{2}O \\rightarrow H_{2}CO_{3}$$ Hydrocarbons and Carbon react with steam at high temperatures to produce syn-gas ($CO + H_{2}$): $$C + H_{2}O \\rightarrow CO + H_{2}$$ $$CH_{4} + H_{2}O \\rightarrow CO + 3H_{2}$$ $$C_{3}H_{8} + 3H_{2}O \\rightarrow 3CO + 7H_{2}$$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Hydrogen",
+    "question": "Identify the reaction which does not liberate hydrogen. (Online 2016)",
+    "question_latex": "Identify the reaction which does not liberate hydrogen. (Online 2016)",
+    "question_images": [],
+    "options": [
+      "A. Reaction of lithium hydride with $B_{2}H_{6}$.",
+      "B. Electrolysis of acidified water using Pt electrodes.",
+      "C. Allowing a solution of sodium in liquid ammonia to stand.",
+      "D. Reaction of zinc with aqueous alkali."
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Reaction of $LiH$ with $B_{2}H_{6}$ in ether produces lithium borohydride, not $H_{2}$ gas: $$2LiH + B_{2}H_{6} \\xrightarrow{Ether} 2LiBH_{4}$$",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Hydrogen",
+    "question": "Deuterium resembles hydrogen in properties but (Aug 2021)",
+    "question_latex": "Deuterium resembles hydrogen in properties but (Aug 2021)",
+    "question_images": [],
+    "options": [
+      "A. reacts vigorously than hydrogen",
+      "B. reacts just as hydrogen",
+      "C. emits $\\beta^{+}$ particles",
+      "D. reacts slower than hydrogen."
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Due to the higher bond dissociation energy of $D-D$ compared to $H-H$, deuterium reacts slower than hydrogen. It is also non-radioactive.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Hydrogen",
+    "question": "The low density of ice compared to water is due to",
+    "question_latex": "The low density of ice compared to water is due to",
+    "question_images": [],
+    "options": [
+      "A. hydrogen-bonding interactions",
+      "B. dipole-dipole interactions",
+      "C. dipole-induced dipole interactions",
+      "D. induced dipole-induced dipole interactions"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Water molecules are held together by intermolecular hydrogen bonds. In ice, these bonds form an open cage-like structure with large vacant spaces, resulting in a lower density than liquid water.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Hydrogen",
+    "question": "Hydrogen will not reduce",
+    "question_latex": "Hydrogen will not reduce",
+    "question_images": [],
+    "options": [
+      "A. heated cupric oxide",
+      "B. heated ferric oxide",
+      "C. heated stannic oxide",
+      "D. heated aluminium oxide"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$H_{2}$ will not reduce heated $Al_{2}O_{3}$ because Aluminum is more electropositive than hydrogen; thus, its oxide is very stable.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Hydrogen",
+    "question": "Which is radioactive isotope of hydrogen?",
+    "question_latex": "Which is radioactive isotope of hydrogen?",
+    "question_images": [],
+    "options": [
+      "A. ${}_{1}^{1}H$",
+      "B. ${}_{1}^{2}H$",
+      "C. ${}_{1}^{3}H$",
+      "D. All of those"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Tritium (${}_{1}^{3}H$) is the radioactive isotope of hydrogen, emitting low energy $\\beta^{-}$ particles.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Hydrogen",
+    "question": "Hydrogen peroxide reacts with iodine in basic medium to give (Sept 2021)",
+    "question_latex": "Hydrogen peroxide reacts with iodine in basic medium to give (Sept 2021)",
+    "question_images": [],
+    "options": [
+      "A. $IO_{4}^{-}$",
+      "B. $I_{2}$",
+      "C. $IO_{3}^{-}$",
+      "D. $I^{-}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In basic medium, $H_{2}O_{2}$ reacts with iodine to form iodate ions ($IO_{3}^{-}$). Note: Solution text in source suggests $I^{-}$, but answer key says (C) which is $IO_{3}^{-}$. Reaction: $$I_{2} + 5H_{2}O_{2} + 2OH^{-} \\rightarrow 2IO_{3}^{-} + 6H_{2}O$$",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Hydrogen",
+    "question": "Which cannot be oxidized by $H_{2}O_{2}$?",
+    "question_latex": "Which cannot be oxidized by $H_{2}O_{2}$?",
+    "question_images": [],
+    "options": [
+      "A. $Na_{2}SO_{3}$",
+      "B. PbS",
+      "C. KI",
+      "D. $O_{3}$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$O_{3}$ is a stronger oxidizing agent than $H_{2}O_{2}$, so $H_{2}O_{2}$ cannot oxidize it; instead, they often react where $H_{2}O_{2}$ acts as a reducing agent.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Hydrogen",
+    "question": "In the following reaction using $H_{2}O_{2}^{18}$: $2MnO_{4}^{-} + 5H_{2}O_{2}^{18} + 6H^{+} \\rightarrow 2Mn^{2+} + 8H_{2}O + 5O_{2}$, the $^{18}O$ goes with:",
+    "question_latex": "In the following reaction using $H_{2}O_{2}^{18}$: $$2MnO_{4}^{-} + 5H_{2}O_{2}^{18} + 6H^{+} \\rightarrow 2Mn^{2+} + 8H_{2}O + 5O_{2}$$ the $^{18}O$ goes with:",
+    "question_images": [],
+    "options": [
+      "A. $H_{2}O$",
+      "B. $O_{2}$",
+      "C. Both (a) and (b)",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "In the reduction of $MnO_{4}^{-}$ by $H_{2}O_{2}$ in acidic medium, the oxygen evolved comes entirely from the $H_{2}O_{2}$. Therefore, the $^{18}O$ label will be found in the $O_{2}$ gas.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Hydrogen",
+    "question": "(A) $FeCl_{3}$ solution + Zn $\\rightarrow$ product X. (B) $FeCl_{3}$ solution + $H_{2}$ gas $\\rightarrow$ product Y. $FeCl_{3}$ solution gives blue colour with $K_{4}[Fe(CN)_{6}]$. Choose the correct statement:",
+    "question_latex": "(A) $FeCl_{3}$ solution + Zn $\\rightarrow$ product X. (B) $FeCl_{3}$ solution + $H_{2}$ gas $\\rightarrow$ product Y. $FeCl_{3}$ solution gives blue colour with $K_{4}[Fe(CN)_{6}]$. Choose the correct statement:",
+    "question_images": [],
+    "options": [
+      "A. X also gives blue colour with $K_{4}[Fe(CN)_{6}]$ ",
+      "B. Y also gives blue colour with $K_{4}[Fe(CN)_{6}]$ ",
+      "C. Both X and Y give blue colour with $K_{4}[Fe(CN)_{6}]$ ",
+      "D. None gives colour with $K_{4}[Fe(CN)_{6}]$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Zinc reacts with acidic $FeCl_{3}$ to produce nascent hydrogen, which reduces $Fe^{3+}$ to $Fe^{2+}$. $FeCl_{2}$ (X) does not give a blue color with $K_{4}[Fe(CN)_{6}]$. However, molecular $H_{2}$ gas is not strong enough to reduce $FeCl_{3}$ easily, so $Fe^{3+}$ remains (Y), which still gives the blue color (Prussian blue) with $K_{4}[Fe(CN)_{6}]$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Hydrogen",
+    "question": "The synonym for water gas when used in the production of methanol is (April 2019)",
+    "question_latex": "The synonym for water gas when used in the production of methanol is (April 2019)",
+    "question_images": [],
+    "options": [
+      "A. laughing gas",
+      "B. natural gas",
+      "C. fuel gas",
+      "D. syn gas."
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Water gas ($CO + H_{2}$) is called synthesis gas or 'syn gas' because it is used in the synthesis of methanol and many hydrocarbons.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Hydrogen",
+    "question": "Which one of the following methods is most suitable for preparing deionized water? (Aug 2021)",
+    "question_latex": "Which one of the following methods is most suitable for preparing deionized water? (Aug 2021)",
+    "question_images": [],
+    "options": [
+      "A. Synthetic resin method",
+      "B. Calgon's method",
+      "C. Permutit method",
+      "D. Clark's method"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "The synthetic resin method uses cation and anion exchangers to remove all soluble mineral salts, producing deionized (demineralized) water.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Hydrogen",
+    "question": "In basic medium, $H_{2}O_{2}$ exhibits which of the following reactions? (A) $Mn^{2+} \\rightarrow Mn^{4+}$, (B) $I_{2} \\rightarrow I^{-}$, (C) $PbS \\rightarrow PbSO_{4}$ (March 2021)",
+    "question_latex": "In basic medium, $H_{2}O_{2}$ exhibits which of the following reactions? (A) $Mn^{2+} \\rightarrow Mn^{4+}$, (B) $I_{2} \\rightarrow I^{-}$, (C) $PbS \\rightarrow PbSO_{4}$ (March 2021)",
+    "question_images": [],
+    "options": [
+      "A. (A), (C) only",
+      "B. (B) only",
+      "C. (A) only",
+      "D. (A), (B) only"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "In basic medium, $H_{2}O_{2}$ acts as a reducing agent for halogens: $$I_{2} + H_{2}O_{2} + 2OH^{-} \\rightarrow 2I^{-} + 2H_{2}O + O_{2}$$. Note: Key in source says (B).",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Hydrogen",
+    "question": "Hydrogen has three isotopes: protium (H), deuterium (2H or D) and tritium (3H or T). They differ in (June 2022)",
+    "question_latex": "Hydrogen has three isotopes: protium (H), deuterium ($^{2}H$ or D) and tritium ($^{3}H$ or T). They differ in (June 2022)",
+    "question_images": [],
+    "options": [
+      "A. atomic number",
+      "B. electronic configuration",
+      "C. number of protons",
+      "D. atomic mass."
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Isotopes have the same atomic number (protons/electrons) but differ in the number of neutrons, which leads to different atomic masses.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Hydrogen",
+    "question": "Amongst the following, the form of water with the lowest ionic conductance at 298 K is (Jan 2020)",
+    "question_latex": "Amongst the following, the form of water with the lowest ionic conductance at 298 K is (Jan 2020)",
+    "question_images": [],
+    "options": [
+      "A. sea water.",
+      "B. saline water used for intravenous injection",
+      "C. distilled water",
+      "D. water from a well"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Distilled water has the fewest dissolved ions compared to sea, well, or saline water, resulting in the lowest ionic conductance.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Hydrogen",
+    "question": "Boiling of hard water is helpful in removing the temporary hardness by converting calcium hydrogen carbonate and magnesium hydrogen carbonate to (June 2022)",
+    "question_latex": "Boiling of hard water is helpful in removing the temporary hardness by converting calcium hydrogen carbonate and magnesium hydrogen carbonate to (June 2022)",
+    "question_images": [],
+    "options": [
+      "A. $CaCO_{3}$ and $Mg(OH)_{2}$",
+      "B. $Ca(OH)_{2}$ and $MgCO_{3}$",
+      "C. $Ca(OH)_{2}$ and $Mg(OH)_{2}$",
+      "D. $CaCO_{3}$ and $MgCO_{3}$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "On boiling: $$Ca(HCO_{3})_{2} \\rightarrow CaCO_{3} \\downarrow + CO_{2} + H_{2}O$$ $$Mg(HCO_{3})_{2} \\rightarrow Mg(OH)_{2} \\downarrow + 2CO_{2}$$ Magnesium hydroxide is precipitated because its solubility product is lower than magnesium carbonate.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Hydrogen",
+    "question": "The reaction $H_{2}S + H_{2}O_{2} \\rightarrow S + 2H_{2}O$ manifests",
+    "question_latex": "The reaction $H_{2}S + H_{2}O_{2} \\rightarrow S + 2H_{2}O$ manifests",
+    "question_images": [],
+    "options": [
+      "A. Acidic nature of $H_{2}O_{2}$ ",
+      "B. Alkaline nature of $H_{2}O_{2}$ ",
+      "C. Oxidising nature of $H_{2}O_{2}$ ",
+      "D. Reducing action of $H_{2}O_{2}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In this reaction, the oxidation state of sulfur increases from -2 (in $H_{2}S$) to 0 (in $S$). Thus, $H_{2}O_{2}$ acts as an oxidizing agent.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Hydrogen",
+    "question": "The functional groups that are responsible for the ion-exchange property of cation and anion exchange resins respectively, are (March 2021)",
+    "question_latex": "The functional groups that are responsible for the ion-exchange property of cation and anion exchange resins respectively, are (March 2021)",
+    "question_images": [],
+    "options": [
+      "A. $-SO_{3}H$ and $-NH_{2}$ ",
+      "B. $-SO_{3}H$ and -COOH. ",
+      "C. $-NH_{2}$ and $-SO_{3}H$ ",
+      "D. $-NH_{2}$ and -COOH"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Acidic groups like $-SO_{3}H$ and $-COOH$ exchange cations ($H^{+}$), while basic groups like $-NH_{2}$ or quaternary ammonium salts exchange anions.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Hydrogen",
+    "question": "The decomposition of $H_{2}O_{2}$ is accelerated by -",
+    "question_latex": "The decomposition of $H_{2}O_{2}$ is accelerated by -",
+    "question_images": [],
+    "options": [
+      "A. glycerine",
+      "B. alcohol",
+      "C. phosphoric acid",
+      "D. Pt powder"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Decomposition of $H_{2}O_{2}$ is catalyzed (accelerated) by finely divided metals such as Pt, Ag, and Au. Glycerine and phosphoric acid act as stabilizers (inhibitors).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Hydrogen",
+    "question": "Hydrogen accepts an electron to form inert gas configuration. In this it resembles",
+    "question_latex": "Hydrogen accepts an electron to form inert gas configuration. In this it resembles",
+    "question_images": [],
+    "options": [
+      "A. halogen",
+      "B. alkali metals",
+      "C. chalcogens",
+      "D. alkaline earth metals"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Halogens ($ns^{2}np^{5}$) accept one electron to achieve noble gas configuration. Similarly, Hydrogen ($1s^{1}$) accepts one electron to form the hydride ion ($H^{-}, 1s^{2}$), resembling Helium.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Hydrogen",
+    "question": "The metal salts formed during softening of hard water using Clark's method are (July 2022)",
+    "question_latex": "The metal salts formed during softening of hard water using Clark's method are (July 2022)",
+    "question_images": [],
+    "options": [
+      "A. $Ca(OH)_{2}$ and $MgCO_{3}$",
+      "B. $CaCO_{3}$ and $Mg(OH)_{2}$",
+      "C. $Ca(OH)_{2}$ and $Mg(OH)_{2}$",
+      "D. $CaCO_{3}$ and $MgCO_{3}$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "In Clark's method (adding lime), the reactions are: $$Ca(HCO_{3})_{2} + Ca(OH)_{2} \\rightarrow 2CaCO_{3} \\downarrow + 2H_{2}O$$ $$Mg(HCO_{3})_{2} + 2Ca(OH)_{2} \\rightarrow 2CaCO_{3} \\downarrow + Mg(OH)_{2} \\downarrow + 2H_{2}O$$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Hydrogen",
+    "question": "Very pure hydrogen (99.9%) can be made by which of the following processes? (2012)",
+    "question_latex": "Very pure hydrogen (99.9%) can be made by which of the following processes? (2012)",
+    "question_images": [],
+    "options": [
+      "A. Reaction of salt like hydrides with water.",
+      "B. Electrolysis of water.",
+      "C. Reaction of methane with steam.",
+      "D. Mixing natural hydrocarbons of high molecular weight."
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "High purity dihydrogen (>99.95%) is obtained by the electrolysis of warm aqueous barium hydroxide solution between nickel electrodes.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Hydrogen",
+    "question": "Statement I: Permutit process is more efficient compared to the synthetic resin method for the softening of water. Statement II: Synthetic resin method results in the formation of soluble sodium salts. (April 2023)",
+    "question_latex": "Statement I: Permutit process is more efficient compared to the synthetic resin method for the softening of water. Statement II: Synthetic resin method results in the formation of soluble sodium salts. (April 2023)",
+    "question_images": [],
+    "options": [
+      "A. Both the Statements I and II are correct.",
+      "B. Both the Statements I and II are incorrect.",
+      "C. Statement I is incorrect but Statement II is correct.",
+      "D. Statement I is correct but Statement II is incorrect."
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Statement I is incorrect because the synthetic resin method is more efficient as it removes all ions (cations and anions). Statement II is incorrect because the synthetic resin method replaces ions with $H^{+}$ and $OH^{-}$ (which form water), whereas the permutit process results in sodium salts.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Hydrogen",
+    "question": "Which of the following statements about H2O2 differ from O3 in its chemical action?",
+    "question_latex": "Which of the following statements about $H_{2}O_{2}$ differ from $O_{3}$ in its chemical action?",
+    "question_images": [],
+    "options": [
+      "A. $H_{2}O_{2}$ is used to clean oil paintings",
+      "B. $H_{2}O_{2}$ acts as oxidising as well as reducing agent",
+      "C. Two hydroxyl groups in $H_{2}O_{2}$ lie in the same plane",
+      "D. It retains same structure in liquid and solid form"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The structure of $H_{2}O_{2}$ is non-planar (open book structure) where the two -OH groups lie in different planes, whereas $O_{3}$ has a different chemical geometry. [cite: 636, 637, 811, 812]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Hydrogen",
+    "question": "Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): The dihedral angles H2O2 in gaseous phase is 90.2 and in solid phase is 111.5°. Reason (R): The change in dihedral angle in solid and gaseous phase is due to the difference in the intermolecular forces. (July 2021) Choose the most appropriate answer from the options given below for A and R.",
+    "question_latex": "Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R). \\newline Assertion (A): The dihedral angles $H_{2}O_{2}$ in gaseous phase is 90.2 and in solid phase is 111.5°. \\newline Reason (R): The change in dihedral angle in solid and gaseous phase is due to the difference in the intermolecular forces. (July 2021) \\newline Choose the most appropriate answer from the options given below for A and R.",
+    "question_images": [],
+    "options": [
+      "A. A is correct but R is not correct.",
+      "B. Both A and R are correct and R is the correct explanation of A.",
+      "C. Both A and R are correct but R is not the correct explanation of A.",
+      "D. A is not correct but R is correct."
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "The dihedral angle of $H_{2}O_{2}$ in the gaseous phase is approximately $111.5^{\\circ}$ and in the solid state, it is $90.2^{\\circ}$ due to hydrogen bonding and intermolecular forces. Thus, Assertion is false and Reason is true. [cite: 639, 640, 641, 643, 644, 645, 646]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Hydrogen",
+    "question": "Which of the following forms of hydrogen emits low energy beta- particles? (Feb 2021)",
+    "question_latex": "Which of the following forms of hydrogen emits low energy $\\beta^{-}$ particles? (Feb 2021)",
+    "question_images": [],
+    "options": [
+      "A. Protium, ${}_{1}^{1}H$",
+      "B. Tritium, ${}_{1}^{3}H$",
+      "C. Deuterium, ${}_{1}^{2}H$",
+      "D. Proton, $H^{+}$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Tritium (${}_{1}^{3}H$) is the radioactive isotope of hydrogen which emits low energy $\\beta^{-}$ particles. [cite: 647, 648, 649]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Hydrogen",
+    "question": "H2O2 exists as in alkaline medium",
+    "question_latex": "$H_{2}O_{2}$ exists as in alkaline medium",
+    "question_images": [],
+    "options": [
+      "A. $HO_{2}^{-}$",
+      "B. $HO^{-}$",
+      "C. $O_{2}^{2-}$",
+      "D. $O_{2}^{-}$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "In alkaline medium, $H_{2}O_{2}$ behaves as a weak acid and exists primarily as the hydroperoxide ion, $HO_{2}^{-}$. [cite: 651, 652, 653]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Hydrogen",
+    "question": "Very pure hydrogen (99.9) can be made by which of the following processes ?",
+    "question_latex": "Very pure hydrogen (99.9) can be made by which of the following processes ?",
+    "question_images": [],
+    "options": [
+      "A. Reaction of methane with steam",
+      "B. Mixing natural hydrocarbons of high molecular weight",
+      "C. Electrolysis of water",
+      "D. Reaction of salts like hydrides with water"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Very pure hydrogen is prepared by the action of water on saline (salt-like) hydrides such as sodium hydride: $NaH + H_{2}O \\rightarrow NaOH + H_{2}$. [cite: 656, 657, 658, 659, 660, 661]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Hydrogen",
+    "question": "Mass of one atom is 6.66 x 10^-23 g. Its percentage in an hydride is 95.24. Thus, hydride is",
+    "question_latex": "Mass of one atom is $6.66 \\times 10^{-23}$ g. Its percentage in an hydride is 95.24. Thus, hydride is",
+    "question_images": [],
+    "options": [
+      "A. MH",
+      "B. $MH_{2}$",
+      "C. $MH_{3}$",
+      "D. $MH_{4}$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Mass of 1 atom $= 6.66 \\times 10^{-23}$ g. Atomic weight $= 6.66 \\times 10^{-23} \\times 6.022 \\times 10^{23} \\approx 40$ g/mol (Calcium). Given 95.24% M and 4.76% H. Ratio M:H = $(95.24/40) : (4.76/1) = 2.38 : 4.76 = 1 : 2$. Thus, $MH_{2}$. [cite: 662, 663, 664, 665, 666, 667, 668, 669, 670]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Hydrogen",
+    "question": "Which of the following equations depict the oxidising nature of H2O2?",
+    "question_latex": "Which of the following equations depict the oxidising nature of $H_{2}O_{2}$?",
+    "question_images": [],
+    "options": [
+      "A. $2MnO_{4}^{-} + 6H^{+} + 5H_{2}O_{2} \\rightarrow 2Mn^{2+} + 8H_{2}O + 5O_{2}$",
+      "B. $2Fe^{3+} + 2H^{+} + H_{2}O_{2} \\rightarrow 2Fe^{2+} + 2H_{2}O + O_{2}$",
+      "C. $2I^{-} + 2H^{+} + H_{2}O_{2} \\rightarrow I_{2} + 2H_{2}O$",
+      "D. $KIO_{4} + H_{2}O_{2} \\rightarrow KIO_{3} + H_{2}O + O_{2}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In reaction C, $H_{2}O_{2}$ oxidizes $I^{-}$ (oxidation state -1) to $I_{2}$ (oxidation state 0). In other reactions, it acts as a reducing agent. [cite: 671, 672, 673, 674, 930, 931]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Hydrogen",
+    "question": "Which of the following sequence of T and F is correct for given statements? (i) The HH bond dissociation enthalpy is highest for a single bond between two atoms of any element (ii) H2 is relatively inert at room temperature. (iii) Hydrogen combines with almost all the elements due to its incomplete orbital (iv) The atomic hydrogen is produced at high temperature in an electric arc or under UV radiations.",
+    "question_latex": "Which of the following sequence of T and F is correct for given statements? \\newline (i) The H-H bond dissociation enthalpy is highest for a single bond between two atoms of any element \\newline (ii) $H_{2}$ is relatively inert at room temperature. \\newline (iii) Hydrogen combines with almost all the elements due to its incomplete orbital \\newline (iv) The atomic hydrogen is produced at high temperature in an electric arc or under UV radiations.",
+    "question_images": [],
+    "options": [
+      "A. TTTT",
+      "B. FTFT",
+      "C. FTTT",
+      "D. FTTF"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "All statements (i) to (iv) are true regarding the properties and production of hydrogen. [cite: 676, 678, 679, 680, 681, 682, 683]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Hydrogen",
+    "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: Hydrogen is an environment friendly fuel. Reason: Atomic number of hydrogen is 1 and it is a very light element. (Feb 2023)",
+    "question_latex": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R. \\newline Assertion A: Hydrogen is an environment friendly fuel. \\newline Reason R: Atomic number of hydrogen is 1 and it is a very light element. (Feb 2023)",
+    "question_images": [],
+    "options": [
+      "A. A is true but R is false.",
+      "B. Both A and R are true and R is the correct explanation of A.",
+      "C. A is false but R is true.",
+      "D. Both A and R are true but R is not the correct explanation of A."
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Hydrogen is environment friendly because its combustion produces only water. While it is true that it has atomic number 1 and is light, this does not explain why it is environment friendly. [cite: 687, 688, 689, 691, 692, 693]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Hydrogen",
+    "question": "Match the columns: Column - I (Chemical property of water): (A) Basic nature, (B) Auto-protolysis, (C) Oxidising nature, (D) Reducing nature. Column - II (Chemical equation): (p) 2H2O(l) + 2Na(s) -> 2NaOH(aq) + H2(g), (q) H2O(l) + H2O(l) -> H3O+(aq) + OH-(aq), (r) 2F2(g) + 2H2O(l) -> 4H+(aq) + 4F-(aq) + O2(g), (s) H2O(l) + H2S(aq) <=> H3O+(aq) + HS-(aq).",
+    "question_latex": "Match the columns: \\newline Column - I (Chemical property of water): \\newline (A) Basic nature, (B) Auto-protolysis, (C) Oxidising nature, (D) Reducing nature. \\newline Column - II (Chemical equation): \\newline (p) $2H_{2}O(l) + 2Na(s) \\rightarrow 2NaOH(aq) + H_{2}(g)$ \\newline (q) $H_{2}O(l) + H_{2}O(l) \\rightarrow H_{3}O^{+}(aq) + OH^{-}(aq)$ \\newline (r) $2F_{2}(g) + 2H_{2}O(l) \\rightarrow 4H^{+}(aq) + 4F^{-}(aq) + O_{2}(g)$ \\newline (s) $H_{2}O(l) + H_{2}S(aq) \\rightleftharpoons H_{3}O^{+}(aq) + HS^{-}(aq)$.",
+    "question_images": [],
+    "options": [
+      "A. A-(s), B-(q), C-(r), D-(p)",
+      "B. A-(s), B-(q), C-(p), D-(r)",
+      "C. A-(r), B-(q), C-(s), D-(p)",
+      "D. A-(p), B-(q), C-(s), D-(r)"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "(A) Basic nature: Reacts with $H_{2}S$ (s). (B) Auto-protolysis: Water reacts with itself (q). (C) Oxidising nature: Reacts with Na to give $H_{2}$ (p). (D) Reducing nature: Reacts with $F_{2}$ to give $O_{2}$ (r). [cite: 695, 700, 701, 703, 707, 709, 711, 713, 715]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Hydrogen",
+    "question": "Water possesses a high dielectric constant, therefore :",
+    "question_latex": "Water possesses a high dielectric constant, therefore :",
+    "question_images": [],
+    "options": [
+      "A. it always contains ions",
+      "B. it is a universal solvent",
+      "C. can dissolve covalent compounds",
+      "D. can conduct electricity"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Due to its high dielectric constant, water has the ability to reduce the electrostatic forces between ions, making it a universal solvent. [cite: 717, 718, 720, 721]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Hydrogen",
+    "question": "Which one of the following processes will produce hard water? (2003)",
+    "question_latex": "Which one of the following processes will produce hard water? (2003)",
+    "question_images": [],
+    "options": [
+      "A. Addition of $Na_{2}SO_{4}$ to water",
+      "B. Saturation of water with $MgCO_{3}$",
+      "C. Saturation of water with $CaSO_{4}$",
+      "D. Saturation of water with $CaCO_{3}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Permanent hardness is caused by soluble sulfates and chlorides of Calcium and Magnesium. $CaSO_{4}$ is more soluble than $CaCO_{3}$ or $MgCO_{3}$ and introduces permanent hardness. [cite: 722, 723, 724, 725]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Hydrogen",
+    "question": "H2O2 is manufactured these days by",
+    "question_latex": "$H_{2}O_{2}$ is manufactured these days by",
+    "question_images": [],
+    "options": [
+      "A. The action of $H_{2}SO_{4}$ on $BaO_{2}$ ",
+      "B. The action of $H_{2}SO_{4}$ on $Na_{2}O_{2}$ ",
+      "C. Electrolysis of 50% H2SO4 ",
+      "D. Burning hydrogen in excess oxygen"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The modern industrial method involves the electrolysis of 50% $H_{2}SO_{4}$ (peroxodisulphuric acid method). [cite: 726, 727, 728]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Hydrogen",
+    "question": "H2O2 acts as a reducing agent in (Jan 2023)",
+    "question_latex": "$H_{2}O_{2}$ acts as a reducing agent in (Jan 2023)",
+    "question_images": [],
+    "options": [
+      "A. $2Fe^{2+} + 2H^{+} + H_{2}O_{2} \\rightarrow 2Fe^{3+} + 2H_{2}O$",
+      "B. $Mn^{2+} + 2H_{2}O_{2} \\rightarrow MnO_{2} + 2H_{2}O$",
+      "C. $Na_{2}S + 4H_{2}O_{2} \\rightarrow Na_{2}SO_{4} + 4H_{2}O$",
+      "D. $2NaOCl + H_{2}O_{2} \\rightarrow 2NaCl + H_{2}O + O_{2}$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "In reaction D, $H_{2}O_{2}$ reduces Hypochlorite ($Cl^{+1}$) to Chloride ($Cl^{-1}$) while itself being oxidized to $O_{2}$. [cite: 730, 731, 732, 733, 736, 738]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Hydrogen",
+    "question": "Statements about heavy water are given below. A. Heavy water is used in exchange reactions for the study of reaction mechanisms. B. Heavy water is prepared by exhaustive electrolysis of water. C. Heavy water has higher boiling point than ordinary water. D. Viscosity of H2O is greater than D2O. Choose the most appropriate answer: (Feb 2021)",
+    "question_latex": "Statements about heavy water are given below. \\newline A. Heavy water is used in exchange reactions for the study of reaction mechanisms. \\newline B. Heavy water is prepared by exhaustive electrolysis of water. \\newline C. Heavy water has higher boiling point than ordinary water. \\newline D. Viscosity of $H_{2}O$ is greater than $D_{2}O$. \\newline Choose the most appropriate answer: (Feb 2021)",
+    "question_images": [],
+    "options": [
+      "A. A and C only",
+      "B. A and B only",
+      "C. A and D only",
+      "D. A, B and C only"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Statements A, B, and C are correct. Statement D is incorrect because the viscosity of $D_{2}O$ is actually greater than that of $H_{2}O$. [cite: 739, 740, 741, 742, 744, 745, 746, 747]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Hydrogen",
+    "question": "Cl2 undergoes",
+    "question_latex": "$Cl_{2}$ undergoes",
+    "question_images": [],
+    "options": [
+      "A. Oxidation in water",
+      "B. Reduction in water",
+      "C. Disproportionation in water",
+      "D. No reaction in water"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "When Chlorine reacts with water, it forms HCl and HOCl. This is a disproportionation reaction as Chlorine is both oxidized and reduced. [cite: 748, 749, 750]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Hydrogen",
+    "question": "The products obtained during treatment of hard water using Clark's method are (July 2022)",
+    "question_latex": "The products obtained during treatment of hard water using Clark's method are (July 2022)",
+    "question_images": [],
+    "options": [
+      "A. $CaCO_{3}$ and $MgCO_{3}$",
+      "B. $Ca(OH)_{2}$ and $Mg(OH)_{2}$",
+      "C. $CaCO_{3}$ and $Mg(OH)_{2}$",
+      "D. $Ca(OH)_{2}$ and $MgCO_{3}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In Clark's method, lime is added to hard water, precipitating $CaCO_{3}$ and $Mg(OH)_{2}$. [cite: 752, 753, 863]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Hydrogen",
+    "question": "In context with the industrial preparation of hydrogen from water gas (CO+H2), which of the following is the correct statement? (2008)",
+    "question_latex": "In context with the industrial preparation of hydrogen from water gas $(CO+H_{2})$, which of the following is the correct statement? (2008)",
+    "question_images": [],
+    "options": [
+      "A. CO is oxidised to $CO_{2}$ with steam in the presence of a catalyst followed by absorption of $CO_{2}$ in alkali.",
+      "B. CO is removed by absorption in aqueous $Cu_{2}Cl_{2}$ solution.",
+      "C. $H_{2}$ is removed through occlusion with Pd.",
+      "D. CO and $H_{2}$ are fractionally separated using differences in their densities."
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "In the water gas shift reaction, CO is oxidized to $CO_{2}$ using steam and a catalyst ($Fe_{2}O_{3}/Cr_{2}O_{3}$). The $CO_{2}$ is then removed by absorption in an alkali solution. [cite: 755, 757, 760, 761, 763, 764]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Hydrogen",
+    "question": "Which of the following statements is correct?",
+    "question_latex": "Which of the following statements is correct?",
+    "question_images": [],
+    "options": [
+      "A. Production of syngas from coal is called coal gasification.",
+      "B. $CO(g) + H_{2}O(g) \\xrightarrow{673K, catalyst} CO_{2}(g) + H_{2}(g)$ represents water gas shift reaction.",
+      "C. $CO_{2}$ formed in water gas shift reaction is removed by scrubbing with sodium zincate solution.",
+      "D. Both (A) and (B)"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Statement A and B are correct. Statement C is incorrect because $CO_{2}$ is typically removed with sodium arsenite or alkali, not sodium zincate. [cite: 765, 766, 767, 768, 769, 770]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Hydrogen",
+    "question": "Choose the correct statement(s)",
+    "question_latex": "Choose the correct statement(s)",
+    "question_images": [],
+    "options": [
+      "A. $H_{2}$ is more rapidly adsorbed on to surface than $D_{2}$ ",
+      "B. $H_{2}$ reacts over 13 times faster with $Cl_{2}$ than $D_{2}$ because $H_{2}$ has a lower energy of activation",
+      "C. Both (A) and (B) are true",
+      "D. None of the above is true"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Due to its lighter mass and lower activation energy requirement, $H_{2}$ adsorbs and reacts faster than $D_{2}$. [cite: 771, 772, 773]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Hydrogen",
+    "question": "Dihydrogen of high purity (>99.95%) is obtained through (Sept 2020)",
+    "question_latex": "Dihydrogen of high purity (>99.95%) is obtained through (Sept 2020)",
+    "question_images": [],
+    "options": [
+      "A. the electrolysis of brine solution",
+      "B. the electrolysis of acidified water using Pt electrodes",
+      "C. the reaction of Zn with dilute HCl",
+      "D. the electrolysis of warm $Ba(OH)_{2}$ solution using Ni electrodes."
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "High purity dihydrogen is industrially prepared by the electrolysis of warm aqueous Barium Hydroxide using Nickel electrodes. [cite: 774, 775, 776]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Hydrogen",
+    "question": "The set of elements which could form stable, covalent hydrogen bonded hydrides are",
+    "question_latex": "The set of elements which could form stable, covalent hydrogen bonded hydrides are",
+    "question_images": [],
+    "options": [
+      "A. Nitrogen, oxygen and fluorine",
+      "B. Lithium, sodium and potassium",
+      "C. Sulphur, selenium and tellurium",
+      "D. Chlorine, bromine and iodine"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Only highly electronegative elements like N, O, and F form covalent hydrides capable of hydrogen bonding ($NH_{3}$, $H_{2}O$, HF). [cite: 778, 779, 780]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Hydrogen",
+    "question": "Hydrogen has three isotopes: protium(H), deuterium (2H or D) and tritium (3H or T). They differ in (June 2022)",
+    "question_latex": "Hydrogen has three isotopes: protium(H), deuterium (${}^{2}H$ or D) and tritium (${}^{3}H$ or T). They differ in (June 2022)",
+    "question_images": [],
+    "options": [
+      "A. atomic number",
+      "B. electronic configuration",
+      "C. number of protons",
+      "D. atomic mass."
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Isotopes have the same number of protons and electrons but different numbers of neutrons, leading to different atomic masses. [cite: 783, 785, 786, 787, 790]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Hydrogen",
+    "question": "From the following statements regarding H2O2, choose the incorrect statement.",
+    "question_latex": "From the following statements regarding $H_{2}O_{2}$, choose the incorrect statement.",
+    "question_images": [],
+    "options": [
+      "A. It decomposes on exposure to light.",
+      "B. It has to be kept away from dust.",
+      "C. It can act only as an oxidizing agent.",
+      "D. It has to be stored in plastic or wax lined glass bottles in dark."
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$H_{2}O_{2}$ is versatile and can act as both an oxidizing agent and a reducing agent. [cite: 791, 793, 795, 796]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Hydrogen",
+    "question": "Which of the following is not true?",
+    "question_latex": "Which of the following is not true?",
+    "question_images": [],
+    "options": [
+      "A. $D_{2}O$ freezes at lower temperature than $H_{2}O$ ",
+      "B. Reaction between $H_{2}$ and $Cl_{2}$ is much faster than $D_{2}$ and $Cl_{2}$ ",
+      "C. Ordinary water gets electrolysed more rapidly than $D_{2}O$ ",
+      "D. Bond dissociation energy of $D_{2}$ is greater than $H_{2}$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Statement A is false because $D_{2}O$ actually has a higher freezing point ($3.8^{\\circ}C$) than $H_{2}O$ ($0^{\\circ}C$). [cite: 797, 798, 799, 800]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+
+  {
+    "id": 76,
+    "chapter": "Hydrogen",
+    "question": "Triple point of water is",
+    "question_latex": "Triple point of water is",
+    "question_images": [],
+    "options": [
+      "A. 273.16 K",
+      "B. 373.15 K",
+      "C. 203.12 K",
+      "D. 193.16 K"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "The triple point of water is the unique temperature and pressure at which water can exist simultaneously as a solid, liquid, and gas. This temperature is $273.16\\ K$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Hydrogen",
+    "question": "The hardness of water is estimated by",
+    "question_latex": "The hardness of water is estimated by",
+    "question_images": [],
+    "options": [
+      "A. EDTA method",
+      "B. Titrimetric method",
+      "C. Conductivity method",
+      "D. Distillation method"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Hardness of water is estimated by complexometric titration using EDTA (Ethylenediaminetetraacetic acid), which forms stable complexes with $Ca^{2+}$ and $Mg^{2+}$ ions.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Hydrogen",
+    "question": "Which of the following is false about H2O2",
+    "question_latex": "Which of the following is false about $H_{2}O_{2}$",
+    "question_images": [],
+    "options": [
+      "A. Act as both oxidising and reducing agent",
+      "B. Two OH bonds lies in the same plane",
+      "C. Pale blue liquid",
+      "D. Can be oxidised by ozone"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "The structure of $H_{2}O_{2}$ is non-planar (open-book structure). The two $O-H$ bonds lie in different planes with a specific dihedral angle ($111.5^{\\circ}$ in gas phase).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Hydrogen",
+    "question": "The correct statements among (A) to (D) regarding H2 as a fuel are (A) It produces less pollutants than petrol. (B) A cylinder of compressed dihydrogen weighs 30 times more than a petrol tank producing the same amount of energy. (C) Dihydrogen is stored in tanks of metal alloys like NaNi5. (D) On combustion, values of energy released per gram of liquid dihydrogen and LPG are 50 and 142 kJ, respectively. (Jan 2019)",
+    "question_latex": "The correct statements among (A) to (D) regarding $H_{2}$ as a fuel are \\newline (A) It produces less pollutants than petrol. \\newline (B) A cylinder of compressed dihydrogen weighs 30 times more than a petrol tank producing the same amount of energy. \\newline (C) Dihydrogen is stored in tanks of metal alloys like $NaNi_{5}$. \\newline (D) On combustion, values of energy released per gram of liquid dihydrogen and LPG are 50 and 142 kJ, respectively. (Jan 2019)",
+    "question_images": [],
+    "options": [
+      "A. (A), (B) and (C) only",
+      "B. (A) and (C) only",
+      "C. (B) and (D) only",
+      "D. (B), (C) and (D) only"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Statements (A), (B), and (C) are correct. Statement (D) is incorrect because dihydrogen releases significantly more energy per gram ($142\\ kJ/g$) compared to LPG ($50\\ kJ/g$).",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Hydrogen",
+    "question": "Which of the following statements is incorrect?",
+    "question_latex": "Which of the following statements is incorrect?",
+    "question_images": [],
+    "options": [
+      "A. $H_{2}O_{2}$ can act as an oxidising agent",
+      "B. $H_{2}O_{2}$ can act as a reducing agent",
+      "C. $H_{2}O_{2}$ has acidic properties",
+      "D. $H_{2}O_{2}$ has basic properties"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$H_{2}O_{2}$ acts as a weak acid in aqueous solution, but it does not exhibit basic properties.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Hydrogen",
+    "question": "How does H2O2 differ from O3 in its chemical action?",
+    "question_latex": "How does $H_{2}O_{2}$ differ from $O_{3}$ in its chemical action?",
+    "question_images": [],
+    "options": [
+      "A. In oxidizing PbS to $PbSO_{4}$ ",
+      "B. In librating $I_{2}$ from KI",
+      "C. In decolorizing acidified $KMnO_{4}$ ",
+      "D. In oxidizing $K_{4}[Fe(CN)_{6}]$ to $K_{3}[Fe(CN)_{6}]$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$H_{2}O_{2}$ reduces acidified $KMnO_{4}$ (decolorizing it), whereas $O_{3}$ does not typically show this specific reducing reaction with $KMnO_{4}$ under the same conditions.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Hydrogen",
+    "question": "When zeolite (hydrated sodium aluminium silicate) is treated with hard water the sodium ions are exchanged with",
+    "question_latex": "When zeolite (hydrated sodium aluminium silicate) is treated with hard water the sodium ions are exchanged with",
+    "question_images": [],
+    "options": [
+      "A. $H^{+}$ ions",
+      "B. $Ca^{2+}$ ions",
+      "C. $SO_{4}^{2-}$ ions",
+      "D. $OH^{-}$ ions"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "In the zeolite process, $Na^{+}$ ions from the zeolite are exchanged with hardness-causing cations like $Ca^{2+}$ and $Mg^{2+}$ from the water: $Na_{2}Z + Ca^{2+} \\rightarrow CaZ + 2Na^{+}$. ",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Hydrogen",
+    "question": "Which is a source of nascent hydrogen? I. Zn + dil. HCl, II. CH3OH + Na III. Electrolysis of H2 IV. Silent electric discharge",
+    "question_latex": "Which is a source of nascent hydrogen? \\newline I. $Zn + \\text{dil. } HCl$ \\newline II. $CH_{3}OH + Na$ \\newline III. Electrolysis of $H_{2}$ \\newline IV. Silent electric discharge",
+    "question_images": [],
+    "options": [
+      "A. I, II",
+      "B. II, III",
+      "C. I, II, III, IV",
+      "D. IV"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Nascent hydrogen is newly formed hydrogen at the moment of its generation. Reactions like metal with acid (I) or active metal with alcohol (II) produce nascent hydrogen.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Hydrogen",
+    "question": "When two ice cubes are pressed over each other, they unite to form one cube. Which of the following forces is responsible to hold them together?",
+    "question_latex": "When two ice cubes are pressed over each other, they unite to form one cube. Which of the following forces is responsible to hold them together?",
+    "question_images": [],
+    "options": [
+      "A. Hydrogen bond formation",
+      "B. Van der Waals forces",
+      "C. Covalent attraction",
+      "D. Ionic interaction"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "When pressure is applied, the melting point decreases and a thin film of water forms. When pressure is released, the film refreezes and the cubes stick together primarily due to the formation of hydrogen bonds between water molecules.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Hydrogen",
+    "question": "H2O2 can also be obtained by the partial oxidation of 2-propanol (CH3)2CHOH + O2 -> (CH3)2CO + H2O2. Intermediate in this reaction is",
+    "question_latex": "$H_{2}O_{2}$ can also be obtained by the partial oxidation of 2-propanol $(CH_{3})_{2}CHOH + O_{2} \\rightarrow (CH_{3})_{2}CO + H_{2}O_{2}$. Intermediate in this reaction is",
+    "question_images": [],
+    "options": [
+      "A. $(CH_{3})_{2}COH$",
+      "B. $(CH_{3})_{3}C$",
+      "C. $(CH_{3})_{2}C(OH)OOH$",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The partial oxidation of 2-propanol involves the formation of a hydroperoxide intermediate, $(CH_{3})_{2}C(OH)OOH$, which then decomposes to yield acetone and $H_{2}O_{2}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Hydrogen",
+    "question": "The temporary hardness of a water sample is due to compound X. Boiling this sample converts X to compound Y. X and Y respectively, are (April 2019)",
+    "question_latex": "The temporary hardness of a water sample is due to compound X. Boiling this sample converts X to compound Y. X and Y respectively, are (April 2019)",
+    "question_images": [],
+    "options": [
+      "A. $Ca(HCO_{3})_{2}$ and $Ca(OH)_{2}$ ",
+      "B. $Mg(HCO_{3})_{2}$ and $MgCO_{3}$ ",
+      "C. $Mg(HCO_{3})_{2}$ and $Mg(OH)_{2}$ ",
+      "D. $Ca(HCO_{3})_{2}$ and $CaO$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Temporary hardness is due to bicarbonates. Boiling $Mg(HCO_{3})_{2}$ yields the less soluble $Mg(OH)_{2}$ (rather than $MgCO_{3}$) due to the high solubility product of $Mg(OH)_{2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 87,
+    "chapter": "Hydrogen",
+    "question": "In gas phase water is A molecule with a bond angle of B and OH bond length of C",
+    "question_latex": "In gas phase water is A molecule with a bond angle of B and OH bond length of C",
+    "question_images": [],
+    "options": [
+      "A. $A = \\text{Bent}, B = 100.5^{\\circ}, C = 95.7\\ pm$",
+      "B. $A = \\text{Bent}, B = 104.5^{\\circ}, C = 95.7\\ pm$",
+      "C. $A = \\text{Bent}, B = 109.5^{\\circ}, C = 99.7\\ pm$",
+      "D. $A = \\text{Bent}, B = 104.5^{\\circ}, C = 99.7\\ pm$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "In the gas phase, water ($H_{2}O$) is a bent molecule with a bond angle of $104.5^{\\circ}$ and an $O-H$ bond length of $95.7\\ pm$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Hydrogen",
+    "question": "Match the columns: Column-I: (A) Heavy water, (B) Temporary hard water, (C) Soft water, (D) Permanent hard water. Column-II: (p) Bicarbonates of Mg and Ca in water, (q) No foreign ions in water, (r) D2O, (s) Sulphates & chlorides of Mg & Ca in water.",
+    "question_latex": "Match the columns: \\newline Column-I: \\newline (A) Heavy water, (B) Temporary hard water, (C) Soft water, (D) Permanent hard water. \\newline Column-II: \\newline (p) Bicarbonates of Mg and Ca in water, (q) No foreign ions in water, (r) $D_{2}O$, (s) Sulphates \\& chlorides of Mg \\& Ca in water.",
+    "question_images": [],
+    "options": [
+      "A. A-(r), B-(s), C-(q), D-(p)",
+      "B. A-(q), B-(r), C-(s), D-(s)",
+      "C. A-(q), B-(s), C-(r), D-(p)",
+      "D. A-(r), B-(p), C-(q), D-(s)"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "(A) Heavy water is $D_{2}O$ (r). (B) Temporary hard water contains bicarbonates (p). (C) Soft water has no foreign ions (q). (D) Permanent hard water contains sulphates and chlorides (s).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Hydrogen",
+    "question": "Identify x and y in following reaction. What is the mixture of x and y called? CH4(g) + H2O(g) --1270 K/Ni--> x + y",
+    "question_latex": "Identify x and y in following reaction. What is the mixture of x and y called? \\newline $CH_{4}(g) + H_{2}O(g) \\xrightarrow[Ni]{1270\\ K} x + y$",
+    "question_images": [],
+    "options": [
+      "A. $x = CO_{2}, y = H_{2}O$, water gas",
+      "B. $x = CO, y = H_{2}O$, syn gas",
+      "C. $x = CO, y = H_{2}$, water gas",
+      "D. $x = CO_{2}, y = H_{2}$, syn gas"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Steam reforming of methane produces a mixture of Carbon monoxide and Hydrogen: $CH_{4} + H_{2}O \\rightarrow CO + 3H_{2}$. This mixture is known as water gas or synthesis gas (syn gas).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Hydrogen",
+    "question": "Calgon used as a water softener is",
+    "question_latex": "Calgon used as a water softener is",
+    "question_images": [],
+    "options": [
+      "A. $Na_{2}[Na_{4}(PO_{3})_{6}]$",
+      "B. $Na_{4}[Na_{2}(PO_{3})_{6}]$",
+      "C. $Na_{4}[Na_{4}(PO_{4})_{5}]$",
+      "D. $Na_{4}[Na_{2}(PO_{4})_{6}]$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Calgon is the trade name for Sodium Hexametaphosphate $(NaPO_{3})_{6}$, chemically represented as $Na_{2}[Na_{4}(PO_{3})_{6}]$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Hydrogen",
+    "question": "Boiling of hard water is helpful in removing the temporary hardness by converting calcium hydrogen carbonate and magnesium hydrogen carbonate to (June 2022)",
+    "question_latex": "Boiling of hard water is helpful in removing the temporary hardness by converting calcium hydrogen carbonate and magnesium hydrogen carbonate to (June 2022)",
+    "question_images": [],
+    "options": [
+      "A. $CaCO_{3}$ and $Mg(OH)_{2}$ ",
+      "B. $Ca(OH)_{2}$ and $MgCO_{3}$ ",
+      "C. $Ca(OH)_{2}$ and $Mg(OH)_{2}$ ",
+      "D. $CaCO_{3}$ and $MgCO_{3}$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Upon boiling, $Ca(HCO_{3})_{2}$ decomposes to $CaCO_{3}$ precipitate, and $Mg(HCO_{3})_{2}$ decomposes to $Mg(OH)_{2}$ precipitate.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Hydrogen",
+    "question": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): Hydrogen is the most abundant element in the universe, but it is not the most abundant gas in the troposphere. Reason (R): Hydrogen is the lightest element. In the light of the above statements, choose the correct answer from the options given below: (Feb 2021)",
+    "question_latex": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R). \\newline Assertion (A): Hydrogen is the most abundant element in the universe, but it is not the most abundant gas in the troposphere. \\newline Reason (R): Hydrogen is the lightest element. \\newline In the light of the above statements, choose the correct answer from the options given below: (Feb 2021)",
+    "question_images": [],
+    "options": [
+      "A. Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "B. (A) is false but (R) is true.",
+      "C. Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+      "D. (A) is true but (R) is false."
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Hydrogen is the most abundant element in the universe. However, because it is the lightest element (Reason), it has high thermal velocity and escapes Earth's gravity, making it rare in the troposphere (where Nitrogen is most abundant).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Hydrogen",
+    "question": "The oxide that gives H2O2 most readily on treatment with with H2O is (Aug 2021)",
+    "question_latex": "The oxide that gives $H_{2}O_{2}$ most readily on treatment with with $H_{2}O$ is (Aug 2021)",
+    "question_images": [],
+    "options": [
+      "A. $Na_{2}O_{2}$ ",
+      "B. $BaO_{2} \\cdot 8H_{2}O$ ",
+      "C. $SnO_{2}$ ",
+      "D. $PbO_{2}$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Sodium peroxide ($Na_{2}O_{2}$) reacts readily with water at low temperatures to produce sodium hydroxide and hydrogen peroxide: $Na_{2}O_{2} + 2H_{2}O \\rightarrow 2NaOH + H_{2}O_{2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Hydrogen",
+    "question": "Consider the following statements Ortho and para forms of hydrogens are I. different due to difference in their nuclear spins II. different due to difference in their electrons spins III. have same physical properties Select true and false statements I II III",
+    "question_latex": "Consider the following statements regarding Ortho and para forms of hydrogen: \\newline I. they are different due to difference in their nuclear spins \\newline II. they are different due to difference in their electrons spins \\newline III. they have same physical properties \\newline Select true and false sequence for I, II, III:",
+    "question_images": [],
+    "options": [
+      "A. T T F",
+      "B. F T F",
+      "C. T F F",
+      "D. T F T"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Ortho and para hydrogen differ only in nuclear spin (I is T). Their electron spins are the same (II is F), and they have different physical properties like thermal conductivity and heat capacity (III is F).",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Hydrogen",
+    "question": "Which of the following equations depicts the oxidizing nature of H2O2? (Feb 2020)",
+    "question_latex": "Which of the following equations depicts the oxidizing nature of $H_{2}O_{2}$? (Feb 2020)",
+    "question_images": [],
+    "options": [
+      "A. $KIO_{4} + H_{2}O_{2} \\rightarrow KIO_{3} + H_{2}O + O_{2}$",
+      "B. $Cl_{2} + H_{2}O_{2} \\rightarrow 2HCl + O_{2}$",
+      "C. $I_{2} + H_{2}O_{2} + 2OH^{-} \\rightarrow 2I^{-} + 2H_{2}O + O_{2}$",
+      "D. $2I^{-} + H_{2}O_{2} + 2H^{+} \\rightarrow I_{2} + 2H_{2}O$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "In reaction (D), $H_{2}O_{2}$ oxidizes the iodide ion ($I^{-}$, O.S. = -1) to molecular iodine ($I_{2}$, O.S. = 0). In the other options, $H_{2}O_{2}$ acts as a reducing agent.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Hydrogen",
+    "question": "The boiling point of water is exceptionally high because",
+    "question_latex": "The boiling point of water is exceptionally high because",
+    "question_images": [],
+    "options": [
+      "A. there is covalent bond between H and O",
+      "B. water molecule is linear",
+      "C. water molecules associate due to hydrogen bonding",
+      "D. water molecule is not linear"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The high boiling point of water relative to other group 16 hydrides is due to extensive intermolecular hydrogen bonding, which requires more energy to break.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Hydrogen",
+    "question": "Which of the following is correct about heavy water?",
+    "question_latex": "Which of the following is correct about heavy water?",
+    "question_images": [],
+    "options": [
+      "A. Water at $4^{\\circ}C$ having maximum density is known as heavy water",
+      "B. It is heavier than water $(H_{2}O)$ ",
+      "C. It is formed by the combination of heavier isotope of hydrogen with oxygen",
+      "D. Both (B) and (C)"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Heavy water ($D_{2}O$) contains the heavier isotope deuterium (C is correct) and has a higher density/molecular mass than ordinary water (B is correct). Option (A) describes a property of normal water.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Hydrogen",
+    "question": "(A) FeCl3 solution + Zn -> product X (B) FeCl3 solution + H2 gas -> product Y. FeCl3 solution gives blue colour with K4[Fe(CN)6] hence",
+    "question_latex": "(A) $FeCl_{3}$ solution + $Zn \\rightarrow$ product $X$ \\newline (B) $FeCl_{3}$ solution + $H_{2}$ gas $\\rightarrow$ product $Y$. \\newline $FeCl_{3}$ solution gives blue colour with $K_{4}[Fe(CN)_{6}]$ hence",
+    "question_images": [],
+    "options": [
+      "A. $X$ also gives blue colour with $K_{4}[Fe(CN)_{6}]$ ",
+      "B. $Y$ also gives blue colour with $K_{4}[Fe(CN)_{6}]$ ",
+      "C. Both $X$ and $Y$ give blue colour with $K_{4}[Fe(CN)_{6}]$ ",
+      "D. None gives colour with $K_{4}[Fe(CN)_{6}]$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Zn with acid (from $FeCl_{3}$ hydrolysis) produces nascent hydrogen which reduces $Fe^{3+}$ to $Fe^{2+}$, so $X$ ($FeCl_{2}$) doesn't give a blue color. Molecular $H_{2}$ gas is not strong enough to reduce $Fe^{3+}$, so $Y$ still contains $Fe^{3+}$ and gives the blue color.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Hydrogen",
+    "question": "Permanent hardness of water can be removed by adding",
+    "question_latex": "Permanent hardness of water can be removed by adding",
+    "question_images": [],
+    "options": [
+      "A. $NaHCO_{3}$ ",
+      "B. $Na_{2}CO_{3}$ ",
+      "C. $CaOCl_{2}$ ",
+      "D. $Cl_{2}$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Sodium carbonate (washing soda) reacts with soluble chlorides and sulphates of calcium and magnesium to form insoluble carbonates, thereby removing permanent hardness.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Hydrogen",
+    "question": "In the hydrogen peroxide molecule:",
+    "question_latex": "In the hydrogen peroxide molecule:",
+    "question_images": [],
+    "options": [
+      "A. $OH$ bonds are polar but molecule is non-polar.",
+      "B. The four atoms are arranged in a non-linear and non-planar manner.",
+      "C. All the four atoms are in same plane.",
+      "D. Two hydrogen atoms are connected to one of the oxygen."
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$H_{2}O_{2}$ has a non-planar 'open-book' structure where the atoms are not in a single line or plane. It is a polar molecule.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  }
+]
+
+

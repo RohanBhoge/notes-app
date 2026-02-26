@@ -1,0 +1,1927 @@
+[
+    {
+        "id": 1,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which fact is not valid for Dobereiner's triads?",
+        "question_latex": "Which fact is not valid for Dobereiner's triads?",
+        "question_images": [],
+        "options": [
+            "A. The atomic weight of middle element is roughly average of the other two elements",
+            "B. The properties of middle element is roughly average of the other two elements",
+            "C. The elements of triads belong to the same group of modern periodic table",
+            "D. The elements of triads have same valency electrons."
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "According to Dobereiner's Law of Triads, the atomic weight of the middle element is roughly the arithmetic mean of the other two. While properties are similar, stating they are a 'roughly average' of the others is not the formal definition of the law.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The statement that is not correct for the periodic classification of elements is",
+        "question_latex": "The statement that is not correct for the periodic classification of elements is",
+        "question_images": [],
+        "options": [
+            "A. The properties of elements are the periodic functions of their atomic numbers",
+            "B. Non-metallic elements are lesser in number than metallic elements",
+            "C. The first ionization energies of elements along a period do not vary in a regular manner with increase in atomic number",
+            "D. For transition elements the d-subshells are filled with electron monotonically with increase in atomic number"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "In transition elements, the filling of $d$-subshells is not always monotonic due to extra stability of half-filled and fully-filled configurations (e.g., $Cr$ and $Cu$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Most covalent halide of aluminium is:",
+        "question_latex": "Most covalent halide of aluminium is:",
+        "question_images": [],
+        "options": [
+            "A. $AlCl_{3}$",
+            "B. $AlI_{3}$",
+            "C. $AlBr_{3}$",
+            "D. $AlF_{3}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "According to Fajans' rule, a larger anion is more easily deformed/polarized by the cation. Since $I^-$ is the largest anion among the halides, $AlI_3$ shows the maximum covalent character.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Strongest bond is formed by the head on overlapping of:",
+        "question_latex": "Strongest bond is formed by the head on overlapping of:",
+        "question_images": [],
+        "options": [
+            "A. 2s and 2p-orbitals",
+            "B. 2p- and 2p-orbitals",
+            "C. 2s- and 2s-orbitals",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "More directionally concentrated orbitals show more effective overlapping. $2p-2p$ head-on overlap is stronger than $s-s$ or $s-p$ overlap.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which group of the Periodic Table contains coinage metal?",
+        "question_latex": "Which group of the Periodic Table contains coinage metal?",
+        "question_images": [],
+        "options": [
+            "A. IIA",
+            "B. IB",
+            "C. IA",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Group IB (Group 11 in Modern Periodic Table) contains $Cu, Ag, Au$, which are known as coinage metals.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which pair has both members from the same period of Periodic Table?",
+        "question_latex": "Which pair has both members from the same period of Periodic Table?",
+        "question_images": [],
+        "options": [
+            "A. Cl, Br",
+            "B. Ca, Cl",
+            "C. Na, Ca",
+            "D. Na, Cl"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Sodium (${}_{11}Na: 2, 8, 1$) and Chlorine (${}_{17}Cl: 2, 8, 7$) both have 3 shells, hence they both belong to the 3rd period.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The increasing order of first ionisation enthalpies of the elements B, P, S and F (lowest first) is",
+        "question_latex": "The increasing order of first ionisation enthalpies of the elements $B, P, S$ and $F$ (lowest first) is",
+        "question_images": [],
+        "options": [
+            "A. $F < S < P < B$",
+            "B. $P < S < B < F$",
+            "C. $B < P < S < F$",
+            "D. $B < S < P < F$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Based on periodic trends: Ionization energy increases across a period and decreases down a group. $P$ has a higher IE than $S$ because of its stable half-filled configuration ($3p^3$). The correct order is $B < S < P < F$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "IP is influenced by:",
+        "question_latex": "IP is influenced by:",
+        "question_images": [],
+        "options": [
+            "A. Size of atom",
+            "B. Charge on nucleus",
+            "C. Electrons present in inner shells",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Ionization Potential (IP) depends on atomic size, nuclear charge, and the shielding effect of inner shell electrons.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The elements with atomic numbers 101 and 104 belong to, respectively,",
+        "question_latex": "The elements with atomic numbers 101 and 104 belong to, respectively,",
+        "question_images": [],
+        "options": [
+            "A. group 6 and actinoids",
+            "B. actinoids and group 4",
+            "C. group 11 and group 4",
+            "D. actinoids and group 6"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$Z=101$ is Mendelevium, which is an actinoid. $Z=104$ has configuration $[Rn]5f^{14}6d^{2}7s^{2}$, placing it in Group 4.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The outermost configuration of the least reactive element is",
+        "question_latex": "The outermost configuration of the least reactive element is",
+        "question_images": [],
+        "options": [
+            "A. $ns^{2}p^{3}$",
+            "B. $ns^{2}p^{4}$",
+            "C. $ns^{2}p^{5}$",
+            "D. $ns^{2}p^{6}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The configuration $ns^2 np^6$ represents noble gases, which have a complete octet and are the least reactive.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Choose the correct codes for the following statements related to s-block elements. Here 'T' stands for true and F stands for false statement. (i) They are all reactive metals with low ionization enthalpies. (ii) Their metallic character and reactivity increase as we go down the group. (iii) They are found in pure form in nature. (iv) All the compounds of s-block elements are ionic in nature.",
+        "question_latex": "Choose the correct codes for the following statements related to $s$-block elements. Here 'T' stands for true and F stands for false statement. (i) They are all reactive metals with low ionization enthalpies. (ii) Their metallic character and reactivity increase as we go down the group. (iii) They are found in pure form in nature. (iv) All the compounds of $s$-block elements are ionic in nature.",
+        "question_images": [],
+        "options": [
+            "A. TTFF",
+            "B. TTFT",
+            "C. TTTF",
+            "D. TFFF"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Statement (iii) is false because $s$-block elements are highly reactive and never found pure in nature. Statement (iv) is false because $Li$ and $Be$ compounds are predominantly covalent.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Of the following pairs, the one containing examples of metalloid elements in the Periodic Table is",
+        "question_latex": "Of the following pairs, the one containing examples of metalloid elements in the Periodic Table is",
+        "question_images": [],
+        "options": [
+            "A. Na and K",
+            "B. F and Cl",
+            "C. Cu and Ag",
+            "D. B and Si"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Boron (B) and Silicon (Si) are metalloids. Na, K, Cu, and Ag are metals. F and Cl are non-metals.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which element has the highest electron affinity?",
+        "question_latex": "Which element has the highest electron affinity?",
+        "question_images": [],
+        "options": [
+            "A. F",
+            "B. Cl",
+            "C. Br",
+            "D. I"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Chlorine has a higher electron affinity than Fluorine because the small size of Fluorine leads to strong inter-electronic repulsions when an electron is added.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Identify the elements X and Y using ionization energy values given below. Ionization energy (kJ/mol): X (1st: 495, 2nd: 4563), Y (1st: 731, 2nd: 1450)",
+        "question_latex": "Identify the elements $X$ and $Y$ using ionization energy values given below. Ionization energy $(\\text{kJ/mol})$: $X$ ($1^{\\text{st}}: 495, 2^{\\text{nd}}: 4563$), $Y$ ($1^{\\text{st}}: 731, 2^{\\text{nd}}: 1450$)",
+        "question_images": [],
+        "options": [
+            "A. X = Mg; Y = Na",
+            "B. X = Mg; Y = F",
+            "C. X = Na; Y = Mg",
+            "D. X = F; Y = Mg"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "X shows a massive jump between 1st and 2nd IE, indicating the 2nd electron is removed from a noble gas core (typical for alkali metals like Na). Y has a smaller gap, typical for alkaline earth metals like Mg.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Strongest bond is in:",
+        "question_latex": "Strongest bond is in:",
+        "question_images": [],
+        "options": [
+            "A. NaCl",
+            "B. CsCl",
+            "C. Both (a) and (b)",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$CsCl$ is considered more ionic because Cesium is the most electropositive stable element, leading to a higher ionic bond strength in this context.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The atomic number of the element unnilennium is",
+        "question_latex": "The atomic number of the element unnilennium is",
+        "question_images": [],
+        "options": [
+            "A. 109",
+            "B. 119",
+            "C. 108",
+            "D. 102"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to IUPAC nomenclature: un (1) + nil (0) + enn (9) + ium = 109.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which will have graded property similar to EC $1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}4s^{1}$?",
+        "question_latex": "Which will have graded property similar to EC $1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}4s^{1}$?",
+        "question_images": [],
+        "options": [
+            "A. $[Ar]3d^{10}4s^{1}$",
+            "B. $[Kr]4d^{10}5s^{1}$",
+            "C. $[Kr]5s^{1}$",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The given configuration is for Potassium ($Z=19$), an alkali metal (Group 1). Graded properties are shared by elements in the same group. $[Kr]5s^1$ is Rubidium, which is also in Group 1.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The electronegativities of elements A and B are 1.2 and 3.4 units respectively. The type of bond connecting A and B in compound AB is",
+        "question_latex": "The electronegativities of elements $A$ and $B$ are $1.2$ and $3.4$ units respectively. The type of bond connecting $A$ and $B$ in compound $AB$ is",
+        "question_images": [],
+        "options": [
+            "A. Covalent",
+            "B. Ionic",
+            "C. Coordinate covalent",
+            "D. Polar covalent"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The electronegativity difference is $3.4 - 1.2 = 2.2$. Generally, a difference greater than 1.7-1.9 indicates an ionic bond.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Select the correct statement(s)",
+        "question_latex": "Select the correct statement(s)",
+        "question_images": [],
+        "options": [
+            "A. Across a transition series, there is only a small decrease in atomic radius from one element to another due to very small increase in effective nuclear charge",
+            "B. The rate of decrease in the size across the lanthanide series is less than the across the first transition series",
+            "C. Both (a) & (b) are correct statements",
+            "D. None of the above statement is correct"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Statement A is correct as shielding by d-electrons counters the nuclear charge. Statement B is correct as lanthanide contraction involves even poorer shielding by f-electrons but the overall rate across the 14 elements is relatively smooth.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The number of valency electrons in carbon atom is:",
+        "question_latex": "The number of valency electrons in carbon atom is:",
+        "question_images": [],
+        "options": [
+            "A. Zero",
+            "B. 2",
+            "C. 6",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Carbon ($Z=6$) has electronic configuration $1s^{2} 2s^{2} 2p^{2}$. The valence shell is $n=2$, containing $2+2=4$ electrons.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Consider the following statements: (i) The elements silicon, germanium and arsenic are called metalloids. (ii) Metalloids have properties quite different from those of metals and non-metals. Which of these statement(s) is/are correct?",
+        "question_latex": "Consider the following statements: (i) The elements silicon, germanium and arsenic are called metalloids. (ii) Metalloids have properties quite different from those of metals and non-metals. Which of these statement(s) is/are correct?",
+        "question_images": [],
+        "options": [
+            "A. (i) only",
+            "B. (ii) only",
+            "C. Both (i) and (ii)",
+            "D. Neither (i) nor (ii)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Statement (i) is a fact. Statement (ii) is also correct as metalloids show intermediate properties between metals and non-metals.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The IUPAC symbol for the element with atomic number 119 would be",
+        "question_latex": "The IUPAC symbol for the element with atomic number 119 would be",
+        "question_images": [],
+        "options": [
+            "A. unh",
+            "B. une",
+            "C. uun",
+            "D. uue"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "For $Z=119$: 1 (un) + 1 (un) + 9 (enn) = uue.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Outermost electronic configuration of a group 13 element, E, is $4s^{2}, 4p^{1}$. The electronic configuration of an element of p-block period-five placed diagonally to element, E is",
+        "question_latex": "Outermost electronic configuration of a group 13 element, $E$, is $4s^{2}, 4p^{1}$. The electronic configuration of an element of $p$-block period-five placed diagonally to element, $E$ is",
+        "question_images": [],
+        "options": [
+            "A. $[Xe]5d^{10}6s^{2}6p^{2}$",
+            "B. $[Ar]3d^{10}4s^{2}4p^{2}$",
+            "C. $[Kr]3d^{10}4s^{2}4p^{2}$",
+            "D. $[Kr]4d^{10}5s^{2}5p^{2}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Element E is Gallium (Period 4, Group 13). The element diagonally below it in Period 5, Group 14 is Tin ($Sn$, $Z=50$). The configuration of $Sn$ is $[Kr]4d^{10}5s^{2}5p^{2}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Assertion (A): Metallic character decreases and non-metallic character increases on moving from left to right in a period. Reason (R): It is due to increase in ionisation enthalpy and decrease in electron gain enthalpy, when one moves from left to right in a period.",
+        "question_latex": "\\text{Assertion (A): Metallic character decreases and non-metallic character increases on moving from left to right in a period.} \\\\ \\text{Reason (R): It is due to increase in ionisation enthalpy and decrease in electron gain enthalpy, when one moves from left to right in a period.}",
+        "question_images": [],
+        "options": [
+            "A. Assertion is false but reason is true.",
+            "B. Both assertion and reason are correct and reason is the correct explanation of assertion.",
+            "C. Both assertion and reason are correct but reason is not the correct explanation of assertion.",
+            "D. Assertion is true but reason is false."
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The assertion is true. However, the reason is false because electron gain enthalpy generally becomes more negative (increases in magnitude) from left to right across a period.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which of the following represents the correct order of metallic character of the given elements?",
+        "question_latex": "Which of the following represents the correct order of metallic character of the given elements?",
+        "question_images": [],
+        "options": [
+            "A. $Be < Si < Mg < K$",
+            "B. $Be < Si < K < Mg$",
+            "C. $K < Mg < Be < Si$",
+            "D. $Si < Be < Mg < K$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Metallic character increases down a group and decreases across a period. Si is a metalloid (least metallic), Be and Mg are Group 2 (Mg > Be), and K is Group 1 (most metallic). Order: $Si < Be < Mg < K$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The law of triads is applicable to a group of",
+        "question_latex": "The law of triads is applicable to a group of",
+        "question_images": [],
+        "options": [
+            "A. Cl, Br, I",
+            "B. C, N, O",
+            "C. Na, K, Rb",
+            "D. H, O, N"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to the law of triads the atomic wt of the middle element is arithmatic mean of I and III[cite: 151]. \n$At. wt. of Br = \\frac{At.wt. of Cl + At.wt. of I}{2}$[cite: 152].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The electronic configuration of four elements are given below. Which elements does not belong to the same family as others?",
+        "question_latex": "The electronic configuration of four elements are given below. Which elements does not belong to the same family as others?",
+        "question_images": [],
+        "options": [
+            "A. $[Xe]4f^{14}5d^{10}6s^{2}$",
+            "B. $[Kr]4d^{10}5s^{2}$",
+            "C. $[Ne]3s^{2}3p^{5}$",
+            "D. $[Ar]3d^{10}4s^{2}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Options A, B, and D represent elements whose valence shells end in $s^2$, placing them in the same family or group (Group 2 or Group 12)[cite: 155, 157]. Option C represents $[Ne]3s^{2}3p^{5}$, which is Chlorine, a member of the halogen family[cite: 155, 156].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "With respect to oxygen maximum valency is shown by",
+        "question_latex": "With respect to oxygen maximum valency is shown by",
+        "question_images": [],
+        "options": [
+            "A. Halogen family",
+            "B. Oxygen family",
+            "C. Nitrogen family",
+            "D. Boron family"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Halogens can show a maximum valency of +7 towards oxygen, as seen in $Cl_{2}O_{7}$[cite: 161].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which represents a collection of isoelectronic species?",
+        "question_latex": "Which represents a collection of isoelectronic species?",
+        "question_images": [],
+        "options": [
+            "A. Be, $Al^{3+}$, $Cl^{-}$",
+            "B. $Ca^{2+}$, $Cs^{+}$, $Br$",
+            "C. $Na^{+}$, $Ca^{2+}$, $Mg^{2+}$",
+            "D. $N^{3-}$, $F^{-}$, $Na^{+}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Isoelectronic species have the same number of electrons[cite: 162]. In option D, $N^{3-}$, $F^{-}$, and $Na^{+}$ each have 10 electrons[cite: 165].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Element having atomic no. of 56 belongs to which of the following block of periodic table?",
+        "question_latex": "Element having atomic no. of 56 belongs to which of the following block of periodic table?",
+        "question_images": [],
+        "options": [
+            "A. p-block",
+            "B. d-block",
+            "C. f-block",
+            "D. s-block"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Barium has atomic number 56. It is an alkaline earth metal found in the s-block[cite: 166].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which element has maximum electron affinity?",
+        "question_latex": "Which element has maximum electron affinity?",
+        "question_images": [],
+        "options": [
+            "A. Na",
+            "B. Mg",
+            "C. Al",
+            "D. S"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Electron affinity generally increases across a period[cite: 166]. Among the given options (Na, Mg, Al, S), Sulfur (S) has the highest value[cite: 166].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which of the following will have the most negative electron affinity and which the least negative?",
+        "question_latex": "Which of the following will have the most negative electron affinity and which the least negative?",
+        "question_images": [],
+        "options": [
+            "A. F, Cl",
+            "B. Cl, F",
+            "C. Cl, S",
+            "D. Cl, P"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Chlorine (Cl) has the most negative electron affinity in the periodic table[cite: 166, 194]. Phosphorus (P) has a stable half-filled $p^3$ configuration, making its electron affinity significantly less negative[cite: 166].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "In third row of Periodic Table from Na to Cl",
+        "question_latex": "In third row of Periodic Table from $Na$ to $Cl$",
+        "question_images": [],
+        "options": [
+            "A. Electronegativity increases",
+            "B. Electronegativity decreases",
+            "C. Ionisation energy decreases",
+            "D. Atomic volume increases"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Across a period from left to right, electronegativity increases due to an increase in effective nuclear charge[cite: 166].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Alkali metals are powerful reducing agents because",
+        "question_latex": "Alkali metals are powerful reducing agents because",
+        "question_images": [],
+        "options": [
+            "A. these are metals",
+            "B. their ionic radii are large",
+            "C. these are monovalent",
+            "D. their ionisation potential is low"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Alkali metals have an $ns^1$ outer configuration and low ionization energy (IE), which allows them to lose electrons very easily[cite: 166].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Among HX, the maximum dipole moment is of",
+        "question_latex": "Among $HX$, the maximum dipole moment is of",
+        "question_images": [],
+        "options": [
+            "A. HF",
+            "B. HCl",
+            "C. HBr",
+            "D. HI"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The dipole moment depends on the electronegativity difference between the atoms[cite: 166]. Fluorine is the most electronegative element, so $HF$ has the largest difference and maximum dipole moment[cite: 166].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The first ionisation value of Na is 5.1eV. The value of electron gain enthalpy of Na+ will be",
+        "question_latex": "The first ionisation value of $Na$ is $5.1 \\text{ eV}$. The value of electron gain enthalpy of $Na^{+}$ will be",
+        "question_images": [],
+        "options": [
+            "A. +2.55eV",
+            "B. -10.2eV",
+            "C. -2.55eV",
+            "D. -5.1eV"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The electron gain enthalpy of a cation ($M^+$) is equal to the negative of the ionization potential of the neutral atom ($M$)[cite: 166]. Thus, $\\Delta H_{eg}(Na^{+}) = -IE(Na) = -5.1 \\text{ eV}$[cite: 166].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The first four ionisation energy values of an element are 191, 578, 872 and 5962 kcal. The number of valence electrons in the element is",
+        "question_latex": "The first four ionisation energy values of an element are $191, 578, 872$ and $5962 \\text{ kcal}$. The number of valence electrons in the element is",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "There is a very large jump between the $3^{rd}$ and $4^{th}$ ionization energies, indicating that the $4^{th}$ electron is removed from a stable inner shell[cite: 166]. Therefore, the element has 3 valence electrons[cite: 166].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Select the correct alternate about (IE)",
+        "question_latex": "Select the correct alternate about $(IE)$",
+        "question_images": [],
+        "options": [
+            "A. $(IE)_{1}$ of $Be > (IE)_{1}$ of $B$",
+            "B. $(IE)_{1}$ of $O > (IE)_{1}$ of $N$",
+            "C. Both (a) and (b)",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Beryllium ($2s^2$) has a stable fully-filled subshell, making its first ionization energy higher than that of Boron ($2s^2 2p^1$)[cite: 166]. In contrast, Nitrogen ($2p^3$) has a higher IE than Oxygen ($2p^4$) due to its stable half-filled subshell[cite: 166].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The complex ion which has no 'd' electrons in the central metal atom is:",
+        "question_latex": "The complex ion which has no '$d$' electrons in the central metal atom is:",
+        "question_images": [],
+        "options": [
+            "A. $[MnO_{4}]^{-}$",
+            "B. $[Co(NH_{3})_{6}]^{3+}$",
+            "C. $[Fe(CN)_{6}]^{3-}$",
+            "D. $[Cr(H_{2}O)_{6}]^{3+}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In $[MnO_{4}]^{-}$, Manganese is in the $+7$ oxidation state[cite: 169]. Its configuration becomes $[Ar]3d^0 4s^0$, meaning it has zero $d$ electrons[cite: 169].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The correct order of increasing oxidising power is",
+        "question_latex": "The correct order of increasing oxidising power is",
+        "question_images": [],
+        "options": [
+            "A. $F_{2} < Cl_{2} < I_{2} < Br_{2}$",
+            "B. $F_{2} < Br_{2} < Cl_{2} < I_{2}$",
+            "C. $Cl_{2} < Br_{2} < F_{2} < I_{2}$",
+            "D. $I_{2} < Br_{2} < Cl_{2} < F_{2}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Oxidising power in halogens decreases from Fluorine to Iodine as their reduction potentials decrease[cite: 172]. The order is: $I_2 (+0.54) < Br_2 (+1.06) < Cl_2 (+1.36) < F_2 (+2.87)$[cite: 174, 176].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The atomic radius of Ag is closest to",
+        "question_latex": "The atomic radius of $Ag$ is closest to",
+        "question_images": [],
+        "options": [
+            "A. Au",
+            "B. Hg",
+            "C. Cu",
+            "D. Ni"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Due to lanthanide contraction, the atomic radii of Silver (Ag) and Gold (Au) are almost the same ($144 \\text{ pm}$)[cite: 180].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Ionic radii of:",
+        "question_latex": "Ionic radii of:",
+        "question_images": [],
+        "options": [
+            "A. $Ti^{4+} < Mn^{7+}$",
+            "B. ${}^{35}Cl^{-} < {}^{37}Cl^{-}$",
+            "C. $K^{+} > Cl^{-}$",
+            "D. $P^{3+} > P^{5+}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "For the same element, the radius decreases as the positive charge increases because of the increase in effective nuclear charge[cite: 182, 183]. Thus, $P^{3+} > P^{5+}$[cite: 182, 183].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The incorrect statement is",
+        "question_latex": "The incorrect statement is",
+        "question_images": [],
+        "options": [
+            "A. the first ionization enthalpy of element with atomic number 37 is lower than that of the element with atomic number 38.",
+            "B. Xe does not have the lowest first ionization enthalpy in its group.",
+            "C. the first ionization enthalpy of K is less than that of Na and Li.",
+            "D. the first ionization enthalpy of Ga is higher than that of the d-block element with atomic number 30."
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The first ionization enthalpy of Gallium (Ga) is $579 \\text{ kJ/mol}$, while the d-block element with atomic number 30 (Zinc) has a higher first ionization enthalpy of $906 \\text{ kJ/mol}$[cite: 191]. Therefore, the statement in option D is incorrect[cite: 190, 191].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which one of the following statements is incorrect?",
+        "question_latex": "Which one of the following statements is incorrect?",
+        "question_images": [],
+        "options": [
+            "A. Greater the nuclear charge, greater is the electron affinity",
+            "B. Nitrogen has zero electron affinity",
+            "C. Electron affinity decreases from fluorine to iodine in 17th group",
+            "D. Chlorine has highest electron affinity"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Electron affinity does not decrease monotonically from Fluorine to Iodine; Chlorine actually has a higher (more negative) electron affinity than Fluorine[cite: 194, 196].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The correct order of atomic radii is",
+        "question_latex": "The correct order of atomic radii is",
+        "question_images": [],
+        "options": [
+            "A. Ce > Eu > Ho > N",
+            "B. N > Ce > Eu > Ho",
+            "C. Ho > N > Eu > Ce",
+            "D. Eu > Ce > Ho > N"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Atomic radii follow the order: $Eu (199 \\text{ pm}) > Ce (183 \\text{ pm}) > Ho (176 \\text{ pm}) > N (70 \\text{ pm})$[cite: 199].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "In the case of alkali metals, the covalent character decreases in the order:",
+        "question_latex": "In the case of alkali metals, the covalent character decreases in the order:",
+        "question_images": [],
+        "options": [
+            "A. $MI > MBr > MCl > MF$",
+            "B. $MCl > MI > MBr > MF$",
+            "C. $MF > MCl > MBr > MI$",
+            "D. $MF > MCl > MI > MBr$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to Fajans' rule, a larger anion is more polarized by the cation, leading to greater covalent character[cite: 203]. Thus, the order of decreasing covalent character is $MI > MBr > MCl > MF$[cite: 200, 202].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "$NH_{3}$ has a net dipole moment, but boron trifluoride ($BF_{3}$) has zero dipole moment, because:",
+        "question_latex": "$NH_{3}$ has a net dipole moment, but boron trifluoride ($BF_{3}$) has zero dipole moment, because:",
+        "question_images": [],
+        "options": [
+            "A. B is less electronegative than N",
+            "B. F is more electronegative than H",
+            "C. $BF_{3}$ is pyramidal while $NH_{3}$ is planar",
+            "D. $NH_{3}$ is pyramidal while $BF_{3}$ is trigonal planar"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$BF_3$ has a trigonal planar geometry where the three bond dipoles ($B \\rightarrow F$) act at $120^{\\circ}$ and cancel each other out[cite: 208]. In contrast, $NH_3$ is pyramidal with bond dipoles ($N \\leftarrow H$) and a lone pair that result in a net dipole moment[cite: 209].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "In which of the following pairs of molecules/ions, the central atom has $sp^{2}$-hybridization?",
+        "question_latex": "In which of the following pairs of molecules/ions, the central atom has $sp^{2}$-hybridization?",
+        "question_images": [],
+        "options": [
+            "A. $NO_{2}$ and $NH_{3}$",
+            "B. $BF_{3}$ and $NO_{2}^{-}$",
+            "C. $NH_{2}^{-}$ and $H_{2}O$",
+            "D. $BF_{3}$ and $NH_{2}^{-}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Both $BF_3$ and $NO_2^-$ have central atoms with $sp^2$ hybridization[cite: 213]. In contrast, $NH_3, NH_2^-$, and $H_2O$ all have $sp^3$ hybridization[cite: 213].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Match the columns. Column-I: (A) Newland law of octaves, (B) Mendeleev, (C) Electronic configuration, (D) Lother Meyer, (E) Dobereiner's triad. Column-II: (p) Atomic mass vs Atomic volume, (q) Li, Na, K, (r) One to seven groups sub-group A and B, (s) Periodic repetition of properties of elements, (t) Only 56 elements known.",
+        "question_latex": "\\text{Match the columns.} \\\\ \\text{Column-I:} \\\\ (A) \\text{ Newland law of octaves}, (B) \\text{ Mendeleev}, (C) \\text{ Electronic configuration}, (D) \\text{ Lother Meyer}, (E) \\text{ Dobereiner's triad} \\\\ \\text{Column-II:} \\\\ (p) \\text{ Atomic mass vs Atomic volume}, (q) \\text{ Li, Na, K}, (r) \\text{ One to seven groups sub-group A and B}, (s) \\text{ Periodic repetition of properties of elements}, (t) \\text{ Only 56 elements known}",
+        "question_images": [
+            "q49_1",
+            "49_qu_1.png"
+        ],
+        "options": [
+            "A. A-(t); B-(s); C-(r); D-(p); E-(q)",
+            "B. A-(t); B-(r); C-(s); D-(p); E-(q)",
+            "C. A-(t); B-(r); C-(s); D-(q); E-(p)",
+            "D. A-(r); B-(t); C-(s); D-(p); E-(q)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Newland's law was based on 56 known elements (A-t)[cite: 216, 235]. Mendeleev organized elements into sub-groups A and B (B-r)[cite: 222, 228]. Electronic configuration explains periodic repetition of properties (C-s)[cite: 225, 232]. Lothar Meyer plotted atomic mass vs atomic volume (D-p)[cite: 230, 219]. Dobereiner's triad includes elements like Li, Na, K (E-q)[cite: 234, 223].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "$M^{3+}$ has electronic configuration $[Ar]3d^{10}4s^{2}$, hence it lies in:",
+        "question_latex": "$M^{3+}$ has electronic configuration $[Ar]3d^{10}4s^{2}$, hence it lies in:",
+        "question_images": [],
+        "options": [
+            "A. s-block",
+            "B. p-block",
+            "C. d-block",
+            "D. f-block"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "If the $M^{3+}$ ion has the configuration $[Ar]3d^{10}4s^2$, the neutral atom $M$ must have three additional electrons[cite: 250]. These would be in the $4p$ subshell, giving a configuration of $[Ar]3d^{10}4s^2 4p^3$, which belongs to the p-block[cite: 251, 253].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which one of the following statements for D.I. Mendeleev, is incorrect?",
+        "question_latex": "Which one of the following statements for D.I. Mendeleev, is incorrect?",
+        "question_images": [],
+        "options": [
+            "A. He invented accurate barometer.",
+            "B. Element with atomic number 101 is named after him.",
+            "C. He authored the textbook-Principles of Chemistry.",
+            "D. At the time, he proposed Periodic Table of elements, structure of atom was known."
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "At the time Mendeleev proposed the Periodic Table, the internal structure of the atom (electrons, protons, and neutrons) was not known. The classification was based on atomic weights.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Metallic nature increases moving down the group because",
+        "question_latex": "Metallic nature increases moving down the group because",
+        "question_images": [],
+        "options": [
+            "A. Nuclear charge increases",
+            "B. Shielding increases",
+            "C. Both (a) and (b)",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Moving down a group, both nuclear charge and shielding increase. However, the increase in shielding and atomic size outweighs the increase in nuclear charge, making it easier to lose electrons.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The correct order of increasing ionic character is",
+        "question_latex": "The correct order of increasing ionic character is",
+        "question_images": [],
+        "options": [
+            "A. $BeCl_{2} < MgCl_{2} < CaCl_{2} < BaCl_{2}$",
+            "B. $BeCl_{2} < CaCl_{2} < MgCl_{2} < BaCl_{2}$",
+            "C. $BaCl_{2} < CaCl_{2} < MgCl_{2} < BeCl_{2}$",
+            "D. $MgCl_{2} < CaCl_{2} < BeCl_{2} < BaCl_{2}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Based on Fajan's rule, as the size of the cation increases ($Be^{2+} < Mg^{2+} < Ca^{2+} < Ba^{2+}$), the polarizing power decreases, leading to an increase in ionic character.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The elements which are characterized by the outer electronic configuration $ns^{1}$ to $ns^{2}np^{6}$ are collectively called",
+        "question_latex": "The elements which are characterized by the outer electronic configuration $ns^{1}$ to $ns^{2}np^{6}$ are collectively called",
+        "question_images": [],
+        "options": [
+            "A. Transition elements",
+            "B. Representative elements",
+            "C. Lanthanides",
+            "D. Inner transition elements"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Elements of s-block ($ns^1$ to $ns^2$) and p-block ($ns^2 np^1$ to $ns^2 np^6$) are collectively known as representative elements.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Mendeleev classified elements in",
+        "question_latex": "Mendeleev classified elements in",
+        "question_images": [],
+        "options": [
+            "A. increasing order of atomic groups",
+            "B. eight periods and eight groups",
+            "C. seven periods and eight groups",
+            "D. eight periods and seven groups"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Mendeleev's periodic table originally consisted of horizontal rows called periods and vertical columns called groups. The most widely recognized version had 7 periods and 8 groups.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which of the following represents the correct order of increasing first ionization enthalpy for Ca, Ba, S, Se and Ar?",
+        "question_latex": "Which of the following represents the correct order of increasing first ionization enthalpy for $Ca$, $Ba$, $S$, $Se$ and $Ar$?",
+        "question_images": [],
+        "options": [
+            "A. $Ca < Ba < S < Se < Ar$",
+            "B. $S < Se < Ca < Ba < Ar$",
+            "C. $Ca < S < Ba < Se < Ar$",
+            "D. $Ba < Ca < Se < S < Ar$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Ionization enthalpy decreases down a group ($Ba < Ca$ and $Se < S$) and increases across a period ($Ca < Se$). Noble gases like Ar have the highest. Thus: $Ba < Ca < Se < S < Ar$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The hybridization of P in $PO_{4}^{3-}$ is same as in:",
+        "question_latex": "The hybridization of $P$ in $PO_{4}^{3-}$ is same as in:",
+        "question_images": [],
+        "options": [
+            "A. I in $ICl_{4}^{-}$",
+            "B. S in $SO_{3}$",
+            "C. N in $NO_{3}^{-}$",
+            "D. S in $SO_{4}^{2-}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "In $PO_4^{3-}$, phosphorus is $sp^3$ hybridized. Similarly, in $SO_4^{2-}$, sulfur is $sp^3$ hybridized.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Dative bond is present in:",
+        "question_latex": "Dative bond is present in:",
+        "question_images": [],
+        "options": [
+            "A. $SO_{3}$",
+            "B. $NH_{3}$",
+            "C. $BaCl_{2}$",
+            "D. $BF_{3}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In $SO_3$, the sulfur atom forms coordinate (dative) bonds with oxygen atoms to satisfy valency and octet requirements while maintaining its central position.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Match the columns. Column-I (Name of element): (A) Hydrogen, (B) Sodium, (C) Calcium, (D) Barium, (E) Iodine. Column-II (Period of element): (p) 3, (q) 4, (r) 6, (s) 1, (t) 5.",
+        "question_latex": "Match the columns. \\\\ \\textbf{Column-I (Element)}: (A) Hydrogen, (B) Sodium, (C) Calcium, (D) Barium, (E) Iodine. \\\\ \\textbf{Column-II (Period)}: (p) 3, (q) 4, (r) 6, (s) 1, (t) 5.",
+        "question_images": [
+            "59_qu_1.png"
+        ],
+        "options": [
+            "A. A-(p), B-(s), C-(q), D-(r), E-(t)",
+            "B. A-(s), B-(p), C-(q), D-(r), E-(t)",
+            "C. A-(s), B-(q), C-(p), D-(r), E-(t)",
+            "D. A-(s), B-(p), C-(q), D-(t), E-(r)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Hydrogen: Period 1 (s); Sodium: Period 3 (p); Calcium: Period 4 (q); Barium: Period 6 (r); Iodine: Period 5 (t).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "An atom with atomic number 20 is most likely to combine chemically with the atom whose atomic number is:",
+        "question_latex": "An atom with atomic number 20 is most likely to combine chemically with the atom whose atomic number is:",
+        "question_images": [],
+        "options": [
+            "A. 11",
+            "B. 16",
+            "C. 18",
+            "D. 10"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Atomic number 20 is Calcium (a metal). It will combine with a non-metal. Atomic number 16 is Sulfur (a non-metal), forming $CaS$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which has maximum polarizing power in cation?",
+        "question_latex": "Which has maximum polarizing power in cation?",
+        "question_images": [],
+        "options": [
+            "A. $Li^{+}$",
+            "B. $Mg^{2+}$",
+            "C. $Al^{3+}$",
+            "D. $O^{2-}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Polarizing power increases with high charge and small size. $Al^{3+}$ has the highest charge among the listed cations.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The correct sequence of electron gain enthalpy of the elements listed below is: A. Ar, B. Br, C. F, D. S",
+        "question_latex": "The correct sequence of electron gain enthalpy of the elements listed below is: A. $Ar$, B. $Br$, C. $F$, D. $S$",
+        "question_images": [],
+        "options": [
+            "A. $D > C > B > A$",
+            "B. $A > D > C > B$",
+            "C. $C > B > D > A$",
+            "D. $A > D > B > C$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The values are: $F (-333)$, $Br (-325)$, $S (-200)$, $Ar (+96)$. The order of magnitude (more negative being lower) for sequence $A > D > B > C$ corresponds to the mathematical order shown in the source.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Screening effect is not observed in",
+        "question_latex": "Screening effect is not observed in",
+        "question_images": [],
+        "options": [
+            "A. $He^{+}$",
+            "B. $Li^{2+}$",
+            "C. $Be^{3+}$",
+            "D. All of these cases"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$He^{+}$, $Li^{2+}$, and $Be^{3+}$ are all single-electron species. Screening requires at least two electrons (inner electrons to shield outer ones).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which pair represents isostructural species?",
+        "question_latex": "Which pair represents isostructural species?",
+        "question_images": [],
+        "options": [
+            "A. $CH_{3}^{-}$ and $CH_{3}^{+}$",
+            "B. $NH_{4}^{+}$ and $NH_{3}$",
+            "C. $SO_{4}^{2-}$ and $BF_{4}^{-}$",
+            "D. $NH_{2}^{-}$ and $BeF_{2}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Both $SO_4^{2-}$ and $BF_4^{-}$ have $sp^3$ hybridization and a tetrahedral geometry.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which one of the following is an amphoteric oxide?",
+        "question_latex": "Which one of the following is an amphoteric oxide?",
+        "question_images": [],
+        "options": [
+            "A. $ZnO$",
+            "B. $Na_{2}O$",
+            "C. $SO_{2}$",
+            "D. $B_{2}O_{3}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$ZnO$ reacts with both acids (forming $ZnCl_2$) and bases (forming $Na_2ZnO_2$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "(A), (B), (C) are elements in the third short period. Oxide of (A) is ionic, that of (B) is amphoteric and of (C) a giant molecule. (A), (B) and (C) will have atomic number in the order",
+        "question_latex": "(A), (B), (C) are elements in the third short period. Oxide of (A) is ionic, that of (B) is amphoteric and of (C) a giant molecule. (A), (B) and (C) will have atomic number in the order",
+        "question_images": [
+            "66_qu_1.png"
+        ],
+        "options": [
+            "A. $(A) < (B) < (C)$",
+            "B. $(C) < (B) < (A)$",
+            "C. $(A) < (C) < (B)$",
+            "D. $(B) < (A) < (C)$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "A is $Na$ ($Na_2O$ ionic), B is $Al$ ($Al_2O_3$ amphoteric), C is $Si$ ($SiO_2$ giant molecule). Atomic numbers: $Na(11) < Al(13) < Si(14)$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Ionisation potential values of 'd' block elements as compared to ionisation potential values of 'f' block elements are:",
+        "question_latex": "Ionisation potential values of 'd' block elements as compared to ionisation potential values of 'f' block elements are:",
+        "question_images": [],
+        "options": [
+            "A. Higher",
+            "B. Lower",
+            "C. Equal",
+            "D. Either of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Removal of electrons is easier in f-block elements due to more shielding (f-orbitals shield poorly but the number of shells is high), making their IE lower than d-block elements.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The number of ions formed when a molecule of $K_{4}Fe(CN)_{6}$ dissociate is:",
+        "question_latex": "The number of ions formed when a molecule of $K_{4}Fe(CN)_{6}$ dissociate is:",
+        "question_images": [],
+        "options": [
+            "A. 4",
+            "B. 5",
+            "C. 6",
+            "D. 2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$K_4[Fe(CN)_6] \\rightarrow 4K^{+} + [Fe(CN)_6]^{4-}$. Total ions = $4 + 1 = 5$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Ice has an open structure compared to water due to which it floats on water and occupies a greater volume of space. The open structure of ice is due to:",
+        "question_latex": "Ice has an open structure compared to water due to which it floats on water and occupies a greater volume of space. The open structure of ice is due to:",
+        "question_images": [],
+        "options": [
+            "A. Solid state of ice",
+            "B. Its low density",
+            "C. Crystalline nature",
+            "D. Hydrogen bonding"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Hydrogen bonding in ice creates a cage-like structure that is less dense than liquid water.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Two ice cubes are pressed over each other and unite to form one cube. Which force is responsible for holding them together?",
+        "question_latex": "Two ice cubes are pressed over each other and unite to form one cube. Which force is responsible for holding them together?",
+        "question_images": [],
+        "options": [
+            "A. van der Waals' forces",
+            "B. Covalent attraction",
+            "C. Hydrogen bond formation",
+            "D. Dipole-dipole attraction"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Water molecules possess a strong tendency for hydrogen bonding, which allows the cubes to fuse when pressed.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Select the correct statement",
+        "question_latex": "Select the correct statement",
+        "question_images": [],
+        "options": [
+            "A. Ionic hydrides are better reducing agents",
+            "B. Covalent nature of hydrides increases across a period and decreases down the group",
+            "C. $LiAlH_{4}$ can reduce carbonyl compounds to alcohols",
+            "D. All the above are correct statements"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "All statements are correct. Ionic hydrides release $H_2$ with water; covalent nature increases across a period; $LiAlH_4$ is a standard reducing agent for carbonyls.",
+        "solution_images": [
+            "71_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which one of the following sets of ions represents the collection of isoelectronic species? (Atomic nos.: $F=9, Cl=17, Na=11, Mg=12, Al=13, K=19, Ca=20, Sc=21$)",
+        "question_latex": "Which one of the following sets of ions represents the collection of isoelectronic species? (Atomic nos.: $F=9, Cl=17, Na=11, Mg=12, Al=13, K=19, Ca=20, Sc=21$)",
+        "question_images": [],
+        "options": [
+            "A. $K^{+}, Ca^{2+}, Sc^{3+}, Cl^{-}$",
+            "B. $Na^{+}, Ca^{2+}, Sc^{3+}, F^{-}$",
+            "C. $K^{+}, Cl^{-}, Mg^{2+}, Sc^{3+}$",
+            "D. $Na^{+}, Mg^{2+}, Al^{3+}, Cl^{-}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "All ions in set A ($K^{+}, Ca^{2+}, Sc^{3+}, Cl^{-}$) have 18 electrons.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which of the following is the correct set of elements to Dobereiner's triads?",
+        "question_latex": "Which of the following is the correct set of elements to Dobereiner's triads?",
+        "question_images": [],
+        "options": [
+            "A. $Li (7), Na (23), K (39)$",
+            "B. $Br (80), Cl (35.5), I (127)$",
+            "C. $Fe (55.85), Ni (58.71), Co (58.93)$",
+            "D. Data insufficient"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In a triad, the atomic mass of the middle element is approximately the average of the first and third. For Li-Na-K: $(7+39)/2 = 23$.",
+        "solution_images": [
+            "73_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Structure Of Atom",
+        "question": "Gd (64) has unpaired electrons with sum of spin",
+        "question_latex": "$Gd$ (64) has unpaired electrons with sum of spin",
+        "question_images": [],
+        "options": [
+            "A. 7, 3.5",
+            "B. 8, 3",
+            "C. 6, 3",
+            "D. 8, 4"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Gd: $[Xe] 4f^7 5d^1 6s^2$. There are 7 unpaired electrons in 4f and 1 in 5d, totaling 8. Sum of spin = $8 \\times \\frac{1}{2} = 4$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which has the lowest anion to cation size ratio?",
+        "question_latex": "Which has the lowest anion to cation size ratio?",
+        "question_images": [],
+        "options": [
+            "A. $LiF$",
+            "B. $NaF$",
+            "C. $CsI$",
+            "D. $CsF$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Ratio is $Anion/Cation$. For the lowest value, we need the smallest anion ($F^{-}$) and the largest cation ($Cs^{+}$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Match the Column-I and Column-II and select the correct option.",
+        "question_latex": "Match the Column-I and Column-II and select the correct option.",
+        "question_images": [
+            "q76_1",
+            "76_qu_1.png"
+        ],
+        "options": [
+            "A. A-(q), B-(s), C-(r), D-(p)",
+            "B. A-(q), B-(s), C-(p), D-(r)",
+            "C. A-(s), B-(q), C-(r), D-(p)",
+            "D. A-(s), B-(q), C-(p), D-(r)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "A. Ionic radii (q): $Li^{+} < Al^{3+} < Mg^{2+} < K^{+}$ is incorrect as written in the table, but matching logic follows ionic sizes. B. Effective nuclear charge (s): relates to isoelectronic species. C. Electron affinity (p): $Cl > F > Br > I$. D. Electronegativity (r): $F > Cl > Br > I$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The elements with zero electron affinity are",
+        "question_latex": "The elements with zero electron affinity are",
+        "question_images": [],
+        "options": [
+            "A. Boron and Carbon",
+            "B. Beryllium and Helium",
+            "C. Lithium and Sodium",
+            "D. Fluorine and Chlorine"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Beryllium and Helium have fully filled electronic configurations ($1s^{2}$ and $2s^{2}$), making them stable and resulting in nearly zero or positive electron affinity.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which has maximum IE?",
+        "question_latex": "Which has maximum IE?",
+        "question_images": [],
+        "options": [
+            "A. Mg",
+            "B. Mg+",
+            "C. Mg2+",
+            "D. Equal"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Successive ionization energies always increase: $(IE)_{1} < (IE)_{2} < (IE)_{3}$. Therefore, $Mg^{2+}$ has the highest IE among the listed species.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which of the following statements is wrong?",
+        "question_latex": "Which of the following statements is wrong?",
+        "question_images": [],
+        "options": [
+            "A. van der Waal's radius of iodine is more than its covalent radius",
+            "B. All isoelectronic ions belong to same period of the periodic table",
+            "C. I.E. 1 of N is higher than that of O while I.E. 2 of O is higher than that of N",
+            "D. The electron gain enthalpy of N is almost zero while that of P is 74.3 kJ mol-1"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Isoelectronic species do not necessarily belong to the same period. For example, $N^{3-}$ (Period 2) and $Na^{+}$ (Period 3) are isoelectronic.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Identify the correct statements about P-block elements and their compounds. (A) Non metals have higher electronegativity than metals. (B) Non metals have lower ionisation enthalpy than metals. (C) Compounds formed between highly reactive nonmetals and highly reactive metals are generally ionic. (D) The non-metal oxides are generally basic in nature. (E) The metal oxides are generally acidic or neutral in nature.",
+        "question_latex": "Identify the correct statements about P-block elements and their compounds. \\\\ (A) Non metals have higher electronegativity than metals. \\\\ (B) Non metals have lower ionisation enthalpy than metals. \\\\ (C) Compounds formed between highly reactive nonmetals and highly reactive metals are generally ionic. \\\\ (D) The non-metal oxides are generally basic in nature. \\\\ (E) The metal oxides are generally acidic or neutral in nature.",
+        "question_images": [],
+        "options": [
+            "A. (A), (B) and (E) only",
+            "B. (B) and (D) only",
+            "C. (A) and (C) only",
+            "D. (D) and (E) only"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Non-metals have higher electronegativity (A) and higher I.E. (making B incorrect). Metal-nonmetal compounds are ionic (C). Non-metal oxides are acidic (D incorrect) and metal oxides are basic (E incorrect).",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Match List-I with List-II regarding Electronic configuration and Ionization enthalpy (ΔH in kJ/mol).",
+        "question_latex": "Match List-I with List-II regarding Electronic configuration and Ionization enthalpy ($\\Delta H$ in kJ/mol).\\\\\n\nList-I:\n(A) $1s^{2}2s^{2}$\n(B) $1s^{2}2s^{2}2p^{4}$\n(C) $1s^{2}2s^{2}2p^{3}$\n(D) $1s^{2}2s^{2}2p^{1}$\n\nList-II:\n(i) $801$\n(ii) $899$\n(iii) $1314$\n(iv) $1402$",
+        "question_images": [
+            "81_qu_1.png"
+        ],
+        "options": [
+            "A. (A) -> (i), (B) -> (iii), (C) -> (iv), (D) -> (ii)",
+            "B. (A) -> (iv), (B) -> (i), (C) -> (ii), (D) -> (iii)",
+            "C. (A) -> (ii), (B) -> (iii), (C) -> (iv), (D) -> (i)",
+            "D. (A) -> (i), (B) -> (iv), (C) -> (iii), (D) -> (ii)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The order of IE is: $B < Be < O < N$. $1s^{2}2s^{2}2p^{1}$ (B) is 801. $1s^{2}2s^{2}$ (Be) is 899. $1s^{2}2s^{2}2p^{4}$ (O) is 1314. $1s^{2}2s^{2}2p^{3}$ (N) is 1402 (half-filled stability).",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Ionic radii are",
+        "question_latex": "Ionic radii are",
+        "question_images": [],
+        "options": [
+            "A. Inversely proportional to effective nuclear charge",
+            "B. Inversely proportional to square of effective nuclear charge",
+            "C. Directly proportional to effective nuclear charge",
+            "D. Directly proportional to square of effective nuclear charge"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Ionic radius $r_n$ is inversely proportional to effective nuclear charge $Z_{effective}$.\n\n$ r_n \\propto \\frac{1}{Z_{effective}} $\n\nGallium ($Ga$) has a melting point of approximately $30^{\\circ}C$. It is located near the metalloid boundary in the p-block, which explains its anomalous physical properties.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "B has a smaller first ionization enthalpy than Be. Consider the following statements: I. it is easier to remove 2p electron than 2s electron. II. 2p electron of B is more shielded from the nucleus by the inner core electrons than the 2s electrons of Be. III. 2s electron has more penetration power than 2p electron. IV. atomic radius of B is more than Be. The correct statements are:",
+        "question_latex": "$B$ has a smaller first ionization enthalpy than $Be$. Consider the following statements: \\\\ I. it is easier to remove $2p$ electron than $2s$ electron. \\\\ II. $2p$ electron of $B$ is more shielded from the nucleus by the inner core electrons than the $2s$ electrons of $Be$. \\\\ III. $2s$ electron has more penetration power than $2p$ electron. \\\\ IV. atomic radius of $B$ is more than $Be$.",
+        "question_images": [],
+        "options": [
+            "A. I, II and III",
+            "B. I, III and IV",
+            "C. I, II and IV",
+            "D. II, III and IV"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Statements I, II, and III explain why Boron's IE is lower. Statement IV is incorrect as atomic radius decreases across a period, so B is smaller than Be.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which set does not show correct matching?",
+        "question_latex": "Which set does not show correct matching?",
+        "question_images": [],
+        "options": [
+            "A. $Sc^{3+} [Ne]3s^{2}3p^{6}$ zero group",
+            "B. $Fe^{2+} [Ar]3d^{6}$ VIII group",
+            "C. $Cr [Ar]3d^{5}4s^{1}$ VIB group",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$Sc^{3+}$ has the configuration of Argon, but Scandium belongs to group 3 (IIIB), not the zero group (Noble gases).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Match Column-I (IUPAC of element) with Column-II (IUPAC official name). (A) Unnilhexium (B) Unniltrium (C) Unnilunium (D) Unnilpentium",
+        "question_latex": "Match Column-I (IUPAC of element) with Column-II (IUPAC official name). \\\\ (A) Unnilhexium (B) Unniltrium (C) Unnilunium (D) Unnilpentium \\\\ (p) Lawrencium (q) Dubnium (r) Seaborgium (s) Mendelevium",
+        "question_images": [
+            "85_qu_1.png"
+        ],
+        "options": [
+            "A. A-(s), B-(p), C-(r), D-(q)",
+            "B. A-(r), B-(p), C-(s), D-(q)",
+            "C. A-(r), B-(s), C-(p), D-(q)",
+            "D. A-(q), B-(r), C-(p), D-(s)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Unnilhexium (106) is Seaborgium. Unniltrium (103) is Lawrencium. Unnilunium (101) is Mendelevium. Unnilpentium (105) is Dubnium.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "In the long form of the periodic table all the non-metals are placed in",
+        "question_latex": "In the long form of the periodic table all the non-metals are placed in",
+        "question_images": [],
+        "options": [
+            "A. s-block",
+            "B. p-block",
+            "C. f-block",
+            "D. d -block"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Non-metals are primarily located in the p-block of the periodic table.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which one of the following elements has the highest ionisation energy?",
+        "question_latex": "Which one of the following elements has the highest ionisation energy?",
+        "question_images": [],
+        "options": [
+            "A. $[Ne]3s^{2}3p^{1}$",
+            "B. $[Ne]3s^{2}3p^{3}$",
+            "C. $[Ne]3s^{2}3p^{2}$",
+            "D. $[Ar]3d^{10}4s^{2}4p^{2}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The configuration $[Ne]3s^{2}3p^{3}$ corresponds to Phosphorus, which has a half-filled p-orbital, providing extra stability and thus the highest IE among the choices.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The discovery of which of the following group of elements gave death blow to the Newland's law of octaves?",
+        "question_latex": "The discovery of which of the following group of elements gave death blow to the Newland's law of octaves?",
+        "question_images": [],
+        "options": [
+            "A. Inert gases",
+            "B. Alkaline earths",
+            "C. Rare earths",
+            "D. Actinides"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The discovery of inert gases meant the ninth element, not the eighth, had similar properties to the first, invalidating Newland's Octaves.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which is not a scale of measuring electronegativity?",
+        "question_latex": "Which is not a scale of measuring electronegativity?",
+        "question_images": [],
+        "options": [
+            "A. Stevenson's scale",
+            "B. Mulliken's scale",
+            "C. Allred-Rochow's scale",
+            "D. Pauling scale"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Stevenson's scale is not used for electronegativity. Pauling, Mulliken, and Allred-Rochow are the recognized scales.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The formation of the oxide ion $O^{2-}(g)$ requires first an exothermic and then an endothermic step as shown below. This is because",
+        "question_latex": "The formation of the oxide ion $O^{2-}(g)$ requires first an exothermic and then an endothermic step as shown below. \\\\ $O(g)+e^{-}=O^{-}(g); \\Delta H = -142 kJ/mol$ \\\\ $O^{-}(g)+e^{-}=O^{2-}(g); \\Delta H = +844 kJ/mol$ \\\\ This is because:",
+        "question_images": [],
+        "options": [
+            "A. $O^{-}$ ion will tend to resist the addition of another electron",
+            "B. Oxygen has high electro affinity",
+            "C. Oxygen is more electronegative",
+            "D. $O^{-}$ ion has comparatively larger size than oxygen atom"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The addition of a second electron to a negatively charged ion ($O^{-}$) is endothermic due to the strong electrostatic repulsion between the ion and the incoming electron.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which ion is not isoelectronic with $O^{2-}$?",
+        "question_latex": "Which ion is not isoelectronic with $O^{2-}$?",
+        "question_images": [],
+        "options": [
+            "A. $N^{3-}$",
+            "B. $Na^{+}$",
+            "C. $F^{-}$",
+            "D. $Ti^{+}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$O^{2-}$ has 10 electrons. $N^{3-}, Na^{+}, F^{-}$ also have 10 electrons. $Ti^{+}$ has 21 electrons ($22 - 1$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "In the Mendeleev periodic table, which of the following element instead of having lower atomic weight was placed after the element of higher atomic weight?",
+        "question_latex": "In the Mendeleev periodic table, which of the following element instead of having lower atomic weight was placed after the element of higher atomic weight?",
+        "question_images": [],
+        "options": [
+            "A. Iodine",
+            "B. Antimony",
+            "C. Bromine",
+            "D. Molybdenum"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Iodine (atomic weight 126.9) was placed after Tellurium (atomic weight 127.6) to group it with other halogens based on properties.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Structure Of Atom",
+        "question": "If Aufbau and Hund's rule are not used, then incorrect statement is",
+        "question_latex": "If Aufbau and Hund's rule are not used, then incorrect statement is",
+        "question_images": [],
+        "options": [
+            "A. $K^{+}$ would be coloured ion",
+            "B. Na will be in same s-block",
+            "C. Cu would be s-block element",
+            "D. Magnetic moment of $Cr(24)$ would be zero"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$K^{+}$ has a stable $3s^{2} 3p^{6}$ configuration and lacks unpaired d-electrons; it remains a colourless ion regardless of these rules.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The metal that has very low melting point and its periodic position is closer to a metalloid is",
+        "question_latex": "The metal that has very low melting point and its periodic position is closer to a metalloid is",
+        "question_images": [],
+        "options": [
+            "A. Al",
+            "B. Ga",
+            "C. In",
+            "D. Se"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Gallium ($Ga$) has a melting point of approximately $30^{\\circ}C$. It is located near the metalloid boundary in the p-block.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which of the following electronegativity order is incorrect?",
+        "question_latex": "Which of the following electronegativity order is incorrect?",
+        "question_images": [],
+        "options": [
+            "A. $S < Cl < O < F$",
+            "B. $Mg < Be < B < N$",
+            "C. $Al < Si < C < N$",
+            "D. $Al < Mg < B < N$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The correct order should be $Mg (1.2) < Al (1.5) < B (2.0) < N (3.0)$. Option D suggests Al < Mg, which is incorrect.",
+        "solution_images": [
+            "95_so_1.png",
+            "95_so_2.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "The order of first ionisation energies of the element Li, Be, B, Na is",
+        "question_latex": "The order of first ionisation energies of the element $Li, Be, B, Na$ is",
+        "question_images": [],
+        "options": [
+            "A. $Li > Be > B > Na$",
+            "B. $Be > B > Li > Na$",
+            "C. $Na > Li > B > Be$",
+            "D. $Be > Li > B > Na$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "IE increases across a period but $Be > B$ due to the fully filled $2s^{2}$ orbital. IE decreases down a group, so $Li > Na$. Order: $Be > B > Li > Na$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which has $sp^{2}$-hybridization?",
+        "question_latex": "Which has $sp^{2}$-hybridization?",
+        "question_images": [],
+        "options": [
+            "A. $CO_{2}$",
+            "B. $SO_{2}$",
+            "C. $N_{2}O$",
+            "D. CO"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In $SO_{2}$, Sulfur has 2 bond pairs and 1 lone pair, resulting in $sp^{2}$ hybridization and a bent shape.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "In periodic Table, metallic elements appear",
+        "question_latex": "In periodic Table, metallic elements appear",
+        "question_images": [],
+        "options": [
+            "A. In the left-hand columns",
+            "B. In the top rows",
+            "C. In the right-hand columns",
+            "D. In the bottom rows"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Metallic character is highest on the left side (s-block) and decreases as we move to the right.",
+        "solution_images": [
+            "98_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "A molecule in which $sp^{2}$-hybrid orbitals are used by the central atom in forming covalent bond is:",
+        "question_latex": "A molecule in which $sp^{2}$-hybrid orbitals are used by the central atom in forming covalent bond is:",
+        "question_images": [],
+        "options": [
+            "A. $He_{2}$",
+            "B. $SO_{2}$",
+            "C. $PCl_{5}$",
+            "D. $N_{2}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$SO_{2}$ involves $sp^{2}$ hybridization of the Sulfur atom.",
+        "solution_images": [
+            "99_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Consider the following statements: (i) The elements silicon, germanium and arsenic are called metalloids. (ii) Metalloids have properties quite different from those of metals and non-metals. Which of these statement(s) is/are correct?",
+        "question_latex": "Consider the following statements: \\\\ (i) The elements silicon, germanium and arsenic are called metalloids. \\\\ (ii) Metalloids have properties quite different from those of metals and non-metals. \\\\ Which of these statement(s) is/are correct?",
+        "question_images": [],
+        "options": [
+            "A. (i) only",
+            "B. (ii) only",
+            "C. Both (i) and (ii)",
+            "D. Neither (i) nor (ii)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Silicon, Germanium, and Arsenic are well-known metalloids. Metalloids typically show intermediate properties between metals and non-metals.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    }
+]

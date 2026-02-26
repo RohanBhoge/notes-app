@@ -1,0 +1,1920 @@
+[
+    {
+        "id": 1,
+        "chapter": "Laws of Motion",
+        "question": "A block of mass 10 kg starts sliding on a surface with an initial velocity of 9.8 m $s^{-1}$. The coefficient of friction between the surface and block is 0.5. The distance covered by the block before coming to rest is [Use $g=9.8$ m $s^{-2}$] (June 2022) [cite: 11, 12, 13]",
+        "question_latex": "A block of mass 10 kg starts sliding on a surface with an initial velocity of 9.8 m $s^{-1}$. The coefficient of friction between the surface and block is 0.5. The distance covered by the block before coming to rest is [Use $g=9.8$ m $s^{-2}$] (June 2022) [cite: 11, 12, 13]",
+        "question_images": [],
+        "options": [
+            "(A) 4.9 m [cite: 14]",
+            "(B) 9.8 m [cite: 14]",
+            "(C) 19.6 m [cite: 14]",
+            "(D) 12.5 m [cite: 14]"
+        ],
+        "option_images": [],
+        "answer": "(B) [cite: 15]",
+        "solution": "Mass, $m=10$ kg, Initial velocity, $u=9.8~m/s$ Coefficient of friction, $\\mu=0.5$, Final velocity, $v=0$. Let the distance is s[cite: 16]. By using third equation of motion $v^{2}=u^{2}+2as;$ $0=9.8^{2}-2\\mu gs \\Rightarrow s=\\frac{9.8\\times9.8}{2\\times0.5\\times9.8} = 9.8~m$[cite: 18, 19].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Laws of Motion",
+        "question": "A car takes a circular turn with a uniform speed u. If the reaction at inner and outer wheels be denoted by $R_{1}$ and $R_{2}$, then [cite: 20, 21]",
+        "question_latex": "A car takes a circular turn with a uniform speed u. If the reaction at inner and outer wheels be denoted by $R_{1}$ and $R_{2}$, then [cite: 20, 21]",
+        "question_images": [],
+        "options": [
+            "(A) $R_{1}=R_{2}$ [cite: 22]",
+            "(B) $R_{1}<R_{2}$ [cite: 22]",
+            "(C) $R_{1}>R_{2}$ [cite: 22]",
+            "(D) None of these [cite: 22]"
+        ],
+        "option_images": [],
+        "answer": "(B) [cite: 23]",
+        "solution": "Due to centrifugal force, the inner wheel will be left up when car is taking a circular turn[cite: 24]. Due to this, the reaction on outer wheel is more than that on inner wheel[cite: 25].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Laws of Motion",
+        "question": "A steel block of 10 kg rests on a horizontal floor as shown. When three iron cylinders are placed on it as shown, the block and cylinders go down with an acceleration 0.2 m $s^{-2}$. The normal reaction $R^{\\prime}$ by the floor if mass of the iron cylinders are equal and of 20 kg each, is N. [Take $g=10$ m $s^{-2}$ and $\\mu_{s}=0.2$] (July 2021) [cite: 27, 28, 29, 30]",
+        "question_latex": "A steel block of 10 kg rests on a horizontal floor as shown. When three iron cylinders are placed on it as shown, the block and cylinders go down with an acceleration 0.2 m $s^{-2}$. The normal reaction $R^{\\prime}$ by the floor if mass of the iron cylinders are equal and of 20 kg each, is N. [Take $g=10$ m $s^{-2}$ and $\\mu_{s}=0.2$] (July 2021) [cite: 27, 28, 29, 30]",
+        "question_images": [
+            "q3_1 ",
+            "3_qu_1.png"
+        ],
+        "options": [
+            "(A) 714 [cite: 38]",
+            "(B) 684 [cite: 38]",
+            "(C) 686 [cite: 38]",
+            "(D) 716 [cite: 37]"
+        ],
+        "option_images": [],
+        "answer": "(C) [cite: 39]",
+        "solution": "Here, $M=10$ kg $m_{1}=m_{2}=m_{3}=20$ kg $a=0.2~ms^{-2}$, $g=10~m~s^{-2}$[cite: 40]. Now, for the four blocks system, $70g-N=70a \\Rightarrow N=70(10-0.2)=686~N$[cite: 41].",
+        "solution_images": [
+            "3_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Laws of Motion",
+        "question": "A block of mass 5 kg is (i) pushed in case (A) and (ii) pulled in case (B), by a force $F=20~N$, making an angle of $30^{\\circ}$ with the horizontal, as shown in the figures. The coefficient of friction between the block and floor is $\\mu=0.2$. The difference between the accelerations of the block, in case (B) and case (A) will be: $(g=10~ms^{-2})$ [cite: 47, 48, 49, 50]",
+        "question_latex": "A block of mass 5 kg is (i) pushed in case (A) and (ii) pulled in case (B), by a force $F=20~N$, making an angle of $30^{\\circ}$ with the horizontal, as shown in the figures. The coefficient of friction between the block and floor is $\\mu=0.2$. The difference between the accelerations of the block, in case (B) and case (A) will be: $(g=10~ms^{-2})$ [cite: 47, 48, 49, 50]",
+        "question_images": [
+            "q4_1 ",
+            "4_qu_1.png",
+            "4_qu_2.png"
+        ],
+        "options": [
+            "(A) 0.4 ms$^{-2}$ [cite: 55]",
+            "(B) 3.2 ms$^{-2}$ [cite: 55]",
+            "(C) 0.8 ms$^{-2}$ [cite: 55]",
+            "(D) 0 ms$^{-2}$ [cite: 55]"
+        ],
+        "option_images": [],
+        "answer": "(C) [cite: 56]",
+        "solution": "Case A: $N=5g+20\\sin 30^{\\circ} = 50+10=60~N$[cite: 58, 59]. Acceleration $a_{1}=\\frac{F\\cos30^{\\circ}-\\mu N}{m} = \\frac{20(\\sqrt{3}/2) - 0.2(60)}{5} = 1.06~m/s^2$[cite: 66]. Case B: $N=5g-20\\sin 30^{\\circ} = 50-10=40~N$[cite: 71]. Acceleration $a_2 = \\frac{20\\cos30^{\\circ} - 0.2(40)}{5} = 1.86~m/s^2$[cite: 73, 75]. Difference $a_2 - a_1 = 1.86 - 1.06 = 0.8~m/s^2$[cite: 75, 76].",
+        "solution_images": [
+            "4_so_1.png",
+            "4_so_2.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Laws of Motion",
+        "question": "If a stone is thrown out of an accelerated train, then acceleration of the stone at any instant depends on [cite: 80]",
+        "question_latex": "If a stone is thrown out of an accelerated train, then acceleration of the stone at any instant depends on [cite: 80]",
+        "question_images": [],
+        "options": [
+            "(A) force acting on it at that instant [cite: 80]",
+            "(B) acceleration of the train [cite: 80]",
+            "(C) Both(a) and (b) [cite: 80]",
+            "(D) None of these [cite: 80]"
+        ],
+        "option_images": [],
+        "answer": "(A) [cite: 80]",
+        "solution": "Since force at a point at any instant is related to the acceleration at that point, at that instant and acceleration is determined only by the instantaneous force and not by any history of the motion of the particle[cite: 81]. Therefore, the moment the stone is thrown out of an accelerated train, it has no horizontal force and acceleration, if air resistance is neglected[cite: 82].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Laws of Motion",
+        "question": "A mass of 10 kg is suspended by a rope of length 4m, from the ceiling. A force F is applied horizontally at the mid-point of the rope such that the top half of the rope makes an angle of $45^{\\circ}$ with the vertical. Then F equals (Take $g=10$ m $s^{-2}$ and the rope to be massless) (Jan 2020) [cite: 83, 84, 85]",
+        "question_latex": "A mass of 10 kg is suspended by a rope of length 4m, from the ceiling. A force F is applied horizontally at the mid-point of the rope such that the top half of the rope makes an angle of $45^{\\circ}$ with the vertical. Then F equals (Take $g=10$ m $s^{-2}$ and the rope to be massless) (Jan 2020) [cite: 83, 84, 85]",
+        "question_images": [],
+        "options": [
+            "(A) 70 N [cite: 86]",
+            "(B) 100 N [cite: 86]",
+            "(C) 90 N [cite: 86]",
+            "(D) 75 N [cite: 86]"
+        ],
+        "option_images": [],
+        "answer": "(B) [cite: 87]",
+        "solution": "$m=10$ kg, $g=10~m/s^{2}$. Using components of force we can write that, $T~cos~45^{\\circ}=mg$ ... (i) and $T~sin~45^{\\circ}=F$... (ii)[cite: 88, 89]. Dividing equation (ii) by (i), we get $\\frac{F}{mg}=tan~45^{\\circ}$[cite: 94]. $F=mg=10\\times10=100~N$[cite: 95].",
+        "solution_images": [
+            "6_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Laws of Motion",
+        "question": "A force acts for 20 s on a body of mass 20 kg, starting from rest, after which the force ceases and then body describes 50 m in the next 10 s. The value of force will be (Jan 2023) [cite: 97, 98]",
+        "question_latex": "A force acts for 20 s on a body of mass 20 kg, starting from rest, after which the force ceases and then body describes 50 m in the next 10 s. The value of force will be (Jan 2023) [cite: 97, 98]",
+        "question_images": [],
+        "options": [
+            "(A) 10 N [cite: 99]",
+            "(B) 20 N [cite: 99]",
+            "(C) 40 N [cite: 99]",
+            "(D) 5 N [cite: 99]"
+        ],
+        "option_images": [],
+        "answer": "(D) [cite: 100]",
+        "solution": "Given: $t=20$ s, $m=20$ kg, $u=0$. After force ceases, $s=50~m$ in 10s, so $v = 50/10 = 5~m/s$[cite: 101, 105]. Using $v=u+at$, $5=0+a\\times20 \\Rightarrow a=5/20~m/s^{2}$[cite: 106]. $Force=ma=20\\times(5/20)=5~N$[cite: 106].",
+        "solution_images": [
+            "7_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Laws of Motion",
+        "question": "A house is built on the top of a hill with $45^{\\circ}$ slope. Due to sliding of material and sand from top to bottom of hill, the slope angle has been reduced. If coefficient of static friction between sand particles is 0.75, what is the final angle attained by hill? $(tan^{-1}0.75=37^{\\circ})$ [cite: 107, 108, 109, 110, 112]",
+        "question_latex": "A house is built on the top of a hill with $45^{\\circ}$ slope. Due to sliding of material and sand from top to bottom of hill, the slope angle has been reduced. If coefficient of static friction between sand particles is 0.75, what is the final angle attained by hill? $(tan^{-1}0.75=37^{\\circ})$ [cite: 107, 108, 109, 110, 112]",
+        "question_images": [
+            "8_qu_1.png"
+        ],
+        "options": [
+            "(A) $8^{\\circ}$ [cite: 113]",
+            "(B) $45^{\\circ}$ [cite: 113]",
+            "(C) $37^{\\circ}$ [cite: 113]",
+            "(D) $30^{\\circ}$ [cite: 113]"
+        ],
+        "option_images": [],
+        "answer": "(C) [cite: 114]",
+        "solution": "The sand particle stops coming down when component of gravity force along hill is balanced by limiting friction force[cite: 116]. $mg\\sin \\theta=\\mu_{s} mg\\cos\\theta \\Rightarrow \\theta=tan^{-1}(\\mu_{s})\\cong37^{\\circ}$ where $\\theta$ is the new slope angle of hill[cite: 117, 118].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Laws of Motion",
+        "question": "Which figure shows the correct force acting on the body sliding down an inclined plane? $(m \\rightarrow mass, f_{z} \\rightarrow$ force of friction) [cite: 119, 120]",
+        "question_latex": "Which figure shows the correct force acting on the body sliding down an inclined plane? $(m \\rightarrow mass, f_{z} \\rightarrow$ force of friction) [cite: 119, 120]",
+        "question_images": [],
+        "options": [
+            "(A) Figure A [cite: 122]",
+            "(B) Figure B [cite: 128]",
+            "(C) Figure C [cite: 138]",
+            "(D) Figure D [cite: 123]"
+        ],
+        "option_images": [
+            "q9_optionA ",
+            "q9_optionB ",
+            "q9_optionC ",
+            "q9_optionD ",
+            "9_opA_1.png",
+            "9_opB_1.png",
+            "9_opC_1.png",
+            "9_opD_1.png"
+        ],
+        "answer": "(A) [cite: 148]",
+        "solution": "If a body slides down, then the force of friction acts upwards along the plane and weight(mg) act vertically downwards[cite: 151].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Laws of Motion",
+        "question": "What are the effects if force is acting on a moving body in a direction perpendicular to the direction of motion? [cite: 152]",
+        "question_latex": "What are the effects if force is acting on a moving body in a direction perpendicular to the direction of motion? [cite: 152]",
+        "question_images": [],
+        "options": [
+            "(A) The speed changes uniformly [cite: 153]",
+            "(B) The acceleration changes uniformly [cite: 153]",
+            "(C) The direction of motion changes [cite: 153]",
+            "(D) All of these [cite: 153]"
+        ],
+        "option_images": [],
+        "answer": "(C) [cite: 154]",
+        "solution": "When force is applied on a moving body in a direction perpendicular to the direction of motion, then it takes a circular path[cite: 155]. Thus the direction of motion changes without changes in the speed[cite: 156].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Laws of Motion",
+        "question": "An object moving with a constant acceleration in a non-inertial frame [cite: 157]",
+        "question_latex": "An object moving with a constant acceleration in a non-inertial frame [cite: 157]",
+        "question_images": [],
+        "options": [
+            "(A) Must have non-zero net force acting on it [cite: 158]",
+            "(B) May have zero net force acting on it [cite: 158]",
+            "(C) May have no force acting on it [cite: 158]",
+            "(D) This situation is practically impossible. (The pseudo force acting on the object has also to be considered) [cite: 158, 159]"
+        ],
+        "option_images": [],
+        "answer": "(A) [cite: 160]",
+        "solution": "Let $\\vec{a}_{0}$ be the acceleration of chosen non-inertial frame of reference w.r.t some inertial frame of reference and $\\vec{a}_{1}$ be the acceleration of the object in non-inertial frame[cite: 161]. For $\\vec{a}_{1}$ to be non-zero, the net force acting on object (including pseudo force) must be non-zero[cite: 164].",
+        "solution_images": [
+            "11_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Laws of Motion",
+        "question": "The time in which a force of 2 N produces a change of momentum of $0.4~kg-ms^{-1}$ in the body is [cite: 165]",
+        "question_latex": "The time in which a force of 2 N produces a change of momentum of $0.4~kg-ms^{-1}$ in the body is [cite: 165]",
+        "question_images": [],
+        "options": [
+            "(A) 0.2 s [cite: 165]",
+            "(B) 0.02 s [cite: 165]",
+            "(C) 0.5 s [cite: 165]",
+            "(D) 0.05 s [cite: 165]"
+        ],
+        "option_images": [],
+        "answer": "(A) [cite: 165]",
+        "solution": "$\\vec{F}=\\frac{\\Delta\\vec{p}}{\\Delta t} \\Rightarrow \\Delta t=\\frac{|\\Delta\\vec{p}|}{|\\vec{F}|}=\\frac{0.4}{2}=0.2~s$[cite: 166].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Laws of Motion",
+        "question": "There is a simple pendulum hanging from the ceiling of a lift. When the lift is stand still, the time period of the pendulum is T. If the resultant acceleration becomes $g/4$, then the new time period of the pendulum is [cite: 167, 168, 174]",
+        "question_latex": "There is a simple pendulum hanging from the ceiling of a lift. When the lift is stand still, the time period of the pendulum is T. If the resultant acceleration becomes $g/4$, then the new time period of the pendulum is [cite: 167, 168, 174]",
+        "question_images": [],
+        "options": [
+            "(A) 0.8 T [cite: 170]",
+            "(B) 0.25 T [cite: 170]",
+            "(C) 2 T [cite: 170]",
+            "(D) 4 T [cite: 170]"
+        ],
+        "option_images": [],
+        "answer": "(C) [cite: 171]",
+        "solution": "When lift is at rest, $T=2\\pi\\sqrt{l/g}$[cite: 172]. If acceleration becomes $g/4$ then the new time period is $T^{\\prime}=2\\pi\\sqrt{\\frac{l}{g/4}}=2\\pi\\sqrt{\\frac{4l}{g}}=2 \\times T$[cite: 176].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Laws of Motion",
+        "question": "For the pulley system shown, each of the cables at A and B is given a velocity of $2~ms^{-1}$ in the direction of the arrow. Determine the upward velocity v of the load m [cite: 177, 178]",
+        "question_latex": "For the pulley system shown, each of the cables at A and B is given a velocity of $2~ms^{-1}$ in the direction of the arrow. Determine the upward velocity v of the load m [cite: 177, 178]",
+        "question_images": [
+            "q14_1 ",
+            "14_qu_1.png"
+        ],
+        "options": [
+            "(A) $1.5~ms^{-1}$ [cite: 179]",
+            "(B) $3~ms^{-1}$ [cite: 179]",
+            "(C) $6~ms^{-1}$ [cite: 179]",
+            "(D) $4.5~ms^{-1}$ [cite: 179]"
+        ],
+        "option_images": [],
+        "answer": "(A) [cite: 179]",
+        "solution": "$V_{A}=2~ms^{-1}$ and $V_{B}=2~ms^{-1}$. $V_{P_{1}}=\\frac{V_{A}}{2}=1~ms^{-1}$ (upwards)[cite: 180, 181]. Now $2V_{P_{2}}=V_{B}+V_{P_{1}} \\Rightarrow V_{P_{2}}=\\frac{V_{B}+V_{P_{1}}}{2}=\\frac{2+1}{2}=1.5ms^{-1}$[cite: 190].",
+        "solution_images": [
+            "14_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Laws of Motion",
+        "question": "A vehicle is moving with a velocity v on a curved road of width b and radius of curvature R. For counteracting the centripetal force on the vehicle, the difference in elevation required in between the outer and inner edges of the rod is [cite: 191, 193]",
+        "question_latex": "A vehicle is moving with a velocity v on a curved road of width b and radius of curvature R. For counteracting the centripetal force on the vehicle, the difference in elevation required in between the outer and inner edges of the rod is [cite: 191, 193]",
+        "question_images": [
+            "15_qu_1.png"
+        ],
+        "options": [
+            "(A) $v^{2}b/Rg$ [cite: 198]",
+            "(B) $vb/Rg$ [cite: 198]",
+            "(C) $vb^{2}/Rg$ [cite: 198]",
+            "(D) $vb/R^{2}g$ [cite: 198]"
+        ],
+        "option_images": [],
+        "answer": "(A) [cite: 199]",
+        "solution": "$tan~\\theta=v^{2}/Rg \\Rightarrow \\frac{h}{b}=v^{2}/Rg \\Rightarrow h=\\frac{v^{2}b}{Rg}$[cite: 200].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Laws of Motion",
+        "question": "When an elevator cabin falls down, the cabin and all the bodies fixed in the cabin are accelerated with respect to [cite: 201]",
+        "question_latex": "When an elevator cabin falls down, the cabin and all the bodies fixed in the cabin are accelerated with respect to [cite: 201]",
+        "question_images": [],
+        "options": [
+            "(A) ceiling of elevator [cite: 202]",
+            "(B) floor of elevator [cite: 202]",
+            "(C) man standing on earth [cite: 202]",
+            "(D) man standing in the cabin [cite: 202]"
+        ],
+        "option_images": [],
+        "answer": "(C) [cite: 202]",
+        "solution": "When an elevator cabin falls down, it is accelerated down with respect to earth i.e. man standing on earth[cite: 203].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Laws of Motion",
+        "question": "A monkey of mass 20kg is holding a vertical rope. The rope will not break when a mass of 25 kg is suspended from it but will break if the mass exceeds 25 kg. What is the maximum acceleration with which the monkey can climb up along the rope $(g=10m/s^{2})$ [cite: 204, 205, 206]",
+        "question_latex": "A monkey of mass 20kg is holding a vertical rope. The rope will not break when a mass of 25 kg is suspended from it but will break if the mass exceeds 25 kg. What is the maximum acceleration with which the monkey can climb up along the rope $(g=10m/s^{2})$ [cite: 204, 205, 206]",
+        "question_images": [],
+        "options": [
+            "(A) $10m/s^{2}$ [cite: 207]",
+            "(B) $25m/s^{2}$ [cite: 207]",
+            "(C) $2.5m/s^{2}$ [cite: 207]",
+            "(D) $5m/s^{2}$ [cite: 207]"
+        ],
+        "option_images": [],
+        "answer": "(C) [cite: 208]",
+        "solution": "Tension in the string $=m(g+a)=$ Breaking force[cite: 209]. $20(g+a)=25g \\Rightarrow a=g/4=2.5~m/s^{2}$[cite: 209].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Laws of Motion",
+        "question": "A cubic block of mass m is sliding down on an inclined plane at $60^{\\circ}$ with an acceleration of $\\frac{g}{2}$, the value of coefficient of kinetic friction is [April 7, 2025 (1)] [cite: 211, 212]",
+        "question_latex": "A cubic block of mass m is sliding down on an inclined plane at $60^{\\circ}$ with an acceleration of $\\frac{g}{2}$, the value of coefficient of kinetic friction is [April 7, 2025 (1)] [cite: 211, 212]",
+        "question_images": [
+            "q18_1 "
+        ],
+        "options": [
+            "(A) $\\frac{\\sqrt{3}}{2}$ [cite: 210]",
+            "(B) $\\frac{\\sqrt{2}}{3}$ [cite: 210]",
+            "(C) $1-\\frac{\\sqrt{3}}{2}$ [cite: 210]",
+            "(D) $\\sqrt{3}-1$ [cite: 210]"
+        ],
+        "option_images": [],
+        "answer": "(D) [cite: 213]",
+        "solution": "$F_{net}=ma \\Rightarrow mg\\sin 60^{\\circ}-\\mu mg\\cos 60^{\\circ}=ma$[cite: 221, 222]. $g\\sin 60^{\\circ}-\\mu g\\cos 60^{\\circ}=\\frac{g}{2} \\Rightarrow \\frac{\\sqrt{3}}{2}-\\frac{\\mu}{2}=\\frac{1}{2}$[cite: 223]. $\\mu=\\sqrt{3}-1$[cite: 224].",
+        "solution_images": [
+            "18_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Laws of Motion",
+        "question": "If two particles collide at constant temperature then which of the following is conserved? [cite: 225]",
+        "question_latex": "If two particles collide at constant temperature then which of the following is conserved? [cite: 225]",
+        "question_images": [],
+        "options": [
+            "(A) Kinetic energy [cite: 226]",
+            "(B) Momentum [cite: 226]",
+            "(C) Temperature [cite: 226]",
+            "(D) Velocity [cite: 226]"
+        ],
+        "option_images": [],
+        "answer": "(B) [cite: 227]",
+        "solution": "Momentum is always conserved in collisions[cite: 227].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Laws of Motion",
+        "question": "A conical pendulum of length 1 m makes an angle $\\theta=45^{\\circ}$ w.r.t. Z -axis and moves in a circle in the XY plane. The radius of the circle is 0.4 m and its center is vertically below O. The speed of the pendulum, in its circular path, will be (Take $g=10~m~s^{-2})$ (Online 2017) [cite: 229, 230, 231, 232]",
+        "question_latex": "A conical pendulum of length 1 m makes an angle $\\theta=45^{\\circ}$ w.r.t. Z -axis and moves in a circle in the XY plane. The radius of the circle is 0.4 m and its center is vertically below O. The speed of the pendulum, in its circular path, will be (Take $g=10~m~s^{-2})$ (Online 2017) [cite: 229, 230, 231, 232]",
+        "question_images": [
+            "q20_1 ",
+            "20_qu_1.png"
+        ],
+        "options": [
+            "(A) $0.4~m/s$ [cite: 233]",
+            "(B) $2~m/s$ [cite: 233]",
+            "(C) $0.2~m/s$ [cite: 233]",
+            "(D) $4~m/s$ [cite: 233]"
+        ],
+        "option_images": [],
+        "answer": "(B) [cite: 233]",
+        "solution": "$T\\sin\\theta=\\frac{mv^{2}}{r}$ and $T\\cos\\theta = mg$[cite: 241, 242]. $tan\\theta = v^2/rg$. Given $\\theta=45^{\\circ}, r=0.4m$. $v^2 = rg \\tan\\theta = 0.4 \\times 10 \\times 1 = 4$. $v = 2~m/s$[cite: 243].",
+        "solution_images": [
+            "20_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Laws of Motion",
+        "question": "The time required to stop a car of mass 800 kg, moving at a speed of 20 ms$^{-1}$ over a distance of 25 m is [cite: 244, 249]",
+        "question_latex": "The time required to stop a car of mass 800 kg, moving at a speed of 20 ms$^{-1}$ over a distance of 25 m is [cite: 244, 249]",
+        "question_images": [],
+        "options": [
+            "(A) 2 s [cite: 245]",
+            "(B) 2.5 s [cite: 245]",
+            "(C) 4 s [cite: 245]",
+            "(D) 4.5 s [cite: 245]"
+        ],
+        "option_images": [],
+        "answer": "(B) [cite: 246]",
+        "solution": "As we know, $S=(\\frac{u+v}{2})t$. $(\\frac{20+0}{2})t=25 \\Rightarrow 10t=25 \\Rightarrow t=2.5$ s[cite: 247, 248].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Laws of Motion",
+        "question": "Consider a block kept on an inclined plane (inclined at 45°) as shown in the figure. If the force required to just push it up the incline is 2 times the force required to just prevent it from sliding down, the coefficient of friction between the block and inclined plane ($\\mu$) is equal to (Jan 2023) [cite: 250, 251]",
+        "question_latex": "Consider a block kept on an inclined plane (inclined at 45°) as shown in the figure. If the force required to just push it up the incline is 2 times the force required to just prevent it from sliding down, the coefficient of friction between the block and inclined plane ($\\mu$) is equal to (Jan 2023) [cite: 250, 251]",
+        "question_images": [
+            "q22_1 ",
+            "22_qu_1.png"
+        ],
+        "options": [
+            "(A) 0.5 [cite: 253]",
+            "(B) 0.33 [cite: 253]",
+            "(C) 0.60 [cite: 253]",
+            "(D) 0.50 [cite: 253]"
+        ],
+        "option_images": [],
+        "answer": "(B) [cite: 253]",
+        "solution": "Force to push up: $F_{1}=mg~sin~45^{\\circ}+\\mu N = \\frac{mg}{\\sqrt{2}}(1+\\mu)$[cite: 254, 255]. Force to prevent sliding down: $F_{2}=mg~sin~45^{\\circ}-\\mu N = \\frac{mg}{\\sqrt{2}}(1-\\mu)$[cite: 256, 257]. Given $F_{1}=2F_{2}$, so $(1+\\mu)=2(1-\\mu) \\Rightarrow 3\\mu=1 \\Rightarrow \\mu=0.33$[cite: 259, 261].",
+        "solution_images": [
+            "22_so_1.png",
+            "22_so_2.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Laws of Motion",
+        "question": "A cannon after firing recoils due to [cite: 267]",
+        "question_latex": "A cannon after firing recoils due to [cite: 267]",
+        "question_images": [],
+        "options": [
+            "(A) conservation of energy [cite: 268]",
+            "(B) backward thrust of gases produced [cite: 268]",
+            "(C) Newton's third law of motion [cite: 268]",
+            "(D) Newton's first law of motion [cite: 268]"
+        ],
+        "option_images": [],
+        "answer": "(C) [cite: 269]",
+        "solution": "The gun applied a force on the bullet in forward direction & according to Newton's third law bullet applies a reaction force on gun in backward direction[cite: 271].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Laws of Motion",
+        "question": "A suitcase is gently dropped on a conveyor belt moving at $3~ms^{-1}.$ If the coefficient of friction between the belt and the suitcase is 0.5, find the displacement of the suitcase relative to conveyor belt before the slipping between the two is stopped: $(g=10~ms^{-2})$ [cite: 273]",
+        "question_latex": "A suitcase is gently dropped on a conveyor belt moving at $3~ms^{-1}.$ If the coefficient of friction between the belt and the suitcase is 0.5, find the displacement of the suitcase relative to conveyor belt before the slipping between the two is stopped: $(g=10~ms^{-2})$ [cite: 273]",
+        "question_images": [],
+        "options": [
+            "(A) 2.7 m ",
+            "(B) 1.8 m ",
+            "(C) 0.9 m ",
+            "(D) 1.2 m "
+        ],
+        "option_images": [],
+        "answer": "(C) [cite: 275]",
+        "solution": "Acceleration of suitcase $a=\\mu g=0.5\\times10=5~ms^{-2}$[cite: 278]. Time to stop slipping ($v=3$): $3=0+5t \\Rightarrow t=0.6s$[cite: 279, 281]. Displacement of suitcase $s_{1}=\\frac{1}{2}at^{2}=0.9~m$[cite: 280]. Displacement of belt $s_{2}=vt=3\\times0.6=1.8~m$[cite: 283]. Relative displacement $s_{2}-s_{1}=0.9~m$[cite: 284].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Laws of Motion",
+        "question": "In the arrangement shown in the figure, the block of mass $m=2kg$ lies on the wedge of mass $M=8$ kg. the initial acceleration of the wedge, if the surfaces are smooth, is [cite: 285, 286]",
+        "question_latex": "In the arrangement shown in the figure, the block of mass $m=2kg$ lies on the wedge of mass $M=8$ kg. the initial acceleration of the wedge, if the surfaces are smooth, is [cite: 285, 286]",
+        "question_images": [
+            "q25_1 ",
+            "25_qu_1.png"
+        ],
+        "options": [
+            "(A) $\\frac{\\sqrt{3}g}{23}ms^{-2}$ [cite: 287]",
+            "(B) $\\frac{3\\sqrt{3}g}{23}ms^{-2}$ [cite: 287]",
+            "(C) $\\frac{3g}{23}ms^{-2}$ [cite: 287]",
+            "(D) $\\frac{g}{23}ms^{-2}$ [cite: 287]"
+        ],
+        "option_images": [],
+        "answer": "(B) ",
+        "solution": "Using equations of motion for block m and wedge M. Acceleration of m w.r.t M is $a=A(1+\\cos\\theta)$[cite: 295]. Solving the system of equations yields $A=\\frac{3\\sqrt{3}g}{23}ms^{-2}$[cite: 310].",
+        "solution_images": [
+            "25_so_1.png",
+            "25_so_2.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Laws_of_Motion",
+        "question": "In the figure shown, a person wants to rise a block lying on the ground to a height h. In both the cases, if time required is same then in which case he has to exert more force. Assume pulleys and strings light",
+        "question_latex": "In the figure shown, a person wants to rise a block lying on the ground to a height $h$. In both the cases, if time required is same then in which case he has to exert more force. Assume pulleys and strings light",
+        "question_images": [
+            "q26_1",
+            "26_qu_1.png"
+        ],
+        "options": [
+            "A. (i)",
+            "B. (ii)",
+            "C. Same in both",
+            "D. Cannot be determined"
+        ],
+        "option_images": [],
+        "answer": "A. (i)",
+        "solution": "Since, $h = \\frac{1}{2}at^{2}$, $a$ should be same in both cases, because $h$ and $t$ are same in both cases as given. In figure (i), $F_{1} - mg = ma \\Rightarrow F_{1} = mg + ma$. In figure (ii), $2F_{2} - mg = ma \\Rightarrow F_{2} = \\frac{mg + ma}{2}$. [cite_start]Therefore, $F_{1} > F_{2}$. [cite: 426]",
+        "solution_images": [
+            "26_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Laws_of_Motion",
+        "question": "A body of mass 2 kg is moving with a velocity 8 m/s on a smooth surface. If it is to be brought to rest in 4 seconds, then the force to be applied is",
+        "question_latex": "A body of mass $2\\text{ kg}$ is moving with a velocity $8\\text{ m/s}$ on a smooth surface. If it is to be brought to rest in $4\\text{ seconds}$, then the force to be applied is",
+        "question_images": [],
+        "options": [
+            "A. 8 N",
+            "B. 4 N",
+            "C. 2 N",
+            "D. 1 N"
+        ],
+        "option_images": [],
+        "answer": "B. 4 N",
+        "solution": "$F = ma = \\frac{m(u - v)}{t} = \\frac{2 \\times (8 - 0)}{4} = 4\\text{ N}$. [cite: 427]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Laws_of_Motion",
+        "question": "Shown in the figure is rigid and uniform one meter long rod AB held in horizontal position by two strings tied to its ends and attached to the ceiling. The rod is of mass 'm' and has another weight of mass 2m hung at a distance of 75 cm from A. The tension in the string at A is (Sept 2020)",
+        "question_latex": "Shown in the figure is rigid and uniform one meter long rod $AB$ held in horizontal position by two strings tied to its ends and attached to the ceiling. The rod is of mass $m$ and has another weight of mass $2m$ hung at a distance of $75\\text{ cm}$ from $A$. The tension in the string at $A$ is (Sept 2020)",
+        "question_images": [
+            "q28_1"
+        ],
+        "options": [
+            "A. 0.75mg",
+            "B. 0.5mg",
+            "C. 2mg",
+            "D. 1mg"
+        ],
+        "option_images": [],
+        "answer": "D. 1mg",
+        "solution": "Moment of force about point $B = 0$. [cite_start]$-(0.25 \\times 2mg) - (0.50 \\times mg) + (T \\times 1) = 0$ or $T = (0.25 \\times 2mg) + (0.50 \\times mg) = 1mg$. [cite: 428]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Laws_of_Motion",
+        "question": "If the resultant of all the external forces acting on a system of particles is zero, then from an inertial frame, one can surely say that",
+        "question_latex": "If the resultant of all the external forces acting on a system of particles is zero, then from an inertial frame, one can surely say that",
+        "question_images": [],
+        "options": [
+            "A. Linear momentum of the system does not change in time",
+            "B. Kinetic energy of the system does not change in time",
+            "C. Angular momentum of the system does not change in time",
+            "D. Potential energy of the system does not change in time"
+        ],
+        "option_images": [],
+        "answer": "A. Linear momentum of the system does not change in time",
+        "solution": "On the system of particle if $\\sum F_{ext} = 0$, then $P_{system} = \\text{constant}$. [cite_start]No other conclusions can be drawn. [cite: 429]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Laws_of_Motion",
+        "question": "A particle moves in the xy-plane under the action of a force F such that the components of its linear momentum p at any time t are px = 2 cos t, py = 2 sin t. The angle between F and p at time t is",
+        "question_latex": "A particle moves in the $xy$-plane under the action of a force $F$ such that the components of its linear momentum $p$ at any time $t$ are $p_{x} = 2 \\cos t$, $p_{y} = 2 \\sin t$. The angle between $F$ and $p$ at time $t$ is",
+        "question_images": [],
+        "options": [
+            "A. 90",
+            "B. 0",
+            "C. 180",
+            "D. 30"
+        ],
+        "option_images": [],
+        "answer": "A. 90",
+        "solution": "Given $p = p_x\\hat{i} + p_y\\hat{j} = 2 \\cos t\\hat{i} + 2 \\sin t\\hat{j}$. $F = \\frac{d\\vec{p}}{dt} = -2 \\sin t\\hat{i} + 2 \\cos t\\hat{j}$. [cite_start]Now, $F \\cdot p = 0$, i.e., the angle between $F$ and $p$ is $90^{\\circ}$. [cite: 431]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Laws_of_Motion",
+        "question": "Two bodies of mass 4 kg and 6 kg are attached to the ends of a string passing over a pulley. The 4 kg mass is attached to the table by another string. The tension in this string T1 is",
+        "question_latex": "Two bodies of mass $4\\text{ kg}$ and $6\\text{ kg}$ are attached to the ends of a string passing over a pulley. The $4\\text{ kg}$ mass is attached to the table by another string. The tension in this string $T_{1}$ is",
+        "question_images": [
+            "q31_1",
+            "31_qu_1.png"
+        ],
+        "options": [
+            "A. 19.6 N",
+            "B. 25 N",
+            "C. 10.6 N",
+            "D. 10 N"
+        ],
+        "option_images": [],
+        "answer": "A. 19.6 N",
+        "solution": "For body of mass $6\\text{ kg}$: $T = 6g = 6 \\times 9.8 = 58.8\\text{ N}$. For body of mass $4\\text{ kg}$: $T - T_{1} = 4g = 4 \\times 9.8 = 39.2\\text{ N}$. [cite_start]$T_{1} = T - 39.2 = 58.8 - 39.2 = 19.6\\text{ N}$. [cite: 433]",
+        "solution_images": [
+            "q31_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Laws_of_Motion",
+        "question": "A shell is fired from cannon with a velocity v m/s at an angle of theta with the horizontal direction. At the highest point in its path, it explodes into 2 pieces of equal masses. One of the pieces retraces its path to the cannon. The speed of the other piece immediately after the explosion is",
+        "question_latex": "A shell is fired from cannon with a velocity $v\\text{ m/s}$ at an angle of $\\theta$ with the horizontal direction. At the highest point in its path, it explodes into $2$ pieces of equal masses. One of the pieces retraces its path to the cannon. The speed of the other piece immediately after the explosion is",
+        "question_images": [],
+        "options": [
+            "A. \\sqrt{3/2} v cos \\theta",
+            "B. v cos \\theta",
+            "C. 2 v cos \\theta",
+            "D. 3 v cos \\theta"
+        ],
+        "option_images": [],
+        "answer": "D. 3 v cos \\theta",
+        "solution": "At the highest point, velocity of shell before explosion $= v \\cos \\theta$. Momentum before $= mv \\cos \\theta$. One piece (mass $m/2$) retraces its path with velocity $-v \\cos \\theta$. By conservation of momentum: $mv \\cos \\theta = \\frac{m}{2}(-v \\cos \\theta) + \\frac{m}{2}(v')$. [cite_start]$v \\cos \\theta = -\\frac{1}{2}v \\cos \\theta + \\frac{1}{2}v' \\Rightarrow \\frac{3}{2}v \\cos \\theta = \\frac{1}{2}v' \\Rightarrow v' = 3v \\cos \\theta$. [cite: 436]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Laws_of_Motion",
+        "question": "A force of 10 N acts on a body of mass 2 kg for 3 seconds. The change in momentum is",
+        "question_latex": "A force of $10\\text{ N}$ acts on a body of mass $2\\text{ kg}$ for $3\\text{ seconds}$. The change in momentum is",
+        "question_images": [],
+        "options": [
+            "A. 10 kg-m/s",
+            "B. 20 kg-m/s",
+            "C. 30 kg-m/s",
+            "D. 60 kg-m/s"
+        ],
+        "option_images": [],
+        "answer": "C. 30 kg-m/s",
+        "solution": "Change in momentum $\\Delta p = F \\times \\Delta t = 10 \\times 3 = 30\\text{ kg-m/s}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Laws_of_Motion",
+        "question": "A machine gun fires a bullet of mass 40 g with a velocity 1200 m/s. The man holding it can exert a maximum force of 144 N on the gun. How many bullets can he fire per second at the most?",
+        "question_latex": "A machine gun fires a bullet of mass $40\\text{ g}$ with a velocity $1200\\text{ m/s}$. The man holding it can exert a maximum force of $144\\text{ N}$ on the gun. How many bullets can he fire per second at the most?",
+        "question_images": [
+            "34_qu_1.png"
+        ],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "C. 3",
+        "solution": "$F = n(mv)$, where $n$ is bullets per second. $144 = n(0.04 \\times 1200) \\Rightarrow 144 = 48n \\Rightarrow n = 3$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Laws_of_Motion",
+        "question": "A 100 g iron ball is dropped from a height of 10 m and rebounds to a height of 5 m. If the time of contact with the floor is 0.01 s, then the average force exerted by the floor is (g = 10 m/s²)",
+        "question_latex": "A $100\\text{ g}$ iron ball is dropped from a height of $10\\text{ m}$ and rebounds to a height of $5\\text{ m}$. If the time of contact with the floor is $0.01\\text{ s}$, then the average force exerted by the floor is ($g = 10\\text{ m/s}^{2}$)",
+        "question_images": [
+            "35_qu_!.png"
+        ],
+        "options": [
+            "A. 241.4 N",
+            "B. 100 N",
+            "C. 50 N",
+            "D. 24.1 N"
+        ],
+        "option_images": [],
+        "answer": "A. 241.4 N",
+        "solution": "$v_1 = \\sqrt{2gh_1} = \\sqrt{2 \\times 10 \\times 10} = 14.14\\text{ m/s}$, $v_2 = -\\sqrt{2gh_2} = -\\sqrt{2 \\times 10 \\times 5} = -10\\text{ m/s}$. $\\Delta p = m(v_1 - v_2) = 0.1(14.14 + 10) = 2.414\\text{ kg-m/s}$. $F = \\Delta p / \\Delta t = 2.414 / 0.01 = 241.4\\text{ N}$",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Laws_of_Motion",
+        "question": "Three blocks of masses 2 kg, 3 kg and 5 kg are connected to each other with light strings and are then placed on a frictionless surface. The system is pulled by a force F = 10 N then tension T1 is",
+        "question_latex": "Three blocks of masses $2\\text{ kg}$, $3\\text{ kg}$ and $5\\text{ kg}$ are connected to each other with light strings and are then placed on a frictionless surface. The system is pulled by a force $F = 10\\text{ N}$ then tension $T_1$ is",
+        "question_images": [
+            "q36_1"
+        ],
+        "options": [
+            "A. 1 N",
+            "B. 5 N",
+            "C. 8 N",
+            "D. 10 N"
+        ],
+        "option_images": [],
+        "answer": "C. 8 N",
+        "solution": "$a = F / (m_1+m_2+m_3) = 10 / (2+3+5) = 1\\text{ m/s}^2$. For $T_1$ (tension between 2kg and 3kg blocks): $T_1$ pulls $(3+5)\\text{ kg}$ or $10 - T_1 = 2(1) \\Rightarrow T_1 = 8\\text{ N}$",
+        "solution_images": [
+            "36_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Laws_of_Motion",
+        "question": "A rocket of mass 1000 kg is set for vertical firing. The exhaust speed is 500 m/s. To give an initial upward acceleration of 20 m/s², the amount of gas ejected per second to supply the needed thrust is (g = 10 m/s²)",
+        "question_latex": "A rocket of mass $1000\\text{ kg}$ is set for vertical firing. The exhaust speed is $500\\text{ m/s}$. To give an initial upward acceleration of $20\\text{ m/s}^{2}$, the amount of gas ejected per second to supply the needed thrust is ($g = 10\\text{ m/s}^{2}$)",
+        "question_images": [
+            "37_qu_1.png"
+        ],
+        "options": [
+            "A. 127.5 kg/s",
+            "B. 60 kg/s",
+            "C. 187.5 kg/s",
+            "D. 15 kg/s"
+        ],
+        "option_images": [],
+        "answer": "B. 60 kg/s",
+        "solution": "$v_{rel}(\\frac{dm}{dt}) - mg = ma \\Rightarrow 500(\\frac{dm}{dt}) = 1000(10 + 20) \\Rightarrow 500(\\frac{dm}{dt}) = 30000 \\Rightarrow \\frac{dm}{dt} = 60\\text{ kg/s}$",
+        "solution_images": [
+            "37_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Laws_of_Motion",
+        "question": "A body of mass 5 kg is suspended by a spring balance on an inclined plane as shown. The spring balance measure",
+        "question_latex": "A body of mass $5\\text{ kg}$ is suspended by a spring balance on an inclined plane as shown. The spring balance measure",
+        "question_images": [
+            "q38_1"
+        ],
+        "options": [
+            "A. 50 N",
+            "B. 25 N",
+            "C. 500 N",
+            "D. 10 N"
+        ],
+        "option_images": [],
+        "answer": "B. 25 N",
+        "solution": "Reading = component of weight along the plane $= mg \\sin 30^{\\circ} = 5 \\times 10 \\times 0.5 = 25\\text{ N}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Laws_of_Motion",
+        "question": "The force required to just move a body up an inclined plane is double the force required to just prevent the body from sliding down. If the coefficient of friction is 0.25, the angle of inclination is",
+        "question_latex": "The force required to just move a body up an inclined plane is double the force required to just prevent the body from sliding down. If the coefficient of friction is $0.25$, the angle of inclination is",
+        "question_images": [
+            "39_qu_1.png"
+        ],
+        "options": [
+            "A. tan⁻¹(3/4)",
+            "B. tan⁻¹(1/4)",
+            "C. tan⁻¹(1/2)",
+            "&D. tan⁻¹(0.75)"
+        ],
+        "option_images": [],
+        "answer": "D. tan⁻¹(0.75)",
+        "solution": "$F_{up} = mg(\\sin \\theta + \\mu \\cos \\theta)$ and $F_{down} = mg(\\sin \\theta - \\mu \\cos \\theta)$. Given $F_{up} = 2F_{down} \\Rightarrow \\sin \\theta + \\mu \\cos \\theta = 2\\sin \\theta - 2\\mu \\cos \\theta \\Rightarrow \\sin \\theta = 3\\mu \\cos \\theta \\Rightarrow \\tan \\theta = 3 \\times 0.25 = 0.75$",
+        "solution_images": [
+            "39_so_1.png",
+            "39_so_2.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Laws_of_Motion",
+        "question": "A block of mass m is placed on a smooth wedge of inclination θ. The whole system is accelerated horizontally so that the block does not slip on the wedge. The horizontal acceleration a should be",
+        "question_latex": "A block of mass $m$ is placed on a smooth wedge of inclination $\\theta$. The whole system is accelerated horizontally so that the block does not slip on the wedge. The horizontal acceleration $a$ should be",
+        "question_images": [
+            "40_qu_1.png"
+        ],
+        "options": [
+            "A. g sin θ",
+            "B. g cos θ",
+            "C. g tan θ",
+            "D. g / sin θ"
+        ],
+        "option_images": [],
+        "answer": "C. g tan θ",
+        "solution": "For no slipping, pseudo force component up the incline must balance weight component down the incline: $ma \\cos \\theta = mg \\sin \\theta \\Rightarrow a = g \\tan \\theta$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Laws_of_Motion",
+        "question": "Two masses 8 kg and 12 kg are connected at the two ends of a light inextensible string that goes over a frictionless pulley. The acceleration of the masses and the tension in the string are",
+        "question_latex": "Two masses $8\\text{ kg}$ and $12\\text{ kg}$ are connected at the two ends of a light inextensible string that goes over a frictionless pulley. The acceleration of the masses and the tension in the string are",
+        "question_images": [
+            "41_qu_1.png"
+        ],
+        "options": [
+            "A. 2 m/s², 96 N",
+            "B. 5 m/s², 48 N",
+            "C. 10 m/s², 120 N",
+            "D. 1 m/s², 80 N"
+        ],
+        "option_images": [],
+        "answer": "A. 2 m/s², 96 N",
+        "solution": "$a = \\frac{(m_2 - m_1)g}{m_1 + m_2} = \\frac{(12-8)10}{20} = 2\\text{ m/s}^2$. $T = \\frac{2m_1 m_2 g}{m_1 + m_2} = \\frac{2 \\times 8 \\times 12 \\times 10}{20} = 96\\text{ N}$",
+        "solution_images": [
+            "41_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Laws_of_Motion",
+        "question": "A hunter has a machine gun that can fire 50 g bullets with a velocity of 150 m/s. A 60 kg tiger springs at him with a velocity of 10 m/s. How many bullets must the hunter fire per second into the tiger in order to stop him in his track?",
+        "question_latex": "A hunter has a machine gun that can fire $50\\text{ g}$ bullets with a velocity of $150\\text{ m/s}$. A $60\\text{ kg}$ tiger springs at him with a velocity of $10\\text{ m/s}$. How many bullets must the hunter fire per second into the tiger in order to stop him in his track?",
+        "question_images": [],
+        "options": [
+            "A. 10",
+            "B. 20",
+            "C. 50",
+            "D. 80"
+        ],
+        "option_images": [],
+        "answer": "D. 80",
+        "solution": "Force of bullets = Rate of change of momentum of tiger. $n(m_b v_b) = m_t v_t / t$. For 1 second, $n(0.05 \\times 150) = 60 \\times 10 \\Rightarrow 7.5n = 600 \\Rightarrow n = 80$",
+        "solution_images": [
+            "42_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Laws_of_Motion",
+        "question": "A mass of 1 kg is suspended by a thread. It is (i) lifted up with an acceleration 4.9 m/s² (ii) lowered with an acceleration 4.9 m/s². The ratio of the tensions is",
+        "question_latex": "A mass of $1\\text{ kg}$ is suspended by a thread. It is (i) lifted up with an acceleration $4.9\\text{ m/s}^2$ (ii) lowered with an acceleration $4.9\\text{ m/s}^2$. The ratio of the tensions is",
+        "question_images": [],
+        "options": [
+            "A. 3:1",
+            "B. 1:3",
+            "C. 1:2",
+            "D. 2:1"
+        ],
+        "option_images": [],
+        "answer": "A. 3:1",
+        "solution": "$T_1 = m(g+a) = 1(9.8+4.9) = 14.7\\text{ N}$. $T_2 = m(g-a) = 1(9.8-4.9) = 4.9\\text{ N}$. Ratio $T_1/T_2 = 14.7 / 4.9 = 3/1$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Laws_of_Motion",
+        "question": "A block of mass 2 kg is placed on a floor. The coefficient of static friction is 0.4. If a force of 2.8 N is applied on the block parallel to the floor, the force of friction between the block and floor is",
+        "question_latex": "A block of mass $2\\text{ kg}$ is placed on a floor. The coefficient of static friction is $0.4$. If a force of $2.8\\text{ N}$ is applied on the block parallel to the floor, the force of friction between the block and floor is",
+        "question_images": [],
+        "options": [
+            "A. 2.8 N",
+            "B. 8 N",
+            "C. 2 N",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "A. 2.8 N",
+        "solution": "$f_{limit} = \\mu_s mg = 0.4 \\times 2 \\times 10 = 8\\text{ N}$. Since applied force ($2.8\\text{ N}$) < $f_{limit}$, friction force = applied force = $2.8\\text{ N}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Laws_of_Motion",
+        "question": "A balloon with mass M is descending down with an acceleration a (where a < g). How much mass should be removed from it so that it starts moving up with an acceleration a?",
+        "question_latex": "A balloon with mass $M$ is descending down with an acceleration $a$ (where $a < g$). How much mass should be removed from it so that it starts moving up with an acceleration $a$?",
+        "question_images": [
+            "45_qu_1.png"
+        ],
+        "options": [
+            "A. 2Ma / (g+a)",
+            "B. 2Ma / (g-a)",
+            "C. Ma / (g+a)",
+            "D. Ma / (g-a)"
+        ],
+        "option_images": [],
+        "answer": "A. 2Ma / (g+a)",
+        "solution": "Descending: $Mg - B = Ma$. Ascending with mass $(M-m)$: $B - (M-m)g = (M-m)a$. Adding equations: $Mg - (M-m)g = Ma + (M-m)a \\Rightarrow mg = Ma + Ma - ma \\Rightarrow m(g+a) = 2Ma \\Rightarrow m = 2Ma / (g+a)$",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Laws_of_Motion",
+        "question": "A block of mass m is resting on a smooth horizontal surface. One end of a uniform rope of mass m/3 is fixed to the block, which is pulled in the horizontal direction by applying force F at the other end. The tension in the middle of the rope is",
+        "question_latex": "A block of mass $m$ is resting on a smooth horizontal surface. One end of a uniform rope of mass $m/3$ is fixed to the block, which is pulled in the horizontal direction by applying force $F$ at the other end. The tension in the middle of the rope is",
+        "question_images": [
+            "46_qu_1.png"
+        ],
+        "options": [
+            "A. 7F/8",
+            "B. 8F/7",
+            "C. F/8",
+            "D. 1/7 F"
+        ],
+        "option_images": [],
+        "answer": "A. 7F/8",
+        "solution": "Total mass $= m + m/3 = 4m/3$. Acceleration $a = F / (4m/3) = 3F/4m$. Tension at distance $x$ from pulled end is $T = F - (m_{rope}/L)x \\cdot a$. Middle of rope is $x = L/2$. Mass of half rope $= m/6$. $T = F - (m/6) \\cdot (3F/4m) = F - F/8 = 7F/8$",
+        "solution_images": [
+            "46_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Laws_of_Motion",
+        "question": "A 5000 kg rocket is set for vertical firing. The exhaust speed is 800 m/s. To give an initial upward acceleration of 20 m/s², the amount of gas ejected per second to supply the needed thrust is (g = 10 m/s²)",
+        "question_latex": "A $5000\\text{ kg}$ rocket is set for vertical firing. The exhaust speed is $800\\text{ m/s}$. To give an initial upward acceleration of $20\\text{ m/s}^2$, the amount of gas ejected per second to supply the needed thrust is ($g = 10\\text{ m/s}^2$)",
+        "question_images": [
+            "47_qu_1.png"
+        ],
+        "options": [
+            "A. 187.5 kg/s",
+            "B. 127.5 kg/s",
+            "C. 137.5 kg/s",
+            "D. 155.5 kg/s"
+        ],
+        "option_images": [],
+        "answer": "A. 187.5 kg/s",
+        "solution": "$v_{rel}(\\frac{dm}{dt}) = m(g+a) \\Rightarrow 800(\\frac{dm}{dt}) = 5000(10+20) = 150000 \\Rightarrow \\frac{dm}{dt} = 150000/800 = 187.5\\text{ kg/s}$",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Laws_of_Motion",
+        "question": "A block of mass m is in contact with the cart C as shown. The coefficient of static friction between the block and the cart is μ. The acceleration α of the cart that will prevent the block from falling satisfies",
+        "question_latex": "A block of mass $m$ is in contact with the cart $C$ as shown. The coefficient of static friction between the block and the cart is $\\mu$. The acceleration $\\alpha$ of the cart that will prevent the block from falling satisfies",
+        "question_images": [
+            "q48_1"
+        ],
+        "options": [
+            "A. α > g/μ",
+            "B. α > g/mμ",
+            "C. α ≥ g/μ",
+            "D. α < g/μ"
+        ],
+        "option_images": [],
+        "answer": "C. α ≥ g/μ",
+        "solution": "Friction $f = \\mu N = \\mu (m\\alpha)$. For no falling, $f \\ge mg \\Rightarrow \\mu m\\alpha \\ge mg \\Rightarrow \\alpha \\ge g/\\mu$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Laws_of_Motion",
+        "question": "A light string passing over a smooth light pulley connects two blocks of masses m1 and m2 (vertically). If the acceleration of the system is g/8, then the ratio of masses is",
+        "question_latex": "A light string passing over a smooth light pulley connects two blocks of masses $m_1$ and $m_2$ (vertically). If the acceleration of the system is $g/8$, then the ratio of masses is",
+        "question_images": [],
+        "options": [
+            "A. 8:1",
+            "B. 9:7",
+            "C. 4:3",
+            "D. 5:3"
+        ],
+        "option_images": [],
+        "answer": "B. 9:7",
+        "solution": "$a = \\frac{m_2-m_1}{m_2+m_1}g = g/8 \\Rightarrow 8m_2 - 8m_1 = m_2 + m_1 \\Rightarrow 7m_2 = 9m_1 \\Rightarrow m_2/m_1 = 9/7$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Laws_of_Motion",
+        "question": "A force F = (5i + 3j + 2k) N is applied over a particle which displaces it from its origin to the point r = (2i - j) m. The work done on the particle is",
+        "question_latex": "A force $\\vec{F} = (5\\hat{i} + 3\\hat{j} + 2\\hat{k})\\text{ N}$ is applied over a particle which displaces it from its origin to the point $\\vec{r} = (2\\hat{i} - \\hat{j})\\text{ m}$. The work done on the particle is",
+        "question_images": [],
+        "options": [
+            "A. 7 J",
+            "B. 10 J",
+            "C. 13 J",
+            "D. 5 J"
+        ],
+        "option_images": [],
+        "answer": "A. 7 J",
+        "solution": "$W = \\vec{F} \\cdot \\vec{d} = (5)(2) + (3)(-1) + (2)(0) = 10 - 3 = 7\\text{ J}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Laws of Motion",
+        "question": "The minimum force required to move a body up an inclined plane is three times the minimum force required to prevent it from sliding down the plane. If the coefficient of friction between the body and the inclined plane is $\\frac{1}{2\\sqrt{3}},$ the angle of the inclined plane is",
+        "question_latex": "The minimum force required to move a body up an inclined plane is three times the minimum force required to prevent it from sliding down the plane. If the coefficient of friction between the body and the inclined plane is $\\frac{1}{2\\sqrt{3}},$ the angle of the inclined plane is",
+        "question_images": [],
+        "options": [
+            "A. $60^{\\circ}$",
+            "B. $45^{\\circ}$",
+            "C. $30^{\\circ}$",
+            "D. $15^{\\circ}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Minimum force required to move a body up a rough inclined plane: $F_{1}=mg(\\sin \\theta+\\mu \\cos \\theta)$. Minimum force required to prevent the body from sliding down: $F_{2}=mg(\\sin \\theta - \\mu \\cos \\theta)$. Note: The source solution simplified this to $F_2 = \\mu mg \\cos \\theta$ based on the specific condition $F_1 = 3F_2$. According to the question: $F_{1}=3F_{2} \\Rightarrow mg(\\sin \\theta+\\mu \\cos \\theta)=3mg(\\sin \\theta - \\mu \\cos \\theta) \\Rightarrow \\sin \\theta+\\mu \\cos \\theta=3\\sin \\theta - 3\\mu \\cos \\theta \\Rightarrow 4\\mu \\cos \\theta = 2\\sin \\theta \\Rightarrow \\tan \\theta = 2\\mu$. Given $\\mu = \\frac{1}{2\\sqrt{3}}$, $\\tan \\theta = 2 \\times \\frac{1}{2\\sqrt{3}} = \\frac{1}{\\sqrt{3}}$. Thus, $\\theta = 30^{\\circ}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Laws of Motion",
+        "question": "Consider the following statement. When jumping from some height, you should bend your knees as you come to rest instead of keeping your legs stiff. Which of the following relations can be useful in explaining the statement?",
+        "question_latex": "Consider the following statement. When jumping from some height, you should bend your knees as you come to rest instead of keeping your legs stiff. Which of the following relations can be useful in explaining the statement?",
+        "question_images": [],
+        "options": [
+            "A. $\\Delta p_{1}=-\\Delta p_{2}$",
+            "B. $\\Delta E=-\\Delta(PE+KE)=0$",
+            "C. $F\\Delta t = m\\Delta v$",
+            "D. $\\Delta x \\propto \\Delta F$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Change of momentum is given by the impulse equation: $F\\Delta t=m\\Delta v$. By bending knees, the time $\\Delta t$ taken to bring the body to rest increases. Since $F = \\frac{m\\Delta v}{\\Delta t}$, an increase in $\\Delta t$ decreases the impulsive force $F$ acting on the knees, preventing injury.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Laws of Motion",
+        "question": "Which of the following statements about friction is true?",
+        "question_latex": "Which of the following statements about friction is true?",
+        "question_images": [],
+        "options": [
+            "A. Friction can be reduced to zero",
+            "B. Frictional force cannot accelerate a body",
+            "C. Frictional force is proportional to the area of contact between the two surfaces",
+            "D. Kinetic friction is always greater than rolling friction"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Rolling friction is significantly less than kinetic (sliding) friction because the area of contact is point-like or line-like, and there is less relative deformation. Thus, kinetic friction is always greater than rolling friction.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Laws of Motion",
+        "question": "The engine of a car produces an acceleration of $6\\text{ ms}^{-2}$ in the car. If this car pulls another car of the same mass, then the acceleration would be",
+        "question_latex": "The engine of a car produces an acceleration of $6\\text{ ms}^{-2}$ in the car. If this car pulls another car of the same mass, then the acceleration would be",
+        "question_images": [],
+        "options": [
+            "A. $6\\text{ ms}^{-2}$",
+            "B. $12\\text{ ms}^{-2}$",
+            "C. $3\\text{ ms}^{-2}$",
+            "D. $1.5\\text{ ms}^{-2}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Force applied by engine $F = m \\times 6$. When pulling another car of mass $m$, total mass becomes $M = m + m = 2m$. Acceleration $a = \\frac{F}{M} = \\frac{6m}{2m} = 3\\text{ ms}^{-2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Laws of Motion",
+        "question": "A body of mass 200 g is tied to a spring of spring constant $12.5\\text{ N/m}$, while the other end of spring is fixed at point O. If the body moves about O in a circular path on a smooth horizontal surface with constant angular speed $5\\text{ rad/s}$, then the ratio of extension in the spring to its natural length will be:",
+        "question_latex": "A body of mass 200 g is tied to a spring of spring constant $12.5\\text{ N/m}$, while the other end of spring is fixed at point O. If the body moves about O in a circular path on a smooth horizontal surface with constant angular speed $5\\text{ rad/s}$, then the ratio of extension in the spring to its natural length will be:",
+        "question_images": [],
+        "options": [
+            "A. 1:1",
+            "B. 2:3",
+            "C. 1:2",
+            "D. 2:5"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Let natural length be $L$ and extension be $x$. The spring force provides the centripetal force: $kx = m(L+x)\\omega^2$. Given $m = 0.2\\text{ kg}$, $k = 12.5\\text{ N/m}$, $\\omega = 5\\text{ rad/s}$. $12.5x = 0.2(L+x)(5)^2 \\Rightarrow 12.5x = 5(L+x) \\Rightarrow 12.5x = 5L + 5x \\Rightarrow 7.5x = 5L \\Rightarrow \\frac{x}{L} = \\frac{5}{7.5} = \\frac{2}{3}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Laws of Motion",
+        "question": "A balloon with mass '$m$' is descending down with an acceleration '$a$' (where $a < g$). How much mass should be removed from it so that it starts moving up with an acceleration '$a$'?",
+        "question_latex": "A balloon with mass '$m$' is descending down with an acceleration '$a$' (where $a < g$). How much mass should be removed from it so that it starts moving up with an acceleration '$a$'?",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{2ma}{g+a}$",
+            "B. $\\frac{2ma}{g-a}$",
+            "C. $\\frac{ma}{g+a}$",
+            "D. $\\frac{ma}{g-a}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Let $F_a$ be upthrust. For downward motion: $mg - F_a = ma \\Rightarrow F_a = m(g-a)$. For upward motion after removing mass $\\Delta m$: $F_a - (m-\\Delta m)g = (m-\\Delta m)a$. Substituting $F_a$: $m(g-a) - (m-\\Delta m)g = (m-\\Delta m)a \\Rightarrow mg - ma - mg + \\Delta mg = ma - \\Delta ma \\Rightarrow \\Delta m(g+a) = 2ma \\Rightarrow \\Delta m = \\frac{2ma}{g+a}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Laws of Motion",
+        "question": "A block of mass $m$ is on an inclined plane of angle $\\theta$. The coefficient of friction between the block and the plane is $\\mu$ and $\\tan\\theta > \\mu$. The block is held stationary by applying a force $P$ parallel to the plane. The direction of force pointing up the plane is taken to be positive. As $P$ is varied from $P_{1}=mg(\\sin\\theta-\\mu\\cos\\theta)$ to $P_{2}=mg(\\sin\\theta+\\mu\\cos\\theta)$, the frictional force $f$ versus $P$ graph will look like:",
+        "question_latex": "A block of mass $m$ is on an inclined plane of angle $\\theta$. The coefficient of friction between the block and the plane is $\\mu$ and $\\tan\\theta > \\mu$. The block is held stationary by applying a force $P$ parallel to the plane. The direction of force pointing up the plane is taken to be positive. As $P$ is varied from $P_{1}=mg(\\sin\\theta-\\mu\\cos\\theta)$ to $P_{2}=mg(\\sin\\theta+\\mu\\cos\\theta)$, the frictional force $f$ versus $P$ graph will look like:",
+        "question_images": [
+            "q57_1",
+            "57_qu_1.png"
+        ],
+        "options": [
+            "A. Graph A",
+            "B. Graph B",
+            "C. Graph C",
+            "D. Graph D"
+        ],
+        "option_images": [
+            "57_opA_1.png",
+            "57_opB_1.png",
+            "57_opC_1.png",
+            "57_opD_1.png"
+        ],
+        "answer": "A",
+        "solution": "Equilibrium equation: $P + f - mg\\sin\\theta = 0 \\Rightarrow f = mg\\sin\\theta - P$. When $P = P_1 = mg\\sin\\theta - \\mu mg\\cos\\theta$, $f = \\mu mg\\cos\\theta$ (positive/upwards). When $P = mg\\sin\\theta$, $f = 0$. When $P = P_2 = mg\\sin\\theta + \\mu mg\\cos\\theta$, $f = -\\mu mg\\cos\\theta$ (negative/downwards). This represents a linear graph with a negative slope passing through zero, which is Graph A.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Laws of Motion",
+        "question": "The pulleys and the strings shown in figure are smooth and of negligible mass. For the system to remain in equilibrium, the angle $\\theta$ should be",
+        "question_latex": "The pulleys and the strings shown in figure are smooth and of negligible mass. For the system to remain in equilibrium, the angle $\\theta$ should be",
+        "question_images": [
+            "q58_1",
+            "58_qu_1.png"
+        ],
+        "options": [
+            "A. $0^{\\circ}$",
+            "B. $30^{\\circ}$",
+            "C. $45^{\\circ}$",
+            "D. $60^{\\circ}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "From the free body diagram of the central mass $\\sqrt{2}m$, the upward vertical components of tension from both sides must balance its weight. $2T\\cos\\theta = \\sqrt{2}mg$. Since the side masses are $m$, tension $T = mg$. Thus, $2mg\\cos\\theta = \\sqrt{2}mg \\Rightarrow \\cos\\theta = \\frac{\\sqrt{2}}{2} = \\frac{1}{\\sqrt{2}}$. Therefore, $\\theta = 45^{\\circ}$.",
+        "solution_images": [
+            "58_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Laws of Motion",
+        "question": "A spring balance is attached to the ceiling of a lift. A man hangs his bag on the spring and the spring reads 49 N, when the lift is stationary. If the lift moves downward with an acceleration of $5\\text{ m/s}^2$, the reading of the spring balance will be:",
+        "question_latex": "A spring balance is attached to the ceiling of a lift. A man hangs his bag on the spring and the spring reads 49 N, when the lift is stationary. If the lift moves downward with an acceleration of $5\\text{ m/s}^2$, the reading of the spring balance will be:",
+        "question_images": [],
+        "options": [
+            "A. 24 N",
+            "B. 74 N",
+            "C. 15 N",
+            "D. 49 N"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Mass of the bag $m = \\frac{49}{9.8} = 5\\text{ kg}$. When moving downward with acceleration $a$, apparent weight $W' = m(g - a) = 5(9.8 - 5) = 5 \\times 4.8 = 24\\text{ N}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Laws of Motion",
+        "question": "Two blocks A of 6 kg and B of 4 kg are placed in contact with each other on a surface. There is no friction between A and ground. Coefficient of friction between B and ground is 0.5. A horizontal force F is applied on A at an angle of $37^{\\circ}$. Find the minimum and maximum values of F, which can be applied so that both blocks can move combinely without any relative motion.",
+        "question_latex": "Two blocks A of 6 kg and B of 4 kg are placed in contact with each other on a surface. There is no friction between A and ground. Coefficient of friction between B and ground is 0.5. A horizontal force F is applied on A at an angle of $37^{\\circ}$. Find the minimum and maximum values of F, which can be applied so that both blocks can move combinely without any relative motion.",
+        "question_images": [
+            "q60_1",
+            "60_qu_1.png"
+        ],
+        "options": [
+            "A. 10 N, 50 N",
+            "B. 12 N, 50 N",
+            "C. 12 N, 75 N",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Based on system equations $F - f = (m_A + m_B)a$. To start motion, $a > 0$, giving $F_{min} = 12\\text{ N}$. The maximum force occurs when the normal reaction $N_2$ on block B becomes zero, preventing B from sliding up A. This occurs at $F_{max} = 75\\text{ N}$.",
+        "solution_images": [
+            "60_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Laws of Motion",
+        "question": "A bullet of mass 0.05 kg moving with a speed of $80\\text{ ms}^{-1}$ enters a wooden block and is stopped after a distance of 0.40 m. The average resistive force exerted by the block on the bullet is:",
+        "question_latex": "A bullet of mass 0.05 kg moving with a speed of $80\\text{ ms}^{-1}$ enters a wooden block and is stopped after a distance of 0.40 m. The average resistive force exerted by the block on the bullet is:",
+        "question_images": [],
+        "options": [
+            "A. 300 N",
+            "B. 20 N",
+            "C. 400 N",
+            "D. 40 N"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Using Work-Energy Theorem: $W = \\Delta KE \\Rightarrow F \\times s = \\frac{1}{2}mv^2 \\Rightarrow F = \\frac{mv^2}{2s} = \\frac{0.05 \\times (80)^2}{2 \\times 0.40} = \\frac{0.05 \\times 6400}{0.80} = 400\\text{ N}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Laws of Motion",
+        "question": "A car moving on a horizontal road may be thrown out of the road in taking a turn:",
+        "question_latex": "A car moving on a horizontal road may be thrown out of the road in taking a turn:",
+        "question_images": [],
+        "options": [
+            "A. by the gravitational force",
+            "B. due to the lack of proper centripetal force",
+            "C. due to the rolling frictional force between the tyre and road",
+            "D. due to the reaction of the ground"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "For a car to take a turn, centripetal force is required. On a horizontal road, this is provided by static friction. If the required centripetal force $\\frac{mv^2}{r}$ exceeds the maximum frictional force $\\mu mg$, the car skids and is thrown out.",
+        "solution_images": [
+            "62_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Laws of Motion",
+        "question": "A rocket with a lift-off mass $3.5\\times10^{4}\\text{ kg}$ is blasted upwards with an initial acceleration of $10\\text{ m/s}^{2}$. Then the initial thrust of the blast is:",
+        "question_latex": "A rocket with a lift-off mass $3.5\\times10^{4}\\text{ kg}$ is blasted upwards with an initial acceleration of $10\\text{ m/s}^{2}$. Then the initial thrust of the blast is:",
+        "question_images": [],
+        "options": [
+            "A. $1.75\\times10^{3}\\text{ N}$",
+            "B. $3.5\\times10^{5}\\text{ N}$",
+            "C. $7.0\\times10^{5}\\text{ N}$",
+            "D. $14.0\\times10^{5}\\text{ N}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Initial thrust $F = m(g + a) = 3.5\\times10^{4}(10 + 10) = 3.5\\times10^{4} \\times 20 = 7.0\\times10^{5}\\text{ N}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Laws of Motion",
+        "question": "An elevator weighing 6000 kg is pulled upward by a cable with an acceleration of $5\\text{ ms}^{-2}$. Taking $g$ to be $10\\text{ ms}^{-2}$, then the tension in the cable is:",
+        "question_latex": "An elevator weighing 6000 kg is pulled upward by a cable with an acceleration of $5\\text{ ms}^{-2}$. Taking $g$ to be $10\\text{ ms}^{-2}$, then the tension in the cable is:",
+        "question_images": [],
+        "options": [
+            "A. 6000 N",
+            "B. 9000 N",
+            "C. 60000 N",
+            "D. 90000 N"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Tension $T = m(g + a) = 6000(10 + 5) = 6000 \\times 15 = 90000\\text{ N}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Laws of Motion",
+        "question": "Choose the correct statement(s) from the following.\nI. Recoiling of a gun is an application of principle of conservation of linear momentum.\nII. Explosion of a bomb is based on second law of motion.",
+        "question_latex": "Choose the correct statement(s) from the following.\nI. Recoiling of a gun is an application of principle of conservation of linear momentum.\nII. Explosion of a bomb is based on second law of motion.",
+        "question_images": [],
+        "options": [
+            "A. I only",
+            "B. II only",
+            "C. I and II",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Statement I is correct: Recoil is explained by momentum conservation ($m_gv_g + m_bv_b = 0$). Statement II is incorrect: Explosion of a bomb is primarily an application of the conservation of linear momentum, where the internal forces cause pieces to fly off such that the vector sum of momenta remains constant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Laws of Motion",
+        "question": "Monkey B is holding on to the tail of monkey A which is climbing up a rope. Masses of A and B are 5 kg and 2 kg. If A can tolerate a tension of 30 N in its tail, what force should it apply on the rope to carry monkey B with it? ($g = 10\\text{ ms}^{-2}$)",
+        "question_latex": "Monkey B is holding on to the tail of monkey A which is climbing up a rope. Masses of A and B are 5 kg and 2 kg. If A can tolerate a tension of 30 N in its tail, what force should it apply on the rope to carry monkey B with it? ($g = 10\\text{ ms}^{-2}$)",
+        "question_images": [
+            "q66_1",
+            "66_qu_1.png"
+        ],
+        "options": [
+            "A. 105 N",
+            "B. 108 N",
+            "C. 10.5 N",
+            "D. 100 N"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For Monkey B, $T - m_Bg = m_Ba \\Rightarrow 30 - 20 = 2a \\Rightarrow a = 5\\text{ ms}^{-2}$. For Monkey A, $F - T - m_Ag = m_Aa \\Rightarrow F = T + m_Ag + m_Aa = 30 + (5 \\times 10) + (5 \\times 5) = 30 + 50 + 25 = 105\\text{ N}$.",
+        "solution_images": [
+            "66_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Laws of Motion",
+        "question": "Two bodies of masses 4 kg and 6 kg are attached to the ends of a string passing over a pulley. The 4 kg mass is attached to the table top by another string. The tension in this string $T_1$ is: ($g = 10\\text{ ms}^{-2}$)",
+        "question_latex": "Two bodies of masses 4 kg and 6 kg are attached to the ends of a string passing over a pulley. The 4 kg mass is attached to the table top by another string. The tension in this string $T_1$ is: ($g = 10\\text{ ms}^{-2}$)",
+        "question_images": [
+            "q67_1",
+            "67_qu_1.png"
+        ],
+        "options": [
+            "A. 20 N",
+            "B. 25 N",
+            "C. 10.6 N",
+            "D. 10 N"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For the 6 kg block in equilibrium: $T = 6g = 60\\text{ N}$. For the 4 kg block: $T = T_1 + 4g \\Rightarrow 60 = T_1 + 40 \\Rightarrow T_1 = 20\\text{ N}$.",
+        "solution_images": [
+            "67_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Laws of Motion",
+        "question": "Assertion: An object can move with constant velocity if no net force acts on it. \nReason: No net force is needed to move an object with constant velocity.",
+        "question_latex": "Assertion: An object can move with constant velocity if no net force acts on it. \nReason: No net force is needed to move an object with constant velocity.",
+        "question_images": [],
+        "options": [
+            "A. Both A and R are correct and R is the correct explanation of A",
+            "B. Both A and R are correct but R is not the correct explanation of A",
+            "C. A is correct but R is incorrect",
+            "D. A is incorrect but R is correct"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to Newton's First Law, a body continues in its state of rest or uniform motion unless acted upon by a net external force. Thus, zero net force implies constant velocity.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Laws of Motion",
+        "question": "A man of weight 80 kg is standing in an elevator moving upward with an acceleration of $6\\text{ m/s}^{2}$. The apparent weight of the man is: ($g = 10\\text{ m/s}^{2}$)",
+        "question_latex": "A man of weight 80 kg is standing in an elevator moving upward with an acceleration of $6\\text{ m/s}^{2}$. The apparent weight of the man is: ($g = 10\\text{ m/s}^{2}$)",
+        "question_images": [],
+        "options": [
+            "A. 800 N",
+            "B. 1280 N",
+            "C. 320 N",
+            "D. 480 N"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Apparent weight $R = m(g + a) = 80(10 + 6) = 80 \\times 16 = 1280\\text{ N}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Laws of Motion",
+        "question": "The height $h$ through which the outer edge of a track of width $b$ must be raised relative to the inner edge for a curve of radius $R$ and speed $v$ is:",
+        "question_latex": "The height $h$ through which the outer edge of a track of width $b$ must be raised relative to the inner edge for a curve of radius $R$ and speed $v$ is:",
+        "question_images": [
+            "70_qu_1.png"
+        ],
+        "options": [
+            "A. $v^{2}b/Rg$",
+            "B. $vb/Rg$",
+            "C. $vb^{2}/Rg$",
+            "D. $vb/R^{2}g$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Banking angle is given by $\\tan\\theta = \\frac{v^2}{Rg}$. For small $\\theta$, $\\tan\\theta \\approx \\sin\\theta = \\frac{h}{b}$. Equating these: $\\frac{h}{b} = \\frac{v^2}{Rg} \\Rightarrow h = \\frac{v^2b}{Rg}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Laws of Motion",
+        "question": "A closed compartment containing gas is moving with acceleration in a horizontal direction. Neglect gravity. The pressure in the compartment is:",
+        "question_latex": "A closed compartment containing gas is moving with acceleration in a horizontal direction. Neglect gravity. The pressure in the compartment is:",
+        "question_images": [],
+        "options": [
+            "A. Same everywhere",
+            "B. Lower in front side",
+            "C. Lower in rear side",
+            "D. Lower in upper side"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Due to acceleration, a fictitious force acts on the gas molecules in the direction opposite to acceleration (towards the rear). This increases the density and pressure at the rear, resulting in lower pressure at the front.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Laws of Motion",
+        "question": "The force 'F' acting on a particle of mass 'm' is indicated by the force-time graph shown. The change in momentum of the particle over the time interval from zero to 8 s is:",
+        "question_latex": "The force 'F' acting on a particle of mass 'm' is indicated by the force-time graph shown. The change in momentum of the particle over the time interval from zero to 8 s is:",
+        "question_images": [
+            "q72_1",
+            "72_qu_1.png"
+        ],
+        "options": [
+            "A. 24 Ns",
+            "B. 20 Ns",
+            "C. 12 Ns",
+            "D. 6 Ns"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Change in momentum $\\Delta p = \\text{Area under } F\\text{-}t \\text{ graph}$. Area = Area(Triangle 0-2s) + Area(Rectangle 2-4s) + Area(Rectangle 4-8s). $\\Delta p = (\\frac{1}{2} \\times 2 \\times 6) + (2 \\times -3) + (4 \\times 3) = 6 - 6 + 12 = 12\\text{ Ns}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Laws of Motion",
+        "question": "A racing car of mass $m$ is on a flat track in a circular arc of radius $R$ with speed $v$. If the coefficient of static friction is $\\mu_s$, the magnitude of negative lift $F_L$ acting downwards to prevent skidding is:",
+        "question_latex": "A racing car of mass $m$ is on a flat track in a circular arc of radius $R$ with speed $v$. If the coefficient of static friction is $\\mu_s$, the magnitude of negative lift $F_L$ acting downwards to prevent skidding is:",
+        "question_images": [
+            "73_qu_1.png"
+        ],
+        "options": [
+            "A. $m(\\frac{v^{2}}{\\mu_{s}R}-g)$",
+            "B. $m(g-\\frac{v^{2}}{\\mu_{s}R})$",
+            "C. $-m(g+\\frac{v^{2}}{\\mu_{s}R})$",
+            "D. $m(\\frac{v^{2}}{\\mu_{s}R}+g)$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Normal force $N = mg + F_L$. Required centripetal force $\\frac{mv^2}{R} \\le \\mu_s N$. For maximum speed or minimum lift: $\\frac{mv^2}{R} = \\mu_s(mg + F_L) \\Rightarrow \\frac{mv^2}{\\mu_s R} = mg + F_L \\Rightarrow F_L = m(\\frac{v^2}{\\mu_s R} - g)$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Laws of Motion",
+        "question": "The upper half of an inclined plane of inclination $\\theta$ is perfectly smooth while lower half is rough. A block starting from rest at the top will again come to rest at the bottom if the coefficient of friction $\\mu$ is:",
+        "question_latex": "The upper half of an inclined plane of inclination $\\theta$ is perfectly smooth while lower half is rough. A block starting from rest at the top will again come to rest at the bottom if the coefficient of friction $\\mu$ is:",
+        "question_images": [
+            "q74_1"
+        ],
+        "options": [
+            "A. $\\mu = \\frac{2}{\\tan\\theta}$",
+            "B. $\\mu = 2\\tan\\theta$",
+            "C. $\\mu = \\tan\\theta$",
+            "D. $\\mu = \\frac{1}{\\tan\\theta}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Work done by gravity = Work done against friction. $mg(s\\sin\\theta) = \\mu mg\\cos\\theta(s/2) \\Rightarrow mg s\\sin\\theta = \\frac{1}{2}\\mu mg s\\cos\\theta \\Rightarrow \\sin\\theta = \\frac{1}{2}\\mu \\cos\\theta \\Rightarrow \\mu = 2\\tan\\theta$.",
+        "solution_images": [
+            "74_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Laws of Motion",
+        "question": "A particle moves with uniform speed along a circle of radius R under a central force F inversely proportional to $R^{3}$. Its time period of revolution T will be proportional to:",
+        "question_latex": "A particle moves with uniform speed along a circle of radius R under a central force F inversely proportional to $R^{3}$. Its time period of revolution T will be proportional to:",
+        "question_images": [],
+        "options": [
+            "A. $T \\propto R^{4/3}$",
+            "B. $T \\propto R^{5/3}$",
+            "C. $T \\propto R^{3/2}$",
+            "D. $T \\propto R^{2}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Centripetal force $F = \\frac{mv^2}{R}$. Given $F = \\frac{K}{R^3}$. So $\\frac{mv^2}{R} = \\frac{K}{R^3} \\Rightarrow v^2 \\propto \\frac{1}{R^2} \\Rightarrow v \\propto \\frac{1}{R}$. Time period $T = \\frac{2\\pi R}{v} \\propto \\frac{R}{1/R} = R^2$. Thus $T \\propto R^2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "laws of motion",
+        "question": "A particle of mass $2\\,kg$ moves with an initial velocity $u$. A constant force $F$ is applied. Initially the particle is at $(0,0)$. Find the x-coordinate when the y-coordinate again becomes zero.",
+        "question_latex": "A\\ particle\\ of\\ mass\\ $2\\,kg$\\ moves\\ with\\ initial\\ velocity\\ $u$.\\ A\\ constant\\ force\\ $F$\\ is\\ applied.\\ Initially\\ the\\ particle\\ is\\ at\\ $(0,0)$.\\ Find\\ the\\ x\\text{-}coordinate\\ when\\ the\\ y\\text{-}coordinate\\ again\\ becomes\\ zero.",
+        "question_images": [
+            "q35_1"
+        ],
+        "options": [
+            "A. $1.2\\,m$",
+            "B. $4.8\\,m$",
+            "C. $6.0\\,m$",
+            "D. $3.2\\,m$"
+        ],
+        "option_images": [],
+        "answer": "D. $3.2\\,m$",
+        "solution": "Using equations of motion in y-direction, the time for y to become zero again is found. Substituting this time in x-displacement gives $x = 3.2\\,m$.",
+        "solution_images": [
+            "q35_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "laws of motion",
+        "question": "A man of weight $75\\,kg$ is standing in an elevator moving upward with acceleration $a$. Find the apparent weight of the man.",
+        "question_latex": "A\\ man\\ of\\ weight\\ $75\\,kg$\\ is\\ standing\\ in\\ an\\ elevator\\ moving\\ upward\\ with\\ acceleration\\ $a$.\\ Find\\ the\\ apparent\\ weight.",
+        "question_images": [],
+        "options": [
+            "A. $1425\\,N$",
+            "B. $1375\\,N$",
+            "C. $1250\\,N$",
+            "D. $1125\\,N$"
+        ],
+        "option_images": [],
+        "answer": "D. $1125\\,N$",
+        "solution": "Apparent weight is given by $N = m(g+a)$. Substituting values gives $N = 1125\\,N$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "laws of motion",
+        "question": "The spring balance inside a lift suspends an object. As the lift begins to ascend, the reading of the spring balance will",
+        "question_latex": "The\\ spring\\ balance\\ inside\\ a\\ lift\\ suspends\\ an\\ object.\\ As\\ the\\ lift\\ begins\\ to\\ ascend,\\ the\\ reading\\ will",
+        "question_images": [],
+        "options": [
+            "A. Increase",
+            "B. Decrease",
+            "C. Remain unchanged",
+            "D. Depend on speed"
+        ],
+        "option_images": [],
+        "answer": "A. Increase",
+        "solution": "During upward acceleration, apparent weight increases as $N = m(g+a)$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "laws of motion",
+        "question": "A block of mass $m$ is placed on a smooth wedge of inclination $\\theta$. The system is accelerated horizontally so that the block does not slip. Find the force exerted by the wedge on the block.",
+        "question_latex": "A\\ block\\ of\\ mass\\ $m$\\ is\\ placed\\ on\\ a\\ smooth\\ wedge\\ of\\ inclination\\ $\\theta$.\\ The\\ system\\ is\\ accelerated\\ horizontally\\ so\\ that\\ the\\ block\\ does\\ not\\ slip.\\ Find\\ the\\ force\\ exerted\\ by\\ the\\ wedge.",
+        "question_images": [
+            "q38_1"
+        ],
+        "options": [
+            "A. $mg$",
+            "B. $m(g-a)$",
+            "C. $m(g+a)$",
+            "D. $\\frac{mg}{\\cos\\theta}$"
+        ],
+        "option_images": [],
+        "answer": "D. $\\frac{mg}{\\cos\\theta}$",
+        "solution": "For equilibrium in the non-inertial frame, resolving forces perpendicular to the plane gives $R = \\frac{mg}{\\cos\\theta}$.",
+        "solution_images": [
+            "q38_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "laws of motion",
+        "question": "An object is hanging from one end of a uniform rod pivoted to a wall and supported by a cable. Find the tension in the cable.",
+        "question_latex": "An\\ object\\ hangs\\ from\\ one\\ end\\ of\\ a\\ uniform\\ rod\\ pivoted\\ to\\ a\\ wall\\ and\\ supported\\ by\\ a\\ cable.\\ Find\\ the\\ tension.",
+        "question_images": [
+            "q39_1"
+        ],
+        "options": [
+            "A. $\\frac{mg}{2}$",
+            "B. $mg$",
+            "C. $2mg$",
+            "D. $\\frac{3mg}{2}$"
+        ],
+        "option_images": [],
+        "answer": "C. $2mg$",
+        "solution": "Taking moments about the pivot and using rotational equilibrium gives tension $T = 2mg$.",
+        "solution_images": [
+            "q39_solution_1"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "laws of motion",
+        "question": "A pendulum bob of mass $50\\,g$ is suspended from the ceiling of an elevator moving upward with uniform velocity. Find the tension in the string.",
+        "question_latex": "A\\ pendulum\\ bob\\ of\\ mass\\ $50\\,g$\\ is\\ suspended\\ in\\ an\\ elevator\\ moving\\ upward\\ with\\ uniform\\ velocity.\\ Find\\ the\\ tension.",
+        "question_images": [],
+        "options": [
+            "A. $0.30\\,N$",
+            "B. $0.40\\,N$",
+            "C. $0.42\\,N$",
+            "D. $0.50\\,N$"
+        ],
+        "option_images": [],
+        "answer": "D. $0.50\\,N$",
+        "solution": "For uniform velocity, acceleration is zero. Hence $T = mg = 0.05 \\times 10 = 0.5\\,N$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "laws of motion",
+        "question": "A particle of mass $0.3\\,kg$ is subjected to a force $F = 15x$. Find its initial acceleration when released from $x=0.2\\,m$.",
+        "question_latex": "A\\ particle\\ of\\ mass\\ $0.3\\,kg$\\ is\\ subjected\\ to\\ force\\ $F=15x$.\\ Find\\ initial\\ acceleration\\ at\\ $x=0.2\\,m$.",
+        "question_images": [],
+        "options": [
+            "A. $5\\,m/s^2$",
+            "B. $10\\,m/s^2$",
+            "C. $3\\,m/s^2$",
+            "D. $15\\,m/s^2$"
+        ],
+        "option_images": [],
+        "answer": "B. $10\\,m/s^2$",
+        "solution": "Force at $x=0.2$ is $F=15\\times0.2=3\\,N$. Hence $a=F/m=10\\,m/s^2$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "laws of motion",
+        "question": "A block on an inclined plane is gradually tilted. Which statement correctly describes its motion?",
+        "question_latex": "A\\ block\\ on\\ an\\ inclined\\ plane\\ is\\ gradually\\ tilted.\\ Choose\\ the\\ correct\\ statement.",
+        "question_images": [
+            "q42_1"
+        ],
+        "options": [
+            "A. It slides immediately",
+            "B. It remains at rest then topples",
+            "C. It slides continuously",
+            "D. It slides and then topples"
+        ],
+        "option_images": [],
+        "answer": "B. It remains at rest then topples",
+        "solution": "Before sliding condition is met, rotational instability occurs leading to toppling.",
+        "solution_images": [
+            "q42_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "laws of motion",
+        "question": "Find the minimum mass required to start motion of a block given coefficients of friction.",
+        "question_latex": "Find\\ the\\ minimum\\ mass\\ required\\ to\\ start\\ motion\\ of\\ a\\ block\\ given\\ coefficients\\ of\\ friction.",
+        "question_images": [
+            "q43_1"
+        ],
+        "options": [
+            "A. $2\\,kg$",
+            "B. $2.2\\,kg$",
+            "C. $4.8\\,kg$",
+            "D. $3.4\\,kg$"
+        ],
+        "option_images": [],
+        "answer": "B. $2.2\\,kg$",
+        "solution": "Equating applied force with limiting friction gives required mass $2.2\\,kg$.",
+        "solution_images": [
+            "q43_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "laws of motion",
+        "question": "Two blocks remain in contact on an accelerating wedge. Find acceleration of the upper block.",
+        "question_latex": "Two\\ blocks\\ remain\\ in\\ contact\\ on\\ an\\ accelerating\\ wedge.\\ Find\\ acceleration\\ of\\ upper\\ block.",
+        "question_images": [
+            "q44_1"
+        ],
+        "options": [
+            "A. $g\\sin\\theta$",
+            "B. $a$",
+            "C. $g$",
+            "D. Same as wedge"
+        ],
+        "option_images": [],
+        "answer": "D. Same as wedge",
+        "solution": "Due to constraint, both blocks have the same acceleration perpendicular to the plane.",
+        "solution_images": [
+            "q44_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "laws of motion",
+        "question": "Find the maximum safe speed of a car on a horizontal curved road given coefficient of friction.",
+        "question_latex": "Find\\ the\\ maximum\\ safe\\ speed\\ of\\ a\\ car\\ on\\ a\\ horizontal\\ curved\\ road\\ given\\ coefficient\\ of\\ friction.",
+        "question_images": [
+            "q45_1"
+        ],
+        "options": [
+            "A. $\\sqrt{\\mu g r}$",
+            "B. $\\sqrt{\\frac{\\mu g r}{2}}$",
+            "C. $\\mu g r$",
+            "D. $gr$"
+        ],
+        "option_images": [],
+        "answer": "A. $\\sqrt{\\mu g r}$",
+        "solution": "Centripetal force is provided by friction: $\\mu mg = \\frac{mv^2}{r}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "laws of motion",
+        "question": "Two masses connected by a string over a pulley move with acceleration $a$. Find the ratio of masses.",
+        "question_latex": "Two\\ masses\\ connected\\ by\\ a\\ string\\ over\\ a\\ pulley\\ move\\ with\\ acceleration\\ $a$.\\ Find\\ the\\ ratio\\ of\\ masses.",
+        "question_images": [
+            "q46_1"
+        ],
+        "options": [
+            "A. $\\frac{g+a}{g-a}$",
+            "B. $\\frac{g-a}{g+a}$",
+            "C. $1$",
+            "D. $\\frac{a}{g}$"
+        ],
+        "option_images": [],
+        "answer": "A. $\\frac{g+a}{g-a}$",
+        "solution": "Using Newton’s second law for both masses gives ratio $\\frac{m_1}{m_2}=\\frac{g+a}{g-a}$.",
+        "solution_images": [
+            "q46_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "laws of motion",
+        "question": "A steel block with cylinders placed on it accelerates downward. Find the normal reaction by the floor.",
+        "question_latex": "A\\ steel\\ block\\ with\\ cylinders\\ placed\\ on\\ it\\ accelerates\\ downward.\\ Find\\ the\\ normal\\ reaction.",
+        "question_images": [
+            "q47_1"
+        ],
+        "options": [
+            "A. $714\\,N$",
+            "B. $684\\,N$",
+            "C. $686\\,N$",
+            "D. $716\\,N$"
+        ],
+        "option_images": [],
+        "answer": "C. $686\\,N$",
+        "solution": "Applying Newton’s second law to the combined system gives $N=686\\,N$.",
+        "solution_images": [
+            "q47_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "laws of motion",
+        "question": "A cricket ball is caught by a player. Find the force exerted on the hand.",
+        "question_latex": "A\\ cricket\\ ball\\ is\\ caught\\ by\\ a\\ player.\\ Find\\ the\\ force\\ exerted\\ on\\ the\\ hand.",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{mv}{t}$",
+            "B. $mv$",
+            "C. $\\frac{m}{vt}$",
+            "D. $\\frac{\\Delta p}{\\Delta t}$"
+        ],
+        "option_images": [],
+        "answer": "D. $\\frac{\\Delta p}{\\Delta t}$",
+        "solution": "Force is rate of change of momentum: $F=\\frac{\\Delta p}{\\Delta t}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "laws of motion",
+        "question": "A block on one trolley is in equilibrium as seen from another accelerating trolley. Find the friction force.",
+        "question_latex": "A\\ block\\ on\\ one\\ trolley\\ is\\ in\\ equilibrium\\ as\\ seen\\ from\\ another\\ accelerating\\ trolley.\\ Find\\ friction\\ force.",
+        "question_images": [
+            "q49_1"
+        ],
+        "options": [
+            "A. $0$",
+            "B. $ma$",
+            "C. $mg$",
+            "D. Data insufficient"
+        ],
+        "option_images": [],
+        "answer": "B. $ma$",
+        "solution": "For equilibrium in non-inertial frame, friction balances pseudo force $ma$.",
+        "solution_images": [
+            "q49_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "laws of motion",
+        "question": "A particle attached to a light spring rotates in gravity free space. Find the extension in the spring.",
+        "question_latex": "A\\ particle\\ attached\\ to\\ a\\ light\\ spring\\ rotates\\ in\\ gravity\\ free\\ space.\\ Find\\ the\\ extension\\ in\\ the\\ spring.",
+        "question_images": [
+            "q50_1"
+        ],
+        "options": [
+            "A. $\\frac{m\\omega^2}{k}$",
+            "B. $\\frac{m\\omega^2 l}{k}$",
+            "C. $\\frac{kl}{m}$",
+            "D. $\\frac{mgl}{k}$"
+        ],
+        "option_images": [],
+        "answer": "B. $\\frac{m\\omega^2 l}{k}$",
+        "solution": "Centripetal force is provided by spring force: $k x = m\\omega^2(l+x)$. Solving gives $x=\\frac{m\\omega^2 l}{k}$.",
+        "solution_images": [
+            "q50_solution_1"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    }
+]

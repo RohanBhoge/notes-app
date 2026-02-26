@@ -1,0 +1,1929 @@
+[
+    {
+        "id": 1,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "If P, V, M, T and R are pressure, volume, molar mass, temperature and gas constant respectively, then for an ideal gas, the density is given by",
+        "question_latex": "If $P, V, M, T$ and $R$ are pressure, volume, molar mass, temperature and gas constant respectively, then for an ideal gas, the density is given by",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{RT}{PM}$",
+            "B. $\\frac{P}{RT}$",
+            "C. $\\frac{M}{V}$",
+            "D. $\\frac{PM}{RT}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$PV = nRT = \\frac{m}{M}RT$ or $PM = \\frac{m}{V}RT = dRT \\Rightarrow d = \\frac{PM}{RT}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The compressibility factor for an ideal gas is",
+        "question_latex": "The compressibility factor for an ideal gas is",
+        "question_images": [],
+        "options": [
+            "A. 1.5",
+            "B. 1.0",
+            "C. 2.0",
+            "D. 0"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Compressibility factor $Z = \\frac{PV}{nRT}$. For ideal gas, $PV = nRT$, so $Z = 1$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Which of the following statements is wrong for gases?",
+        "question_latex": "Which of the following statements is wrong for gases?",
+        "question_images": [],
+        "options": [
+            "A. Gases do not have a definite shape and volume",
+            "B. Volume of the gas is equal to volume of container confining the gas",
+            "C. Confining gas exerts uniform pressure on the walls of container in all directions",
+            "D. Mass of gas cannot be determined by weighing a container in which it is enclosed"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The mass of a gas can indeed be determined by weighing the container before and after filling it with the gas.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "States of Matter Gases and Liquids Gases and Liquids",
+        "question": "A crystalline solid",
+        "question_latex": "A crystalline solid",
+        "question_images": [],
+        "options": [
+            "A. Changes abruptly from solid to liquid when heated",
+            "B. Has no definite melting point",
+            "C. Has an irregular three-dimensional arrangements",
+            "D. Undergoes deformation of its geometry easily"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "A crystalline substance has a sharp melting point i.e., solid changes abruptly into liquid state.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "States of Matter Gases and Liquids Gases and Liquids",
+        "question": "Which of the following statements about amorphous solids is incorrect?",
+        "question_latex": "Which of the following statements about amorphous solids is incorrect?",
+        "question_images": [],
+        "options": [
+            "A. They melt over a range of temperature",
+            "B. There is no orderly arrangement of particles",
+            "C. They are rigid and incompressible",
+            "D. They are anisotropic"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Amorphous solids are isotropic, as these substances show same properties in all directions.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Gases consist of large number of identical particles (atoms or molecules) that are so small and so far apart on the average that the actual volume of the molecules is negligible in comparison to the empty space between them. Above given statement explain which property of gases?",
+        "question_latex": "Gases consist of large number of identical particles (atoms or molecules) that are so small and so far apart on the average that the actual volume of the molecules is negligible in comparison to the empty space between them. Above given statement explain which property of gases?",
+        "question_images": [],
+        "options": [
+            "A. Gases occupy all the space available to them.",
+            "B. Gases has fixed shape.",
+            "C. Compressibility of gases.",
+            "D. None of these."
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The given statement explains the great compressibility of gases because of the large empty spaces between molecules.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "By what factor does the average velocity of a gaseous molecule increase when the temperature (in Kelvin) is doubled?",
+        "question_latex": "By what factor does the average velocity of a gaseous molecule increase when the temperature (in Kelvin) is doubled?",
+        "question_images": [],
+        "options": [
+            "A. 1.4",
+            "B. 2.0",
+            "C. 2.8",
+            "D. 4.0"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$u_{av} \\propto \\sqrt{T}$. If temperature is doubled, $\\frac{u_1}{u_2} = \\sqrt{\\frac{T}{2T}} \\Rightarrow u_2 = \\sqrt{2}u_1 = 1.414u_1$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "At a constant temperature what should be the percentage increase in pressure for a 5% decrease in the volume of gas?",
+        "question_latex": "At a constant temperature what should be the percentage increase in pressure for a $5\\%$ decrease in the volume of gas?",
+        "question_images": [],
+        "options": [
+            "A. 5%",
+            "B. 10%",
+            "C. 5.26%",
+            "D. 4.26%"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$P \\propto \\frac{1}{V} \\Rightarrow P_1V_1 = P_2V_2$. Given $V_2 = V_1 - 0.05V_1 = 0.95V_1$. So $P_2 = \\frac{P_1V_1}{0.95V_1} = \\frac{P_1}{0.95} \\approx 1.0526P_1$. Percentage increase $= (1.0526 - 1) \\times 100 = 5.26\\%$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Which gas has the highest partial pressure in atmosphere?",
+        "question_latex": "Which gas has the highest partial pressure in atmosphere?",
+        "question_images": [],
+        "options": [
+            "A. $CO_2$",
+            "B. $H_2O$",
+            "C. $O_2$",
+            "D. $N_2$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Mole fraction of nitrogen in air is greater than the other given gases, so it has the highest partial pressure in the atmosphere.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "States of Matter Gases and Liquids Gases and Liquids",
+        "question": "Calculate the ionic radius of a Cs+ ion, assuming that the cell edge length for CsCl is 0.4123 nm and that the ionic radius of a Cl- ion is 0.181 nm",
+        "question_latex": "Calculate the ionic radius of a $Cs^+$ ion, assuming that the cell edge length for $CsCl$ is $0.4123$ nm and that the ionic radius of a $Cl^-$ ion is $0.181$ nm",
+        "question_images": [],
+        "options": [
+            "A. 0.352 nm",
+            "B. 0.116 nm",
+            "C. 0.231 nm",
+            "D. 0.176 nm"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$d_{body} = a\\sqrt{3} = 0.4123 \\times \\sqrt{3} = 0.7141$ nm. The sum of radii $r_{Cs^+} + r_{Cl^-} = \\frac{d_{body}}{2} = 0.3571$ nm. $r_{Cs^+} = 0.3571 - 0.181 = 0.176$ nm.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "There is 10 litre of a gas at STP. Which of the following changes keep the volume constant?",
+        "question_latex": "There is $10$ litre of a gas at STP. Which of the following changes keep the volume constant?",
+        "question_images": [],
+        "options": [
+            "A. 273 K and 2 atm",
+            "B. 273°C and 2 atm",
+            "C. 546°C and 0.5 atm",
+            "D. 0°C and 0 atm"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "At STP, $T_1 = 273$ K, $P_1 = 1$ atm. In option B, $T_2 = 273 + 273 = 546$ K (doubled) and $P_2 = 2$ atm (doubled). Since $V = \\frac{nRT}{P}$, if both $T$ and $P$ are doubled, $V$ remains constant.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Number of N2 molecules present in L vessel at NTP when compressibility factor is 1.2 is",
+        "question_latex": "Number of $N_2$ molecules present in $1$ L vessel at NTP when compressibility factor is $1.2$ is",
+        "question_images": [],
+        "options": [
+            "A. $2.23 \\times 10^{24}$",
+            "B. $2.23 \\times 10^{22}$",
+            "C. $2.7 \\times 10^{22}$",
+            "D. $2.7 \\times 10^{24}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$Z = \\frac{PV}{nRT} \\Rightarrow n = \\frac{PV}{ZRT} = \\frac{1 \\times 1}{1.2 \\times 0.0821 \\times 273} = 0.037$. Number of molecules $= 0.037 \\times 6.023 \\times 10^{23} = 2.23 \\times 10^{22}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Some Basic Concepts of Chemistry",
+        "question": "Which of the following contains greatest number of N atoms?",
+        "question_latex": "Which of the following contains greatest number of $N$ atoms?",
+        "question_images": [],
+        "options": [
+            "A. 22.4 L nitrogen gas at STP",
+            "B. 500 mL of 2.00M NH3",
+            "C. 1.00 mol of NH4Cl",
+            "D. 6.02 x 10^23 molecules of NO2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "(a) 22.4 L $N_2$ at STP = 1 mol $N_2$ = 2 mol N atoms ($2N_0$). (b) 500 mL 2M $NH_3$ = 1 mol $NH_3$ = 1 mol N atoms ($N_0$). (c) 1 mol $NH_4Cl$ = 1 mol N atoms ($N_0$). (d) $N_0$ molecules $NO_2$ = 1 mol N atoms ($N_0$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The pressure exerted by 6.0 g of methane gas in a 0.03 m^3 vessel at 129°C is (Atomic masses : C=12.01, H=1.01 and R=8.314 J K^-1 mol^-1)",
+        "question_latex": "The pressure exerted by $6.0$ g of methane gas in a $0.03$ m$^3$ vessel at $129^{\\circ}$C is (Atomic masses : $C=12.01, H=1.01$ and $R=8.314$ J K$^{-1}$ mol$^{-1}$)",
+        "question_images": [],
+        "options": [
+            "A. 31684 Pa",
+            "B. 215216 Pa",
+            "C. 13409 Pa",
+            "D. 41648 Pa"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$P = \\frac{nRT}{V} = \\frac{6/16.05 \\times 8.314 \\times (129+273)}{0.03} \\approx 41648$ Pa.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The pressure exerted by 1 mol of CO2 at 273 K is 34.98 atm. Assuming that volume occupied by CO2 molecules is negligible, the value of van der Waals constant for attraction of CO2 gas is",
+        "question_latex": "The pressure exerted by $1$ mol of $CO_2$ at $273$ K is $34.98$ atm. Assuming that volume occupied by $CO_2$ molecules is negligible, the value of van der Waals constant for attraction of $CO_2$ gas is",
+        "question_images": [],
+        "options": [
+            "A. 3.59 dm^6 atm mol^-2",
+            "B. 2.59 dm^6 atm mol^-2",
+            "C. 1.25 dm^6 atm mol^-2",
+            "D. 1.59 dm^6 atm mol^-2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Given $b=0$, the eq is $(P + a/V^2)V = RT$. This leads to $V^2P - RTV + a = 0$. Using discriminant $= 0$ for constant $V$: $a = \\frac{R^2T^2}{4P} = \\frac{(0.0821)^2 \\times 273^2}{4 \\times 34.98} = 3.59$ dm$^6$ atm mol$^{-2}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Which of the following are arrangement in the correct order? I. Gas > Liquid > Solid (Thermal energy) II. Solid > Liquid > Gas (Intermolecular force) Select the correct option.",
+        "question_latex": "Which of the following are arrangement in the correct order? I. Gas > Liquid > Solid (Thermal energy) II. Solid > Liquid > Gas (Intermolecular force) Select the correct option.",
+        "question_images": [],
+        "options": [
+            "A. I only",
+            "B. II only",
+            "C. Both I and II",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Gaseous state has maximum thermal energy because of high molecular motion. Solids have the strongest intermolecular forces to keep particles fixed.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "A sample of pure gas has a density of 1.60 g litre^-1 at 26.5°C and 680.2 mm Hg. Which of the following is present in the sample?",
+        "question_latex": "A sample of pure gas has a density of $1.60$ g litre$^{-1}$ at $26.5^{\\circ}$C and $680.2$ mm Hg. Which of the following is present in the sample?",
+        "question_images": [],
+        "options": [
+            "A. CH4",
+            "B. C2H6",
+            "C. CO2",
+            "C. Xe"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$M = \\frac{dRT}{P} = \\frac{1.60 \\times 0.0821 \\times 299.5}{(680.2/760)} \\approx 44$ g/mol. Molar mass of $CO_2$ is $44$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "If three unreactive gases having partial pressures PA, PB and PC and their moles are 1, 2 and 3 respectively then their total pressure will be",
+        "question_latex": "If three unreactive gases having partial pressures $P_A, P_B$ and $P_C$ and their moles are $1, 2$ and $3$ respectively then their total pressure will be",
+        "question_images": [],
+        "options": [
+            "A. $P = P_A + P_B + P_C$",
+            "B. $P = \\frac{P_A + P_B + P_C}{6}$",
+            "C. $P = \\frac{\\sqrt{P_A + P_B + P_C}}{3}$",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to Dalton's Law of partial pressures, the total pressure of a mixture of unreactive gases is the sum of their partial pressures.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Two sealed containers of the same capacity and at the same T are filled with 44 g of H2 gas in one and 44 g of CO2 in other. If the P of CO2 is 1 atm in other, the P of H2 in its container will be:",
+        "question_latex": "Two sealed containers of the same capacity and at the same $T$ are filled with $44$ g of $H_2$ gas in one and $44$ g of $CO_2$ in other. If the $P$ of $CO_2$ is $1$ atm in other, the $P$ of $H_2$ in its container will be:",
+        "question_images": [],
+        "options": [
+            "A. 1 atm",
+            "B. Zero",
+            "C. 22 atm",
+            "D. 44 atm"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Moles of $H_2 = 44/2 = 22$. Moles of $CO_2 = 44/44 = 1$. Since $V$ and $T$ are same, $P \\propto n$. Pressure of $H_2 = 22 \\times$ Pressure of $CO_2 = 22 \\times 1 = 22$ atm.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "According to Charles law:",
+        "question_latex": "According to Charles law:",
+        "question_images": [],
+        "options": [
+            "A. $(\\partial V / \\partial T)_P = K$",
+            "B. $(\\partial V / \\partial T)_P = -K$",
+            "C. $(\\partial V / \\partial T)_P = -K/T$",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$V = KT$. Differentiating with respect to $T$ at constant $P$ gives $(\\partial V / \\partial T)_P = K$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Boyle's law states that the",
+        "question_latex": "Boyle's law states that the",
+        "question_images": [],
+        "options": [
+            "A. pressure of a gas is directly proportional to the temperature at constant volume",
+            "B. pressure of a gas is inversely proportional the volume at constant temperature",
+            "C. volume is directly proportional to the temperature at constant pressure",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Boyle's Law: $P \\propto 1/V$ at constant temperature.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "An ideal gas expands according to PV = constant. On expansion, the temperature of gas:",
+        "question_latex": "An ideal gas expands according to $PV = \\text{constant}$. On expansion, the temperature of gas:",
+        "question_images": [],
+        "options": [
+            "A. Will rise",
+            "B. Will drop",
+            "C. Will remain constant",
+            "D. Cannot be determined"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "If $PV = \\text{constant}$ and for an ideal gas $PV = nRT$, then $nRT = \\text{constant}$. Since $n$ and $R$ are constants, $T$ must be constant.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "According to Graham's law, at a given temperature, the ratio of the rates of diffusion rA/rB of gases A and B is given by",
+        "question_latex": "According to Graham's law, at a given temperature, the ratio of the rates of diffusion $r_A/r_B$ of gases $A$ and $B$ is given by",
+        "question_images": [],
+        "options": [
+            "A. $(P_A/P_B)(M_A/M_B)^{1/2}$",
+            "B. $(M_A/M_B)(P_A/P_B)^{1/2}$",
+            "C. $(P_A/P_B)(M_B/M_A)^{1/2}$",
+            "D. $(M_A/M_B)^{1/2}(P_B/P_A)$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Rate of diffusion $r \\propto P / \\sqrt{M}$. Therefore, $\\frac{r_A}{r_B} = \\frac{P_A}{P_B} \\sqrt{\\frac{M_B}{M_A}}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Thermodynamics",
+        "question": "If latent heat of vaporization is L at boiling point T(K) then entropy of vaporization is",
+        "question_latex": "If latent heat of vaporization is $L$ at boiling point $T(K)$ then entropy of vaporization is",
+        "question_images": [],
+        "options": [
+            "A. LT",
+            "B. LT^-1",
+            "C. TL^-1",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\Delta S = \\frac{L}{T} = LT^{-1}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "States of Matter Gases and Liquids Gases and Liquids",
+        "question": "Example of unit cell with crystallographic dimensions, a ≠ b ≠ c, α = γ = 90°, β ≠ 90°, is",
+        "question_latex": "Example of unit cell with crystallographic dimensions, $a \\neq b \\neq c, \\alpha = \\gamma = 90^{\\circ}, \\beta \\neq 90^{\\circ}$, is",
+        "question_images": [],
+        "options": [
+            "A. Calcite",
+            "B. Rhombic sulphur",
+            "C. Graphite",
+            "D. Monoclinic sulphur"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "These dimensions ($a \\neq b \\neq c$ and $\\alpha = \\gamma = 90^{\\circ} \\neq \\beta$) characterize the monoclinic crystal system. Monoclinic sulphur is a prime example.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "States of Matter Gases and Liquids Gases and Liquids",
+        "question": "A pure crystalline substance, on being heated gradually, first forms a turbid looking liquid and then the turbidity completely disappears. This behavior is the characteristic of substances forming",
+        "question_latex": "A pure crystalline substance, on being heated gradually, first forms a turbid looking liquid and then the turbidity completely disappears. This behavior is the characteristic of substances forming",
+        "question_images": [],
+        "options": [
+            "A. isomeric crystals",
+            "B. liquid crystals",
+            "C. isomorphous crystals",
+            "D. allotropic crystals"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "It is a characteristic of liquid crystal[cite: 483].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "States of Matter Gases and Liquids Gases and Liquids",
+        "question": "Certain crystals produces electric signals on application of pressure. This phenomena is called",
+        "question_latex": "Certain crystals produces electric signals on application of pressure. This phenomena is called",
+        "question_images": [],
+        "options": [
+            "A. Ferroelectricity",
+            "B. Ferrielectricity",
+            "C. Pyroelectricity",
+            "D. Piezoelectricity"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "When polar crystal is subjected to a mechanical stress, electricity is produced - a case of piezoelectricity. Reversely, if electric field is applied, mechanical stress is developed. Piezoelectric crystal acts as a mechanical transducer[cite: 487, 488].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "States of Matter Gases and Liquids Gases and Liquids",
+        "question": "Which one of the following has Frenkel defect?",
+        "question_latex": "Which one of the following has Frenkel defect?",
+        "question_images": [],
+        "options": [
+            "A. NaCl",
+            "B. AgBr",
+            "C. Graphite",
+            "D. Diamond"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$AgBr$ exhibits Frenkel defect due to large difference in the size of $Ag^{+}$ and $Br^{-}$ ions[cite: 492].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "At 27°C a gas was compressed to half its volume. To what temperature must it be heated so that it occupies the original volume? (P = constant)",
+        "question_latex": "At $27^{\\circ}C$ a gas was compressed to half its volume. To what temperature must it be heated so that it occupies the original volume? ($P = \\text{constant}$)",
+        "question_images": [],
+        "options": [
+            "A. 54°C",
+            "B. 600°C",
+            "C. 327 K",
+            "D. 327°C"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$V \\propto T$ ($P, n$ are constant). Initial $T_1 = 300$ K, $V_1 = V/2$. To reach original volume $V_2 = V$, temperature must double: $T_2 = 600$ K or $327^{\\circ}C$[cite: 495, 498].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Some Basic Concepts of Chemistry",
+        "question": "Which gas contains larger number of molecules?",
+        "question_latex": "Which gas contains larger number of molecules?",
+        "question_images": [],
+        "options": [
+            "A. 4 g of H2O",
+            "B. 2 g of marsh gas",
+            "C. 4 g of PCl5",
+            "D. 2 g of phoszene"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "More is the number of mole, more will be number of molecules. Moles: $H_2O = 4/18 = 0.22$; Marsh gas ($CH_4$) $= 2/16 = 0.125$; $PCl_5 = 4/208.5 = 0.019$; Phosgene ($COCl_2$) $= 2/99 = 0.02$[cite: 501, 503].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "An evacuated glass vessel weighs 40.0 g when empty, 135.0 g when filled with a liquid of density 0.95 g mL^-1 and 40.5 g when filled with an ideal gas at 0.82 atm at 250 K. The molar mass of the gas in g mol^-1 is (Given: R = 0.082 L atm K^-1 mol^-1)",
+        "question_latex": "An evacuated glass vessel weighs $40.0$ g when empty, $135.0$ g when filled with a liquid of density $0.95$ g mL$^{-1}$ and $40.5$ g when filled with an ideal gas at $0.82$ atm at $250$ K. The molar mass of the gas in g mol$^{-1}$ is (Given: $R = 0.082$ L atm K$^{-1}$ mol$^{-1}$)",
+        "question_images": [],
+        "options": [
+            "A. 35",
+            "B. 50",
+            "C. 75",
+            "D. 125"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Weight of gas $= 40.5 - 40.0 = 0.5$ g. Weight of liquid $= 135 - 40 = 95$ g. Volume of vessel $= \\text{mass}/\\text{density} = 95/0.95 = 100$ mL $= 0.1$ L. Using $PV = \\frac{w}{M}RT \\Rightarrow M = \\frac{wRT}{PV} = \\frac{0.5 \\times 0.082 \\times 250}{0.82 \\times 0.1} = 125$ g/mol[cite: 507, 511, 512].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The volume of gas A is twice than that of gas B. The compressibility factor of gas A is thrice than that of gas B at same temperature. The pressures of the gases for equal number of moles are",
+        "question_latex": "The volume of gas A is twice than that of gas B. The compressibility factor of gas A is thrice than that of gas B at same temperature. The pressures of the gases for equal number of moles are",
+        "question_images": [],
+        "options": [
+            "A. 2PA = 3PB",
+            "B. 3PA = 2PB",
+            "C. PA = 3PB",
+            "D. PA = 2PB"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$Z_A = \\frac{P_A V_A}{nRT}$, $Z_B = \\frac{P_B V_B}{nRT}$. Given $V_A = 2V_B$ and $Z_A = 3Z_B$. $\\frac{P_A(2V_B)}{nRT} = 3 \\left(\\frac{P_B V_B}{nRT}\\right) \\Rightarrow 2P_A = 3P_B$[cite: 516].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "O2 gas at STP contained in a flask was replaced by SO2 under same conditions. The weight of SO2 will be",
+        "question_latex": "$O_2$ gas at STP contained in a flask was replaced by $SO_2$ under same conditions. The weight of $SO_2$ will be",
+        "question_images": [
+            "33_qu_1.png"
+        ],
+        "options": [
+            "A. Equal to that of O2",
+            "B. Half that of O2",
+            "C. Twice that of O2",
+            "D. One-fourth of O2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Under same $P, V, T$, moles of $O_2 = \\text{moles of } SO_2$. Molar mass of $O_2 = 32$, $SO_2 = 64$. Weight of $SO_2$ will be twice that of $O_2$[cite: 521, 522].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "0.5 moles of gas A and x moles of gas B exert a pressure of 200 Pa in a container of volume 10 m^3 at 1000 K. Given R is the gas constant in J K^-1 mol^-1, x is",
+        "question_latex": "$0.5$ moles of gas A and $x$ moles of gas B exert a pressure of $200$ Pa in a container of volume $10$ m$^3$ at $1000$ K. Given $R$ is the gas constant in J K$^{-1}$ mol$^{-1}$, $x$ is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{2R}{4+R}$",
+            "B. $\\frac{4+R}{2R}$",
+            "C. $\\frac{4-R}{2R}$",
+            "D. $\\frac{2R}{4-R}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$PV = nRT \\Rightarrow 200 \\times 10 = (0.5 + x) R \\times 1000 \\Rightarrow 2 = (0.5 + x) R$. $\\frac{2}{R} = \\frac{1}{2} + x \\Rightarrow x = \\frac{2}{R} - \\frac{1}{2} = \\frac{4-R}{2R}$[cite: 527, 528].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The values of van der Waal's constant 'a' for the gases O2, N2, NH3 and CH4 are 1.360, 1.390, 4.170 and 2.253 L^2 atm mol^-2 respectively. The gas which can most easily be liquified is",
+        "question_latex": "The values of van der Waal's constant '$a$' for the gases $O_2, N_2, NH_3$ and $CH_4$ are $1.360, 1.390, 4.170$ and $2.253$ L$^2$ atm mol$^{-2}$ respectively. The gas which can most easily be liquified is",
+        "question_images": [],
+        "options": [
+            "A. O2",
+            "B. NH3",
+            "C. N2",
+            "D. CH4"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "'a' is directly related to forces of attraction. Higher the value of 'a', more easily the gas gets liquified. $NH_3$ has the highest 'a'[cite: 530, 534].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Some Basic Concepts of Chemistry",
+        "question": "At what temperature will both celsius and fahrenheit scales read the same value?",
+        "question_latex": "At what temperature will both celsius and fahrenheit scales read the same value?",
+        "question_images": [],
+        "options": [
+            "A. 100°",
+            "B. 180°",
+            "C. 40°",
+            "D. -40°"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Using $\\frac{F-32}{180} = \\frac{C}{100}$. Let $F = C = t$. $\\frac{t-32}{9} = \\frac{t}{5} \\Rightarrow 5t - 160 = 9t \\Rightarrow -160 = 4t \\Rightarrow t = -40^{\\circ}$[cite: 538, 540].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "At low pressure the van der Waal's equation is reduced to",
+        "question_latex": "At low pressure the van der Waal's equation is reduced to",
+        "question_images": [],
+        "options": [
+            "A. $Z = \\frac{pV_m}{RT} = 1 - \\frac{ap}{RT}$",
+            "B. $Z = \\frac{pV_m}{RT} = 1 + \\frac{b}{RT}p$",
+            "C. $pV_m = RT$",
+            "D. $Z = \\frac{pV_m}{RT} = 1 - \\frac{a}{VRT}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "At low pressure, volume is large so 'b' is neglected. $(P + \\frac{a}{V^2})V = RT \\Rightarrow PV + \\frac{a}{V} = RT \\Rightarrow \\frac{PV}{RT} = 1 - \\frac{a}{VRT} \\Rightarrow Z = 1 - \\frac{a}{VRT}$[cite: 545, 548, 549].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The compressibility factor for H2 and He is usually:",
+        "question_latex": "The compressibility factor for $H_2$ and $He$ is usually:",
+        "question_images": [],
+        "options": [
+            "A. > 1",
+            "B. = 1",
+            "C. < 1",
+            "D. Either of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For $H_2$ and $He$, $PV > nRT$, so $Z > 1$[cite: 553, 554].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The van der Waals equation for real gas is:",
+        "question_latex": "The van der Waals equation for real gas is:",
+        "question_images": [],
+        "options": [
+            "A. $(P+\\frac{a}{V^{2}})(V-b)=RT$",
+            "B. $(P+\\frac{n^{2}a}{V^{2}})(V-nb)=nRT$",
+            "C. $P=\\frac{nRT}{V-nb}-\\frac{an^{2}}{V^{2}}$",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "(a) is for 1 mole. (b) and (c) are forms for n moles[cite: 558].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "For gaseous state, if most probable speed is denoted by c*, average speed by c_avg and mean square speed by C, then for a large number of molecules the ratios of these speed are",
+        "question_latex": "For gaseous state, if most probable speed is denoted by $c^{*}$, average speed by $\\bar{c}$ and mean square speed by $C$, then for a large number of molecules the ratios of these speed are",
+        "question_images": [],
+        "options": [
+            "A. $C^{*}$: $\\bar{C}$: $C = 1 : 1.225 : 1.128$",
+            "B. $\\bar{C}$: $C^{*}$: $C = 1.128 : 1 : 1.225$",
+            "C. $C$: $C^{*}$: $\\bar{C} = 1.225 : 1.128 : 1$",
+            "D. $C^{*}$: $\\bar{C}$: $C = 1 : 1.128 : 1.225$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$C^{*} : \\bar{C} : C = \\sqrt{\\frac{2RT}{M}} : \\sqrt{\\frac{8RT}{\\pi M}} : \\sqrt{\\frac{3RT}{M}} = 1 : 1.128 : 1.225$[cite: 563].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The density of CCl4 vapour at 0°C and 76 cm Hg in g/litre is:",
+        "question_latex": "The density of $CCl_4$ vapour at $0^{\\circ}C$ and $76$ cm Hg in g/litre is:",
+        "question_images": [],
+        "options": [
+            "A. 11.2",
+            "B. 77",
+            "C. 6.88",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$d = \\frac{PM}{RT} = \\frac{1 \\times 154}{0.0821 \\times 273} \\approx 6.88$ g/L[cite: 566].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The ratio between the root mean square speed of H2 at 50 K and that of O2 at 800 K is",
+        "question_latex": "The ratio between the root mean square speed of $H_2$ at $50$ K and that of $O_2$ at $800$ K is",
+        "question_images": [],
+        "options": [
+            "A. 4",
+            "B. 2",
+            "C. 1",
+            "D. 1/4"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$v_{rms} = \\sqrt{\\frac{3RT}{M}}$. Ratio $= \\frac{\\sqrt{50/2}}{\\sqrt{800/32}} = \\frac{\\sqrt{25}}{\\sqrt{25}} = 1$[cite: 570, 573].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "A Dewar flask is usually used to:",
+        "question_latex": "A Dewar flask is usually used to:",
+        "question_images": [],
+        "options": [
+            "A. Measure the amount of liquid",
+            "B. Measure known volumes of a gas",
+            "C. Store distilled water",
+            "D. Store liquid air"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "A method in which Dewar flask is used involves separation of noble gases from liquid air[cite: 577].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Cyclopropane and oxygen at partial pressures 170 torr and 570 torr respectively are mixed in a gas cylinder. What is the ratio of the number of moles of cyclopropane to the number of moles of oxygen?",
+        "question_latex": "Cyclopropane and oxygen at partial pressures $170$ torr and $570$ torr respectively are mixed in a gas cylinder. What is the ratio of the number of moles of cyclopropane to the number of moles of oxygen $(n_{C_3H_6}/n_{O_2})$?",
+        "question_images": [],
+        "options": [
+            "A. 0.39",
+            "B. 0.19",
+            "C. 0.23",
+            "D. 0.30"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$n_1/n_2 = P_1/P_2 = 170/570 = 0.30$[cite: 584].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Value of universal gas constant (R) depends upon",
+        "question_latex": "Value of universal gas constant ($R$) depends upon",
+        "question_images": [],
+        "options": [
+            "A. Number of moles of gas",
+            "B. Volume of gas",
+            "C. Temperature of gas",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Value of gas constant depends only upon units of measurement[cite: 587].",
+        "solution_images": [
+            "45_so_1.png",
+            "45_so_2.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "According to the kinetic theory of gases, in an ideal gas, between two successive collisions a gas molecule travels",
+        "question_latex": "According to the kinetic theory of gases, in an ideal gas, between two successive collisions a gas molecule travels",
+        "question_images": [],
+        "options": [
+            "A. in a wavy path",
+            "B. in a circular path",
+            "C. in a straight line path",
+            "D. with an accelerated velocity."
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In an ideal gas, molecules move in straight lines between collisions[cite: 590, 591].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Which of the following statements is not correct about the three States of Matter Gases and Liquids, i.e., solid, liquids and gas?",
+        "question_latex": "Which of the following statements is not correct about the three States of Matter Gases and Liquids, i.e., solid, liquids and gas?",
+        "question_images": [],
+        "options": [
+            "A. Molecules of a solid possess least energy whereas those of a gas possess highest energy",
+            "B. The density of a solid is highest whereas that of gases is lowest",
+            "C. Gases like liquids possess definite volumes",
+            "D. Molecules of a solid possess vibratory motion"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Gases do not possess definite volumes, unlike liquids and solids[cite: 599].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Equilibrium",
+        "question": "H2O(l) ⇌ H2O(g), ΔH_vap = 10 kcal mol^-1. If pressure is increased",
+        "question_latex": "$H_2O(l) \\rightleftharpoons H_2O(g)$, $\\Delta H_{vap} = 10$ kcal mol$^{-1}$. If pressure is increased",
+        "question_images": [],
+        "options": [
+            "A. Steam is liquefied",
+            "B. b.p. of H2O is elevated",
+            "C. Both (A) and (B)",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The process is endothermic with an increase in pressure (gas formation). Increasing pressure shifts equilibrium backward (liquefaction). To boil it again, a higher temperature is needed (elevation of b.p.)[cite: 607, 608, 609].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "A flask filled with CCl4 was weighed at a temperature and pressure. The flask was then filled with oxygen at the same temperature and pressure. The mass of CCl4 vapour would be about:",
+        "question_latex": "A flask filled with $CCl_4$ was weighed at a temperature and pressure. The flask was then filled with oxygen at the same temperature and pressure. The mass of $CCl_4$ vapour would be about:",
+        "question_images": [],
+        "options": [
+            "A. The same as that of the oxygen",
+            "B. One-fifth as heavy as oxygen",
+            "C. Five times as heavy as oxygen",
+            "D. Twice as heavy as oxygen"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "At constant $P, V, T$, mass is proportional to molar mass. $M(CCl_4) \\approx 154$, $M(O_2) = 32$. Ratio $\\approx 154/32 \\approx 5$[cite: 614, 615].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "A neon-dioxygen mixture contains 70.6 g O2 and 167.5 g neon. If pressure of the mixture of gases in the cylinder is 25 bar. What is the partial pressure of O2 and Ne in the mixture respectively?",
+        "question_latex": "A neon-dioxygen mixture contains $70.6$ g $O_2$ and $167.5$ g neon. If pressure of the mixture of gases in the cylinder is $25$ bar. What is the partial pressure of $O_2$ and $Ne$ in the mixture respectively?",
+        "question_images": [],
+        "options": [
+            "A. 5.25 bar, 10 bar",
+            "B. 19.75 bar, 5.25 bar",
+            "C. 19.75 bar, 10 bar",
+            "D. 5.25 bar, 19.75 bar"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Moles $O_2 = 70.6/32 = 2.21$. Moles $Ne = 167.5/20 = 8.375$. Mole fraction $O_2 = 2.21/(2.21+8.375) = 0.21$. Partial pressure $O_2 = 0.21 \\times 25 = 5.25$ bar. Partial pressure $Ne = 25 - 5.25 = 19.75$ bar[cite: 620, 622, 623, 625, 627].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "States of Matter Gases and Liquids and States of Matter Gases and Liquids Gases and Liquids",
+        "question": "'a' and 'b' are van der Waals' constants for gases. Chlorine is more easily liquefied than ethane because",
+        "question_latex": "'a' and 'b' are van der Waals' constants for gases. Chlorine is more easily liquefied than ethane because",
+        "question_images": [
+            "51_qu_1.png"
+        ],
+        "options": [
+            "A. a and b for $Cl_{2} > a$ and b for $C_{2}H_{6}$",
+            "B. a and b for $Cl_{2} < a$ and b for $C_{2}H_{6}$",
+            "C. a for $Cl_{2} < a$ for $C_{2}H_{6}$ but b for $Cl_{2} > b$ for $C_{2}H_{6}$",
+            "D. a for $Cl_{2} > a$ for $C_{2}H_{6}$ but b for $Cl_{2} < b$ for $C_{2}H_{6}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "From the given values, $a$ for $Cl_{2} (6.49)$ is greater than $a$ for ethane $C_{2}H_{6} (5.49)$, and $b$ for ethane $(0.0638)$ is greater than $b$ for $Cl_{2} (0.0562)$. A higher 'a' value indicates stronger intermolecular attractions, making liquefaction easier.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "When the temperature is increased, surface tension of water",
+        "question_latex": "When the temperature is increased, surface tension of water",
+        "question_images": [],
+        "options": [
+            "A. Increases",
+            "B. Decreases",
+            "C. Remains constant",
+            "D. Shows irregular behavior"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "On increasing the temperature, the mobility of the molecules increases or vaporization increases. Thus, the intermolecular forces of attraction decrease, causing the surface tension to decrease.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The condition of SATP refers for:",
+        "question_latex": "The condition of SATP refers for:",
+        "question_images": [],
+        "options": [
+            "A. $25^{\\circ}C$ and 2 atm",
+            "B. $25^{\\circ}C$ and 1 atm",
+            "C. $0^{\\circ}C$ and 2 atm",
+            "D. $25^{\\circ}C$ and 1 bar"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "SATP stands for Standard Ambient Temperature and Pressure, which corresponds to a temperature of $25^{\\circ}C$ ($298.15\\,K$) and a pressure of $1\\,bar$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "States of Matter Gases and Liquids Gases and Liquids",
+        "question": "A compound is formed by elements A and B. This crystallizes in the cubic structure when atoms A are at the corners of the cube and atoms B are at the centre of the body. The simplest formula of the compound is",
+        "question_latex": "A compound is formed by elements A and B. This crystallizes in the cubic structure when atoms A are at the corners of the cube and atoms B are at the centre of the body. The simplest formula of the compound is",
+        "question_images": [],
+        "options": [
+            "A. AB",
+            "B. $AB_{2}$",
+            "C. $A_{2}B$",
+            "D. $AB_{4}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "A atoms are at eight corners of the cube. Therefore, the number of A atoms in the unit cell $= 8 \\times \\frac{1}{8} = 1$. Atom B is at the body center, so number of B atoms per unit cell $= 1$. Hence, the formula is AB.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Initially, the root mean square (rms) velocity of $N_{2}$ molecules at certain temperature is u. If this temperature is doubled and all the nitrogen molecules dissociate into nitrogen atoms, then the new rms velocity will be",
+        "question_latex": "Initially, the root mean square (rms) velocity of $N_{2}$ molecules at certain temperature is $u$. If this temperature is doubled and all the nitrogen molecules dissociate into nitrogen atoms, then the new rms velocity will be",
+        "question_images": [],
+        "options": [
+            "A. 2u",
+            "B. 14u",
+            "C. $u/2$",
+            "D. 4u"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$u_{rms} = \\sqrt{\\frac{3RT}{M}}$. Case I: $u = \\sqrt{\\frac{3RT}{28}}$. Case II: $T' = 2T$ and $M' = 14$ (atomic mass of N). $u' = \\sqrt{\\frac{3R(2T)}{14}} = \\sqrt{\\frac{3RT \\times 4}{28}} = 2 \\times \\sqrt{\\frac{3RT}{28}} = 2u$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Which of the following statements is wrong for gases?",
+        "question_latex": "Which of the following statements is wrong for gases?",
+        "question_images": [],
+        "options": [
+            "A. Gases do not have a definite shape and volume",
+            "B. Volume of the gas is equal to volume of container confining the gas",
+            "C. Confining gas exerts uniform pressure on the walls of container in all directions",
+            "D. Mass of gas cannot be determined by weighing a container in which it is enclosed"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The mass of a gas can be determined by weighing the container filled with gas and then weighing the empty (evacuated) container; the difference gives the mass of the gas.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The strength of van der Waals forces increases with:",
+        "question_latex": "The strength of van der Waals forces increases with:",
+        "question_images": [
+            "57_qu_1.png"
+        ],
+        "options": [
+            "A. Increase in molecular size",
+            "B. Increase in the number of electrons in the molecule",
+            "C. Increase in molecular weight",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Van der Waals forces depend on molecular size, number of electrons (polarizability), and molecular weight. As these factors increase, the strength of the forces increases.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Which of the following gases would have the highest rms speed at $0^{\\circ}C$?",
+        "question_latex": "Which of the following gases would have the highest rms speed at $0^{\\circ}C$?",
+        "question_images": [],
+        "options": [
+            "A. $O_{3}$",
+            "B. $CO_{2}$",
+            "C. $SO_{3}$",
+            "D. CO"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$u_{rms} \\propto \\sqrt{\\frac{1}{M}}$. Among the given options, CO has the lowest molecular mass ($28\\,g/mol$), hence it will have the highest rms speed.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "If 500ml of gas A at 400 torr and 666.6ml of B at 600 torr are placed in a 3 litre flask, the pressure of the system will be",
+        "question_latex": "If $500\\,ml$ of gas A at $400\\,torr$ and $666.6\\,ml$ of B at $600\\,torr$ are placed in a $3\\,litre$ flask, the pressure of the system will be",
+        "question_images": [],
+        "options": [
+            "A. 200 torr",
+            "B. 100 torr",
+            "C. 550 torr",
+            "D. 366 torr"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Using Boyle's law $P_1V_1 = P_2V_2$: For gas A: $400 \\times 0.5 = P_A \\times 3 \\Rightarrow P_A = 200/3$. For gas B: $600 \\times 0.6666 = P_B \\times 3 \\Rightarrow P_B = 400/3$. Total pressure $P_T = P_A + P_B = 200/3 + 400/3 = 600/3 = 200\\,torr$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Correct gas equation is",
+        "question_latex": "Correct gas equation is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{p_{1}T_{1}}{V_{1}}=\\frac{p_{2}T_{2}}{V_{2}}$",
+            "B. $\\frac{V_{1}T_{2}}{p_{1}}=\\frac{V_{2}T_{1}}{p_{2}}$",
+            "C. $\\frac{p_{1}V_{1}}{p_{2}V_{2}}=\\frac{T_{1}}{T_{2}}$",
+            "D. $\\frac{V_{1}V_{2}}{T_{1}T_{2}}=p_{1}p_{2}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "From the combined gas law, $\\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2}$, which can be rearranged as $\\frac{P_1V_1}{P_2V_2} = \\frac{T_1}{T_2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Which of the following statements are correct? (i) Real gases show deviations from ideal gas law because molecules interact with each other. (ii) Due to interaction of molecules the pressure exerted by the gas is given as: $p_{real}=p_{ideal}+\\frac{an^{2}}{V^{2}}$. (iii) Value of 'a' is measure of magnitude of intermolecular attractive forces within the gas and depends on temperature and pressure of gas. (iv) At high pressure volume occupied by the molecules also becomes significant because instead of moving in volume V, these are now restricted to volume (V-nb)",
+        "question_latex": "Which of the following statements are correct? \\\\ (i) Real gases show deviations from ideal gas law because molecules interact with each other. \\\\ (ii) Due to interaction of molecules the pressure exerted by the gas is given as: $p_{real}=p_{ideal}+\\frac{an^{2}}{V^{2}}$. \\\\ (iii) Value of 'a' is measure of magnitude of intermolecular attractive forces within the gas and depends on temperature and pressure of gas. \\\\ (iv) At high pressure volume occupied by the molecules also becomes significant because instead of moving in volume $V$, these are now restricted to volume $(V-nb)$",
+        "question_images": [],
+        "options": [
+            "A. (i) and (iv)",
+            "B. (i), (ii) and (iii)",
+            "C. (i), (iii) and (iv)",
+            "D. (i) and (iii)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Statement (ii) is wrong because $p_{real} = p_{ideal} - \\frac{an^2}{V^2}$. Statement (iii) is wrong because 'a' is a constant independent of temperature and pressure. Statements (i) and (iv) are correct postulates explaining real gas behavior.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "States of Matter Gases and Liquids Gases and Liquids",
+        "question": "Bravais lattices are of",
+        "question_latex": "Bravais lattices are of",
+        "question_images": [],
+        "options": [
+            "A. 8 types",
+            "B. 9 types",
+            "C. 12 types",
+            "D. 14 types"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "There are 14 possible three-dimensional lattices known as Bravais lattices, which describe the geometric arrangement of points in space.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The root mean square speed of the molecules of diatomic gas is u. When the temperature is doubled, the molecules dissociates into two atoms. The new rms speed of the atom is:",
+        "question_latex": "The root mean square speed of the molecules of diatomic gas is $u$. When the temperature is doubled, the molecules dissociates into two atoms. The new rms speed of the atom is:",
+        "question_images": [],
+        "options": [
+            "A. $\\sqrt{2}u$",
+            "B. u",
+            "C. 2u",
+            "D. 4u"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$u = \\sqrt{\\frac{3RT}{M}}$. If $T' = 2T$ and $M' = M/2$ (due to dissociation), then $u_1 = \\sqrt{\\frac{3R(2T)}{M/2}} = \\sqrt{\\frac{12RT}{M}} = 2 \\times \\sqrt{\\frac{3RT}{M}} = 2u$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "States of Matter Gases and Liquids Gases and Liquids",
+        "question": "Frenkel defect is found in crystals in which the radius ration is",
+        "question_latex": "Frenkel defect is found in crystals in which the radius ration is",
+        "question_images": [],
+        "options": [
+            "A. 1.5",
+            "B. 1.7",
+            "C. Very low",
+            "D. Slightly less than unity"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Frenkel defect is observed in crystals where there is a large difference in size between the cation and anion, leading to a low radius ratio.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Which of the following expression at constant pressure represents Charle's law?",
+        "question_latex": "Which of the following expression at constant pressure represents Charle's law?",
+        "question_images": [],
+        "options": [
+            "A. $V\\propto\\frac{1}{T}$",
+            "B. V",
+            "C. $V\\propto T$",
+            "D. V d"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "According to Charles's law, at constant pressure, the volume of a fixed mass of gas is directly proportional to its absolute temperature: $V \\propto T$ or $V/T = k$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "States of Matter Gases and Liquids Gases and Liquids",
+        "question": "What is the coordination number of sodium in $Na_{2}O$?",
+        "question_latex": "What is the coordination number of sodium in $Na_{2}O$?",
+        "question_images": [],
+        "options": [
+            "A. 2",
+            "B. 4",
+            "C. 6",
+            "D. 8"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In the antifluorite structure of $Na_2O$, each $O^{2-}$ ion is coordinated to $8 Na^+$ ions, and each $Na^+$ ion is coordinated to $4 O^{2-}$ ions. Thus, the coordination number for Na is 4.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "$H_{2}O(l) \\rightleftharpoons H_{2}O(g)$ at 1 atm, $\\Delta H_{vap}=10\\,kcal\\,mol^{-1}$. If pressure is increased:",
+        "question_latex": "$H_{2}O(l) \\rightleftharpoons H_{2}O(g)$ at 1 atm, $\\Delta H_{vap}=10\\,kcal\\,mol^{-1}$. If pressure is increased:",
+        "question_images": [],
+        "options": [
+            "A. Steam is liquefied",
+            "B. b.p. of $H_{2}O$ is elevated",
+            "C. Both (a) and (b)",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Increasing pressure shifts the equilibrium toward the side with fewer gas molecules (liquefaction). Additionally, to overcome the increased pressure and boil the liquid, a higher temperature is required (boiling point elevation).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Which of the following is not a correct postulate of kinetic theory of gases?",
+        "question_latex": "Which of the following is not a correct postulate of kinetic theory of gases?",
+        "question_images": [],
+        "options": [
+            "A. The molecules of a gas are continuously moving in different directions with different velocities",
+            "B. The average kinetic energy of the gas molecules is directly proportional to the absolute temperature of the gas",
+            "C. The volume of the gas is due to the large number of molecules present in it",
+            "D. The pressure of the gas is due to the collision of the molecules on the walls of the container"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Postulate (C) is incorrect because the kinetic theory assumes the actual volume of the molecules is negligible compared to the total volume of the gas.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Distribution of molecules with velocity is represented by the curve. The velocity corresponding to point A is",
+        "question_latex": "Distribution of molecules with velocity is represented by the curve. The velocity corresponding to point A is",
+        "question_images": [
+            "q69_1",
+            "69_qu_1.png"
+        ],
+        "options": [
+            "A. $\\sqrt{\\frac{3RT}{M}}$",
+            "B. $\\sqrt{\\frac{2RT}{M}}$",
+            "C. $\\sqrt{\\frac{8RT}{\\pi M}}$",
+            "D. $\\sqrt{\\frac{RT}{M}}$"
+        ],
+        "option_images": [
+            "69_opA_1.png",
+            "69_opB_1.png",
+            "69_opC_1.png",
+            "69_opD_1.png"
+        ],
+        "answer": "B",
+        "solution": "Point A on the Maxwell-Boltzmann distribution curve represents the peak, which corresponds to the most probable velocity ($v_{mp}$). The formula for most probable velocity is $\\sqrt{2RT/M}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "A pin or a needle floats on the surface of water, the reason for this is",
+        "question_latex": "A pin or a needle floats on the surface of water, the reason for this is",
+        "question_images": [],
+        "options": [
+            "A. surface tension",
+            "B. less weight",
+            "C. upthrust of liquid",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Surface tension creates a 'skin-like' layer on the water surface that can support the weight of a small pin or needle if placed carefully.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The temperature of 20 L of nitrogen was increased from 10 K to 30 K at a constant pressure. Change in volume will be",
+        "question_latex": "The temperature of $20\\,L$ of nitrogen was increased from $10\\,K$ to $30\\,K$ at a constant pressure. Change in volume will be",
+        "question_images": [],
+        "options": [
+            "A. 20 L",
+            "B. 40 L",
+            "C. 60 L",
+            "D. 80 L"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Using Charles's Law: $V_1/T_1 = V_2/T_2 \\Rightarrow 20/10 = V_2/30 \\Rightarrow V_2 = 60\\,L$. Change in volume $= V_2 - V_1 = 60 - 20 = 40\\,L$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "A helium atom is two times heavier than a hydrogen molecule. At 298 K, the average kinetic energy of a helium atom is",
+        "question_latex": "A helium atom is two times heavier than a hydrogen molecule. At $298\\,K$, the average kinetic energy of a helium atom is",
+        "question_images": [],
+        "options": [
+            "A. Two times that of a hydrogen molecule",
+            "B. Same as that of a hydrogen molecule",
+            "C. Four times that of a hydrogen molecule",
+            "D. Half that of a hydrogen molecule"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Kinetic energy per molecule ($KE = \\frac{3}{2}kT$) depends only on temperature and is independent of the nature or mass of the gas.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "At what temperature will the molar kinetic energy of 0.3 mol of He be the same as that of 0.4 mol of argon at 400 K?",
+        "question_latex": "At what temperature will the molar kinetic energy of $0.3\\,mol$ of He be the same as that of $0.4\\,mol$ of argon at $400\\,K$?",
+        "question_images": [],
+        "options": [
+            "A. 700 K",
+            "B. 500 K",
+            "C. 800 K",
+            "D. 400 K"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Molar kinetic energy is given by $\\frac{3}{2}RT$. Since it only depends on temperature, for the molar kinetic energy to be the same, the temperature must be the same ($400\\,K$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "A mixture of $SO_{2}$ and $O_{2}$ in the molar ratio 16:1 is diffused through a pin hole for successive effusions three times to give a molar ratio 1:1 of diffused mixture. Which one are not correct if diffusion is made at same P and T in each operation? 1. Eight operations are needed to get 1:1 molar ratio 2. Rate of diffusion for $SO_{2}$ and $O_{2}$ after eight operations is 0.707 3. Six operations are needed to get 2:1 molar ratio for $SO_{2}$ and $O_{2}$ in diffusion mixture 4. Rate of diffusion for $SO_{2}$ and $O_{2}$ after six operations is 2.41",
+        "question_latex": "A mixture of $SO_{2}$ and $O_{2}$ in the molar ratio $16:1$ is diffused through a pin hole for successive effusions three times to give a molar ratio $1:1$ of diffused mixture. Which one are not correct if diffusion is made at same $P$ and $T$ in each operation? \\\\ 1. Eight operations are needed to get $1:1$ molar ratio \\\\ 2. Rate of diffusion for $SO_{2}$ and $O_{2}$ after eight operations is $0.707$ \\\\ 3. Six operations are needed to get $2:1$ molar ratio for $SO_{2}$ and $O_{2}$ in diffusion mixture \\\\ 4. Rate of diffusion for $SO_{2}$ and $O_{2}$ after six operations is $2.41$",
+        "question_images": [],
+        "options": [
+            "A. I, II, III",
+            "B. II, III",
+            "C. I, III",
+            "D. IV"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Using Graham's law $(r_1/r_2) = \\sqrt{M_2/M_1} = \\sqrt{32/64} = 0.707$. For $x$ operations, $(n_1/n_2)_{final} = (n_1/n_2)_{initial} \\times (0.707)^x$. To get $1:1$ from $16:1$, $(0.707)^x = 1/16$, which gives $x=8$. For $x=6$, the ratio becomes $2:1$. Statement 4 is incorrect as the rate of diffusion remains $0.707$ per operation.",
+        "solution_images": [
+            "74_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The molecular mass of each $N_{2}$ and CO is 28. If 0.5 L of $N_{2}$ at $27^{\\circ}C$ and 700 mm pressure contains n molecules, the number of molecules in 1.0 L of CO under identical conditions will be",
+        "question_latex": "The molecular mass of each $N_{2}$ and CO is 28. If $0.5\\,L$ of $N_{2}$ at $27^{\\circ}C$ and $700\\,mm$ pressure contains $n$ molecules, the number of molecules in $1.0\\,L$ of CO under identical conditions will be",
+        "question_images": [],
+        "options": [
+            "A. $n/2$",
+            "B. n",
+            "C. 2n",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "According to Avogadro's Law, under identical conditions of temperature and pressure, equal volumes of gases contain an equal number of molecules. If $0.5\\,L$ contains $n$ molecules, then $1.0\\,L$ (double volume) will contain $2n$ molecules.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The ratio of the rate of diffusion of helium and methane under identical condition of pressure and temperature will be",
+        "question_latex": "The ratio of the rate of diffusion of helium and methane under identical condition of pressure and temperature will be",
+        "question_images": [],
+        "options": [
+            "A. 4",
+            "B. 0.2",
+            "C. 2",
+            "D. 0.5"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "By Graham's law of diffusion: $\\frac{r_{He}}{r_{CH_{4}}} = \\sqrt{\\frac{M_{CH_{4}}}{M_{He}}}$. Given $M_{CH_{4}} = 12 + 4 = 16$ and $M_{He} = 4$. Therefore, $\\frac{r_{He}}{r_{CH_{4}}} = \\sqrt{\\frac{16}{4}} = \\sqrt{4} = 2$.",
+        "solution_images": [
+            "76_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "If a gas is expanded at constant temperature:",
+        "question_latex": "If a gas is expanded at constant temperature:",
+        "question_images": [],
+        "options": [
+            "A. Number of molecules of the gas decreases",
+            "B. The kinetic energy of the molecules decreases",
+            "C. The kinetic energy of the molecules remains the same",
+            "D. The kinetic energy of the molecules increases"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The average kinetic energy of gas molecules depends only on the absolute temperature ($KE = \\frac{3}{2}RT$). If the temperature is constant, the kinetic energy remains the same.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "When is deviation more in the behaviour of a gas from the ideal gas equation PV=nRT?",
+        "question_latex": "When is deviation more in the behaviour of a gas from the ideal gas equation $PV=nRT$?",
+        "question_images": [],
+        "options": [
+            "A. At high temperature and low pressure",
+            "B. At low temperature and high pressure",
+            "C. At high temperature and high pressure",
+            "D. At low temperature and low pressure"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Real gases deviate most from ideal behavior at low temperatures (where intermolecular forces become significant) and high pressures (where the volume of molecules becomes significant).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "In van der Waals equation of state for a non-ideal gas, the term that accounts for intermolecular forces is",
+        "question_latex": "In van der Waals equation of state for a non-ideal gas, the term that accounts for intermolecular forces is",
+        "question_images": [],
+        "options": [
+            "A. $V-b$",
+            "B. $RT$",
+            "C. $p+\\frac{a}{V^{2}}$",
+            "D. $(RT)^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In the van der Waals equation $(P + \\frac{an^2}{V^2})(V - nb) = nRT$, the term $(P + \\frac{a}{V^2})$ accounts for the intermolecular attractive forces (pressure correction).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The volume of ammonia obtained by the complete combination of 10 mL of N2 and 30 mL of H2 is:",
+        "question_latex": "The volume of ammonia obtained by the complete combination of $10\\,mL$ of $N_{2}$ and $30\\,mL$ of $H_{2}$ is:",
+        "question_images": [],
+        "options": [
+            "A. 20 mL",
+            "B. 40 mL",
+            "C. 30 mL",
+            "D. 10 mL"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to the reaction $N_{2}(g) + 3H_{2}(g) \\rightarrow 2NH_{3}(g)$, 1 volume of $N_2$ reacts with 3 volumes of $H_2$ to give 2 volumes of $NH_3$. Thus, $10\\,mL$ $N_2$ and $30\\,mL$ $H_2$ produce $20\\,mL$ $NH_3$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "A 3:2 molar mixture of N2 and CO is present in a vessel at 500 bar pressure. Due to hole in the vessel, the gas mixture leaks out. The composition of mixture effusing out initially is",
+        "question_latex": "A $3:2$ molar mixture of $N_{2}$ and $CO$ is present in a vessel at $500\\,bar$ pressure. Due to hole in the vessel, the gas mixture leaks out. The composition of mixture effusing out initially is",
+        "question_images": [],
+        "options": [
+            "A. $n_{N_{2}} : n_{CO} :: 1:2$",
+            "B. $n_{N_{2}} : n_{CO} :: 6:1$",
+            "C. $n_{CO} : n_{N_{2}} :: 1:2$",
+            "D. $n_{CO} : n_{N_{2}} :: 2:3$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The rate of effusion is $\\frac{r_1}{r_2} = \\frac{P_1}{P_2} \\sqrt{\\frac{M_2}{M_1}}$. Since $M_{N_{2}} = 28$ and $M_{CO} = 28$, the ratio of effusion depends only on partial pressures. Initial molar ratio is $3:2$, so partial pressures are in $3:2$. Thus, the composition effusing out is in the same ratio $3:2$ ($N_2:CO$). Option D correctly identifies the $CO:N_2$ ratio as $2:3$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Which of the following statements is not correct about the three States of Matter Gases and Liquids, i.e., solid, liquids and gas?",
+        "question_latex": "Which of the following statements is not correct about the three States of Matter Gases and Liquids, i.e., solid, liquids and gas?",
+        "question_images": [],
+        "options": [
+            "A. Molecules of a solid possess least energy whereas those of a gas possess highest energy",
+            "B. The density of a solid is highest whereas that of gases is lowest",
+            "C. Gases like liquids possess definite volumes",
+            "D. Molecules of a solid possess only vibratory motion"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Gases do not possess a definite volume; they occupy the entire volume of the container they are placed in. Liquids have a definite volume, but gases do not.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "For an ideal gas, number of moles per litre in terms of its pressure P, gas constant R and temperature T is",
+        "question_latex": "For an ideal gas, number of moles per litre in terms of its pressure $P$, gas constant $R$ and temperature $T$ is",
+        "question_images": [],
+        "options": [
+            "A. $PT/R$",
+            "B. $PRT$",
+            "C. $P/RT$",
+            "D. $RT/P$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "From the ideal gas law $PV = nRT$, we can rearrange to find $n/V = P/RT$. Here $n/V$ represents moles per litre.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Air at sea level is dense, this is a practical implementation of",
+        "question_latex": "Air at sea level is dense, this is a practical implementation of",
+        "question_images": [],
+        "options": [
+            "A. Boyle's law",
+            "B. Charles law",
+            "C. Avogadro's law",
+            "D. Dalton's law"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Boyle's law states that at constant temperature, pressure is inversely proportional to volume ($P \\propto 1/V$) and directly proportional to density ($P \\propto d$). At sea level, higher pressure leads to higher density.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "When gases are heated from 20°C to 40°C at constant pressure, the volume:",
+        "question_latex": "When gases are heated from $20^{\\circ}C$ to $40^{\\circ}C$ at constant pressure, the volume:",
+        "question_images": [],
+        "options": [
+            "A. Increase by the same magnitude",
+            "B. Become double",
+            "C. Increase in the ratio of their molecule masses",
+            "D. Increase but to different extent"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Using Charles's law ($V \\propto T$ in Kelvin), the volume ratio is $V_2/V_1 = T_2/T_1 = (273+40)/(273+20) = 313/293 \\approx 1.068$. The volume increases but does not double because the absolute temperature did not double.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Consider the following table: . a and b are van der Waals' constants. The correct statement about the gases is",
+        "question_latex": "Consider the following table: \\\\ \\begin{tabular}{|c|c|c|} \\hline Gas & $a/(kPa\\,dm^{6}\\,mol^{-1})$ & $b/(dm^{3}\\,mol^{-1})$ \\\\ \\hline A & 642.32 & 0.05196 \\\\ B & 155.21 & 0.04136 \\\\ C & 431.91 & 0.05196 \\\\ D & 155.21 & 0.4382 \\\\ \\hline \\end{tabular} \\\\ $a$ and $b$ are van der Waals' constants. The correct statement about the gases is",
+        "question_images": [
+            "q86_1",
+            "86_qu_1.png"
+        ],
+        "options": [
+            "A. gas C will occupy lesser volume than gas A; gas B will be more compressible than gas D",
+            "B. gas C will occupy more volume than gas A; gas B will be more compressible than gas D",
+            "C. gas C will occupy more volume than gas A; gas B will be lesser compressible than gas D",
+            "D. gas C will occupy lesser volume than gas A; gas B will be lesser compressible than gas D"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Gases A and C have the same 'b' but 'a' of A > 'a' of C. Stronger attractions in A make molecules closer, so C occupies more volume. Gases B and D have the same 'a' but 'b' of B < 'b' of D. Smaller 'b' means less excluded volume, making B more compressible.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "4.0 g of argon has pressure P and temperature T K in a vessel. On keeping the vessel at 50° higher temperature, 0.8 g of argon was given out to maintain the pressure P. The original temperature was:",
+        "question_latex": "$4.0\\,g$ of argon has pressure $P$ and temperature $T\\,K$ in a vessel. On keeping the vessel at $50^{\\circ}$ higher temperature, $0.8\\,g$ of argon was given out to maintain the pressure $P$. The original temperature was:",
+        "question_images": [],
+        "options": [
+            "A. 73 K",
+            "B. 100 K",
+            "C. 200 K",
+            "D. 510 K"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Initial: $PV = n_1RT = (4/M)RT$. Final: $PV = n_2R(T+50) = (3.2/M)R(T+50)$. Setting them equal: $4T = 3.2(T+50) \\Rightarrow 4T = 3.2T + 160 \\Rightarrow 0.8T = 160 \\Rightarrow T = 200\\,K$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "If Z is a compressibility factor, van der Waals' equation at low pressure can be written as",
+        "question_latex": "If $Z$ is a compressibility factor, van der Waals' equation at low pressure can be written as",
+        "question_images": [],
+        "options": [
+            "A. $Z=1-\\frac{Pb}{RT}$",
+            "B. $Z=1+\\frac{RT}{Pb}$",
+            "C. $Z=1-\\frac{a}{VRT}$",
+            "D. $Z=1+\\frac{Pb}{RT}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "At low pressure, volume $V$ is large, so 'b' can be neglected. The equation becomes $(P + a/V^2)V = RT \\Rightarrow PV + a/V = RT$. Dividing by $RT$: $PV/RT + a/VRT = 1 \\Rightarrow Z = 1 - a/VRT$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Dipole-induced dipole interactions are present in which of the following pairs:",
+        "question_latex": "Dipole-induced dipole interactions are present in which of the following pairs:",
+        "question_images": [],
+        "options": [
+            "A. $Cl_{2}$ and $CCl_{4}$",
+            "B. $HCl$ and $He$ atoms",
+            "C. $SiF_{4}$ and $He$ atoms",
+            "D. $H_{2}O$ and alcohol"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Dipole-induced dipole forces occur between a polar molecule (like $HCl$) and a non-polar molecule/atom (like $He$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Which gas contains larger number of molecules?",
+        "question_latex": "Which gas contains larger number of molecules?",
+        "question_images": [],
+        "options": [
+            "A. 4 g of $H_{2}O$",
+            "B. 2 g of marsh gas",
+            "C. 4 g of $PCl_{5}$",
+            "D. 2 g of phosgene"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Number of molecules $\\propto$ number of moles. Moles of $H_2O = 4/18 = 0.22$. Moles of $CH_4$ (marsh gas) $= 2/16 = 0.125$. Moles of $PCl_5 = 4/208.5 = 0.019$. Moles of $COCl_2$ (phosgene) $= 2/99 = 0.02$. $H_2O$ has the most moles.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "At a constant temperature what should be the percentage increase in pressure for a 5% decrease in the volume of gas?",
+        "question_latex": "At a constant temperature what should be the percentage increase in pressure for a $5\\%$ decrease in the volume of gas?",
+        "question_images": [],
+        "options": [
+            "A. 5%",
+            "B. 10%",
+            "C. 5.26%",
+            "D. 4.26%"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Boyle's law: $P_1V_1 = P_2V_2$. If $V_2 = 0.95V_1$, then $P_2 = P_1V_1/0.95V_1 = P_1/0.95 = 1.0526P_1$. Percentage increase $= (1.0526 - 1) \\times 100 = 5.26\\%$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "If a mixture of gases has a total pressure of 100 cm Hg and the partial pressure of nitrogen in the mixture is 25 mm Hg, then the per cent of nitrogen in the mixture is:",
+        "question_latex": "If a mixture of gases has a total pressure of $100\\,cm\\,Hg$ and the partial pressure of nitrogen in the mixture is $25\\,mm\\,Hg$, then the per cent of nitrogen in the mixture is:",
+        "question_images": [],
+        "options": [
+            "A. 4%",
+            "B. 40%",
+            "C. 400%",
+            "D. 2.5%"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Total pressure $= 100\\,cm\\,Hg = 1000\\,mm\\,Hg$. Partial pressure of $N_2 = 25\\,mm\\,Hg$. Percentage of $N_2 = (25/1000) \\times 100 = 2.5\\%$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Which of the following represents Boyle's law in terms of density? (Here d = density, p = pressure, k' = constant)",
+        "question_latex": "Which of the following represents Boyle's law in terms of density? (Here $d = $ density, $p = $ pressure, $k' = $ constant)",
+        "question_images": [],
+        "options": [
+            "A. $d \\cdot p = k'$",
+            "B. $d/p = k'$",
+            "C. $dp/2 = k'$",
+            "D. $d = k'\\sqrt{p}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Boyle's law is $PV = k$. Since $V = m/d$, then $Pm/d = k \\Rightarrow P/d = k/m = k'$. Thus $d/p = 1/k'$, which is another constant.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Two vessels containing gases A and B are interconnected. The stopper is opened, the gases are allowed to mix homogeneously. The partial pressures of A and B in the mixture will be, respectively:",
+        "question_latex": "Two vessels containing gases $A$ and $B$ are interconnected. The stopper is opened, the gases are allowed to mix homogeneously. The partial pressures of $A$ and $B$ in the mixture will be, respectively:",
+        "question_images": [
+            "q94_1",
+            "94_qu_1.png"
+        ],
+        "options": [
+            "A. 8 and 5 atm",
+            "B. 9.6 and 4 atm",
+            "C. 4.8 and 2 atm",
+            "D. 6.4 and 4 atm"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Using $P_1V_1 = P_2V_2$ for each gas. For A: $8 \\times 12 = P_A \\times (12+8) \\Rightarrow P_A = 96/20 = 4.8\\,atm$. For B: $5 \\times 8 = P_B \\times (12+8) \\Rightarrow P_B = 40/20 = 2\\,atm$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "A sample of gas occupies 100 mL at 27°C and 740 mm pressure. When its volume is changed to 80 mL at 740 mm pressure, the temperature of the gas will be",
+        "question_latex": "A sample of gas occupies $100\\,mL$ at $27^{\\circ}C$ and $740\\,mm$ pressure. When its volume is changed to $80\\,mL$ at $740\\,mm$ pressure, the temperature of the gas will be",
+        "question_images": [],
+        "options": [
+            "A. 21.6°C",
+            "B. 240°C",
+            "C. -33°C",
+            "D. 89.5°C"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Using Charles's law ($V_1/T_1 = V_2/T_2$): $100/300 = 80/T_2 \\Rightarrow T_2 = 240\\,K$. In Celsius: $240 - 273 = -33^{\\circ}C$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "At 20°C and 1.00 atm partial pressure of hydrogen, 18 mL of hydrogen, measured at STP, dissolves in 1 L of water. If water at 20°C is exposed to a gaseous mixture having total pressure of 1400 torr and containing 68.5% H2 by volume, find the volume of H2, measured at STP, which will dissolve in 1 L of water",
+        "question_latex": "At $20^{\\circ}C$ and $1.00\\,atm$ partial pressure of hydrogen, $18\\,mL$ of hydrogen, measured at STP, dissolves in $1\\,L$ of water. If water at $20^{\\circ}C$ is exposed to a gaseous mixture having total pressure of $1400\\,torr$ and containing $68.5\\%\\,H_{2}$ by volume, find the volume of $H_{2}$, measured at STP, which will dissolve in $1\\,L$ of water",
+        "question_images": [],
+        "options": [
+            "A. 18 mL",
+            "B. 12 mL",
+            "C. 23 mL",
+            "D. 121 mL"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Partial pressure of $H_2 = (1400 \\times 0.685)/760 = 1.26\\,atm$. According to Henry's law, volume dissolved $\\propto$ partial pressure. $V_2 = 18 \\times 1.26/1 = 22.68 \\approx 23\\,mL$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "One gram mole of a gas at NTP occupies 22.4 L as volume. This fact was derived from",
+        "question_latex": "One gram mole of a gas at NTP occupies $22.4\\,L$ as volume. This fact was derived from",
+        "question_images": [],
+        "options": [
+            "A. Dalton's theory",
+            "B. Avogadro's hypothesis",
+            "C. Berzelius hypothesis",
+            "D. Law of gaseous volumes"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Avogadro's hypothesis states that equal volumes of all gases under the same conditions of temperature and pressure contain equal numbers of molecules, leading to the molar volume of 22.4 L at STP.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "Indicate which of the following statements is correct?",
+        "question_latex": "Indicate which of the following statements is correct?",
+        "question_images": [],
+        "options": [
+            "A. At constant temperature, the KE of all gas molecules will be the same",
+            "B. At constant temperature, the KE of different molecules will be different",
+            "C. At constant temperature, the KE will be greater for heavier gas molecules",
+            "D. At constant temperature, the KE will be less for heavier gas molecules"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to kinetic theory, average kinetic energy is a function of temperature only ($KE = \\frac{3}{2}kT$) and is the same for all gas molecules at the same temperature.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "States of Matter Gases and Liquids Gases and Liquids",
+        "question": "An fcc lattice has a lattice parameter a=400 pm. Calculate the molar volume of the lattice including all the empty space",
+        "question_latex": "An fcc lattice has a lattice parameter $a=400\\,pm$. Calculate the molar volume of the lattice including all the empty space",
+        "question_images": [],
+        "options": [
+            "A. 7.6 mL",
+            "B. 6.5 mL",
+            "C. 10.8 mL",
+            "D. 9.6 mL"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Volume of one unit cell $= a^3 = (400 \\times 10^{-10}\\,cm)^3 = 64 \\times 10^{-24}\\,cm^3$. An FCC unit cell has 4 atoms. Molar volume (volume of $N_A$ atoms) $= (V_{cell}/4) \\times N_A = (64 \\times 10^{-24}/4) \\times 6.022 \\times 10^{23} = 16 \\times 0.6022 = 9.63\\,mL$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "States of Matter Gases and Liquids",
+        "question": "The ratio of root mean square velocity to average velocity of a gas molecule at a particular temperature is",
+        "question_latex": "The ratio of root mean square velocity to average velocity of a gas molecule at a particular temperature is",
+        "question_images": [],
+        "options": [
+            "A. 1.086:1",
+            "B. 1:1.086",
+            "C. 2:1.086",
+            "D. 1.086:2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$v_{rms} = \\sqrt{3RT/M}$ and $v_{avg} = \\sqrt{8RT/\\pi M}$. Ratio $v_{rms}/v_{avg} = \\sqrt{3 \\cdot \\pi / 8} = \\sqrt{3 \\cdot 3.14 / 8} \\approx \\sqrt{1.1775} \\approx 1.086$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    }
+]

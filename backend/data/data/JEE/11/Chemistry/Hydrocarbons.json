@@ -1,0 +1,1767 @@
+[
+    {
+        "id": 1,
+        "chapter": "Hydrocarbons",
+        "question": "The decreasing order of dehydrohalogenation of the following compound is:",
+        "question_latex": "The decreasing order of dehydrohalogenation of the following compound is:",
+        "question_images": [
+            "q1_1",
+            "1_qu_1.png"
+        ],
+        "options": [
+            "A. $(I)>(III)>(II)>(IV)$",
+            "B. $(IV)>(III)>(I)>(II)$",
+            "C. $(II)>(I)>(III)>(IV)$",
+            "D. $(IV)>(III)>(II)>(I)$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Dehydrohalogenation follows the Zaitsev rule (stability of alkene). The stability order of alkenes formed determines the rate. More substituted alkenes are more stable. Structure (IV) gives the most stable alkene due to hyperconjugation and conjugation possibilities, followed by (III), then (I), and (II). [cite: 56]",
+        "solution_images": [
+            "1_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Hydrocarbons",
+        "question": "Predict the product C obtained in the following reaction of butyne-1",
+        "question_latex": "Predict the product C obtained in the following reaction of butyne-1: $CH_{3}CH_{2}-C\\equiv CH + HCl \\longrightarrow B \\xrightarrow{HI} C$",
+        "question_images": [
+            "2_qu_1.png"
+        ],
+        "options": [
+            "A. $CH_3-CH_2-CH_2-C(I)(H)-Cl$",
+            "B. Structure B",
+            "C. $CH_3-CH_2-C(I)(Cl)-CH_3$",
+            "D. $CH_3-CH_2-CH(I)-CH_2Cl$"
+        ],
+        "option_images": [
+            "q2_optionB",
+            "2_opA_1.png",
+            "2_opB_1.png",
+            "2_opC_1.png",
+            "2_opD_1.png"
+        ],
+        "answer": "C",
+        "solution": "The reaction occurs according to Markovnikov's rule. $HCl$ adds to $CH_3CH_2C\\equiv CH$ to form $CH_3CH_2C(Cl)=CH_2$ (Product B). Then $HI$ adds to B following Markovnikov's rule again, placing Iodine on the carbon with the Cl (more substituted/stable carbocation intermediate), yielding $CH_3CH_2C(Cl)(I)CH_3$. [cite: 70, 71]",
+        "solution_images": [
+            "2_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Hydrocarbons",
+        "question": "The major product formed in the following reaction is",
+        "question_latex": "The major product formed in the following reaction is",
+        "question_images": [
+            "q3_1",
+            "3_qu_1.png"
+        ],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "q3_optionA",
+            "q3_optionB",
+            "q3_optionC",
+            "q3_optionD",
+            "3_opC_1 (1).png",
+            "3_opA_1.png",
+            "3_opB_1.png",
+            "3_opC_1.png"
+        ],
+        "answer": "C",
+        "solution": "The reaction is the addition of $HBr$ to a conjugated diene (isoprene). The proton adds to form the most stable carbocation (allylic tertiary carbocation). Resonance stabilizes the positive charge. The bromide ion then attacks. At higher temperatures or thermodynamic control (often implied with 'major product' in these contexts unless specified otherwise, or specific substitution patterns), the 1,4-addition product is often favored, but here the solution points to the allylic bromide formed at the most substituted position. Specifically, the solution image shows 1,4-addition resulting in the double bond shifting and Br attaching to the end, or 1,2 addition. The provided solution image C corresponds to 1-bromo-3-methylbut-2-ene (1,4-addition product). [cite: 92, 93]",
+        "solution_images": [
+            "q3_solution_1",
+            "3_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Hydrocarbons",
+        "question": "In the eclipsed conformation of ethane, the dihedral angle between the hydrogen atoms of adjacent methyl groups is",
+        "question_latex": "In the eclipsed conformation of ethane, the dihedral angle between the hydrogen atoms of adjacent methyl groups is",
+        "question_images": [],
+        "options": [
+            "A. $60^{\\circ}$",
+            "B. $120^{\\circ}$",
+            "C. $0^{\\circ}$",
+            "D. $180^{\\circ}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In the eclipsed conformation of ethane, the hydrogen atoms on adjacent carbons are aligned directly behind one another, making the dihedral angle $0^{\\circ}$. [cite: 107]",
+        "solution_images": [
+            "q4_solution_1",
+            "4_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Hydrocarbons",
+        "question": "Which one of the following has the lowest boiling point?",
+        "question_latex": "Which one of the following has the lowest boiling point?",
+        "question_images": [],
+        "options": [
+            "A. 2-methylbutane",
+            "B. 2-methylpropane",
+            "C. 2, 2-dimethylpropane",
+            "D. n-pentane"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Boiling point depends on molecular mass and surface area (branching). Among the options: n-pentane ($C_5$), 2-methylbutane ($C_5$), and 2,2-dimethylpropane ($C_5$) are isomers. 2-methylpropane is $C_4H_{10}$. Since 2-methylpropane has the lowest molecular mass among the choices, it has the lowest boiling point. [cite: 121, 122]",
+        "solution_images": [
+            "5_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following is most stable?",
+        "question_latex": "Which of the following is most stable?",
+        "question_images": [
+            "q6_1"
+        ],
+        "options": [
+            "A. (a)",
+            "B. (c)",
+            "C. (a)",
+            "D. (b)"
+        ],
+        "option_images": [
+            "6_opA_1.png",
+            "6_opB_1.png",
+            "6_opC_1.png",
+            "6_opD_1.png"
+        ],
+        "answer": "A",
+        "solution": "Structure (a) is the cyclopropenyl cation. It has $2\\pi$ electrons, which fits the Huckel rule ($4n+2$, where $n=0$) for aromaticity. Aromatic compounds are exceptionally stable. Structure (c) is the cyclopentadienyl cation ($4\\pi$ electrons, anti-aromatic). Therefore, (a) is the most stable. [cite: 134, 135]",
+        "solution_images": [
+            "6_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following reactions is Hofmann elimination?",
+        "question_latex": "Which of the following reactions is Hofmann elimination?",
+        "question_images": [
+            "q7_1",
+            "7_qu_1.png"
+        ],
+        "options": [
+            "A. (I)",
+            "B. (I), (III)",
+            "C. (II), (III)",
+            "D. (II), (IV)"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Hofmann elimination typically involves the elimination of a quaternary ammonium salt (or similar leaving group like sulfonium) to yield the less substituted alkene (Hofmann product) using a base like $AgOH$ or heat. Reaction (II) involves a sulfonium salt, and reaction (IV) involves a quaternary ammonium hydroxide heating. Both follow Hofmann orientation. [cite: 144, 161]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Hydrocarbons",
+        "question": "The radical is aromatic because it has:",
+        "question_latex": "The radical [Image] is aromatic because it has:",
+        "question_images": [
+            "q8_1",
+            "8_qu_1.png"
+        ],
+        "options": [
+            "A. 7 p-orbitals and 6 unpaired electrons",
+            "B. 7 p-orbitals and 7 unpaired electrons",
+            "C. 6 p-orbitals and 7 unpaired electrons",
+            "D. 6 p-orbitals and 6 unpaired electrons"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The benzyl radical structure shown actually refers to the aromatic character of the benzene ring part. The benzene ring contains 6 carbons in a cycle, each with a p-orbital perpendicular to the plane, containing a total of 6 delocalized $\\pi$-electrons (fitting $4n+2$). The option (D) correctly describes the aromatic sextet within the ring system. [cite: 168]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Hydrocarbons",
+        "question": "Propane molecule on chlorination under photochemical condition gives two di-chloro products, 'x' and 'y'. Amongst 'x' and 'y', 'x' is an optically active molecule. How many tri-chloro products (consider only structural isomers) will be obtained from 'x' when it is further treated with chlorine under the photochemical condition?",
+        "question_latex": "Propane molecule on chlorination under photochemical condition gives two di-chloro products, 'x' and 'y'. Amongst 'x' and 'y', 'x' is an optically active molecule. How many tri-chloro products (consider only structural isomers) will be obtained from 'x' when it is further treated with chlorine under the photochemical condition?",
+        "question_images": [],
+        "options": [
+            "A. 3",
+            "B. 4",
+            "C. 5",
+            "D. 2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Propane ($C_3H_8$) dichlorination gives 1,1-, 1,2-, 1,3-, and 2,2-dichloropropane. 1,2-dichloropropane ($CH_3-CHCl-CH_2Cl$) contains a chiral center and is optically active ('x'). Chlorination of 'x' (1,2-dichloropropane) yields trichloro products: 1,1,2-trichloro, 1,2,2-trichloro, and 1,2,3-trichloro. Thus, 3 structural isomers are formed. [cite: 172, 175]",
+        "solution_images": [
+            "q9_solution_1",
+            "9_sol_1.png",
+            "9_so_2.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Hydrocarbons",
+        "question": "Identify A, B, and C in the following reaction sequence.",
+        "question_latex": "Identify A, B, and C in the following reaction sequence.",
+        "question_images": [
+            "10_qu_1 (1).png",
+            "q10_1",
+            "10_qu_1.png"
+        ],
+        "options": [
+            "A. (I), (II), and (III)",
+            "B. (II), (I), and (III)",
+            "C. (II), (III), and (I)",
+            "D. (I), (III), and (II)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Reaction involves hydration of an alkyne. A (using $Hg^{2+}/H^+$) follows Markovnikov addition to give a ketone. B (using $BD_3/THF$) is hydroboration-oxidation (anti-Markovnikov), incorporating Deuterium if $D_2O$ is used or H if processed standardly, but the options suggest specific aldehyde/ketone isomers. C involves heavy water ($D_2O$) reagents. Comparing the structures: (II) is acetophenone (Markovnikov product), (III) is the aldehyde (Anti-Markovnikov), and (I) is the deuterated derivative. Matching the sequence: A = (II), B = (III), C = (I). [cite: 201]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Hydrocarbons",
+        "question": "Ethyl bromide gives ethylene when reacted with",
+        "question_latex": "Ethyl bromide gives ethylene when reacted with",
+        "question_images": [
+            "11_qu_1.png"
+        ],
+        "options": [
+            "A. ethyl alcohol",
+            "B. dilute H2SO4",
+            "C. aqueous KOH",
+            "D. alcoholic KOH"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Dehydrohalogenation (elimination) of alkyl halides to form alkenes requires a strong base in an alcoholic solvent. Alcoholic KOH is the standard reagent for this elimination. Aqueous KOH would lead to substitution (alcohol formation). [cite: 206, 207]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Hydrocarbons",
+        "question": "The correct increasing order of acidity of the following alkynes is",
+        "question_latex": "The correct increasing order of acidity of the following alkynes is: (1) $CH_{3}-C\\equiv C-CH_{3}$ (2) $CH_{3}-C\\equiv CH$ (3) $CH\\equiv CH$",
+        "question_images": [],
+        "options": [
+            "A. $1<2<3$",
+            "B. $2<3<1$",
+            "C. $3<2<1$",
+            "D. $1<3<2$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Acidity of alkynes is due to the hydrogen attached to the sp-hybridized carbon. Terminal alkynes are acidic. (1) $CH_3-C\\equiv C-CH_3$ has no acidic hydrogen. (2) Propyne has one acidic hydrogen but the methyl group is electron-donating (+I effect), destabilizing the anion. (3) Ethyne has two acidic hydrogens and no donating alkyl groups. Order: $1 < 2 < 3$. [cite: 213, 214]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Hydrocarbons",
+        "question": "Compound (A) is:",
+        "question_latex": "Compound (A) is:",
+        "question_images": [
+            "q13_1",
+            "13_qu_1.png"
+        ],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "q13_optionA",
+            "q13_optionB",
+            "q13_optionC",
+            "q13_optionD",
+            "13_opA_1.png",
+            "13_opB_1.png",
+            "13_opC_1.png",
+            "13_opD_1.png"
+        ],
+        "answer": "C",
+        "solution": "The reaction involves acid-catalyzed dehydration of a diol or rearrangement (pinacol-pinacolone type). The structure in option C (a spiro or fused ring ketone formed by migration) is consistent with the mechanism where a carbocation forms and a ring expansion/contraction or group migration occurs to form a stable ketone. [cite: 239]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Hydrocarbons",
+        "question": "Major product of the following reactions is",
+        "question_latex": "Major product of the following reactions is",
+        "question_images": [
+            "q14_1",
+            "14_qu_1.png"
+        ],
+        "options": [
+            "A. c",
+            "B. a",
+            "C. b",
+            "D. d"
+        ],
+        "option_images": [
+            "q14_optiona",
+            "q14_optionb",
+            "q14_optionc",
+            "q14_optiond",
+            "14_opA_1.png",
+            "14_opB_1.png",
+            "14_opC_1.png",
+            "14_opD_1.png"
+        ],
+        "answer": "D",
+        "solution": "The reaction uses 2 equivalents of HBr. First HBr adds to the alkene. The ester oxygen lone pair can participate, or simple addition occurs. The second equivalent might cleave the ether/ester linkage or add to another site. Product (d) shows the addition of Br to the alkene and cleavage/reaction consistent with the conditions provided in the solution trace. [cite: 253, 257]",
+        "solution_images": [
+            "14_so_1.png",
+            "14_so_2.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Hydrocarbons",
+        "question": "The alkene formed as a major product in the above elimination reaction is",
+        "question_latex": "The alkene formed as a major product in the above elimination reaction is",
+        "question_images": [
+            "q15_1",
+            "15_qu_1.png"
+        ],
+        "options": [
+            "A. $CH_2=CH_2$",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "q15_optionB",
+            "q15_optionC",
+            "q15_optionD",
+            "15_opA_1.png",
+            "15_opB_1.png",
+            "15_opC_1.png",
+            "15_opD_1.png"
+        ],
+        "answer": "D",
+        "solution": "This is a Hofmann elimination from a quaternary ammonium hydroxide. The rule states that the less hindered $\\beta$-hydrogen is removed to form the less substituted alkene (Hofmann product). Between the ethyl group, n-butyl group, and the ring hydrogens, the ethylene (ethene) is often a product, but here the solution points to the cyclic alkene (Structure D) formed by removing a hydrogen from the ring or side chain. Wait, the solution text says 'less sterically hindered hydrogen... less substituted alkene'. Option A is ethene. Option D is a cyclohexene derivative. The citation 283 says Ans: (D). The solution trace shows the formation of a double bond inside the ring or on the exocyclic position. Based on the provided solution image, (D) corresponds to the specific cyclohexene product formed. [cite: 283, 294]",
+        "solution_images": [
+            "15_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Hydrocarbons",
+        "question": "Arrange the following in the decreasing order of their boiling points",
+        "question_latex": "Arrange the following in the decreasing order of their boiling points",
+        "question_images": [
+            "q16_1",
+            "16_qu_1.png"
+        ],
+        "options": [
+            "A. $(I)>(II)>(IV)>(III)$",
+            "B. $(I)>(III)>(IV)$",
+            "C. $(III)>(IV)>(II)>(I)$",
+            "D. $(IV)>(III)>(II)>(I)$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Boiling points of alkyl halides/alkanes depend on molecular weight and surface area (branching decreases BP). Without seeing the exact structures for I, II, III, IV in the text, relying on the answer key A. Generally, larger/linear molecules have higher BP than smaller/branched ones. [cite: 301]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Hydrocarbons",
+        "question": "The IUPAC name of the following compound is",
+        "question_latex": "The IUPAC name of the following compound is",
+        "question_images": [
+            "q17_1",
+            "17_qu_1.png"
+        ],
+        "options": [
+            "A. trans-2-chloro-3-iodo-2-pentene",
+            "B. cis-3-iodo-4-chloro-3-pentene",
+            "C. trans-3-iodo-4-chloro-3-pentene",
+            "D. cis-2-chloro-3-iodo-2-pentene"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The longest chain containing the double bond is a pentene. Numbering starts to give the double bond the lowest number (C2). Substituents are Chloro at 2 and Iodo at 3. The stereochemistry is determined by the priority of groups on each carbon (Cahn-Ingold-Prelog). If high priority groups are on opposite sides, it is 'trans' (or E). The name is trans-2-chloro-3-iodo-2-pentene. [cite: 310, 317]",
+        "solution_images": [
+            "17_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Hydrocarbons",
+        "question": "The major product (Y) in the following reactions is",
+        "question_latex": "The major product (Y) in the following reactions is: $CH_3-CH(CH_3)-C\\equiv CH \\xrightarrow{HgSO_4, H_2SO_4} X \\xrightarrow{i) C_2H_5MgBr, ii) H_2O} \\dots \\xrightarrow{Conc. H_2SO_4, \\Delta} Y$",
+        "question_images": [
+            "18_qu_1.png"
+        ],
+        "options": [
+            "A. $CH_3-C(CH_3)=C(C_2H_5)-CH_3$",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "q18_optionA",
+            "q18_optionB",
+            "18_opA_1.png",
+            "18_opB_1.png",
+            "18_opC_1.png",
+            "18_opD_1.png"
+        ],
+        "answer": "A",
+        "solution": "1. Hydration of alkyne ($HgSO_4$) gives ketone X: $CH_3-CH(CH_3)-COCH_3$. \n2. Grignard ($C_2H_5MgBr$) attacks ketone to form tertiary alcohol. \n3. Dehydration ($H_2SO_4, Δ$) follows Zaitsev's rule to give the most substituted alkene. The product corresponds to structure A ($CH_3-C(CH_3)=C(C_2H_5)-CH_3$). [cite: 334, 353]",
+        "solution_images": [
+            "18_sol_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Hydrocarbons",
+        "question": "C6H6 + CH3Cl in the presence of anhydrous AlCl3 gives C6H5CH3 + HCl. This is an example of",
+        "question_latex": "$C_6H_6 + CH_3Cl \\xrightarrow{Anhydrous AlCl_3} C_6H_5CH_3 + HCl$ is an example of",
+        "question_images": [],
+        "options": [
+            "A. Friedel - Craft's reaction",
+            "B. Kolbe's synthesis",
+            "C. Wurtz reaction",
+            "D. Grignard reaction"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The reaction of benzene with an alkyl halide in the presence of a Lewis acid catalyst ($AlCl_3$) to introduce an alkyl group is the definition of Friedel-Crafts alkylation. [cite: 360]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Hydrocarbons",
+        "question": "Find out the major products from the following reactions.",
+        "question_latex": "Find out the major products from the following reactions involving Hydroboration and Oxymercuration.",
+        "question_images": [
+            "q20_1",
+            "20_qu_1.png"
+        ],
+        "options": [
+            "A. c",
+            "B. b",
+            "C. a",
+            "D. d"
+        ],
+        "option_images": [
+            "q20_optiona",
+            "q20_optionb",
+            "q20_optionc",
+            "q20_optiond"
+        ],
+        "answer": "B",
+        "solution": "Oxymercuration-demercuration gives Markovnikov addition of water (OH on more substituted carbon) without rearrangement. Hydroboration-oxidation gives anti-Markovnikov addition (OH on less substituted carbon) with syn-stereochemistry. Option (b) correctly shows these products. [cite: 383, 384]",
+        "solution_images": [
+            "20_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Hydrocarbons",
+        "question": "Which branched chain isomer of the hydrocarbon with molecular mass 72u gives only one isomer of mono substituted alkyl halide?",
+        "question_latex": "Which branched chain isomer of the hydrocarbon with molecular mass 72u gives only one isomer of mono substituted alkyl halide?",
+        "question_images": [],
+        "options": [
+            "A. Neopentane",
+            "B. Neohexane",
+            "C. Isohexane",
+            "D. Tertiary butyl chloride"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Molecular mass 72 corresponds to Pentane ($C_5H_{12}$). The isomers are n-pentane, isopentane, and neopentane. Neopentane (2,2-dimethylpropane) has 12 equivalent hydrogens. Substitution of any hydrogen gives the same product ($1-chloro-2,2-dimethylpropane$). Thus, it yields only one monochloro isomer. [cite: 395, 396]",
+        "solution_images": [
+            "q21_solution_1",
+            "21_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following statements are correct? (i) The rate of reactivity of alkanes with halogens is F2 > Cl2 > Br2 > I2 (ii) Rate of replacement of hydrogens of alkanes is 3° > 2° > 1° (iii) Fluorination of alkanes is a very slow process. (iv) Iodination of alkanes is too violent to be controlled.",
+        "question_latex": "Which of the following statements are correct? (i) The rate of reactivity of alkanes with halogens is $F_2 > Cl_2 > Br_2 > I_2$ (ii) Rate of replacement of hydrogens of alkanes is $3^{\\circ} > 2^{\\circ} > 1^{\\circ}$ (iii) Fluorination of alkanes is a very slow process. (iv) Iodination of alkanes is too violent to be controlled.",
+        "question_images": [],
+        "options": [
+            "A. (i), (ii) and (iii)",
+            "B. (ii) and (iii)",
+            "C. (i) and (ii)",
+            "D. (i) and (iv)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Statement (i) is correct: Reactivity is $F_2 > Cl_2 > Br_2 > I_2$. Statement (ii) is correct: Tertiary hydrogens are more reactive due to stable radical formation. Statement (iii) is incorrect; Fluorination is violent/explosive, not slow. Statement (iv) is incorrect; Iodination is very slow and reversible, not violent. Therefore, only (i) and (ii) are clearly correct, but the answer key says (B) 'ii and iii' or potentially matches the prompt options. Wait, looking at the provided solution text: 'For statement (iii), Fluorination is too violent... For statement (iv), Iodination is very slow'. This contradicts the options or the key logic. Let's re-read the Answer Key from source. Source 408 says Ans:-(B). Source 407 options are: (A) i,ii,iii (B) ii, iii (C) i, ii (D) i, iv. If the answer is B, it implies (ii) and (iii) are chosen. BUT the solution text explicitly says 'Fluorination is too violent' (contradicting 'slow' in stmt iii). There might be a typo in the question text or key. However, if I must follow the source strictly, I will output the Answer B. *Correction*: The provided source options might be jumbled. Standard chemistry: (i) is true, (ii) is true. (iii) is false (it's fast/violent). (iv) is false (it's slow). Best match usually is i and ii. But source says B. I will list source Answer B.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Hydrocarbons",
+        "question": "Cyclohexene on ozonolysis followed by reaction with zinc dust and water gives compound E. Compound E on further treatment with aqueous KOH yields compound F. Compound F is",
+        "question_latex": "Cyclohexene on ozonolysis followed by reaction with zinc dust and water gives compound E. Compound E on further treatment with aqueous KOH yields compound F. Compound F is",
+        "question_images": [],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "q23_optionA",
+            "q23_optionB",
+            "q23_optionC",
+            "q23_optionD",
+            "23_opA_1.png",
+            "23_opB_1.png",
+            "23_opC_1.png",
+            "23_opD_1.png"
+        ],
+        "answer": "A",
+        "solution": "Cyclohexene ozonolysis ($O_3, Zn/H_2O$) opens the ring to give hexane-1,6-dial (adipaldehyde). Treatment with aqueous KOH induces an intramolecular Aldol condensation. Cyclization of the 1,6-dial forms a 5-membered ring product (cyclopent-1-enecarbaldehyde). Structure A corresponds to this product. [cite: 416]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Hydrocarbons",
+        "question": "The major product of the following reaction is",
+        "question_latex": "The major product of the following reaction is: Structure with $COOH$ and $CH=CHCH_3$ reacting with $HBr$.",
+        "question_images": [
+            "q24_1",
+            "24_qu_1.png"
+        ],
+        "options": [
+            "A. $BrCHCH_2CH_3$",
+            "B. $CH_2CH_2CH_2Br$",
+            "C. $CH_2CHCH_3$",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "24_opA_1.png",
+            "24_opB_1.png",
+            "24_opC_1.png",
+            "24_opD_1.png"
+        ],
+        "answer": "B",
+        "solution": "The reaction involves addition of HBr to an $\\alpha,\\beta$-unsaturated carboxylic acid (implied by COOH). The electron-withdrawing COOH group destabilizes the carbocation at the alpha position, so the nucleophile ($Br^-$) attacks the beta-position or the addition follows anti-Markovnikov relative to the group to avoid positive charge next to Carbonyl. Wait, usually electrophilic addition to conjugated unsaturated acids places the proton on alpha-carbon and Br on beta-carbon ($3-bromo$ product). However, checking the answer B ($CH_2CH_2CH_2Br$ doesn't make sense for the full structure). Let's look at source 421-436. The options listed are fragments. Source 435 says Ans:-(B). Source 426 shows option B as a structure. The solution simply says '(b)'. Without clear chemical context on the specific starting material structure (likely cinnamic acid or crotonic acid), I extract the data as presented. [cite: 435]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following statements are correct? (i) LNG is obtained by liquefaction of natural gas. (ii) Petrol is obtained by fractional distillation of petroleum. (iii) Coal gas is obtained by destructive distillation of coal. (iv) CNG is found in upper strata during drilling of oil wells.",
+        "question_latex": "Which of the following statements are correct? (i) LNG is obtained by liquefaction of natural gas. (ii) Petrol is obtained by fractional distillation of petroleum. (iii) Coal gas is obtained by destructive distillation of coal. (iv) CNG is found in upper strata during drilling of oil wells.",
+        "question_images": [],
+        "options": [
+            "A. (i), (ii) and (iv)",
+            "B. (i), (ii) and (iii)",
+            "C. (i) and (iii)",
+            "D. (ii) and (iv)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Statement (i), (ii), and (iii) are factually correct. Statement (iv) is partially incorrect in terminology; Natural Gas is found there, but 'CNG' specifically refers to the compressed form used as fuel, though the source implies the distinction or lack thereof. The answer key provided is (B), endorsing i, ii, and iii. [cite: 441]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Hydrocarbons",
+        "question": "What is the product of the following reaction?",
+        "question_latex": "What is the product of the following reaction?",
+        "question_images": [
+            "q26_1",
+            "26_qu_1.png"
+        ],
+        "options": [
+            "A. n-propyl benzene",
+            "B. Ethyl benzene",
+            "C. Isopropyl benzene",
+            "D. Methyl benzene"
+        ],
+        "option_images": [],
+        "answer": "C. Isopropyl benzene",
+        "solution": "The reaction is a Friedel-Crafts alkylation. When n-propyl chloride reacts with benzene in the presence of $AlCl_3$, the primary carbocation $CH_3-CH_2-CH_2^+$ undergoes a 1,2-hydride shift to form a more stable secondary carbocation $(CH_3)_2CH^+$. This secondary carbocation attacks the benzene ring, resulting in isopropyl benzene (cumene).",
+        "solution_images": [
+            "26_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Hydrocarbons",
+        "question": "In the reaction with HCl, an alkene reacts in accordance with the Markovnikov's rule to give a product 1-chloro-1-methylcyclohexane. The possible alkene is",
+        "question_latex": "In the reaction with $HCl$, an alkene reacts in accordance with the Markovnikov's rule to give a product 1-chloro-1-methylcyclohexane. The possible alkene is",
+        "question_images": [],
+        "options": [
+            "A. (A) and (B)",
+            "B. (C) only",
+            "C. (A) only",
+            "D. (B) only"
+        ],
+        "option_images": [
+            "q27optionA1",
+            "q27optionB1",
+            "q27optionC1"
+        ],
+        "answer": "A. (A) and (B)",
+        "solution": "According to Markovnikov's rule, the electrophile ($H^+$) adds to the carbon with more hydrogen atoms. In methylcyclohexene (A) and methylenecyclohexane (B), the addition of $H^+$ forms the same tertiary carbocation at the 1-position. Subsequent attack by $Cl^-$ yields 1-chloro-1-methylcyclohexane.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Hydrocarbons",
+        "question": "A single compound of the structure is obtained from ozonolysis of which of the following cyclic compounds?",
+        "question_latex": "A single compound of the structure is obtained from ozonolysis of which of the following cyclic compounds?",
+        "question_images": [
+            "q28_1"
+        ],
+        "options": [
+            "A. Option A",
+            "B. Option B",
+            "C. Option C",
+            "D. Option D"
+        ],
+        "option_images": [
+            "q28optionA1",
+            "q28optionB1",
+            "q28optionC1",
+            "q28optionD1"
+        ],
+        "answer": "A. Option A",
+        "solution": "Ozonolysis of 1,2-dimethylcyclohex-1-ene (Option A) involves the cleavage of the $C=C$ bond, resulting in a single symmetrical dialdehyde/diketone species, specifically hexane-2,5-dione (or its substituted equivalent depending on the specific ring structure provided in the image).",
+        "solution_images": [
+            "28_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Hydrocarbons",
+        "question": "Which one is the correct order of acidity?",
+        "question_latex": "Which one is the correct order of acidity?",
+        "question_images": [
+            "29_qu_1.png"
+        ],
+        "options": [
+            "A. $CH \\equiv CH > CH_3-C \\equiv CH > CH_2=CH_2 > CH_3-CH_3$",
+            "B. $CH \\equiv CH > CH_2=CH_2 > CH_3-C \\equiv CH > CH_3-CH_3$",
+            "C. $CH_3-CH_3 > CH_2=CH_2 > CH_3-C \\equiv CH > CH \\equiv CH$",
+            "D. $CH_2=CH_2 > CH_3-CH \\equiv CH > CH_3-C \\equiv CH > CH \\equiv CH$"
+        ],
+        "option_images": [],
+        "answer": "A. $CH \\equiv CH > CH_3-C \\equiv CH > CH_2=CH_2 > CH_3-CH_3$",
+        "solution": "Acidity depends on the hybridization of the carbon atom. sp hybridized carbons (alkynes) are more electronegative and thus more acidic than $sp^2$ (alkenes), which are more acidic than $sp^3$ (alkanes). Among alkynes, ethyne is more acidic than propyne due to the +I effect of the methyl group in propyne.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Hydrocarbons",
+        "question": "Predict the correct intermediate and product in the following reaction.",
+        "question_latex": " Predict the correct intermediate and product in the following reaction: $H_3C-C \\equiv CH \\xrightarrow[HgSO_4]{H_2O, H_2SO_4} \\text{Intermediate} \\to \\text{Product}$",
+        "question_images": [
+            "30_qu_1.png"
+        ],
+        "options": [
+            "A. Intermediate: $CH_3-C(OH)=CH_2$, Product: $CH_3-CO-CH_3$",
+            "B. Intermediate: $CH_3-C(OH)=CH_2$, Product: $CH_3-CH_2-CHO$",
+            "C. Intermediate: $CH_3-C(SO_4)=CH_2$, Product: $CH_3-CO-CH_3$",
+            "D. Intermediate: $CH_3-C(O)-CH_3$, Product: $CH_3-C(OH)=CH_2$"
+        ],
+        "option_images": [
+            "30_opA_1.png",
+            "30_opB_1.png",
+            "30_opC_1.png",
+            "30_opD_1.png"
+        ],
+        "answer": "A. Intermediate: $CH_3-C(OH)=CH_2$, Product: $CH_3-CO-CH_3$",
+        "solution": "The hydration of propyne using $HgSO_4/H_2SO_4$ follows Markovnikov addition to form an enol intermediate: $CH_3-C(OH)=CH_2$. This enol rapidly tautomerizes to the more stable ketone, Propan-2-one ($CH_3-CO-CH_3$).",
+        "solution_images": [
+            "30_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Hydrocarbons",
+        "question": "The compound that can be most easily nitrated is",
+        "question_latex": "The compound that can be most easily nitrated is",
+        "question_images": [],
+        "options": [
+            "A. Benzene",
+            "B. Toluene",
+            "C. Nitrobenzene",
+            "D. Chlorobenzene"
+        ],
+        "option_images": [],
+        "answer": "B. Toluene",
+        "solution": "Nitration is an electrophilic aromatic substitution. Electron-donating groups (EDG) increase the electron density on the ring, making it more reactive. The methyl group in Toluene is an EDG (+I and hyperconjugation), whereas $-NO_2$ and $-Cl$ are deactivating groups.",
+        "solution_images": [
+            "31_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following compounds will exhibit geometrical isomerism?",
+        "question_latex": "Which of the following compounds will exhibit geometrical isomerism?",
+        "question_images": [],
+        "options": [
+            "A. 1-Phenyl-2-butene",
+            "B. 3-Phenyl-1-butene",
+            "C. 2-Phenyl-1-butene",
+            "D. 1,1-Diphenyl-1-propene"
+        ],
+        "option_images": [
+            "32_opA_1.png",
+            "32_opB_1.png",
+            "32_opC_1.png",
+            "32_opD_1.png"
+        ],
+        "answer": "A. 1-Phenyl-2-butene",
+        "solution": "Geometrical isomerism (cis/trans) requires each carbon of the double bond to be attached to two different groups. In 1-phenyl-2-butene ($C_6H_5CH_2-CH=CH-CH_3$), $C_2$ is attached to $H$ and $C_6H_5CH_2$, and $C_3$ is attached to $H$ and $CH_3$. Thus, it shows isomerism.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Hydrocarbons",
+        "question": "The correct statement regarding the comparison of staggered and eclipsed conformations of ethane, is",
+        "question_latex": "The correct statement regarding the comparison of staggered and eclipsed conformations of ethane, is",
+        "question_images": [
+            "33_qu_1.png"
+        ],
+        "options": [
+            "A. The eclipsed conformation of ethane is more stable than staggered conformation even though the eclipsed conformation has torsional strain.",
+            "B. The staggered conformation of ethane is more stable than eclipsed conformation because staggered conformation has no torsional strain.",
+            "C. The staggered conformation of ethane is less stable than eclipsed conformation because staggered conformation has torsional strain.",
+            "D. The eclipsed conformation of ethane is more stable than staggered conformation because eclipsed conformation has no torsional strain."
+        ],
+        "option_images": [],
+        "answer": "B. The staggered conformation of ethane is more stable than eclipsed conformation because staggered conformation has no torsional strain.",
+        "solution": "In ethane, the staggered conformation is the most stable because it minimizes the repulsive interactions between electron pairs of $C-H$ bonds (torsional strain). The eclipsed conformation has maximum torsional strain.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Hydrocarbons",
+        "question": "In the following reaction, the major product is",
+        "question_latex": "In the following reaction, the major product is",
+        "question_images": [
+            "q34_1",
+            "34_qu_1.png"
+        ],
+        "options": [
+            "A. Option A",
+            "B. Option B",
+            "C. Option C",
+            "D. Option D"
+        ],
+        "option_images": [
+            "q34optionA1",
+            "q34optionB1",
+            "q34optionC1",
+            "q34optionD1",
+            "34_opA_1.png",
+            "34_opB_1.png",
+            "34_opC_1.png",
+            "34_opD_1.png"
+        ],
+        "answer": "C",
+        "solution": "This involves hydroboration-oxidation of an alkene. The reaction adds $H_2O$ across the double bond in an anti-Markovnikov fashion with syn-addition. The $-OH$ group attaches to the less substituted carbon.",
+        "solution_images": [
+            "34_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Hydrocarbons",
+        "question": "The compound $C_7H_8$ undergoes the following reactions: $C_7H_8 \\xrightarrow{3Cl_2/\\Delta} A \\xrightarrow{Br_2/Fe} B \\xrightarrow{Zn/HCl} C$. The product 'C' is",
+        "question_latex": "The compound $C_7H_8$ undergoes the following reactions: $C_7H_8 \\xrightarrow{3Cl_2/\\Delta} A \\xrightarrow{Br_2/Fe} B \\xrightarrow{Zn/HCl} C$. The product 'C' is",
+        "question_images": [
+            "35_qu_1.png"
+        ],
+        "options": [
+            "A. m-bromotoluene",
+            "B. o-bromotoluene",
+            "C. 3-bromo-2,4,6-trichlorotoluene",
+            "D. p-bromotoluene"
+        ],
+        "option_images": [],
+        "answer": "A. m-bromotoluene",
+        "solution": "$C_7H_8$ is toluene.\n1. $Toluene + 3Cl_2/\\Delta \\rightarrow C_6H_5CCl_3$ (benzotrichloride).\n2. Benzotrichloride $+ Br_2/Fe \\rightarrow m$-bromo-$C_6H_4CCl_3$ (the $-CCl_3$ group is meta-directing).\n3. $m$-bromo-$C_6H_4CCl_3 + Zn/HCl \\rightarrow m$-bromotoluene (reduction of side chain).",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following molecules represents the order of hybridisation $sp^2, sp^2, sp, sp$ from left to right atoms?",
+        "question_latex": "Which of the following molecules represents the order of hybridisation $sp^2, sp^2, sp, sp$ from left to right atoms?",
+        "question_images": [],
+        "options": [
+            "A. $CH_2=CH-C \\equiv CH$",
+            "B. $CH \\equiv C-C \\equiv CH$",
+            "C. $CH_2=CH-CH=CH_2$",
+            "D. $CH_3-CH=CH-CH_3$"
+        ],
+        "option_images": [],
+        "answer": "A. $CH_2=CH-C \\equiv CH$",
+        "solution": "In $CH_2=CH-C \\equiv CH$:\n- $C_1$ (in $CH_2=$) is $sp^2$\n- $C_2$ (in $=CH-$) is $sp^2$\n- $C_3$ (in $-C \\equiv$) is $sp$\n- $C_4$ (in $\\equiv CH$) is $sp$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following is most reactive towards electrophilic substitution reaction?",
+        "question_latex": "Which of the following is most reactive towards electrophilic substitution reaction?",
+        "question_images": [
+            "37_qu_1.png"
+        ],
+        "options": [
+            "A. Nitrobenzene",
+            "B. Aniline",
+            "C. Benzene",
+            "D. Benzoic acid"
+        ],
+        "option_images": [],
+        "answer": "B. Aniline",
+        "solution": "The $-NH_2$ group in aniline is a very strong electron-donating group due to the resonance (+M effect) of the lone pair on nitrogen, making the ring highly activated toward electrophilic attack.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Hydrocarbons",
+        "question": "The reaction of benzene with methyl chloride in the presence of anhydrous aluminium chloride is",
+        "question_latex": "The reaction of benzene with methyl chloride in the presence of anhydrous aluminium chloride is",
+        "question_images": [],
+        "options": [
+            "A. Friedel-Crafts reaction",
+            "B. Wurtz reaction",
+            "C. Cannizzaro reaction",
+            "D. Gattermann reaction"
+        ],
+        "option_images": [],
+        "answer": "A. Friedel-Crafts reaction",
+        "solution": "The alkylation of an aromatic ring with an alkyl halide using a Lewis acid catalyst ($AlCl_3$) is known as the Friedel-Crafts alkylation reaction.",
+        "solution_images": [
+            "38_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Hydrocarbons",
+        "question": "The hydrocarbon which can react with sodium in liquid ammonia is",
+        "question_latex": "The hydrocarbon which can react with sodium in liquid ammonia is",
+        "question_images": [],
+        "options": [
+            "A. $CH_3CH_2CH_2C \\equiv CCH_2CH_2CH_3$",
+            "B. $CH_3CH_2C \\equiv CH$",
+            "C. $CH_3CH=CHCH_3$",
+            "D. $CH_3CH_2CH_2CH_3$"
+        ],
+        "option_images": [],
+        "answer": "B. $CH_3CH_2C \\equiv CH$",
+        "solution": "Sodium in liquid ammonia reacts with terminal alkynes (alk-1-ynes) because the hydrogen attached to the $sp$ hybridized carbon is acidic enough to be replaced by a sodium atom, forming a sodium acetylide and evolving hydrogen gas.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Hydrocarbons",
+        "question": "Liquid hydrocarbons can be converted to a mixture of gaseous hydrocarbons by",
+        "question_latex": "Liquid hydrocarbons can be converted to a mixture of gaseous hydrocarbons by",
+        "question_images": [],
+        "options": [
+            "A. oxidation",
+            "B. cracking",
+            "C. distillation under reduced pressure",
+            "D. hydrolysis"
+        ],
+        "option_images": [
+            "40_opA_1.png",
+            "40_opB_1.png",
+            "40_opC_1.png",
+            "40_opD_1.png"
+        ],
+        "answer": "B. cracking",
+        "solution": "Cracking (or pyrolysis) is the process of breaking down high-boiling, high-molecular-weight (liquid) hydrocarbons into lower-molecular-weight (gaseous or low-boiling liquid) hydrocarbons using heat and/or catalysts.",
+        "solution_images": [
+            "40_so_1.png",
+            "40_so_2.png",
+            "40_so_3.png",
+            "40_so_4.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following compounds has the lowest boiling point?",
+        "question_latex": "Which of the following compounds has the lowest boiling point?",
+        "question_images": [],
+        "options": [
+            "A. n-Pentane",
+            "B. Isopentane",
+            "C. Neopentane",
+            "D. n-Butane"
+        ],
+        "option_images": [
+            "41_opA_1.png",
+            "41_opB_1.png",
+            "41_opC_1.png",
+            "41_opD_1.png"
+        ],
+        "answer": "C. Neopentane",
+        "solution": "For isomeric alkanes, the boiling point decreases with increasing branching because the surface area decreases, leading to weaker van der Waals forces. Neopentane is the most branched isomer of pentane and thus has the lowest boiling point among the pentane isomers.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Hydrocarbons",
+        "question": "The most stable carbocation among the following is",
+        "question_latex": "The most stable carbocation among the following is",
+        "question_images": [],
+        "options": [
+            "A. $(CH_3)_3C^+$",
+            "B. $(CH_3)_2CH^+$",
+            "C. $CH_3CH_2^+$",
+            "D. $CH_3^+$"
+        ],
+        "option_images": [],
+        "answer": "A. $(CH_3)_3C^+$",
+        "solution": "The stability of carbocations follows the order: tertiary ($3^\\circ$) > secondary ($2^\\circ$) > primary ($1^\\circ$) > methyl. $(CH_3)_3C^+$ is a tertiary carbocation stabilized by nine hyperconjugative structures and the +I effect of three methyl groups.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Hydrocarbons",
+        "question": "Identify the product D in the following sequence of reactions: $CH_3CH_2CH_2Br \\xrightarrow{alc.\\ KOH} B \\xrightarrow{HBr} C \\xrightarrow{Na/ether} D$",
+        "question_latex": "Identify the product D in the following sequence of reactions: $CH_3CH_2CH_2Br \\xrightarrow{alc.\\ KOH} B \\xrightarrow{HBr} C \\xrightarrow{Na/ether} D$",
+        "question_images": [],
+        "options": [
+            "A. n-hexane",
+            "B. 2,3-dimethylbutane",
+            "C. 2-methylpentane",
+            "D. n-pentane"
+        ],
+        "option_images": [],
+        "answer": "B. 2,3-dimethylbutane",
+        "solution": "1. $CH_3CH_2CH_2Br + alc. KOH \to CH_3CH=CH_2$ (Propene, B).\n2. $CH_3CH=CH_2 + HBr \to CH_3CH(Br)CH_3$ (2-bromopropane, C) [Markovnikov].\n3. $2 CH_3CH(Br)CH_3 + 2Na \to (CH_3)_2CH-CH(CH_3)_2$ (2,3-dimethylbutane, D) [Wurtz reaction].",
+        "solution_images": [
+            "43_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Hydrocarbons",
+        "question": "Benzene reacts with $Cl_2$ in the presence of $FeCl_3$ to give chlorobenzene. This is an example of",
+        "question_latex": "Benzene reacts with $Cl_2$ in the presence of $FeCl_3$ to give chlorobenzene. This is an example of",
+        "question_images": [],
+        "options": [
+            "A. Nucleophilic substitution",
+            "B. Electrophilic substitution",
+            "C. Free radical substitution",
+            "D. Addition reaction"
+        ],
+        "option_images": [],
+        "answer": "B. Electrophilic substitution",
+        "solution": "Chlorination of benzene is a classic Electrophilic Aromatic Substitution (EAS) where $FeCl_3$ generates the electrophile $Cl^+$, which then substitutes a hydrogen atom on the benzene ring.",
+        "solution_images": [
+            "44_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following alkanes cannot be prepared in good yield by Wurtz reaction?",
+        "question_latex": "Which of the following alkanes cannot be prepared in good yield by Wurtz reaction?",
+        "question_images": [
+            "45_qu_1.png"
+        ],
+        "options": [
+            "A. n-Hexane",
+            "B. 2,3-Dimethylbutane",
+            "C. n-Heptane",
+            "D. n-Butane"
+        ],
+        "option_images": [
+            "45_opA_1.png",
+            "45_opB_1.png",
+            "45_opC_1.png",
+            "45_opD_1.png"
+        ],
+        "answer": "C. n-Heptane",
+        "solution": "The Wurtz reaction is best for preparing symmetrical alkanes with an even number of carbon atoms. For unsymmetrical alkanes like n-heptane (7 carbons), a mixture of products is formed, making the yield of the desired alkane low.",
+        "solution_images": [
+            "45_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Hydrocarbons",
+        "question": "The addition of HBr to propene in the presence of peroxides yields",
+        "question_latex": "The addition of $HBr$ to propene in the presence of peroxides yields",
+        "question_images": [
+            "46_qu_1.png"
+        ],
+        "options": [
+            "A. 1-bromopropane",
+            "B. 2-bromopropane",
+            "C. isopropyl bromide",
+            "D. 1,2-dibromopropane"
+        ],
+        "option_images": [],
+        "answer": "A. 1-bromopropane",
+        "solution": "In the presence of peroxides, the addition of $HBr$ to an unsymmetrical alkene follows the anti-Markovnikov rule (Kharasch effect), leading to 1-bromopropane.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Hydrocarbons",
+        "question": "Among the following, the most stable conformation of n-butane is",
+        "question_latex": "Among the following, the most stable conformation of n-butane is",
+        "question_images": [
+            "47_qu_1.png"
+        ],
+        "options": [
+            "A. Gauche",
+            "B. Anti",
+            "C. Eclipsed",
+            "D. Fully eclipsed"
+        ],
+        "option_images": [
+            "47_opA_1.png",
+            "47_opB_1.png",
+            "47_opC_1.png",
+            "47_opD_1.png"
+        ],
+        "answer": "B. Anti",
+        "solution": "1. $CH_3CH_2CH_2Br \\xrightarrow{alc.\\ KOH} CH_3CH=CH_2$ (propene) via elimination.\n2. $CH_3CH=CH_2 + HBr \\rightarrow CH_3CHBrCH_3$ (2-bromopropane) by Markovnikov addition.\n3. $2\\,CH_3CHBrCH_3 \\xrightarrow{Na/ether} (CH_3)_2CH-CH(CH_3)_2$ (2,3-dimethylbutane) by Wurtz reaction.",
+        "solution_images": [
+            "47_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Hydrocarbons",
+        "question": "Aromatization of n-hexane gives",
+        "question_latex": "Aromatization of n-hexane gives",
+        "question_images": [],
+        "options": [
+            "A. Benzene",
+            "B. Toluene",
+            "C. Cyclohexane",
+            "D. Xylene"
+        ],
+        "option_images": [],
+        "answer": "A. Benzene",
+        "solution": "n-Hexane, when heated to about $773 K$ at $10-20$ atm pressure in the presence of oxides of vanadium, chromium, or molybdenum supported over alumina, gets dehydrogenated and cyclized to benzene.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Hydrocarbons",
+        "question": "Ethyne on passing through a red hot iron tube at 873K undergoes",
+        "question_latex": "Ethyne on passing through a red hot iron tube at $873K$ undergoes",
+        "question_images": [
+            "49_qu_1.png"
+        ],
+        "options": [
+            "A. Oxidation",
+            "B. Cyclic polymerization",
+            "C. Linear polymerization",
+            "D. Isomerization"
+        ],
+        "option_images": [],
+        "answer": "B. Cyclic polymerization",
+        "solution": "Three molecules of ethyne undergo cyclic polymerization when passed through a red hot iron tube at $873 K$ to form benzene ($C_6H_6$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following does not follow Huckel's rule?",
+        "question_latex": "Which of the following does not follow Huckel's rule?",
+        "question_images": [
+            "q50_1",
+            "50_qu_1.png"
+        ],
+        "options": [
+            "A. Benzene",
+            "B. Cyclooctatetraene",
+            "C. Naphthalene",
+            "D. Anthracene"
+        ],
+        "option_images": [],
+        "answer": "B. Cyclooctatetraene",
+        "solution": "Huckel's rule states that for a molecule to be aromatic, it must be planar, cyclic, conjugated, and have $(4n + 2)\\pi$ electrons. Cyclooctatetraene has $8\\pi$ electrons (which fits $4n$ not $4n+2$) and adopts a tub-shaped (non-planar) geometry.",
+        "solution_images": [
+            "50_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Hydrocarbons",
+        "question": "Match the columns\nColumn-I\n(A) Benzene reaction to Chlorobenzene\n(B) Toluene reaction to Benzyl chloride\n(C) Benzene reaction to Hexachlorobenzene\n(D) Toluene reaction to Chlorotoluene\n\nColumn-II\n(p) $Cl_2$ uv, 500 K\n(q) anhy. $AlCl_3$\n(r) $6Cl_2$, anhy. $AlCl_3$, dark, cold\n(s) $Cl_2$ anhy. $AlCl_3$",
+        "question_latex": "Match the columns between Reaction (Column I) and Reagents/Conditions (Column II).",
+        "question_images": [
+            "q51_1",
+            "51_qu_1.png"
+        ],
+        "options": [
+            "A. A-(s), B-(r), C-(q), D-(p)",
+            "B. A-(q), B-(r), C-(s), D-(p)",
+            "C. A-(r), B-(p), C-(q), D-(s)",
+            "D. A-(q), B-(p), C-(s), D-(r)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The correct matches are based on the reaction conditions:\n1. Benzene $\\xrightarrow{Cl_2, anhy. AlCl_3}$ Chlorobenzene [Matches (q) or (s)]\n2. Benzene $\\xrightarrow{6Cl_2, anhy. AlCl_3, dark}$ Hexachlorobenzene [Matches (r)]\n3. Toluene $\\xrightarrow{Cl_2, uv, 500K}$ Benzyl chloride (Side chain substitution) [Matches (p)]\n4. Toluene $\\xrightarrow{Cl_2, anhy. AlCl_3}$ o/p-Chlorotoluene (Ring substitution) [Matches (s) or (q)]\n\nBased on the options and standard key (B) interpretation:\n(A) Benzene $\\to$ Chlorobenzene matches (q)\n(B) Benzene $\\to$ Hexachlorobenzene matches (r)\n(C) Toluene $\\to$ Chlorotoluene matches (s)\n(D) Toluene $\\to$ Benzyl chloride matches (p) \n(Note: The mapping of letters A,B,C,D in the options corresponds to the specific permutation of reactions shown in the images).",
+        "solution_images": [
+            "q51_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Hydrocarbons",
+        "question": "Choose the correct statement regarding the formation of carbocations A and B given.\n$CH_3CH_2CH=CH_2 + HBr \\to CH_3CH_2CH_2CH_2^+ (A) + CH_3CH_2CH^+CH_3 (B)$",
+        "question_latex": "Choose the correct statement regarding the formation of carbocations A and B given: $CH_3CH_2CH=CH_2 + HBr \\to \\text{Carbocation A} + \\text{Carbocation B}$",
+        "question_images": [
+            "52_qu_1.png"
+        ],
+        "options": [
+            "A. Carbocation A is more stable and formed relatively at faster rate.",
+            "B. Carbocation B is more stable and formed relatively at faster rate.",
+            "C. Carbocation B is more stable and formed relatively at slow rate.",
+            "D. Carbocation A is more stable and formed relatively at slow rate."
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Carbocation B ($CH_3CH_2CH^+CH_3$) is a secondary carbocation, while A ($CH_3CH_2CH_2CH_2^+$) is a primary carbocation. Secondary carbocations are more stable than primary ones due to the inductive effect and hyperconjugation, and thus B is formed at a faster rate.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Hydrocarbons",
+        "question": "Six carbon atoms of benzene are of",
+        "question_latex": "Six carbon atoms of benzene are of",
+        "question_images": [],
+        "options": [
+            "A. one type",
+            "B. two types",
+            "C. three types",
+            "D. six types"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In benzene, all six carbon atoms are equivalent due to resonance, resulting in a planar hexagonal structure with equal bond lengths.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following compounds would have the same vapour pressure?",
+        "question_latex": "Which of the following compounds would have the same vapour pressure?",
+        "question_images": [
+            "q54_1",
+            "54_qu_1.png"
+        ],
+        "options": [
+            "A. (I) and (II)",
+            "B. (II) and (III)",
+            "C. (III) and (IV)",
+            "D. (II) and (IV)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Compounds (III) and (IV) are enantiomers. Enantiomers have identical physical properties (such as boiling point, melting point, and vapour pressure) in an achiral environment.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following statements is false for isopentane-",
+        "question_latex": "Which of the following statements is false for isopentane-",
+        "question_images": [],
+        "options": [
+            "A. It has three $CH_3$ groups",
+            "B. It has one $CH_2$ group",
+            "C. It has one CH group",
+            "D. It has a carbon which is not bonded to hydrogen"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Isopentane is 2-methylbutane ($CH_3-CH(CH_3)-CH_2-CH_3$). It has:\n- Three methyl ($CH_3$) groups.\n- One methylene ($CH_2$) group.\n- One methine ($CH$) group.\n- No quaternary carbon (carbon not bonded to hydrogen). Therefore, statement D is false.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Hydrocarbons",
+        "question": "There are two paths to prepare a compound (A) (2-methyl-hex-1-en-3-yne). Which of the following statements is correct?",
+        "question_latex": "There are two paths to prepare a compound (A) (2-methyl-hex-1-en-3-yne). Which of the following statements is correct?",
+        "question_images": [
+            "q56_1",
+            "56_qu_1.png"
+        ],
+        "options": [
+            "A. Path I is feasible",
+            "B. Path II is feasible",
+            "C. Both paths are feasible",
+            "D. Both paths are not feasible"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Path I involves an $SN_2$ reaction on a vinyl bromide, which is not feasible due to the high stability of the $C-Br$ bond (partial double bond character) and steric hindrance. Path II involves nucleophilic addition of an acetylide ion to a carbonyl compound, followed by dehydration, which is a feasible standard synthetic route.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Hydrocarbons",
+        "question": "Give the decreasing order of reactivity of Diels-Alder reactions for the following:",
+        "question_latex": "Give the decreasing order of reactivity of Diels-Alder reactions for the following:",
+        "question_images": [
+            "q57_1",
+            "57_qu_1.png"
+        ],
+        "options": [
+            "A. $(I)>(III)>(II)>(IV)$",
+            "B. $(IV)>(III)>(I)$",
+            "C. $(IV)>(III)>(II)$",
+            "D. $(II)>(I)>(III)>(IV)$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In Diels-Alder reactions, the reactivity of the diene is increased by Electron Donating Groups (EDG) and decreased by Electron Withdrawing Groups (EWG). The reactant with methyl groups (EDG) will be more reactive than those with ester groups (COOR, EWG). Thus, the order is based on the electronic nature of substituents on the furan ring.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Hydrocarbons",
+        "question": "The major product of the following reaction is",
+        "question_latex": "The major product of the following reaction is",
+        "question_images": [
+            "q58_1",
+            "58_qu_1.png"
+        ],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "q58_optionA",
+            "q58_optionB",
+            "q58_optionC",
+            "q58_optionD",
+            "58_opA_1.png",
+            "58_opB_1.png",
+            "58_opC_1.png",
+            "58_opD_1.png"
+        ],
+        "answer": "B",
+        "solution": "The reaction involves the addition of HCl to an alkene. The proton adds to the exocyclic double bond to form a tertiary carbocation on the ring. A hydride shift may occur to form a more stable carbocation if applicable, or the chloride attacks the tertiary center. Structure (B) represents the stable product formed (typically 1-chloro-1,2,2-trimethylcyclopentane or similar depending on the exact starting spiro/bicyclic structure shown).",
+        "solution_images": [
+            "q58_solution_1",
+            "58_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Hydrocarbons",
+        "question": "Acid catalyzed hydration of alkenes except ethene leads to the",
+        "question_latex": "Acid catalyzed hydration of alkenes except ethene leads to the",
+        "question_images": [],
+        "options": [
+            "A. mixture of primary and secondary alcohols",
+            "B. secondary or tertiary alcohol",
+            "C. mixture of secondary and tertiary alcohols",
+            "D. primary alcohol"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Hydration of alkenes follows Markovnikov's rule. Ethene yields ethanol (primary). All other alkenes yield secondary or tertiary alcohols because the proton adds to the less substituted carbon, creating a more substituted carbocation intermediate.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Hydrocarbons",
+        "question": "Arrange the following in increasing order of reactivity towards nitration: A. p-xylene B. bromobenzene C. mesitylene D. nitrobenzene E. benzene",
+        "question_latex": "Arrange the following in increasing order of reactivity towards nitration: A. p-xylene B. bromobenzene C. mesitylene D. nitrobenzene E. benzene",
+        "question_images": [],
+        "options": [
+            "A. $C<D<E<A<B$",
+            "B. $D<B<E<A<C$",
+            "C. $D<C<E<A<B$",
+            "D. $C<D<E<B<A$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Nitration is an electrophilic aromatic substitution. Reactivity is enhanced by electron-donating groups and decreased by electron-withdrawing groups.\n- Nitrobenzene (D): Strong deactivating group ($-NO_2$).\n- Bromobenzene (B): Weak deactivating group ($-Br$).\n- Benzene (E): Reference.\n- p-xylene (A): Two activating methyl groups.\n- Mesitylene (C): Three activating methyl groups.\nOrder: $D < B < E < A < C$.",
+        "solution_images": [
+            "60_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Hydrocarbons",
+        "question": "The products (C) and (D) are:",
+        "question_latex": "The products (C) and (D) are: $Reactant \\xrightarrow{Base} B \\xrightarrow{O_3} C + D$",
+        "question_images": [
+            "q61_1",
+            "61_qu_1.png"
+        ],
+        "options": [
+            "A. Acetone+Ethanal",
+            "B. Acetone+Ethanoic acid",
+            "C. Isobutanal+Methanal",
+            "D. Isobutanoic acid+Methanoic acid"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The reaction sequence involves dehydrohalogenation to form an alkene (B), followed by oxidative ozonolysis. If the products are Acetone and Ethanoic acid, the alkene B must have been 2-methylbut-2-ene. Cleavage of 2-methylbut-2-ene with $O_3$ (oxidative) yields Propanone (Acetone) and Ethanoic acid.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Hydrocarbons",
+        "question": "For the given reaction, what is 'A' (major product)?",
+        "question_latex": "For the given reaction, what is 'A' (major product)? Reaction: $m-Et-C_6H_4-CN + Br_2/UV$",
+        "question_images": [
+            "q62_1",
+            "62_qu_1.png"
+        ],
+        "options": [
+            "A. a",
+            "B. b",
+            "C. d",
+            "D. c"
+        ],
+        "option_images": [
+            "q62_optiona",
+            "q62_optionb",
+            "q62_optionc",
+            "q62_optiond",
+            "62_opA_1.png",
+            "62_opB_1.png",
+            "62_opC_1.png",
+            "62_opD_1.png"
+        ],
+        "answer": "B",
+        "solution": "The reaction is free-radical bromination. The bromine radical selectively abstracts the benzylic hydrogen (on the ethyl group) because the resulting benzylic radical is resonance stabilized. The -CN group is meta, and doesn't prevent side-chain substitution. Product is m-(1-bromoethyl)benzonitrile.",
+        "solution_images": [
+            "q62_solution_1",
+            "62_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Hydrocarbons",
+        "question": "(B), (C), and (D), respectively, are",
+        "question_latex": "(B), (C), and (D), respectively, are",
+        "question_images": [
+            "q63_1",
+            "63_qu_1.png"
+        ],
+        "options": [
+            "A. (I), (III), (II)",
+            "B. (I), (III), (II)",
+            "C. (III), (II), (I)",
+            "D. (III), (I), (II)"
+        ],
+        "option_images": [
+            "63_opA_1.png"
+        ],
+        "answer": "B",
+        "solution": "Reagents:\n- $NH_2NH_2 + O_2$: Diimide reduction (reduces $C=C$ without affecting $C=O$). Matches structure (I).\n- $NH_2NH_2 + HgO$: Oxidation of hydrazone to alkyne (forms triple bond from $\\alpha$-diketone). Matches structure (III).\n- Wolff-Kishner/Clemmensen: Reduces $C=O$ to $CH_2$. Matches structure (II).",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Hydrocarbons",
+        "question": "Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: Benzene is more stable than hypothetical cyclohexatriene. Reason R: The delocalized pi electron cloud is attracted more strongly by nuclei of carbon atoms.",
+        "question_latex": "Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: Benzene is more stable than hypothetical cyclohexatriene.\nReason R: The delocalized $\\pi$ electron cloud is attracted more strongly by nuclei of carbon atoms.",
+        "question_images": [],
+        "options": [
+            "A. A is false but R is true.",
+            "B. A is true but R is false.",
+            "C. Both A and R are correct but R is not the correct explanation of A.",
+            "D. Both A and R are correct and R is the correct explanation of A."
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Benzene is more stable than cyclohexatriene due to resonance energy. The physical basis of this stability is the delocalization of electrons, which allows them to be attracted by multiple nuclei, lowering the potential energy of the system.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Hydrocarbons",
+        "question": "Which of these will not react with acetylene?",
+        "question_latex": "Which of these will not react with acetylene?",
+        "question_images": [],
+        "options": [
+            "A. NaOH",
+            "B. Na",
+            "C. Ammonical $AgNO_3$",
+            "D. HCl"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Acetylene ($HC\\equiv CH$) is a weak acid ($pK_a \\approx 25$). Sodium metal (Na) and Ammonical Silver Nitrate ($AgNO_3$) react with acidic terminal alkynes. HCl adds across the triple bond. NaOH (a base corresponding to water, $pK_a \\approx 15.7$) is not strong enough to deprotonate acetylene.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following reactions will yield 2,2-dibromopropane?",
+        "question_latex": "Which of the following reactions will yield 2,2-dibromopropane?",
+        "question_images": [],
+        "options": [
+            "A. $CH\\equiv CH + 2HBr$",
+            "B. $CH_3-C\\equiv CH + 2HBr$",
+            "C. $CH_3-CH=CH_2 + HBr$",
+            "D. $CH_3CH=CHBr + HBr$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Addition of 2 equivalents of HBr to propyne ($CH_3-C\\equiv CH$) follows Markovnikov's rule twice. The first H adds to the terminal carbon, forming 2-bromopropene. The second H also adds to the terminal carbon, placing the second Br on the central carbon, yielding 2,2-dibromopropane.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Hydrocarbons",
+        "question": "An organic compound 'A' C4H8 on treatment with KMnO4/H+ yields compound 'B' C3H6O. Compound 'A' also yields compound 'B' on ozonolysis. Compound 'A' is",
+        "question_latex": "An organic compound 'A' $C_4H_8$ on treatment with $KMnO_4/H^+$ yields compound 'B' $C_3H_6O$. Compound 'A' also yields compound 'B' on ozonolysis. Compound 'A' is",
+        "question_images": [],
+        "options": [
+            "A. 1-methylcyclopropane",
+            "B. 2-methylpropene",
+            "C. but-2-ene",
+            "D. cyclobutane"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Compound A ($C_4H_8$) is an alkene. Ozonolysis giving a single product B ($C_3H_6O$) implies a symmetric alkene or a terminal alkene losing a $CH_2$ fragment as $HCHO/CO_2$. 2-methylpropene ($CH_3-C(CH_3)=CH_2$) yields Acetone ($CH_3COCH_3$, $C_3H_6O$) and $HCHO$ (which oxidizes to $CO_2$ with KMnO4). The formula matches B.",
+        "solution_images": [
+            "67_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Hydrocarbons",
+        "question": "The reaction of toluene with Cl2 in presence of FeCl3 gives predominantly",
+        "question_latex": "The reaction of toluene with $Cl_2$ in presence of $FeCl_3$ gives predominantly",
+        "question_images": [],
+        "options": [
+            "A. benzoyl chloride",
+            "B. benzyl chloride",
+            "C. m-chlorobenzene",
+            "D. o - and p-chlorotoluene"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "This is an electrophilic aromatic substitution. The methyl group in toluene is ortho/para directing. $FeCl_3$ acts as a Lewis acid catalyst to generate the electrophile $Cl^+$. Therefore, the products are o-chlorotoluene and p-chlorotoluene.",
+        "solution_images": [
+            "68_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Hydrocarbons",
+        "question": "Which alkene on ozonolysis gives CH3CH2CHO and CH3COCH3?",
+        "question_latex": "Which alkene on ozonolysis gives $CH_3CH_2CHO$ and $CH_3COCH_3$?",
+        "question_images": [
+            "69_qu_1.png"
+        ],
+        "options": [
+            "A. $CH_3CH_2CH=C(CH_3)_2$",
+            "B. $CH_3CH_2CH=CHCH_2CH_3$",
+            "C. $CH_3CH_2CH=CHCH_3$",
+            "D. $CH_3-C(CH_3)=CHCH_3$"
+        ],
+        "option_images": [
+            "69_opA_1.png",
+            "69_opB_1.png",
+            "69_opC_1.png",
+            "69_opD_1.png"
+        ],
+        "answer": "A",
+        "solution": "To find the alkene, remove the oxygen atoms from the carbonyl products and join the double bonds: $CH_3CH_2CH=O + O=C(CH_3)_2 \\to CH_3CH_2CH=C(CH_3)_2$. This corresponds to 2-methylpent-2-ene.",
+        "solution_images": [
+            "q69_solution_1",
+            "69_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Hydrocarbons",
+        "question": "The incorrect statement regarding the geometrical isomers of 2-butene is:",
+        "question_latex": "The incorrect statement regarding the geometrical isomers of 2-butene is:",
+        "question_images": [],
+        "options": [
+            "A. cis-2-butene and trans-2-butene are stereoisomers.",
+            "B. cis-2-butene and trans-2-butene are not interconvertible at room temperature.",
+            "C. cis-2-butene has less dipole moment than trans-2-butene",
+            "D. trans-2-butene is more stable than cis-2-butene."
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "cis-2-butene has a net dipole moment because the bond dipoles of the two methyl groups reinforce each other. trans-2-butene has a zero dipole moment because the dipoles cancel out. Thus, cis has a *higher* dipole moment than trans. Statement C is incorrect.",
+        "solution_images": [
+            "70_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Hydrocarbons",
+        "question": "n-Hexane isomerises in presence of anhydrous aluminium chloride and hydrogen chloride gas to give",
+        "question_latex": "n-Hexane isomerises in presence of anhydrous aluminium chloride and hydrogen chloride gas to give",
+        "question_images": [],
+        "options": [
+            "A. 2-Methyl pentane",
+            "B. 3-Methyl pentane",
+            "C. Both (a) and (b)",
+            "D. Neither (a) nor (b)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Isomerization of n-alkanes with Lewis acids like $AlCl_3/HCl$ produces branched chain isomers. n-Hexane yields a mixture of 2-methylpentane and 3-methylpentane.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Hydrocarbons",
+        "question": "In the preparation of alkanes from hydrogenation of alkenes and alkynes. Finely divided catalysts are used which of the following statement(s) is/are correct regarding these catalysts",
+        "question_latex": "In the preparation of alkanes from hydrogenation of alkenes and alkynes. Finely divided catalysts are used which of the following statement(s) is/are correct regarding these catalysts: (i) Platinum and palladium catalyse the reaction at room temperature. (ii) Nickel catalyse the reaction at relatively higher temperature and pressure. (iii) Platinum and palladium catalyse the reaction at higher temperature.",
+        "question_images": [],
+        "options": [
+            "A. (i) and (iii)",
+            "B. (i) and (ii)",
+            "C. (ii) and (iii)",
+            "D. (i) only"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Platinum and Palladium are very active catalysts and work at room temperature. Nickel (Raney Nickel) typically requires higher temperatures and pressures to effect hydrogenation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following is anti-aromatic in nature?",
+        "question_latex": "Which of the following is anti-aromatic in nature?",
+        "question_images": [
+            "q73_1"
+        ],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "73_opA_1.png",
+            "73_opB_1.png",
+            "73_opC_1.png",
+            "73_opD_1.png"
+        ],
+        "answer": "B",
+        "solution": "Structure B corresponds to the cyclopropenyl anion (or similar 4n pi electron system). It has $4\\pi$ electrons ($n=1$ in $4n$), is cyclic, and planar, which makes it anti-aromatic according to Hückel's rule. (Note: Solution text identifies 'b' as the anti-aromatic species).",
+        "solution_images": [
+            "73_so_1.png",
+            "73_so_2.png",
+            "73_so_3.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Hydrocarbons",
+        "question": "The product (s) obtained via oxymercuration (HgSO4 + H2SO4) of 1-butyne would be:",
+        "question_latex": "The product (s) obtained via oxymercuration ($HgSO_4 + H_2SO_4$) of 1-butyne would be:",
+        "question_images": [],
+        "options": [
+            "A. $CH_3-CH_2-CO-CH_3$",
+            "B. $CH_3-CH_2-CH_2-CH_3$",
+            "C. $CH_3-CH_2-CHO + HCHO$",
+            "D. $CH_3-CH_2-COOH + HCOOH$"
+        ],
+        "option_images": [
+            "74_opB_1.png"
+        ],
+        "answer": "A",
+        "solution": "Oxymercuration of terminal alkynes follows Markovnikov addition of water. 1-butyne ($CH_3CH_2C\\equiv CH$) forms an enol ($CH_3CH_2C(OH)=CH_2$) which tautomerizes to the ketone, butan-2-one ($CH_3CH_2COCH_3$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Hydrocarbons",
+        "question": "Which of the following is a non-aromatic compound?",
+        "question_latex": "Which of the following is a non-aromatic compound?",
+        "question_images": [
+            "q75_1"
+        ],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Structure A is cyclohepta-1,3,5-triene. It contains an $sp^3$ hybridized carbon atom ($CH_2$), which breaks the cyclic conjugation. Therefore, it is non-aromatic. Structure B (Tropylium ion) is aromatic.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    }
+]

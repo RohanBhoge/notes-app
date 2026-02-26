@@ -31,7 +31,14 @@ app.set('trust proxy', 1);
 const port = config.server.port || 8080;
 
 // --- CORS CONFIGURATION ---
-const allowedOrigins = process.env.CORS_ORIGIN
+const allowedOrigins = [
+  process.env.CORS_ORIGIN,
+  'https://paper-nest.in',
+  'https://www.paper-nest.in',
+  'http://paper-nest.in',
+  'paper-nest.in',
+  'www.paper-nest.in',
+];
 
 const corsOptions = {
   origin: function (origin, callback) {

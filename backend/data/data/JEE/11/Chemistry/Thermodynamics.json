@@ -1,0 +1,1915 @@
+[
+    {
+        "id": 1,
+        "chapter": "Thermodynamics",
+        "question": "The heat change taking place during the reaction $H_{2}O(l)\\rightarrow H_{2}O(g)$ is: [Given, $\\Delta H_{f}$ of $H_{2}O(g)=-57$ kcal, $\\Delta H_{f} H_{2}O(l)=-68.3$ kcal]",
+        "question_latex": "The heat change taking place during the reaction $H_{2}O(l)\\rightarrow H_{2}O(g)$ is: [Given, $\\Delta H_{f}$ of $H_{2}O(g)=-57$ kcal, $\\Delta H_{f} H_{2}O(l)=-68.3$ kcal]",
+        "question_images": [],
+        "options": [
+            "A. +11.3 kcal",
+            "B. -11.3 kcal",
+            "C. -115.3 kcal",
+            "D. +115.3 kcal"
+        ],
+        "option_images": [],
+        "answer": "A. +11.3 kcal",
+        "solution": "From the given data: \n(i) $H_{2} + \\frac{1}{2}O_{2} \\rightarrow H_{2}O(g); \\Delta H = -57.0$ kcal \n(ii) $H_{2} + \\frac{1}{2}O_{2} \\rightarrow H_{2}O(l); \\Delta H = -68.3$ kcal \nTo find the heat change for $H_{2}O(l) \\rightarrow H_{2}O(g)$, subtract eq. (ii) from eq. (i): \n$\\Delta H = \\Delta H_{f}[H_{2}O(g)] - \\Delta H_{f}[H_{2}O(l)]$ \n$\\Delta H = -57.0 - (-68.3) = +11.3$ kcal",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Thermodynamics",
+        "question": "The entropy values (in $JK^{-1}mol^{-1}$) of $H_{2}(g)=130.6$, $Cl_{2}(g)=223.0$, and $HCl(g)=186.7$ at 298 K and 1 atm pressure. The entropy change for the reaction $H_{2}(g)+Cl_{2}(g)\\rightarrow 2HCl(g)$ is:",
+        "question_latex": "The entropy values (in $JK^{-1}mol^{-1}$) of $H_{2}(g)=130.6$, $Cl_{2}(g)=223.0$, and $HCl(g)=186.7$ at 298 K and 1 atm pressure. The entropy change for the reaction $H_{2}(g)+Cl_{2}(g)\\rightarrow 2HCl(g)$ is:",
+        "question_images": [],
+        "options": [
+            "A. +540.3",
+            "B. +727.3",
+            "C. -166.9",
+            "D. +19.8"
+        ],
+        "option_images": [],
+        "answer": "D. +19.8",
+        "solution": "$\\Delta S^{\\circ} = \\sum S^{\\circ}_{products} - \\sum S^{\\circ}_{reactants}$ \n$\\Delta S^{\\circ} = 2S^{\\circ}_{HCl} - (S^{\\circ}_{H_{2}} + S^{\\circ}_{Cl_{2}})$ \n$\\Delta S^{\\circ} = 2 \\times 186.7 - (130.6 + 223.0) = 373.4 - 353.6 = 19.8 \\text{ JK}^{-1}\\text{mol}^{-1}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Thermodynamics",
+        "question": "Which of the following is a closed system?",
+        "question_latex": "Which of the following is a closed system?",
+        "question_images": [],
+        "options": [
+            "A. Jet engine",
+            "B. Tea placed in a steel kettle",
+            "C. Pressure cooker",
+            "D. Rocket engine during propulsion"
+        ],
+        "option_images": [],
+        "answer": "C. Pressure cooker",
+        "solution": "A closed system can exchange energy but not matter with the surroundings. A pressure cooker (when the whistle is not releasing steam) acts as a closed system.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Thermodynamics",
+        "question": "Predict the sign of $\\Delta G$ for the melting of ice at $-15^{\\circ}C$.",
+        "question_latex": "Predict the sign of $\\Delta G$ for the melting of ice at $-15^{\\circ}C$.",
+        "question_images": [],
+        "options": [
+            "A. $\\Delta G = -ve$",
+            "B. $\\Delta G = +ve$",
+            "C. $\\Delta G = 0$",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "B. +ve",
+        "solution": "The melting of ice at $-15^{\\circ}C$ is a non-spontaneous process. For non-spontaneous processes, $\\Delta G$ is positive (+ve).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Thermodynamics",
+        "question": "$C(s)+O_{2}(g)\\rightarrow CO_{2}(g); \\Delta H=-94$ kcal. $2CO(g)+O_{2}\\rightarrow 2CO_{2}(g); \\Delta H=-135.2$ kcal. The heat of formation of $CO(g)$ is:",
+        "question_latex": "$C(s)+O_{2}(g)\\rightarrow CO_{2}(g); \\Delta H=-94$ kcal. $2CO(g)+O_{2}\\rightarrow 2CO_{2}(g); \\Delta H=-135.2$ kcal. The heat of formation of $CO(g)$ is:",
+        "question_images": [],
+        "options": [
+            "A. -26.4 kcal",
+            "B. 41.2 kcal",
+            "C. 26.4 kcal",
+            "D. 229.2 kcal"
+        ],
+        "option_images": [],
+        "answer": "A. -26.4 kcal",
+        "solution": "To find $\\Delta H_f$ for $C(s) + \\frac{1}{2}O_2(g) \\rightarrow CO(g)$: \n(I) $CO_2(g) \\rightarrow CO(g) + \\frac{1}{2}O_2(g); \\Delta H = \\frac{135.2}{2} = 67.6$ kcal \n(II) $C(s) + O_2(g) \\rightarrow CO_2(g); \\Delta H = -94$ kcal \nAdding (I) and (II): $C(s) + \\frac{1}{2}O_2(g) \\rightarrow CO(g)$ \n$\\Delta H = -94 + 67.6 = -26.4$ kcal.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Thermodynamics",
+        "question": "The system that would not allow exchange of heat between the system and surroundings through its boundary is considered as:",
+        "question_latex": "The system that would not allow exchange of heat between the system and surroundings through its boundary is considered as:",
+        "question_images": [],
+        "options": [
+            "A. isothermal",
+            "B. adiabatic",
+            "C. isobaric",
+            "D. isochoric"
+        ],
+        "option_images": [],
+        "answer": "B. adiabatic",
+        "solution": "An adiabatic process is one in which there is no exchange of heat ($q=0$) between the system and the surroundings.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Thermodynamics",
+        "question": "Match the columns: \nColumn-I: (A) Exothermic, (B) Spontaneous, (C) Cyclic process, (D) Equilibrium \nColumn-II: (p) $\\Delta H=0, \\Delta E=0$, (q) $\\Delta G=0$, (r) $\\Delta H$ is negative, (s) $\\Delta G$ is negative",
+        "question_latex": "Match the columns: \nColumn-I: (A) Exothermic, (B) Spontaneous, (C) Cyclic process, (D) Equilibrium \nColumn-II: (p) $\\Delta H=0, \\Delta E=0$, (q) $\\Delta G=0$, (r) $\\Delta H$ is negative, (s) $\\Delta G$ is negative",
+        "question_images": [],
+        "options": [
+            "A. A-(q), B-(r), C-(p), D-(s)",
+            "B. A-(s), B-(p), C-(r), D-(q)",
+            "C. A-(p), B-(q), C-(s), D-(r)",
+            "D. A-(r), B-(s), C-(p), D-(q)"
+        ],
+        "option_images": [],
+        "answer": "D. A-(r), B-(s), C-(p), D-(q)",
+        "solution": "A (Exothermic) -> r ($\\Delta H$ is negative); \nB (Spontaneous) -> s ($\\Delta G$ is negative); \nC (Cyclic process) -> p ($\\Delta H=0, \\Delta E=0$); \nD (Equilibrium) -> q ($\\Delta G=0$)",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Thermodynamics",
+        "question": "One mole of a gas occupying $3\\text{ dm}^{3}$ expands against constant external pressure of 1 atm to a volume of $13\\text{ dm}^{3}$. The work done is:",
+        "question_latex": "One mole of a gas occupying $3\\text{ dm}^{3}$ expands against constant external pressure of 1 atm to a volume of $13\\text{ dm}^{3}$. The work done is:",
+        "question_images": [],
+        "options": [
+            "A. $-10\\text{ atm dm}^{3}$",
+            "B. $-20\\text{ atm dm}^{3}$",
+            "C. $-39\\text{ atm dm}^{3}$",
+            "D. $-48\\text{ atm dm}^{3}$"
+        ],
+        "option_images": [],
+        "answer": "A. -10 atm dm³",
+        "solution": "$W_{exp} = -P_{ext} \\times \\Delta V$ \n$W = -1 \\text{ atm} \\times (13 - 3) \\text{ dm}^{3} = -10 \\text{ atm dm}^{3}$",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Thermodynamics",
+        "question": "An isothermal process is associated with:",
+        "question_latex": "An isothermal process is associated with:",
+        "question_images": [],
+        "options": [
+            "A. Constant entropy",
+            "B. Constant temperature",
+            "C. Constant enthalpy",
+            "D. Large change in heat content"
+        ],
+        "option_images": [],
+        "answer": "B. Constant temperature",
+        "solution": "By definition, an isothermal process is one where the temperature remains constant throughout the process ($T = \\text{constant}$, $\\Delta T = 0$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Thermodynamics",
+        "question": "Enthalpy change for a reaction does not depend upon:",
+        "question_latex": "Enthalpy change for a reaction does not depend upon:",
+        "question_images": [],
+        "options": [
+            "A. The physical states of reactants and products",
+            "B. Use of different reactants for the same products",
+            "C. The nature of intermediate reaction steps",
+            "D. The differences in initial and final temperature"
+        ],
+        "option_images": [],
+        "answer": "C. The nature of intermediate reaction steps",
+        "solution": "Enthalpy is a state function. According to Hess's Law, the total enthalpy change for a reaction is independent of the path or the number of intermediate steps taken.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Thermodynamics",
+        "question": "For the equations: \n(1) $C(\\text{diamond}) + 2H_{2}(g) \\rightarrow CH_{4}(g); \\Delta H_{1}$ \n(2) $C(g) + 4H(g) \\rightarrow CH_{4}(g); \\Delta H_{2}$ \nPredict whether:",
+        "question_latex": "For the equations: \n(1) $C(\\text{diamond}) + 2H_{2}(g) \\rightarrow CH_{4}(g); \\Delta H_{1}$ \n(2) $C(g) + 4H(g) \\rightarrow CH_{4}(g); \\Delta H_{2}$ \nPredict whether:",
+        "question_images": [],
+        "options": [
+            "A. $\\Delta H_{1} = \\Delta H_{2}$",
+            "B. $\\Delta H_{1} > \\Delta H_{2}$",
+            "C. $\\Delta H_{1} < \\Delta H_{2}$",
+            "D. $\\Delta H_{1} = \\Delta H_{2} + \\Delta_{vap}H(C) + \\Delta_{diss}H(H_{2})$"
+        ],
+        "option_images": [],
+        "answer": "B. ΔH₁ > ΔH₂",
+        "solution": "Reaction (2) involves reactants in the gaseous/atomic state which have much higher energy than the solid diamond and molecular hydrogen in reaction (1). Since both form the same product, the energy released (magnitude of negative $\\Delta H$) in (2) is much greater, meaning $\\Delta H_{1}$ is algebraically greater than $\\Delta H_{2}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Thermodynamics",
+        "question": "Consider the following reaction: $H_{2(g)} + \\frac{1}{2}O_{2(g)} = H_{2}O(l)$, $\\Delta H = -X_{2} \\text{ kJ mol}^{-1}$. The enthalpy of formation of $H_{2}O(l)$ is:",
+        "question_latex": "Consider the following reaction: $H_{2(g)} + \\frac{1}{2}O_{2(g)} = H_{2}O(l)$, $\\Delta H = -X_{2} \\text{ kJ mol}^{-1}$. The enthalpy of formation of $H_{2}O(l)$ is:",
+        "question_images": [],
+        "options": [
+            "A. $+X_{3} \\text{ kJ mol}^{-1}$",
+            "B. $-X_{4} \\text{ kJ mol}^{-1}$",
+            "C. $+X_{1} \\text{ kJ mol}^{-1}$",
+            "D. $-X_{2} \\text{ kJ mol}^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "D. -X₂ kJ mol⁻¹",
+        "solution": "The enthalpy of formation is defined as the heat change when one mole of a substance is formed from its constituent elements in their standard states. Reaction (ii) fits this definition, so $\\Delta H_{f} = -X_{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Thermodynamics",
+        "question": "Given: \n(i) $C(\\text{graphite}) + O_{2(g)} \\rightarrow CO_{2(g)}; \\Delta_{r}H^{\\circ} = x \\text{ kJ mol}^{-1}$ \n(ii) $C(\\text{graphite}) + \\frac{1}{2}O_{2(g)} \\rightarrow CO_{(g)}; \\Delta_{r}H^{\\circ} = y \\text{ kJ mol}^{-1}$ \n(iii) $CO_{(g)} + \\frac{1}{2}O_{2(g)} \\rightarrow CO_{2(g)}; \\Delta_{r}H^{\\circ} = z \\text{ kJ mol}^{-1}$ \nFind the correct algebraic relationship.",
+        "question_latex": "Given: \n(i) $C(\\text{graphite}) + O_{2(g)} \\rightarrow CO_{2(g)}; \\Delta_{r}H^{\\circ} = x \\text{ kJ mol}^{-1}$ \n(ii) $C(\\text{graphite}) + \\frac{1}{2}O_{2(g)} \\rightarrow CO_{(g)}; \\Delta_{r}H^{\\circ} = y \\text{ kJ mol}^{-1}$ \n(iii) $CO_{(g)} + \\frac{1}{2}O_{2(g)} \\rightarrow CO_{2(g)}; \\Delta_{r}H^{\\circ} = z \\text{ kJ mol}^{-1}$ \nFind the correct algebraic relationship.",
+        "question_images": [],
+        "options": [
+            "A. z = x + y",
+            "B. x = y + z",
+            "C. x = y - z",
+            "D. y = 2z - x"
+        ],
+        "option_images": [],
+        "answer": "B. x = y + z",
+        "solution": "Adding equation (ii) and (iii) gives equation (i). \n$C(\\text{graphite}) + \\frac{1}{2}O_{2(g)} + CO_{(g)} + \\frac{1}{2}O_{2(g)} \\rightarrow CO_{(g)} + CO_{2(g)}$ \n$C(\\text{graphite}) + O_{2(g)} \\rightarrow CO_{2(g)}$ \nTherefore, $x = y + z$. (Note: Solution in PDF says C but then states $x=y+z$ which is B).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Thermodynamics",
+        "question": "Using the bond energies: H-H: 431.37, $C=C$: 606.10, $C-C$: 336.49, $C-H$: 410.50 (all in $\\text{kJ mol}^{-1}$), the enthalpy for the reaction $CH_{2}=CH_{2} + H_{2} \\rightarrow CH_{3}-CH_{3}$ will be:",
+        "question_latex": "Using the bond energies: H-H: 431.37, $C=C$: 606.10, $C-C$: 336.49, $C-H$: 410.50 (all in $\\text{kJ mol}^{-1}$), the enthalpy for the reaction $CH_{2}=CH_{2} + H_{2} \\rightarrow CH_{3}-CH_{3}$ will be:",
+        "question_images": [],
+        "options": [
+            "A. 553.0 kJ mol⁻¹",
+            "B. 1523.6 kJ mol⁻¹",
+            "C. -243.6 kJ mol⁻¹",
+            "D. -120.0 kJ mol⁻¹"
+        ],
+        "option_images": [],
+        "answer": "D. -120.0 kJ mol⁻¹",
+        "solution": "$\\Delta H = \\sum BE(\\text{reactants}) - \\sum BE(\\text{products})$ \n$\\Delta H = [BE(C=C) + 4BE(C-H) + BE(H-H)] - [BE(C-C) + 6BE(C-H)]$ \n$\\Delta H = [606.10 + 4(410.50) + 431.37] - [336.49 + 6(410.50)]$ \n$\\Delta H = 2679.47 - 2799.49 = -120.02 \\text{ kJ/mol}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Thermodynamics",
+        "question": "An ideal gas expands from $1 \\times 10^{-3} \\text{ m}^{3}$ to $1 \\times 10^{-2} \\text{ m}^{3}$ at 300 K against a constant pressure of $1 \\times 10^{5} \\text{ N m}^{-2}$. The work done is:",
+        "question_latex": "An ideal gas expands from $1 \\times 10^{-3} \\text{ m}^{3}$ to $1 \\times 10^{-2} \\text{ m}^{3}$ at 300 K against a constant pressure of $1 \\times 10^{5} \\text{ N m}^{-2}$. The work done is:",
+        "question_images": [],
+        "options": [
+            "A. -900 J",
+            "B. -900 kJ",
+            "C. 270 kJ",
+            "D. 900 kJ"
+        ],
+        "option_images": [],
+        "answer": "A. -900 J",
+        "solution": "$W = -P \\Delta V = -1 \\times 10^{5} (1 \\times 10^{-2} - 1 \\times 10^{-3})$ \n$W = -1 \\times 10^{5} (0.01 - 0.001) = -1 \\times 10^{5} \\times 0.009 = -900 \\text{ J}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Thermodynamics",
+        "question": "Which is not an intensive property?",
+        "question_latex": "Which is not an intensive property?",
+        "question_images": [],
+        "options": [
+            "A. Boiling point",
+            "B. Refractive index",
+            "C. Molarity",
+            "D. Volume"
+        ],
+        "option_images": [],
+        "answer": "D. Volume",
+        "solution": "Intensive properties do not depend on the amount of matter present. Volume is an extensive property because it depends on the quantity of the substance.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Thermodynamics",
+        "question": "The correct statement amongst the following is:",
+        "question_latex": "The correct statement amongst the following is:",
+        "question_images": [],
+        "options": [
+            "A. The term 'standard state' implies temperature is $0^{\\circ}C$",
+            "B. $\\Delta_{f}H^{\\circ}$ is zero for $O_{2}(g)$",
+            "C. $\\Delta_{f}H_{298}^{\\circ}$ is zero for $O(g)$",
+            "D. Standard state of gas is 1 bar and 273 K"
+        ],
+        "option_images": [],
+        "answer": "B. ΔfH° is zero for O₂(g)",
+        "solution": "By convention, the standard enthalpy of formation ($\\Delta_{f}H^{\\circ}$) of an element in its most stable form at 1 bar pressure and a specified temperature is zero. For oxygen, this form is $O_{2}(g)$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Thermodynamics",
+        "question": "For a reaction at $25^{\\circ}C$, $\\Delta H = -11.7 \\times 10^{3} \\text{ J mol}^{-1}$ and $\\Delta S = -105 \\text{ J mol}^{-1} K^{-1}$. The reaction is:",
+        "question_latex": "For a reaction at $25^{\\circ}C$, $\\Delta H = -11.7 \\times 10^{3} \\text{ J mol}^{-1}$ and $\\Delta S = -105 \\text{ J mol}^{-1} K^{-1}$. The reaction is:",
+        "question_images": [],
+        "options": [
+            "A. Spontaneous",
+            "B. Non-spontaneous",
+            "C. Instantaneous",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "B. Non-spontaneous",
+        "solution": "$\\Delta G = \\Delta H - T\\Delta S$ \n$\\Delta G = -11700 - (298 \\times -105) = -11700 + 31290 = +19590 \\text{ J}$ \nSince $\\Delta G$ is positive, the reaction is non-spontaneous.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Thermodynamics",
+        "question": "Two moles of an ideal gas are expanded isothermally and reversibly from 1 L to 10 L at 300 K. The enthalpy change (in kJ) for the process is:",
+        "question_latex": "Two moles of an ideal gas are expanded isothermally and reversibly from 1 L to 10 L at 300 K. The enthalpy change (in kJ) for the process is:",
+        "question_images": [],
+        "options": [
+            "A. 11.4",
+            "B. -11.4",
+            "C. 0",
+            "D. 4.8"
+        ],
+        "option_images": [],
+        "answer": "C. 0",
+        "solution": "For an ideal gas, internal energy and enthalpy are functions of temperature only. Since the process is isothermal ($\\Delta T = 0$), the enthalpy change $\\Delta H = n C_p \\Delta T = 0$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Thermodynamics",
+        "question": "Which of the following is always negative for an exothermic reaction?",
+        "question_latex": "Which of the following is always negative for an exothermic reaction?",
+        "question_images": [],
+        "options": [
+            "A. $\\Delta H$",
+            "B. $\\Delta S$",
+            "C. $\\Delta G$",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A. ΔH",
+        "solution": "An exothermic reaction is defined as a reaction that releases heat to the surroundings, which corresponds to a negative enthalpy change ($\\Delta H < 0$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Thermodynamics",
+        "question": "For a reaction, $A_{(g)} \\rightarrow A_{(l)}$, $\\Delta H = -3RT$. The correct statement for the reaction is:",
+        "question_latex": "For a reaction, $A_{(g)} \\rightarrow A_{(l)}$, $\\Delta H = -3RT$. The correct statement for the reaction is:",
+        "question_images": [],
+        "options": [
+            "A. $|\\Delta H| < |\\Delta U|$",
+            "B. $\\Delta H = \\Delta U = 0$",
+            "C. $\\Delta H = \\Delta U \\neq 0$",
+            "D. $|\\Delta H| > |\\Delta U|$"
+        ],
+        "option_images": [],
+        "answer": "D. |ΔH| > |ΔU|",
+        "solution": "$\\Delta H = \\Delta U + \\Delta n_g RT$ \n$\\Delta n_g = 0 - 1 = -1$ \n$-3RT = \\Delta U + (-1)RT \\Rightarrow \\Delta U = -2RT$ \nComparing magnitudes: $|-3RT| > |-2RT|$, so $|\\Delta H| > |\\Delta U|$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Thermodynamics",
+        "question": "It is a general principle that if a system has less energy then it is:",
+        "question_latex": "It is a general principle that if a system has less energy then it is:",
+        "question_images": [],
+        "options": [
+            "A. More stable",
+            "B. Less stable",
+            "C. Unstable",
+            "D. More unstable"
+        ],
+        "option_images": [],
+        "answer": "A. More stable",
+        "solution": "Stability is inversely proportional to the energy level of a system. Lower energy states are generally more stable.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Thermodynamics",
+        "question": "The process in which pressure remains constant throughout a change is:",
+        "question_latex": "The process in which pressure remains constant throughout a change is:",
+        "question_images": [],
+        "options": [
+            "A. Adiabatic",
+            "B. Isochoric",
+            "C. Isobaric",
+            "D. Isothermal"
+        ],
+        "option_images": [],
+        "answer": "C. Isobaric",
+        "solution": "An isobaric process is a thermodynamic process in which the pressure remains constant ($\\Delta P = 0$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Thermodynamics",
+        "question": "The reaction $MgO_{(s)}+C_{(s)} \\rightarrow Mg_{(s)}+CO_{(g)}$ has $\\Delta_{r}H^{\\circ}=+491.1 \\text{ kJ mol}^{-1}$ and $\\Delta_{r}S^{\\circ}=198.0 \\text{ J K}^{-1} \\text{mol}^{-1}$. Temperature above which reaction will be feasible is:",
+        "question_latex": "The reaction $MgO_{(s)}+C_{(s)} \\rightarrow Mg_{(s)}+CO_{(g)}$ has $\\Delta_{r}H^{\\circ}=+491.1 \\text{ kJ mol}^{-1}$ and $\\Delta_{r}S^{\\circ}=198.0 \\text{ J K}^{-1} \\text{mol}^{-1}$. Temperature above which reaction will be feasible is:",
+        "question_images": [],
+        "options": [
+            "A. 2380.5 K",
+            "B. 2040.5 K",
+            "C. 2480.3 K",
+            "D. 1890.0 K"
+        ],
+        "option_images": [],
+        "answer": "C. 2480.3 K",
+        "solution": "For spontaneity, $\\Delta G < 0 \\Rightarrow \\Delta H - T\\Delta S < 0 \\Rightarrow T > \\frac{\\Delta H}{\\Delta S}$ \n$T > \\frac{491.1 \\times 1000}{198.0} = 2480.3 \\text{ K}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Redox Reactions",
+        "question": "Which phenomenon cannot be described as oxidation?",
+        "question_latex": "Which phenomenon cannot be described as oxidation?",
+        "question_images": [],
+        "options": [
+            "A. Oxidation of coal in air",
+            "B. Burning of magnesium in nitrogen",
+            "C. Reaction of antimony with chlorine",
+            "D. Lighting of an electric lamp"
+        ],
+        "option_images": [],
+        "answer": "D. Lighting of an electric lamp",
+        "solution": "Lighting an electric lamp is a physical change (incandescence) and does not involve a chemical reaction like oxidation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Thermodynamics",
+        "question": "A gas undergoes change from state A to state B. In this process, the heat absorbed and work done by the gas is 5 J and 8 J, respectively. Now gas is brought back to A by another process during which 3 J of heat is evolved. In this reverse process of B to A:",
+        "question_latex": "A gas undergoes change from state A to state B. In this process, the heat absorbed and work done by the gas is $5~J$ and $8~J$, respectively. Now gas is brought back to A by another process during which $3~J$ of heat is evolved. In this reverse process of B to A:",
+        "question_images": [],
+        "options": [
+            "A. 10 J of the work will be done by the surrounding on gas",
+            "B. 10 J of the work will be done by the gas",
+            "C. 6 J of the work will be done by the surrounding on gas",
+            "D. 6 J of the work will be done by the gas"
+        ],
+        "option_images": [],
+        "answer": "C. 6 J of the work will be done by the surrounding on gas",
+        "solution": "From A to B: $q = +5~J$, $w = -8~J$ (work done by the system). According to the first law of thermodynamics, $\\Delta U = q + w = 5 - 8 = -3~J$. For the reverse process (B to A), $\\Delta U = +3~J$ (since internal energy is a state function). Given $q = -3~J$ (heat evolved), then $w = \\Delta U - q = +3 - (-3) = +6~J$. Thus, $6~J$ of work is done by the surroundings on the gas.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Thermodynamics",
+        "question": "The following reaction is performed at 298 K. $2NO(g) + O_2(g) \\rightleftharpoons 2NO_2(g)$. The standard free energy of formation of $NO(g)$ is 86.6 kJ/mol at 298 K. What is the standard free energy of formation of $NO_2(g)$ at 298 K? ($K_p = 1.6 \\times 10^{12}$)",
+        "question_latex": "The following reaction is performed at $298~K$. $2NO(g) + O_{2}(g) \\rightleftharpoons 2NO_{2}(g)$. The standard free energy of formation of $NO(g)$ is $86.6~kJ/mol$ at $298~K$. What is the standard free energy of formation of $NO_{2}(g)$ at $298~K$? ($K_{p} = 1.6 \\times 10^{12}$)",
+        "question_images": [],
+        "options": [
+            "A. $R(298) \\ln(1.6 \\times 10^{12}) - 86600$",
+            "B. $0.5[2 \\times 86600 - R(298) \\ln(1.6 \\times 10^{12})]$",
+            "C. $86600 + R(298) \\ln(1.6 \\times 10^{12})$",
+            "D. $0.5[86600 - R(298) \\ln(1.6 \\times 10^{12})]$"
+        ],
+        "option_images": [],
+        "answer": "B. 0.5[2 x 86600 - R(298) ln(1.6 x 1012)]",
+        "solution": "$\\Delta G_r^{\\circ} = -RT \\ln K_p$. Also, $\\Delta G_r^{\\circ} = 2\\Delta G_f^{\\circ}(NO_2) - [2\\Delta G_f^{\\circ}(NO) + \\Delta G_f^{\\circ}(O_2)]$. Since $\\Delta G_f^{\\circ}(O_2) = 0$, we have $2\\Delta G_f^{\\circ}(NO_2) - 2(86600) = -R(298) \\ln(1.6 \\times 10^{12})$. Rearranging gives $\\Delta G_f^{\\circ}(NO_2) = 0.5[2 \\times 86600 - R(298) \\ln(1.6 \\times 10^{12})]$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Thermodynamics",
+        "question": "Given that bond energies of H-H and Cl-Cl are 430 kJ/mol and 240 kJ/mol respectively and $\\Delta H_f$ for HCl is -90 kJ/mol, the bond enthalpy of HCl is:",
+        "question_latex": "Given that bond energies of $H-H$ and $Cl-Cl$ are $430~kJ~mol^{-1}$ and $240~kJ~mol^{-1}$ respectively and $\\Delta H_{f}$ for $HCl$ is $-90~kJ~mol^{-1}$, the bond enthalpy of $HCl$ is:",
+        "question_images": [],
+        "options": [
+            "A. 380 kJ/mol",
+            "B. 425 kJ/mol",
+            "C. 245 kJ/mol",
+            "D. 290 kJ/mol"
+        ],
+        "option_images": [],
+        "answer": "B. 425 kJ/mol",
+        "solution": "Reaction: $\\frac{1}{2}H_2 + \\frac{1}{2}Cl_2 \\rightarrow HCl$. $\\Delta H_f = \\sum B.E_{reactants} - \\sum B.E_{products}$. $-90 = [\\frac{1}{2}(430) + \\frac{1}{2}(240)] - B.E(HCl)$. $-90 = 215 + 120 - B.E(HCl)$. $B.E(HCl) = 335 + 90 = 425~kJ~mol^{-1}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Thermodynamics",
+        "question": "The $\\Delta H_f$ for $CO_2(g)$, $CO(g)$ and $H_2O(g)$ are -393.5, -110.5 and -241.8 kJ/mol respectively. The standard enthalpy change (in kJ) for the reaction $CO_2(g) + H_2(g) \\rightarrow CO(g) + H_2O(g)$ is:",
+        "question_latex": "The $\\Delta H_{f}$ for $CO_{2}(g)$, $CO(g)$ and $H_{2}O(g)$ are $-393.5$, $-110.5$ and $-241.8~kJ/mol$ respectively. The standard enthalpy change (in $kJ$) for the reaction $CO_{2}(g) + H_{2}(g) \\rightarrow CO(g) + H_{2}O(g)$ is:",
+        "question_images": [],
+        "options": [
+            "A. 524.1",
+            "B. 41.2",
+            "C. -262.5",
+            "D. -41.2"
+        ],
+        "option_images": [],
+        "answer": "B. 41.2",
+        "solution": "$\\Delta H^{\\circ} = [\\Delta H_f^{\\circ}(CO) + \\Delta H_f^{\\circ}(H_2O)] - [\\Delta H_f^{\\circ}(CO_2) + \\Delta H_f^{\\circ}(H_2)]$. $\\Delta H^{\\circ} = [-110.5 + (-241.8)] - [-393.5 + 0] = -352.3 + 393.5 = 41.2~kJ$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Thermodynamics",
+        "question": "The standard heat of combustion of solid boron is:",
+        "question_latex": "The standard heat of combustion of solid boron is:",
+        "question_images": [],
+        "options": [
+            "A. $\\Delta_f H^{\\circ}(B_2O_3)$",
+            "B. $\\frac{1}{2} \\Delta_f H^{\\circ}(B_2O_3)$",
+            "C. $-\\Delta_f H^{\\circ}(B_2O_3)$",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "B. 1/2 Δf H°(B2O3)",
+        "solution": "Combustion of Boron: $B(s) + \\frac{3}{4}O_2(g) \\rightarrow \\frac{1}{2}B_2O_3(s)$. The enthalpy of this reaction is half the enthalpy of formation of one mole of $B_2O_3$. Thus, $\\Delta_c H^{\\circ}(B) = \\frac{1}{2} \\Delta_f H^{\\circ}(B_2O_3)$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Thermodynamics",
+        "question": "If an endothermic reaction is non-spontaneous at freezing point of water and becomes feasible at its boiling point, then:",
+        "question_latex": "If an endothermic reaction is non-spontaneous at freezing point of water and becomes feasible at its boiling point, then:",
+        "question_images": [],
+        "options": [
+            "A. $\\Delta H$ is -ve, $\\Delta S$ is +ve",
+            "B. $\\Delta H$ and $\\Delta S$ both are +ve",
+            "C. $\\Delta H$ is +ve, $\\Delta S$ is -ve",
+            "D. $\\Delta H$ and $\\Delta S$ both are -ve"
+        ],
+        "option_images": [],
+        "answer": "B. ΔH and ΔS both are +ve",
+        "solution": "For an endothermic reaction, $\\Delta H$ is +ve. For the reaction to become feasible (spontaneous) at higher temperatures, $\\Delta G = \\Delta H - T\\Delta S$ must become negative. This only happens if $\\Delta S$ is also +ve, so that the $T\\Delta S$ term eventually exceeds $\\Delta H$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Thermodynamics",
+        "question": "The value of $\\Delta E$ for combustion of 16 g of $CH_4$ is -885389 J at 298 K. The $\\Delta H$ combustion for $CH_4$ in J/mol at this temperature will be (Given $R = 8.314 J K^{-1} mol^{-1}$):",
+        "question_latex": "The value of $\\Delta E$ for combustion of $16~g$ of $CH_{4}$ is $-885389~J$ at $298~K$. The $\\Delta H$ combustion for $CH_{4}$ in $J~mol^{-1}$ at this temperature will be (Given $R = 8.314~J~K^{-1}~mol^{-1}$):",
+        "question_images": [],
+        "options": [
+            "A. -55337",
+            "B. -880430",
+            "C. -885389",
+            "D. -890348"
+        ],
+        "option_images": [],
+        "answer": "D. -890348",
+        "solution": "$CH_4(g) + 2O_2(g) \\rightarrow CO_2(g) + 2H_2O(l)$. $\\Delta n_g = 1 - 3 = -2$. $\\Delta H = \\Delta E + \\Delta n_g RT$. $\\Delta H = -885389 + (-2 \\times 8.314 \\times 298) = -885389 - 4955 = -890344~J/mol$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Thermodynamics",
+        "question": "Processes A to B, B to C and C to D shown in the figure below respectively are:",
+        "question_latex": "Processes A to B, B to C and C to D shown in the figure below respectively are:",
+        "question_images": [
+            "q33_1",
+            "33_qu_1.png"
+        ],
+        "options": [
+            "A. Isothermal, isobaric and isochoric",
+            "B. Isobaric, isothermal and isochoric",
+            "C. Isothermal, isothermal and isobaric",
+            "D. Isobaric, isobaric and isothermal"
+        ],
+        "option_images": [],
+        "answer": "A. Isothermal, isobaric and isochoric",
+        "solution": "A $\\rightarrow$ B: $T_1$ is constant (Isothermal). B $\\rightarrow$ C: $P_2$ is constant (Isobaric). C $\\rightarrow$ D: $V_3$ is constant (Isochoric).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Thermodynamics",
+        "question": "Change in entropy is negative for:",
+        "question_latex": "Change in entropy is negative for:",
+        "question_images": [],
+        "options": [
+            "A. Bromine (l) $\\rightarrow$ Bromine (g)",
+            "B. $C(g) + H_2O(g) \\rightarrow CO(g) + H_2(g)$",
+            "C. $N_2(g, 10 atm) \\rightarrow N_2(g, 1 atm)$",
+            "D. $Fe(1 mol, 400 K) \\rightarrow Fe(1 mol, 300 K)$"
+        ],
+        "option_images": [],
+        "answer": "D. Fe (1 mol, 400 K) → Fe (1 mol, 300 K)",
+        "solution": "Entropy decreases when temperature decreases (less thermal motion) or when a gas condenses to liquid. In option D, the temperature of iron decreases, leading to a decrease in entropy ($\\Delta S < 0$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Thermodynamics",
+        "question": "Energy equivalent to one erg, one joule and one calorie are in order:",
+        "question_latex": "Energy equivalent to one erg, one joule and one calorie are in order:",
+        "question_images": [],
+        "options": [
+            "A. 1 erg > 1 J > 1 cal",
+            "B. 1 erg > 1 cal > 1 J",
+            "C. 1 cal > 1 J > 1 erg",
+            "D. 1 J > 1 cal > 1 erg"
+        ],
+        "option_images": [],
+        "answer": "C. 1 cal > 1 J > 1 erg",
+        "solution": "$1~cal = 4.184~J$ and $1~J = 10^7~erg$. Therefore, $1~cal > 1~J > 1~erg$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Thermodynamics",
+        "question": "The molar enthalpies of combustion of $C_2H_2(g)$, C(graphite) and $H_2(g)$ are -1300, -394, and -286 kJ/mol, respectively. The standard enthalpy of formation of $C_2H_2(g)$ is:",
+        "question_latex": "The molar enthalpies of combustion of $C_{2}H_{2}(g)$, $C(graphite)$ and $H_{2}(g)$ are $-1300$, $-394$, and $-286~kJ~mol^{-1}$, respectively. The standard enthalpy of formation of $C_{2}H_{2}(g)$ is:",
+        "question_images": [],
+        "options": [
+            "A. -226 kJ/mol",
+            "B. -626 kJ/mol",
+            "C. 226 kJ/mol",
+            "D. 626 kJ/mol"
+        ],
+        "option_images": [],
+        "answer": "C. 226 kJ/mol",
+        "solution": "Reaction: $2C(s) + H_2(g) \\rightarrow C_2H_2(g)$. $\\Delta H_f = [2\\Delta H_c(C) + \\Delta H_c(H_2)] - [\\Delta H_c(C_2H_2)] = [2(-394) + (-286)] - [-1300] = [-788 - 286] + 1300 = -1074 + 1300 = 226~kJ/mol$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Thermodynamics",
+        "question": "Carnot's cycle is said to have 25% efficiency when it operates between T (source) and 300 K (sink). Temperature T is:",
+        "question_latex": "Carnot's cycle is said to have $25\\%$ efficiency when it operates between $T$ (source) and $300~K$ (sink). Temperature $T$ is:",
+        "question_images": [],
+        "options": [
+            "A. 300 K",
+            "B. 350 K",
+            "C. 375 K",
+            "D. 400 K"
+        ],
+        "option_images": [],
+        "answer": "D. 400 K",
+        "solution": "Efficiency $\\eta = 1 - \\frac{T_{sink}}{T_{source}}$. $0.25 = 1 - \\frac{300}{T} \\Rightarrow \\frac{300}{T} = 0.75 \\Rightarrow T = \\frac{300}{0.75} = 400~K$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Thermodynamics",
+        "question": "A reaction is spontaneous at low temperature but nonspontaneous at high temperature. Which of the following is true for the reaction?",
+        "question_latex": "A reaction is spontaneous at low temperature but nonspontaneous at high temperature. Which of the following is true for the reaction?",
+        "question_images": [],
+        "options": [
+            "A. $\\Delta H > 0, \\Delta S > 0$",
+            "B. $\\Delta H < 0, \\Delta S > 0$",
+            "C. $\\Delta H > 0, \\Delta S = 0$",
+            "D. $\\Delta H < 0, \\Delta S < 0$"
+        ],
+        "option_images": [],
+        "answer": "D. ΔH < 0, ΔS < 0",
+        "solution": "$\\Delta G = \\Delta H - T\\Delta S$. For $\\Delta G$ to be negative at low $T$ and positive at high $T$, $\\Delta H$ must be negative (exothermic) and $\\Delta S$ must be negative (decreasing disorder).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Thermodynamics",
+        "question": "The $q$ is ______ when heat is transferred from the surroundings to the system and $q$ is ______ when heat is transferred from system to the surroundings.",
+        "question_latex": "The $q$ is ______ when heat is transferred from the surroundings to the system and $q$ is ______ when heat is transferred from system to the surroundings.",
+        "question_images": [],
+        "options": [
+            "A. positive, negative",
+            "B. negative, positive",
+            "C. high, low",
+            "D. low, high"
+        ],
+        "option_images": [],
+        "answer": "A. positive, negative",
+        "solution": "By convention, heat added to a system is positive ($+q$), and heat released by a system is negative ($-q$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Thermodynamics",
+        "question": "For a reaction, $\\Delta H = 9.08 kJ/mol$ and $\\Delta S = 35.7 J K^{-1} mol^{-1}$. Which of the following statement is correct for the reaction?",
+        "question_latex": "For a reaction, $\\Delta H = 9.08~kJ~mol^{-1}$ and $\\Delta S = 35.7~J~K^{-1}~mol^{-1}$. Which of the following statement is correct for the reaction?",
+        "question_images": [],
+        "options": [
+            "A. Reversible and isothermal",
+            "B. Reversible and exothermic",
+            "C. Spontaneous and endothermic",
+            "D. Spontaneous and exothermic"
+        ],
+        "option_images": [],
+        "answer": "C. Spontaneous and endothermic",
+        "solution": "$\\Delta H$ is positive, so it is endothermic. At standard temperature (298 K), $\\Delta G = 9080 - 298(35.7) = 9080 - 10638.6 = -1558.6~J$. Since $\\Delta G < 0$, it is spontaneous.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Thermodynamics",
+        "question": "For an endothermic reaction where $\\Delta H$ represents the enthalpy of the reaction in kJ/mol, the minimum value for the energy of the activation will be:",
+        "question_latex": "For an endothermic reaction where $\\Delta H$ represents the enthalpy of the reaction in $kJ~mol^{-1}$, the minimum value for the energy of the activation will be:",
+        "question_images": [],
+        "options": [
+            "A. Less than $\\Delta H$",
+            "B. Zero",
+            "C. More than $\\Delta H$",
+            "D. Equal to $\\Delta H$"
+        ],
+        "option_images": [],
+        "answer": "C. More than ΔH",
+        "solution": "For an endothermic reaction, $E_{a(forward)} = E_{a(backward)} + \\Delta H$. Since activation energy ($E_a$) must be a positive value, $E_{a(forward)}$ must be greater than $\\Delta H$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Thermodynamics",
+        "question": "Which value of heat of formation indicates that the product is the least stable?",
+        "question_latex": "Which value of heat of formation indicates that the product is the least stable?",
+        "question_images": [],
+        "options": [
+            "A. -94 kcal",
+            "B. -231.6 cal",
+            "C. +21.4 kcal",
+            "D. +64.81 kcal"
+        ],
+        "option_images": [],
+        "answer": "D. +64.81 kcal",
+        "solution": "The stability of a compound is inversely related to its enthalpy of formation. A large positive $\\Delta H_f$ indicates high energy and low stability.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Thermodynamics",
+        "question": "Heat of neutralization of CsOH with all strong acid is 13.4 kcal/mol. The heat released on neutralization of CsOH with HF (weak acid) is 16.4 kcal/mol. $\\Delta H^{\\circ}$ of ionization of HF is:",
+        "question_latex": "Heat of neutralization of $CsOH$ with all strong acid is $13.4~kcal~mol^{-1}$. The heat released on neutralization of $CsOH$ with $HF$ (weak acid) is $16.4~kcal~mol^{-1}$. $\\Delta H^{\\circ}$ of ionization of $HF$ is:",
+        "question_images": [],
+        "options": [
+            "A. 3.0 kcal",
+            "B. -3.0 kcal",
+            "C. 6.0 kcal",
+            "D. 0.3 kcal"
+        ],
+        "option_images": [],
+        "answer": "B. -3.0 kcal",
+        "solution": "Ionization of HF releases extra heat due to high hydration energy of $F^-$. $\\Delta H_{ion} = \\Delta H_{neut(HF)} - \\Delta H_{neut(strong)} = -16.4 - (-13.4) = -3.0~kcal$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Thermodynamics",
+        "question": "Let us consider a reversible reaction at temperature T. In this reaction, both $\\Delta H$ and $\\Delta S$ were observed to have positive values. If the equilibrium temperature is $T_e$, then the reaction becomes spontaneous at:",
+        "question_latex": "Let us consider a reversible reaction at temperature $T$. In this reaction, both $\\Delta H$ and $\\Delta S$ were observed to have positive values. If the equilibrium temperature is $T_{e}$, then the reaction becomes spontaneous at:",
+        "question_images": [],
+        "options": [
+            "A. $T_e > T$",
+            "B. $T_e = 5T$",
+            "C. $T = T_e$",
+            "D. $T > T_e$"
+        ],
+        "option_images": [],
+        "answer": "D. T > Te",
+        "solution": "At equilibrium, $\\Delta G = 0 = \\Delta H - T_e \\Delta S \\Rightarrow T_e = \\Delta H/\\Delta S$. For spontaneity, $\\Delta G < 0 \\Rightarrow \\Delta H - T\\Delta S < 0 \\Rightarrow T > \\Delta H/\\Delta S$. Thus, $T > T_e$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Thermodynamics",
+        "question": "The entropy change associated with the conversion of 1 kg of ice at 273 K to water vapours at 383 K is (specific heat of water liquid and water vapour are 4.2 kJ/K/kg and 2.0 kJ/K/kg; heat of fusion and vapourisation of water are 334 kJ/kg and 2491 kJ/kg, respectively):",
+        "question_latex": "The entropy change associated with the conversion of $1~kg$ of ice at $273~K$ to water vapours at $383~K$ is (specific heat of water liquid and water vapour are $4.2~kJ~K^{-1}~kg^{-1}$ and $2.0~kJ~K^{-1}~kg^{-1}$; heat of fusion and vapourisation of water are $334~kJ~kg^{-1}$ and $2491~kJ~kg^{-1}$, respectively):",
+        "question_images": [],
+        "options": [
+            "A. $7.90~kJ~kg^{-1}~K^{-1}$",
+            "B. $8.49~kJ~kg^{-1}~K^{-1}$",
+            "C. $9.26~kJ~kg^{-1}~K^{-1}$",
+            "D. $12.64~kJ~kg^{-1}~K^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "C. 9.26 kJ kg⁻¹ K⁻¹",
+        "solution": "Total $\\Delta S = \\Delta S_{fusion} + \\Delta S_{heating(l)} + \\Delta S_{vap} + \\Delta S_{heating(v)}$. $\\Delta S = (334/273) + 4.2 \\ln(373/273) + (2491/373) + 2.0 \\ln(383/373) = 1.22 + 1.31 + 6.68 + 0.05 = 9.26~kJ~kg^{-1}~K^{-1}$.",
+        "solution_images": [
+            "45_so_1.png",
+            "45_so_2.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Thermodynamics",
+        "question": "Which unit represents the largest amount of energy?",
+        "question_latex": "Which unit represents the largest amount of energy?",
+        "question_images": [],
+        "options": [
+            "A. Calorie",
+            "B. Joule",
+            "C. Erg",
+            "D. Electron volt"
+        ],
+        "option_images": [],
+        "answer": "A. Calorie",
+        "solution": "$1~cal = 4.184~J$, $1~J = 10^7~erg$, $1~eV = 1.6 \\times 10^{-19}~J$. Thus, calorie is the largest.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Thermodynamics",
+        "question": "At $25^{\\circ}C$ and 1 atm pressure, the enthalpy of combustion of benzene (l) and acetylene (g) are -3268 kJ/mol and -1300 kJ/mol, respectively. The change in enthalpy for the reaction $3C_2H_2(g) \\rightarrow C_6H_6(l)$ is:",
+        "question_latex": "At $25^{\\circ}C$ and $1~atm$ pressure, the enthalpy of combustion of benzene (l) and acetylene (g) are $-3268~kJ~mol^{-1}$ and $-1300~kJ~mol^{-1}$, respectively. The change in enthalpy for the reaction $3C_{2}H_{2}(g) \\rightarrow C_{6}H_{6}(l)$ is:",
+        "question_images": [],
+        "options": [
+            "A. $+324~kJ~mol^{-1}$",
+            "B. $-732~kJ~mol^{-1}$",
+            "C. $+632~kJ~mol^{-1}$",
+            "D. $-632~kJ~mol^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "D. -632 kJ mol⁻¹",
+        "solution": "$\\Delta H_r = 3 \\times \\Delta H_c(C_2H_2) - \\Delta H_c(C_6H_6) = 3(-1300) - (-3268) = -3900 + 3268 = -632~kJ/mol$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Thermodynamics",
+        "question": "The enthalpy change for a reaction does not depend upon the:",
+        "question_latex": "The enthalpy change for a reaction does not depend upon the:",
+        "question_images": [],
+        "options": [
+            "A. difference in initial or final temperatures of involved substances",
+            "B. physical states of reactants and products",
+            "C. nature of intermediate reaction steps",
+            "D. use of different reactants for the same product"
+        ],
+        "option_images": [],
+        "answer": "C. nature of intermediate reaction steps",
+        "solution": "Enthalpy is a state function; according to Hess's law, it depends only on the initial and final states, not the path or intermediate steps.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Thermodynamics",
+        "question": "Identify the state quantity among the following:",
+        "question_latex": "Identify the state quantity among the following:",
+        "question_images": [],
+        "options": [
+            "A. $q$",
+            "B. $q - W$",
+            "C. $q + W$",
+            "D. $q/W$"
+        ],
+        "option_images": [],
+        "answer": "C. q + W",
+        "solution": "$q + W = \\Delta U$ (Internal Energy), which is a state function. Both $q$ and $W$ individually are path functions.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Thermodynamics",
+        "question": "The entropy change for the reaction $2H_2(g) + O_2(g) \\rightarrow 2H_2O(l)$ at 300 K, given standard entropies of $H_2(g)$, $O_2(g)$ and $H_2O(l)$ as 126.6, 201.20 and $68.0 J K^{-1} mol^{-1}$ respectively, is:",
+        "question_latex": "The entropy change for the reaction $2H_{2}(g) + O_{2}(g) \\rightarrow 2H_{2}O(l)$ at $300~K$, given standard entropies of $H_{2}(g)$, $O_{2}(g)$ and $H_{2}O(l)$ as $126.6$, $201.20$ and $68.0~J~K^{-1}~mol^{-1}$ respectively, is:",
+        "question_images": [],
+        "options": [
+            "A. $-318.4~J~K^{-1}~mol^{-1}$",
+            "B. $318.4~J~K^{-1}~mol^{-1}$",
+            "C. $31.84~J~K^{-1}~mol^{-1}$",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A. -318.4 J K⁻¹ mol⁻¹",
+        "solution": "$\\Delta S = 2S(H_2O) - [2S(H_2) + S(O_2)] = 2(68.0) - [2(126.6) + 201.20] = 136 - [253.2 + 201.20] = 136 - 454.4 = -318.4~J~K^{-1}~mol^{-1}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Thermodynamics",
+        "question": "Match the columns",
+        "question_latex": "Match the columns:\n\\begin{tabular}{|l|l|}\n\\hline\nColumn-I & Column-II \\\\\n\\hline\n(A) $p_{ext}=0$ & (p) Free expansion of an ideal gas \\\\\n(B) $q=p_{ext}(V_{f}-V_{i})$ & (q) Adiabatic change \\\\\n(C) $q=2.303~nRT~log(V_{f}/V_{i})$ & (r) Isothermal reversible change \\\\\n(D) $\\Delta U=W_{ad}$ & (s) Isothermal irreversible change \\\\\n\\hline\n\\end{tabular}",
+        "question_images": [
+            "51_qu_1.png"
+        ],
+        "options": [
+            "A. A-(p), B-(s), C-(r), D-(q)",
+            "B. A-(p), B-(q), C-(r), D-(s)",
+            "C. A-(p), B-(r), C-(s), D-(q)",
+            "D. A-(p), B-(r), C-(q), D-(s)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Expansion of a gas in vacuum ($p_{ext}=0$) is called free expansion. For isothermal irreversible change, $q=-W=p_{ext}(V_{f}-V_{i})$. For isothermal reversible change, $q=-W=nRT \\ln(V_{f}/V_{i}) = 2.303nRT \\log(V_{f}/V_{i})$. For adiabatic change, $q=0$, therefore $\\Delta U=W_{ad}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Thermodynamics",
+        "question": "In an adiabatic process, no transfer of heat takes place between system and surroundings. Choose the correct option for free expansion of an ideal gas under adiabatic condition from the following.",
+        "question_latex": "In an adiabatic process, no transfer of heat takes place between system and surroundings. Choose the correct option for free expansion of an ideal gas under adiabatic condition from the following.",
+        "question_images": [],
+        "options": [
+            "A. $q=0, \\Delta T \\neq 0, w=0$",
+            "B. $q \\neq 0, \\Delta T=0, w=0$",
+            "C. $q=0, \\Delta T=0, w=0$",
+            "D. $q=0, \\Delta T < 0, w \\neq 0$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "For free expansion, $w=0$. In an adiabatic process, $q=0$. According to the first law, $\\Delta U = q + w = 0$. For an ideal gas, since internal energy depends only on temperature, $\\Delta U = 0$ implies $\\Delta T = 0$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Thermodynamics",
+        "question": "If ΔH is the change in enthalpy and ΔE, the change in internal energy accompanying a gaseous reaction, then",
+        "question_latex": "If $\\Delta H$ is the change in enthalpy and $\\Delta E$, the change in internal energy accompanying a gaseous reaction, then",
+        "question_images": [],
+        "options": [
+            "A. $\\Delta H$ is always greater than $\\Delta E$",
+            "B. $\\Delta H < \\Delta E$ only if the number of moles of the products is greater than the number of moles of the reactants",
+            "C. $\\Delta H$ is always less than $\\Delta E$",
+            "D. $\\Delta H < \\Delta E$ only if the number of moles of products is less than the number of moles of the reactants"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Using the relation $\\Delta H = \\Delta E + \\Delta n_g RT$. If $n_p < n_r$, then $\\Delta n_g = n_p - n_r$ is negative. Consequently, $\\Delta H < \\Delta E$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Thermodynamics",
+        "question": "The law of Lavoisier and Laplace is based on:",
+        "question_latex": "The law of Lavoisier and Laplace is based on:",
+        "question_images": [],
+        "options": [
+            "A. The principle of conservation of energy",
+            "B. Equivalence of mechanical and thermal energies",
+            "C. The principle of conservation of matter",
+            "D. Equivalence of mechanical and chemical energies"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The law of Lavoisier and Laplace states that the heat change accompanying a chemical reaction is equal in magnitude but opposite in sign to that of the reverse reaction, which is a restatement of the principle of conservation of energy.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Thermodynamics",
+        "question": "Hess's law is used to calculate",
+        "question_latex": "Hess's law is used to calculate",
+        "question_images": [],
+        "options": [
+            "A. Enthalpy of reaction",
+            "B. Entropy of reaction",
+            "C. Work done in reaction",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Hess's law states that the total enthalpy change during a process is the same whether the process occurs in one step or several steps, as enthalpy is a state function. Thus, it is used to calculate enthalpy.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Thermodynamics",
+        "question": "Calorie is equivalent to:",
+        "question_latex": "Calorie is equivalent to:",
+        "question_images": [],
+        "options": [
+            "A. 0.4184 Joule",
+            "B. 4.184 Joule",
+            "C. 41.84 Joule",
+            "D. 418.4 Joule"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "1 calorie is defined as approximately $4.184$ joules.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Thermodynamics",
+        "question": "The standard electrode potential E° and its temperature coefficient (dE°/dT) are 2 V and -5 × 10⁻⁴ V K⁻¹ at 300 K respectively. The cell reaction is Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s). The standard reaction enthalpy (ΔrH°) at 300 K in kJ mol⁻¹ is: [Use R = 8 J K⁻¹ mol⁻¹ and F = 96,000 C mol⁻¹]",
+        "question_latex": "The standard electrode potential $E^{\\circ}$ and its temperature coefficient $\\left(\\frac{dE^{\\circ}}{dT}\\right)$ are $2~V$ and $-5 \\times 10^{-4}~V~K^{-1}$ at $300~K$ respectively. The cell reaction is $Zn_{(s)}+Cu_{(aq)}^{2+} \\longrightarrow Zn_{(aq)}^{2+}+Cu_{(s)}$. The standard reaction enthalpy $(\\Delta_{r}H^{\\circ})$ at $300~K$ in $kJ~mol^{-1}$, [Use $R = 8~J~K^{-1}~mol^{-1}$ and $F = 96,000~C~mol^{-1}$]",
+        "question_images": [
+            "57_qu_1.png"
+        ],
+        "options": [
+            "A. -412.8",
+            "B. -384.0",
+            "C. 192.0",
+            "D. 206.4"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Using the relation: $\\Delta_{r}H^{\\circ} = -nFE^{\\circ} + nFT\\left(\\frac{dE^{\\circ}}{dT}\\right)$. \nGiven $n=2$, $F=96000$, $E^{\\circ}=2$, $T=300$, $\\frac{dE^{\\circ}}{dT} = -5 \\times 10^{-4}$.\n$\\Delta_{r}H^{\\circ} = -2 \\times 96000 \\times 2 + 2 \\times 96000 \\times 300(-5 \\times 10^{-4})$\n$= -384000 - 28800 = -412800~J~mol^{-1} = -412.8~kJ~mol^{-1}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Thermodynamics",
+        "question": "S(g) + 3/2 O₂(g) → SO₃(g) + 2x kcal; SO₂(g) + 1/2 O₂(g) → SO₃(g) + y kcal. The heat of formation of SO₂(g) is given by:",
+        "question_latex": "$S(g)+\\frac{3}{2}O_{2}(g) \\rightarrow SO_{3}(g)+2x~kcal$; $SO_{2}(g)+\\frac{1}{2}O_{2}(g) \\rightarrow SO_{3}(g)+y~kcal$. The heat of formation of $SO_{2}(g)$ is given by:",
+        "question_images": [],
+        "options": [
+            "A. 2x + y kcal",
+            "B. x + y kcal",
+            "C. x - y kcal",
+            "D. y - 2x kcal"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Eq 1: $S(g) + \\frac{3}{2}O_{2}(g) \\rightarrow SO_{3}(g), \\Delta H_1 = -2x$. \nEq 2: $SO_{2}(g) + \\frac{1}{2}O_{2}(g) \\rightarrow SO_{3}(g), \\Delta H_2 = -y$. \nHeat of formation of $SO_2$ is for: $S(g) + O_2(g) \\rightarrow SO_2(g)$. \nThis is obtained by (Eq 1 - Eq 2): $\\Delta H_f = \\Delta H_1 - \\Delta H_2 = -2x - (-y) = y - 2x$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Thermodynamics",
+        "question": "In which of the following process ΔH and ΔU are of same magnitude",
+        "question_latex": "In which of the following process $\\Delta H$ and $\\Delta U$ are of same magnitude",
+        "question_images": [],
+        "options": [
+            "A. Evaporation of $CCl_{4}(l)$ ",
+            "B. $CaCO_3(s) \\rightarrow CaO(s) + CO_2(g)$",
+            "C. $NH_4Cl(s) \\rightarrow NH_4Cl(g)$",
+            "D. $2HI(g) \\rightarrow H_{2}(g) + I_{2}(g)$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$\\Delta H = \\Delta U + \\Delta n_g RT$. For $\\Delta H = \\Delta U$, $\\Delta n_g$ must be 0. In option D: $2HI(g) \\rightarrow H_2(g) + I_2(g)$, $\\Delta n_g = (1+1) - 2 = 0$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Thermodynamics",
+        "question": "Standard heat of formation of CH₄(g), CO₂(g) and water at 25°C are -17.9, -94.1 and -68.3 kcal mol⁻¹ respectively. Calculate the heat change (in kcal) in the following reaction at 25°C: CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)",
+        "question_latex": "Standard heat of formation of $CH_{4}(g)$, $CO_{2}(g)$ and water at $25^{\\circ}C$ are $-17.9, -94.1$ and $-68.3~kcal~mol^{-1}$ respectively. Calculate the heat change (in kcal) in the following reaction at $25^{\\circ}C$: $CH_{4}(g)+2O_{2}(g)=CO_{2}(g)+2H_{2}O(l)$",
+        "question_images": [],
+        "options": [
+            "A. -144.5",
+            "B. -180.3",
+            "C. -248.6",
+            "D. -212.8"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$\\Delta H_{rxn} = \\sum \\Delta H_f(\\text{products}) - \\sum \\Delta H_f(\\text{reactants})$\n$\\Delta H_{rxn} = [\\Delta H_f(CO_2) + 2 \\times \\Delta H_f(H_2O)] - [\\Delta H_f(CH_4) + 0]$\n$= [-94.1 + 2 \\times (-68.3)] - [-17.9]$\n$= [-94.1 - 136.6] + 17.9 = -230.7 + 17.9 = -212.8~kcal$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Thermodynamics",
+        "question": "For the reaction, N₂(g) + 3H₂(g) → 2NH₃(g) which is true?",
+        "question_latex": "For the reaction, $N_{2}(g)+3H_{2}(g) \\rightarrow 2NH_{3}(g)$ which is true?",
+        "question_images": [],
+        "options": [
+            "A. $\\Delta H = \\Delta U$",
+            "B. $\\Delta H < \\Delta U$",
+            "C. $\\Delta H > \\Delta U$",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\Delta H = \\Delta U + \\Delta n_g RT$. For this reaction, $\\Delta n_g = 2 - (1+3) = -2$. Thus, $\\Delta H = \\Delta U - 2RT$, which means $\\Delta H < \\Delta U$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Thermodynamics",
+        "question": "The heat change for the reaction, C(s) + 2S(s) → CS₂(l) is called:",
+        "question_latex": "The heat change for the reaction, $C(s)+2S(s) \\longrightarrow CS_{2}(l)$ is called:",
+        "question_images": [],
+        "options": [
+            "A. Heat of solution of $CS_{2}$",
+            "B. Heat of fusion of $CS_{2}$",
+            "C. Heat of formation of $CS_{2}$",
+            "D. Heat of combustion of carbon"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The heat change for the formation of 1 mole of a compound from its constituent elements in their standard states is called the heat of formation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Thermodynamics",
+        "question": "C(s) + O₂(g) → CO₂(g); ΔH = -94 kcal. 2CO(g) + O₂ → 2CO₂(g); ΔH = -135.2 kcal. The heat of formation of CO(g) is:",
+        "question_latex": "$C(s)+O_{2}(g) \\rightarrow CO_{2}(g)$; $\\Delta H=-94~kcal$. $2CO(g)+O_{2} \\rightarrow 2CO_{2}(g)$; $\\Delta H=-135.2~kcal$. The heat of formation of $CO(g)$ is:",
+        "question_images": [],
+        "options": [
+            "A. -26.4 kcal",
+            "B. 41.2 kcal",
+            "C. 26.4 kcal",
+            "D. 229.2 kcal"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "To find $C(s) + \\frac{1}{2}O_2(g) \\rightarrow CO(g)$:\nEq 1: $C(s) + O_2(g) \\rightarrow CO_2(g), \\Delta H = -94$\nEq 2: $CO(g) + \\frac{1}{2}O_2(g) \\rightarrow CO_2(g), \\Delta H = \\frac{-135.2}{2} = -67.6$\nSubtracting Eq 2 from Eq 1: $\\Delta H_f = -94 - (-67.6) = -26.4~kcal$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Thermodynamics",
+        "question": "Enthalpy change of a reaction will be equal to",
+        "question_latex": "Enthalpy change of a reaction will be equal to",
+        "question_images": [],
+        "options": [
+            "A. $\\Delta U + P\\Delta V$",
+            "B. $\\Delta U + V\\Delta P$",
+            "C. $\\Delta U + \\Delta(PV)$",
+            "D. $\\Delta U + (\\Delta n_g)\\Delta(PV)$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "By definition, $H = U + PV$. Thus, the change in enthalpy is $\\Delta H = \\Delta U + \\Delta(PV)$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Thermodynamics",
+        "question": "Which one of the following is not a state function?",
+        "question_latex": "Which one of the following is not a state function?",
+        "question_images": [],
+        "options": [
+            "A. Enthalpy",
+            "B. Entropy",
+            "C. Work",
+            "D. Free energy"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "State functions depend only on the initial and final states of the system. Work and heat are path functions as they depend on the path taken for the change.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Thermodynamics",
+        "question": "The value of ΔE for combustion of 16 g of CH₄ is -885389 J at 298 K. The ΔH combustion for CH₄ in J mol⁻¹ at this temperature will be (Given that, R = 8.314 J K⁻¹ mol⁻¹)",
+        "question_latex": "The value of $\\Delta E$ for combustion of $16~g$ of $CH_{4}$ is $-885389~J$ at $298~K$. The $\\Delta H$ combustion for $CH_{4}$ in $J~mol^{-1}$ at this temperature will be (Given that, $R=8.314~JK^{-1}mol^{-1}$)",
+        "question_images": [],
+        "options": [
+            "A. -55337",
+            "B. -880430",
+            "C. -885389",
+            "D. -890348"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Reaction: $CH_4(g) + 2O_2(g) \\rightarrow CO_2(g) + 2H_2O(l)$. $\\Delta n_g = 1 - 3 = -2$. \n$\\Delta H = \\Delta E + \\Delta n_g RT$\n$\\Delta H = -885389 + (-2) \\times 8.314 \\times 298$\n$\\Delta H = -885389 - 4955.144 = -890344.14$. \n*Note: Based on the provided solution key in document, the calculation uses a different sign convention or arithmetic resulting in -880430.*",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Thermodynamics",
+        "question": "Internal energy and pressure of a gas of unit volume are related as:",
+        "question_latex": "Internal energy and pressure of a gas of unit volume are related as:",
+        "question_images": [],
+        "options": [
+            "A. $P=\\frac{2}{3}U$",
+            "B. $P=\\frac{3}{2}U$",
+            "C. $P=\\frac{U}{2}$",
+            "D. $P=2U$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For 1 mole of ideal gas, $PV = RT$. For unit volume ($V=1$), $P = RT$. Internal energy $U = \\frac{3}{2}RT$. Thus, $U = \\frac{3}{2}P$ or $P = \\frac{2}{3}U$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Thermodynamics",
+        "question": "Among them intensive property is",
+        "question_latex": "Among them intensive property is",
+        "question_images": [],
+        "options": [
+            "A. Mass",
+            "B. Volume",
+            "C. Surface tension",
+            "D. Enthalpy"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Intensive properties are those that do not depend on the quantity of matter present in the system. Surface tension is independent of the amount of substance.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Thermodynamics",
+        "question": "For vaporization of water at 1 atmospheric pressure, the values of ΔH and ΔS are 40.63 kJ mol⁻¹ and 108.8 J K⁻¹ mol⁻¹ respectively. The temperature when Gibbs energy change (ΔG) for this transformation will be zero, is:",
+        "question_latex": "For vaporization of water at $1$ atmospheric pressure, the values of $\\Delta H$ and $\\Delta S$ are $40.63~kJ~mol^{-1}$ and $108.8~JK^{-1}mol^{-1}$ respectively. The temperature when Gibbs energy change ($\\Delta G$) for this transformation will be zero, is:",
+        "question_images": [],
+        "options": [
+            "A. 273.4 K",
+            "B. 393.4 K",
+            "C. 373.4 K",
+            "D. 293.4 K"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$\\Delta G = \\Delta H - T\\Delta S$. For $\\Delta G = 0$, $T = \\frac{\\Delta H}{\\Delta S} = \\frac{40.63 \\times 10^3}{108.8} = 373.4~K$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Thermodynamics",
+        "question": "If a certain mass of gas is made to undergo separately adiabatic and isothermal expansions to the same pressure, starting from the same initial conditions of temperature and pressure, then, as compared to that of isothermal expansion, in the case of adiabatic expansion, the final",
+        "question_latex": "If a certain mass of gas is made to undergo separately adiabatic and isothermal expansions to the same pressure, starting from the same initial conditions of temperature and pressure, then, as compared to that of isothermal expansion, in the case of adiabatic expansion, the final",
+        "question_images": [],
+        "options": [
+            "A. Volume and temperature will be higher",
+            "B. Volume and temperature will be lower",
+            "C. Temperature will be lower but the final volume will be higher",
+            "D. Volume will be lower but the final temperature will be higher"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In an adiabatic expansion, the gas does work at the expense of its internal energy, leading to a drop in temperature. On a P-V diagram, the adiabatic curve is steeper than the isothermal curve, so for the same final pressure, the final volume in adiabatic expansion is less than in isothermal expansion.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Thermodynamics",
+        "question": "The q is ___ when heat is transferred from the surroundings to the system and q is ___ when heat is transferred from system to the surroundings.",
+        "question_latex": "The $q$ is ___ when heat is transferred from the surroundings to the system and $q$ is ___ when heat is transferred from system to the surroundings.",
+        "question_images": [],
+        "options": [
+            "A. positive, negative",
+            "B. negative, positive",
+            "C. high, low",
+            "D. low, high"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to the sign convention in thermodynamics, heat absorbed by the system is positive (+q) and heat released by the system is negative (-q).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Thermodynamics",
+        "question": "Which of the following equations correctly represents the standard heat of formation (ΔH_f⁰) of methane?",
+        "question_latex": "Which of the following equations correctly represents the standard heat of formation $(\\Delta H_{f}^{0})$ of methane?",
+        "question_images": [],
+        "options": [
+            "A. $C(diamond)+2H_{2}(g) \\rightarrow CH_{4}(g)$",
+            "B. $C(graphite)+2H_{2}(g) \\rightarrow CH_{4}(l)$",
+            "C. $C(graphite)+2H_2(g) \\rightarrow CH_{4}(g)$",
+            "D. $C(graphite)+4H \\rightarrow CH_{4}(g)$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Standard heat of formation is the enthalpy change when 1 mole of a compound is formed from its elements in their standard states (Graphite for carbon, $H_2(g)$ for hydrogen).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Thermodynamics",
+        "question": "Energy equivalent to one erg, one joule and one calorie are in order:",
+        "question_latex": "Energy equivalent to one erg, one joule and one calorie are in order:",
+        "question_images": [],
+        "options": [
+            "A. $1~erg > 1J > 1~cal$",
+            "B. $1~erg > 1~cal > 1J$",
+            "C. $1~cal > 1J > 1~erg$",
+            "D. $1J > 1~cal > 1~erg$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$1~cal = 4.184~J$ and $1~J = 10^7~erg$. Therefore, $1~cal > 1~J > 1~erg$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Thermodynamics",
+        "question": "C + O₂ → CO₂; ΔH = X. CO + 1/2 O₂ → CO₂; ΔH = Y. Then the heat of formation of CO is:",
+        "question_latex": "$C+O_{2} \\rightarrow CO_{2}$; $\\Delta H=X$. $CO+\\frac{1}{2}O_{2} \\rightarrow CO_{2}$; $\\Delta H=Y$. Then the heat of formation of $CO$ is:",
+        "question_images": [],
+        "options": [
+            "A. X - Y",
+            "B. Y - 2X",
+            "C. X + Y",
+            "D. 2X - Y"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "To find $C + \\frac{1}{2}O_2 \\rightarrow CO$: \n(1) $C + O_2 \\rightarrow CO_2, \\Delta H = X$ \n(2) $CO + \\frac{1}{2}O_2 \\rightarrow CO_2, \\Delta H = Y$ \nSubtracting (2) from (1) gives the desired equation: $\\Delta H = X - Y$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Thermodynamics",
+        "question": "The enthalpy of formation of hypothetical MgCl is -125 kJ mol⁻¹ and for MgCl₂ is -642 kJ mol⁻¹. What is the enthalpy of the disproportionation of MgCl?",
+        "question_latex": "The enthalpy of formation of hypothetical $MgCl$ is $-125~kJ~mol^{-1}$ and for $MgCl_{2}$ is $-642~kJ~mol^{-1}$. What is the enthalpy of the disproportionation of $MgCl$?",
+        "question_images": [],
+        "options": [
+            "A. 392 kJ mol⁻¹",
+            "B. -392 kJ mol⁻¹",
+            "C. -767 kJ mol⁻¹",
+            "D. -517 kJ mol⁻¹"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Disproportionation: $2MgCl \\rightarrow MgCl_2 + Mg$. \n$\\Delta H = \\Delta H_f(MgCl_2) + \\Delta H_f(Mg) - 2 \\times \\Delta H_f(MgCl)$\n$\\Delta H = -642 + 0 - 2 \\times (-125)$\n$\\Delta H = -642 + 250 = -392~kJ~mol^{-1}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Thermodynamics",
+        "question": "Consider the reaction: 4NO2(g) + O2(g) → 2 N2O5(g), ΔrH = -111 kJ. If N2O5(s) is formed instead of N2O5(g) in the above reaction, the ΔrH value will be: (given, ΔH of sublimation for N2O5 is -54 kJ mol-1)",
+        "question_latex": "Consider the reaction: $4NO_{2}(g)+O_{2}(g) \\rightarrow 2N_{2}O_{5}(g)$, $\\Delta_{r}H = -111~kJ$. If $N_{2}O_{5}(s)$ is formed instead of $N_{2}O_{5}(g)$ in the above reaction, the $\\Delta_{r}H$ value will be: (given, $\\Delta H$ of sublimation for $N_{2}O_{5}$ is $-54~kJ~mol^{-1}$)",
+        "question_images": [],
+        "options": [
+            "A. +54 kJ",
+            "B. +219 kJ",
+            "C. -219 kJ",
+            "D. -165 kJ"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Reaction 1: $4NO_{2}(g) + O_{2}(g) \\rightarrow 2N_{2}O_{5}(g)$, $\\Delta H = -111~kJ$. \nReaction 2: Sublimation $N_{2}O_{5}(s) \\rightarrow N_{2}O_{5}(g)$, $\\Delta H_{sub} = 54~kJ/mol$ (Note: Sublimation is endothermic, the sign in the prompt text likely refers to the reverse or total change). \nFor 2 moles: $2N_{2}O_{5}(s) \\rightarrow 2N_{2}O_{5}(g)$, $\\Delta H = 2 \\times 54 = 108~kJ$. \nWe want: $4NO_{2}(g) + O_{2}(g) \\rightarrow 2N_{2}O_{5}(s)$. \nUsing Hess's Law: $\\Delta H' = \\Delta H_{rxn1} - \\Delta H_{sub(2moles)} = -111 - 54 = -165~kJ$.",
+        "solution_images": [
+            "q76_solution_1",
+            "76_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Thermodynamics",
+        "question": "According to the first law of thermodynamics, ΔU = q + W. In special cases the statement can be expressed in different ways. Which of the following is not a correct expression?",
+        "question_latex": "According to the first law of thermodynamics, $\\Delta U = q + W$. In special cases the statement can be expressed in different ways. Which of the following is not a correct expression?",
+        "question_images": [],
+        "options": [
+            "A. At constant temperature $q = -W$",
+            "B. When no work is done $\\Delta U = q$",
+            "C. In gaseous system $\\Delta U = q + P\\Delta V$",
+            "D. When work is done by the system : $\\Delta U = q + W$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "When work is done by the system, $W$ is negative. Therefore, the expression should be $\\Delta U = q - W$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Thermodynamics",
+        "question": "If, H2(g) + Cl2(g) → 2HCl; ΔH° = -44 kcal and 2Na(s) + 2HCl(g) → 2NaCl(s) + H2(g); ΔH = -152 kcal then, Na(s) + 0.5 Cl2(g) → NaCl(s); ΔH° = ?",
+        "question_latex": "If, $H_{2}(g)+Cl_{2}(g) \\rightarrow 2HCl$; $\\Delta H^{\\circ} = -44~kcal$ and $2Na(s)+2HCl(g) \\rightarrow 2NaCl(s)+H_{2}(g)$; $\\Delta H = -152~kcal$ then, $Na(s)+0.5~Cl_{2}(g) \\rightarrow NaCl(s)$; $\\Delta H^{\\circ} = ?$",
+        "question_images": [],
+        "options": [
+            "A. 108 kcal",
+            "B. 196 kcal",
+            "C. -98 kcal",
+            "D. 54 kcal"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Adding the two given equations: \n$(H_2 + Cl_2) + (2Na + 2HCl) \\rightarrow 2HCl + (2NaCl + H_2)$ \n$2Na + Cl_2 \\rightarrow 2NaCl$, $\\Delta H = -44 + (-152) = -196~kcal$. \nFor 1 mole of NaCl: $Na + 0.5 Cl_2 \\rightarrow NaCl$, $\\Delta H = -196 / 2 = -98~kcal$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Thermodynamics",
+        "question": "Warming ammonium chloride with sodium hydroxide in a test tube is an example of:",
+        "question_latex": "Warming ammonium chloride with sodium hydroxide in a test tube is an example of:",
+        "question_images": [],
+        "options": [
+            "A. Closed system",
+            "B. Isolated system",
+            "C. Open system",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "An open system allows for the exchange of both matter (ammonia gas escaping) and energy (heat) with the surroundings.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Thermodynamics",
+        "question": "Hess's law is based on",
+        "question_latex": "Hess's law is based on",
+        "question_images": [],
+        "options": [
+            "A. Law of conservation of mass",
+            "B. Law of conservation of energy",
+            "C. First law of thermodynamics",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Hess's law is a consequence of the law of conservation of energy (First law of thermodynamics) applied to chemical reactions.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Thermodynamics",
+        "question": "Which of the following is a path function?",
+        "question_latex": "Which of the following is a path function?",
+        "question_images": [],
+        "options": [
+            "A. Enthalpy",
+            "B. Entropy",
+            "C. Work",
+            "D. Free energy"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Work ($W$) and Heat ($q$) depend on the path followed during a change, unlike state functions which only depend on initial and final states.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Thermodynamics",
+        "question": "For a particular reversible reaction at temperature T, ΔH and ΔS were found to be both +ve. If Te is the temperature at equilibrium, then the reaction is spontaneous when:",
+        "question_latex": "For a particular reversible reaction at temperature $T$, $\\Delta H$ and $\\Delta S$ were found to be both $+ve$. If $T_{e}$ is the temperature at equilibrium, then the reaction is spontaneous when:",
+        "question_images": [],
+        "options": [
+            "A. $T_e > T$",
+            "B. $T > T_e$",
+            "C. $T = T_e$",
+            "D. $T_e = T$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "At equilibrium, $\\Delta G = 0 = \\Delta H - T_e \\Delta S \\Rightarrow T_e = \\Delta H / \\Delta S$. For spontaneity, $\\Delta G < 0 \\Rightarrow \\Delta H - T\\Delta S < 0 \\Rightarrow \\Delta H < T\\Delta S \\Rightarrow T > \\Delta H / \\Delta S$. Thus, $T > T_e$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Thermodynamics",
+        "question": "When ammonium chloride is dissolved in water, the solution becomes cold. The change is:",
+        "question_latex": "When ammonium chloride is dissolved in water, the solution becomes cold. The change is:",
+        "question_images": [],
+        "options": [
+            "A. Endothermic",
+            "B. Exothermic",
+            "C. Super cooling",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In an endothermic process, the system absorbs heat from the surroundings (solvent), causing the temperature of the solution to drop.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Thermodynamics",
+        "question": "Consider the reaction: N2 + 3H2 → 2NH3 carried out at constant temperature and pressure. If ΔH and ΔU are the enthalpy and internal energy changes for the reaction, which of the following expressions is true?",
+        "question_latex": "Consider the reaction: $N_{2}+3H_{2} \\rightarrow 2NH_{3}$ carried out at constant temperature and pressure. If $\\Delta H$ and $\\Delta U$ are the enthalpy and internal energy changes for the reaction, which of the following expressions is true?",
+        "question_images": [],
+        "options": [
+            "A. $\\Delta H > \\Delta U$",
+            "B. $\\Delta H = 0$",
+            "C. $\\Delta H = \\Delta U$",
+            "D. $\\Delta H < \\Delta U$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$\\Delta H = \\Delta U + \\Delta n_g RT$. For $N_{2(g)} + 3H_{2(g)} \\rightarrow 2NH_{3(g)}$, $\\Delta n_g = 2 - 4 = -2$. Therefore, $\\Delta H = \\Delta U - 2RT$, which implies $\\Delta H < \\Delta U$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Thermodynamics",
+        "question": "Which of the following equations corresponds to the definition of enthalpy of formation at 298 K?",
+        "question_latex": "Which of the following equations corresponds to the definition of enthalpy of formation at $298~K$?",
+        "question_images": [],
+        "options": [
+            "A. $C(graphite)+2H_{2}(g)+1/2~O_{2}(l) \\rightarrow CH_{3}OH(g)$",
+            "B. $C(diamond)+2H_{2}(g)+1/2~O_{2}(g) \\rightarrow CH_{3}OH(l)$",
+            "C. $2C(graphite)+4H_{2}(g)+O_{2}(g) \\rightarrow 2CH_{3}OH(l)$",
+            "D. $C(graphite)+2H_{2}(g)+1/2~O_{2}(g) \\rightarrow CH_{3}OH(l)$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Enthalpy of formation is the enthalpy change for the formation of 1 mole of a substance from its elements in their standard states (C graphite, $H_2(g)$, $O_2(g)$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Thermodynamics",
+        "question": "In an isothermal process",
+        "question_latex": "In an isothermal process",
+        "question_images": [],
+        "options": [
+            "A. $q=0$ and $\\Delta E=0$",
+            "B. $q \\neq 0$ and $\\Delta E=0$",
+            "C. $q=0$ and $\\Delta E \\neq 0$",
+            "D. $q \\neq 0$ and $\\Delta E \\neq 0$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In an isothermal process, temperature is constant ($\\Delta T=0$). For an ideal gas, internal energy depends only on temperature, so $\\Delta E=0$. Heat exchange ($q$) occurs to balance work.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Thermodynamics",
+        "question": "500 J of energy is transferred as heat to 0.5 mol of Argon gas at 298 K and 1.00 atm. The final temperature and the change in internal energy respectively are: Given: R = 8.3 J K-1 mol-1",
+        "question_latex": "$500~J$ of energy is transferred as heat to $0.5~mol$ of Argon gas at $298~K$ and $1.00~atm$. The final temperature and the change in internal energy respectively are: Given: $R = 8.3~JK^{-1}mol^{-1}$",
+        "question_images": [],
+        "options": [
+            "A. 368 K and 500 J",
+            "B. 378 K and 300 J",
+            "C. 348 K and 300 J",
+            "D. 378 K and 500 J"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$q_p = n C_p \\Delta T = 500 = 0.5 \\times (5/2 \\times 8.3) \\times (T_f - 298)$. Solving gives $T_f \\approx 346.2~K$. Change in internal energy $\\Delta U = n C_v \\Delta T$. Ratio $\\Delta U/q_p = C_v/C_p = 3/5$. So $\\Delta U = (3/5) \\times 500 = 300~J$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Thermodynamics",
+        "question": "Equal volume of two monoatomic gases, A and B, at same temperature and pressure are mixed. The ratio of specific heats (CP/CV) of the mixture will be:",
+        "question_latex": "Equal volume of two monoatomic gases, $A$ and $B$, at same temperature and pressure are mixed. The ratio of specific heats $(C_{P}/C_{V})$ of the mixture will be:",
+        "question_images": [],
+        "options": [
+            "A. 0.83",
+            "B. 1.50",
+            "C. 3.3",
+            "D. 1.67"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "For any monoatomic gas or mixture of monoatomic gases, the ratio $\\gamma = C_p/C_v$ is $5/3 \\approx 1.67$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Thermodynamics",
+        "question": "For a reaction, A(g) → A(l); ΔH = -3RT. The correct statement for the reaction is:",
+        "question_latex": "For a reaction, $A_{(g)} \\rightarrow A_{(l)}$; $\\Delta H = -3RT$. The correct statement for the reaction is:",
+        "question_images": [],
+        "options": [
+            "A. $|\\Delta H| < |\\Delta U|$",
+            "B. $\\Delta H = \\Delta U = 0$",
+            "C. $\\Delta H = \\Delta U \\neq 0$",
+            "D. $|\\Delta H| > |\\Delta U|$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$\\Delta U = \\Delta H - \\Delta n_g RT$. Here $\\Delta n_g = 0 - 1 = -1$. \n$\\Delta U = -3RT - (-1)RT = -2RT$. \nComparing magnitudes: $|-3RT| > |-2RT|$, so $|\\Delta H| > |\\Delta U|$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Thermodynamics",
+        "question": "Which value of heat of formation indicates that the product is the least stable?",
+        "question_latex": "Which value of heat of formation indicates that the product is the least stable?",
+        "question_images": [],
+        "options": [
+            "A. -94 kcal",
+            "B. -231.6 kcal",
+            "C. +21.4 kcal",
+            "D. +64.8 kcal"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "A high positive value for the enthalpy of formation indicates that the product contains more energy than its elements, making it endothermic and relatively unstable.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Thermodynamics",
+        "question": "The ΔfH° for CO2(g), CO(g), and H2O(g) are -393.5, -110.5, and -241.8 kJ mol-1, respectively. The standard enthalpy change (in kJ mol-1) for the reaction CO2(g) + H2(g) → CO(g) + H2O(g) is:",
+        "question_latex": "The $\\Delta_{f}H^{\\circ}$ for $CO_{2}(g)$, $CO(g)$, and $H_{2}O(g)$ are $-393.5, -110.5,$ and $-241.8~kJ~mol^{-1}$, respectively. The standard enthalpy change (in $kJ~mol^{-1}$) for the reaction $CO_{2}(g)+H_{2}(g) \\rightarrow CO(g)+H_{2}O(g)$ is:",
+        "question_images": [],
+        "options": [
+            "A. 524.1",
+            "B. +41.2",
+            "C. -262.5",
+            "D. -41.2"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\Delta H^{\\circ} = [\\Delta H_f(CO) + \\Delta H_f(H_2O)] - [\\Delta H_f(CO_2) + \\Delta H_f(H_2)]$ \n$\\Delta H^{\\circ} = [(-110.5) + (-241.8)] - [-393.5 + 0] = -352.3 + 393.5 = +41.2~kJ/mol$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Thermodynamics",
+        "question": "Enthalpy of the system is given as:",
+        "question_latex": "Enthalpy of the system is given as:",
+        "question_images": [],
+        "options": [
+            "A. $H + PV$",
+            "B. $U + PV$",
+            "C. $U - PV$",
+            "D. $H - PV$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "By definition, Enthalpy ($H$) is the sum of internal energy ($U$) and the product of pressure and volume ($PV$).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Thermodynamics",
+        "question": "If the enthalpy change for the reaction CH4(g) + Cl2(g) → CH3Cl(g) + HCl(g), ΔH = -25 kcal. Bond energy of C-H is 20 kcal mol-1 greater than the bond energy of C-Cl and bond energies of H-H and H-Cl are same in magnitude, then for the reaction: 0.5 H2(g) + 0.5 Cl2(g) → HCl(g); ΔH = ?",
+        "question_latex": "If the enthalpy change for the reaction $CH_{4}(g)+Cl_{2}(g) \\rightarrow CH_{3}Cl(g)+HCl(g)$, $\\Delta H = -25~kcal$. Bond energy of $C-H$ is $20~kcal~mol^{-1}$ greater than the bond energy of $C-Cl$ and bond energies of $H-H$ and $H-Cl$ are same in magnitude, then for the reaction: $\\frac{1}{2}H_{2}(g)+\\frac{1}{2}Cl_{2}(g) \\rightarrow HCl(g)$; $\\Delta H = ?$",
+        "question_images": [],
+        "options": [
+            "A. -22.5 kcal/mol",
+            "B. -20.5 kcal/mol",
+            "C. -32.5 kcal/mol",
+            "D. -12.5 kcal/mol"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Let $BE(C-Cl) = a$, then $BE(C-H) = a + 20$. Let $BE(H-H) = BE(H-Cl) = b$. \n$\\Delta H_{rxn} = [BE(C-H) + BE(Cl-Cl)] - [BE(C-Cl) + BE(H-Cl)]$ \n$-25 = [(a+20) + BE(Cl-Cl)] - [a + b] \\Rightarrow BE(Cl-Cl) = b - 45$. \nFor $H_2 + Cl_2 \\rightarrow 2HCl$: $\\Delta H = [BE(H-H) + BE(Cl-Cl)] - 2BE(H-Cl)$ \n$\\Delta H = [b + (b - 45)] - 2b = -45~kcal$. \nFor 1 mole of HCl: $\\Delta H = -45 / 2 = -22.5~kcal/mol$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Thermodynamics",
+        "question": "The standard heat of combustion of solid boron is:",
+        "question_latex": "The standard heat of combustion of solid boron is:",
+        "question_images": [],
+        "options": [
+            "A. $\\Delta_f H^{\\circ}(B_2O_3)$",
+            "B. $\\frac{1}{2} \\Delta_f H^{\\circ}(B_2O_3)$",
+            "C. $-\\Delta_f H^{\\circ}(B_2O_3)$",
+            "D. $-\\frac{1}{2} \\Delta_f H^{\\circ}(B_2O_3)$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Combustion of Boron: $B(s) + \\frac{3}{4}O_2(g) \\rightarrow \\frac{1}{2}B_2O_3(s)$. \nStandard Enthalpy of Formation for $B_2O_3$ is for: $2B(s) + \\frac{3}{2}O_2(g) \\rightarrow B_2O_3(s)$. \nTherefore, heat of combustion for 1 mole of B is half of the heat of formation of $B_2O_3$. The negative sign indicates the process is exothermic.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Thermodynamics",
+        "question": "If H+ + OH- → H2O + 13.7 kcal then the heat of neutralization for complete neutralization of one mole of H2SO4 by a base will be:",
+        "question_latex": "If $H^{+}+OH^{-} \\rightarrow H_{2}O+13.7~kcal$ then the heat of neutralization for complete neutralization of one mole of $H_{2}SO_{4}$ by a base will be:",
+        "question_images": [],
+        "options": [
+            "A. 13.7 kcal",
+            "B. -27.4 kcal",
+            "C. -6.85 kcal",
+            "D. -3.425 kcal"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Neutralization of 1 mole of $H_2SO_4$ produces 2 moles of $H^+$ ions, which react with 2 moles of $OH^-$ to form 2 moles of water. \n$\\Delta H = 2 \\times (-13.7) = -27.4~kcal$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Thermodynamics",
+        "question": "An engine operating between 150°C and 25°C takes 500 J heat from a higher temperature reservoir if there are no frictional losses, then work done by engine is:",
+        "question_latex": "An engine operating between $150^{\\circ}C$ and $25^{\\circ}C$ takes $500~J$ heat from a higher temperature reservoir if there are no frictional losses, then work done by engine is:",
+        "question_images": [],
+        "options": [
+            "A. 165.85 J",
+            "B. 169.95 J",
+            "C. 157.75 J",
+            "D. 147.7 J"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$T_2 = 150 + 273 = 423~K$, $T_1 = 25 + 273 = 298~K$. \nEfficiency $\\eta = (T_2 - T_1) / T_2 = (423 - 298) / 423 = 125 / 423$. \n$W = \\eta \\times Q = (125 / 423) \\times 500 = 147.7~J$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Thermodynamics",
+        "question": "The first law of thermodynamic is expressed as:",
+        "question_latex": "The first law of thermodynamic is expressed as:",
+        "question_images": [],
+        "options": [
+            "A. $q - W = \\Delta E$",
+            "B. $\\Delta E = q - W$",
+            "C. $q = \\Delta E - W$",
+            "D. $W = q + \\Delta E$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The standard form is $\\Delta E = q + W$. Rearranging gives $q = \\Delta E - W$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Thermodynamics",
+        "question": "The entropy change associated with the conversion of 1 kg of ice at 273 K to water vapours at 383 K is (specific heat of water liquid and water vapour are 4.2 kJ K-1 kg-1 and 2.0 kJ K-1 kg-1; heat of liquid fusion and vapourisation of water are 334 kJ kg-1 and 2491 kJ kg-1, respectively).",
+        "question_latex": "The entropy change associated with the conversion of $1~kg$ of ice at $273~K$ to water vapours at $383~K$ is (specific heat of water liquid and water vapour are $4.2~kJ~K^{-1}kg^{-1}$ and $2.0~kJ~K^{-1}kg^{-1}$; heat of liquid fusion and vapourisation of water are $334~kJ~kg^{-1}$ and $2491~kJ~kg^{-1}$, respectively).",
+        "question_images": [],
+        "options": [
+            "A. 7.90 kJ kg-1 K-1",
+            "B. 8.49 kJ kg-1 K-1",
+            "C. 9.26 kJ kg-1 K-1",
+            "D. 2.64 kJ kg-1 K-1"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Total $\\Delta S = \\Delta S_{fus} + \\Delta S_{heating} + \\Delta S_{vap} + \\Delta S_{vap\\_heating}$. \n$\\Delta S_1 = 334/273 = 1.22$. \n$\\Delta S_2 = 4.2 \\ln(373/273) = 1.31$. \n$\\Delta S_3 = 2491/373 = 6.67$. \n$\\Delta S_4 = 2.0 \\ln(383/373) = 0.05$. \nTotal $\\Delta S = 1.22 + 1.31 + 6.67 + 0.05 = 9.25~kJ/kgK$. *Note: Solution key in text suggests B (8.49) despite calculations leading closer to C.*",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Thermodynamics",
+        "question": "The enthalpy changes for the following processes are listed below: Cl2(g) → 2Cl(g) 242.3 kJ mol-1; I2(g) → 2I(g) 151.0 kJ mol-1; ICl(g) → I(g) + Cl(g) 211.3 kJ mol-1; I2(s) → I2(g) 62.76 kJ mol-1. Given that the standard states for iodine and chlorine are I2(s) and Cl2(g), the standard enthalpy of formation for ICl(g) is:",
+        "question_latex": "The enthalpy changes for the following processes are listed below: $Cl_{2}(g) \\rightarrow 2Cl(g)~242.3~kJ~mol^{-1}$; $I_{2}(g) \\rightarrow 2I(g)~151.0~kJ~mol^{-1}$; $ICl(g) \\rightarrow I(g)+Cl(g)~211.3~kJ~mol^{-1}$; $I_{2}(s) \\rightarrow I_{2}(g)~62.76~kJ~mol^{-1}$. Given that the standard states for iodine and chlorine are $I_{2}(s)$ and $Cl_{2}(g)$, the standard enthalpy of formation for $ICl(g)$ is:",
+        "question_images": [],
+        "options": [
+            "A. +16.8 kJ mol-1",
+            "B. +244.8 kJ mol-1",
+            "C. -14.6 kJ mol-1",
+            "D. -16.8 kJ mol-1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Formation reaction: $0.5 I_2(s) + 0.5 Cl_2(g) \\rightarrow ICl(g)$. \n$\\Delta H_f = 0.5 \\Delta H_{sub}(I_2) + 0.5 BE(I-I) + 0.5 BE(Cl-Cl) - BE(I-Cl)$ \n$\\Delta H_f = 0.5(62.76) + 0.5(151.0) + 0.5(242.3) - 211.3$ \n$\\Delta H_f = 31.38 + 75.5 + 121.15 - 211.3 = 16.73~kJ/mol$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Thermodynamics",
+        "question": "The enthalpy of fusion of water is 1.435 kCal/mol. The molar entropy change for the melting of ice at 0°C is:",
+        "question_latex": "The enthalpy of fusion of water is $1.435~kCal/mol$. The molar entropy change for the melting of ice at $0^{\\circ}C$ is:",
+        "question_images": [],
+        "options": [
+            "A. 10.52 cal/(molK)",
+            "B. 21.04 cal/(molK)",
+            "C. 5.260 cal/(molK)",
+            "D. 0.526 cal/(molK)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$\\Delta S = \\Delta H / T = (1.435 \\times 10^3) / 273 = 5.256 \\approx 5.260~cal/(molK)$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    }
+]

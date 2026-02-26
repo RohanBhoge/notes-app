@@ -1,0 +1,2008 @@
+[
+    {
+        "id": 1,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "AsF5 molecule is trigonal bipyramidal. The hybride orbitals used by As atoms for bonding are",
+        "question_latex": "$AsF_{5}$ molecule is trigonal bipyramidal. The hybride orbitals used by As atoms for bonding are",
+        "question_images": [],
+        "options": [
+            "A. $d_{x^2-y^2}, d_{z^2}, s, p_x, p_y$",
+            "B. $d_{xy}, s, p_x, p_y, p_z$",
+            "C. $s, p_x, p_y, p_z, d_{z^2}$",
+            "D. $d_{x^2-y^2}, s, p_x, p_y, p_z$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$AsF_5$ has a trigonal bipyramidal geometry which corresponds to $sp^3d$ hybridization. The specific orbitals involved are $s, p_x, p_y, p_z$ and $d_{z^2}$ to form the five hybrid orbitals.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Specify the coordination geometry around the hybridization of N and B atoms in a 1:1 complex of BF3 and NH3",
+        "question_latex": "Specify the coordination geometry around the hybridization of N and B atoms in a 1:1 complex of $BF_{3}$ and $NH_{3}$",
+        "question_images": [],
+        "options": [
+            "A. N: tetrahedral, $sp^3$ B: tetrahedral, $sp^3$",
+            "B. N: pyramidal, $sp^3$; B: pyramidal, $sp^3$",
+            "C. N: pyramidal, $sp^3$; B: planar, $sp^2$",
+            "D. N: pyramidal, $sp^3$; B: tetrahedral, $sp^3$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In the adduct $F_3B \\leftarrow NH_3$, the lone pair from nitrogen is donated to the empty $p$-orbital of boron. This changes boron's hybridisation from $sp^2$ to $sp^3$. Nitrogen retains $sp^3$ hybridisation. Hence, both atoms acquire tetrahedral coordination geometry.\n\nStructure: $CH_3-C\\equiv C-C(CH_3)_2-CH=CH_2$.\n\nCounting hybridised carbons:\n\n$sp^3$: Two methyl carbons attached to C3, C3 itself, and C6 $= 4$ carbons.\n\n$sp^2$: Two carbons involved in the double bond $= 2$ carbons.\n\n$sp$: Two carbons involved in the triple bond $= 2$ carbons.\n\nTherefore, the order is $4, 2, 2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "All the bond lengths of sulphur - oxygen in sulphate ion, are equal because of:",
+        "question_latex": "All the bond lengths of sulphur - oxygen in sulphate ion, are equal because of:",
+        "question_images": [],
+        "options": [
+            "A. symmetry",
+            "B. resonance",
+            "C. high electronegativity of oxygen",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In the sulphate ion ($SO_4^{2-}$), resonance occurs where the double bonds are delocalized over all four oxygen atoms, making all S-O bond lengths identical.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Organic Chemistry - Some Basic Principles and Techniques",
+        "question": "In 3,3-dimethylhex-1-ene-4-yne, there are sp3, sp2 and sp hybridised carbon atoms respectively:",
+        "question_latex": "In 3,3-dimethylhex-1-ene-4-yne, there are $sp^3$, $sp^2$ and $sp$ hybridised carbon atoms respectively: [April 2, 2025 (II)]",
+        "question_images": [],
+        "options": [
+            "A. 2, 2, 4",
+            "B. 2, 4, 2",
+            "C. 4, 2, 2",
+            "D. 3, 3, 2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Structure: $CH_3-C\\equiv C-C(CH_3)_2-CH=CH_2$.\n\nCounting hybridised carbon atoms:\n\n$sp^3$: Two methyl carbons attached to C3, the C3 carbon itself, and C6 $= 4$ carbons.\n\n$sp^2$: Two carbons involved in the double bond $= 2$ carbons.\n\n$sp$: Two carbons involved in the triple bond $= 2$ carbons.\n\nHence, the order is $4,\\ 2,\\ 2$.",
+        "solution_images": [
+            "q4_solution_1",
+            "4_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which of the following does not involve covalent bond?",
+        "question_latex": "Which of the following does not involve covalent bond?",
+        "question_images": [],
+        "options": [
+            "A. $PH_{3}$",
+            "B. $CsF$",
+            "C. $HCl$",
+            "D. $H_{2}S$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "CsF is an ionic compound formed between a highly electropositive metal (Cs) and a highly electronegative non-metal (F).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "In ammonia, H-N-H bond angle is",
+        "question_latex": "In ammonia, $H-N-H$ bond angle is",
+        "question_images": [],
+        "options": [
+            "A. $107^{\\circ}$",
+            "B. $104.5^{\\circ}$",
+            "C. $109.5^{\\circ}$",
+            "D. $120^{\\circ}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Nitrogen in $NH_3$ is $sp^3$ hybridized. Due to lone pair-bond pair repulsion, the bond angle decreases from the ideal tetrahedral angle ($109.5^{\\circ}$) to $107^{\\circ}$.",
+        "solution_images": [
+            "q6_solution_1",
+            "6_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "One of the following is least volatile",
+        "question_latex": "One of the following is least volatile",
+        "question_images": [],
+        "options": [
+            "A. $HCN$",
+            "B. $HF$",
+            "C. $H_{2}O$",
+            "D. $CS_{2}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$H_2O$ exhibits extensive intermolecular hydrogen bonding, leading to a higher boiling point and the lowest volatility among the given options.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which of the following are arranged in an increasing order of their bond strengths?",
+        "question_latex": "Which of the following are arranged in an increasing order of their bond strengths? (2002)",
+        "question_images": [],
+        "options": [
+            "A. $O_2^- < O_2 < O_2^+ < O_2^{2-}$",
+            "B. $O_2^{2-} < O_2^- < O_2 < O_2^+$",
+            "C. $O_2^- < O_2^{2-} < O_2 < O_2^+$",
+            "D. $O_2^+ < O_2 < O_2^- < O_2^{2-}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Bond strength $\\propto$ Bond Order. \nBond orders: $O_2^{2-} = 1.0$, $O_2^- = 1.5$, $O_2 = 2.0$, $O_2^+ = 2.5$. \nIncreasing order: $O_2^{2-} < O_2^- < O_2 < O_2^+$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which of the following are isostructural pairs?",
+        "question_latex": "Which of the following are isostructural pairs? A. $SO_4^{2-}$ and $CrO_4^{2-}$ B. $SiCl_4$ and $TiCl_4$ C. $NH_3$ and $NO_3^-$ D. $BCl_3$ and $BrCl_3$ (Feb 2021)",
+        "question_images": [],
+        "options": [
+            "A. A and C only",
+            "B. B and C only",
+            "C. C and D only",
+            "D. A and B only"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Isostructural species have the same geometry. \n$SO_4^{2-}$ and $CrO_4^{2-}$ are both tetrahedral ($sp^3$). \n$SiCl_4$ and $TiCl_4$ are both tetrahedral ($sp^3$ for Si and $sd^3$ for Ti). \n$NH_3$ is pyramidal while $NO_3^-$ is trigonal planar.",
+        "solution_images": [
+            "9_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The hybridisation of P in PCl5 is",
+        "question_latex": "The hybridisation of $P$ in $PCl_{5}$ is",
+        "question_images": [],
+        "options": [
+            "A. $sp^2$",
+            "B. $sp^3d$",
+            "C. $sp^3$",
+            "D. $dsp^2$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In $PCl_5$, Phosphorus has 5 valence electrons and forms 5 sigma bonds. It undergoes $sp^3d$ hybridization resulting in a trigonal bipyramidal geometry.",
+        "solution_images": [
+            "q10_solution_1",
+            "10_so_1.png",
+            "10_so_2.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Ortho-isomers have dipole moments. In which cases dipole moments are maximum and minimum?",
+        "question_latex": "Ortho-isomers have dipole moments. In which cases dipole moments are maximum and minimum?",
+        "question_images": [
+            "q11_1",
+            "11_qu_1.png"
+        ],
+        "options": [
+            "A. Max: X=Cl, Y=Cl; Min: X=$CH_3$, Y=$CH_3$",
+            "B. Max: X=OH, Y=$CH_3$; Min: X=Cl, Y=Cl",
+            "C. Max: X=OH, Y=$NO_2$; Min: X=$CH_3$, Y=$CH_3$",
+            "D. Max: X=OH, Y=$NO_2$; Min: X=Cl, Y=Cl"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Dipole moment is maximum for o-nitrophenol due to intramolecular H-bonding which stabilizes the orientation. It is minimum for o-dichlorobenzene because large Cl groups repel each other, increasing the bond angle $\\theta$ and decreasing $\\mu$ (since $\\mu \\propto \\cos(\\theta/2)$).",
+        "solution_images": [
+            "11_so_1.png",
+            "11_so_2.png",
+            "11_so_3.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which of the following statements is incorrect?",
+        "question_latex": "Which of the following statements is incorrect?",
+        "question_images": [],
+        "options": [
+            "A. The formation of ionic compounds depend upon the ease of formation of the positive and negative ions from the respective neutral atoms.",
+            "B. Formation of ionic compounds depend upon arrangement of the positive and negative ions in the solid.",
+            "C. Formation of positive ion involves addition of electron(s) while that of negative ion involves removal of electron(s).",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The correct process is: Formation of positive ion involves **removal** of electrons, and formation of negative ion involves **addition** of electrons.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Bonding in which of the following diatomic molecule(s) become(s) stronger, on the basis of MO theory, by removal of an electron? (June 2022)",
+        "question_latex": "Bonding in which of the following diatomic molecule(s) become(s) stronger, on the basis of MO theory, by removal of an electron? (June 2022) (A) NO (B) $N_2$ (C) $O_2$ (D) $C_2$ (E) $B_2$",
+        "question_images": [],
+        "options": [
+            "A. (D) only",
+            "B. (A), (C) only",
+            "C. (A), (B), (C) only",
+            "D. (B), (C), (E) only"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Bonding becomes stronger if bond order increases. This happens when an electron is removed from an anti-bonding orbital. \nFor NO: $2.5 \\rightarrow 3.0$ ($NO^+$) \nFor $O_2$: $2.0 \\rightarrow 2.5$ ($O_2^+$). \nFor $N_2$: $3.0 \\rightarrow 2.5$ ($N_2^+$) (weakens).",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which combination will give the strongest ionic bond?",
+        "question_latex": "Which combination will give the strongest ionic bond?",
+        "question_images": [],
+        "options": [
+            "A. $K^+$ and $Cl^-$",
+            "B. $K^+$ and $O^{2-}$",
+            "C. $Ca^{2+}$ and $Cl^-$",
+            "D. $Ca^{2+}$ and $O^{2-}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Force of attraction $F = \\frac{kz_1z_2e^2}{r^2}$. Higher the charges ($z_1, z_2$) and smaller the distance ($r$), the stronger the bond. $Ca^{2+}$ and $O^{2-}$ have the highest charges and relatively small sizes.",
+        "solution_images": [
+            "14_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which of the following has the maximum bond order?",
+        "question_latex": "Which of the following has the maximum bond order? (A) $O_2$ (B) $O_2^+$ (C) $O_2^-$ (D) $O_2^{2-}$",
+        "question_images": [],
+        "options": [
+            "A. $O_2$",
+            "B. $O_2^+$",
+            "C. $O_2^-$",
+            "D. $O_2^{2-}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Bond orders: $O_2 = 2.0$, $O_2^+ = 2.5$, $O_2^- = 1.5$, $O_2^{2-} = 1.0$. Maximum is for $O_2^+$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "N2 and O2 are converted to monopositive cations N2+ and O2+ respectively. Which is incorrect?",
+        "question_latex": "$N_{2}$ and $O_{2}$ are converted to monopositive cations $N_{2}^{+}$ and $O_{2}^{+}$ respectively. Which is incorrect?",
+        "question_images": [],
+        "options": [
+            "A. In $N_{2}^{+}$ the N-N bond is weakened",
+            "B. In $O_{2}^{+}$ the bond order increases",
+            "C. In $O_{2}^{+}$ the paramagnetism decreases",
+            "D. $N_{2}^{+}$ becomes diamagnetic"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$N_2^+$ has 13 electrons. The electronic configuration shows one unpaired electron in the $\\sigma 2p_z$ orbital, making it paramagnetic, not diamagnetic.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which of the following is isoelectronic with CO2?",
+        "question_latex": "Which of the following is isoelectronic with $CO_{2}$?",
+        "question_images": [],
+        "options": [
+            "A. $NO_{2}$",
+            "B. $NO$",
+            "C. $N_{2}O$",
+            "D. $N_{2}O_{4}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Number of electrons in $CO_2 = 6 + 8 + 8 = 22$. \nNumber of electrons in $N_2O = 7 + 7 + 8 = 22$. \nThey are isoelectronic.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which of the following is not isoelectronic?",
+        "question_latex": "Which of the following is not isoelectronic?",
+        "question_images": [],
+        "options": [
+            "A. $NO^-$",
+            "B. $CN^-$",
+            "C. $N_2$",
+            "D. $O_2^{2+}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Electrons: \n$CN^- = 6+7+1 = 14$ \n$N_2 = 7+7 = 14$ \n$O_2^{2+} = 16-2 = 14$ \n$NO^- = 7+8+1 = 16$. \nTherefore $NO^-$ is not isoelectronic with the others.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "When N2+ is formed from N2 bond-order ____ and when O2+ is formed from O2 bond-order ____.",
+        "question_latex": "When $N_{2}^{+}$ is formed from $N_{2}$ bond-order and when $O_{2}^{+}$ is formed from $O_{2}$ bond-order.",
+        "question_images": [],
+        "options": [
+            "A. Increases, increases",
+            "B. Decreases, decreases",
+            "C. Increases, decreases",
+            "D. Decreases, increases"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$N_2 (B.O = 3) \\rightarrow N_2^+ (B.O = 2.5)$ (Decreases) \n$O_2 (B.O = 2) \\rightarrow O_2^+ (B.O = 2.5)$ (Increases).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Match the columns: Column-I: (A) Valence bond theory (B) Octet rule (C) Molecular orbital theory (D) VSEPR theory. Column-II: (p) Nyholm and Gillespie (q) Hund & Mulliken (r) Heitler and London (s) Kössel and Lewis",
+        "question_latex": "Match the columns",
+        "question_images": [
+            "20_qu_1.png"
+        ],
+        "options": [
+            "A. A-(p), B-(q), C-(r), D-(s)",
+            "B. A-(q), B-(r), C-(s), D-(p)",
+            "C. A-(r), B-(s), C-(q), D-(p)",
+            "D. A-(s), B-(r), C-(q), D-(p)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Valence Bond Theory was proposed by Heitler and London. \nOctet Rule was given by Kössel and Lewis. \nMolecular Orbital Theory was developed by Hund and Mulliken. \nVSEPR theory was given by Nyholm and Gillespie.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "sp3 hybridisation is found in",
+        "question_latex": "$sp^{3}$ hybridisation is found in",
+        "question_images": [],
+        "options": [
+            "A. $CO_{3}^{2-}$",
+            "B. $BF_{3}$",
+            "C. $NO_{3}^{-}$",
+            "D. $NH_{3}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "In $NH_3$, Nitrogen has 3 bond pairs and 1 lone pair, totaling 4 electron pairs, which corresponds to $sp^3$ hybridization.",
+        "solution_images": [
+            "q21_solution_1",
+            "21_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which force is strongest?",
+        "question_latex": "Which force is strongest?",
+        "question_images": [],
+        "options": [
+            "A. Dipole-dipole forces",
+            "B. Ion-ion forces",
+            "C. Ion-dipole forces",
+            "D. Ion-induced dipole forces"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Ion-ion (Coulombic) forces are the strongest as they involve full charges and follow the inverse square law with high energy.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "For the dot structure shown the most likely elements are X and Y",
+        "question_latex": "For the dot structure shown the most likely elements are $X=$ and $Y=$",
+        "question_images": [
+            "q23_1",
+            "23_qu_1.png"
+        ],
+        "options": [
+            "A. Carbon, hydrogen",
+            "B. Carbon, oxygen",
+            "C. Fluorine, carbon",
+            "D. Carbon, fluorine"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Based on the octet completion, X forms 4 bonds (Carbon) and Y has 3 lone pairs and forms 1 bond (Fluorine).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The water molecule has a (X) geometry because its central atom has (Y) bonds and (Z) lone pairs of electrons",
+        "question_latex": "The water molecule has a (X) geometry because its central atom has (Y) bonds and (Z) lone pairs of electrons",
+        "question_images": [],
+        "options": [
+            "A. X: Bent, Y: 2, Z: 2",
+            "B. X: Linear, Y: 2, Z: 2",
+            "C. X: Pyramidal, Y: 3, Z: 1",
+            "D. X: Tetrahedral, Y: 4, Z: 0"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The Oxygen in $H_2O$ has 2 bond pairs with Hydrogen and 2 lone pairs. According to VSEPR theory, this results in a Bent or V-shaped geometry.",
+        "solution_images": [
+            "24_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The decreasing order of bond angles in BF3, NH3, PF3 and I3- is (Online 2018)",
+        "question_latex": "The decreasing order of bond angles in $BF_{3}$, $NH_{3}$, $PF_{3}$ and $I_{3}^{-}$ is (Online 2018)",
+        "question_images": [],
+        "options": [
+            "A. $I_3^- > BF_3 > NH_3 > PF_3$",
+            "B. $BF_3 > I_3^- > PF_3 > NH_3$",
+            "C. $I_3^- > NH_3 > PF_3 > BF_3$",
+            "D. $BF_3 > NH_3 > PF_3 > I_3^-$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Bond angles: \n$I_3^-$: Linear ($180^{\\circ}$) \n$BF_3$: Trigonal planar ($120^{\\circ}$) \n$NH_3$: Pyramidal ($107^{\\circ}$) \n$PF_3$: Pyramidal ($100^{\\circ}$ due to higher electronegativity of F compared to H in $NH_3$). \nOrder: $I_3^- > BF_3 > NH_3 > PF_3$.",
+        "solution_images": [
+            "25_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which property could describe a covalent compound?",
+        "question_latex": "Which property could describe a covalent compound?",
+        "question_images": [],
+        "options": [
+            "A. It conducts electricity when melted",
+            "B. It is a gas at room temperature",
+            "C. It is composed of a non-metal and metal",
+            "D. It is solid with a very high melting point"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Covalent compounds often have low melting and boiling points due to weak intermolecular forces, making many of them gases or liquids at room temperature[cite: 721, 722].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "A pair of compounds which have odd electrons in the group NO, CO, ClO2, N2O5, SO2 and O2 are",
+        "question_latex": "A pair of compounds which have odd electrons in the group $NO$, $CO$, $ClO_{2}$, $N_{2}O_{5}$, $SO_{2}$ and $O_{2}$ are",
+        "question_images": [],
+        "options": [
+            "A. NO and $ClO_{2}$",
+            "B. CO and $SO_{2}$",
+            "C. $ClO_{2}$ and CO",
+            "D. $SO_{2}$ and $O_{3}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$NO$ (11 valence electrons) and $ClO_2$ (19 valence electrons) both possess an odd number of total valence electrons, making them odd-electron molecules[cite: 724, 725].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which pair of substances will have the most similar geometry?",
+        "question_latex": "Which pair of substances will have the most similar geometry?",
+        "question_images": [],
+        "options": [
+            "A. $SO_{3}, SO_{3}^{2-}$",
+            "B. $SO_{3}, SO_{4}^{2-}$",
+            "C. $SO_{3}, CO_{3}^{2-}$",
+            "D. $SO_{4}^{2-}, CO_{3}^{2-}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Both $SO_3$ and $CO_3^{2-}$ have a trigonal planar geometry ($sp^2$ hybridization with no lone pairs on the central atom)[cite: 728, 729].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Some ether is added to an aqueous solution mixture of LiCl, NaCl and AlCl3. Which will be extracted into ether?",
+        "question_latex": "Some ether is added to an aqueous solution mixture of $LiCl$, $NaCl$ and $AlCl_{3}$. Which will be extracted into ether?",
+        "question_images": [],
+        "options": [
+            "A. LiCl, NaCl",
+            "B. LiCl, $AlCl_{3}$",
+            "C. NaCl, $AlCl_{3}$",
+            "D. LiCl, NaCl, $AlCl_{3}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Ether is a non-polar (covalent) solvent. According to Fajan's rules, $LiCl$ and $AlCl_3$ have significant covalent character due to the small size and high charge density of $Li^+$ and $Al^{3+}$, making them soluble in ether[cite: 733, 734, 735, 738].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "When the number of electron pairs on the central atom is six, then geometry of the molecule is",
+        "question_latex": "When the number of electron pairs on the central atom is six, then geometry of the molecule is",
+        "question_images": [],
+        "options": [
+            "A. Octahedral",
+            "B. Trigonal bipyramidal",
+            "C. Equilateral triangle",
+            "D. Linear"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Six electron pairs correspond to $sp^3d^2$ or $d^2sp^3$ hybridization, which results in an octahedral geometry[cite: 740, 741].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which of the following structure is most stable ?",
+        "question_latex": "Which of the following structure is most stable ?",
+        "question_images": [
+            "q31_1",
+            "31_qu_1.png"
+        ],
+        "options": [
+            "A. Only I",
+            "B. Only II",
+            "C. Only III",
+            "D. All three have same stability"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Structure I is the most stable because both lone pairs are in equatorial positions, which minimizes lone pair-lone pair repulsion[cite: 755, 756, 757].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "After understanding the assertion and reason, choose the correct option. Assertion: In the bonding molecular orbital (MO) of H2, electron density is increased between the nuclei. Reason: The bonding MO is ψA + ψB, which shows destructive interference of the combining electron waves. (Online 2015)",
+        "question_latex": "After understanding the assertion and reason, choose the correct option. \\\\ Assertion: In the bonding molecular orbital (MO) of $H_{2}$, electron density is increased between the nuclei. \\\\ Reason: The bonding MO is $\\psi_{A} + \\psi_{B}$, which shows destructive interference of the combining electron waves. (Online 2015)",
+        "question_images": [],
+        "options": [
+            "A. Assertion and reason are correct and reason is the correct explanation for the assertion.",
+            "B. Assertion and reason are correct, but reason is not the correct explanation for the assertion.",
+            "C. Assertion is correct, reason is incorrect.",
+            "D. Assertion is incorrect, reason is correct"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The assertion is correct as electron density increases between nuclei in a bonding MO. However, the reason is incorrect because $\\psi_A + \\psi_B$ represents constructive interference, not destructive[cite: 764, 765].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Dipole-dipole attractive forces are strongest between the molecules of:",
+        "question_latex": "Dipole-dipole attractive forces are strongest between the molecules of:",
+        "question_images": [],
+        "options": [
+            "A. He",
+            "B. $CH_{4}$",
+            "C. $CO_{2}$",
+            "D. $H_{2}O$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Dipole-dipole forces exist in polar molecules. Among the options, $H_2O$ is highly polar and also exhibits strong hydrogen bonding[cite: 767, 768].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The type of hybridisation in XeF4 is",
+        "question_latex": "The type of hybridisation in $XeF_{4}$ is",
+        "question_images": [],
+        "options": [
+            "A. $dsp^{2}$",
+            "B. $sp^{3}d$",
+            "C. $sp^{3}d^{2}$",
+            "D. $sp^{3}d^{3}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Xe in $XeF_4$ has 8 valence electrons; it forms 4 bonds and has 2 lone pairs. This total of 6 electron pairs leads to $sp^3d^2$ hybridization and a square planar geometry[cite: 770, 779, 781].",
+        "solution_images": [
+            "q34_solution_1",
+            "34_so_1.png",
+            "34_so_2.png",
+            "34_so_3.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "According to Fajan's rule, covalent bond is favoured by",
+        "question_latex": "According to Fajan's rule, covalent bond is favoured by",
+        "question_images": [],
+        "options": [
+            "A. Large cation and small anion",
+            "B. Large cation and large anion",
+            "C. Small cation and large anion",
+            "D. Small cation and small anion"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Covalent character is favoured by high polarizing power of the cation (small size, high charge) and high polarizability of the anion (large size)[cite: 784, 785].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Number of water molecules directly attached to one water molecule is",
+        "question_latex": "Number of water molecules directly attached to one water molecule is",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Each water molecule can form four hydrogen bonds: two through its hydrogen atoms and two through the lone pairs on the oxygen atom[cite: 788, 802].",
+        "solution_images": [
+            "q36_solution_1",
+            "36_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "In terms of polar character, which one of the following order is correct?",
+        "question_latex": "In terms of polar character, which one of the following order is correct?",
+        "question_images": [],
+        "options": [
+            "A. $NH_3 < H_2O < HF < H_2S$",
+            "B. $H_2S < NH_3 < H_2O < HF$",
+            "C. $H_2O < NH_3 < H_2S < HF$",
+            "D. $HF < H_2O < NH_3 < H_2S$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Polar character increases with the electronegativity difference between the atoms. Since electronegativity follows $F > O > N > S$, the polar character order is $H_2S < NH_3 < H_2O < HF$[cite: 807, 809].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "A covalent molecule AB3 has pyramidal structure. The number of lone pair and bond pair of electrons in the molecule are respectively.",
+        "question_latex": "A covalent molecule $AB_{3}$ has pyramidal structure. The number of lone pair and bond pair of electrons in the molecule are respectively.",
+        "question_images": [],
+        "options": [
+            "A. 2 and 2",
+            "B. 0 and 4",
+            "C. 3 and 1",
+            "D. 1 and 3"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "A pyramidal $AB_3$ molecule (like $NH_3$) has 3 bond pairs and 1 lone pair on the central atom[cite: 812, 818, 819].",
+        "solution_images": [
+            "q38_solution_1",
+            "38_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The correct electronegativity order is:",
+        "question_latex": "The correct electronegativity order is:",
+        "question_images": [],
+        "options": [
+            "A. C, N, Si, P",
+            "B. N, Si, C, P",
+            "C. Si, P, C, N",
+            "D. P, Si, N, C"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Electronegativity increases across a period (Si < P and C < N) and decreases down a group (Si < C and P < N). The overall order is Si < P < C < N[cite: 822, 823].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Molecular orbital theory was developed mainly by",
+        "question_latex": "Molecular orbital theory was developed mainly by",
+        "question_images": [],
+        "options": [
+            "A. Pauling",
+            "B. Mulliken",
+            "C. Thomson",
+            "D. Pauling and Slater"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Molecular Orbital Theory (MOT) was primarily developed by F. Hund and R.S. Mulliken[cite: 826, 681].",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "In which of the following molecules are all the bonds not equal?",
+        "question_latex": "In which of the following molecules are all the bonds not equal?",
+        "question_images": [],
+        "options": [
+            "A. $AlF_{3}$",
+            "B. $NF_{3}$",
+            "C. $ClF_{3}$",
+            "D. $BF_{3}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$ClF_3$ has $sp^3d$ hybridization with a T-shaped geometry. It contains two axial bonds and one equatorial bond, which are not of equal length[cite: 830, 831, 835].",
+        "solution_images": [
+            "41_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "A pair of compound which have odd electrons in the group NO, CO, ClO2, N2O5, SO2 and O3 are",
+        "question_latex": "A pair of compound which have odd electrons in the group $NO$, $CO$, $ClO_{2}$, $N_{2}O_{5}$, $SO_{2}$ and $O_{3}$ are",
+        "question_images": [],
+        "options": [
+            "A. NO and $ClO_{2}$",
+            "B. CO and $SO_{2}$",
+            "C. $ClO_{2}$ and CO",
+            "D. $SO_{2}$ and $O_{3}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$NO$ and $ClO_2$ are odd-electron species as they contain 11 and 19 valence electrons respectively[cite: 839, 840].",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Organic Chemistry - Some Basic Principles and Techniques",
+        "question": "Given below are two statements. Statement I: The dipole moment of CH3-CH=CH-CHO is greater than butanal. Statement II: C1-C2 bond length of CH3-CH=CH-CHO is less than C1-C2 bond length of butanal. [April 4, 2025 (1)]",
+        "question_latex": "Given below are two statements. \\\\ Statement I: The dipole moment of $CH_{3}-CH=CH-CHO$ is greater than butanal. \\\\ Statement II: $C_{1}-C_{2}$ bond length of $CH_{3}-CH=CH-CHO$ is less than $C_{1}-C_{2}$ bond length of butanal. [April 4, 2025 (1)]",
+        "question_images": [],
+        "options": [
+            "A. Both Statement I and Statement II are true",
+            "B. Statement I is true but Statement II is false",
+            "C. Both Statement I and Statement II are false",
+            "D. Statement I is false but Statement II is true"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Statement I is true because conjugation and resonance in but-2-enal lead to greater charge separation and dipole moment compared to butanal[cite: 852, 854, 856]. Statement II is false as provided in the source (though chemical theory suggests the double bond conjugation would decrease $C_1-C_2$ length, the key marks it false)[cite: 863, 864].",
+        "solution_images": [
+            "q43_solution_1",
+            "43_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The dipole moment of HBr is 1.6 x 10^-30 cm and inter atomic spacing is 1Å. The % ionic character of HBr is",
+        "question_latex": "The dipole moment of $HBr$ is $1.6 \\times 10^{-30}$ cm and inter atomic spacing is $1 \\dot{A}$. The % ionic character of $HBr$ is",
+        "question_images": [],
+        "options": [
+            "A. 7",
+            "B. 10",
+            "C. 15",
+            "D. 27"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\text{\\% Ionic Character} = \\frac{\\mu_{obs}}{\\mu_{calc}} \\times 100$. $\\mu_{calc} = q \\times d = (1.6 \\times 10^{-19} C) \\times (10^{-10} m) = 1.6 \\times 10^{-29} Cm$. $\\% = (1.6 \\times 10^{-30} / 1.6 \\times 10^{-29}) \\times 100 = 10\\%$[cite: 868, 876, 878].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The hybridisations of the atomic orbitals of nitrogen in NO2-, NO2+, and NH4+ respectively are (July 2021)",
+        "question_latex": "The hybridisations of the atomic orbitals of nitrogen in $NO_{2}^{-}$, $NO_{2}^{+}$, and $NH_{4}^{+}$ respectively are (July 2021)",
+        "question_images": [],
+        "options": [
+            "A. $sp, sp^2, sp^3$",
+            "B. $sp^2, sp, sp^3$",
+            "C. $sp^3, sp, sp^2$",
+            "D. $sp, sp, sp^3$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$NO_2^-$: $sp^2$ (2 bonds + 1 lone pair); $NO_2^+$: $sp$ (2 bonds + 0 lone pairs); $NH_4^+$: $sp^3$ (4 bonds + 0 lone pairs)[cite: 881, 890, 893].",
+        "solution_images": [
+            "q45_solution_1",
+            "45_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "All the following molecules are polar except one",
+        "question_latex": "All the following molecules are polar except one",
+        "question_images": [],
+        "options": [
+            "A. $BCl_{3}$",
+            "B. $CH_{2}Cl_{2}$",
+            "C. $NH_{3}$",
+            "D. $FNO$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$BCl_3$ is a symmetrical trigonal planar molecule ($sp^2$). The individual $B-Cl$ bond dipoles cancel out, resulting in a net dipole moment of zero (non-polar)[cite: 897, 902].",
+        "solution_images": [
+            "q46_solution_1",
+            "46_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Ratio of σ and π bonds is maximum in",
+        "question_latex": "Ratio of $\\sigma$ and $\\pi$ bonds is maximum in",
+        "question_images": [],
+        "options": [
+            "A. Naphthalene",
+            "B. Tetracyano methane",
+            "C. Enolic form of urea",
+            "D. equal"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Comparing the structures, the enolic form of urea ($NH_2-C(OH)=NH$) has the highest ratio of sigma to pi bonds among the choices[cite: 904, 905].",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Coordination Compounds",
+        "question": "Number of unpaired electrons in [V(H2O)6]3+ is",
+        "question_latex": "Number of unpaired electrons in $[V(H_{2}O)_{6}]^{3+}$ is",
+        "question_images": [],
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$V$ is in $+3$ oxidation state. $V (Z=23): [Ar] 3d^3 4s^2 \\rightarrow V^{3+}: [Ar] 3d^2$. There are 2 unpaired electrons in the $d$-orbitals[cite: 908].",
+        "solution_images": [
+            "48_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Equilateral shape has",
+        "question_latex": "Equilateral (triangular planar) shape has",
+        "question_images": [],
+        "options": [
+            "A. $sp$ hybridisation",
+            "B. $sp^{2}$ hybridisation",
+            "C. $sp^{3}$ hybridisation",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "B. $sp^{2}$ hybridisation",
+        "solution": "An equilateral or triangular planar geometry is formed when the central atom undergoes $sp^{2}$ hybridisation.\n\nThree $sp^{2}$ hybrid orbitals lie in the same plane at $120^{\\circ}$ to each other, giving an equilateral triangular shape.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which of the following methods is used for measuring bond length?",
+        "question_latex": "Which of the following methods is used for measuring bond length?",
+        "question_images": [],
+        "options": [
+            "A. X-ray diffraction",
+            "B. Electron diffraction",
+            "C. Spectroscopic techniques",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D. All of these",
+        "solution": "Bond lengths can be measured using X-ray diffraction, electron diffraction, and spectroscopic techniques.\n\nEach of these methods provides structural information at the atomic or molecular level.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The energy change accompanying the process given below is, $Na^{+}(g) + Cl^{-}(g) \\longrightarrow NaCl(s)$ :",
+        "question_latex": "$Na^{+}(g) + Cl^{-}(g) \\longrightarrow NaCl(s)$",
+        "question_images": [],
+        "options": [
+            "A. Hydration energy",
+            "B. Ionization energy",
+            "C. Electron affinity",
+            "D. Lattice energy"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Formation of solid lattice from oppositely charged ionized gaseous atoms give rise to evolution of lattice energy.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "In coordinate bond, the acceptor atoms must essentially contain in its valency shell an orbitals:",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. With paired electron",
+            "B. With single electron",
+            "C. With no electron",
+            "D. With three electrons"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Only then it can accept lone pair in that shell.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Boron cannot form which one of the following anions?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. $BF_{6}^{3-}$",
+            "B. $BH_{4}^{-}$",
+            "C. $B(OH)_{4}^{-}$",
+            "D. $BO_{2}^{-}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Due to non-availability of d-orbitals, boron cannot expand its octet. Therefore, the maximum covalence of boron cannot exceed 4.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "In hexa-1, 3-diene-5-yne the number of $C-C$, $C=C$ and $C\\equiv C$ $\\sigma$ bonds, and $C-H$ $\\sigma$ bonds, respectively are",
+        "question_latex": "hexa-1, 3-diene-5-yne",
+        "question_images": [],
+        "options": [
+            "A. 5, 4 and 6",
+            "B. 6, 3 and 5",
+            "C. 5, 3 and 6",
+            "D. 6, 4 and 5"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The structure is $H_2C=CH-CH=CH-C\\equiv CH$. \nCounting bonds: \n$\\sigma$ $C-C$ bonds = 5 \n$\\pi$ bonds = 4 ($C=C$ contributes 1 each, $C\\equiv C$ contributes 2) \n$\\sigma$ $C-H$ bonds = 6",
+        "solution_images": [
+            "q54_solution_1",
+            "54_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The hybride orbital of the central atom in $AlF_{4}^{-}$ is",
+        "question_latex": "$AlF_{4}^{-}$",
+        "question_images": [],
+        "options": [
+            "A. sp",
+            "B. $sp^2$",
+            "C. $sp^3$",
+            "D. $dsp^2$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Aluminum in $AlF_{4}^{-}$ has 4 bond pairs and 0 lone pairs, leading to a steric number of 4, which corresponds to $sp^3$ hybridization.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which has an odd electron and shows paramagnetic character?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. NO",
+            "B. $SO_2$",
+            "C. $CO_2$",
+            "D. $H_2O$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "NO has a total of 15 electrons ($7+8$), which is an odd number, making it paramagnetic.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "In $I_3^{-}$, Lewis base is",
+        "question_latex": "$I_3^{-}$",
+        "question_images": [],
+        "options": [
+            "A. $I_2$",
+            "B. $I^{-}$",
+            "C. $I_2^{-}$",
+            "D. $I^{+}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$I^{-} + I_2 \\rightarrow I_3^{-}$. Here, $I^{-}$ is an electron-pair donor thus is a Lewis-base, and $I_2$ is an electron-pair acceptor thus it is a Lewis-acid.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The types of hybridisation of the five carbon atoms from left to right in the molecule $CH_3-CH=C=CH-CH_3$ are",
+        "question_latex": "$CH_3-CH=C=CH-CH_3$",
+        "question_images": [],
+        "options": [
+            "A. $sp^3, sp^2, sp^2, sp^2, sp^3$",
+            "B. $sp^3, sp^2, sp, sp^2, sp^3$",
+            "C. $sp^3, sp, sp^2, sp^2, sp^3$",
+            "D. $sp^3, sp^2, sp^2, sp, sp^3$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Carbon 1 ($CH_3$): $sp^3$\nCarbon 2 ($CH=$): $sp^2$\nCarbon 3 ($=C=$): $sp$\nCarbon 4 ($=CH$): $sp^2$\nCarbon 5 ($CH_3$): $sp^3$",
+        "solution_images": [
+            "58_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Stability of the species $Li_2$, $Li_2^{-}$ and $Li_2^{+}$ increases in the order of",
+        "question_latex": "$Li_2$, $Li_2^{-}$, $Li_2^{+}$",
+        "question_images": [],
+        "options": [
+            "A. $Li_2 < Li_2^{+} < Li_2^{-}$",
+            "B. $Li_2^{-} < Li_2^{+} < Li_2$",
+            "C. $Li_2 < Li_2^{-} < Li_2^{+}$",
+            "D. $Li_2^{-} < Li_2 < Li_2^{+}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Bond order of $Li_2 = 1$, $Li_2^{+} = 0.5$, $Li_2^{-} = 0.5$. Between $Li_2^{+}$ and $Li_2^{-}$, $Li_2^{+}$ is more stable because $Li_2^{-}$ has an electron in an antibonding orbital which increases repulsion.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which of the following represents zero overlap of atomic orbitals?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. Option A Image",
+            "B. Option B Image",
+            "C. Option C Image",
+            "D. All of these"
+        ],
+        "option_images": [
+            "q60optionA1",
+            "q60optionB1",
+            "q60optionC1",
+            "60_opA_1.png",
+            "60_opB_1.png",
+            "60_opC_1.png"
+        ],
+        "answer": "C",
+        "solution": "Option (C) represents a configuration where the symmetry of the orbitals results in zero net overlap.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The nature of hybridisation in the ammonia molecule is",
+        "question_latex": "$NH_3$",
+        "question_images": [],
+        "options": [
+            "A. $sp^2$",
+            "B. $dp^2$",
+            "C. sp",
+            "D. $sp^3$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Using $H = \\frac{1}{2}[V + M - C + A]$, for $NH_3$: $V=5, M=3, C=0, A=0$. $H = \\frac{1}{2}[5+3] = 4$. Steric number 4 corresponds to $sp^3$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which contains both covalent and ionic bonds?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. $CCl_4$",
+            "B. KCN",
+            "C. $CaCl_2$",
+            "D. $H_2O$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In $KCN$, there is an ionic bond between $K^{+}$ and $CN^{-}$, and a covalent triple bond between $C$ and $N$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Bond order of $O_2$ and $O_2^{2-}$ is in order",
+        "question_latex": "$O_2, O_2^{2-}$",
+        "question_images": [],
+        "options": [
+            "A. $O_2^{-} < O_2^{2-} < O_2 < O_2^{+}$",
+            "B. $O_2^{2-} < O_2^{-} < O_2 < O_2^{+}$",
+            "C. $O_2^{+} < O_2 < O_2^{-} < O_2^{2+}$",
+            "D. $O_2 < O_2^{+} < O_2^{-} < O_2^{2-}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Bond orders: $O_2 = 2.0$, $O_2^{+} = 2.5$, $O_2^{-} = 1.5$, $O_2^{2-} = 1.0$. Increasing order: $O_2^{2-} < O_2^{-} < O_2 < O_2^{+}$. ",
+        "solution_images": [
+            "63_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Number of $\\sigma$ and $\\pi$ bonds in acetylene are",
+        "question_latex": "acetylene",
+        "question_images": [],
+        "options": [
+            "A. 3 and 2",
+            "B. 2 and 2",
+            "C. 2 and 3",
+            "D. 4 and 3"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Acetylene ($H-C\\equiv C-H$) has three $\\sigma$ bonds (two $C-H$ and one $C-C$) and two $\\pi$ bonds (in the triple bond).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Which main group elements have a different number of outermost electrons than their group number?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. Alkali metals",
+            "B. Noble gases",
+            "C. Halogens",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Noble gases are in Group 18 (formerly Group 0) but they possess eight electrons in their valence shell (except Helium which has two).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which of the following species contain at least one atom that violates the octet rule?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. $O-Cl-O$",
+            "B. $F-Xe-F$",
+            "C. Both (a) and (b)",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In $ClO_2$ (implied by option A) and $XeF_2$, the central atoms do not follow the octet rule ($Cl$ has an odd electron or expanded octet, $Xe$ has an expanded octet).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The isoelectronic species among the following are: I $CH_3^{+}$; II $NH_2^{+}$; III $NH_4^{+}$; IV $NH_3$",
+        "question_latex": "$CH_3^{+}, NH_2^{+}, NH_4^{+}, NH_3$",
+        "question_images": [],
+        "options": [
+            "A. I, II, III",
+            "B. II, III, IV",
+            "C. I, II, IV",
+            "D. I, II"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$CH_3^{+}$ and $NH_2^{+}$ both have 8 electrons ($6+3-1=8$ and $7+2-1=8$ respectively).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "In which reaction, the hybridisation on the central atom changes from $sp^2$ to $sp^3$?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. $NH_3 + H^{+} \\longrightarrow NH_4^{+}$",
+            "B. $BF_3 + F^{-} \\longrightarrow BF_4^{-}$",
+            "C. $H_2O + H^{+} \\longrightarrow H_3O^{+}$",
+            "D. $C_2H_2 + 2H_2 \\rightarrow C_2H_6$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In $BF_3$, $B$ is $sp^2$ hybridized. In $BF_4^{-}$, $B$ is $sp^3$ hybridized.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which of the following have identical bond order? I. $CN^{-}$, II. $O_2^{-}$, III. $NO^{+}$, IV. $CN^{+}$",
+        "question_latex": "$CN^{-}, O_2^{-}, NO^{+}, CN^{+}$",
+        "question_images": [],
+        "options": [
+            "A. I, III",
+            "B. II, IV",
+            "C. I, II, III",
+            "D. I, IV"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Both $CN^{-}$ and $NO^{+}$ have 14 electrons, hence they are isoelectronic and have the same bond order of 3.0.",
+        "solution_images": [
+            "69_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Among O, C, F, Cl, Br the correct order of increasing atomic radii is:",
+        "question_latex": "$O, C, F, Cl, Br$",
+        "question_images": [],
+        "options": [
+            "A. $F < O < C < Cl < Br$",
+            "B. $F < C < O < Br < Cl$",
+            "C. $F < Cl < Br < O < C$",
+            "D. $C < O < F < Cl < Br$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Atomic radius decreases along a period ($F < O < C$) and increases down a group ($F < Cl < Br$). Combining these: $F < O < C < Cl < Br$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Equilateral shape has",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. sp hybridisation",
+            "B. $sp^2$ hybridisation",
+            "C. $sp^3$ hybridisation",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Equilateral or trigonal planar shape involve $sp^2$ hybridization.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The high density of water compared to ice is due to",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. Hydrogen bonding interactions",
+            "B. Dipole-dipole interactions",
+            "C. Dipole-induced dipole interactions",
+            "D. Induced dipole induced dipole interactions"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Due to H-bonding in water molecules, ice has an open cage-like structure making it less dense than liquid water.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The hybrid state of $S$ in $SO_3$ is similar to that of",
+        "question_latex": "$S$ in $SO_3$",
+        "question_images": [],
+        "options": [
+            "A. $C$ in $C_2H_2$",
+            "B. $C$ in $C_2H_4$",
+            "C. $C$ in $CH_4$",
+            "D. $C$ in $CO_2$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$S$ in $SO_3$ is $sp^2$ hybridized. $C$ in $C_2H_4$ (ethene) is also $sp^2$ hybridized.",
+        "solution_images": [
+            "73_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "$sp^3d$ hybridisation results in",
+        "question_latex": "$sp^3d$",
+        "question_images": [],
+        "options": [
+            "A. A square planar molecule",
+            "B. An octahedron molecule",
+            "C. A trigonal bipyramidal molecule",
+            "D. A tetrahedron molecule"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$sp^3d$ hybridization results in a Trigonal bipyramidal geometry.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Resonance is due to",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. delocalization of sigma electrons",
+            "B. delocalization of pi electrons",
+            "C. migration of protons",
+            "D. Both (a) and (b)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Resonance involves the delocalization of $\\pi$ electrons or lone pairs within a molecule.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The bond order is maximum in",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. $O_2$",
+            "B. $O_2^{+}$",
+            "C. $O_2^{-}$",
+            "D. $O_2^{2-}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Electronic configuration of $O_2$ (16e): $\\sigma 1s^2, \\sigma^* 1s^2, \\sigma 2s^2, \\sigma^* 2s^2, \\sigma 2p_z^2, \\pi 2p_x^2 \\approx \\pi 2p_y^2, \\pi^* 2p_x^1 \\approx \\pi^* 2p_y^1$. Bond order = $\\frac{10-6}{2} = 2$. For $O_2^{+}$ (15e), B.O. = $\\frac{10-5}{2} = 2.5$. For $O_2^{-}$ (17e), B.O. = $\\frac{10-7}{2} = 1.5$. For $O_2^{2-}$ (18e), B.O. = $\\frac{10-8}{2} = 1$. Maximum for $O_2^{+}$. [cite: 558, 560, 564, 565, 566, 567]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Allene ($C_3H_4$) contains",
+        "question_latex": "$C_3H_4$",
+        "question_images": [],
+        "options": [
+            "A. One double bond, one triple bond and one single bond",
+            "B. One triple and two double bonds",
+            "C. Two triple and one double bond",
+            "D. Two double and four single bond"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The structure of Allene is $H_2C=C=CH_2$. It contains 2 double bonds ($C=C$) and 4 single bonds ($C-H$). [cite: 572, 577]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "$XeF_6$ is:",
+        "question_latex": "$XeF_6$",
+        "question_images": [],
+        "options": [
+            "A. Octahedral",
+            "B. Pentagonal pyramidal",
+            "C. Planar",
+            "D. Tetrahedral"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "It has $sp^3d^3$ hybridization with 6 bond pairs and 1 lone pair on Xe, resulting in a distorted octahedral or pentagonal pyramidal geometry. [cite: 581]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The example of the p-p-orbital overlapping is the formation of:",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. $H_2$ molecule",
+            "B. $Cl_2$ molecule",
+            "C. Hydrogen chloride",
+            "D. Hydrogen bromide molecule"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$Cl_2$ involves $3p-3p$ orbital overlapping. [cite: 584]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The maximum possible number of hydrogen bonds a $H_2O$ molecule can participate is",
+        "question_latex": "$H_2O$",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "In water, each molecule can form 4 hydrogen bonds: 2 via the lone pairs on Oxygen and 2 via the Hydrogen atoms. [cite: 587]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Mark the incorrect statement in the following",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. The bond order in the species $O_2^{+}$, $O_2$ and $O_2^{-}$ decreases as $O_2^{+} > O_2 > O_2^{-}$",
+            "B. The bond energy in a diatomic molecule always increases when an electron is lost",
+            "C. Electrons in antibonding M.O. contribute to repulsion between two atoms",
+            "D. With increase in bond order, bond length decreases and bond strength increases"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Removal of an electron may increase or decrease bond order. For $O_2 \\rightarrow O_2^{+}$, B.O. increases ($2 \\rightarrow 2.5$), but for $N_2 \\rightarrow N_2^{+}$, B.O. decreases ($3.0 \\rightarrow 2.5$). Thus, bond energy does not always increase. [cite: 591]",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which of the following statements is incorrect?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. The formation of ionic compounds depend upon the ease of formation of the positive and negative ions from the respective neutral atoms.",
+            "B. Formation of ionic compounds depend upon arrangement of the positive and negative ions in the solid.",
+            "C. Formation of positive ion involves addition of electron(s) while that of negative ion involves removal of electron(s).",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Formation of a positive ion involves the removal of electron(s), and a negative ion involves the addition of electron(s). [cite: 599]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "Ionisation potential values of d block elements as compared to f block elements are:",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. Higher",
+            "B. Lower",
+            "C. Equal",
+            "D. Either of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Removal of electron is easier in f-block elements due to more effective shielding of the nucleus by inner electrons compared to d-block. [cite: 606]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The conductivity of the metal decreases with increases in temperature because",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. The kinetic energy of the electron increases",
+            "B. The movement of electrons becomes haphazard",
+            "C. The kernels start vibrating",
+            "D. The metal becomes hot and starts emitting radiations"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "As temperature increases, metal kernels vibrate more vigorously, creating hindrance (resistance) to the flow of electrons. [cite: 611]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "In which of the following species is the underlined carbon having $sp^3$-hybridisation?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. $\\underline{C}H_3COOH$",
+            "B. $CH_3\\underline{C}H_2OH$",
+            "C. $CH_3\\underline{C}OCH_3$",
+            "D. $CH_2=\\underline{C}H-CH_3$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In $CH_3\\underline{C}H_2OH$, the underlined carbon forms 4 $\\sigma$ bonds, hence it is $sp^3$ hybridised. In the other options, the carbon forms $\\pi$ bonds and is $sp^2$ hybridised. [cite: 615, 616]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Among the following the electron deficient compound is",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. $BCl_3$",
+            "B. $PCl_5$",
+            "C. $CCl_4$",
+            "D. $BeCl_2$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Boron in $BCl_3$ has only 6 electrons in its valence shell, making it electron deficient (octet incomplete). [cite: 619]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The most polar compound among the following is",
+        "question_latex": "",
+        "question_images": [
+            "q87_1"
+        ],
+        "options": [
+            "A. Option A Image",
+            "B. Option B Image",
+            "C. Option C Image",
+            "D. Option D Image"
+        ],
+        "option_images": [
+            "q87optionA1",
+            "q87optionB1",
+            "q87optionC1",
+            "q87optionD1",
+            "87_opA_1.png",
+            "87_opB_1.png",
+            "87_opC_1.png",
+            "87_opD_1.png"
+        ],
+        "answer": "A",
+        "solution": "The resultant dipole moment is highest in structure (A) due to the orientation of the polar $C-F$ bonds. [cite: 631, 632]",
+        "solution_images": [
+            "q87_solution_1",
+            "87_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which of the following is/are not essential condition(s) for hybridisation?\n(i) The orbitals present in the valence shell of the atom are hybridised.\n(ii) The orbitals undergoing hybridisation should have almost equal energy.\n(iii) Promotion of electron is essential prior to hybridisation.\n(iv) Only half filled orbitals participate in hybridisation.",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. (i) only",
+            "B. (iii) only",
+            "C. (iv) only",
+            "D. (iii) and (iv)"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Promotion of electron is not an essential condition, and filled or empty valence orbitals can also participate in hybridisation. [cite: 639, 640, 641]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which among the following molecules is involved in $sp^3d$ hybridization, has different bond lengths and has a lone pair of electrons on the central atom?",
+        "question_latex": "$sp^3d$",
+        "question_images": [],
+        "options": [
+            "A. $SF_4$",
+            "B. $PCl_5$",
+            "C. $PF_5$",
+            "D. $ClF_3$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$SF_4$ has 4 bond pairs and 1 lone pair. Its hybridization is $sp^3d$. Axial bonds are longer than equatorial bonds ($S-F_{axial} > S-F_{equatorial}$). [cite: 653, 654, 655]",
+        "solution_images": [
+            "q89_solution_1",
+            "89_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Which involves breaking of covalent bond?",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. Boiling $H_2S$",
+            "B. Melting KCN",
+            "C. Melting $SiO_2$",
+            "D. Boiling $CF_4$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$SiO_2$ is a covalent network solid; melting it requires breaking strong covalent bonds. Melting KCN breaks ionic bonds, while boiling $H_2S$ and $CF_4$ only overcomes intermolecular forces. [cite: 659]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Correct Lewis structure is",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. Option A",
+            "B. Option B",
+            "C. Option C",
+            "D. Option D"
+        ],
+        "option_images": [
+            "q91optionA1",
+            "q91optionB1",
+            "q91optionC1",
+            "q91optionD1"
+        ],
+        "answer": "C",
+        "solution": "In structure (C), the octets of all atoms are complete, satisfying Lewis theory requirements. [cite: 663]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Two pi and half sigma bonds are present in",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. $O_2$",
+            "B. $N_2$",
+            "C. $O_2^{+}$",
+            "D. $N_2^{+}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The bond order of $N_2^{+}$ is 2.5, which corresponds to two $\\pi$ bonds and a half $\\sigma$ bond. [cite: 667]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "The ground state electronic configuration of valence shell electrons in nitrogen molecule ($N_2$) is written as $KK, \\sigma 2s^2, \\sigma^* 2s^2, \\pi 2p_x^2, \\pi 2p_y^2, \\sigma 2p_z^2$. Bond order in nitrogen molecule is",
+        "question_latex": "$N_2$",
+        "question_images": [],
+        "options": [
+            "A. 0",
+            "B. 1",
+            "C. 2",
+            "D. 3"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Number of bonding electrons ($N_b$) = 8 (valence), Antibonding ($N_a$) = 2. Bond order = $\\frac{1}{2}(8-2) = 3$. [cite: 672, 673]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Consider the following statements:\n(A) $NF_3$ molecule has a trigonal planar structure.\n(B) Bond length of $N_2$ is shorter than $O_2$.\n(C) Isoelectronic molecules or ions have identical bond order.\n(D) Dipole moment of $H_2S$ is higher than that of water molecule.\nChoose the correct answer:",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. (A) and (D) are correct.",
+            "B. (B) and (C) are correct.",
+            "C. (A) and (B) are correct.",
+            "D. (C) and (D) are correct."
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$N_2$ has a triple bond (shorter) while $O_2$ has a double bond. Isoelectronic species always share the same bond order. Statement A is false ($NF_3$ is pyramidal) and D is false ($H_2O$ is more polar). [cite: 675, 680]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "question": "A p-block element in which last electron enters into s-orbitals of valence shell instead of p-orbital is:",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. As",
+            "B. Ga",
+            "C. No such element exist",
+            "D. He"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Helium (He) is placed in the p-block (Group 18) due to its noble gas properties, but its configuration is $1s^2$. [cite: 684]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "$PCl_5$ exists but $NCl_5$ does not because:",
+        "question_latex": "$PCl_5, NCl_5$",
+        "question_images": [],
+        "options": [
+            "A. Nitrogen has no vacant 2d-orbitals",
+            "B. $NCl_5$ is unstable",
+            "C. Nitrogen atom is much smaller than phosphorus",
+            "D. Nitrogen is highly inert"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Nitrogen belongs to the 2nd period and lacks d-orbitals; therefore, it cannot expand its octet to form 5 bonds. [cite: 686, 691]",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Arrange the following in increasing order of bond length: (i) $N_2$, (ii) $N_2^{+}$, (iii) $N_2^{2+}$",
+        "question_latex": "$N_2, N_2^{+}, N_2^{2+}$",
+        "question_images": [],
+        "options": [
+            "A. (ii), (i) and (iii)",
+            "B. (ii), (iii) and (i)",
+            "C. (iii), (ii) and (i)",
+            "D. (i), (ii) and (iii)"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Bond orders: $N_2 = 3$, $N_2^{+} = 2.5$, $N_2^{2+} = 2$. Bond length is inversely proportional to bond order. Order: $N_2 < N_2^{+} < N_2^{2+}$. [cite: 700, 701]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "How many $\\sigma$ and $\\pi$ bonds are present in toluene?",
+        "question_latex": "toluene",
+        "question_images": [],
+        "options": [
+            "A. $3\\pi + 8\\sigma$",
+            "B. $3\\pi + 10\\sigma$",
+            "C. $3\\pi + 15\\sigma$",
+            "D. $6\\pi + 3\\sigma$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Toluene ($C_6H_5CH_3$) contains 15 $\\sigma$ bonds (6 $C-C$ ring, 1 $C-CH_3$, 5 $C-H$ ring, 3 $C-H$ methyl) and 3 $\\pi$ bonds in the ring. [cite: 726]",
+        "solution_images": [
+            "q98_solution_1",
+            "98_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "A $\\sigma$-bonded molecule $MX_3$ is T-shaped. The number of non-bonding pairs of electron is",
+        "question_latex": "$MX_3$",
+        "question_images": [],
+        "options": [
+            "A. 0",
+            "B. 2",
+            "C. 1",
+            "D. Can be predicted only if atomic number of M is known"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "A T-shaped molecule with 3 bond pairs must have 2 lone pairs (total 5 electron pairs, $sp^3d$ hybridization) to adopt this geometry. [cite: 733]",
+        "solution_images": [
+            "q99_solution_1",
+            "99_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "question": "Bond energies in NO, $NO^{+}$ and $NO^{-}$ are such as",
+        "question_latex": "$NO, NO^{+}, NO^{-}$",
+        "question_images": [],
+        "options": [
+            "A. $NO^{-} > NO > NO^{+}$",
+            "B. $NO^{+} > NO^{-} > NO$",
+            "C. $NO > NO^{-} > NO^{+}$",
+            "D. $NO^{+} > NO > NO^{-}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Bond order: $NO^{+} = 3$, $NO = 2.5$, $NO^{-} = 2$. Bond energy is directly proportional to bond order. Order: $NO^{+} > NO > NO^{-}$. [cite: 737, 739, 740]",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    }
+]

@@ -1,0 +1,2172 @@
+[
+    {
+        "id": 1,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify the product P in the following reaction.",
+        "question_latex": "$R{-}OH + (R'CO)_2O \\xrightarrow{H^+} P$",
+        "question_images": [
+            "q1_1",
+            "1_qu_1.png"
+        ],
+        "options": [
+            "A. $RCOOR'$",
+            "B. $R{-}CO{-}R'$",
+            "C. $R{-}COOH + R'OH$",
+            "D. $R{-}COOR + R'COOH$"
+        ],
+        "option_images": [
+            "1_opA_1.png",
+            "1_opB_1.png",
+            "1_opC_1.png",
+            "1_opD_1.png"
+        ],
+        "answer": "D. $R{-}COOR + R'COOH$",
+        "solution": "Alcohol reacts with acid anhydride to form an ester and a carboxylic acid.",
+        "solution_images": [
+            "q1_solution_1",
+            "1_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which compound is used in the preparation of p-benzoquinone by oxidation?",
+        "question_latex": "Which~compound~is~used~in~the~preparation~of~$p$-benzoquinone~by~oxidation?",
+        "question_images": [],
+        "options": [
+            "A. Cyclohexanol",
+            "B. Ethyl alcohol",
+            "C. Phenol",
+            "D. Acetone"
+        ],
+        "option_images": [
+            "2_opB_1.png"
+        ],
+        "answer": "C. Phenol",
+        "solution": "Phenol on oxidation with $CrO_3/H_2SO_4$ gives p-benzoquinone.",
+        "solution_images": [
+            "q2_solution_1",
+            "2_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which is steam volatile?",
+        "question_latex": "Which~compound~is~steam~volatile?",
+        "question_images": [],
+        "options": [
+            "A. o-Nitrophenol",
+            "B. m-Nitrophenol",
+            "C. p-Nitrophenol",
+            "D. Picric acid"
+        ],
+        "option_images": [],
+        "answer": "A. o-Nitrophenol",
+        "solution": "Intramolecular hydrogen bonding makes o-nitrophenol steam volatile.",
+        "solution_images": [
+            "q3_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which structure represents an alcohol with molecular formula C5H12O?",
+        "question_latex": "Which~structure~represents~an~alcohol~with~molecular~formula~$C_5H_{12}O$?",
+        "question_images": [
+            "q4_1"
+        ],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "q4optionA1",
+            "q4optionB1",
+            "q4optionC1",
+            "q4optionD1",
+            "4_opA_1.png",
+            "4_opB_1.png",
+            "4_opC_1.png",
+            "4_opD_1.png"
+        ],
+        "answer": "C. Structure C",
+        "solution": "Structure corresponds to 3-hydroxypentane.",
+        "solution_images": [
+            "q4_solution_1",
+            "4_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which reagent converts acetic acid into ethanol?",
+        "question_latex": "Which~reagent~converts~acetic~acid~into~ethanol?",
+        "question_images": [],
+        "options": [
+            "A. $Sn/HCl$",
+            "B. $H_2/Pt$",
+            "C. $LiAlH_4/ether$",
+            "D. $Na/Alcohol$"
+        ],
+        "option_images": [],
+        "answer": "C. $LiAlH_4/ether$",
+        "solution": "$LiAlH_4$ reduces carboxylic acids to primary alcohols.",
+        "solution_images": [
+            "q5_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "KMnO4 acts as oxidizing agent in which medium?",
+        "question_latex": "$KMnO_4$~acts~as~oxidizing~agent~in~which~medium?",
+        "question_images": [],
+        "options": [
+            "A. Acidic",
+            "B. Neutral",
+            "C. Alkaline",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "D. All of the above",
+        "solution": "$KMnO_4$ acts as oxidizing agent in all media.",
+        "solution_images": [
+            "q6_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which product is obtained when anisole is heated with dilute sulphuric acid?",
+        "question_latex": "Which~product~is~obtained~when~anisole~is~heated~with~dilute~$H_2SO_4$?",
+        "question_images": [
+            "q7_1"
+        ],
+        "options": [
+            "A. Phenol and ethanol",
+            "B. Pyrogallol and methanol",
+            "C. Phloroglucinol and ethanol",
+            "D. Phenol and methanol"
+        ],
+        "option_images": [],
+        "answer": "D. Phenol and methanol",
+        "solution": "Anisole undergoes acidic cleavage to phenol and methanol.",
+        "solution_images": [
+            "q7_solution_1",
+            "7_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Ethyl formate on catalytic hydrogenation gives:",
+        "question_latex": "Ethyl~formate~on~catalytic~hydrogenation~gives:",
+        "question_images": [],
+        "options": [
+            "A. Ethanol",
+            "B. Methanol and ethanol",
+            "C. Methanol",
+            "D. Ethyl alcohol only"
+        ],
+        "option_images": [],
+        "answer": "B. Methanol and ethanol",
+        "solution": "Ester hydrogenation produces two alcohols.",
+        "solution_images": [
+            "q8_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which phenol is most acidic?",
+        "question_latex": "Which~phenol~is~most~acidic?",
+        "question_images": [
+            "q9_1"
+        ],
+        "options": [
+            "A. Phenol",
+            "B. o-Cresol",
+            "C. p-Cresol",
+            "D. Nitro phenol"
+        ],
+        "option_images": [
+            "9_opA_1.png",
+            "9_opB_1.png",
+            "9_opC_1.png",
+            "9_opD_1.png"
+        ],
+        "answer": "D. Nitro phenol",
+        "solution": "Electron-withdrawing $NO_2$ group increases acidity.",
+        "solution_images": [
+            "q9_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which benzylic alcohol is tertiary?",
+        "question_latex": "Which~benzylic~alcohol~is~tertiary?",
+        "question_images": [
+            "q10_1"
+        ],
+        "options": [
+            "A. 2-Phenylpropan-2-ol",
+            "B. 1-Phenylpropan-2-ol",
+            "C. Phenyl methanol",
+            "D. 1-Phenyl ethanol"
+        ],
+        "option_images": [],
+        "answer": "A. 2-Phenylpropan-2-ol",
+        "solution": "OH-bearing carbon is attached to three carbon groups.",
+        "solution_images": [
+            "q10_solution_1",
+            "10_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Phenol can be distinguished from alcohols by which test?",
+        "question_latex": "Phenol~can~be~distinguished~from~alcohols~by~which~test?",
+        "question_images": [],
+        "options": [
+            "A. Lucas test",
+            "B. FeCl$_3$ test",
+            "C. BaCl$_2$ test",
+            "D. Iodoform test"
+        ],
+        "option_images": [],
+        "answer": "B. FeCl$_3$ test",
+        "solution": "Phenol gives violet color with neutral FeCl$_3$ solution.",
+        "solution_images": [
+            "q11_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify the products formed in the following reaction.",
+        "question_latex": "Identify~the~products~formed~in~the~following~reaction.",
+        "question_images": [
+            "q12_1",
+            "12_qu_1.png"
+        ],
+        "options": [
+            "A. Phenol + Propanal",
+            "B. Phenol + Propan-1-ol",
+            "C. Phenol + Propan-2-ol",
+            "D. Phenol + Propanone"
+        ],
+        "option_images": [],
+        "answer": "C. Phenol + Propan-2-ol",
+        "solution": "Ether cleavage in acidic medium yields phenol and secondary alcohol.",
+        "solution_images": [
+            "q12_solution_1",
+            "12_so_1.png",
+            "12_so_2.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which of the following is a secondary benzylic alcohol?",
+        "question_latex": "Which~of~the~following~is~a~secondary~benzylic~alcohol?",
+        "question_images": [
+            "q13_1"
+        ],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "q13optionA1",
+            "q13optionB1",
+            "q13optionC1",
+            "q13optionD1",
+            "13_opA_1.png",
+            "13_opB_1.png",
+            "13_opC_1.png",
+            "13_opD_1.png"
+        ],
+        "answer": "A. Structure A",
+        "solution": "OH-bearing carbon attached to benzene ring and two carbons.",
+        "solution_images": [
+            "q13_solution_1",
+            "13_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Lucas test is positive for which compound?",
+        "question_latex": "Lucas~test~is~positive~for~which~compound?",
+        "question_images": [],
+        "options": [
+            "A. $CH_3OH$",
+            "B. $C_2H_5OH$",
+            "C. $CH_3Cl$",
+            "D. $CH_3CHO$"
+        ],
+        "option_images": [],
+        "answer": "B. $C_2H_5OH$",
+        "solution": "Secondary and tertiary alcohols give positive Lucas test.",
+        "solution_images": [
+            "q14_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify the compound obtained in the following reaction.",
+        "question_latex": "Identify~the~compound~obtained~in~the~following~reaction.",
+        "question_images": [
+            "q15_1",
+            "15_qu_1.png"
+        ],
+        "options": [
+            "A. Aryl chloride",
+            "B. Aryl ester",
+            "C. Alkyl ester",
+            "D. Acid anhydride"
+        ],
+        "option_images": [
+            "15_opA_1.png",
+            "15_opB_1.png",
+            "15_opC_1.png",
+            "15_opD_1.png"
+        ],
+        "answer": "B. Aryl ester",
+        "solution": "Phenol reacts with acid chloride in presence of pyridine to give ester.",
+        "solution_images": [
+            "q15_solution_1",
+            "15_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "The H–C–H bond angle in methane is:",
+        "question_latex": "The~H\\text{–}C\\text{–}H~bond~angle~in~methane~is:",
+        "question_images": [],
+        "options": [
+            "A. $90^\\circ$",
+            "B. $108.9^\\circ$",
+            "C. $109.5^\\circ$",
+            "D. $180^\\circ$"
+        ],
+        "option_images": [],
+        "answer": "C. $109.5^\\circ$",
+        "solution": "Methane is $sp^3$ hybridized with tetrahedral geometry.",
+        "solution_images": [
+            "q16_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Ethers can be prepared by which methods?",
+        "question_latex": "Ethers~can~be~prepared~by~which~methods?",
+        "question_images": [],
+        "options": [
+            "A. 1, 2, 3",
+            "B. 1, 2, 4",
+            "C. 2, 3, 4",
+            "D. 1, 2"
+        ],
+        "option_images": [],
+        "answer": "A. 1, 2, 3",
+        "solution": "Ethers are prepared by Williamson synthesis, alkyl halides and diazomethane.",
+        "solution_images": [
+            "q17_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which compound is obtained as major product in Friedel–Crafts acylation of anisole?",
+        "question_latex": "Which~compound~is~obtained~as~major~product~in~Friedel\\text{–}Crafts~acylation~of~anisole?",
+        "question_images": [
+            "q18_1"
+        ],
+        "options": [
+            "A. 4-Methoxyacetophenone",
+            "B. 2-Methoxytoluene",
+            "C. 2-Methoxyacetophenone",
+            "D. Toluene"
+        ],
+        "option_images": [],
+        "answer": "A. 4-Methoxyacetophenone",
+        "solution": "Para position is favored due to steric hindrance.",
+        "solution_images": [
+            "q18_solution_1",
+            "18_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Bond-line structural formula of crotonyl alcohol is:",
+        "question_latex": "Bond\\text{-}line~structural~formula~of~crotonyl~alcohol~is:",
+        "question_images": [
+            "q19_1"
+        ],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "q19optionA1",
+            "q19optionB1",
+            "q19optionC1",
+            "q19optionD1",
+            "19_opA_1.png",
+            "19_opB_1.png",
+            "19_opC_1.png",
+            "19_opD_1.png"
+        ],
+        "answer": "C. Structure C",
+        "solution": "Crotonyl alcohol is $CH_3{-}CH{=}CH{-}CH_2OH$.",
+        "solution_images": [
+            "q19_solution_1",
+            "19_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Hydroboration–oxidation of alkenes gives:",
+        "question_latex": "Hydroboration\\text{–}oxidation~of~alkenes~gives:",
+        "question_images": [],
+        "options": [
+            "A. Acids",
+            "B. Aldehydes",
+            "C. Ketones",
+            "D. Alcohols"
+        ],
+        "option_images": [],
+        "answer": "D. Alcohols",
+        "solution": "Anti-Markovnikov addition forms alcohols.",
+        "solution_images": [
+            "q20_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which phenol does not correctly match with its IUPAC name?",
+        "question_latex": "Which~phenol~does~not~correctly~match~with~its~IUPAC~name?",
+        "question_images": [],
+        "options": [
+            "A. Catechol – Benzene-1,2-diol",
+            "B. o-Cresol – Benzene-1,2,3-triol",
+            "C. Resorcinol – Benzene-1,3-diol",
+            "D. Quinone – Benzene-1,4-dione"
+        ],
+        "option_images": [],
+        "answer": "B. o-Cresol – Benzene-1,2,3-triol",
+        "solution": "o-Cresol is 2-methylphenol, not triol.",
+        "solution_images": [
+            "q21_solution_1",
+            "21_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Kolbe’s reaction converts sodium phenoxide into:",
+        "question_latex": "Kolbe\\text{’}s~reaction~converts~sodium~phenoxide~into:",
+        "question_images": [
+            "q22_1"
+        ],
+        "options": [
+            "A. Phenol",
+            "B. Salicylic acid",
+            "C. Benzoic acid",
+            "D. Toluene"
+        ],
+        "option_images": [],
+        "answer": "B. Salicylic acid",
+        "solution": "Kolbe–Schmitt reaction introduces $COOH$ group ortho to $OH$.",
+        "solution_images": [
+            "q22_solution_1",
+            "22_so_1.png",
+            "22_so_2.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "According to carbinol system, tert-butanol is named as:",
+        "question_latex": "According~to~carbinol~system,~tert\\text{-}butanol~is~named~as:",
+        "question_images": [
+            "q23_1"
+        ],
+        "options": [
+            "A. Ethyl carbinol",
+            "B. Trimethyl carbinol",
+            "C. Methyl carbinol",
+            "D. Propyl carbinol"
+        ],
+        "option_images": [],
+        "answer": "B. Trimethyl carbinol",
+        "solution": "Central carbon attached to three methyl groups.",
+        "solution_images": [
+            "q23_solution_1",
+            "23_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify compound A in the following reaction.",
+        "question_latex": "Identify~compound~A~in~the~following~reaction.",
+        "question_images": [
+            "q24_1",
+            "24_qu_1.png"
+        ],
+        "options": [
+            "A. $CH_3COCH_3$",
+            "B. $CH_3CHO$",
+            "C. $HCHO$",
+            "D. $CH_3COOH$"
+        ],
+        "option_images": [],
+        "answer": "B. $CH_3CHO$",
+        "solution": "Grignard reagent addition to aldehyde yields secondary alcohol.",
+        "solution_images": [
+            "q24_solution_1",
+            "24_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "n-Propyl alcohol and isopropyl alcohol can be distinguished using:",
+        "question_latex": "$n$\\text{-}Propyl~alcohol~and~isopropyl~alcohol~can~be~distinguished~using:",
+        "question_images": [],
+        "options": [
+            "A. $PCl_5$",
+            "B. Oxidation with potassium dichromate",
+            "C. Na metal",
+            "D. HCl"
+        ],
+        "option_images": [],
+        "answer": "B. Oxidation with potassium dichromate",
+        "solution": "Primary and secondary alcohols give different oxidation products.",
+        "solution_images": [
+            "q25_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which of the following has lowest boiling point?",
+        "question_latex": "Which~of~the~following~has~lowest~boiling~point?",
+        "question_images": [],
+        "options": [
+            "A. tert-Butyl alcohol",
+            "B. sec-Butyl alcohol",
+            "C. iso-Butyl alcohol",
+            "D. n-Butyl alcohol"
+        ],
+        "option_images": [],
+        "answer": "A. tert-Butyl alcohol",
+        "solution": "Greater branching lowers boiling point due to reduced surface area.",
+        "solution_images": [
+            "q26_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "What is the IUPAC name of the following compound?",
+        "question_latex": "What~is~the~IUPAC~name~of~the~following~compound?",
+        "question_images": [
+            "q27_1",
+            "27_qu_1.png"
+        ],
+        "options": [
+            "A. 1-Methoxy-3,3-dimethylcyclobutane",
+            "B. 3,3-Dimethylcyclobutoxymethane",
+            "C. 3-Methoxy-1,1-dimethylcyclobutane",
+            "D. 1-Methoxy-3-isopropylbutane"
+        ],
+        "option_images": [],
+        "answer": "C. 3-Methoxy-1,1-dimethylcyclobutane",
+        "solution": "Lowest locant rule applied.",
+        "solution_images": [
+            "q27_solution_1",
+            "27_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "What is the IUPAC name of the following compound?",
+        "question_latex": "What~is~the~IUPAC~name~of~the~following~compound?",
+        "question_images": [
+            "q28_1",
+            "28_qu_1.png"
+        ],
+        "options": [
+            "A. 1-Methoxy-3-isopropylbutane",
+            "B. 3-Methoxy-1,1-dimethylcyclobutane",
+            "C. 3,3-Dimethylcyclobutoxymethane",
+            "D. 1-Methoxy-3,3-dimethylcyclobutane"
+        ],
+        "option_images": [],
+        "answer": "B. 3-Methoxy-1,1-dimethylcyclobutane",
+        "solution": "Proper ether nomenclature applied.",
+        "solution_images": [
+            "q28_solution_1",
+            "28_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "What type of isomerism is exhibited by pentanol?",
+        "question_latex": "What~type~of~isomerism~is~exhibited~by~pentanol?",
+        "question_images": [],
+        "options": [
+            "A. Position",
+            "B. Chain",
+            "C. Optical",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D. All of these",
+        "solution": "Pentanol shows chain, position and optical isomerism.",
+        "solution_images": [
+            "q29_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Aldehydes and ketones react with Grignard reagent to give:",
+        "question_latex": "Aldehydes~and~ketones~react~with~Grignard~reagent~to~give:",
+        "question_images": [],
+        "options": [
+            "A. Mixture of 1°, 2°, 3° alcohols",
+            "B. Only 2° or 3° alcohols",
+            "C. Only 1° alcohols",
+            "D. Only 3° alcohols"
+        ],
+        "option_images": [],
+        "answer": "B. Only 2° or 3° alcohols",
+        "solution": "Aldehydes give 2°; ketones give 3° alcohols.",
+        "solution_images": [
+            "q30_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "What is the IUPAC name of phloroglucinol?",
+        "question_latex": "What~is~the~IUPAC~name~of~phloroglucinol?",
+        "question_images": [
+            "q31_1"
+        ],
+        "options": [
+            "A. Benzene-1,3,5-triol",
+            "B. Benzene-1,2,3-triol",
+            "C. Benzene-1,3-diol",
+            "D. Benzene-1,4-diol"
+        ],
+        "option_images": [],
+        "answer": "A. Benzene-1,3,5-triol",
+        "solution": "Hydroxyl groups at 1,3,5 positions.",
+        "solution_images": [
+            "q31_solution_1",
+            "31_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which alcohol cannot be prepared by action of Grignard reagent on ethanal?",
+        "question_latex": "Which~alcohol~cannot~be~prepared~by~action~of~Grignard~reagent~on~ethanal?",
+        "question_images": [
+            "q32_1"
+        ],
+        "options": [
+            "A. Primary alcohol",
+            "B. Secondary alcohol",
+            "C. Tertiary alcohol",
+            "D. None of these"
+        ],
+        "option_images": [
+            "32_opA_1.png",
+            "32_opC_1.png",
+            "32_opD_1.png"
+        ],
+        "answer": "A. Primary alcohol",
+        "solution": "Ethanal gives secondary alcohol only.",
+        "solution_images": [
+            "q32_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "The bond line structure of crotonyl alcohol is:",
+        "question_latex": "The~bond\\text{-}line~structure~of~crotonyl~alcohol~is:",
+        "question_images": [
+            "q33_1"
+        ],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "q33optionA1",
+            "q33optionB1",
+            "q33optionC1",
+            "q33optionD1",
+            "33_opA_1.png",
+            "33_opB_1.png",
+            "33_opC_1.png",
+            "33_opD_1.png"
+        ],
+        "answer": "C. Structure C",
+        "solution": "Crotonyl alcohol is $CH_3{-}CH{=}CH{-}CH_2OH$.",
+        "solution_images": [
+            "q33_solution_1",
+            "33_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "To obtain 3-methylbutan-2-ol from acetaldehyde, the Grignard reagent used is:",
+        "question_latex": "To~obtain~3\\text{-}methylbutan\\text{-}2\\text{-}ol~from~acetaldehyde,~the~Grignard~reagent~used~is:",
+        "question_images": [
+            "q34_1",
+            "34_qu_1.png"
+        ],
+        "options": [
+            "A. $CH_3MgBr$",
+            "B. $C_2H_5MgBr$",
+            "C. Isopropyl magnesium bromide",
+            "D. tert-Butyl magnesium bromide"
+        ],
+        "option_images": [],
+        "answer": "C. Isopropyl magnesium bromide",
+        "solution": "Isopropyl group addition yields desired alcohol.",
+        "solution_images": [
+            "q34_solution_1",
+            "34_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Lucas reagent is:",
+        "question_latex": "Lucas~reagent~is:",
+        "question_images": [],
+        "options": [
+            "A. Anhydrous $ZnCl_2$ in conc. $HNO_3$",
+            "B. Anhydrous $ZnCl_2$ in conc. $HCl$",
+            "C. Anhydrous $ZnCl_2$ in dil. $HCl$",
+            "D. Anhydrous $ZnCl_2$ in conc. $H_2SO_4$"
+        ],
+        "option_images": [],
+        "answer": "B. Anhydrous $ZnCl_2$ in conc. $HCl$",
+        "solution": "Used to distinguish alcohol classes.",
+        "solution_images": [
+            "q35_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Catalytic oxidation of benzyl alcohol gives:",
+        "question_latex": "Catalytic~oxidation~of~benzyl~alcohol~gives:",
+        "question_images": [],
+        "options": [
+            "A. Benzaldehyde",
+            "B. Benzoic acid",
+            "C. Toluene",
+            "D. Phenol"
+        ],
+        "option_images": [],
+        "answer": "A. Benzaldehyde",
+        "solution": "Primary benzylic alcohol oxidizes to aldehyde under controlled conditions.",
+        "solution_images": [
+            "q36_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Place the following alcohols in decreasing order of reactivity towards dehydration:",
+        "question_latex": "Place~the~following~alcohols~in~decreasing~order~of~reactivity~towards~dehydration:",
+        "question_images": [
+            "q37_1"
+        ],
+        "options": [
+            "A. $4 > 3 > 2 > 1$",
+            "B. $1 > 2 > 3 > 4$",
+            "C. $2 > 3 > 4 > 1$",
+            "D. $3 > 4 > 2 > 1$"
+        ],
+        "option_images": [],
+        "answer": "A. $4 > 3 > 2 > 1$",
+        "solution": "More substituted carbocation forms faster; tertiary > secondary > primary.",
+        "solution_images": [
+            "q37_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Phenols are more acidic than alcohols because:",
+        "question_latex": "Phenols~are~more~acidic~than~alcohols~because:",
+        "question_images": [
+            "q38_1"
+        ],
+        "options": [
+            "A. Phenoxide ion is stabilized by resonance",
+            "B. Phenols are more soluble in polar solvents",
+            "C. Phenoxide ion has no resonance",
+            "D. Alcohols do not have hydrogen"
+        ],
+        "option_images": [],
+        "answer": "A. Phenoxide ion is stabilized by resonance",
+        "solution": "Resonance stabilization of phenoxide ion increases acidity.",
+        "solution_images": [
+            "q38_solution_1",
+            "38_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which process of preparation of phenol yields acetone as by-product?",
+        "question_latex": "Which~process~of~preparation~of~phenol~yields~acetone~as~by\\text{-}product?",
+        "question_images": [
+            "q39_1"
+        ],
+        "options": [
+            "A. Cumene process",
+            "B. Diazotization of aniline",
+            "C. Raschig process",
+            "D. Alkali fusion"
+        ],
+        "option_images": [],
+        "answer": "A. Cumene process",
+        "solution": "Cumene hydroperoxide cleavage yields phenol and acetone.",
+        "solution_images": [
+            "q39_solution_1",
+            "39_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which of the following is primary allylic alcohol?",
+        "question_latex": "Which~of~the~following~is~primary~allylic~alcohol?",
+        "question_images": [
+            "q40_1"
+        ],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "q40optionA1",
+            "q40optionB1",
+            "q40optionC1",
+            "q40optionD1",
+            "40_opA_1.png",
+            "40_opC_1.png",
+            "40_opD_1.png"
+        ],
+        "answer": "B. Structure B",
+        "solution": "Primary allylic alcohol has $OH$ on a primary carbon adjacent to $C{=}C$ bond.",
+        "solution_images": [
+            "q40_solution_1",
+            "40_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Alcohols give alkyl halides on treatment with:",
+        "question_latex": "Alcohols~give~alkyl~halides~on~treatment~with:",
+        "question_images": [],
+        "options": [
+            "A. $PCl_5$",
+            "B. $PBr_3$",
+            "C. HX",
+            "D. All of these"
+        ],
+        "option_images": [],
+        "answer": "D. All of these",
+        "solution": "Alcohols can be converted to alkyl halides by various halogenating agents.",
+        "solution_images": [
+            "q41_solution_1",
+            "41_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Cumene is converted into phenol by:",
+        "question_latex": "Cumene~is~converted~into~phenol~by:",
+        "question_images": [],
+        "options": [
+            "A. Reduction and decomposition by acid",
+            "B. Oxidation and decomposition by acid",
+            "C. Oxidation and decomposition by alkali",
+            "D. Reduction and decomposition by alkali"
+        ],
+        "option_images": [],
+        "answer": "B. Oxidation and decomposition by acid",
+        "solution": "Cumene hydroperoxide decomposes under acidic conditions.",
+        "solution_images": [
+            "q42_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which of the following is the most viscous liquid?",
+        "question_latex": "Which~of~the~following~is~the~most~viscous~liquid?",
+        "question_images": [],
+        "options": [
+            "A. Ethylene glycol",
+            "B. Glycerol",
+            "C. Methanol",
+            "D. Ethanol"
+        ],
+        "option_images": [],
+        "answer": "B. Glycerol",
+        "solution": "Three $-OH$ groups lead to maximum hydrogen bonding and viscosity.",
+        "solution_images": [
+            "q43_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify phenolic compound from the following.",
+        "question_latex": "Identify~phenolic~compound~from~the~following.",
+        "question_images": [
+            "q44_1"
+        ],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "q44optionA1",
+            "q44optionB1",
+            "q44optionC1",
+            "q44optionD1",
+            "44_opA_1.png",
+            "44_opB_1.png",
+            "44_opC_1.png",
+            "44_opD_1.png"
+        ],
+        "answer": "D. Structure D",
+        "solution": "Phenolic compound has $-OH$ directly attached to aromatic ring.",
+        "solution_images": [
+            "q44_solution_1",
+            "44_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify product B in the following sequence of reactions.",
+        "question_latex": "Identify~product~B~in~the~following~sequence~of~reactions.",
+        "question_images": [
+            "q45_1"
+        ],
+        "options": [
+            "A. $RCOOH$",
+            "B. $RCOOR'$",
+            "C. $RCH_2OH$",
+            "D. $RCOCl$"
+        ],
+        "option_images": [],
+        "answer": "B. $RCOOR'$",
+        "solution": "Esterification gives ester as product.",
+        "solution_images": [
+            "q45_solution_1",
+            "45_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which alcohol of molecular formula $C_4H_{10}O$ cannot be obtained by reduction of carbonyl compound?",
+        "question_latex": "Which~alcohol~of~molecular~formula~$C_4H_{10}O$~cannot~be~obtained~by~reduction~of~carbonyl~compound?",
+        "question_images": [],
+        "options": [
+            "A. 2-Methylpropan-1-ol",
+            "B. 2-Methylpropan-2-ol",
+            "C. Butanol",
+            "D. Butan-2-ol"
+        ],
+        "option_images": [],
+        "answer": "B. 2-Methylpropan-2-ol",
+        "solution": "Tertiary alcohols cannot be formed by reduction of carbonyl compounds.",
+        "solution_images": [
+            "q46_solution_1",
+            "46_so_1.png",
+            "46_so_2.png",
+            "46_so_3.png",
+            "46_so_4.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which compound is used as antifreeze in automobile radiators?",
+        "question_latex": "Which~compound~is~used~as~antifreeze~in~automobile~radiators?",
+        "question_images": [],
+        "options": [
+            "A. Methanol",
+            "B. Ethylene glycol",
+            "C. Glycerol",
+            "D. Ethanol"
+        ],
+        "option_images": [
+            "47_opD_1.png"
+        ],
+        "answer": "B. Ethylene glycol",
+        "solution": "Ethylene glycol lowers freezing point effectively.",
+        "solution_images": [
+            "q47_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify reducing agent used for conversion $R{-}CHO \\rightarrow R{-}CH_2OH$.",
+        "question_latex": "Identify~reducing~agent~used~for~conversion~$R{-}CHO~\\xrightarrow{}~R{-}CH_2OH$.",
+        "question_images": [],
+        "options": [
+            "A. $K_2Cr_2O_7/H_2SO_4$",
+            "B. $LiAlH_4$",
+            "C. $Sn/HCl$",
+            "D. $Na/dry~ether$"
+        ],
+        "option_images": [],
+        "answer": "B. $LiAlH_4$",
+        "solution": "$LiAlH_4$ reduces aldehydes to primary alcohols.",
+        "solution_images": [
+            "q48_solution_1",
+            "48_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify the product obtained in the following reaction.",
+        "question_latex": "$(CH_3)_3COH~\\xrightarrow{Cu,~573~K}~?$",
+        "question_images": [
+            "q49_1"
+        ],
+        "options": [
+            "A. Acetaldehyde",
+            "B. Isobutane",
+            "C. 2-Methylpropene",
+            "D. Acetone"
+        ],
+        "option_images": [],
+        "answer": "C. 2-Methylpropene",
+        "solution": "Tertiary alcohol undergoes dehydration to form alkene.",
+        "solution_images": [
+            "q49_solution_1",
+            "49_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Ethanol when passed over $Al_2O_3$ at 623 K gives:",
+        "question_latex": "Ethanol~when~passed~over~$Al_2O_3$~at~623~K~gives:",
+        "question_images": [],
+        "options": [
+            "A. Diethyl ether",
+            "B. Ethane",
+            "C. Butane",
+            "D. Ethylene"
+        ],
+        "option_images": [],
+        "answer": "D. Ethylene",
+        "solution": "Dehydration of ethanol over alumina yields ethylene.",
+        "solution_images": [
+            "q50_solution_1",
+            "50_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify the product of the following reaction.",
+        "question_latex": "Aniline \\xrightarrow{NaNO_2/HCl,\\ 273\\,K} ?",
+        "question_images": [
+            "q51_1"
+        ],
+        "options": [
+            "A. Phenol",
+            "B. m-Nitroaniline",
+            "C. o-Nitroaniline",
+            "D. p-Nitroaniline"
+        ],
+        "option_images": [],
+        "answer": "A. Phenol",
+        "solution": "Aniline undergoes diazotization followed by hydrolysis to give phenol.",
+        "solution_images": [
+            "q51_solution_1",
+            "51_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which of the following alcohols has tertiary allylic carbon?",
+        "question_latex": "",
+        "question_images": [
+            "q52_1"
+        ],
+        "options": [
+            "A. But-3-en-2-ol",
+            "B. Prop-2-en-1-ol",
+            "C. 2-Methylbut-3-en-2-ol",
+            "D. 1-Phenyl ethanol"
+        ],
+        "option_images": [],
+        "answer": "C. 2-Methylbut-3-en-2-ol",
+        "solution": "OH-bearing carbon is tertiary and adjacent to a C=C bond.",
+        "solution_images": [
+            "q52_solution_1",
+            "52_so_1.png",
+            "52_so_2.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which compound is obtained when Grignard reagent reacts with ketone and the complex formed is hydrolysed?",
+        "question_latex": "",
+        "question_images": [
+            "q53_1"
+        ],
+        "options": [
+            "A. Esters",
+            "B. Ether",
+            "C. Carboxylic acid",
+            "D. Alcohols"
+        ],
+        "option_images": [],
+        "answer": "D. Alcohols",
+        "solution": "Ketones react with Grignard reagents to form tertiary alcohols after hydrolysis.",
+        "solution_images": [
+            "q53_solution_1",
+            "53_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify the product formed when vapours of 2-methylpropan-2-ol are passed over hot copper.",
+        "question_latex": "",
+        "question_images": [
+            "q54_1"
+        ],
+        "options": [
+            "A. 2-Methylpropene",
+            "B. Propanal",
+            "C. 2-Methylpropanoic acid",
+            "D. Propanone"
+        ],
+        "option_images": [],
+        "answer": "A. 2-Methylpropene",
+        "solution": "Tertiary alcohols undergo dehydration over hot copper to form alkenes.",
+        "solution_images": [
+            "q54_solution_1",
+            "54_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Ethyl ether can be regarded as anhydride of:",
+        "question_latex": "",
+        "question_images": [],
+        "options": [
+            "A. $C_2H_5OH$",
+            "B. $C_2H_5OH$ and $C_2H_5OH$",
+            "C. $C_2H_5COOH$",
+            "D. $CH_3COOH$"
+        ],
+        "option_images": [],
+        "answer": "B. $C_2H_5OH$ and $C_2H_5OH$",
+        "solution": "Ether is formed by removal of water from two alcohol molecules.",
+        "solution_images": [
+            "q55_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "What is the IUPAC name of the following compound?",
+        "question_latex": "",
+        "question_images": [
+            "q56_1",
+            "56_qu_1.png"
+        ],
+        "options": [
+            "A. 4-Ethyl-2-methylcyclobutanol",
+            "B. 1-Ethyl-2-hydroxy-3-methylcyclobutane",
+            "C. 2-Ethyl-4-methylcyclobutanol",
+            "D. 1-Hydroxy-2-methyl-4-ethylcyclobutane"
+        ],
+        "option_images": [],
+        "answer": "C. 2-Ethyl-4-methylcyclobutanol",
+        "solution": "Lowest locant rule is applied considering OH as principal functional group.",
+        "solution_images": [
+            "q56_solution_1",
+            "56_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify the product B in the following series of reactions.",
+        "question_latex": "Propan-1-ol \\xrightarrow{conc.\\ H_2SO_4} A \\xrightarrow{H_2O} B",
+        "question_images": [
+            "q57_1",
+            "57_qu_1.png"
+        ],
+        "options": [
+            "A. Propene",
+            "B. Propanone",
+            "C. Propan-2-ol",
+            "D. Propanal"
+        ],
+        "option_images": [],
+        "answer": "C. Propan-2-ol",
+        "solution": "Dehydration gives propene, hydration yields secondary alcohol.",
+        "solution_images": [
+            "q57_solution_1",
+            "57_so_1.png",
+            "57_so_2.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify the product of the following reaction.",
+        "question_latex": "Aniline~\\xrightarrow{NaNO_2/HCl,\\ 273\\,K}~?",
+        "question_images": [
+            "q51_1"
+        ],
+        "options": [
+            "A. Phenol",
+            "B. m-Nitroaniline",
+            "C. o-Nitroaniline",
+            "D. p-Nitroaniline"
+        ],
+        "option_images": [],
+        "answer": "A. Phenol",
+        "solution": "Aniline undergoes diazotization followed by hydrolysis to give phenol.",
+        "solution_images": [
+            "q51_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which of the following alcohols has tertiary allylic carbon?",
+        "question_latex": "Which~of~the~following~alcohols~has~tertiary~allylic~carbon?",
+        "question_images": [
+            "q52_1"
+        ],
+        "options": [
+            "A. But-3-en-2-ol",
+            "B. Prop-2-en-1-ol",
+            "C. 2-Methylbut-3-en-2-ol",
+            "D. 1-Phenyl ethanol"
+        ],
+        "option_images": [],
+        "answer": "C. 2-Methylbut-3-en-2-ol",
+        "solution": "The OH-bearing carbon is tertiary and adjacent to a $C=C$ bond.",
+        "solution_images": [
+            "q52_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which compound is obtained when Grignard reagent reacts with ketone and the complex formed is hydrolysed?",
+        "question_latex": "Which~compound~is~obtained~when~Grignard~reagent~reacts~with~ketone~and~the~complex~formed~is~hydrolysed?",
+        "question_images": [
+            "q53_1"
+        ],
+        "options": [
+            "A. Esters",
+            "B. Ether",
+            "C. Carboxylic acid",
+            "D. Alcohols"
+        ],
+        "option_images": [],
+        "answer": "D. Alcohols",
+        "solution": "Ketones react with Grignard reagents to form tertiary alcohols after hydrolysis.",
+        "solution_images": [
+            "q53_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify the product formed when vapours of 2-methylpropan-2-ol are passed over hot copper.",
+        "question_latex": "Identify~the~product~formed~when~vapours~of~2\\text{-}methylpropan\\text{-}2\\text{-}ol~are~passed~over~hot~copper.",
+        "question_images": [
+            "q54_1"
+        ],
+        "options": [
+            "A. 2-Methylpropene",
+            "B. Propanal",
+            "C. 2-Methylpropanoic acid",
+            "D. Propanone"
+        ],
+        "option_images": [],
+        "answer": "A. 2-Methylpropene",
+        "solution": "Tertiary alcohol undergoes dehydration over hot copper to form alkene.",
+        "solution_images": [
+            "q54_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Ethyl ether can be regarded as anhydride of:",
+        "question_latex": "Ethyl~ether~can~be~regarded~as~anhydride~of:",
+        "question_images": [],
+        "options": [
+            "A. $C_2H_5OH$",
+            "B. $C_2H_5OH$ and $C_2H_5OH$",
+            "C. $C_2H_5COOH$",
+            "D. $CH_3COOH$"
+        ],
+        "option_images": [],
+        "answer": "B. $C_2H_5OH$ and $C_2H_5OH$",
+        "solution": "Ether is formed by dehydration of two alcohol molecules.",
+        "solution_images": [
+            "q55_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "What is the IUPAC name of the following compound?",
+        "question_latex": "What~is~the~IUPAC~name~of~the~following~compound?",
+        "question_images": [
+            "q56_1"
+        ],
+        "options": [
+            "A. 4-Ethyl-2-methylcyclobutanol",
+            "B. 1-Ethyl-2-hydroxy-3-methylcyclobutane",
+            "C. 2-Ethyl-4-methylcyclobutanol",
+            "D. 1-Hydroxy-2-methyl-4-ethylcyclobutane"
+        ],
+        "option_images": [],
+        "answer": "C. 2-Ethyl-4-methylcyclobutanol",
+        "solution": "OH group gets lowest locant; substituents numbered accordingly.",
+        "solution_images": [
+            "q56_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify the product B in the following series of reactions.",
+        "question_latex": "Propan\\text{-}1\\text{-}ol~\\xrightarrow{conc.~H_2SO_4}~A~\\xrightarrow{H_2O}~B",
+        "question_images": [
+            "q57_1"
+        ],
+        "options": [
+            "A. Propene",
+            "B. Propanone",
+            "C. Propan-2-ol",
+            "D. Propanal"
+        ],
+        "option_images": [],
+        "answer": "C. Propan-2-ol",
+        "solution": "Dehydration forms propene; hydration gives secondary alcohol.",
+        "solution_images": [
+            "q57_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which of the following cannot be prepared by the action of Grignard reagent on methanal?",
+        "question_latex": "Which~of~the~following~cannot~be~prepared~by~the~action~of~Grignard~reagent~on~methanal?",
+        "question_images": [],
+        "options": [
+            "A. Ethanol",
+            "B. Propan-1-ol",
+            "C. Propan-2-ol",
+            "D. Butan-1-ol"
+        ],
+        "option_images": [],
+        "answer": "C. Propan-2-ol",
+        "solution": "Methanal with Grignard reagent always gives primary alcohol.",
+        "solution_images": [
+            "q58_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "An organic compound A reacts with PCl5 to give alkyl chloride and on oxidation with PCC gives propanal. Identify A.",
+        "question_latex": "An~organic~compound~A~reacts~with~$PCl_5$~to~give~alkyl~chloride~and~on~oxidation~with~PCC~gives~propanal.~Identify~A.",
+        "question_images": [
+            "q59_1"
+        ],
+        "options": [
+            "A. Propan-1-ol",
+            "B. Propan-2-ol",
+            "C. Propanal",
+            "D. Propanoic acid"
+        ],
+        "option_images": [],
+        "answer": "A. Propan-1-ol",
+        "solution": "Primary alcohol forms alkyl chloride and aldehyde on oxidation.",
+        "solution_images": [
+            "q59_solution_1",
+            "59_so_1.png",
+            "59_so_2.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which of the following is NOT phenol?",
+        "question_latex": "Which~of~the~following~is~NOT~phenol?",
+        "question_images": [
+            "q60_1"
+        ],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "60_opA_1.png",
+            "60_opB_1.png",
+            "60_opC_1.png",
+            "60_opD_1.png"
+        ],
+        "answer": "C. Structure C",
+        "solution": "OH group is not directly attached to aromatic ring.",
+        "solution_images": [
+            "q60_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify the name of the reaction in which sodium phenoxide is converted into salicylic acid.",
+        "question_latex": "Identify~the~name~of~the~reaction~in~which~sodium~phenoxide~is~converted~into~salicylic~acid.",
+        "question_images": [
+            "q61_1"
+        ],
+        "options": [
+            "A. Reimer–Tiemann reaction",
+            "B. Williamson synthesis",
+            "C. Hydroboration–oxidation",
+            "D. Kolbe’s reaction"
+        ],
+        "option_images": [],
+        "answer": "D. Kolbe’s reaction",
+        "solution": "Kolbe–Schmitt reaction introduces $COOH$ ortho to $OH$.",
+        "solution_images": [
+            "q61_solution_1",
+            "61_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "When an alkyl halide reacts with sodium alkoxide, the product most likely is:",
+        "question_latex": "When~an~alkyl~halide~reacts~with~sodium~alkoxide,~the~product~most~likely~is:",
+        "question_images": [],
+        "options": [
+            "A. Aldehyde",
+            "B. Ketone",
+            "C. Ether",
+            "D. Carboxylic acid"
+        ],
+        "option_images": [],
+        "answer": "C. Ether",
+        "solution": "Williamson ether synthesis forms ether.",
+        "solution_images": [
+            "q62_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which of the following alcohols is least soluble in water?",
+        "question_latex": "Which~of~the~following~alcohols~is~least~soluble~in~water?",
+        "question_images": [],
+        "options": [
+            "A. Ethanol",
+            "B. 2-Methylbutan-2-ol",
+            "C. 2,2-Dimethylpropan-1-ol",
+            "D. Pentan-2-ol"
+        ],
+        "option_images": [],
+        "answer": "D. Pentan-2-ol",
+        "solution": "Longer hydrocarbon chain reduces solubility.",
+        "solution_images": [
+            "q63_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "When ethanol is treated with acidified K2Cr2O7, it forms acetic acid. This is an example of:",
+        "question_latex": "When~ethanol~is~treated~with~acidified~$K_2Cr_2O_7$,~it~forms~acetic~acid.~This~is~an~example~of:",
+        "question_images": [],
+        "options": [
+            "A. Hydrolysis",
+            "B. Oxidation",
+            "C. Reduction",
+            "D. Rearrangement"
+        ],
+        "option_images": [],
+        "answer": "B. Oxidation",
+        "solution": "Primary alcohol oxidizes to carboxylic acid.",
+        "solution_images": [
+            "q64_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which of the following on reaction with Grignard reagent followed by hydrolysis forms tertiary alcohol?",
+        "question_latex": "Which~of~the~following~on~reaction~with~Grignard~reagent~followed~by~hydrolysis~forms~tertiary~alcohol?",
+        "question_images": [],
+        "options": [
+            "A. Ethanal",
+            "B. Propanal",
+            "C. Methanal",
+            "D. Propanone"
+        ],
+        "option_images": [],
+        "answer": "D. Propanone",
+        "solution": "Ketones give tertiary alcohols with Grignard reagents.",
+        "solution_images": [
+            "q65_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Conversion of alcohol to ether in presence of conc. H2SO4 is an example of:",
+        "question_latex": "Conversion~of~alcohol~to~ether~in~presence~of~conc.~$H_2SO_4$~is~an~example~of:",
+        "question_images": [],
+        "options": [
+            "A. $S_N1$ reaction",
+            "B. $S_N2$ reaction",
+            "C. Elimination",
+            "D. Oxidation"
+        ],
+        "option_images": [],
+        "answer": "B. $S_N2$ reaction",
+        "solution": "Primary alcohols form ethers via bimolecular substitution.",
+        "solution_images": [
+            "q66_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which isomer of C4H10O is optically active?",
+        "question_latex": "Which~isomer~of~$C_4H_{10}O$~is~optically~active?",
+        "question_images": [],
+        "options": [
+            "A. 2-Methylpropan-2-ol",
+            "B. 2-Methylpropan-1-ol",
+            "C. Butan-1-ol",
+            "D. Butan-2-ol"
+        ],
+        "option_images": [],
+        "answer": "D. Butan-2-ol",
+        "solution": "Butan-2-ol contains a chiral carbon atom.",
+        "solution_images": [
+            "q67_solution_1",
+            "67_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Decreasing order of acidic nature of the following compounds is:",
+        "question_latex": "Decreasing~order~of~acidic~nature~of~the~following~compounds~is:",
+        "question_images": [
+            "q68_1",
+            "68_qu_1.png",
+            "68_qu_2.png",
+            "68_qu_3.png",
+            "68_qu_4.png"
+        ],
+        "options": [
+            "A. $1 > 2 > 4 > 3$",
+            "B. $4 > 3 > 2 > 1$",
+            "C. $2 > 1 > 3 > 4$",
+            "D. $2 > 4 > 3 > 1$"
+        ],
+        "option_images": [],
+        "answer": "A. $1 > 2 > 4 > 3$",
+        "solution": "Electron-withdrawing substituents increase acidity.",
+        "solution_images": [
+            "q68_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Picric acid is obtained by nitration of:",
+        "question_latex": "Picric~acid~is~obtained~by~nitration~of:",
+        "question_images": [],
+        "options": [
+            "A. Cumene",
+            "B. Neutral $FeSO_4$",
+            "C. Methanol",
+            "D. Phenol"
+        ],
+        "option_images": [],
+        "answer": "D. Phenol",
+        "solution": "Nitration of phenol yields picric acid.",
+        "solution_images": [
+            "q69_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which of the following is a secondary allylic alcohol?",
+        "question_latex": "Which~of~the~following~is~a~secondary~allylic~alcohol?",
+        "question_images": [
+            "q70_1"
+        ],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "70_opA_1.png",
+            "70_opD_1.png"
+        ],
+        "answer": "A. Structure A",
+        "solution": "OH group is on secondary carbon adjacent to $C=C$ bond.",
+        "solution_images": [
+            "q70_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which alcohol is NOT prepared by reduction of carbonyl compounds?",
+        "question_latex": "Which~alcohol~is~NOT~prepared~by~reduction~of~carbonyl~compounds?",
+        "question_images": [],
+        "options": [
+            "A. 2-Methylpentan-2-ol",
+            "B. Pentan-1-ol",
+            "C. 3-Methylpentan-2-ol",
+            "D. Pentan-2-ol"
+        ],
+        "option_images": [],
+        "answer": "A. 2-Methylpentan-2-ol",
+        "solution": "Tertiary alcohols cannot be obtained by reduction of carbonyl compounds.",
+        "solution_images": [
+            "q71_solution_1",
+            "71_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which reagent forms alcohol when reacted with R–COOH?",
+        "question_latex": "Which~reagent~forms~alcohol~when~reacted~with~$R{-}COOH$?",
+        "question_images": [],
+        "options": [
+            "A. $NaHCO_3$",
+            "B. $PCl_5$",
+            "C. $P_2O_5$",
+            "D. $LiAlH_4$"
+        ],
+        "option_images": [],
+        "answer": "D. $LiAlH_4$",
+        "solution": "$LiAlH_4$ reduces carboxylic acids to alcohols.",
+        "solution_images": [
+            "q72_solution_1",
+            "72_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which of the following statements is FALSE regarding diethyl ether?",
+        "question_latex": "Which~of~the~following~statements~is~FALSE~regarding~diethyl~ether?",
+        "question_images": [],
+        "options": [
+            "A. Oxygen atom contains lone pairs",
+            "B. It is sparingly soluble in water",
+            "C. It is used as anesthetic",
+            "D. It is highly inflammable"
+        ],
+        "option_images": [],
+        "answer": "C. It is used as anesthetic",
+        "solution": "Diethyl ether is no longer used as anesthetic.",
+        "solution_images": [
+            "q73_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "What is the IUPAC name of anisole?",
+        "question_latex": "What~is~the~IUPAC~name~of~anisole?",
+        "question_images": [],
+        "options": [
+            "A. Methoxybenzene",
+            "B. 2-Propoxybenzene",
+            "C. 1-Propoxybenzene",
+            "D. Ethoxybenzene"
+        ],
+        "option_images": [],
+        "answer": "A. Methoxybenzene",
+        "solution": "Anisole is methyl phenyl ether.",
+        "solution_images": [
+            "q74_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which of the following is IUPAC name of the compound shown?",
+        "question_latex": "Which~of~the~following~is~the~IUPAC~name~of~the~compound~shown?",
+        "question_images": [
+            "q75_1",
+            "75_qu_1.png"
+        ],
+        "options": [
+            "A. 3-Methyloct-4-en-5-ol",
+            "B. 6-Ethylhept-4-en-3-ol",
+            "C. 2-Ethylhept-3-en-5-ol",
+            "D. 6-Methyloct-4-en-3-ol"
+        ],
+        "option_images": [],
+        "answer": "D. 6-Methyloct-4-en-3-ol",
+        "solution": "Longest chain and lowest locant rules are applied.",
+        "solution_images": [
+            "q75_solution_1",
+            "75_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which of the following reaction with Grignard's reagent followed by hydrolysis forms secondary alcohol?",
+        "question_latex": "Which~of~the~following~reaction~with~Grignard's~reagent~followed~by~hydrolysis~forms~secondary~alcohol?",
+        "question_images": [
+            "q76_1"
+        ],
+        "options": [
+            "A. $CH_3COCH_3$",
+            "B. $CH_3CHO$",
+            "C. $HCHO$",
+            "D. $CH_3COOH$"
+        ],
+        "option_images": [],
+        "answer": "B. $CH_3CHO$",
+        "solution": "Aldehydes except methanal react with Grignard reagents to give secondary alcohols after hydrolysis.",
+        "solution_images": [
+            "q76_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which among the following isomers of C4H10O has lowest boiling point?",
+        "question_latex": "Which~among~the~following~isomers~of~$C_4H_{10}O$~has~lowest~boiling~point?",
+        "question_images": [],
+        "options": [
+            "A. n-Butyl alcohol",
+            "B. Isobutyl alcohol",
+            "C. sec-Butyl alcohol",
+            "D. tert-Butyl alcohol"
+        ],
+        "option_images": [],
+        "answer": "D. tert-Butyl alcohol",
+        "solution": "Maximum branching results in minimum surface area and lowest boiling point.",
+        "solution_images": [
+            "q77_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify the major product obtained when anisole reacts with bromine in acetic acid.",
+        "question_latex": "Identify~the~major~product~obtained~when~anisole~reacts~with~bromine~in~acetic~acid.",
+        "question_images": [
+            "q78_1"
+        ],
+        "options": [
+            "A. o-Bromoanisole",
+            "B. m-Bromoanisole",
+            "C. p-Bromoanisole",
+            "D. 2,4,6-Tribromoanisole"
+        ],
+        "option_images": [],
+        "answer": "C. p-Bromoanisole",
+        "solution": "The methoxy group is ortho/para directing; para product predominates due to steric hindrance.",
+        "solution_images": [
+            "q78_solution_1",
+            "78_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "In the hydration of an alkene, carbocation formed reacts with:",
+        "question_latex": "In~the~hydration~of~an~alkene,~carbocation~formed~reacts~with:",
+        "question_images": [],
+        "options": [
+            "A. Carbanion",
+            "B. Oxonium ion",
+            "C. Hydroxide ion",
+            "D. Hydride ion"
+        ],
+        "option_images": [],
+        "answer": "B. Oxonium ion",
+        "solution": "The carbocation reacts with water forming an oxonium ion which then loses a proton.",
+        "solution_images": [
+            "q79_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "When methoxybenzene reacts with HI at room temperature, the products formed are:",
+        "question_latex": "When~methoxybenzene~reacts~with~HI~at~room~temperature,~the~products~formed~are:",
+        "question_images": [
+            "q80_1"
+        ],
+        "options": [
+            "A. Methanol and iodobenzene",
+            "B. Iodomethane and iodobenzene",
+            "C. Iodomethane and phenol",
+            "D. Methanol and benzene"
+        ],
+        "option_images": [],
+        "answer": "C. Iodomethane and phenol",
+        "solution": "Cleavage of ether occurs at alkyl–O bond giving phenol and methyl iodide.",
+        "solution_images": [
+            "q80_solution_1",
+            "80_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify the bond line formula for propan-1-ol.",
+        "question_latex": "Identify~the~bond~line~formula~for~propan\\text{-}1\\text{-}ol.",
+        "question_images": [
+            "q81_1"
+        ],
+        "options": [
+            "A. Structure A",
+            "B. Structure B",
+            "C. Structure C",
+            "D. Structure D"
+        ],
+        "option_images": [
+            "q81optionA1",
+            "q81optionB1",
+            "q81optionC1",
+            "q81optionD1",
+            "81_opA_1.png",
+            "81_opB_1.png",
+            "81_opC_1.png",
+            "81_opD_1.png"
+        ],
+        "answer": "D. Structure D",
+        "solution": "Propan-1-ol has a straight three-carbon chain with OH on terminal carbon.",
+        "solution_images": [
+            "q81_solution_1",
+            "81_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Identify hydroboration–oxidation product of propene.",
+        "question_latex": "Identify~the~hydroboration\\text{-}oxidation~product~of~propene.",
+        "question_images": [
+            "q82_1"
+        ],
+        "options": [
+            "A. Propanone",
+            "B. Propanal",
+            "C. Propan-1-ol",
+            "D. Propan-2-ol"
+        ],
+        "option_images": [],
+        "answer": "C. Propan-1-ol",
+        "solution": "Hydroboration–oxidation follows anti-Markovnikov addition.",
+        "solution_images": [
+            "q82_solution_1",
+            "82_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "The IUPAC name of CH2=CHCH2OCH3 is:",
+        "question_latex": "The~IUPAC~name~of~$CH_2{=}CHCH_2OCH_3$~is:",
+        "question_images": [],
+        "options": [
+            "A. Methyl propyl ether",
+            "B. Methoxyprop-1-ene",
+            "C. Methoxyprop-2-ene",
+            "D. Methoxypropene"
+        ],
+        "option_images": [],
+        "answer": "C. Methoxyprop-2-ene",
+        "solution": "Numbering gives lowest locant to the double bond.",
+        "solution_images": [
+            "q83_solution_1"
+        ],
+        "difficulty": "",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Alcohol_Phenol_and_Ether",
+        "question": "Which alcohol gives Lucas test immediately at room temperature?",
+        "question_latex": "Which~alcohol~gives~Lucas~test~immediately~at~room~temperature?",
+        "question_images": [],
+        "options": [
+            "A. Primary alcohol",
+            "B. Secondary alcohol",
+            "C. Tertiary alcohol",
+            "D. Phenol"
+        ],
+        "option_images": [],
+        "answer": "C. Tertiary alcohol",
+        "solution": "Tertiary alcohols form stable carbocations rapidly.",
+        "solution_images": [
+            "q84_solution_1",
+            "84_so_1.png"
+        ],
+        "difficulty": "",
+        "marks": 4
+    }
+]

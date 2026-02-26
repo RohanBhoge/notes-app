@@ -1,0 +1,1969 @@
+[
+    {
+        "id": 1,
+        "chapter": "Gravitation",
+        "question": "In a certain region of space, the gravitational field is given by -k/r, where r is the distance and k is a constant. If the gravitational potential at r = r₀ be V₀, then what is the expression for the gravitational potential V?",
+        "question_latex": "In a certain region of space, the gravitational field is given by $-k/r$, where $r$ is the distance and $k$ is a constant. If the gravitational potential at $r=r_{0}$ be $V_{0}$, then what is the expression for the gravitational potential $V$?",
+        "question_images": [],
+        "options": [
+            "A. $k \\log(r/r_{0})$",
+            "B. $k \\log(r_{0}/r)$",
+            "C. $V_{0}+k \\log(r/r_{0})$",
+            "D. $V_{0}+k \\log(r_{0}/r)$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Here, $I = \\frac{dV}{dr} = -k/r$\n$dV = k \\frac{dr}{r}$\nIntegrating it, we get\n$\\int_{V_{0}}^{V} dV = \\int_{r_{0}}^{r} k \\frac{dr}{r}$\n$V - V_0 = k \\log(r/r_0)$\n$V = V_{0} + k \\log(r/r_{0})$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Gravitation",
+        "question": "Periodic time of a satellite revolving above Earth's surface at a height equal to R, radius of Earth, is",
+        "question_latex": "Periodic time of a satellite revolving above Earth's surface at a height equal to $R$, radius of Earth, is",
+        "question_images": [],
+        "options": [
+            "A. $2\\pi\\sqrt{\\frac{2R}{g}}$",
+            "B. $4\\sqrt{2}\\pi\\sqrt{\\frac{R}{g}}$",
+            "C. $2\\pi\\sqrt{\\frac{R}{g}}$",
+            "D. $8\\pi\\sqrt{\\frac{R}{g}}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$T = 2\\pi\\sqrt{\\frac{(R+h)^3}{gR^2}}$\nGiven $h = R$\n$T = 2\\pi\\sqrt{\\frac{(2R)^3}{gR^2}} = 2\\pi\\sqrt{\\frac{8R^3}{gR^2}} = 2\\pi\\sqrt{\\frac{8R}{g}}$\n$T = 4\\sqrt{2}\\pi\\sqrt{\\frac{R}{g}}$",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Gravitation",
+        "question": "There is no atmosphere on moon, because of",
+        "question_latex": "There is no atmosphere on moon, because of",
+        "question_images": [],
+        "options": [
+            "A. smaller value of G",
+            "B. smaller value of g",
+            "C. smaller value of R",
+            "D. smaller value of m"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Because of smaller value of acceleration due to gravity on moon, the value of escape velocity is small there. The molecules of atmospheric gases have thermal speeds much greater than the escape velocity. So all the molecules have escaped and there is no atmosphere.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Gravitation",
+        "question": "If the gravitational field in the space is given as (-K/r²). Taking the reference point to be at r = 2 cm with gravitational potential = 10 J/kg. Find the gravitational potential at r = 3 cm in SI unit (Given, that K = 6 J cm/kg) (Jan 2023)",
+        "question_latex": "If the gravitational field in the space is given as $(-\\frac{K}{r^{2}})$. Taking the reference point to be at $r=2$ cm with gravitational potential $=10~J/kg$. Find the gravitational potential at $r=3$ cm in SI unit (Given, that $K=6~J~cm/kg)$ (Jan 2023)",
+        "question_images": [],
+        "options": [
+            "A. 11",
+            "B. 12",
+            "C. 9",
+            "D. 10"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "We know, $g = -\\frac{dV}{dr} = -\\frac{K}{r^2} \\Rightarrow dV = \\frac{K}{r^2} dr$\n$\\int_{V_2}^{V_3} dV = K \\int_{2}^{3} \\frac{1}{r^2} dr$\n$V_3 - V_2 = K [-\\frac{1}{r}]_2^3 = -K [\\frac{1}{3} - \\frac{1}{2}]$\n$V_3 - 10 = -6 [\\frac{2-3}{6}] = -6 [-\\frac{1}{6}] = 1$\n$V_3 = 1 + 10 = 11~J/kg$",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Gravitation",
+        "question": "Consider a satellite going round the earth in an orbit. Which of the following statements is wrong",
+        "question_latex": "Consider a satellite going round the earth in an orbit. Which of the following statements is wrong",
+        "question_images": [],
+        "options": [
+            "A. It is a freely falling body",
+            "B. It suffers no acceleration",
+            "C. It is moving with a constant speed",
+            "D. Its angular momentum remains constant"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Centripetal acceleration works on it, so it is an accelerated body.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Gravitation",
+        "question": "As we go from the equator to the poles, the value of g",
+        "question_latex": "As we go from the equator to the poles, the value of $g$",
+        "question_images": [],
+        "options": [
+            "A. Remains the same",
+            "B. Decreases",
+            "C. Increases",
+            "D. Decreases upto a latitude of 45"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The value of $g$ increases as we move from the equator to the poles due to the earth's shape and rotation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Gravitation",
+        "question": "Two astronauts have deserted their spaceship in a region of space far from the gravitational attraction of any other body. Each has a mass of 100 kg and they are 100 m apart. They are initially at rest relative to one another. How long will it be before the gravitational attraction brings them 1 cm closer together?",
+        "question_latex": "Two astronauts have deserted their spaceship in a region of space far from the gravitational attraction of any other body. Each has a mass of $100$ kg and they are $100$ m apart. They are initially at rest relative to one another. How long will it be before the gravitational attraction brings them $1$ cm closer together?",
+        "question_images": [],
+        "options": [
+            "A. 2.52 days",
+            "B. 1.41 days",
+            "C. 0.70 days",
+            "D. 1.41 s"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$a_1 = \\frac{Gm_2}{r^2} = \\frac{6.67 \\times 10^{-11} \\times 100}{100^2} = 6.67 \\times 10^{-13} ms^{-2}$\n$a_2 = 6.67 \\times 10^{-13} ms^{-2}$\nRelative acceleration $a = a_1 + a_2 = 1.334 \\times 10^{-12} ms^{-2}$\nUsing $s = \\frac{1}{2}at^2$\n$10^{-2} = \\frac{1}{2} \\times 1.334 \\times 10^{-12} \\times t^2$\n$t^2 = \\frac{2 \\times 10^{-2}}{1.334 \\times 10^{-12}} = 1.5 \\times 10^{10}$\n$t \\approx 1.22 \\times 10^5 s = 1.41$ days",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Gravitation",
+        "question": "If the earth were to rotates faster than its present speed, the weight of an object will",
+        "question_latex": "If the earth were to rotates faster than its present speed, the weight of an object will",
+        "question_images": [],
+        "options": [
+            "A. increase at the equator but remain unchanged at the poles",
+            "B. decrease at the equator but remain unchanged at the poles",
+            "C. remain unchanged at the equator but decrease at the poles",
+            "D. remain unchanged at the equator but increase at the poles"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "At the equator, $g' = g - R\\omega^2$. As $\\omega$ increases, $g'$ decreases. At poles, $g' = g$ (independent of rotation).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Gravitation",
+        "question": "There is a mine of depth about 2.0 km. In this mine the conditions as compared to those at the surface are",
+        "question_latex": "There is a mine of depth about $2.0$ km. In this mine the conditions as compared to those at the surface are",
+        "question_images": [],
+        "options": [
+            "A. Lower air pressure, higher acceleration due to gravity",
+            "B. Higher air pressure, lower acceleration due to gravity",
+            "C. Higher air pressure, higher acceleration due to gravity",
+            "D. Lower air pressure, lower acceleration due to gravity"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Pressure increases with depth in a mine due to the column of air above. Acceleration due to gravity decreases with depth as $g' = g(1 - d/R)$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Gravitation",
+        "question": "Which of the following statements is true",
+        "question_latex": "Which of the following statements is true",
+        "question_images": [],
+        "options": [
+            "A. g is less at the earth's surface than at a height above it or a depth below it",
+            "B. g is same at all places on the surface of the earth",
+            "C. g has its maximum value at the equator",
+            "D. g is greater at the poles than at the equator"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$g$ is maximum at the poles and minimum at the equator.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Gravitation",
+        "question": "The value of G varies with",
+        "question_latex": "The value of $G$ varies with",
+        "question_images": [],
+        "options": [
+            "A. height above the earth's surface",
+            "B. depth below the ground",
+            "C. radius of the planet",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$G$ is a universal gravitational constant and its value remains the same throughout the universe.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Gravitation",
+        "question": "The gravitational potential due to earth at infinite distance from it is zero. Let the gravitational potential at a point P be -5 J kg⁻¹. Suppose, we arbitrarily assume the gravitational potential at infinity to be +10 J kg⁻¹, then the gravitational potential at P will be",
+        "question_latex": "The gravitational potential due to earth at infinite distance from it is zero. Let the gravitational potential at a point $P$ be $-5~J~kg^{-1}$. Suppose, we arbitrarily assume the gravitational potential at infinity to be $+10J~kg^{-1}$, then the gravitational potential at $P$ will be",
+        "question_images": [],
+        "options": [
+            "A. $-5~Jkg^{-1}$",
+            "B. $+5~Jkg^{-1}$",
+            "C. $-15~Jkg^{-1}$",
+            "D. $+15~Jkg^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "If the potential at infinity increases by $+10~J~kg^{-1}$, the potential at every point increases by the same amount. Thus, $V_P = -5 + 10 = +5~Jkg^{-1}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Gravitation",
+        "question": "A person will get more quantity of matter in kg-wt at",
+        "question_latex": "A person will get more quantity of matter in kg-wt at",
+        "question_images": [],
+        "options": [
+            "A. Poles",
+            "B. at latitude of 60°",
+            "C. Equator",
+            "D. Satellite"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Weight $W = mg$. Since $g$ is least at the equator, for the same mass, the weight in kg-wt is less, or for the same kg-wt, one gets more mass at the equator.",
+        "solution_images": [
+            "13_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Gravitation",
+        "question": "Two identical satellites are at R and 7R away from earth surface, the wrong statement is (R = Radius of earth)",
+        "question_latex": "Two identical satellites are at $R$ and $7R$ away from earth surface, the wrong statement is ($R$ = Radius of earth)",
+        "question_images": [],
+        "options": [
+            "A. Ratio of total energy will be 4",
+            "B. Ratio of kinetic energies will be 4",
+            "C. Ratio of potential energies will be 4",
+            "D. Ratio of total energy"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$r_1 = R + R = 2R$, $r_2 = R + 7R = 8R$. Energies $U, K, E$ are proportional to $1/r$. Ratio $= r_2/r_1 = 8R/2R = 4$. Option D is incomplete/wrong.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Gravitation",
+        "question": "Gravitational potential on the surface of earth is (M = mass of the earth, R = radius of earth)",
+        "question_latex": "Gravitational potential on the surface of earth is ($M$ = mass of the earth, $R$ = radius of earth)",
+        "question_images": [],
+        "options": [
+            "A. -GM/2R",
+            "B. -gR",
+            "C. R",
+            "D. GM/R"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$V = -\\frac{GM}{R}$. Since $g = \\frac{GM}{R^2}$, we have $\\frac{GM}{R} = gR$. Thus $V = -gR$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Gravitation",
+        "question": "A satellite revolves around the earth in an elliptical orbit. Its speed",
+        "question_latex": "A satellite revolves around the earth in an elliptical orbit. Its speed",
+        "question_images": [],
+        "options": [
+            "A. Is the same at all points in the orbit",
+            "B. Is greatest when it is closest to the earth",
+            "C. Is greatest when it is farthest from the earth",
+            "D. Goes on increasing or decreasing continuously depending upon the mass of the satellite"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "According to Kepler's second law, the speed of a satellite is maximum when it is closest (perigee) and minimum when it is farthest (apogee).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Gravitation",
+        "question": "Which of the given statements is/are true? I. Motion of a particle under a central force is always confined to a plane II. Under the influence of central force, position vector sweeps out equal areas in equal intervals of time",
+        "question_latex": "Which of the given statements is/are true? I. Motion of a particle under a central force is always confined to a plane II. Under the influence of central force, position vector sweeps out equal areas in equal intervals of time",
+        "question_images": [],
+        "options": [
+            "A. I only",
+            "B. II only",
+            "C. Both (I) and (II)",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Both statements are properties of motion under a central force like gravitation.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Gravitation",
+        "question": "Correct formula for height of a satellite from earths surface is: [04 April, 2024 (Shift-II)]",
+        "question_latex": "Correct formula for height of a satellite from earths surface is: [04 April, 2024 (Shift-II)]",
+        "question_images": [],
+        "options": [
+            "A. $(\\frac{T^{2}R^{2}g}{4\\pi^{2}})^{1/3}-R$",
+            "B. $(\\frac{T^{2}R^{2}}{4\\pi^{2}g})^{1/3}-R$",
+            "C. $(\\frac{T^{2}R^{2}}{4\\pi^{2}})^{-1/3}+R$",
+            "D. $(\\frac{T^{2}R^{2}g}{4\\pi})^{1/2}-R$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "From $\\frac{gR^2}{(R+h)^2} = (R+h)(\\frac{2\\pi}{T})^2$, we get $(R+h)^3 = \\frac{gR^2T^2}{4\\pi^2} \\Rightarrow h = (\\frac{T^2R^2g}{4\\pi^2})^{1/3} - R$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Gravitation",
+        "question": "A satellite is revolving around the earth with a kinetic energy E. The minimum addition of kinetic energy required to escape is",
+        "question_latex": "A satellite is revolving around the earth with a kinetic energy $E$. The minimum addition of kinetic energy required to escape is",
+        "question_images": [],
+        "options": [
+            "A. 2E",
+            "B. √E",
+            "C. E/2",
+            "D. E"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$E = \\frac{GMm}{2r}$. Kinetic energy required to escape is $E' = \\frac{GMm}{r} = 2E$. Additional energy needed $= 2E - E = E$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Gravitation",
+        "question": "Figure shows elliptical path abcd of a planet around the sun S such that the area of triangle csa is the area of the ellipse (see figure). With db as the major axis, and ca as the minor axis. If t₁ is the time taken for planet to go over path abc and t₂ for path taken over cda then (Online 2016)",
+        "question_latex": "Figure shows elliptical path $abcd$ of a planet around the sun $S$ such that the area of triangle $csa$ is $\\frac{1}{4}$ the area of the ellipse. With $db$ as the major axis, and $ca$ as the minor axis. If $t_{1}$ is the time taken for planet to go over path $abc$ and $t_{2}$ for path taken over $cda$ then (Online 2016)",
+        "question_images": [
+            "q20_1",
+            "20_qu_1.png"
+        ],
+        "options": [
+            "A. $t_{1}=t_{2}$",
+            "B. $t_{1}=2t_{2}$",
+            "C. $t_{1}=3t_{2}$",
+            "D. $t_{1}=4t_{2}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Let area of ellipse be $A$. Area $abcsa = Area(abc) + Area(csa) = A/2 + A/4 = 3A/4$. Area $adcsa = A - 3A/4 = A/4$. By Kepler's 2nd law, $t_1/t_2 = Area_1/Area_2 = (3A/4)/(A/4) = 3$. So $t_1 = 3t_2$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Gravitation",
+        "question": "Given below are two statements: Statement I: Acceleration due to gravity is different at different places on the surface of earth. Statement II: Acceleration due to gravity increases as we go down below the earth's surface. In the light of the above statements, choose the correct answer from the options given below. (Feb 2023)",
+        "question_latex": "Given below are two statements: Statement I: Acceleration due to gravity is different at different places on the surface of earth. Statement II: Acceleration due to gravity increases as we go down below the earth's surface. In the light of the above statements, choose the correct answer from the options given below. (Feb 2023)",
+        "question_images": [],
+        "options": [
+            "A. Both Statement I and Statement II are false.",
+            "B. Statement I is false but Statement II is true.",
+            "C. Statement I is true but Statement II is false.",
+            "D. Both Statement I and Statement II are true."
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Statement I is true (max at poles, min at equator). Statement II is false ($g' = g(1-d/R)$ decreases with depth).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Gravitation",
+        "question": "The distance between Sun and Earth is R. The duration of year if the distance between Sun and Earth becomes 3R will be (June 2022)",
+        "question_latex": "The distance between Sun and Earth is $R$. The duration of year if the distance between Sun and Earth becomes $3R$ will be (June 2022)",
+        "question_images": [],
+        "options": [
+            "A. $\\sqrt{3}$ years",
+            "B. 3 years",
+            "C. 9 years",
+            "D. $3\\sqrt{3}$ years"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "By Kepler's 3rd law: $(T_2/T_1)^2 = (R_2/R_1)^3$. $(T_2/1)^2 = (3R/R)^3 = 27$. $T_2 = \\sqrt{27} = 3\\sqrt{3}$ years.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Gravitation",
+        "question": "Select the correct statement from the following",
+        "question_latex": "Select the correct statement from the following",
+        "question_images": [],
+        "options": [
+            "A. The orbital velocity of a satellite increases with the radius of the orbit",
+            "B. Escape velocity of a particle from the surface of the earth depends on the speed with which it is fired",
+            "C. The time period of a satellite does not depend on the radius of the orbit",
+            "D. The orbital velocity is inversely proportional to the square root of the radius of the orbit"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$v_o = \\sqrt{\\frac{GM}{r}} \\Rightarrow v_o \\propto \\frac{1}{\\sqrt{r}}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Gravitation",
+        "question": "If 'g' is the acceleration due to gravity on the earth's surface, the gain in the potential energy of an object of mass 'm' raised from the surface of the earth to a height equal to the radius 'R' of the earth is",
+        "question_latex": "If $g$ is the acceleration due to gravity on the earth's surface, the gain in the potential energy of an object of mass $m$ raised from the surface of the earth to a height equal to the radius $R$ of the earth is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{1}{4}mgR$",
+            "B. $\\frac{1}{2}mgR$",
+            "C. $2mgR$",
+            "D. $mgR$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\Delta U = U_f - U_i = -\\frac{GmM}{2R} - (-\\frac{GmM}{R}) = \\frac{GmM}{2R}$. Since $GM/R = gR$, $\\Delta U = \\frac{1}{2}mgR$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Gravitation",
+        "question": "The escape velocity of an object on a planet whose g value is 9 times on earth and whose radius is 4 times that of earth in km/s is",
+        "question_latex": "The escape velocity of an object on a planet whose $g$ value is $9$ times on earth and whose radius is $4$ times that of earth in km/s is",
+        "question_images": [],
+        "options": [
+            "A. 67.2",
+            "B. 33.6",
+            "C. 16.8",
+            "D. 25.2"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$v_p/v_e = \\sqrt{(g_p/g_e) \\times (R_p/R_e)} = \\sqrt{9 \\times 4} = 6$. Escape velocity on earth is $11.2$ km/s. $v_p = 6 \\times 11.2 = 67.2$ km/s.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Gravitation",
+        "question": "Two bodies with masses $M_1$ and $M_2$ are initially at rest and a distance $R$ apart. Then they move directly towards one another under the influence of their mutual gravitational attraction. What is the ratio of the distances travelled by $M_1$ to the distance travelled by $M_2$?",
+        "question_latex": "Two bodies with masses $M_1$ and $M_2$ are initially at rest and a distance $R$ apart. Then they move directly towards one another under the influence of their mutual gravitational attraction. What is the ratio of the distances travelled by $M_1$ to the distance travelled by $M_2$?",
+        "question_images": [],
+        "options": [
+            "(A) $\\frac{M_2}{M_1}$",
+            "(B) $\\frac{M_1}{M_2}$",
+            "(C) 1",
+            "(D) 2"
+        ],
+        "option_images": [],
+        "answer": "(A)",
+        "solution": "Because the gravitational force is the mutual force, hence the position of centre of mass remains unaffected. $M_1 R_1 = M_2 R_2$ or $\\frac{R_1}{R_2} = \\frac{M_2}{M_1}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Gravitation",
+        "question": "The least velocity required to throw a body away from the surface of a planet (radius of the planet is $6.4 \\times 10^4$ m, $g = 9.8$ m/s$^2$) so that it may not return is",
+        "question_latex": "The least velocity required to throw a body away from the surface of a planet (radius of the planet is $6.4 \\times 10^4$ m, $g = 9.8$ m/s$^2$) so that it may not return is",
+        "question_images": [],
+        "options": [
+            "(A) $9.8 \\times 10^{-1}$ m/sec",
+            "(B) $12.8 \\times 10^3$ m/sec",
+            "(C) $9.8 \\times 10^4$ m/sec",
+            "(D) $11.2 \\times 10^1$ m/sec"
+        ],
+        "option_images": [],
+        "answer": "(D)",
+        "solution": "Escape velocity from surface of earth $v_e = \\sqrt{2gR} = \\sqrt{2 \\times 9.8 \\times 6.4 \\times 10^6} = 11.2 \\times 10^1$ m/s.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Gravitation",
+        "question": "Every planet revolves around the sun in an elliptical orbit. A. The force acting on a elliptical planet is inversely proportional to square of distance from sun. B. Force acting on planet is inversely proportional to product of the masses of the planet and the sun. C. The centripetal force acting on the planet is directed away from the sun. D. The square of time period of revolution of planet around sun is directly proportional to cube of semi-major axis of elliptical orbit. Choose the correct answer from the options given below.",
+        "question_latex": "Every planet revolves around the sun in an elliptical orbit. \\\\ A. The force acting on a elliptical planet is inversely proportional to square of distance from sun. \\\\ B. Force acting on planet is inversely proportional to product of the masses of the planet and the sun. \\\\ C. The centripetal force acting on the planet is directed away from the sun. \\\\ D. The square of time period of revolution of planet around sun is directly proportional to cube of semi-major axis of elliptical orbit. \\\\ Choose the correct answer from the options given below.",
+        "question_images": [],
+        "options": [
+            "(A) A and D only",
+            "(B) C and D only",
+            "(C) B and C only",
+            "(D) A and C only"
+        ],
+        "option_images": [],
+        "answer": "(A)",
+        "solution": "Force $F = \\frac{G M_s m_e}{r^2}$. So, $F \\propto M_s m_e$ and $F \\propto \\frac{1}{r^2}$. According to Kepler's third law, $T^2 \\propto a^3$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Gravitation",
+        "question": "The value of the acceleration due to gravity is $g_1$ at a height $h = R/2$ (radius of the earth) from the surface of the earth. It is again equal to $g_1$ at a depth $d$ below the surface of the earth. The ratio $d/R$ equals",
+        "question_latex": "The value of the acceleration due to gravity is $g_1$ at a height $h = \\frac{R}{2}$ (radius of the earth) from the surface of the earth. It is again equal to $g_1$ at a depth $d$ below the surface of the earth. The ratio $\\frac{d}{R}$ equals",
+        "question_images": [],
+        "options": [
+            "(A) 4/9",
+            "(B) 5/9",
+            "(C) 7/9",
+            "(D) 1/3"
+        ],
+        "option_images": [],
+        "answer": "(B)",
+        "solution": "Acceleration due to gravity at height $h$: $g_h = \\frac{GM}{(R+h)^2}$. For $h = R/2$, $g_1 = \\frac{GM}{(R + R/2)^2} = \\frac{4GM}{9R^2}$. At depth $d$, $g_d = \\frac{GM(R-d)}{R^3}$. Given $g_h = g_d$: $\\frac{4GM}{9R^2} = \\frac{GM(R-d)}{R^3} \\Rightarrow \\frac{4}{9} = \\frac{R-d}{R} \\Rightarrow 4R = 9R - 9d \\Rightarrow 9d = 5R \\Rightarrow \\frac{d}{R} = \\frac{5}{9}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Gravitation",
+        "question": "The mass density of a spherical body is given by $\\rho(r) = k/r$ for $r \\leq R$ and $\\rho(r) = 0$ for $r > R$, where $r$ is the distance from the centre. The correct graph that describes qualitatively the acceleration, $a$, of a test particle as a function of $r$ is",
+        "question_latex": "The mass density of a spherical body is given by $\\rho(r) = \\frac{k}{r}$ for $r \\leq R$ and $\\rho(r) = 0$ for $r > R$, where $r$ is the distance from the centre. The correct graph that describes qualitatively the acceleration, $a$, of a test particle as a function of $r$ is",
+        "question_images": [
+            "q30_1"
+        ],
+        "options": [
+            "(A) Graph A",
+            "(B) Graph B",
+            "(C) Graph C",
+            "(D) Graph D"
+        ],
+        "option_images": [
+            "30_opA_1.png",
+            "30_opB_1.png",
+            "30_opC_1.png",
+            "30_opD_1.png"
+        ],
+        "answer": "(A)",
+        "solution": "Inside the sphere ($r \\leq R$), mass $M(r) = \\int_0^r 4\\pi r^2 \\rho(r) dr = \\int_0^r 4\\pi r^2 (k/r) dr = 2\\pi k r^2$. Acceleration $a = \\frac{G M(r)}{r^2} = \\frac{G (2\\pi k r^2)}{r^2} = 2\\pi G k$. Thus $a$ is constant for $r \\leq R$. Outside ($r > R$), $a \\propto 1/r^2$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Gravitation",
+        "question": "If value of acceleration due to gravity is 'g' at a height 50 km above the surface of earth, then at what depth inside the earth will the acceleration due to gravity be same as 'g'?",
+        "question_latex": "If value of acceleration due to gravity is '$g$' at a height 50 km above the surface of earth, then at what depth inside the earth will the acceleration due to gravity be same as '$g$'?",
+        "question_images": [],
+        "options": [
+            "(A) 100 km",
+            "(B) 50 km",
+            "(C) 25 km",
+            "(D) 75 km"
+        ],
+        "option_images": [],
+        "answer": "(A)",
+        "solution": "For small $h$, $g_h = g(1 - \\frac{2h}{R})$ and $g_d = g(1 - \\frac{d}{R})$. Setting $g_h = g_d$ gives $\\frac{2h}{R} = \\frac{d}{R} \\Rightarrow d = 2h$. Thus $d = 2 \\times 50 = 100$ km.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Gravitation",
+        "question": "A body weight $W$, is projected vertically upwards from earth's surface to reach a height above the earth which is equal to nine times the radius of earth. The weight of the body at that height will be",
+        "question_latex": "A body weight $W$, is projected vertically upwards from earth's surface to reach a height above the earth which is equal to nine times the radius of earth. The weight of the body at that height will be",
+        "question_images": [],
+        "options": [
+            "(A) $W/100$",
+            "(B) $W/3$",
+            "(C) $W/9$",
+            "(D) $W/91$"
+        ],
+        "option_images": [
+            "32_opB_1.png",
+            "32_opC_1.png",
+            "32_opD_1.png"
+        ],
+        "answer": "(A)",
+        "solution": "Weight at height $h$: $W' = m g_h = m \\frac{GM}{(R+h)^2}$. Given $h = 9R$, $W' = \\frac{mGM}{(R+9R)^2} = \\frac{mGM}{(10R)^2} = \\frac{1}{100} \\frac{mGM}{R^2} = \\frac{W}{100}$.",
+        "solution_images": [
+            "32_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Gravitation",
+        "question": "If the density of a small planet is the same as that of earth, while the radius of the planet is 0.2 times that of the earth, the gravitational acceleration on the surface of that planet is",
+        "question_latex": "If the density of a small planet is the same as that of earth, while the radius of the planet is 0.2 times that of the earth, the gravitational acceleration on the surface of that planet is",
+        "question_images": [],
+        "options": [
+            "(A) 0.2 g",
+            "(B) 0.4 g",
+            "(C) 2 g",
+            "(D) 4 g"
+        ],
+        "option_images": [],
+        "answer": "(A)",
+        "solution": "$g = \\frac{4}{3}\\pi G R \\rho$. Since $\\rho$ is same, $g \\propto R$. $\\frac{g'}{g} = \\frac{R'}{R} = 0.2 \\Rightarrow g' = 0.2g$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Gravitation",
+        "question": "Two planets A and B of equal mass are having their period of revolutions $T_A$ and $T_B$ such that $T_A = 2T_B$. These planets are revolving in the circular orbits of radii $r_A$ and $r_B$ respectively. Which out of the following would be the correct relationship of their orbits?",
+        "question_latex": "Two planets $A$ and $B$ of equal mass are having their period of revolutions $T_A$ and $T_B$ such that $T_A = 2T_B$. These planets are revolving in the circular orbits of radii $r_A$ and $r_B$ respectively. Which out of the following would be the correct relationship of their orbits?",
+        "question_images": [],
+        "options": [
+            "(A) $r_A^3 = 2r_B^3$",
+            "(B) $2r_A^2 = r_B^3$",
+            "(C) $r_A^3 = 4r_B^3$",
+            "(D) $T_A^2 - T_B^2 = \\frac{\\pi^2}{6M}(r_B^3 - 4r_A^3)$"
+        ],
+        "option_images": [],
+        "answer": "(C)",
+        "solution": "From Kepler's third law, $T^2 \\propto r^3$. $(\\frac{T_A}{T_B})^2 = (\\frac{r_A}{r_B})^3 \\Rightarrow (\\frac{2T_B}{T_B})^2 = (\\frac{r_A}{r_B})^3 \\Rightarrow 4 = \\frac{r_A^3}{r_B^3} \\Rightarrow r_A^3 = 4r_B^3$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Gravitation",
+        "question": "A satellite is moving with a constant speed $v$ in a circular orbit about the earth. An object of mass $m$ is ejected from the satellite such that it just escapes from the gravitational pull of the earth. At the time of its ejection, the kinetic energy of the object is",
+        "question_latex": "A satellite is moving with a constant speed $v$ in a circular orbit about the earth. An object of mass $m$ is ejected from the satellite such that it just escapes from the gravitational pull of the earth. At the time of its ejection, the kinetic energy of the object is",
+        "question_images": [],
+        "options": [
+            "(A) $\\frac{1}{2}mv^2$",
+            "(B) $mv^2$",
+            "(C) $\\frac{3}{2}mv^2$",
+            "(D) $2mv^2$"
+        ],
+        "option_images": [],
+        "answer": "(B)",
+        "solution": "In a circular orbit, Potential Energy $PE = -mv^2$. For escape, Total Energy $TE = KE + PE = 0$. Therefore, $KE = -PE = mv^2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Gravitation",
+        "question": "A body is fired with a velocity of magnitude $\\sqrt{gR} < V < \\sqrt{2gR}$ at an angle of $30^\\circ$ with the radius vector of the earth. If at the highest point, the speed of the body is $V/4$, the maximum height attained by the body is equal to",
+        "question_latex": "A body is fired with a velocity of magnitude $\\sqrt{gR} < V < \\sqrt{2gR}$ at an angle of $30^\\circ$ with the radius vector of the earth. If at the highest point, the speed of the body is $V/4$, the maximum height attained by the body is equal to",
+        "question_images": [
+            "36_qu_1.png"
+        ],
+        "options": [
+            "(A) $V^2/8g$",
+            "(B) $R$",
+            "(C) $\\sqrt{2}R$",
+            "(D) None of these"
+        ],
+        "option_images": [],
+        "answer": "(B)",
+        "solution": "By conservation of angular momentum about the center of Earth: $m V R \\sin(30^\\circ) = m (V/4) (R+h)$. $V R (1/2) = (V/4) (R+h) \\Rightarrow 2R = R + h \\Rightarrow h = R$.",
+        "solution_images": [
+            "36_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Gravitation",
+        "question": "Four particles, each of mass $M$, move along a circle of radius $R$ under the action of their mutual gravitational attraction. The speed of particle is",
+        "question_latex": "Four particles, each of mass $M$, move along a circle of radius $R$ under the action of their mutual gravitational attraction. The speed of particle is",
+        "question_images": [
+            "q37_1"
+        ],
+        "options": [
+            "(A) $\\sqrt{\\frac{GM}{R}}$",
+            "(B) $\\sqrt{2}\\sqrt{\\frac{GM}{R}}$",
+            "(C) $\\sqrt{\\frac{GM}{R}(2\\sqrt{2}+1)}$",
+            "(D) $\\sqrt{\\frac{GM}{4R}(2\\sqrt{2}+1)}$"
+        ],
+        "option_images": [],
+        "answer": "(D)",
+        "solution": "Net force towards center on any mass: $F_{net} = \\frac{GM^2}{(2R)^2} + \\frac{GM^2}{(\\sqrt{2}R)^2} \\cos 45^\\circ \\times 2 = \\frac{GM^2}{4R^2} + \\frac{GM^2}{2R^2} \\cdot \\frac{2}{\\sqrt{2}} = \\frac{GM^2}{R^2}[\\frac{1}{4} + \\frac{1}{\\sqrt{2}}]$. Setting $F_{net} = \\frac{Mv^2}{R}$: $\\frac{v^2}{R} = \\frac{GM}{R^2}[\\frac{1+2\\sqrt{2}}{4}] \\Rightarrow v = \\sqrt{\\frac{GM}{4R}(2\\sqrt{2}+1)}$.",
+        "solution_images": [
+            "37_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Gravitation",
+        "question": "The ratio of the inertial mass to gravitational mass is equal to",
+        "question_latex": "The ratio of the inertial mass to gravitational mass is equal to",
+        "question_images": [],
+        "options": [
+            "(A) 0.5",
+            "(B) 1",
+            "(C) 2",
+            "(D) no fixed number"
+        ],
+        "option_images": [],
+        "answer": "(B)",
+        "solution": "The principle of equivalence states that inertial mass and gravitational mass are identical, so their ratio is 1.",
+        "solution_images": [
+            "38_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Gravitation",
+        "question": "The weight of a body on the earth is 400 N. Then weight of the body when taken to a depth half of the radius of the earth will be",
+        "question_latex": "The weight of a body on the earth is 400 N. Then weight of the body when taken to a depth half of the radius of the earth will be",
+        "question_images": [],
+        "options": [
+            "(A) 100 N",
+            "(B) 200 N",
+            "(C) zero",
+            "(D) 300 N"
+        ],
+        "option_images": [],
+        "answer": "(B)",
+        "solution": "$g_d = g(1 - d/R)$. For $d = R/2$, $g' = g(1 - 1/2) = g/2$. Weight $W' = m g' = 400/2 = 200$ N.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Gravitation",
+        "question": "A solid sphere of uniform density and radius $R$ applies a gravitational force of attraction equal to $F_1$ on a particle placed at a distance $2R$ from the centre of the sphere. A spherical cavity of radius $R/2$ is now made in the sphere as shown in the figure. The sphere with the cavity now applies a gravitational force $F_2$ on the same particle. The ratio $F_1/F_2$ is",
+        "question_latex": "A solid sphere of uniform density and radius $R$ applies a gravitational force of attraction equal to $F_1$ on a particle placed at a distance $2R$ from the centre of the sphere. A spherical cavity of radius $R/2$ is now made in the sphere as shown in the figure. The sphere with the cavity now applies a gravitational force $F_2$ on the same particle. The ratio $F_1/F_2$ is",
+        "question_images": [
+            "q40_1",
+            "40_qu_1.png"
+        ],
+        "options": [
+            "(A) 1/2",
+            "(B) 3/4",
+            "(C) 7/8",
+            "(D) 9/7"
+        ],
+        "option_images": [],
+        "answer": "(D)",
+        "solution": "$F_1 = \\frac{G M m}{(2R)^2} = \\frac{GMm}{4R^2}$. Mass of cavity $M' = \\frac{M}{8}$. Force due to cavity $F_c = \\frac{G(M/8)m}{(2R - R/2)^2} = \\frac{GMm}{8(3R/2)^2} = \\frac{GMm}{18R^2}$. $F_2 = F_1 - F_c = \\frac{GMm}{4R^2} - \\frac{GMm}{18R^2} = \\frac{7GMm}{36R^2}$. Ratio $\\frac{F_1}{F_2} = \\frac{1/4}{7/36} = \\frac{9}{7}$.",
+        "solution_images": [
+            "40_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Gravitation",
+        "question": "Two equal masses each $m$ are hung from a balance whose scale pans differ in vertical height by '$h$'. The error in weighing in terms of density of the earth $\\rho$ is",
+        "question_latex": "Two equal masses each $m$ are hung from a balance whose scale pans differ in vertical height by '$h$'. The error in weighing in terms of density of the earth $\\rho$ is",
+        "question_images": [],
+        "options": [
+            "(A) $\\pi G \\rho m h$",
+            "(B) $\\frac{1}{3} \\pi G \\rho m h$",
+            "(C) $\\frac{8}{3} \\pi G \\rho m h$",
+            "(D) $\\frac{4}{3} \\pi G \\rho m h$"
+        ],
+        "option_images": [],
+        "answer": "(C)",
+        "solution": "Difference in weight $\\Delta W = m(g_1 - g_2) = m [\\frac{GM}{R^2} - \\frac{GM}{(R+h)^2}] \\approx m \\frac{GM}{R^2} \\cdot \\frac{2h}{R} = \\frac{2 m G}{R^3} (\\frac{4}{3} \\pi R^3 \\rho) h = \\frac{8}{3} \\pi G \\rho m h$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Gravitation",
+        "question": "The ratio of acceleration due to gravity at a height $h$ above the surface of the earth and at a depth $h$ below the surface of the earth for $h \\ll$ radius of earth",
+        "question_latex": "The ratio of acceleration due to gravity at a height $h$ above the surface of the earth and at a depth $h$ below the surface of the earth for $h \\ll$ radius of earth",
+        "question_images": [],
+        "options": [
+            "(A) Is constant",
+            "(B) Increases linearly with $h$",
+            "(C) Decreases linearly with $h$",
+            "(D) Decreases parabolically with $h$"
+        ],
+        "option_images": [],
+        "answer": "(C)",
+        "solution": "$\\frac{g_h}{g_d} = \\frac{1 - 2h/R}{1 - h/R} \\approx (1 - 2h/R)(1 + h/R) \\approx 1 - h/R$. This decreases linearly with $h$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Gravitation",
+        "question": "In order to shift a body of mass $m$ from a circular orbit of radius $3R$ to a higher orbit of radius $5R$ around the earth, the work done is",
+        "question_latex": "In order to shift a body of mass $m$ from a circular orbit of radius $3R$ to a higher orbit of radius $5R$ around the earth, the work done is",
+        "question_images": [],
+        "options": [
+            "(A) $\\frac{3GMm}{5R}$",
+            "(B) $\\frac{GMm}{2R}$",
+            "(C) $\\frac{2}{15} \\frac{GMm}{R}$",
+            "(D) $\\frac{GMm}{5R}$"
+        ],
+        "option_images": [],
+        "answer": "(C)",
+        "solution": "Work done $W = E_f - E_i = (-\\frac{GMm}{2(5R)}) - (-\\frac{GMm}{2(3R)}) = \\frac{GMm}{R}[\\frac{1}{6} - \\frac{1}{10}] = \\frac{GMm}{R}[\\frac{5-3}{30}] = \\frac{2}{30} \\frac{GMm}{R} = \\frac{2}{15} \\frac{GMm}{R}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Gravitation",
+        "question": "Two satellite of masses $m_1$ and $m_2$ ($m_1 > m_2$) are revolving around the earth in a circular orbit of radii $r_1$ and $r_2$ ($r_1 > r_2$), respectively. Which of the following statements is true regarding their speeds $v_1$ and $v_2$?",
+        "question_latex": "Two satellite of masses $m_1$ and $m_2$ ($m_1 > m_2$) are revolving around the earth in a circular orbit of radii $r_1$ and $r_2$ ($r_1 > r_2$), respectively. Which of the following statements is true regarding their speeds $v_1$ and $v_2$?",
+        "question_images": [],
+        "options": [
+            "(A) $v_1 = v_2$",
+            "(B) $v_1 > v_2$",
+            "(C) $v_1 < v_2$",
+            "(D) None"
+        ],
+        "option_images": [],
+        "answer": "(C)",
+        "solution": "Orbital velocity $v = \\sqrt{\\frac{GM}{r}}$. Since $r_1 > r_2$, then $v_1 < v_2$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Gravitation",
+        "question": "A mass of $6 \\times 10^{24}$ kg is to be compressed in a sphere in such a way that the escape velocity from the sphere is $3 \\times 10^8$ m/s. What should be the radius of the sphere? ($G = 6.67 \\times 10^{-11}$ N-m$^2$/kg$^2$)",
+        "question_latex": "A mass of $6 \\times 10^{24}$ kg is to be compressed in a sphere in such a way that the escape velocity from the sphere is $3 \\times 10^8$ m/s. What should be the radius of the sphere? ($G = 6.67 \\times 10^{-11}$ N-m$^2$/kg$^2$)",
+        "question_images": [],
+        "options": [
+            "(A) 9 km",
+            "(B) 9 m",
+            "(C) 9 mc",
+            "(D) 9 mm"
+        ],
+        "option_images": [],
+        "answer": "(D)",
+        "solution": "$v_e = \\sqrt{\\frac{2GM}{R}} \\Rightarrow R = \\frac{2GM}{v_e^2} = \\frac{2 \\times 6.67 \\times 10^{-11} \\times 6 \\times 10^{24}}{(3 \\times 10^8)^2} \\approx \\frac{80 \\times 10^{13}}{9 \\times 10^{16}} \\approx 8.89 \\times 10^{-3}$ m $\\approx 9$ mm.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Gravitation",
+        "question": "A satellite is moving with a constant speed $v$ in a circular orbit about the earth. If the distance from the centre of the earth to the satellite is $r$, then its total energy is",
+        "question_latex": "A satellite is moving with a constant speed $v$ in a circular orbit about the earth. If the distance from the centre of the earth to the satellite is $r$, then its total energy is",
+        "question_images": [
+            "46_qu_1.png"
+        ],
+        "options": [
+            "(A) $\\frac{1}{2}mv^2$",
+            "(B) $-\\frac{1}{2}mv^2$",
+            "(C) $mv^2$",
+            "(D) $-mv^2$"
+        ],
+        "option_images": [],
+        "answer": "(B)",
+        "solution": "Total Energy $E = KE + PE$. In a circular orbit, $PE = -2KE$. Thus $E = KE - 2KE = -KE = -\\frac{1}{2}mv^2$.",
+        "solution_images": [
+            "46_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Gravitation",
+        "question": "The orbital velocity of a satellite is $v_0$. If its velocity is increased by 41.4%, then it will",
+        "question_latex": "The orbital velocity of a satellite is $v_0$. If its velocity is increased by 41.4\\%, then it will",
+        "question_images": [],
+        "options": [
+            "(A) Go to an orbit of larger radius",
+            "(B) Fall back to earth",
+            "(C) Escape from earth",
+            "(D) None of these"
+        ],
+        "option_images": [],
+        "answer": "(C)",
+        "solution": "Escape velocity $v_e = \\sqrt{2}v_0 \\approx 1.414 v_0$. This corresponds to an increase of 41.4% from $v_0$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Gravitation",
+        "question": "If the gravitational force between two objects were proportional to $1/R$, then orbital speed $v$ is proportional to",
+        "question_latex": "If the gravitational force between two objects were proportional to $1/R$, then orbital speed $v$ is proportional to",
+        "question_images": [
+            "48_qu_1.png"
+        ],
+        "options": [
+            "(A) $R^0$",
+            "(B) $R$",
+            "(C) $R^2$",
+            "(D) $1/R$"
+        ],
+        "option_images": [],
+        "answer": "(A)",
+        "solution": "$\\frac{mv^2}{R} \\propto \\frac{1}{R} \\Rightarrow v^2 \\propto R^0 \\Rightarrow v \\propto R^0$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Gravitation",
+        "question": "The time period of a satellite in a circular orbit of radius $R$ is $T$. The time period of another satellite in a circular orbit of radius $4R$ is",
+        "question_latex": "The time period of a satellite in a circular orbit of radius $R$ is $T$. The time period of another satellite in a circular orbit of radius $4R$ is",
+        "question_images": [],
+        "options": [
+            "(A) $4T$",
+            "(B) $8T$",
+            "(C) $2T$",
+            "(D) $16T$"
+        ],
+        "option_images": [],
+        "answer": "(B)",
+        "solution": "$T^2 \\propto R^3$. $\\frac{T'}{T} = (\\frac{4R}{R})^{3/2} = 4^{3/2} = 8 \\Rightarrow T' = 8T$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Gravitation",
+        "question": "The escape velocity from earth is 11.2 km/s. If the mass of a planet is eight times and its radius is twice that of earth, then escape velocity from the planet will be",
+        "question_latex": "The escape velocity from earth is 11.2 km/s. If the mass of a planet is eight times and its radius is twice that of earth, then escape velocity from the planet will be",
+        "question_images": [
+            "50_qu_1.png"
+        ],
+        "options": [
+            "(A) 11.2 km/s",
+            "(B) 22.4 km/s",
+            "(C) 5.6 km/s",
+            "(D) 44.8 km/s"
+        ],
+        "option_images": [],
+        "answer": "(B)",
+        "solution": "$v_p = v_e \\sqrt{\\frac{M_p}{M_e} \\frac{R_e}{R_p}} = 11.2 \\sqrt{8 \\cdot \\frac{1}{2}} = 11.2 \\times 2 = 22.4$ km/s.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Gravitation",
+        "question": "The earth (mass=6×10^24 kg) revolves around the sun with angular velocity 2×10^-7 rads^-1 in a circular orbit of radius 1.5×10^8 km. The force exerted by the sun on the earth in newton is",
+        "question_latex": "The earth $(\\text{mass} = 6 \\times 10^{24} \\text{ kg})$ revolves around the sun with angular velocity $2 \\times 10^{-7} \\text{ rad s}^{-1}$ in a circular orbit of radius $1.5 \\times 10^{8} \\text{ km}$. The force exerted by the sun on the earth in newton is",
+        "question_images": [],
+        "options": [
+            "A. Zero",
+            "B. $18 \\times 10^{25}$",
+            "C. $27 \\times 10^{39}$",
+            "D. $36 \\times 10^{21}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Centripetal force $F = mR\\omega^{2}$. Given $m = 6 \\times 10^{24} \\text{ kg}$, $R = 1.5 \\times 10^{8} \\text{ km} = 1.5 \\times 10^{11} \\text{ m}$, and $\\omega = 2 \\times 10^{-7} \\text{ rad/s}$. Substituting values: $F = 6 \\times 10^{24} \\times (1.5 \\times 10^{11}) \\times (2 \\times 10^{-7})^{2} = 36 \\times 10^{21} \\text{ N}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Gravitation",
+        "question": "In problem 81, what is the gravitational intensity at a point for which x < r?",
+        "question_latex": "In problem 81, what is the gravitational intensity at a point for which $x < r$?",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{Gm}{r^2}$",
+            "B. $\\frac{Gm}{R^2}$",
+            "C. $\\frac{Gm}{x^2}$",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The point lies inside both the shells, hence the gravitational field due to both is zero.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Gravitation",
+        "question": "A satellite is placed in a circular orbit around earth at such a height that it always remains stationary with respect to earth surface. In such case, its height from the earth surface is",
+        "question_latex": "A satellite is placed in a circular orbit around earth at such a height that it always remains stationary with respect to earth surface. In such case, its height from the earth surface is",
+        "question_images": [],
+        "options": [
+            "A. 32000 km",
+            "B. 36000 km",
+            "C. 6400 km",
+            "D. 4800 km"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The height $h$ is given by $h = \\left(\\frac{T^{2}R^{2}g}{4\\pi^{2}}\\right)^{1/3} - R$. For a geostationary satellite, $T = 24 \\times 60 \\times 60 \\text{ s}$. Calculation yields $h \\approx 3.6 \\times 10^{7} \\text{ m} = 36000 \\text{ km}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Gravitation",
+        "question": "The value of escape velocity on a certain planet is 2 km/s. Then the value of orbital speed for a satellite orbiting close to its surface is",
+        "question_latex": "The value of escape velocity on a certain planet is $2 \\text{ km/s}$. Then the value of orbital speed for a satellite orbiting close to its surface is",
+        "question_images": [],
+        "options": [
+            "A. 12 km/s",
+            "B. 1 km/s",
+            "C. $\\sqrt{2}$ km/s",
+            "D. $2\\sqrt{2}$ km/s"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "The relationship between orbital velocity ($v_o$) and escape velocity ($v_e$) is $v_o = \\frac{v_e}{\\sqrt{2}}$. Given $v_e = 2 \\text{ km/s}$, $v_o = \\frac{2}{\\sqrt{2}} = \\sqrt{2} \\text{ km/s}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Gravitation",
+        "question": "Where will it be profitable to purchase 1 kilogram sugar",
+        "question_latex": "Where will it be profitable to purchase 1 kilogram sugar",
+        "question_images": [],
+        "options": [
+            "A. At poles",
+            "B. At equator",
+            "C. At 45° latitude",
+            "D. At 40° latitude"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Weight $W = mg$. Since the value of $g$ is minimum at the equator due to the earth's rotation and shape, you get more mass for the same weight at the equator.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Gravitation",
+        "question": "A body of mass is taken from earth surface to the height h equal to twice the radius of earth (Re), the increase in potential energy will be (g = acceleration due to gravity on the surface of Earth)",
+        "question_latex": "A body of mass $m$ is taken from earth surface to the height $h$ equal to twice the radius of earth $(R_{e})$, the increase in potential energy will be ($g =$ acceleration due to gravity on the surface of Earth)",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{1}{3}mgR_{e}$",
+            "B. $\\frac{1}{2}mgR_{e}$",
+            "C. $\\frac{2}{3}mgR_{e}$",
+            "D. $3mgR_{e}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Potential energy $U = -\\frac{GMm}{r}$. $U_1 = -\\frac{GMm}{R}$. At $h = 2R$, $r = 3R$, so $U_2 = -\\frac{GMm}{3R}$. $\\Delta U = U_2 - U_1 = \\frac{GMm}{R} - \\frac{GMm}{3R} = \\frac{2}{3}\\frac{GMm}{R} = \\frac{2}{3}mgR$ (since $g = \\frac{GM}{R^2}$).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Gravitation",
+        "question": "The height at which the acceleration due to gravity becomes g/9 (where g = the acceleration due to gravity on the surface of the earth) in terms of R, the radius of the earth, is",
+        "question_latex": "The height at which the acceleration due to gravity becomes $\\frac{g}{9}$ (where $g =$ the acceleration due to gravity on the surface of the earth) in terms of $R$, the radius of the earth, is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{R}{\\sqrt{2}}$",
+            "B. $R/2$",
+            "C. $\\sqrt{2}R$",
+            "D. $2R$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$g_h = g\\left(\\frac{R}{R+h}\\right)^2$. Given $g_h = \\frac{g}{9}$, we have $\\frac{1}{9} = \\left(\\frac{R}{R+h}\\right)^2 \\Rightarrow \\frac{1}{3} = \\frac{R}{R+h} \\Rightarrow R+h = 3R \\Rightarrow h = 2R$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Gravitation",
+        "question": "A satellite of mass m revolves around the earth of radius R at a height x from its surface. If g is the acceleration due to gravity on the surface of the earth, the orbital speed of the satellite is",
+        "question_latex": "A satellite of mass $m$ revolves around the earth of radius $R$ at a height $x$ from its surface. If $g$ is the acceleration due to gravity on the surface of the earth, the orbital speed of the satellite is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{gR^{2}}{R+x}$",
+            "B. $\\frac{gR}{R+x}$",
+            "C. $gx$",
+            "D. $\\left(\\frac{gR^{2}}{R+x}\\right)^{1/2}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Centripetal force = Gravitational force: $\\frac{mv^2}{R+x} = \\frac{GmM}{(R+x)^2}$. Since $GM = gR^2$, we get $v^2 = \\frac{gR^2}{R+x} \\Rightarrow v = \\sqrt{\\frac{gR^2}{R+x}}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Gravitation",
+        "question": "A satellite moves in elliptical orbit about a planet. The maximum and minimum velocities of satellites are 3×10^4 ms^-1 and 1×10^3 ms^-1 respectively. What is the minimum distance of satellite from planet, if maximum distance is 4×10^4 km?",
+        "question_latex": "A satellite moves in elliptical orbit about a planet. The maximum and minimum velocities of satellites are $3 \\times 10^{4} \\text{ ms}^{-1}$ and $1 \\times 10^{3} \\text{ ms}^{-1}$ respectively. What is the minimum distance of satellite from planet, if maximum distance is $4 \\times 10^{4} \\text{ km}$?",
+        "question_images": [],
+        "options": [
+            "A. $4 \\times 10^{3} \\text{ km}$",
+            "B. $3 \\times 10^{3} \\text{ km}$",
+            "C. $4/3 \\times 10^{3} \\text{ km}$",
+            "D. $1 \\times 10^{3} \\text{ km}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "By conservation of angular momentum: $mv_{max}r_{min} = mv_{min}r_{max}$. $r_{min} = \\frac{v_{min} \\times r_{max}}{v_{max}} = \\frac{1 \\times 10^{3} \\times 4 \\times 10^{4}}{3 \\times 10^{4}} = \\frac{4}{3} \\times 10^{3} \\text{ km}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Gravitation",
+        "question": "Two spherical bodies of mass M and 5M and radii R and 2R respectively are released in free space with initial separation between their centres equal to 12R. If they attract each other due to gravitational force only, then the distance covered by the smaller body just before collision is",
+        "question_latex": "Two spherical bodies of mass $M$ and $5M$ and radii $R$ and $2R$ respectively are released in free space with initial separation between their centres equal to $12R$. If they attract each other due to gravitational force only, then the distance covered by the smaller body just before collision is",
+        "question_images": [
+            "q60_1"
+        ],
+        "options": [
+            "A. 4.5R",
+            "B. 2.5R",
+            "C. 7.5R",
+            "D. 1.5R"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Initial distance between surfaces = $12R - (R + 2R) = 9R$. Since no external force acts, the center of mass remains stationary. $m_1x_1 = m_2x_2 \\Rightarrow Mx_1 = 5Mx_2 \\Rightarrow x_1 = 5x_2$. Also $x_1 + x_2 = 9R$. Solving gives $x_1 = 7.5R$.",
+        "solution_images": [
+            "60_so_1.png"
+        ],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Gravitation",
+        "question": "The maximum and minimum distances of a comet from the Sun are 1.6×10^12 m and 8.0×10^10 m respectively. If the speed of the comet at the nearest point is 6×10^4 ms^-1, the speed at the farthest point is",
+        "question_latex": "The maximum and minimum distances of a comet from the Sun are $1.6 \\times 10^{12} \\text{ m}$ and $8.0 \\times 10^{10} \\text{ m}$ respectively. If the speed of the comet at the nearest point is $6 \\times 10^{4} \\text{ ms}^{-1}$, the speed at the farthest point is",
+        "question_images": [],
+        "options": [
+            "A. $3.0 \\times 10^{3} \\text{ ms}^{-1}$",
+            "B. $1.5 \\times 10^{3} \\text{ ms}^{-1}$",
+            "C. $4.5 \\times 10^{3} \\text{ ms}^{-1}$",
+            "D. $6.0 \\times 10^{3} \\text{ ms}^{-1}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "By conservation of angular momentum: $v_{min} \\times r_{max} = v_{max} \\times r_{min}$. $v_{min} = \\frac{6 \\times 10^{4} \\times 8.0 \\times 10^{10}}{1.6 \\times 10^{12}} = 3.0 \\times 10^{3} \\text{ ms}^{-1}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Gravitation",
+        "question": "A particle of mass 10 g is kept on the surface of a uniform sphere of mass 100 kg and radius 10 cm. Find the work done against the gravitational force between them to take the particle far away from the sphere",
+        "question_latex": "A particle of mass $10 \\text{ g}$ is kept on the surface of a uniform sphere of mass $100 \\text{ kg}$ and radius $10 \\text{ cm}$. Find the work done against the gravitational force between them to take the particle far away from the sphere",
+        "question_images": [],
+        "options": [
+            "A. $13.34 \\times 10^{-10} \\text{ J}$",
+            "B. $3.33 \\times 10^{-10} \\text{ J}$",
+            "C. $6.67 \\times 10^{-9} \\text{ J}$",
+            "D. $6.67 \\times 10^{-10} \\text{ J}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$W = \\Delta U = U_{\\infty} - U_R = 0 - (-\\frac{GMm}{R}) = \\frac{GMm}{R}$. Substituting values: $W = \\frac{6.67 \\times 10^{-11} \\times 100 \\times 10^{-2}}{10^{-1}} = 6.67 \\times 10^{-10} \\text{ J}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Gravitation",
+        "question": "How much energy will be necessary for making a body of 500 kg escape from the earth [g = 9.8 m/s^2, radius of earth = 6.4×10^6 m]",
+        "question_latex": "How much energy will be necessary for making a body of $500 \\text{ kg}$ escape from the earth $[g = 9.8 \\text{ m/s}^2, \\text{ radius of earth} = 6.4 \\times 10^{6} \\text{ m}]$",
+        "question_images": [],
+        "options": [
+            "A. About $9.8 \\times 10^{11} \\text{ J}$",
+            "B. About $6.4 \\times 10^{8} \\text{ J}$",
+            "C. About $3.1 \\times 10^{10} \\text{ J}$",
+            "D. About $27.4 \\times 10^{12} \\text{ J}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Escape energy required = magnitude of P.E. = $mgR = 500 \\times 9.8 \\times 6.4 \\times 10^{6} \\approx 3.1 \\times 10^{10} \\text{ J}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Gravitation",
+        "question": "There are two planets. The ratio of radius of the two planets is K but ratio of acceleration due to gravity of both planets is g. What will be the ratio of their escape velocity",
+        "question_latex": "There are two planets. The ratio of radius of the two planets is $K$ but ratio of acceleration due to gravity of both planets is $g$. What will be the ratio of their escape velocity",
+        "question_images": [],
+        "options": [
+            "A. $(Kg)^{1/2}$",
+            "B. $(Kg)^{-1/2}$",
+            "C. $(Kg)^{2}$",
+            "D. $(Kg)^{-2}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$v_e = \\sqrt{2gR}$. Therefore $\\frac{v_1}{v_2} = \\sqrt{\\frac{g_1}{g_2} \\times \\frac{R_1}{R_2}} = \\sqrt{g \\times K} = (Kg)^{1/2}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Gravitation",
+        "question": "A body of mass m is placed on the earth's surface. It is taken from the earth's surface to a height h = 3R. The change in gravitational potential energy of the body is",
+        "question_latex": "A body of mass $m$ is placed on the earth's surface. It is taken from the earth's surface to a height $h = 3R$. The change in gravitational potential energy of the body is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{2}{3}mgR$",
+            "B. $\\frac{3}{4}mgR$",
+            "C. $\\frac{mgR}{2}$",
+            "D. $\\frac{mgR}{4}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\Delta U = \\frac{mgh}{1 + h/R}$. Substituting $h = 3R$, $\\Delta U = \\frac{mg(3R)}{1 + 3} = \\frac{3}{4}mgR$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Gravitation",
+        "question": "Average density of the earth",
+        "question_latex": "Average density of the earth",
+        "question_images": [],
+        "options": [
+            "A. is directly proportional to g",
+            "B. is inversely proportional to g",
+            "C. is a complex function of g",
+            "D. does not depend on g"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$g = \\frac{GM}{R^2} = \\frac{G}{R^2} (\\rho \\cdot \\frac{4}{3}\\pi R^3) = \\frac{4}{3}\\pi G R \\rho$. Thus $\\rho = \\frac{3g}{4\\pi RG}$, so $\\rho \\propto g$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Gravitation",
+        "question": "If a man weighs 90 kg on the surface of earth, the height above the surface of the earth of radius R, where the weight is 30 kg is",
+        "question_latex": "If a man weighs $90 \\text{ kg}$ on the surface of earth, the height above the surface of the earth of radius $R$, where the weight is $30 \\text{ kg}$ is",
+        "question_images": [],
+        "options": [
+            "A. 0.73 R",
+            "B. $R/\\sqrt{3}$",
+            "C. $R/3$",
+            "D. $\\sqrt{3}R$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\frac{W'}{W} = \\frac{g'}{g} = \\frac{R^2}{(R+h)^2}$. $\\frac{30}{90} = \\frac{1}{3} = \\left(\\frac{R}{R+h}\\right)^2 \\Rightarrow \\frac{1}{\\sqrt{3}} = \\frac{R}{R+h} \\Rightarrow h = (\\sqrt{3}-1)R \\approx 0.73R$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Gravitation",
+        "question": "If three uniform spheres, each having mass M and radius R, are kept in such a way that each touches the other two, the magnitude of the gravitational force on any sphere due to the other two is",
+        "question_latex": "If three uniform spheres, each having mass $M$ and radius $R$, are kept in such a way that each touches the other two, the magnitude of the gravitational force on any sphere due to the other two is",
+        "question_images": [
+            "q68_1"
+        ],
+        "options": [
+            "A. $\\frac{GM^{2}}{4R^{2}}$",
+            "B. $\\frac{2GM^{2}}{R^{2}}$",
+            "C. $\\frac{2GM^{2}}{4R^{2}}$",
+            "D. $\\frac{\\sqrt{3}GM^{2}}{4R^{2}}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Distance between centers is $2R$. Force from one sphere $F = \\frac{GM^2}{(2R)^2}$. Angle between forces is $60^\\circ$. Resultant $F_{net} = \\sqrt{F^2 + F^2 + 2F^2\\cos 60^\\circ} = \\sqrt{3}F = \\frac{\\sqrt{3}GM^2}{4R^2}$.",
+        "solution_images": [
+            "68_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Gravitation",
+        "question": "The gravitational potential of two homogenous spherical shells A and B of same surface density at their respective centres are in the ratio 3:4. If the two shells coalesce into a single one such that surface density remains the same, then the ratio of potential at an internal point of the new shell to shell A is equal to",
+        "question_latex": "The gravitational potential of two homogenous spherical shells $A$ and $B$ of same surface density at their respective centres are in the ratio $3:4$. If the two shells coalesce into a single one such that surface density remains the same, then the ratio of potential at an internal point of the new shell to shell $A$ is equal to",
+        "question_images": [],
+        "options": [
+            "A. 3:2",
+            "B. 4:3",
+            "C. 5:3",
+            "D. 5:6"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$V \\propto R$. $\\frac{V_A}{V_B} = \\frac{R_A}{R_B} = \\frac{3}{4}$. New shell surface area $4\\pi R^2 = 4\\pi R_A^2 + 4\\pi R_B^2 \\Rightarrow R = \\sqrt{R_A^2 + R_B^2} = \\sqrt{R_A^2 + (4/3 R_A)^2} = \\frac{5}{3}R_A$. Thus $\\frac{V}{V_A} = \\frac{R}{R_A} = \\frac{5}{3}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Gravitation",
+        "question": "Who among the following gave first the experimental value of G",
+        "question_latex": "Who among the following gave first the experimental value of $G$",
+        "question_images": [],
+        "options": [
+            "A. Cavendish",
+            "B. Copernicus",
+            "C. Brok Taylor",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Henry Cavendish was the first to measure the experimental value of the gravitational constant G using a torsion balance.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Gravitation",
+        "question": "Potential energy of a mass of 1000 kg at height 6400 km is",
+        "question_latex": "Potential energy of a mass of $1000 \\text{ kg}$ at height $6400 \\text{ km}$ is (Take $g = 10 \\text{ m/s}^2$ and $R = 6400 \\text{ km}$)",
+        "question_images": [],
+        "options": [
+            "A. $6.4 \\times 10^{11} \\text{ J}$",
+            "B. $6.4 \\times 10^{8} \\text{ J}$",
+            "C. $6.4 \\times 10^{9} \\text{ J}$",
+            "D. $6.4 \\times 10^{10} \\text{ J}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$U = -\\frac{GMm}{R+h} = -\\frac{gR^2m}{2R} = -\\frac{1}{2}mgR$ (considering magnitude of energy to be supplied/stored). Value $= \\frac{1}{2} \\times 1000 \\times 10 \\times 6400 \\times 10^3 = 3.2 \\times 10^{10} \\text{ J}$. Note: The provided solution in text suggests $6.4 \\times 10^{10}$ based on $mgR$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Gravitation",
+        "question": "At sea level, a body will have minimum weight at",
+        "question_latex": "At sea level, a body will have minimum weight at",
+        "question_images": [],
+        "options": [
+            "A. pole",
+            "B. equator",
+            "C. 42° south latitude",
+            "D. 37° north latitude"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "At the equator, the centrifugal force due to earth's rotation is maximum and distance from the center is greatest, resulting in minimum $g$ and thus minimum weight.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Gravitation",
+        "question": "The acceleration due to gravity near the surface of a planet of radius R and density d is proportional to",
+        "question_latex": "The acceleration due to gravity near the surface of a planet of radius $R$ and density $d$ is proportional to",
+        "question_images": [],
+        "options": [
+            "A. $d/R^2$",
+            "B. $dR^2$",
+            "C. $dR$",
+            "D. $d/R$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$g = \\frac{GM}{R^2} = \\frac{G}{R^2} (d \\cdot \\frac{4}{3}\\pi R^3) = \\frac{4}{3}\\pi G d R$. Hence $g \\propto dR$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Gravitation",
+        "question": "The relay satellite transmits the T.V. programme continuously from one part of the world to another because its",
+        "question_latex": "The relay satellite transmits the T.V. programme continuously from one part of the world to another because its",
+        "question_images": [],
+        "options": [
+            "A. Period is greater than the period of rotation of the earth",
+            "B. Period is less than the period of rotation of the earth about its axis",
+            "C. Period has no relation with the period of the earth about its axis",
+            "D. Period is equal to the period of rotation of the earth about its axis"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Telecommunication satellites are geostationary, meaning their orbital period matches the earth's rotation period (24 hours).",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Gravitation",
+        "question": "Two satellite A and B of masses m1 and m2 (m1 = 2m2) are moving in circular orbits of radii r1 and r2 (r1 = 4r2), respectively, around the earth. If their periods are TA and TB, then the ratio TA/TB is",
+        "question_latex": "Two satellite $A$ and $B$ of masses $m_1$ and $m_2$ ($m_1 = 2m_2$) are moving in circular orbits of radii $r_1$ and $r_2$ ($r_1 = 4r_2$), respectively, around the earth. If their periods are $T_A$ and $T_B$, then the ratio $T_A/T_B$ is",
+        "question_images": [],
+        "options": [
+            "A. 4",
+            "B. 16",
+            "C. 2",
+            "D. 8"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "According to Kepler's Third Law, $T^2 \\propto r^3$. $\\frac{T_A}{T_B} = \\left(\\frac{r_1}{r_2}\\right)^{3/2} = (4)^{3/2} = 8$. Period is independent of the mass of the satellite.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Gravitation",
+        "question": "Two satellite A and B of masses m1 and m2 (m1 = 2m2) are moving in circular orbits of radii r1 and r2 (r1 = 4r2), respectively, around the earth. If their periods are TA and TB, then the ratio TA/TB is",
+        "question_latex": "Two satellite A and B of masses $m_{1}$ and $m_{2}$ ($m_{1}=2 m_{2}$) are moving in circular orbits of radii $r_{1}$ and $r_{2}$ ($r_{1}=4r_{2}$), respectively, around the earth. If their periods are $T_{A}$ and $T_{B}$, then the ratio $T_{A}/T_{B}$ is",
+        "question_images": [],
+        "options": [
+            "A. 4",
+            "B. 16",
+            "C. 2",
+            "D. 8"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "From Kepler's third law, $T^2 \\propto r^3$. Therefore, $\\frac{T_A}{T_B} = \\left(\\frac{r_1}{r_2}\\right)^{3/2} = 8$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Gravitation",
+        "question": "Given below are two statements: Statement I: The law of gravitation holds good for any pair of bodies in the universe. Statement II: The weight of any person becomes zero when the person is at the centre of the earth. In the light of the above statements, choose the correct answer from the options given below.",
+        "question_latex": "Given below are two statements: \\\\ Statement I: The law of gravitation holds good for any pair of bodies in the universe. \\\\ Statement II: The weight of any person becomes zero when the person is at the centre of the earth. \\\\ In the light of the above statements, choose the correct answer from the options given below.",
+        "question_images": [],
+        "options": [
+            "A. Both Statement I and Statement II are true.",
+            "B. Statement I is true but Statement II is false.",
+            "C. Both Statement I and Statement II are false.",
+            "D. Statement I is false but Statement II is true."
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Statement I is true because the Law of gravitation is a universal law. Statement II is true because variation of $g$ with depth is $g' = g(1 - \\frac{d}{R})$. At the centre, $d = R$, so $g' = 0$, making the weight $mg' = 0$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Gravitation",
+        "question": "320 km above the surface of earth, the value of acceleration due to gravity is nearly 90% of its value on the surface of the earth. Its value will be 95% of the value on the earth's surface",
+        "question_latex": "320 km above the surface of earth, the value of acceleration due to gravity is nearly 90% of its value on the surface of the earth. Its value will be 95% of the value on the earth's surface",
+        "question_images": [],
+        "options": [
+            "A. Nearly 160 km below the earth s surface",
+            "B. Nearly 80 km below the earth s surface",
+            "C. Nearly 640 km below the earth s surface",
+            "D. Nearly 320 km below the earth s surface"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "At height $h$, $\\frac{g'}{g} = 1 - \\frac{2h}{R} = 0.90 \\Rightarrow \\frac{2h}{R} = 0.10$. With $h=320$ km, $R = 6400$ km. At depth $d$, $\\frac{g'}{g} = 1 - \\frac{d}{R} = 0.95 \\Rightarrow \\frac{d}{R} = 0.05$. Thus $d = 0.05 \\times 6400 = 320$ km.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Gravitation",
+        "question": "The weight of a body on the earth is 400 N. Then weight of the body when taken to a depth half of the radius of the earth will be",
+        "question_latex": "The weight of a body on the earth is 400 N. Then weight of the body when taken to a depth half of the radius of the earth will be",
+        "question_images": [],
+        "options": [
+            "A. 100 N",
+            "B. 200 N",
+            "C. zero",
+            "D. 300 N"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Acceleration due to gravity at depth $d$ is $g' = g(1 - \\frac{d}{R})$. Given $d = R/2$, $g' = g(1 - 1/2) = g/2$. Weight $W' = m(g/2) = 400/2 = 200$ N.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Gravitation",
+        "question": "Force of gravity is least at",
+        "question_latex": "Force of gravity is least at",
+        "question_images": [],
+        "options": [
+            "A. The equator",
+            "B. The poles",
+            "C. A point in between equator and any pole",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Due to the earth's rotation and its ellipsoidal shape (larger radius at the equator), the acceleration due to gravity $g$ is minimum at the equator.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Gravitation",
+        "question": "If it is assumed that the spinning motion of earth increases, then the weight of a body on equator",
+        "question_latex": "If it is assumed that the spinning motion of earth increases, then the weight of a body on equator",
+        "question_images": [],
+        "options": [
+            "A. Decreases",
+            "B. Remains constant",
+            "C. Increases",
+            "D. Becomes more at poles"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The effective gravity at the equator is $g' = g - \\omega^{2}R$. If the angular velocity $\\omega$ increases, $g'$ decreases, and thus the weight decreases.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Gravitation",
+        "question": "The gravitational field strength due to a solid sphere (mass M, radius R) varies with distance r from centre as",
+        "question_latex": "The gravitational field strength due to a solid sphere (mass M, radius R) varies with distance $r$ from centre as",
+        "question_images": [
+            "q82_1"
+        ],
+        "options": [
+            "A. Graph A",
+            "B. Graph B",
+            "C. Graph C",
+            "D. Graph D"
+        ],
+        "option_images": [
+            "q82optionA1",
+            "q82optionB1",
+            "q82optionC1",
+            "q82optionD1",
+            "82_opA_1.png"
+        ],
+        "answer": "A",
+        "solution": "For a solid sphere, inside ($r \\le R$), $E = -\\frac{GMr}{R^{3}}$, so $E \\propto -r$. Outside ($r \\ge R$), $E = -\\frac{GM}{r^{2}}$, so $E \\propto -1/r^{2}$. The negative sign indicates the attractive nature, matching graph A.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Gravitation",
+        "question": "A satellite is moving with a constant speed in a circular orbit about the earth. An object of mass m is ejected from the satellite such that it just escapes from the gravitational pull of the earth. At the time of its ejection, the kinetic energy of the object is",
+        "question_latex": "A satellite is moving with a constant speed in a circular orbit about the earth. An object of mass $m$ is ejected from the satellite such that it just escapes from the gravitational pull of the earth. At the time of its ejection, the kinetic energy of the object is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{1}{2}mv^{2}$",
+            "B. $mv^{2}$",
+            "C. $\\frac{3}{2}mv^{2}$",
+            "D. $2mv^{2}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In a circular orbit, $P.E. = -2 \\times K.E. = -2(\\frac{1}{2}mv^{2}) = -mv^{2}$. To escape, Total Energy must be zero. $K.E._{new} + P.E. = 0 \\Rightarrow K.E._{new} = -P.E. = mv^{2}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Gravitation",
+        "question": "The depth d at which the value of acceleration due to gravity becomes 1/n times the value at the surface, is",
+        "question_latex": "The depth $d$ at which the value of acceleration due to gravity becomes $\\frac{1}{n}$ times the value at the surface, is",
+        "question_images": [],
+        "options": [
+            "A. $R/n$",
+            "B. $R(\\frac{n-1}{n})$",
+            "C. $R/n^{2}$",
+            "D. $R(\\frac{n}{n+1})$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$g' = g(1 - \\frac{d}{R})$. Given $g' = \\frac{g}{n}$, we have $\\frac{g}{n} = g(1 - \\frac{d}{R}) \\Rightarrow \\frac{1}{n} = 1 - \\frac{d}{R} \\Rightarrow \\frac{d}{R} = 1 - \\frac{1}{n} = \\frac{n-1}{n}$. Thus $d = R(\\frac{n-1}{n})$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Gravitation",
+        "question": "A thief stole a box full of valuable articles of weight w and while carrying it on his head jumped down from a wall of height h from the ground. Before he reaches the ground, he experienced a load",
+        "question_latex": "A thief stole a box full of valuable articles of weight $w$ and while carrying it on his head jumped down from a wall of height $h$ from the ground. Before he reaches the ground, he experienced a load",
+        "question_images": [],
+        "options": [
+            "A. Zero",
+            "B. w/2",
+            "C. w",
+            "D. 2 w"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "During a free fall, the acceleration of both the thief and the box is $g$. The relative acceleration is zero, and the normal reaction force $R = m(g-a) = m(g-g) = 0$. Thus, he experiences weightlessness.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Gravitation",
+        "question": "Four spheres each of mass m form a square of side d. A fifth sphere of mass M is situated at the centre of square. The total gravitational potential energy of the system is",
+        "question_latex": "Four spheres each of mass $m$ form a square of side $d$. A fifth sphere of mass $M$ is situated at the centre of square. The total gravitational potential energy of the system is",
+        "question_images": [
+            "q86_1"
+        ],
+        "options": [
+            "A. $-\\frac{Gm}{d}[(4+\\sqrt{2})m+4\\sqrt{2}M]$",
+            "B. $-\\frac{Gm}{d}[3m^{2}+4\\sqrt{2}M]$",
+            "C. $-\\frac{Gm}{d}[(4+\\sqrt{2})M+4\\sqrt{2}m]$",
+            "D. $-\\frac{Gm}{d}[6m^{2}+4\\sqrt{2}M]$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Total P.E. = P.E. of 4 masses at corners + P.E. of center mass with 4 corners. For corners: $4 \\times (-\\frac{Gm^{2}}{d}) + 2 \\times (-\\frac{Gm^{2}}{d\\sqrt{2}})$. For center: $4 \\times (-\\frac{GmM}{d/\\sqrt{2}})$. Summing these gives option A.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Gravitation",
+        "question": "The mean radius of the earth is R, its angular speed on its own axis is ω and the acceleration due to gravity at earth's surface is g. The cube of the radius of the orbit of a geostationary satellite will be",
+        "question_latex": "The mean radius of the earth is $R$, its angular speed on its own axis is $\\omega$ and the acceleration due to gravity at earth's surface is $g$. The cube of the radius of the orbit of a geostationary satellite will be",
+        "question_images": [],
+        "options": [
+            "A. $R^{2}g/\\omega$",
+            "B. $R^{2}\\omega^{2}/g$",
+            "C. $Rg/\\omega^{2}$",
+            "D. $R^{2}g/\\omega^{2}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Orbital velocity $v_{o} = r\\omega = \\sqrt{\\frac{GM}{r}}$. Squaring gives $r^{2}\\omega^{2} = \\frac{GM}{r} \\Rightarrow r^{3} = \\frac{GM}{\\omega^{2}}$. Since $g = \\frac{GM}{R^{2}}$, $GM = gR^{2}$. Thus $r^{3} = \\frac{gR^{2}}{\\omega^{2}}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Gravitation",
+        "question": "At what distance above and below the surface of the earth a body will have same weight, (take radius of earth as R.)",
+        "question_latex": "At what distance above and below the surface of the earth a body will have same weight, (take radius of earth as $R$.)",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{\\sqrt{5}R-R}{2}$",
+            "B. $\\frac{\\sqrt{3}R-R}{2}$",
+            "C. $\\frac{R}{2}(\\sqrt{5}-1)$",
+            "D. $R/2$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Equating $g_{up} = g_{down} \\Rightarrow \\frac{gR^{2}}{(R+h)^{2}} = g(1 - \\frac{h}{R})$. Let $x = h/R$. Then $\\frac{1}{(1+x)^{2}} = (1-x) \\Rightarrow 1 = (1-x)(1+x)^{2} = (1-x)(1+2x+x^{2})$. Solving the cubic equation for $x$ gives $h = \\frac{R}{2}(\\sqrt{5}-1)$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Gravitation",
+        "question": "Three uniform spheres, each having mass m and radius r, are kept in such a way that each touches the other two. The magnitude of the gravitational force on any sphere due to the other two is",
+        "question_latex": "Three uniform spheres, each having mass $m$ and radius $r$, are kept in such a way that each touches the other two. The magnitude of the gravitational force on any sphere due to the other two is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{Gm^{2}}{r^{2}}$",
+            "B. $\\frac{Gm^{2}}{4r^{2}}$",
+            "C. $\\sqrt{2}\\frac{Gm^{2}}{4r^{2}}$",
+            "D. $\\sqrt{3}\\frac{Gm^{2}}{4r^{2}}$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Distance between centers is $2r$. Force between any two is $F = \\frac{Gm^{2}}{(2r)^{2}} = \\frac{Gm^{2}}{4r^{2}}$. The angle between the forces is $60^{\\circ}$ (equilateral triangle). Resultant $F_{net} = \\sqrt{F^{2} + F^{2} + 2F^{2}\\cos 60^{\\circ}} = \\sqrt{3}F = \\frac{\\sqrt{3}Gm^{2}}{4r^{2}}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Gravitation",
+        "question": "The maximum vertical distance through which a fully dressed astronaut can jump on the earth is 0.5 m. If mean density of the Moon is two-third that of the earth and radius is one quarter that of the earth, the maximum vertical distance through which he can jump on the Moon is",
+        "question_latex": "The maximum vertical distance through which a fully dressed astronaut can jump on the earth is 0.5 m. If mean density of the Moon is two-third that of the earth and radius is one quarter that of the earth, the maximum vertical distance through which he can jump on the Moon is",
+        "question_images": [],
+        "options": [
+            "A. 3 m",
+            "B. 6 m",
+            "C. 4 m",
+            "D. 1.5 m"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$g = G\\frac{4}{3}\\pi R\\rho$. $g_{m} = G\\frac{4}{3}\\pi (R/4)(2\\rho/3) = g/6$. Since $h = \\frac{u^{2}}{2g}$, $h \\propto 1/g$. Thus $h_{m} = 6 \\times h_{earth} = 6 \\times 0.5 = 3$ m.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Gravitation",
+        "question": "There is no atmosphere on moon, because of",
+        "question_latex": "There is no atmosphere on moon, because of",
+        "question_images": [],
+        "options": [
+            "A. smaller value of G",
+            "B. smaller value of g",
+            "C. smaller value of R",
+            "D. smaller value of m"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Due to the small value of acceleration due to gravity ($g$) on the moon, the escape velocity is very low. Thermal speeds of gas molecules exceed this escape velocity, causing them to escape.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Gravitation",
+        "question": "The acceleration due to gravity on the surface of earth is g. If the diameter of earth reduces to half of its original value and mass remains constant, then acceleration due to gravity on the surface of earth would be:",
+        "question_latex": "The acceleration due to gravity on the surface of earth is $g$. If the diameter of earth reduces to half of its original value and mass remains constant, then acceleration due to gravity on the surface of earth would be:",
+        "question_images": [],
+        "options": [
+            "A. 2 g",
+            "B. 4 g",
+            "C. g/2",
+            "D. g/4"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$g = \\frac{GM}{R^{2}}$. If diameter $D$ is halved, radius $R$ is halved. $g' = \\frac{GM}{(R/2)^{2}} = 4 \\times \\frac{GM}{R^{2}} = 4g$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Gravitation",
+        "question": "The value of acceleration due to gravity on moving from equator to poles will",
+        "question_latex": "The value of acceleration due to gravity on moving from equator to poles will",
+        "question_images": [],
+        "options": [
+            "A. decrease",
+            "B. increase",
+            "C. remain same",
+            "D. become half"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$g = \\frac{GM}{R^{2}}$. Since the earth is flattened at the poles, the polar radius is smaller than the equatorial radius. Thus, $g$ increases as one moves from the equator to the poles.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Gravitation",
+        "question": "If R is the radius of the earth and g the acceleration due to gravity on the earth's surface, the mean density of the earth is",
+        "question_latex": "If $R$ is the radius of the earth and $g$ the acceleration due to gravity on the earth's surface, the mean density of the earth is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{4\\pi G}{3gR}$",
+            "B. $\\frac{3\\pi R}{4gG}$",
+            "C. $\\frac{3g}{4\\pi RG}$",
+            "D. $\\frac{\\pi R}{12G}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$g = \\frac{GM}{R^{2}}$. Substituting $M = \\rho \\times \\frac{4}{3}\\pi R^{3}$ gives $g = \\frac{G}{R^{2}} \\times \\frac{4}{3}\\pi R^{3} \\rho = \\frac{4}{3}\\pi RG\\rho$. Solving for $\\rho = \\frac{3g}{4\\pi RG}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Gravitation",
+        "question": "Spot the wrong statement: The acceleration due to gravity g decreases if",
+        "question_latex": "Spot the wrong statement: The acceleration due to gravity $g$ decreases if",
+        "question_images": [],
+        "options": [
+            "A. We go down from the surface of the earth towards its centre",
+            "B. We go up from the surface of the earth",
+            "C. We go from the equator towards the poles on the surface of the earth",
+            "D. The rotational velocity of the earth is increased"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Statement C is wrong because $g$ actually increases when moving from the equator to the poles due to the decrease in radius and decrease in centrifugal effect.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Gravitation",
+        "question": "What should be the angular speed of earth, so that body lying on equator may appear weightlessness (g = 10 m/s², R = 6400 km)",
+        "question_latex": "What should be the angular speed of earth, so that body lying on equator may appear weightlessness ($g=10$ m/s$^{2}$, $R=6400$ km)",
+        "question_images": [],
+        "options": [
+            "A. 1/800 rad/s",
+            "B. 1/600 rad/s",
+            "C. 1/400 rad/s",
+            "D. 1/100 rad/s"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For weightlessness at equator, $g' = g - \\omega^{2}R = 0 \\Rightarrow \\omega = \\sqrt{g/R}$. $\\omega = \\sqrt{\\frac{10}{6400 \\times 10^{3}}} = \\sqrt{\\frac{1}{640000}} = \\frac{1}{800}$ rad/s. Note: The source solution mentions $1/500$ but calculations with provided values yield $1/800$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Gravitation",
+        "question": "Gravitational potential on the surface of earth is (M = mass of the earth, R = radius of earth)",
+        "question_latex": "Gravitational potential on the surface of earth is ($M=$ mass of the earth, $R=$ radius of earth)",
+        "question_images": [],
+        "options": [
+            "A. -GM/2R",
+            "B. -gR",
+            "C. gR",
+            "D. GM/R"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Gravitational potential $V = -\\frac{GM}{R}$. Since $g = \\frac{GM}{R^{2}}$, we have $GM = gR^{2}$. Thus $V = -\\frac{gR^{2}}{R} = -gR$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Gravitation",
+        "question": "Match the quantities in Column I with the correct expressions in Column II.",
+        "question_latex": "Match\\ the\\ quantities\\ in\\ Column\\ I\\ with\\ the\\ correct\\ expressions\\ in\\ Column\\ II.",
+        "question_images": [
+            "q48_1"
+        ],
+        "options": [
+            "A. (A→2), (B→1), (C→3), (D→4)",
+            "B. (A→2), (B→2), (C→4), (D→3)",
+            "C. (A→4), (B→3), (C→2), (D→1)",
+            "D. (A→2), (B→4), (C→3), (D→1)"
+        ],
+        "option_images": [],
+        "answer": "D. (A→2), (B→4), (C→3), (D→1)",
+        "solution": "From definitions:\n$F_g = \\dfrac{GMm}{R^2}$,\n$g = \\dfrac{GM}{R^2}$,\n$v_e = \\sqrt{2gR}$,\n$g_h = g\\left(1-\\dfrac{2h}{R}\\right)$.\nHence the correct matching is option (D).",
+        "solution_images": [
+            "q48_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Gravitation",
+        "question": "If the value of acceleration due to gravity at the earth’s surface is $g$, find its value at the centre of the earth, assuming uniform density.",
+        "question_latex": "If\\ the\\ value\\ of\\ acceleration\\ due\\ to\\ gravity\\ at\\ the\\ earth’s\\ surface\\ is\\ $g$,\\ find\\ its\\ value\\ at\\ the\\ centre\\ of\\ the\\ earth,\\ assuming\\ uniform\\ density.",
+        "question_images": [],
+        "options": [
+            "A. $g/5$",
+            "B. $\\dfrac{g}{R}$",
+            "C. $\\dfrac{g}{2R}$",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "D. Zero",
+        "solution": "Inside a uniform spherical earth, acceleration due to gravity varies linearly with distance from the centre:\n$g_r = g\\dfrac{r}{R}$.\nAt the centre, $r=0$, hence $g=0$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Gravitation",
+        "question": "Match the quantities in Column I with the correct physical meanings in Column II.",
+        "question_latex": "Match\\ the\\ quantities\\ in\\ Column\\ I\\ with\\ the\\ correct\\ physical\\ meanings\\ in\\ Column\\ II.",
+        "question_images": [
+            "q50_1"
+        ],
+        "options": [
+            "A. (A→2), (B→1), (C→3), (D→4)",
+            "B. (A→2), (B→2), (C→4), (D→3)",
+            "C. (A→4), (B→3), (C→2), (D→1)",
+            "D. (A→2), (B→1), (C→4), (D→3)"
+        ],
+        "option_images": [],
+        "answer": "D. (A→2), (B→1), (C→4), (D→3)",
+        "solution": "Gravitational force is always attractive,\n$g$ is maximum at earth’s surface,\nescape velocity is $\\sqrt{2gR}$,\nand orbital velocity is $\\sqrt{\\dfrac{GM}{R}}$.\nThus correct matching corresponds to option (D).",
+        "solution_images": [
+            "q50_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    }
+]

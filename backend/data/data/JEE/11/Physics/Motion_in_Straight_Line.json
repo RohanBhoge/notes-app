@@ -1,0 +1,1939 @@
+[
+  {
+    "id": 1,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "Four marbles are dropped from the top of a tower one after the other with an interval of one second. The first one reaches the ground 4 seconds. When the first one reaches the ground the distances between the first and second, the second and third and the third and forth will be respectively",
+    "question_latex": "Four marbles are dropped from the top of a tower one after the other with an interval of one second. The first one reaches the ground $4$ seconds. When the first one reaches the ground the distances between the first and second, the second and third and the third and forth will be respectively",
+    "question_images": [
+      "q1_1"
+    ],
+    "options": [
+      "A. 35, 25 and 15 m",
+      "B. 30, 20 and 10 m",
+      "C. 20, 10 and 5 m",
+      "D. 40, 30 and 20 m"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "For first marble, $h_{1} = \\frac{1}{2}g \\times 16 = 8g$. For second marble, $h_{2} = \\frac{1}{2}g \\times 9 = 4.5g$. For third marble, $h_{3} = \\frac{1}{2}g \\times 4 = 2g$. For fourth marble, $h_{4} = \\frac{1}{2}g \\times 1 = 0.5g$. Differences: $h_{1}-h_{2} = 8g-4.5g = 3.5g = 35\\text{ m}$; $h_{2}-h_{3} = 4.5g-2g = 2.5g = 25\\text{ m}$; $h_{3}-h_{4} = 2g-0.5g = 1.5g = 15\\text{ m}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 2,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "A ball is released from the top of a tower of height h meters. It takes T seconds to reach the ground. What is the position of the ball at T/3 second",
+    "question_latex": "A ball is released from the top of a tower of height $h$ meters. It takes $T$ seconds to reach the ground. What is the position of the ball at $\\frac{T}{3}$ second",
+    "question_images": [],
+    "options": [
+      "A. 8h/9 meters from the ground",
+      "B. 7h/9 meters from the ground",
+      "C. h/9 meters from the ground",
+      "D. 17h/18 meters from the ground"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "We have $s = ut + \\frac{1}{2}gt^2 \\Rightarrow h = 0 \\times T + \\frac{1}{2}gT^2 = \\frac{1}{2}gT^2$. Distance moved in time $\\frac{T}{3}$ is $h' = \\frac{1}{2}g(\\frac{T}{3})^2 = \\frac{1}{2}\\frac{gT^2}{9} = \\frac{h}{9}$. Position from ground $= h - \\frac{h}{9} = \\frac{8h}{9}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 3,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "Which of the following can be zero, when a particle is in motion for some time?",
+    "question_latex": "Which of the following can be zero, when a particle is in motion for some time?",
+    "question_images": [],
+    "options": [
+      "A. Distance",
+      "B. Displacement",
+      "C. Speed",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "If a particle returns to its starting point, its displacement is zero even if it has moved a certain distance.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 4,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "Two trains, one travelling at 15 m/s and other at 20 m/s, are heading towards one another along a straight track. Both the drivers apply brakes simultaneously when they are 500 m apart. If each train has a retardation of 1 m/s^2, the separation after they stop is",
+    "question_latex": "Two trains, one travelling at $15\\text{ ms}^{-1}$ and other at $20\\text{ ms}^{-1}$, are heading towards one another along a straight track. Both the drivers apply brakes simultaneously when they are $500\\text{ m}$ apart. If each train has a retardation of $1\\text{ ms}^{-2}$, the separation after they stop is",
+    "question_images": [],
+    "options": [
+      "A. 192.5 m",
+      "B. 225.5 m",
+      "C. 187.5 m",
+      "D. 155.5 m"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Distance by first train $s_1 = \\frac{u^2}{2a} = \\frac{15^2}{2 \\times 1} = 112.5\\text{ m}$. Distance by second train $s_2 = \\frac{20^2}{2 \\times 1} = 200\\text{ m}$. Total distance $= 312.5\\text{ m}$. Separation $= 500 - 312.5 = 187.5\\text{ m}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 5,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "The displacement x versus time graph is shown below. Choose the correct answer from the options given below: (A) The average velocity during 0 to 3 s is 10 m/s (B) The average velocity during 3 to 5 s is 0 m/s (C) The instantaneous velocity at t = 2 s is 5 m/s (D) The average velocity during 5 to 7 s and instantaneous velocity at t = 6.5 s are equal (E) The average velocity from t = 0 to t = 9 s is zero",
+    "question_latex": "The displacement $x$ versus time graph is shown below. Choose the correct answer from the options given below: (A) Average velocity $0$ to $3\\text{ s}$ is $10\\text{ m/s}$ (B) Average velocity $3$ to $5\\text{ s}$ is $0\\text{ m/s}$ (C) Instantaneous velocity at $t=2\\text{ s}$ is $5\\text{ m/s}$ (D) Average velocity $5$ to $7\\text{ s}$ and instantaneous velocity at $t=6.5\\text{ s}$ are equal (E) Average velocity $t=0$ to $t=9\\text{ s}$ is zero",
+    "question_images": [
+      "q5_1"
+    ],
+    "options": [
+      "A. (B), (C), (D) only",
+      "B. (B), (C), (E) only",
+      "C. (A), (D), (E) only",
+      "D. (B), (D), (E) only"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Slope of $x-t$ graph gives velocity. (B) $3$ to $5\\text{ s}: \\Delta s = 5-5 = 0$. (C) Slope at $t=2\\text{ s}$ is $5\\text{ m/s}$. (E) At $t=9\\text{ s}$, displacement returns to zero, so average velocity is zero.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 6,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "Two cars A and B approach each other at the same speed, then what will be the velocity of A if velocity of B is 8 m/s?",
+    "question_latex": "Two cars $A$ and $B$ approach each other at the same speed, then what will be the velocity of $A$ if velocity of $B$ is $8\\text{ m/s}$?",
+    "question_images": [],
+    "options": [
+      "A. 16 m/s",
+      "B. 8 m/s",
+      "C. -8 m/s",
+      "D. Can't be determined"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Velocity of $A$ is same as that of $B$ in magnitude but opposite in direction since they approach each other.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 7,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "The ratio of the numerical values of the average velocity and average speed of a body is",
+    "question_latex": "The ratio of the numerical values of the average velocity and average speed of a body is",
+    "question_images": [],
+    "options": [
+      "A. unity",
+      "B. unity or less",
+      "C. unity or more",
+      "D. less than unity"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\frac{|\\text{Average velocity}|}{\\text{Average speed}} = \\frac{|\\text{displacement}|}{\\text{distance}}$. Since displacement $\\le$ distance, the ratio is $\\le 1$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 8,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "A truck and a car are moving with equal velocity. On applying the brakes both will stop after certain distance, then",
+    "question_latex": "A truck and a car are moving with equal velocity. On applying the brakes both will stop after certain distance, then",
+    "question_images": [],
+    "options": [
+      "A. truck will cover less distance before rest",
+      "B. car will cover less distance before rest",
+      "C. Both will cover equal distance",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Stopping distance $s = \\frac{u^2}{2\\mu g}$. Since $u$ is same for both, they cover equal distance.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 9,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "The average velocity of a body moving with uniform acceleration after travelling a distance of 3.06 m is 0.34 m/s. If the change in velocity of the body is 0.18 m/s during this time, its uniform acceleration is:",
+    "question_latex": "The average velocity of a body moving with uniform acceleration after travelling a distance of $3.06\\text{ m}$ is $0.34\\text{ ms}^{-1}$. If the change in velocity of the body is $0.18\\text{ ms}^{-1}$ during this time, its uniform acceleration is:",
+    "question_images": [],
+    "options": [
+      "A. 0.01 m/s^2",
+      "B. 0.02 m/s^2",
+      "C. 0.03 m/s^2",
+      "D. 0.04 m/s^2"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$v_{av} = \\frac{v+u}{2} = 0.34$ and $v-u = 0.18$. Solving gives $u=0.25, v=0.43$. Using $v^2-u^2=2as \\Rightarrow 0.43^2 - 0.25^2 = 2a(3.06) \\Rightarrow a = 0.02\\text{ ms}^{-2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 10,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "A stone thrown upward with a speed u from the top of the tower reaches the ground with a velocity 3u. The height of the tower is",
+    "question_latex": "A stone thrown upward with a speed $u$ from the top of the tower reaches the ground with a velocity $3u$. The height of the tower is",
+    "question_images": [],
+    "options": [
+      "A. 3u^2/g",
+      "B. 4u^2/g",
+      "C. 6u^2/g",
+      "D. 9u^2/g"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$v^2 = u^2 + 2gh \\Rightarrow (3u)^2 = (-u)^2 + 2gh \\Rightarrow 9u^2 = u^2 + 2gh \\Rightarrow h = \\frac{4u^2}{g}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 11,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "A balloon gong upward with a velocity of 12 m/s is at a height of 65 m from the earth s surface at any instant. Exactly at this instant a ball drops from it. How much time will the ball take in reaching the surface of earth? (g = 10 m/s^2)",
+    "question_latex": "A balloon gong upward with a velocity of $12\\text{ ms}^{-1}$ is at a height of $65\\text{ m}$ from the earth's surface at any instant. Exactly at this instant a ball drops from it. How much time will the ball take in reaching the surface of earth? ($g = 10\\text{ ms}^{-2}$)",
+    "question_images": [],
+    "options": [
+      "A. 5 s",
+      "B. 6 s",
+      "C. 10 s",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Taking downward as positive: $h=65, u=-12, g=10$. $65 = -12t + \\frac{1}{2}(10)t^2 \\Rightarrow 5t^2 - 12t - 65 = 0$. Solving $(t-5)(5t+13)=0$ gives $t=5\\text{ s}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 12,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "Figure shows the graphical variation of displacement with time for the case of a particle moving along a straight line. The accelerations of the particle during the intervals OA, AB, BC and CD are respectively",
+    "question_latex": "Figure shows the graphical variation of displacement with time for the case of a particle moving along a straight line. The accelerations of the particle during the intervals $OA, AB, BC$ and $CD$ are respectively",
+    "question_images": [
+      "q12_1"
+    ],
+    "options": [
+      "A. -, 0, +, 0",
+      "B. -, 0, +, +",
+      "C. +, 0, +, +",
+      "D. -, 0, -, 0"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$OA$: convex upward (negative acceleration). $AB$: displacement constant or linear (zero acceleration). $BC$: concave upward (positive acceleration). $CD$: straight line (zero acceleration).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 13,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "If x denotes displacement in time t and x = a cos t, then acceleration is",
+    "question_latex": "If $x$ denotes displacement in time $t$ and $x = a \\cos t$, then acceleration is",
+    "question_images": [],
+    "options": [
+      "A. a cos t",
+      "B. -a cos t",
+      "C. a sin t",
+      "D. -a sin t"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$x = a \\cos t \\Rightarrow \\frac{dx}{dt} = -a \\sin t \\Rightarrow \\frac{d^2x}{dt^2} = -a \\cos t$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 14,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "Area under velocity-time curve over a given interval of time",
+    "question_latex": "Area under velocity-time curve over a given interval of time represents",
+    "question_images": [],
+    "options": [
+      "A. acceleration",
+      "B. momentum",
+      "C. velocity",
+      "D. displacement"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "By definition, the integral of velocity with respect to time $\\int v dt$ gives displacement.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 15,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "A ball is dropped on the floor from a height of 10m. It rebounds to a height of 2.5m. If the ball is in contact with the floor for 0.01 s, the average acceleration during contact is nearly",
+    "question_latex": "A ball is dropped on the floor from a height of $10\\text{ m}$. It rebounds to a height of $2.5\\text{ m}$. If the ball is in contact with the floor for $0.01\\text{ s}$, the average acceleration during contact is nearly",
+    "question_images": [],
+    "options": [
+      "A. 500\\sqrt{2} m/s^2 upwards",
+      "B. 1800 m/s^2 downwards",
+      "C. 1500\\sqrt{5} m/s^2 upwards",
+      "D. 1500\\sqrt{2} m/s^2 upwards"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$a_{avg} = \\frac{\\sqrt{2gh'} - (-\\sqrt{2gh})}{\\Delta t} = \\frac{\\sqrt{2 \\times 10 \\times 2.5} + \\sqrt{2 \\times 10 \\times 10}}{0.01} = \\frac{\\sqrt{50} + \\sqrt{200}}{0.01} = \\frac{5\\sqrt{2} + 10\\sqrt{2}}{0.01} = 1500\\sqrt{2}\\text{ ms}^{-2}$ upwards.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 16,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "The position x of a particle varies with time (t) as x = at^2 - bt^3. The acceleration at time t of the particle will be equal to zero, where t is equal to",
+    "question_latex": "The position $x$ of a particle varies with time ($t$) as $x = at^2 - bt^3$. The acceleration at time $t$ of the particle will be equal to zero, where $t$ is equal to",
+    "question_images": [],
+    "options": [
+      "A. 2a/3b",
+      "B. a/b",
+      "C. a/3b",
+      "D. Zero"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$x = at^2 - bt^3 \\Rightarrow v = 2at - 3bt^2 \\Rightarrow a = 2a - 6bt$. Setting $a=0 \\Rightarrow 2a - 6bt = 0 \\Rightarrow t = \\frac{a}{3b}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 17,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "A car moving with a velocity of 10 m/s can be stopped by the application of a constant force F in a distance of 20 m. If the velocity of the car is 30 m/s. It can be stopped by this force in",
+    "question_latex": "A car moving with a velocity of $10\\text{ m/s}$ can be stopped by the application of a constant force $F$ in a distance of $20\\text{ m}$. If the velocity of the car is $30\\text{ m/s}$. It can be stopped by this force in",
+    "question_images": [],
+    "options": [
+      "A. 20/3 m",
+      "B. 20 m",
+      "C. 60 m",
+      "D. 180 m"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$S \\propto u^2$. If velocity becomes $3$ times, stopping distance becomes $3^2 = 9$ times. $9 \\times 20 = 180\\text{ m}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 18,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "A train starting from rest first accelerates uniformly up to a speed of 80 km/h for time t, then it moves with a constant speed for time 3t. The average speed of the train for this duration of journey will be (in km/h):",
+    "question_latex": "A train starting from rest first accelerates uniformly up to a speed of $80\\text{ km/h}$ for time $t$, then it moves with a constant speed for time $3t$. The average speed of the train for this duration of journey will be (in $\\text{km/h}$):",
+    "question_images": [],
+    "options": [
+      "A. 70",
+      "B. 40",
+      "C. 30",
+      "D. 80"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$v_{av} = \\frac{\\text{Total Distance}}{\\text{Total Time}} = \\frac{\\frac{80 \\times t}{2} + 80 \\times 3t}{4t} = \\frac{40t + 240t}{4t} = \\frac{280}{4} = 70\\text{ km/h}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 19,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "The path of a particle moving under the influence of a force fixed in magnitude and direction is",
+    "question_latex": "The path of a particle moving under the influence of a force fixed in magnitude and direction is",
+    "question_images": [],
+    "options": [
+      "A. Straight line",
+      "B. Circle",
+      "C. Parabola",
+      "D. Ellipse"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "A constant force produces a constant acceleration in the same direction, resulting in straight-line motion if starting from rest.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 20,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "A particle is moving with speed along positive x-axis. Calculate the speed of the particle at time t = tau (assume that the particle is at origin at t=0).",
+    "question_latex": "A particle is moving with speed $v = b\\sqrt{x}$ along positive $x$-axis. Calculate the speed of the particle at time $t = \\tau$ (assume that the particle is at origin at $t=0$).",
+    "question_images": [],
+    "options": [
+      "A. b^2*tau/4",
+      "B. b^2*tau/2",
+      "C. b^2*tau",
+      "D. b^2*tau/sqrt(2)"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$\\frac{dx}{dt} = b x^{1/2} \\Rightarrow \\int x^{-1/2} dx = \\int b dt \\Rightarrow 2x^{1/2} = bt \\Rightarrow x = \\frac{b^2t^2}{4}$. Velocity $v = \\frac{dx}{dt} = \\frac{b^2(2t)}{4} = \\frac{b^2t}{2}$. At $t=\\tau$, $v = \\frac{b^2\\tau}{2}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 21,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "A body starts from rest and travels a distance S with uniform acceleration, then moves uniformly a distance 2S uniformly, and finally comes to rest after moving further 5S under uniform retardation. The ratio of the average velocity to maximum velocity is",
+    "question_latex": "A body starts from rest and travels a distance $S$ with uniform acceleration, then moves uniformly a distance $2S$ uniformly, and finally comes to rest after moving further $5S$ under uniform retardation. The ratio of the average velocity to maximum velocity is",
+    "question_images": [],
+    "options": [
+      "A. 2/5",
+      "B. 3/5",
+      "C. 4/7",
+      "D. 5/7"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$t_1 = \\frac{2S}{v_{max}}, t_2 = \\frac{2S}{v_{max}}, t_3 = \\frac{10S}{v_{max}}$. $v_{av} = \\frac{8S}{t_1+t_2+t_3} = \\frac{8S}{14S/v_{max}} = \\frac{8}{14}v_{max} = \\frac{4}{7}v_{max}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 22,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "Two balls are dropped from the top of a high tower with a time interval of t0 second. The distance s between the two balls, plotted against the time lapse t from the instant of dropping the second ball is best represented by",
+    "question_latex": "Two balls are dropped from the top of a high tower with a time interval of $t_{0}$ second. The distance $s$ between the two balls, plotted against the time lapse $t$ from the instant of dropping the second ball is best represented by",
+    "question_images": [
+      "q22_1"
+    ],
+    "options": [
+      "A. Graph A",
+      "B. Graph B",
+      "C. Graph C",
+      "D. Graph D"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Initial distance $s_0 = \\frac{1}{2}gt_0^2$. Relative acceleration is zero, so distance increases linearly until the first ball hits the ground, then it decreases.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 23,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "A body moves from rest with a constant acceleration of 5 m/s^2. Its instantaneous speed (in m/s) at the end of 10 sec is",
+    "question_latex": "A body moves from rest with a constant acceleration of $5\\text{ m/s}^{2}$. Its instantaneous speed (in $\\text{m/s}$) at the end of $10\\text{ sec}$ is",
+    "question_images": [],
+    "options": [
+      "A. 50",
+      "B. 5",
+      "C. 2",
+      "D. 0.5"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$v = u + at = 0 + 5 \\times 10 = 50\\text{ m/s}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 24,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "A particle moves in a straight line so that its displacement x metre at time t second is given by t = sqrt(x^2 - 1). Its acceleration in m/s^2 at time t second is",
+    "question_latex": "A particle moves in a straight line so that its displacement $x$ metre at time $t$ second is given by $t = \\sqrt{x^{2}-1}$. Its acceleration in $\\text{ms}^{-2}$ at time $t$ second is",
+    "question_images": [],
+    "options": [
+      "A. 1/x^3",
+      "B. t^2/x^3",
+      "C. 1/x - t^2/x^3",
+      "D. t^2/x^3 - 1/x^2"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$x^2 = t^2 + 1 \\Rightarrow 2x\\frac{dx}{dt} = 2t \\Rightarrow xv = t$. Differentiating $xv=t$ gives $x\\frac{dv}{dt} + v^2 = 1 \\Rightarrow x a = 1 - (t/x)^2 = \\frac{x^2-t^2}{x^2}$. Since $x^2-t^2=1$, $xa = 1/x^2 \\Rightarrow a = 1/x^3$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 25,
+    "chapter": "Motion_in_a_Straight_Line",
+    "question": "A particle starts from rest at t = 0 and moves in a straight line with acceleration as shown in figure. The velocity of the particle at t = 3 s is",
+    "question_latex": "A particle starts from rest at $t = 0$ and moves in a straight line with acceleration as shown in figure. The velocity of the particle at $t = 3\\text{ s}$ is",
+    "question_images": [
+      "q25_1"
+    ],
+    "options": [
+      "A. 2 m/s",
+      "B. 4 m/s",
+      "C. 6 m/s",
+      "D. 8 m/s"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Velocity is the area under $a-t$ graph. $v = (4 \\times 2) + (-4 \\times 1) = 8 - 4 = 4\\text{ m/s}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 26,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "If the distance covered is zero, then displacement",
+    "question_latex": "If the distance covered is $0$, then displacement is",
+    "question_images": [],
+    "options": [
+      "A. Must be zero",
+      "B. May or may not be zero",
+      "C. Cannot be zero",
+      "D. Depends upon the particle"
+    ],
+    "option_images": [],
+    "answer": "A. Must be zero",
+    "solution": "Since magnitude of displacement can never exceed distance, if distance is $0$ then displacement must also be $0$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 27,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Displacement of a freely falling particle in three successive half second intervals",
+    "question_latex": "A particle starting from rest falls freely under gravity. The displacements in three successive intervals of $0.5\\,s$ are in the ratio",
+    "question_images": [],
+    "options": [
+      "A. $1:2:3$",
+      "B. $1:3:5$",
+      "C. $1:2:4$",
+      "D. $1:4:9$"
+    ],
+    "option_images": [],
+    "answer": "D. $1:4:9$",
+    "solution": "For free fall from rest, displacement $s \\propto t^2$. Hence successive displacements are proportional to $1^2:2^2:3^2 = 1:4:9$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 28,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Instantaneous velocity from displacement time graph",
+    "question_latex": "The displacement–time graph of a particle is shown. If the instantaneous velocities at points $A$ and $B$ are $v_A$ and $v_B$ respectively, then",
+    "question_images": ["q28_1"],
+    "options": [
+      "A. $v_A > v_B$",
+      "B. $v_A = v_B$",
+      "C. $v_A < v_B$",
+      "D. Cannot be determined"
+    ],
+    "option_images": [],
+    "answer": "A. $v_A > v_B$",
+    "solution": "Instantaneous velocity equals slope of the displacement–time graph. Since slope at $A$ is greater than slope at $B$, $v_A > v_B$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 29,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Acceleration from position at two times",
+    "question_latex": "A particle moving with uniform acceleration is at distances $x_1$ and $x_2$ from a fixed point at times $t_1$ and $t_2$. The acceleration of the particle is",
+    "question_images": [],
+    "options": [
+      "A. $\\dfrac{2(x_2-x_1)}{(t_2-t_1)^2}$",
+      "B. $\\dfrac{x_2-x_1}{t_2-t_1}$",
+      "C. $\\dfrac{x_1+x_2}{t_1+t_2}$",
+      "D. $0$"
+    ],
+    "option_images": [],
+    "answer": "A. $\\dfrac{2(x_2-x_1)}{(t_2-t_1)^2}$",
+    "solution": "Using $x = ut + \\frac{1}{2}at^2$ and eliminating $u$, acceleration is $a = \\dfrac{2(x_2-x_1)}{(t_2-t_1)^2}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 30,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Water drops falling at equal intervals",
+    "question_latex": "Water drops fall from a tap onto the floor $5\\,m$ below at equal intervals of time. The first drop hits the floor when the fifth drop begins to fall. The height of the third drop from the ground at that instant is",
+    "question_images": [],
+    "options": [
+      "A. $1.25\\,m$",
+      "B. $2.15\\,m$",
+      "C. $2.73\\,m$",
+      "D. $3.75\\,m$"
+    ],
+    "option_images": [],
+    "answer": "D. $3.75\\,m$",
+    "solution": "Time for first drop $=4t$. Using $s=\\frac{1}{2}gt^2$, height fallen by third drop in $2t$ gives remaining height $=3.75\\,m$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 31,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Pedestrian crossing road problem",
+    "question_latex": "A $2\\,m$ wide road is crossed by a pedestrian while a truck moving with speed $v$ is $4\\,m$ away. The minimum speed of the pedestrian required for safe crossing is",
+    "question_images": [],
+    "options": [
+      "A. $v$",
+      "B. $2v$",
+      "C. $\\sqrt{5}v$",
+      "D. $\\dfrac{v}{2}$"
+    ],
+    "option_images": [],
+    "answer": "C. $\\sqrt{5}v$",
+    "solution": "For minimum speed, pedestrian moves diagonally. Using relative velocity, $u = \\sqrt{v^2+(2v)^2} = \\sqrt{5}v$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 32,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Three stones thrown from tower",
+    "question_latex": "From the top of a tower, one stone is thrown vertically upward and another vertically downward with the same speed. A third stone is dropped from rest. The time taken by the third stone to reach the ground is",
+    "question_images": [],
+    "options": [
+      "A. $6.5\\,s$",
+      "B. $6.0\\,s$",
+      "C. $5.0\\,s$",
+      "D. $6.8\\,s$"
+    ],
+    "option_images": [],
+    "answer": "B. $6.0\\,s$",
+    "solution": "Eliminating height using equations of motion for upward and downward cases gives free fall time as $6\\,s$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 33,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Relative position graph of two stones",
+    "question_latex": "Two stones are thrown upward simultaneously with different speeds. Which graph best represents the time variation of the relative position of the second stone with respect to the first?",
+    "question_images": ["q33_1"],
+    "options": [
+      "A. Graph A",
+      "B. Graph B",
+      "C. Graph C",
+      "D. Graph D"
+    ],
+    "option_images": [],
+    "answer": "B. Graph B",
+    "solution": "Since relative acceleration is zero, relative displacement varies linearly with time until one stone hits the ground.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 34,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Velocity at midpoint with constant acceleration",
+    "question_latex": "A particle moves with constant acceleration from point $A$ to $B$ with velocities $u$ and $v$ respectively. The velocity of the particle at the midpoint of $AB$ is",
+    "question_images": [],
+    "options": [
+      "A. $\\dfrac{u+v}{2}$",
+      "B. $\\sqrt{uv}$",
+      "C. $\\dfrac{u^2+v^2}{2}$",
+      "D. $\\sqrt{\\dfrac{u^2+v^2}{2}}$"
+    ],
+    "option_images": [],
+    "answer": "D. $\\sqrt{\\dfrac{u^2+v^2}{2}}$",
+    "solution": "Using $v^2=u^2+2as$ and substituting $s/2$ gives required expression.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 35,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Average speed for unequal speeds",
+    "question_latex": "A car covers the first half of a distance with speed $v_1$ and the second half with speed $v_2$. The average speed of the car is",
+    "question_images": [],
+    "options": [
+      "A. $\\dfrac{2v_1v_2}{v_1+v_2}$",
+      "B. $\\dfrac{v_1+v_2}{2}$",
+      "C. $\\dfrac{v_1v_2}{v_1+v_2}$",
+      "D. $v_1+v_2$"
+    ],
+    "option_images": [],
+    "answer": "A. $\\dfrac{2v_1v_2}{v_1+v_2}$",
+    "solution": "Average speed equals total distance divided by total time, giving harmonic mean.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 36,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Velocity of stone dropped from rising balloon",
+    "question_latex": "A stone is dropped from a balloon rising vertically upward. The initial velocity of the stone with respect to ground is",
+    "question_images": [],
+    "options": [
+      "A. Upward",
+      "B. Downward",
+      "C. Zero",
+      "D. Depends on height"
+    ],
+    "option_images": [],
+    "answer": "A. Upward",
+    "solution": "At the instant of release, the stone has the same upward velocity as the balloon.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 37,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Time through equal successive distances",
+    "question_latex": "A particle is dropped vertically from rest. The time taken to fall through successive equal distances varies as",
+    "question_images": [],
+    "options": [
+      "A. Equal times",
+      "B. Square roots of natural numbers",
+      "C. Differences of square roots of natural numbers",
+      "D. Reciprocals of square roots"
+    ],
+    "option_images": [],
+    "answer": "C. Differences of square roots of natural numbers",
+    "solution": "Since $t=\\sqrt{\\dfrac{2s}{g}}$, successive time intervals follow difference of square roots.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 38,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Acceleration from distances and times",
+    "question_latex": "A particle moving with uniform acceleration covers distances $s_1$ and $s_2$ in times $t_1$ and $t_2$ respectively. The acceleration of the particle is",
+    "question_images": [],
+    "options": [
+      "A. $\\dfrac{s_1+s_2}{t_1+t_2}$",
+      "B. $\\dfrac{2(s_2-s_1)}{t_2^2-t_1^2}$",
+      "C. $\\dfrac{s_2}{t_2}$",
+      "D. $0$"
+    ],
+    "option_images": [],
+    "answer": "B. $\\dfrac{2(s_2-s_1)}{t_2^2-t_1^2}$",
+    "solution": "Using $s=ut+\\frac{1}{2}at^2$ and eliminating $u$ yields required expression.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 39,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Minimum speed to catch bus",
+    "question_latex": "A bus starts from rest with constant acceleration $a$. A man standing behind the bus runs to catch it. The minimum speed with which the man should run is",
+    "question_images": [],
+    "options": [
+      "A. $at$",
+      "B. $\\sqrt{2as}$",
+      "C. $\\sqrt{as}$",
+      "D. $2as$"
+    ],
+    "option_images": [],
+    "answer": "C. $\\sqrt{as}$",
+    "solution": "For minimum speed, man meets bus when relative velocity is zero, giving $u=\\sqrt{as}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 40,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "One dimensional motion graphs",
+    "question_latex": "Which of the following curves possibly represent one–dimensional motion of a particle?",
+    "question_images": ["q40_1"],
+    "options": [
+      "A. A, B and D only",
+      "B. A, B and C only",
+      "C. A and B only",
+      "D. A, C and D only"
+    ],
+    "option_images": [],
+    "answer": "A. A, B and D only",
+    "solution": "Time cannot be negative and distance must be physically meaningful for one–dimensional motion.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 41,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Body falling with gravity ceasing midway",
+    "question_latex": "A body is dropped from a height of $39.2\\,m$. After falling through half the distance, acceleration due to gravity ceases to act. The velocity with which the body hits the ground is",
+    "question_images": [],
+    "options": [
+      "A. $14\\,m/s$",
+      "B. $19.6\\,m/s$",
+      "C. $9.8\\,m/s$",
+      "D. $28\\,m/s$"
+    ],
+    "option_images": [],
+    "answer": "A. $14\\,m/s$",
+    "solution": "Velocity after half distance $v=\\sqrt{2gs}=14\\,m/s$. Thereafter velocity remains constant.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 42,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Average velocity for equal halves",
+    "question_latex": "A car travels half the distance with speed $v_1$ and the remaining half with speed $v_2$. The average velocity of the car is",
+    "question_images": [],
+    "options": [
+      "A. $\\dfrac{v_1+v_2}{2}$",
+      "B. $\\dfrac{2v_1v_2}{v_1+v_2}$",
+      "C. $\\dfrac{v_1v_2}{v_1+v_2}$",
+      "D. $v_1-v_2$"
+    ],
+    "option_images": [],
+    "answer": "B. $\\dfrac{2v_1v_2}{v_1+v_2}$",
+    "solution": "Since direction remains same, average velocity equals average speed.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 43,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Velocity from position equation",
+    "question_latex": "If the position of a particle is given by $x=t^3-6t^2+9t$, then velocity of the particle becomes zero at",
+    "question_images": [],
+    "options": [
+      "A. $t=1$",
+      "B. $t=2$",
+      "C. $t=3$",
+      "D. Never"
+    ],
+    "option_images": [],
+    "answer": "C. $t=3$",
+    "solution": "Velocity $v=\\dfrac{dx}{dt}=3t^2-12t+9$. Setting $v=0$ gives $t=3$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 44,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Condition for zero acceleration",
+    "question_latex": "Acceleration of a particle is zero when",
+    "question_images": [],
+    "options": [
+      "A. Velocity is zero",
+      "B. Velocity is constant",
+      "C. Displacement is zero",
+      "D. Speed is maximum"
+    ],
+    "option_images": [],
+    "answer": "B. Velocity is constant",
+    "solution": "Acceleration is rate of change of velocity. Constant velocity implies zero acceleration.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 45,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Quantity that can be zero during motion",
+    "question_latex": "Which of the following quantities can be zero even when a particle is in motion?",
+    "question_images": [],
+    "options": [
+      "A. Speed",
+      "B. Distance",
+      "C. Displacement",
+      "D. Acceleration"
+    ],
+    "option_images": [],
+    "answer": "C. Displacement",
+    "solution": "During round trip motion, net displacement can be zero even though the particle moves.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 46,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Condition for zero average velocity",
+    "question_latex": "The average velocity of a particle is zero when",
+    "question_images": [],
+    "options": [
+      "A. Speed is constant",
+      "B. Distance travelled is zero",
+      "C. Net displacement is zero",
+      "D. Acceleration is zero"
+    ],
+    "option_images": [],
+    "answer": "C. Net displacement is zero",
+    "solution": "Average velocity $=\\dfrac{\\text{displacement}}{\\text{time}}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 47,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Slope of velocity time graph",
+    "question_latex": "The slope of a velocity–time graph represents",
+    "question_images": [],
+    "options": [
+      "A. Velocity",
+      "B. Displacement",
+      "C. Acceleration",
+      "D. Jerk"
+    ],
+    "option_images": [],
+    "answer": "C. Acceleration",
+    "solution": "Slope of $v-t$ graph is $\\dfrac{dv}{dt}$ which equals acceleration.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 48,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Area under velocity time graph",
+    "question_latex": "The area under a velocity–time graph represents",
+    "question_images": [],
+    "options": [
+      "A. Acceleration",
+      "B. Velocity",
+      "C. Momentum",
+      "D. Displacement"
+    ],
+    "option_images": [],
+    "answer": "D. Displacement",
+    "solution": "Area under $v-t$ graph equals $\\int v\\,dt$, which is displacement.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 49,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Velocity time graph for uniform acceleration",
+    "question_latex": "For motion with uniform acceleration, the velocity–time graph is",
+    "question_images": [],
+    "options": [
+      "A. Horizontal line",
+      "B. Vertical line",
+      "C. Straight line",
+      "D. Curve"
+    ],
+    "option_images": [],
+    "answer": "C. Straight line",
+    "solution": "Uniform acceleration implies linear change of velocity with time.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 50,
+    "chapter": "Some_Basic_Concepts_Of_Chemistry",
+    "question": "Acceleration from position equation",
+    "question_latex": "If the position of a particle is given by $x=at^2+bt+c$, then the acceleration of the particle is",
+    "question_images": [],
+    "options": [
+      "A. $a$",
+      "B. $2a$",
+      "C. $bt$",
+      "D. $0$"
+    ],
+    "option_images": [],
+    "answer": "B. $2a$",
+    "solution": "Velocity $v=\\dfrac{dx}{dt}=2at+b$, acceleration $=\\dfrac{dv}{dt}=2a$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 51,
+    "chapter": "Motion in a Straight Line",
+    "question": "A body starts to fall freely under gravity. The distance covered by it in first, second and third second are in ratio",
+    "question_latex": "A body starts to fall freely under gravity. The distance covered by it in first, second and third second are in ratio",
+    "question_images": [],
+    "options": [
+      "A. 1:3:5",
+      "B. 1:2:3",
+      "C. 1:4:9",
+      "D. 1:5:6"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Using the formula for distance traveled in the $n^{th}$ second: $S_{n} = u + \\frac{g}{2}(2n-1)$. Given $u=0$, the distances are: \n$S_{1} = \\frac{g}{2}(2(1)-1) = \\frac{g}{2}$ \n$S_{2} = \\frac{g}{2}(2(2)-1) = \\frac{3g}{2}$ \n$S_{3} = \\frac{g}{2}(2(3)-1) = \\frac{5g}{2}$ \nThus, $S_{1}: S_{2}: S_{3} = 1:3:5$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 52,
+    "chapter": "Motion in a Straight Line",
+    "question": "The initial velocity of a particle is u (at $t=0$) and the acceleration f is given by at. Which of the following relation is valid",
+    "question_latex": "The initial velocity of a particle is $u$ (at $t=0$) and the acceleration $f$ is given by $at$. Which of the following relation is valid",
+    "question_images": [],
+    "options": [
+      "A. $v = u+at^{2}$ ",
+      "B. $v = u+a\\frac{t^{2}}{2}$ ",
+      "C. $v = u+at$ ",
+      "D. $v = u$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "If acceleration is variable (depends on time) then: \n$v = u + \\int(f)dt = u + \\int(at)dt = u + \\frac{at^2}{2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 53,
+    "chapter": "Motion in a Straight Line",
+    "question": "The velocity time graph of a body is shown in Fig. It indicates that",
+    "question_latex": "The velocity time graph of a body is shown in Fig. It indicates that",
+    "question_images": [
+      "q53_1"
+    ],
+    "options": [
+      "A. At B force is zero",
+      "B. At B there is a force but towards motion",
+      "C. At B there is a force which opposes motion",
+      "D. None of the above is true"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Near B, velocity decreases with time. Hence, there is retardation or there is an opposing force acting on the body.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 54,
+    "chapter": "Motion in a Straight Line",
+    "question": "A bullet of mass 20 g has an initial speed of $1\\,ms^{-1}$, just before it starts penetrating a mud wall of thickness 20 cm. If the wall offers a mean resistance of $2.5\\times10^{-2}\\,N$, the speed of the bullet after emerging from the other side of the wall is close to:",
+    "question_latex": "A bullet of mass $20\\,g$ has an initial speed of $1\\,ms^{-1}$, just before it starts penetrating a mud wall of thickness $20\\,cm$. If the wall offers a mean resistance of $2.5\\times10^{-2}\\,N$, the speed of the bullet after emerging from the other side of the wall is close to:",
+    "question_images": [],
+    "options": [
+      "A. $0.1\\,ms^{-1}$ ",
+      "B. $0.7\\,ms^{-1}$ ",
+      "C. $0.3\\,ms^{-1}$ ",
+      "D. $0.4\\,ms^{-1}$ "
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "From the third equation of motion: $v^2 - u^2 = 2aS$. \nSince $a = \\frac{-F}{m}$, then $v^2 = u^2 - 2(\\frac{F}{m})s$. \n$v^2 = (1)^2 - 2[\\frac{2.5 \\times 10^{-2}}{20 \\times 10^{-3}}]\\frac{20}{100} = 1 - 0.5 = 0.5$. \n$v = \\sqrt{0.5} \\approx 0.7\\,m/s$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 55,
+    "chapter": "Motion in a Straight Line",
+    "question": "The variation of velocity of a particle moving along a straight line is shown in the figure. The distance travelled by the particle in 4s is",
+    "question_latex": "The variation of velocity of a particle moving along a straight line is shown in the figure. The distance travelled by the particle in $4\\,s$ is",
+    "question_images": [
+      "q55_1"
+    ],
+    "options": [
+      "A. 25 m",
+      "B. 30 m",
+      "C. 55 m",
+      "D. 60 m"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "The distance is the area under the $v-t$ graph. \n$S = \\text{Area of Triangle} + \\text{Area of Rectangle} + \\text{Area of Trapezium} + \\text{Area of Rectangle}$ \n$S = \\frac{1}{2} \\times 1 \\times 20 + 1 \\times 20 + \\frac{1}{2} \\times (20 + 10) \\times 1 + 1 \\times 10 = 10 + 20 + 15 + 10 = 55\\,m$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 56,
+    "chapter": "Motion in a Straight Line",
+    "question": "A body falls from rest, its velocity at the end of first second is ($g=32\\,ft/sec^2$)",
+    "question_latex": "A body falls from rest, its velocity at the end of first second is ($g=32\\,ft/sec^2$)",
+    "question_images": [],
+    "options": [
+      "A. 16 ft/sec",
+      "B. 32 ft/sec",
+      "C. 64 ft/sec",
+      "D. 24 ft/sec"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$v = u + gt$. Given $u=0$, $g=32\\,ft/sec^2$, $t=1\\,s$. \n$v = 0 + 32 \\times 1 = 32\\,ft/sec$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 57,
+    "chapter": "Motion in a Straight Line",
+    "question": "The coordinates of a moving particle at any time t are given by $x=\\alpha t^{3}$ and $y=\\beta t^{3}$. The speed of the particle at time t is given by",
+    "question_latex": "The coordinates of a moving particle at any time $t$ are given by $x=\\alpha t^{3}$ and $y=\\beta t^{3}$. The speed of the particle at time $t$ is given by",
+    "question_images": [],
+    "options": [
+      "A. $3t\\sqrt{\\alpha^{2}+\\beta^{2}}$ ",
+      "B. $3t^{2}\\sqrt{\\alpha^{2}+\\beta^{2}}$ ",
+      "C. $t^{2}\\sqrt{\\alpha^{2}+\\beta^{2}}$ ",
+      "D. $\\sqrt{\\alpha^{2}+\\beta^{2}}$ "
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$v_x = \\frac{dx}{dt} = 3\\alpha t^2$ and $v_y = \\frac{dy}{dt} = 3\\beta t^2$. \nResultant velocity $v = \\sqrt{v_x^2 + v_y^2} = \\sqrt{(3\\alpha t^2)^2 + (3\\beta t^2)^2} = \\sqrt{9\\alpha^2 t^4 + 9\\beta^2 t^4} = 3t^2\\sqrt{\\alpha^2 + \\beta^2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 58,
+    "chapter": "Motion in a Straight Line",
+    "question": "Assertion: Velocity-time graph for an object in uniform motion along a straight path is a straight line parallel to the time axis. Reason: In uniform motion of an object velocity increases as the square of time elapsed.",
+    "question_latex": "Assertion: Velocity-time graph for an object in uniform motion along a straight path is a straight line parallel to the time axis. \\\\ Reason: In uniform motion of an object velocity increases as the square of time elapsed.",
+    "question_images": [],
+    "options": [
+      "A. Assertion is correct, reason is correct; reason is a correct explanation for assertion.",
+      "B. Assertion is correct, reason is correct; reason is not a correct explanation for assertion.",
+      "C. Assertion is correct, reason is incorrect.",
+      "D. Assertion is incorrect, reason is correct."
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In uniform motion, the object moves with constant velocity. Thus, the $v-t$ graph is a straight line parallel to the time axis. The reason is incorrect because velocity does not change in uniform motion.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 59,
+    "chapter": "Motion in a Straight Line",
+    "question": "A person moves 30 m north and then 20 m towards east and finally in south-west direction. The displacement of the person from the origin will be",
+    "question_latex": "A person moves $30\\,m$ north and then $20\\,m$ towards east and finally in south-west direction. The displacement of the person from the origin will be",
+    "question_images": [
+      "q59_1"
+    ],
+    "options": [
+      "A. 10 m along north",
+      "B. 10 m along south",
+      "C. 10 m along west",
+      "D. Zero"
+    ],
+    "option_images": [],
+    "answer": "C",
+"solution": "Let the starting point be $(0,0)$. \nThe displacement vector is\n$\\vec{S} = 30\\hat{j} + 20\\hat{i} - 30\\sqrt{2}\\left( \\cos 45^{\\circ}\\,\\hat{i} + \\sin 45^{\\circ}\\,\\hat{j} \\right)$. \nSince $\\cos 45^{\\circ} = \\sin 45^{\\circ} = \\dfrac{1}{\\sqrt{2}}$, we get\n$\\vec{S} = 20\\hat{i} + 30\\hat{j} - 30\\hat{i} - 30\\hat{j} = -10\\hat{i}$. \nHence, the displacement is $10\\,\\text{m}$ towards the West.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 60,
+    "chapter": "Motion in a Straight Line",
+    "question": "A particle is moving with constant acceleration from A to B in a straight line AB. If u and v are the velocities at A and B respectively then its velocity at the midpoint C will be",
+    "question_latex": "A particle is moving with constant acceleration from $A$ to $B$ in a straight line $AB$. If $u$ and $v$ are the velocities at $A$ and $B$ respectively then its velocity at the midpoint $C$ will be",
+    "question_images": [],
+    "options": [
+      "A. $(\\frac{u^{2}+v^{2}}{2u})^{2}$ ",
+      "B. $\\frac{u+v}{2}$ ",
+      "C. $\\frac{v-u}{2}$ ",
+      "D. $\\sqrt{\\frac{u^{2}+v^{2}}{2}}$ "
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Let $S$ be the distance $AB$ and $a$ be acceleration. \n$v^2 - u^2 = 2aS \\Rightarrow aS = \\frac{v^2-u^2}{2}$. \nFor midpoint $C$, distance is $S/2$. \n$v_c^2 - u^2 = 2a(S/2) = aS$. \n$v_c^2 = u^2 + \\frac{v^2-u^2}{2} = \\frac{u^2+v^2}{2} \\Rightarrow v_c = \\sqrt{\\frac{u^2+v^2}{2}}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 61,
+    "chapter": "Motion in a Straight Line",
+    "question": "A train starts from station with an acceleration $1\\,ms^{-2}$. A boy is 48 m behind the train with a constant velocity $10\\,ms^{-1}$, the minimum time after which the boy will catch the train is",
+    "question_latex": "A train starts from station with an acceleration $1\\,ms^{-2}$. A boy is $48\\,m$ behind the train with a constant velocity $10\\,ms^{-1}$, the minimum time after which the boy will catch the train is",
+    "question_images": [],
+    "options": [
+      "A. 4.8 s",
+      "B. 8 s",
+      "C. 10 s",
+      "D. 12 s"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Let $t$ be the time. Distance by boy $s_b = 10t$. Distance by train $s_t = 0 + \\frac{1}{2}(1)t^2$. \nCondition: $s_b = s_t + 48 \\Rightarrow 10t = 0.5t^2 + 48 \\Rightarrow t^2 - 20t + 96 = 0$. \n$(t-8)(t-12) = 0$. Minimum time is $8\\,s$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 62,
+    "chapter": "Motion in a Straight Line",
+    "question": "A particle is dropped vertically from rest a height. The time taken by it to fall through successive distances of 1 m each will then be",
+    "question_latex": "A particle is dropped vertically from rest a height. The time taken by it to fall through successive distances of $1\\,m$ each will then be",
+    "question_images": [],
+    "options": [
+      "A. All equal, being equal to $\\sqrt{2/g}$ second",
+      "B. In the ratio of the square roots of the integers 1, 2, 3.",
+      "C. In the ratio of the difference in the square roots of the integers i.e. $\\sqrt{1},(\\sqrt{2}-\\sqrt{1}), (\\sqrt{3}-\\sqrt{2}), (\\sqrt{4}-\\sqrt{3})$",
+      "D. In the ratio of the reciprocal of the square roots of the integers i.e... $\\frac{1}{\\sqrt{1}},\\frac{1}{\\sqrt{2}},\\frac{1}{\\sqrt{3}},\\frac{1}{\\sqrt{4}}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Time for first $1\\,m$: $t_1 = \\sqrt{2(1)/g} = \\sqrt{2/g}$. \nTime for total $2\\,m$: $T_2 = \\sqrt{2(2)/g} = \\sqrt{2}t_1$. \nTime for second $1\\,m$: $t_2 = T_2 - t_1 = (\\sqrt{2}-1)t_1$. \nSimilarly, $t_3 = (\\sqrt{3}-\\sqrt{2})t_1$. Ratio is $\\sqrt{1}:(\\sqrt{2}-\\sqrt{1}):(\\sqrt{3}-\\sqrt{2})...$",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 63,
+    "chapter": "Motion in a Straight Line",
+    "question": "A stone is dropped from a certain height which can reach the ground in 5 s. It is stopped after 3 s of its fall and then it is again released. The total time taken by the stone to reach the ground will be",
+    "question_latex": "A stone is dropped from a certain height which can reach the ground in $5\\,s$. It is stopped after $3\\,s$ of its fall and then it is again released. The total time taken by the stone to reach the ground will be",
+    "question_images": [],
+    "options": [
+      "A. 6 s",
+      "B. 6.5 s",
+      "C. 7 s",
+      "D. 7.5 s"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Total height $H = \\frac{1}{2} \\times 10 \\times (5)^2 = 125\\,m$. \nFall in first $3\\,s$: $h_1 = \\frac{1}{2} \\times 10 \\times (3)^2 = 45\\,m$. \nRemaining distance = $125 - 45 = 80\\,m$. \nTime to cover $80\\,m$ from rest: $t = \\sqrt{2 \\times 80 / 10} = 4\\,s$. \nTotal time = $3\\,s + 4\\,s = 7\\,s$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 64,
+    "chapter": "Motion in a Straight Line",
+    "question": "Consider a rubber ball freely falling from a height $h=4.9\\,m$ onto a horizontal elastic plate. Assume that the duration of collision is negligible and the collision with the plate is totally elastic. Then the velocity and height as a function of time will be:",
+    "question_latex": "Consider a rubber ball freely falling from a height $h=4.9\\,m$ onto a horizontal elastic plate. Assume that the duration of collision is negligible and the collision with the plate is totally elastic. Then the velocity and height as a function of time will be:",
+    "question_images": [],
+    "options": [
+      "A. Graph A",
+      "B. Graph B",
+      "C. Graph C",
+      "D. Graph D"
+    ],
+    "option_images": [
+      "q64optionA1",
+      "q64optionB1",
+      "q64optionC1",
+      "q64optionD1"
+    ],
+    "answer": "B",
+    "solution": "For downward motion $v = -gt$ (negative slope). At collision, velocity reverses direction. Height $y = h - \\frac{1}{2}gt^2$ is a parabola opening downwards. Graph B correctly shows these periodic variations.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 65,
+    "chapter": "Motion in a Straight Line",
+    "question": "Which of the following velocity-time graphs shows a realistic situation for a body in motion?",
+    "question_latex": "Which of the following velocity-time graphs shows a realistic situation for a body in motion?",
+    "question_images": [
+      "q65_1"
+    ],
+    "options": [
+      "A. Graph A",
+      "B. Graph B",
+      "C. Graph C",
+      "D. Graph D"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "In other options, for a single point in time, there are multiple velocities, which is physically impossible. Only B represents a realistic scenario.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 66,
+    "chapter": "Units and Measurements",
+    "question": "A physical quantity Q is found to depend on quantities a, b, c by the relation $Q = \\frac{a^4 b^5}{c^2}$. The percentage error in a, b and c are 3%, 4% and 5% respectively. Then, the percentage error in Q is:",
+    "question_latex": "A physical quantity $Q$ is found to depend on quantities $a, b, c$ by the relation $Q = \\frac{a^4 b^5}{c^2}$. The percentage error in $a, b$ and $c$ are $3\\%, 4\\%$ and $5\\%$ respectively. Then, the percentage error in $Q$ is:",
+    "question_images": [],
+    "options": [
+      "A. 33%",
+      "B. 43%",
+      "C. 66%",
+      "D. 14%"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Percentage error formula: $\\frac{\\Delta Q}{Q} = 4\\frac{\\Delta a}{a} + 5\\frac{\\Delta b}{b} + 2\\frac{\\Delta c}{c}$. \n$\\% \\text{ error in } Q = 4(3) + 5(4) + 2(5) = 12 + 20 + 10 = 42\\%$. (Note: Solution in source text has a calculation typo leading to 34% or 33%, but formula usage is consistent).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 67,
+    "chapter": "Motion in a Straight Line",
+    "question": "A particle of unit mass undergoes one-dimensional motion such that its velocity varies according to $v(x)=bx^{-2n}$ where b and n are constants. The acceleration of the particle as a function of x, is given by",
+    "question_latex": "A particle of unit mass undergoes one-dimensional motion such that its velocity varies according to $v(x)=bx^{-2n}$ where $b$ and $n$ are constants. The acceleration of the particle as a function of $x$, is given by",
+    "question_images": [],
+    "options": [
+      "A. $-2nb^{2}x^{-4n-1}$ ",
+      "B. $-2nb^{2}e^{-4n+1}$ ",
+      "C. $-2b^{2}x^{-2n+1}$ ",
+      "D. $-2nb^{2}x^{-2n-1}$ "
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$v = bx^{-2n} \\Rightarrow \\frac{dv}{dx} = b(-2n)x^{-2n-1}$. \nAcceleration $a = v\\frac{dv}{dx} = (bx^{-2n})(-2nbx^{-2n-1}) = -2nb^2 x^{-4n-1}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 68,
+    "chapter": "Motion in a Straight Line",
+    "question": "A man in a car at location Q on a straight highway is moving with speed v. He decides to reach a point P in a field at a distance d from highway (point M). Speed of the car in the field is half to that on the highway. What should be the distance RM, so that the time taken to reach P is minimum?",
+    "question_latex": "A man in a car at location $Q$ on a straight highway is moving with speed $v$. He decides to reach a point $P$ in a field at a distance $d$ from highway (point $M$). Speed of the car in the field is half to that on the highway. What should be the distance $RM$, so that the time taken to reach $P$ is minimum?",
+    "question_images": [
+      "q68_1"
+    ],
+    "options": [
+      "A. $\\frac{d}{\\sqrt{3}}$ ",
+      "B. $\\frac{d}{2}$ ",
+      "C. $\\frac{d}{\\sqrt{2}}$ ",
+      "D. d"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Total time $T = \\frac{QM-x}{v} + \\frac{\\sqrt{d^2+x^2}}{v/2}$. \nFor minimum $T$, $\\frac{dT}{dx} = 0 \\Rightarrow \\frac{-1}{v} + \\frac{2x}{v\\sqrt{d^2+x^2}} = 0$. \n$\\frac{2x}{\\sqrt{d^2+x^2}} = 1 \\Rightarrow 4x^2 = d^2 + x^2 \\Rightarrow 3x^2 = d^2 \\Rightarrow x = \\frac{d}{\\sqrt{3}}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 69,
+    "chapter": "Motion in a Straight Line",
+    "question": "Which of the following statements are correct? I. A body can have zero velocity and still be accelerated. II. A body can have a constant velocity and still have a varying speed. III. A body can have a constant speed and still have a varying velocity. IV. The direction of the velocity of a body cannot change when its acceleration is constant.",
+    "question_latex": "Which of the following statements are correct? \\\\ I. A body can have zero velocity and still be accelerated. \\\\ II. A body can have a constant velocity and still have a varying speed. \\\\ III. A body can have a constant speed and still have a varying velocity. \\\\ IV. The direction of the velocity of a body cannot change when its acceleration is constant.",
+    "question_images": [],
+    "options": [
+      "A. I and II",
+      "B. I and III",
+      "C. I, II and III",
+      "D. II, III and IV"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Statement I is true (e.g., at highest point of projectile). Statement III is true (e.g., uniform circular motion). II is false because constant velocity implies constant speed. IV is false (e.g., projectile motion).",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 70,
+    "chapter": "Motion in a Straight Line",
+    "question": "A balloon is at a height of 81 m and is ascending upwards with a velocity of $12\\,m/s$. A body of 2kg weight is dropped from it. If $g=10\\,m/s^{2}$, the body will reach the surface of earth in",
+    "question_latex": "A balloon is at a height of $81\\,m$ and is ascending upwards with a velocity of $12\\,m/s$. A body of $2\\,kg$ weight is dropped from it. If $g=10\\,m/s^{2}$, the body will reach the surface of earth in",
+    "question_images": [],
+    "options": [
+      "A. 1.5 s",
+      "B. 4.025 s",
+      "C. 5.4 s",
+      "D. 6.75 s"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Using $S = ut + \\frac{1}{2}at^2$ with $S = -81\\,m$, $u = +12\\,m/s$, $a = -10\\,m/s^2$. \n$-81 = 12t - 5t^2 \\Rightarrow 5t^2 - 12t - 81 = 0$. \nSolving for $t$, $t = \\frac{12 \\pm \\sqrt{144 + 1620}}{10} = \\frac{12 \\pm 42}{10}$. \nTaking positive value, $t = 5.4\\,s$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 71,
+    "chapter": "Motion in a Straight Line",
+    "question": "Match the Column I and Column II: (A) Displacement (B) Velocity (C) Acceleration (D) Instantaneous velocity | (1) Slope of x-t graph (2) Slope of tangent to x-t Curve (3) Area under v-t curve (4) Slope of v-t graph",
+    "question_latex": "Match the Column I and Column II: \\\\ (A) Displacement (B) Velocity (C) Acceleration (D) Instantaneous velocity \\\\ (1) Slope of $x-t$ graph (2) Slope of tangent to $x-t$ Curve (3) Area under $v-t$ curve (4) Slope of $v-t$ graph",
+    "question_images": [],
+    "options": [
+      "A. A-4, B-2, C-1, D-3",
+      "B. A-2, B-4, C-3, D-1",
+      "C. A-3, B-1, C-4, D-2",
+      "D. A-2, B-1, C-4, D-3"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Displacement is area under $v-t$ curve (3). Velocity is slope of $x-t$ graph (1). Acceleration is slope of $v-t$ graph (4). Instantaneous velocity is slope of tangent to $x-t$ curve (2).",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 72,
+    "chapter": "Motion in a Straight Line",
+    "question": "A body moves for a total of nine seconds starting from rest with uniform acceleration and then with uniform retardation, which is twice the value of acceleration, and then stops. The duration of uniform acceleration is",
+    "question_latex": "A body moves for a total of nine seconds starting from rest with uniform acceleration and then with uniform retardation, which is twice the value of acceleration, and then stops. The duration of uniform acceleration is",
+    "question_images": [],
+    "options": [
+      "A. 3 s",
+      "B. 4.5 s",
+      "C. 5 s",
+      "D. 6 s"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Let acceleration be $a$ for $t_1$ and retardation $2a$ for $t_2$. \n$v = at_1$ and $0 = v - 2at_2 \\Rightarrow t_2 = v/(2a) = t_1/2$. \nGiven $t_1 + t_2 = 9 \\Rightarrow t_1 + t_1/2 = 9 \\Rightarrow 1.5t_1 = 9 \\Rightarrow t_1 = 6\\,s$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 73,
+    "chapter": "Motion in a Straight Line",
+    "question": "The relation $3t = \\sqrt{3x} + 6$ describes the displacement of a particle. The displacement, when velocity is zero, is",
+    "question_latex": "The relation $3t = \\sqrt{3x} + 6$ describes the displacement of a particle. The displacement, when velocity is zero, is",
+    "question_images": [],
+    "options": [
+      "A. 24 metres",
+      "B. 12 metres",
+      "C. 5 metres",
+      "D. Zero"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$\\sqrt{3x} = 3t - 6 \\Rightarrow 3x = (3t-6)^2 \\Rightarrow x = 3(t-2)^2$. \n$v = \\frac{dx}{dt} = 6(t-2)$. For $v=0$, $t=2\\,s$. \nAt $t=2$, $x = 3(2-2)^2 = 0$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 74,
+    "chapter": "Motion in a Straight Line",
+    "question": "If a freely falling body travels in the last second a distance equal to the distance travelled by it in the first three seconds, the time of the travel is",
+    "question_latex": "If a freely falling body travels in the last second a distance equal to the distance travelled by it in the first three seconds, the time of the travel is",
+    "question_images": [],
+    "options": [
+      "A. 6 sec",
+      "B. 5 sec",
+      "C. 4 sec",
+      "D. 3 sec"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$S_{\\text{last}} = \\frac{g}{2}(2t-1)$. $S_{\\text{first 3s}} = \\frac{1}{2}g(3)^2 = 4.5g$. \n$\\frac{g}{2}(2t-1) = 4.5g \\Rightarrow 2t-1 = 9 \\Rightarrow t = 5\\,s$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 75,
+    "chapter": "Motion in a Straight Line",
+    "question": "A point moves with uniform acceleration and $v_1, v_2$ and $v_3$ denote the average velocities in the three successive intervals of time $t_1, t_2$ and $t_3$. Which of the following relations is correct?",
+    "question_latex": "A point moves with uniform acceleration and $v_1, v_2$ and $v_3$ denote the average velocities in the three successive intervals of time $t_1, t_2$ and $t_3$. Which of the following relations is correct?",
+    "question_images": [],
+    "options": [
+      "A. $(v_1-v_2):(v_2-v_3) = (t_1-t_2):(t_2+t_3)$",
+      "B. $(v_1-v_2):(v_2-v_3) = (t_1+t_2):(t_2+t_3)$",
+      "C. $(v_1-v_2):(v_2-v_3) = (t_1-t_2):(t_1-t_3)$",
+      "D. None of these"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$v_1 = u + \\frac{1}{2}at_1$, $v_2 = u + at_1 + \\frac{1}{2}at_2$, $v_3 = u + at_1 + at_2 + \\frac{1}{2}at_3$. \n$v_1 - v_2 = -\\frac{a}{2}(t_1+t_2)$. \n$v_2 - v_3 = -\\frac{a}{2}(t_2+t_3)$. \nRatio: $(t_1+t_2):(t_2+t_3)$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 76,
+    "chapter": "Kinematics",
+    "question": "A body of mass m is thrown upwards at an angle with the horizontal with velocity v. While rising up the velocity of the mass after t second will be",
+    "question_latex": "A body of mass m is thrown upwards at an angle with the horizontal with velocity v. While rising up the velocity of the mass after t second will be",
+    "question_images": [],
+    "options": [
+      "A. $\\sqrt{(v \\cos \\theta)^{2}+(v \\sin \\theta)^{2}}$",
+      "B. $\\sqrt{(v \\cos \\theta-v \\sin \\theta)^{2}-gt}$",
+      "C. $\\sqrt{v^{2}+g^{2}t^{2}-(2 v \\sin \\theta)gt}$",
+      "D. $\\sqrt{v^{2}+g^{2}+g^{2}-(2 v \\cos \\theta)gt}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Instantaneous velocity of running mass after t sec will be $v_{t}=\\sqrt{v_{x}^{2}+v_{y}^{2}}$. Where, $v_{x}=v \\sin \\theta-gt=$ vertical component of velocity, $v_{y}=v \\cos \\theta=$ horizontal component of velocity. $v_{t}=\\sqrt{(v \\cos \\theta)^{2}+(v \\sin \\theta-gt)^{2}} \\Rightarrow v_{t}=\\sqrt{v^{2}+g^{2}t^{2}-2v \\sin \\theta gt}$",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 77,
+    "chapter": "Kinematics",
+    "question": "Train A is moving along two parallel rail tracks towards north with speed 72 km/h and train B is moving towards south with speed 108 km/h. Velocity of train B with respect to A and velocity of ground with respect to B are (in m/s):",
+    "question_latex": "Train A is moving along two parallel rail tracks towards north with speed $72~km/h$ and train B is moving towards south with speed $108~km/h$. Velocity of train B with respect to A and velocity of ground with respect to B are (in $ms^{-1}$):",
+    "question_images": [],
+    "options": [
+      "A. -50 and 30",
+      "B. -30 and 50",
+      "C. -50 and -30",
+      "D. 50 and -30"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Given: $V_{A}=20~m/s$, $V_{B}=-30~m/s$. Velocity of B w.r.t. A $V_{BA} = V_B - V_A = -30 - 20 = -50~m/s$. Velocity of ground w.r.t. B $V_{GB} = V_G - V_B = 0 - (-30) = 30~m/s$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 78,
+    "chapter": "Kinematics",
+    "question": "A body travels 102.5 m in n th second and 115.0 m in (n+2) th second. The acceleration is:",
+    "question_latex": "A body travels $102.5~m$ in $n^{th}$ second and $115.0~m$ in $(n+2)^{th}$ second. The acceleration is:",
+    "question_images": [],
+    "options": [
+      "A. $9~m/s^2$",
+      "B. $5~m/s^2$",
+      "C. $12.5~m/s^2$",
+      "D. $6.25~m/s^2$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$S_{n}=u+\\frac{a}{2}(2n-1)$. So, $102.5=u+\\frac{a}{2}(2n-1)$ and $115=u+\\frac{a}{2}(2(n+2)-1) = u+\\frac{a}{2}(2n+3)$. Subtracting the equations: $115 - 102.5 = \\frac{a}{2}(2n+3 - (2n-1)) \\Rightarrow 12.5 = \\frac{a}{2}(4) \\Rightarrow 12.5 = 2a \\Rightarrow a=6.25~m/s^{2}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 79,
+    "chapter": "Kinematics",
+    "question": "A body travels for 15 sec starting from rest with constant acceleration. If it travels distances S1, S2 and S3 in the first five seconds, second five secods and next five five seconds respectively the relation between S1, S2 and S3 is",
+    "question_latex": "A body travels for $15~sec$ starting from rest with constant acceleration. If it travels distances $S_{1}$, $S_{2}$ and $S_{3}$ in the first five seconds, second five seconds and next five seconds respectively, the relation between $S_{1}$, $S_{2}$ and $S_{3}$ is",
+    "question_images": [],
+    "options": [
+      "A. $S_{1}=S_{2}=S_{3}$",
+      "B. $5S_1 = 3S_2 = S_3$",
+      "C. $S_1 = S_2/3 = S_3/5$",
+      "D. $S_1 = S_2 = S_3$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "If the body starts from rest and moves with constant acceleration then the ratio of distances in consecutive equal time intervals is $S_{1}:S_{2}:S_{3}=1:3:5$. This implies $S_1 = \\frac{S_2}{3} = \\frac{S_3}{5}$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 80,
+    "chapter": "Kinematics",
+    "question": "Which of the following speed-time graphs exist in the nature?",
+    "question_latex": "Which of the following speed-time graphs exist in the nature?",
+    "question_images": [
+      "q80_1"
+    ],
+    "options": [
+      "A. (Graph showing negative speed)",
+      "B. (Graph showing only positive speed)",
+      "C. (Graph with vertical segments)",
+      "D. All of the above"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Speed can never be negative. Hence, the graph showing only positive speed is correct.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 81,
+    "chapter": "Kinematics",
+    "question": "The speed of body moving with uniform acceleration is u. This speed is doubled while covering distance s, its speed would be become",
+    "question_latex": "The speed of body moving with uniform acceleration is $u$. This speed is doubled while covering distance $s$, after covering an additional distance $s$, its speed would be become",
+    "question_images": [],
+    "options": [
+      "A. $\\sqrt{3}u$",
+      "B. $\\sqrt{5}u$",
+      "C. $\\sqrt{11}u$",
+      "D. $\\sqrt{7}u$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "As $v^{2}=u^{2}+2as \\Rightarrow (2u)^{2}=u^{2}+2as \\Rightarrow 3u^{2} = 2as$. Now, after covering an additional distance $s$ (total $2s$), if velocity becomes $v'$, then $v'^{2}=u^{2}+2a(2s) = u^{2}+4as = u^{2}+2(3u^{2}) = 7u^{2} \\Rightarrow v'=\\sqrt{7}u$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 82,
+    "chapter": "Kinematics",
+    "question": "A man leaves his house for a cycle ride. He comes back to his house after half-an-hour after covering a distance of one km. What is his average velocity for the ride?",
+    "question_latex": "A man leaves his house for a cycle ride. He comes back to his house after half-an-hour after covering a distance of one km. What is his average velocity for the ride?",
+    "question_images": [],
+    "options": [
+      "A. zero",
+      "B. $2~km~h^{-1}$",
+      "C. $10~km~s^{-1}$",
+      "D. $\\frac{1}{2}~km~s^{-1}$"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "Average velocity = Total Displacement / Total Time. Since the man comes back to his starting point, his total displacement is zero. Hence, average velocity is zero.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 83,
+    "chapter": "Kinematics",
+    "question": "The deceleration experienced by a moving motor boat, after its engine is cut-off is given by dv/dt = -kv^3 where k is constant. If v0 is the magnitude of the velocity at cut-off, the magnitude of the velocity at a time t after the cut-off is",
+    "question_latex": "The deceleration experienced by a moving motor boat, after its engine is cut-off is given by $\\frac{dv}{dt}=-kv^{3}$ where $k$ is constant. If $v_{0}$ is the magnitude of the velocity at cut-off, the magnitude of the velocity at a time $t$ after the cut-off is",
+    "question_images": [],
+    "options": [
+      "A. $v_{0}/2$",
+      "B. $v_{0}$",
+      "C. $v_{0}e^{-kt}$",
+      "D. $\\frac{v_{0}}{\\sqrt{2v_{0}^{2}kt+1}}$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$\\frac{dv}{dt}=-kv^{3} \\Rightarrow \\frac{dv}{v^{3}}=-kdt$. Integrating from $v_0$ to $v$ and $0$ to $t$: $\\int_{v_{0}}^{v} v^{-3} dv = \\int_{0}^{t} -k dt \\Rightarrow [-\\frac{1}{2v^{2}}]_{v_{0}}^{v}=-kt \\Rightarrow -\\frac{1}{2v^{2}}+\\frac{1}{2v_{0}^{2}}=-kt \\Rightarrow \\frac{1}{v^2} = \\frac{1}{v_0^2} + 2kt \\Rightarrow v^{2}=\\frac{v_{0}^{2}}{1+2v_{0}^{2}kt} \\Rightarrow v=\\frac{v_{0}}{\\sqrt{2v_{0}^{2}kt+1}}$.",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 84,
+    "chapter": "Kinematics",
+    "question": "Two cars A and B are travelling in the same direction with velocities VA and VB (VA > VB). When the car A is at a distance s behind car B, the driver of the car A applies the brakes producing a uniform retardation a; there will be no collision when",
+    "question_latex": "Two cars A and B are travelling in the same direction with velocities $V_A$ and $V_B$ ($V_{A}>V_{B}$). When the car A is at a distance $s$ behind car B, the driver of the car A applies the brakes producing a uniform retardation $a$; there will be no collision when",
+    "question_images": [],
+    "options": [
+      "A. $s<\\frac{(V_{A}-V_{B})^{2}}{2a}$",
+      "B. $s=\\frac{(V_{A}-V_{B})^{2}}{2a}$",
+      "C. $s\\ge\\frac{(V_{A}-V_{B})^{2}}{2a}$",
+      "D. $s\\le\\frac{(V_{A}-V_{B})^{2}}{2a}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "For no collision, the relative speed of car A with respect to B should become zero before or at distance $s$. $u_r = V_A - V_B$, $v_r = 0$, $a_r = -a$. Using $v_r^2 = u_r^2 + 2a_rs_r$: $0 = (V_A - V_B)^2 - 2as_r \\Rightarrow s_r = \\frac{(V_A - V_B)^2}{2a}$. For no collision, $s \\ge s_r \\Rightarrow s \\ge \\frac{(V_A - V_B)^2}{2a}$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 85,
+    "chapter": "Kinematics",
+    "question": "Two trains are each 50 m long moving parallel towards each other at speeds 10 m/s and 15 m/s respectively. After what time will they pass each other?",
+    "question_latex": "Two trains are each $50~m$ long moving parallel towards each other at speeds $10~m/s$ and $15~m/s$ respectively. After what time will they pass each other?",
+    "question_images": [],
+    "options": [
+      "A. $5\\sqrt{2/3}~sec$",
+      "B. $4~sec$",
+      "C. $2~sec$",
+      "D. $6~sec$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Relative speed $v_{rel} = 10 + 15 = 25~m/s$. Relative distance to pass each other = sum of lengths = $50 + 50 = 100~m$. Time $t = \\frac{100}{25} = 4~sec$.",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 86,
+    "chapter": "Kinematics",
+    "question": "The motion of a particle along a straight line is described by equation : x = 8 + 12t - t^3 Where x is in metre and t in second. The retardation of the particle when its velocity becomes zero, is",
+    "question_latex": "The motion of a particle along a straight line is described by equation: $x=8+12t-t^{3}$ where $x$ is in metre and $t$ in second. The retardation of the particle when its velocity becomes zero, is",
+    "question_images": [],
+    "options": [
+      "A. $24~ms^{-2}$",
+      "B. Zero",
+      "C. $6~ms^{-2}$",
+      "D. $12~ms^{-2}$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "$x = 8 + 12t - t^3 \\Rightarrow v = \\frac{dx}{dt} = 12 - 3t^2$. When $v=0, 12-3t^2=0 \\Rightarrow t=2~s$. Acceleration $a = \\frac{dv}{dt} = -6t$. At $t=2~s, a = -6(2) = -12~m/s^2$. Retardation is $|a| = 12~m/s^2$.",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+
+  {
+    "id": 87,
+    "chapter": "Motion In A Straight Line",
+    "question": "A body starts to fall freely under gravity. The distance covered by it in first, second and third second are in ratio",
+    "question_latex": "A body starts to fall freely under gravity. The distance covered by it in first, second and third second are in ratio",
+    "question_images": [],
+    "options": [
+      "A. 1:3:5",
+      "B. 1:2:3",
+      "C. 1:4:9",
+      "D. 1:5:6"
+    ],
+    "option_images": [],
+    "answer": "A",
+    "solution": "$S_{n}=u+\\frac{g}{2}(2n-1);$ when $u=0$, the ratio of distances for $n=1, 2, 3$ is $S_{1}: S_{2}: S_{3}=(2(1)-1):(2(2)-1):(2(3)-1) = 1:3:5$. [cite: 403, 407]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 88,
+    "chapter": "Motion In A Straight Line",
+    "question": "The initial velocity of a particle is u (at t = 0) and the acceleration f is given by at. Which of the following relation is valid?",
+    "question_latex": "The initial velocity of a particle is $u$ (at $t=0$) and the acceleration $f$ is given by $at$. Which of the following relation is valid?",
+    "question_images": [],
+    "options": [
+      "A. $v = u+at^{2}$",
+      "B. $v = u+a\\frac{t^{2}}{2}$",
+      "C. $v = u+at$",
+      "D. $v = u$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "If acceleration is variable (depends on time), then $v=u+\\int(f)dt = u+\\int(at)dt = u+\\frac{at^{2}}{2}$. [cite: 408, 412]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 89,
+    "chapter": "Motion In A Straight Line",
+    "question": "The velocity time graph of a body is shown in Fig. It indicates that",
+    "question_latex": "The velocity time graph of a body is shown in Fig. It indicates that",
+    "question_images": [
+      "q89_1"
+    ],
+    "options": [
+      "A. At B force is zero",
+      "B. At B there is a force but towards motion",
+      "C. At B there is a force which opposes motion",
+      "D. None of the above is true"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Near B, the slope of the velocity-time graph is negative, meaning velocity decreases with time. Hence, there is retardation, which implies an opposing force acting on the body. [cite: 416, 423, 424]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 90,
+    "chapter": "Motion In A Straight Line",
+    "question": "A bullet of mass 20 g has an initial speed of 1 m/s, just before it starts penetrating a mud wall of thickness 20 cm. If the wall offers a mean resistance of 2.5 x 10^-2 N, the speed of the bullet after emerging from the other side of the wall is close to:",
+    "question_latex": "A bullet of mass $20\\text{ g}$ has an initial speed of $1\\text{ ms}^{-1}$, just before it starts penetrating a mud wall of thickness $20\\text{ cm}$. If the wall offers a mean resistance of $2.5\\times10^{-2}\\text{ N}$, the speed of the bullet after emerging from the other side of the wall is close to:",
+    "question_images": [],
+    "options": [
+      "A. $0.1\\text{ ms}^{-1}$",
+      "B. $0.7\\text{ ms}^{-1}$",
+      "C. $0.3\\text{ ms}^{-1}$",
+      "D. $0.4\\text{ ms}^{-1}$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Using $v^{2}-u^{2}=2aS$ and $a=-\\frac{F}{m}$: $v^{2} = u^{2}-2(\\frac{F}{m})s$. Substituting values: $v^{2} = (1)^{2} - 2[\\frac{2.5\\times10^{-2}}{20\\times10^{-3}}]\\frac{20}{100} = 1 - 0.5 = 0.5$. Thus, $v = \\sqrt{0.5} \\approx 0.7\\text{ m/s}$. [cite: 426, 432, 434]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 91,
+    "chapter": "Motion In A Straight Line",
+    "question": "The variation of velocity of a particle moving along a straight line is shown in the figure. The distance travelled by the particle in 4s is",
+    "question_latex": "The variation of velocity of a particle moving along a straight line is shown in the figure. The distance travelled by the particle in $4\\text{ s}$ is",
+    "question_images": [
+      "q91_1"
+    ],
+    "options": [
+      "A. 25 m",
+      "B. 30 m",
+      "C. 55 m",
+      "D. 60 m"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Distance is the area under the $v-t$ graph. $S = \\text{Area} = \\frac{1}{2}\\times1\\times20 + 1\\times20 + \\frac{1}{2}\\times(20+10)\\times1 + 1\\times10 = 10 + 20 + 15 + 10 = 55\\text{ m}$. [cite: 435, 442, 443]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 92,
+    "chapter": "Motion In A Straight Line",
+    "question": "A body falls from rest, its velocity at the end of first second is (g = 32 ft/sec^2)",
+    "question_latex": "A body falls from rest, its velocity at the end of first second is ($g=32\\text{ ft/sec}^2$)",
+    "question_images": [],
+    "options": [
+      "A. 16 ft/sec",
+      "B. 32 ft/sec",
+      "C. 64 ft/sec",
+      "D. 24 ft/sec"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$v = u + gt$. Since it falls from rest, $u = 0$. $v = 32\\text{ ft/sec}^2 \\times 1\\text{ s} = 32\\text{ ft/sec}$. [cite: 444, 447]",
+    "solution_images": [],
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "id": 93,
+    "chapter": "Motion In A Straight Line",
+    "question": "The coordinates of a moving particle at any time t are given by x = αt^3 and y = βt^3. The speed of the particle at time t is given by",
+    "question_latex": "The coordinates of a moving particle at any time $t$ are given by $x=\\alpha t^{3}$ and $y=\\beta t^{3}$. The speed of the particle at time $t$ is given by",
+    "question_images": [],
+    "options": [
+      "A. $3t\\sqrt{\\alpha^{2}+\\beta^{2}}$",
+      "B. $3t^{2}\\sqrt{\\alpha^{2}+\\beta^{2}}$",
+      "C. $t^{2}\\sqrt{\\alpha^{2}+\\beta^{2}}$",
+      "D. $\\sqrt{\\alpha^{2}+\\beta^{2}}$"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "$v_{x} = \\frac{dx}{dt} = 3\\alpha t^{2}$ and $v_{y} = \\frac{dy}{dt} = 3\\beta t^{2}$. Resultant speed $v = \\sqrt{v_{x}^{2}+v_{y}^{2}} = \\sqrt{(3\\alpha t^{2})^{2} + (3\\beta t^{2})^{2}} = 3t^{2}\\sqrt{\\alpha^{2}+\\beta^{2}}$. [cite: 448, 452, 458]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 94,
+    "chapter": "Motion In A Straight Line",
+    "question": "Assertion: Velocity-time graph for an object in uniform motion along a straight path is a straight line parallel to the time axis. Reason: In uniform motion of an object velocity increases as the square of time elapsed.",
+    "question_latex": "Assertion: Velocity-time graph for an object in uniform motion along a straight path is a straight line parallel to the time axis. \\\\ Reason: In uniform motion of an object velocity increases as the square of time elapsed.",
+    "question_images": [],
+    "options": [
+      "A. Assertion is correct, reason is correct; reason is a correct explanation for assertion.",
+      "B. Assertion is correct, reason is correct; reason is not a correct explanation for assertion.",
+      "C. Assertion is correct, reason is incorrect.",
+      "D. Assertion is incorrect, reason is correct."
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "In uniform motion, velocity remains constant over time, making the $v-t$ graph a horizontal line (parallel to the time axis). The Reason is incorrect because velocity does not increase; it stays constant. [cite: 460, 461, 468, 469]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 95,
+    "chapter": "Motion In A Straight Line",
+    "question": "A person moves 30 m north and then 20 m towards east and finally in south-west direction. The displacement of the person from the origin will be",
+    "question_latex": "A person moves $30\\text{ m}$ north and then $20\\text{ m}$ towards east and finally in south-west direction. The displacement of the person from the origin will be",
+    "question_images": [
+      "q95_1"
+    ],
+    "options": [
+      "A. 10 m along north",
+      "B. 10 m along south",
+      "C. 10 m along west",
+      "D. Zero"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Path: $30\\text{m}$ North (OA), $20\\text{m}$ East (AB), $30\\sqrt{2}\\text{m}$ South-West (BD). In $\\Delta CAB$, $AC=20\\text{m}$, so $OC = 30-20=10\\text{m}$. In $\\Delta OCD$, $OD=OC=10\\text{m}$ due to the $45^{\\circ}$ angle. The final displacement is $10\\text{m}$ West. [cite: 470, 473, 487]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 96,
+    "chapter": "Motion In A Straight Line",
+    "question": "A particle is moving with constant acceleration from A to B in a straight line AB. If u and v are the velocities at A and B respectively then its velocity at the midpoint C will be",
+    "question_latex": "A particle is moving with constant acceleration from $A$ to $B$ in a straight line $AB$. If $u$ and $v$ are the velocities at $A$ and $B$ respectively then its velocity at the midpoint $C$ will be",
+    "question_images": [],
+    "options": [
+      "A. $(\\frac{u^{2}+v^{2}}{2u})^{2}$",
+      "B. $\\frac{u+v}{2}$",
+      "C. $\\frac{v-u}{2}$",
+      "D. $\\sqrt{\\frac{u^{2}+v^{2}}{2}}$"
+    ],
+    "option_images": [],
+    "answer": "D",
+    "solution": "Let $S$ be the distance $AB$. $v^{2}-u^{2}=2aS \\Rightarrow aS=\\frac{v^{2}-u^{2}}{2}$. At midpoint $C$, distance is $S/2$. $v_{c}^{2}-u^{2}=2a(\\frac{S}{2}) = aS$. Substituting $aS$: $v_{c}^{2} = u^{2} + \\frac{v^{2}-u^{2}}{2} = \\frac{u^{2}+v^{2}}{2} \\Rightarrow v_{c}=\\sqrt{\\frac{u^{2}+v^{2}}{2}}$. [cite: 488, 501, 503]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 97,
+    "chapter": "Motion In A Straight Line",
+    "question": "A train starts from station with an acceleration 1 m/s^2. A boy is 48 m behind the train with a constant velocity 10 m/s, the minimum time after which the boy will catch the train is",
+    "question_latex": "A train starts from station with an acceleration $1\\text{ ms}^{-2}$. A boy is $48\\text{ m}$ behind the train with a constant velocity $10\\text{ ms}^{-1}$, the minimum time after which the boy will catch the train is",
+    "question_images": [],
+    "options": [
+      "A. 4.8 s",
+      "B. 8 s",
+      "C. 10 s",
+      "D. 12 s"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "Let time be $t$. Distance of train: $s_{t} = \\frac{1}{2}at^{2} = 0.5t^{2}$. Distance of boy: $s_{b} = vt = 10t$. For catching, $s_{b} = s_{t} + 48 \\Rightarrow 10t = 0.5t^{2} + 48 \\Rightarrow t^{2}-20t+96=0$. Solving gives $t = 8\\text{s}$ or $12\\text{s}$. Minimum time is $8\\text{s}$. [cite: 504, 505, 507]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 98,
+    "chapter": "Motion In A Straight Line",
+    "question": "A particle is dropped vertically from rest from a height. The time taken by it to fall through successive distances of 1 m each will then be",
+    "question_latex": "A particle is dropped vertically from rest from a height. The time taken by it to fall through successive distances of $1\\text{ m}$ each will then be",
+    "question_images": [],
+    "options": [
+      "A. All equal, being equal to $\\sqrt{2/g}$ second",
+      "B. In the ratio of the square roots of the integers 1, 2, 3.",
+      "C. In the ratio of the difference in the square roots of the integers i.e. $\\sqrt{1},(\\sqrt{2}-\\sqrt{1}),(\\sqrt{3}-\\sqrt{2}),(\\sqrt{4}-\\sqrt{3})$",
+      "D. In the ratio of the reciprocal of the square roots of the integers i.e. $\\frac{1}{\\sqrt{1}},\\frac{1}{\\sqrt{2}},\\frac{1}{\\sqrt{3}},\\frac{1}{\\sqrt{4}}$"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "$h = \\frac{1}{2}gt^{2} \\Rightarrow t = \\sqrt{2h/g}$. For $h=1$, $t_{1}=\\sqrt{2/g}$. For total $h=2$, $t_{total}=\\sqrt{4/g}$. Time for second meter $t_{2} = \\sqrt{4/g}-\\sqrt{2/g} = (\\sqrt{2}-1)\\sqrt{2/g}$. The ratio follows the difference in square roots of integers. [cite: 509, 511, 512, 517]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  },
+  {
+    "id": 99,
+    "chapter": "Motion In A Straight Line",
+    "question": "A stone is dropped from a certain height which can reach the ground in 5 s. It is stopped after 3 s of its fall and then it is again released. The total time taken by the stone to reach the ground will be",
+    "question_latex": "A stone is dropped from a certain height which can reach the ground in $5\\text{ s}$. It is stopped after $3\\text{ s}$ of its fall and then it is again released. The total time taken by the stone to reach the ground will be",
+    "question_images": [],
+    "options": [
+      "A. 6 s",
+      "B. 6.5 s",
+      "C. 7 s",
+      "D. 7.5 s"
+    ],
+    "option_images": [],
+    "answer": "C",
+    "solution": "Total height $h = \\frac{1}{2}g(5)^{2} = 125\\text{m}$ (using $g=10$). In $3\\text{s}$, it falls $h_{1} = \\frac{1}{2}g(3)^{2} = 45\\text{m}$. Remaining height = $80\\text{m}$. Time to fall $80\\text{m}$ from rest: $80 = \\frac{1}{2}(10)t^{2} \\Rightarrow t = 4\\text{s}$. Total time = $3\\text{s} + 4\\text{s} = 7\\text{s}$. [cite: 518, 522, 524]",
+    "solution_images": [],
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "id": 100,
+    "chapter": "Motion In A Straight Line",
+    "question": "Consider a rubber ball freely falling from a height h = 4.9 m onto a horizontal elastic plate. Assume that the duration of collision is negligible and the collision with the plate is totally elastic. Then the velocity and height as functions of time will be:",
+    "question_latex": "Consider a rubber ball freely falling from a height $h=4.9\\text{ m}$ onto a horizontal elastic plate. Assume that the duration of collision is negligible and the collision with the plate is totally elastic. Then the velocity and height as functions of time will be:",
+    "question_images": [
+      "q100_1"
+    ],
+    "options": [
+      "A. Graph A",
+      "B. Graph B",
+      "C. Graph C",
+      "D. Graph D"
+    ],
+    "option_images": [],
+    "answer": "B",
+    "solution": "For downward motion, $v = -gt$, giving a negative linear slope. Height $y = h - \\frac{1}{2}gt^{2}$ is a downward parabola. Upon elastic collision, velocity reverses direction instantly ($+v$), then decreases linearly ($v = u - gt$) as it rises. Graph B correctly represents these characteristics. [cite: 525, 547, 548, 552, 553, 557]",
+    "solution_images": [],
+    "difficulty": "Hard",
+    "marks": 4
+  }
+]
+

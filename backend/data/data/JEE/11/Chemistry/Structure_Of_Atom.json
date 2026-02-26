@@ -1,0 +1,1936 @@
+[
+    {
+        "id": 1,
+        "chapter": "Structure of Atom",
+        "question": "The electron in the hydrogen atom undergoes transition from higher orbitals to orbital of radius 211.6pm. This transition is associated with (Online 2017)",
+        "question_latex": "The electron in the hydrogen atom undergoes transition from higher orbitals to orbital of radius $211.6\\text{ pm}$. This transition is associated with (Online 2017)",
+        "question_images": [],
+        "options": [
+            "A. Paschen series",
+            "B. Brackett series",
+            "C. Lyman series",
+            "D. Balmer series"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Radius $r = 211.6\\text{ pm} = 2.11\\text{ Å}$. Formula for radius is $r = 0.529 \\times \\frac{n^2}{Z}$. For hydrogen $(Z = 1)$, $2.11 = 0.529 \\times n^2 \\Rightarrow n^2 = 4 \\Rightarrow n = 2$. In the Balmer series, the transition of electron occurs from higher orbitals to the orbital of $n=2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 2,
+        "chapter": "Structure of Atom",
+        "question": "Number of unpaired electrons in the electronic configuration 1s2, 2s2 2p4:",
+        "question_latex": "Number of unpaired electrons in the electronic configuration $1s^{2}, 2s^{2} 2p^{4}$:",
+        "question_images": [],
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 6"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In $p$-orbitals ($2p^4$), the electrons are filled according to Hund's rule: $\\uparrow\\downarrow \\uparrow \\uparrow$. Thus, there are 2 unpaired electrons.",
+        "solution_images": [
+            "q2_solution_1",
+            "2_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 3,
+        "chapter": "Structure of Atom",
+        "question": "Which type of radiation is attracted towards a positive plate?",
+        "question_latex": "Which type of radiation is attracted towards a positive plate?",
+        "question_images": [],
+        "options": [
+            "A. α",
+            "B. β",
+            "C. γ",
+            "D. α and β"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\beta$-particles are negatively charged electrons, hence they are attracted towards the positive plate.",
+        "solution_images": [
+            "3_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 4,
+        "chapter": "Structure of Atom",
+        "question": "The ratio between kinetic energy and the total energy of the electrons of hydrogen atom according to Bohr's model is",
+        "question_latex": "The ratio between kinetic energy and the total energy of the electrons of hydrogen atom according to Bohr's model is",
+        "question_images": [],
+        "options": [
+            "A. 2:1",
+            "B. 1:1",
+            "C. 1:-1",
+            "D. 1:2"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "According to Bohr's model, Total Energy ($E$) = $-$(Kinetic Energy ($K$)). Therefore, the ratio $K/E = 1/-1$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 5,
+        "chapter": "Structure of Atom",
+        "question": "Bohr radius of nth orbit of an atom is given by the expression:",
+        "question_latex": "Bohr radius of $n^{\\text{th}}$ orbit of an atom is given by the expression:",
+        "question_images": [],
+        "options": [
+            "A. r = n^2h^2 / 4π^2me^2",
+            "B. r = nh / 4π^2mZe^2",
+            "C. r = n^2h^2 / 4π^2mZ",
+            "D. r = n^2h^2 / 4π^2me^2Z"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Radius of $n^{\\text{th}}$ orbit $r = \\frac{n^{2}h^{2}}{4\\pi^{2}me^{2}Z}$, where $n$ is the orbit number, $h$ is Planck's constant, $e$ is the charge on an electron, $m$ is the mass of an electron, and $Z$ is the atomic number.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 6,
+        "chapter": "Structure of Atom",
+        "question": "In the Schrodinger s wave equation ψ represents",
+        "question_latex": "In the Schrödinger's wave equation, $\\Psi$ represents",
+        "question_images": [],
+        "options": [
+            "A. Orbit",
+            "B. Wave function",
+            "C. Wave",
+            "D. Radial probability"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In Schrödinger's wave equation, the symbol $\\Psi$ represents the wave function of the electron.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 7,
+        "chapter": "Structure of Atom",
+        "question": "The de-Broglie's wavelength of electron present in first Bohr orbit of' H' atom is(Online 2018)",
+        "question_latex": "The de-Broglie's wavelength of electron present in first Bohr orbit of 'H' atom is (Online 2018)",
+        "question_images": [],
+        "options": [
+            "A. 4 × 0.529 Å",
+            "B. 2π × 0.529 Å",
+            "C. 0.529 / 2π",
+            "D. 0.529 Å"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "We know $mvr = \\frac{nh}{2\\pi} \\Rightarrow mv = \\frac{nh}{2\\pi r}$. The de-Broglie wavelength is $\\lambda = \\frac{h}{mv}$. Substituting $mv$: $\\lambda = \\frac{h}{nh/(2\\pi r)} = \\frac{2\\pi r}{n}$. For the first orbit of Hydrogen, $n=1$ and $r=0.529\\text{ Å}$. Thus, $\\lambda = 2\\pi \\times 0.529\\text{ Å}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 8,
+        "chapter": "Structure of Atom",
+        "question": "The potential energy of electron present in ground state of Li2+ ion is represented by :",
+        "question_latex": "The potential energy of electron present in ground state of $Li^{2+}$ ion is represented by:",
+        "question_images": [],
+        "options": [
+            "A. +3e^2 / 4πε_0r",
+            "B. -3e / 4πε_0r",
+            "C. -3e^2 / 4πε_0r^2",
+            "D. -3e^2 / 4πε_0r"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "In S.I. units, Potential Energy $P.E. = \\frac{-Ze^{2}}{4\\pi\\epsilon_{0}r}$. For $Li^{2+}$, the atomic number $Z=3$. Thus, $P.E. = \\frac{-3e^{2}}{4\\pi\\epsilon_{0}r}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 9,
+        "chapter": "Structure of Atom",
+        "question": "The total number of orbitals associated with the principal quantum number 5 is (Online 2016)",
+        "question_latex": "The total number of orbitals associated with the principal quantum number 5 is (Online 2016)",
+        "question_images": [],
+        "options": [
+            "A. 10",
+            "B. 25",
+            "C. 20",
+            "D. 5"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Number of orbitals in the $n^{\\text{th}}$ shell is given by $n^{2}$. For $n=5$, number of orbitals $= 5^{2} = 25$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 10,
+        "chapter": "Structure of Atom",
+        "question": "Which of the following has the maximum penetrating power?",
+        "question_latex": "Which of the following has the maximum penetrating power?",
+        "question_images": [],
+        "options": [
+            "A. α-particle",
+            "B. Proton",
+            "C. γ-particle",
+            "D. Positron"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$\\gamma$-rays (photons) have the highest penetrating power among the given radiations because they are neutral and have high energy.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 11,
+        "chapter": "Structure of Atom",
+        "question": "After the emission of a β particle followed by α particle from Bi(214, 83) atom, the number of neutrons in the atom is",
+        "question_latex": "After the emission of a $\\beta$ particle followed by $\\alpha$ particle from ${}_{83}^{214}Bi$ atom, the number of neutrons in the atom is",
+        "question_images": [],
+        "options": [
+            "A. 130",
+            "B. 129",
+            "C. 128",
+            "D. 127"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Starting with ${}_{83}^{214}Bi$: \r\n1. $\\beta$ emission: ${}_{83}^{214}Bi \\rightarrow {}_{84}^{214}X + {}_{-1}^{0}e$\r\n2. $\\alpha$ emission from ${}_{84}^{214}X$: ${}_{84}^{214}X \\rightarrow {}_{82}^{210}Y + {}_{2}^{4}He$\r\nThe final nucleus is ${}_{82}^{210}Y$. Number of neutrons $= A - Z = 210 - 82 = 128$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 12,
+        "chapter": "Structure of Atom",
+        "question": "A gas absorbs a photon of 355 nm and emits at two wavelengths. If one of the emission is at 680 nm, the other is at (2011)",
+        "question_latex": "A gas absorbs a photon of $355\\text{ nm}$ and emits at two wavelengths. If one of the emission is at $680\\text{ nm}$, the other is at (2011)",
+        "question_images": [],
+        "options": [
+            "A. 325 nm",
+            "B. 518 nm",
+            "C. 743 nm",
+            "D. 1035 nm"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "By conservation of energy, $E = E_1 + E_2$. Since $E = \\frac{hc}{\\lambda}$, we have $\\frac{1}{\\lambda} = \\frac{1}{\\lambda_1} + \\frac{1}{\\lambda_2}$. \r\n$\\frac{1}{355} = \\frac{1}{680} + \\frac{1}{\\lambda_2} \\Rightarrow \\lambda_2 = \\frac{355 \\times 680}{680 - 355} = 742.769\\text{ nm} \\approx 743\\text{ nm}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 13,
+        "chapter": "Structure of Atom",
+        "question": "Rutherford s a -particle scattering experiment eventually led to the conclusion that",
+        "question_latex": "Rutherford's $\\alpha$-particle scattering experiment eventually led to the conclusion that",
+        "question_images": [],
+        "options": [
+            "A. Mass and energy are related",
+            "B. Electrons occupy space around the nucleus",
+            "C. Neutrons are buried deep in the nucleus",
+            "D. The point of impact with matter can be precise determined"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Rutherford's model concluded that an atom consists of a positively charged heavy nucleus where most mass is concentrated, and electrons occupy the extra-nuclear space, revolving around the nucleus.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 14,
+        "chapter": "Structure of Atom",
+        "question": "The electrons, identified by quantum numbers n and l (i) n=4, l=1 (ii) n=4, l=0 (iii) n=3, l=2 (iv) n=3, l=1 Can be placed in the order of increasing energy, from the lowest to highest, as",
+        "question_latex": "The electrons, identified by quantum numbers $n$ and $l$: \r\n(i) $n=4, l=1$ \r\n(ii) $n=4, l=0$ \r\n(iii) $n=3, l=2$ \r\n(iv) $n=3, l=1$ \r\nCan be placed in the order of increasing energy, from the lowest to highest, as",
+        "question_images": [],
+        "options": [
+            "A. iv < ii < iii < i",
+            "B. ii < iv < i < iii",
+            "C. i < iii < ii < iv",
+            "D. iii < i < iv < ii"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Using $(n+l)$ rule: \r\n(i) $4+1 = 5$ \r\n(ii) $4+0 = 4$ \r\n(iii) $3+2 = 5$ \r\n(iv) $3+1 = 4$ \r\nComparing (ii) and (iv), both have $(n+l)=4$, but (iv) has lower $n$, so (iv) < (ii). \r\nComparing (i) and (iii), both have $(n+l)=5$, but (iii) has lower $n$, so (iii) < (i). \r\nOrder: iv < ii < iii < i.",
+        "solution_images": [
+            "14_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 15,
+        "chapter": "Structure of Atom",
+        "question": "Arrange the electromagnetic radiations a, b, c, d and e in increasing order of energy. Frequencies of a, b and c are 10^15, 10^14 and 10^17 respectively whereas wavelength of (d) and (e) are 350 nm and 100 nm respectively.",
+        "question_latex": "Arrange the electromagnetic radiations $a, b, c, d$ and $e$ in increasing order of energy. Frequencies of $a, b$ and $c$ are $10^{15}$, $10^{14}$ and $10^{17}\\text{ Hz}$ respectively whereas wavelength of $d$ and $e$ are $350\\text{ nm}$ and $100\\text{ nm}$ respectively.",
+        "question_images": [],
+        "options": [
+            "A. b < d < a < e < c",
+            "B. a, b, c, d, e",
+            "C. a, b, d, e, c",
+            "D. a, d, b, e, c"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Energy $E = h\\nu = hc/\\lambda$. \r\n$\\nu_a = 10^{15}$, $\\nu_b = 10^{14}$, $\\nu_c = 10^{17}$. \r\nFor $d$: $\\nu_d = c/\\lambda = 3 \\times 10^8 / 350 \\times 10^{-9} \\approx 0.85 \\times 10^{15}$. \r\nFor $e$: $\\nu_e = c/\\lambda = 3 \\times 10^8 / 100 \\times 10^{-9} = 3 \\times 10^{15}$. \r\nOrder of frequency (and energy): $b (10^{14}) < d (0.85 \\times 10^{15}) < a (10^{15}) < e (3 \\times 10^{15}) < c (10^{17})$. \r\nNote: The provided answer (D) in PDF seems inconsistent with calculations; based on logic, it should be $b < d < a < e < c$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 16,
+        "chapter": "Structure of Atom",
+        "question": "In photoelectric effect, the number of photoelectrons emitted is proportions to",
+        "question_latex": "In photoelectric effect, the number of photoelectrons emitted is proportions to",
+        "question_images": [],
+        "options": [
+            "A. Intensity of incident beam",
+            "B. Frequency of incident beam",
+            "C. Wavelength of incident beam",
+            "D. All of the above"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The number of photoelectrons ejected per unit area per unit time is directly proportional to the intensity of the incident radiation.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 17,
+        "chapter": "Structure of Atom",
+        "question": "Bombardment of aluminium by a particle leads to its artificial disintegration in two ways, (i) and (ii) as shown. Products X, Y and Z respectively are",
+        "question_latex": "Bombardment of aluminium by $\\alpha$ particle leads to its artificial disintegration in two ways: \r\n(i) ${}_{13}^{27}Al + {}_{2}^{4}He \\rightarrow {}_{14}^{30}Si + X$ \r\n(ii) ${}_{13}^{27}Al + {}_{2}^{4}He \\rightarrow {}_{15}^{30}P + Y$; ${}_{15}^{30}P \\rightarrow {}_{14}^{30}Si + Z$ \r\nProducts $X, Y$ and $Z$ respectively are",
+        "question_images": [
+            "17_qu_1.png"
+        ],
+        "options": [
+            "A. Proton, neutron, positron",
+            "B. Neutron, positron, proton",
+            "C. Proton, positron, neutron",
+            "D. Positron, proton, neutron"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "(i) ${}_{13}^{27}Al + {}_{2}^{4}He \\rightarrow {}_{14}^{30}Si + {}_{1}^{1}H$ (Proton, $X$) \r\n(ii) ${}_{13}^{27}Al + {}_{2}^{4}He \\rightarrow {}_{15}^{30}P + {}_{0}^{1}n$ (Neutron, $Y$) \r\n${}_{15}^{30}P \\rightarrow {}_{14}^{30}Si + {}_{+1}^{0}e$ (Positron, $Z$).",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 18,
+        "chapter": "Structure of Atom",
+        "question": "When atoms are bombarded with alpha particles, only, a few in million suffer deflection, others pass out undeflected. This is because",
+        "question_latex": "When atoms are bombarded with alpha particles, only, a few in million suffer deflection, others pass out undeflected. This is because",
+        "question_images": [],
+        "options": [
+            "A. the force of repulsion on the moving alpha particle is small",
+            "B. the force of attraction between alpha particle and oppositely charged electrons is very small",
+            "C. there is only one nucleus and large number of electrons",
+            "D. the nucleus occupies much smaller volume compared to the volume of the atom"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Most $\\alpha$-particles pass through the atom because the nucleus (where the mass and positive charge are concentrated) occupies an extremely small volume compared to the total volume of the atom.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 19,
+        "chapter": "Structure of Atom",
+        "question": "Which of the following does not contain number of neutrons equal to that of Ar(40, 18)?",
+        "question_latex": "Which of the following does not contain number of neutrons equal to that of ${}_{18}^{40}Ar$?",
+        "question_images": [],
+        "options": [
+            "A. K(41, 19)",
+            "B. Sc(43, 21)",
+            "C. Sc(40, 21)",
+            "D. Ca(42, 20)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Neutrons in ${}_{18}^{40}Ar = 40 - 18 = 22$. \r\n(A) ${}_{19}^{41}K: 41 - 19 = 22$ \r\n(B) ${}_{21}^{43}Sc: 43 - 21 = 22$ \r\n(C) ${}_{21}^{40}Sc: 40 - 21 = 19$ (Not equal) \r\n(D) ${}_{20}^{42}Ca: 42 - 20 = 22$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 20,
+        "chapter": "Structure of Atom",
+        "question": "The number of electrons in [40 K]1- is",
+        "question_latex": "The number of electrons in $[{}^{40}K]^{1-}$ is",
+        "question_images": [],
+        "options": [
+            "A. 20",
+            "B. 40",
+            "C. 18",
+            "D. 19"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Atomic number of Potassium ($K$) is 19. A $1-$ ion means it has gained one electron. Total electrons $= 19 + 1 = 20$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 21,
+        "chapter": "Structure of Atom",
+        "question": "Thiosulphate ion, S2O3 2- on acidification changes to SO2 along with precipitation of sulphur. Which is the correct statement?",
+        "question_latex": "Thiosulphate ion, $S_{2}O_{3}^{2-}$ on acidification changes to $SO_{2}$ along with precipitation of sulphur: ${}^{35}S^{32}SO_{3}^{2-} + 2H^{+} \\rightarrow H_{2}O + SO_{2} + S$. Which is the correct statement?",
+        "question_images": [],
+        "options": [
+            "A. 35S is in sulphur",
+            "B. 35S is in SO2",
+            "C. 35S is in both",
+            "D. 35S is in none"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "In the reaction of thiosulphate with acid, the outer sulphur atom (which is labeled as ${}^{35}S$) is precipitated as elemental sulphur.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 22,
+        "chapter": "Structure of Atom",
+        "question": "Ejection of the photoelectron from metal in the photoelectric effect experiment can be stopped by applying 0.5 V when the radiation of 250 nm is used. The work function of the metal is (Online 2018)",
+        "question_latex": "Ejection of the photoelectron from metal in the photoelectric effect experiment can be stopped by applying $0.5\\text{ V}$ when the radiation of $250\\text{ nm}$ is used. The work function of the metal is (Online 2018)",
+        "question_images": [],
+        "options": [
+            "A. 4eV",
+            "B. 5.5eV",
+            "C. 5eV",
+            "D. 4.5eV"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$K.E. = E - W_0$. Here $K.E. = 0.5\\text{ eV}$ (since stopping potential is $0.5\\text{ V}$). \r\n$E = \\frac{hc}{\\lambda} = \\frac{1240}{250}\\text{ eV} \\approx 4.96\\text{ eV}$. \r\n$0.5 = 4.96 - W_0 \\Rightarrow W_0 = 4.46 \\approx 4.5\\text{ eV}$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 23,
+        "chapter": "Structure of Atom",
+        "question": "The equipment used to carry out nuclear reaction in a controlled manner is called",
+        "question_latex": "The equipment used to carry out nuclear reaction in a controlled manner is called",
+        "question_images": [],
+        "options": [
+            "A. Breeder reactor",
+            "B. Nuclear reactor",
+            "C. Thermonuclear fission",
+            "D. Cyclotron"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "A nuclear reactor is a device used to initiate and control a self-sustained nuclear chain reaction.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 24,
+        "chapter": "Structure of Atom",
+        "question": "The velocity of particle A is 0.1 ms-1 and that of particle B is 0.05 ms-1. If the mass of particle B is five times that of particle A, then the ratio of de-Broglie wavelengths associated with the particles A and B is",
+        "question_latex": "The velocity of particle $A$ is $0.1\\text{ ms}^{-1}$ and that of particle $B$ is $0.05\\text{ ms}^{-1}$. If the mass of particle $B$ is five times that of particle $A$, then the ratio of de-Broglie wavelengths associated with the particles $A$ and $B$ is",
+        "question_images": [],
+        "options": [
+            "A. 2:5",
+            "B. 3:4",
+            "C. 6:4",
+            "D. 5:2"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "$\\lambda = \\frac{h}{mv}$. \r\n$\\frac{\\lambda_A}{\\lambda_B} = \\frac{m_B v_B}{m_A v_A}$. \r\nGiven $v_A = 0.1, v_B = 0.05, m_B = 5m_A$. \r\nRatio $= \\frac{5m_A \\times 0.05}{m_A \\times 0.1} = \\frac{0.25}{0.1} = 2.5 = 5/2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 25,
+        "chapter": "Structure of Atom",
+        "question": "The electrons identified by quantum numbers n and l: (A) n=4 l=1 (B) n=4 l=0 (C) n=3 l=2 (D) n=3, l=1 can be placed in order of increasing energy as :",
+        "question_latex": "The electrons identified by quantum numbers $n$ and $l$: \r\n(A) $n=4, l=1$ \r\n(B) $n=4, l=0$ \r\n(C) $n=3, l=2$ \r\n(D) $n=3, l=1$ \r\ncan be placed in order of increasing energy as:",
+        "question_images": [],
+        "options": [
+            "A. (C) < (D) < (B) < (A)",
+            "B. (B) < (D) < (A) < (C)",
+            "C. (D) < (B) < (C) < (A)",
+            "D. (A) < (C) < (B) < (D)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Subshells: (A) $4p$, (B) $4s$, (C) $3d$, (D) $3p$. \r\nUsing $(n+l)$ rule: \r\n(A) $4+1=5$ \r\n(B) $4+0=4$ \r\n(C) $3+2=5$ \r\n(D) $3+1=4$ \r\nOrder: $(D) < (B)$ (since $3<4$ for sum 4) and $(C) < (A)$ (since $3<4$ for sum 5). \r\nCombined order: $(D) < (B) < (C) < (A)$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 26,
+        "chapter": "Structure of Atom",
+        "question": "14/7 N + 1/0 n -> 14/6 C + 1/1 H is written as",
+        "question_latex": "${}_{7}^{14}N + {}_{0}^{1}n \\rightarrow {}_{6}^{14}C + {}_{1}^{1}H$ is written as",
+        "question_images": [],
+        "options": [
+            "A. 14/7 N(n, e) 1/1 H",
+            "B. 14/7 N(p, n) 14/6 C",
+            "C. 14/7 N(n, p) 14/6 C",
+            "D. 14/6 C(p, n) 14/7 N"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In the given nuclear reaction, a neutron is absorbed $(n)$ and a proton is released $(p)$. The notation is written as ${}_{7}^{14}N(n, p){}_{6}^{14}C$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 27,
+        "chapter": "Structure of Atom",
+        "question": "Which of the following has the maximum number of unpaired electrons?",
+        "question_latex": "Which of the following has the maximum number of unpaired electrons?",
+        "question_images": [],
+        "options": [
+            "A. Mg2+",
+            "B. Ti3+",
+            "C. V3+",
+            "D. Fe2+"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The electronic configurations and unpaired electrons are:\n- $Mg^{2+}: [Ne] (0 \\text{ unpaired})$\n- $Ti^{3+}: [Ar] 3d^{1} (1 \\text{ unpaired})$\n- $V^{3+}: [Ar] 3d^{2} (2 \\text{ unpaired})$\n- $Fe^{2+}: [Ar] 3d^{6} (4 \\text{ unpaired})$\nThus, $Fe^{2+}$ has the maximum number of unpaired electrons.",
+        "solution_images": [
+            "27_so_1.png"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 28,
+        "chapter": "Structure of Atom",
+        "question": "Which of the following statements concerning the quantum numbers are correct?\n(i) Angular quantum number determines the threedimensional shape of the orbital.\n(ii) The principal quantum number determines the orientation and energy of the orbital.\n(iii) Magnetic quantum number determines the size of the orbital.\n(iv) Spin quantum number of an electron determines the orientation of the spin of electron relative to the chosen axis.",
+        "question_latex": "Which of the following statements concerning the quantum numbers are correct?\n(i) Angular quantum number determines the three-dimensional shape of the orbital.\n(ii) The principal quantum number determines the orientation and energy of the orbital.\n(iii) Magnetic quantum number determines the size of the orbital.\n(iv) Spin quantum number of an electron determines the orientation of the spin of electron relative to the chosen axis.",
+        "question_images": [],
+        "options": [
+            "A. (i) and (ii)",
+            "B. (i) and (iv)",
+            "C. (iii) and (iv)",
+            "D. (ii), (iii) and (iv)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Statement (i) is correct: Angular quantum number ($l$) determines shape. Statement (iv) is correct: Spin quantum number ($s$) determines spin orientation. Statement (ii) is incorrect because principal quantum number ($n$) determines size/energy, not orientation. Statement (iii) is incorrect because magnetic quantum number ($m$) determines orientation, not size.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 29,
+        "chapter": "Structure of Atom",
+        "question": "An element is isobaric with the inert gas atom 18 A 40. The electronic arrangement of the element is 1s2 2s2 2p6 3s2 3p6 4s2. How many neutrons does each atom of the element carry in its nucleus?",
+        "question_latex": "An element is isobaric with the inert gas atom ${}_{18}A^{40}$. The electronic arrangement of the element is $1s^{2} 2s^{2} 2p^{6} 3s^{2} 3p^{6} 4s^{2}$. How many neutrons does each atom of the element carry in its nucleus?",
+        "question_images": [],
+        "options": [
+            "A. 22",
+            "B. 20",
+            "C. 18",
+            "D. 16"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The electronic configuration $1s^{2} 2s^{2} 2p^{6} 3s^{2} 3p^{6} 4s^{2}$ corresponds to an atomic number $(Z)$ of 20. Being isobaric with ${}_{18}A^{40}$, its mass number $(A)$ is 40. Number of neutrons $= A - Z = 40 - 20 = 20$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 30,
+        "chapter": "Structure of Atom",
+        "question": "Which of the following projectiles is the best for bombarding the nuclide?",
+        "question_latex": "Which of the following projectiles is the best for bombarding the nuclide?",
+        "question_images": [],
+        "options": [
+            "A. alpha particle",
+            "B. Proton",
+            "C. Deuteron",
+            "D. Neutron"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Neutrons are the best projectiles for nuclear bombardment because they are neutral and do not experience electrostatic repulsion from the nucleus.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 31,
+        "chapter": "Structure of Atom",
+        "question": "The number of neutrons and electrons, respectively, present in the radioactive isotope of hydrogen is (July 2021)",
+        "question_latex": "The number of neutrons and electrons, respectively, present in the radioactive isotope of hydrogen is (July 2021)",
+        "question_images": [],
+        "options": [
+            "A. 2 and 1",
+            "B. 1 and 1",
+            "C. 2 and 2",
+            "D. 3 and 1"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "The radioactive isotope of hydrogen is Tritium (${}_{1}^{3}H$). Number of electrons $= Z = 1$. Number of neutrons $= A - Z = 3 - 1 = 2$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 32,
+        "chapter": "Structure of Atom",
+        "question": "The heaviest subatomic particle is",
+        "question_latex": "The heaviest subatomic particle is",
+        "question_images": [],
+        "options": [
+            "A. Neutron",
+            "B. Positron",
+            "C. Electron",
+            "D. Proton"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Among the common subatomic particles, the neutron is slightly heavier than the proton and much heavier than the electron.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 33,
+        "chapter": "Structure of Atom",
+        "question": "The electronic configuration of gadolinium (Atomic number 64) is",
+        "question_latex": "The electronic configuration of gadolinium (Atomic number 64) is",
+        "question_images": [],
+        "options": [
+            "A. [Xe] 4f8 5d0 6s2",
+            "B. [Xe] 4f3 5d5 6s2",
+            "C. [Xe] 4f6 5d2 6s2",
+            "D. [Xe] 4f7 5d1 6s2"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Gadolinium $(Z=64)$ has the configuration $[Xe] 4f^{7} 5d^{1} 6s^{2}$. This is because a half-filled $f$-shell ($4f^7$) is extra stable.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 34,
+        "chapter": "Structure of Atom",
+        "question": "Match the columns. Column-I (Atom/Ion): (A) Cu, (B) Cu2+, (C) Zn2+, (D) Cr3+. Column-II (Electronic configuration): (p) 1s2 2s2 2p6 3s2 3p6 3d10, (q) 1s2 2s2 2p6 3s2 3p6 3d10 4s2, (r) 1s2 2s2 2p6 3s2 3p6 3d10 4s1, (s) 1s2 2s2 2p6 3s2 3p6 3d9, (t) 1s2 2s2 2p6 3s2 3p6 3d3.",
+        "question_latex": "Match the columns. \n**Column-I (Atom/Ion)**:\n(A) $Cu$\n(B) $Cu^{2+}$\n(C) $Zn^{2+}$\n(D) $Cr^{3+}$\n\n**Column-II (Electronic configuration)**:\n(p) $1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}3d^{10}$\n(q) $1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}3d^{10}4s^{2}$\n(r) $1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}3d^{10}4s^{1}$\n(s) $1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}3d^{9}$\n(t) $1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}3d^{3}$",
+        "question_images": [
+            "34_qu_1.png"
+        ],
+        "options": [
+            "A. A-(s), B-(r), C-(p), D-(t)",
+            "B. A-(r), B-(s), C-(p), D-(t)",
+            "C. A-(r), B-(s), C-(t), D-(p)",
+            "D. A-(r), B-(s), C-(p), D-(s)"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Matching:\n- (A) $Cu (Z=29): [Ar] 3d^{10} 4s^{1} \\rightarrow (r)$\n- (B) $Cu^{2+}: [Ar] 3d^{9} \\rightarrow (s)$\n- (C) $Zn^{2+} (Z=30): [Ar] 3d^{10} \\rightarrow (p)$\n- (D) $Cr^{3+} (Z=24): [Ar] 3d^{3} \\rightarrow (t)$",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 35,
+        "chapter": "Structure of Atom",
+        "question": "The number of neutrons in dipositive zinc ion with mass number 70 is",
+        "question_latex": "The number of neutrons in dipositive zinc ion with mass number 70 is",
+        "question_images": [],
+        "options": [
+            "A. 34",
+            "B. 36",
+            "C. 38",
+            "D. 40"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Mass number $(A) = 70$. Atomic number $(Z)$ of Zinc is 30. Number of neutrons $= A - Z = 70 - 30 = 40$. The charge on the ion does not affect the number of neutrons.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 36,
+        "chapter": "Structure of Atom",
+        "question": "In hydrogen atomic spectrum, a series limit is found at 12186.3 cm-1. Then it belong to",
+        "question_latex": "In hydrogen atomic spectrum, a series limit is found at $12186.3\\text{ cm}^{-1}$. Then it belong to",
+        "question_images": [],
+        "options": [
+            "A. Lyman series",
+            "B. Balmer series",
+            "C. Paschen series",
+            "D. Brackett series"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Series limit means $n_2 = \\infty$. $\\bar{\\nu} = R[1/n_1^2 - 1/\\infty^2] = R/n_1^2$. \n$12186.3 = 109677.76 / n_1^2 \\Rightarrow n_1^2 \\approx 9 \\Rightarrow n_1 = 3$. $n_1 = 3$ corresponds to the Paschen series.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 37,
+        "chapter": "Structure of Atom",
+        "question": "The experimental evidence for dual nature of matter comes from",
+        "question_latex": "The experimental evidence for dual nature of matter comes from",
+        "question_images": [],
+        "options": [
+            "A. Planck s experiment",
+            "B. De Broglie s experiment",
+            "C. Davison and Germer s experiment",
+            "D. Rutherford s experiment"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Davisson and Germer's experiment demonstrated the diffraction of electrons, providing direct experimental evidence for the wave nature of matter.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 38,
+        "chapter": "Structure of Atom",
+        "question": "Which of the following arrangements of electrons is mostly likely to be stable?",
+        "question_latex": "Which of the following arrangements of electrons is mostly likely to be stable?",
+        "question_images": [],
+        "options": [
+            "A. Arrangement A",
+            "B. Arrangement B",
+            "C. Arrangement C",
+            "D. Arrangement D"
+        ],
+        "option_images": [
+            "38_opA_1.png",
+            "38_opB_1.png",
+            "38_opC_1.png",
+            "38_opD_1.png"
+        ],
+        "answer": "A",
+        "solution": "Half-filled ($d^5$) and fully-filled ($d^{10}$) subshells are more stable due to symmetry and exchange energy. Arrangement A showing a half-filled 3d and filled 4s is typical of stable states like Chromium.",
+        "solution_images": [
+            "q38_solution_1"
+        ],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 39,
+        "chapter": "Structure of Atom",
+        "question": "Maximum number of electrons that can be accommodated in shell with n=4 are (Jan 2023)",
+        "question_latex": "Maximum number of electrons that can be accommodated in shell with $n=4$ are (Jan 2023)",
+        "question_images": [],
+        "options": [
+            "A. 72",
+            "B. 50",
+            "C. 32",
+            "D. 16"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Maximum number of electrons in a shell $= 2n^2$. For $n=4$, $2(4)^2 = 2 \\times 16 = 32$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 40,
+        "chapter": "Structure of Atom",
+        "question": "An atom bomb is based on the principle of",
+        "question_latex": "An atom bomb is based on the principle of",
+        "question_images": [],
+        "options": [
+            "A. Nuclear fusion",
+            "B. Nuclear fission",
+            "C. Radioactivity",
+            "D. Combustion"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "An atom bomb operates on the principle of uncontrolled nuclear fission.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 41,
+        "chapter": "Structure of Atom",
+        "question": "The number of spherical nodes in 3p orbitals is",
+        "question_latex": "The number of spherical nodes in $3p$ orbitals is",
+        "question_images": [],
+        "options": [
+            "A. 0",
+            "B. 1",
+            "C. 2",
+            "D. 3"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Number of radial/spherical nodes $= n - l - 1$. For $3p$, $n=3$ and $l=1$. Nodes $= 3 - 1 - 1 = 1$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 42,
+        "chapter": "Structure of Atom",
+        "question": "The ionization potential hydrogen atom is 13.6 eV. The energy required to remove an electron in the n=2 state of the hydrogen atom is",
+        "question_latex": "The ionization potential hydrogen atom is $13.6\\text{ eV}$. The energy required to remove an electron in the $n=2$ state of the hydrogen atom is",
+        "question_images": [],
+        "options": [
+            "A. 3.4 eV",
+            "B. 6.8 eV",
+            "C. 13.6 eV",
+            "D. 27.2 eV"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Energy of $n^{\\text{th}}$ state $E_n = -13.6/n^2 \\text{ eV}$. For $n=2$, $E_2 = -13.6/4 = -3.4 \\text{ eV}$. The energy required to remove the electron (ionization energy) is $+3.4 \\text{ eV}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 43,
+        "chapter": "Structure of Atom",
+        "question": "The total number of s electrons are",
+        "question_latex": "The total number of $s$ electrons are",
+        "question_images": [],
+        "options": [
+            "A. 8",
+            "B. 6",
+            "C. 4",
+            "D. 10"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For an element like Scandium $(Z=21)$: $1s^{2} 2s^{2} 2p^{6} 3s^{2} 3p^{6} 3d^{1} 4s^{2}$. Total $s$ electrons $= 2(1s) + 2(2s) + 2(3s) + 2(4s) = 8$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 44,
+        "chapter": "Structure of Atom",
+        "question": "Which product is formed by a emission from 235/92 U:",
+        "question_latex": "Which product is formed by $\\alpha$ emission from ${}_{92}^{235}U$:",
+        "question_images": [],
+        "options": [
+            "A. 231/90 Th",
+            "B. 233/90 Th",
+            "C. 235/91 Np",
+            "D. 235/92 U"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\alpha$ emission involves the loss of 2 protons and 4 mass units. ${}_{92}^{235}U \\rightarrow {}_{90}^{231}Th + {}_{2}^{4}He$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 45,
+        "chapter": "Structure of Atom",
+        "question": "While performing cathode ray experiments, it was observed that there was no passage of electric current under normal conditions. Which of the following can account for this observation?",
+        "question_latex": "While performing cathode ray experiments, it was observed that there was no passage of electric current under normal conditions. Which of the following can account for this observation?",
+        "question_images": [],
+        "options": [
+            "A. Dust particles are present in air",
+            "B. Carbon dioxide is present in air",
+            "C. Air is a poor conductor of electricity under normal conditions",
+            "D. None of the above"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Gases are poor conductors of electricity at normal pressure. Discharge only occurs at very low pressure or extremely high voltage.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 46,
+        "chapter": "Structure of Atom",
+        "question": "According to Bohr's theory, the angular momentum of an electron in 5th orbit is",
+        "question_latex": "According to Bohr's theory, the angular momentum of an electron in $5^{\\text{th}}$ orbit is",
+        "question_images": [],
+        "options": [
+            "A. 10 h/pi",
+            "B. 2.5 h/pi",
+            "C. 25 h/pi",
+            "D. 1.0 h/pi"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Angular momentum $L = n(h/2\\pi)$. For $n=5$, $L = 5h/2\\pi = 2.5h/\\pi$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 47,
+        "chapter": "Structure of Atom",
+        "question": "If r is radius of first orbit, the radius of n th orbit of the H atom will be",
+        "question_latex": "If $r$ is radius of first orbit, the radius of $n^{\\text{th}}$ orbit of the H atom will be",
+        "question_images": [],
+        "options": [
+            "A. r n^2",
+            "B. r n",
+            "C. r/n",
+            "D. r^2 n^3"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Radius $r_n \\propto n^2$. Since $r_1 = r$, then $r_n = r \\times n^2$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 48,
+        "chapter": "Structure of Atom",
+        "question": "Number of protons, neutrons and electrons in the element 89 X 231 is",
+        "question_latex": "Number of protons, neutrons and electrons in the element ${}_{89}X^{231}$ is",
+        "question_images": [],
+        "options": [
+            "A. 89, 89, 242",
+            "B. 89, 142, 89",
+            "C. 89, 71, 89",
+            "D. 89, 231, 89"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$Z = 89$ (protons = electrons). $A = 231$. Neutrons $= A - Z = 231 - 89 = 142$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 49,
+        "chapter": "Structure of Atom",
+        "question": "Rutherford's experiment which established the nuclear model of the atom used a beam of",
+        "question_latex": "Rutherford's experiment which established the nuclear model of the atom used a beam of",
+        "question_images": [],
+        "options": [
+            "A. alpha-particles which impinged on a metal foil and got absorbed",
+            "B. gamma-rays which impinged on a metal foil and ejected electrons",
+            "C. helium atoms, which impinged on a metal foil and got scattered",
+            "D. helium nuclei, which impinged on a metal foil and got scattered"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Rutherford used alpha particles, which are essentially doubly charged helium nuclei (${He}^{2+}$), to strike a thin gold foil.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 50,
+        "chapter": "Structure of Atom",
+        "question": "The number of d -electrons retained in Fe2+ (At. no. of Fe=26) ion is",
+        "question_latex": "The number of $d$-electrons retained in $Fe^{2+}$ (At. no. of $Fe=26$) ion is",
+        "question_images": [],
+        "options": [
+            "A. 4",
+            "B. 5",
+            "C. 6",
+            "D. 3"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$Fe (Z=26): [Ar] 3d^{6} 4s^{2}$. In $Fe^{2+}$, the two $4s$ electrons are removed first. Remaining configuration is $[Ar] 3d^{6}$. Thus, 6 $d$-electrons are retained.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 51,
+        "chapter": "Structure Of Atom",
+        "question": "The four quantum numbers for the electron in the outer most orbital of potassium (atomic no. 19) are [31 Jan, 2024 (Shift-II)]",
+        "question_latex": "The four quantum numbers for the electron in the outer most orbital of potassium (atomic no. 19) are [31 Jan, 2024 (Shift-II)]",
+        "question_images": [],
+        "options": [
+            "A. $n=2, l=0, m=0, s=+\\frac{1}{2}$",
+            "B. $n=3, l=0, m=1, s=+\\frac{1}{2}$",
+            "C. $n=4, l=0, m=0, s=+\\frac{1}{2}$",
+            "D. $n=4, l=2, m=-1, s=+\\frac{1}{2}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Electronic configuration of ${}_{19}K \\rightarrow 1s^{2}, 2s^{2}, 2p^{6}, 3s^{2}, 3p^{6}, 4s^{1}$. The outermost orbital is $4s$. For $4s$ orbital: $n=4$, $l=0$, $m=0$. Since there is one electron, $s$ can be $+\\frac{1}{2}$ or $-\\frac{1}{2}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 52,
+        "chapter": "Structure Of Atom",
+        "question": "1 amu is equal to",
+        "question_latex": "1 amu is equal to",
+        "question_images": [],
+        "options": [
+            "A. $1.66 \\times 10^{-27}$ kg",
+            "B. $6.02 \\times 10^{23}$ kg",
+            "C. 1 kg",
+            "D. $1 \\times 10^{-3}$ kg"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "By definition, $1 \\text{ amu} = \\frac{1}{12} \\times \\text{mass of one } C^{12} \\text{ atom} \\approx 1.66 \\times 10^{-24} \\text{ g} = 1.66 \\times 10^{-27} \\text{ kg}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 53,
+        "chapter": "Structure Of Atom",
+        "question": "When a radioactive substance is subjected to a vacuum, the rate of disintegration per second",
+        "question_latex": "When a radioactive substance is subjected to a vacuum, the rate of disintegration per second",
+        "question_images": [],
+        "options": [
+            "A. Increases considerably",
+            "B. Increases only if the products are gaseous",
+            "C. Is not affected",
+            "D. Suffers a slight decrease"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Radioactive disintegration is a nuclear phenomenon and does not depend upon environmental factors like pressure (vacuum), temperature, or chemical state.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 54,
+        "chapter": "Structure Of Atom",
+        "question": "The correct set of four quantum numbers for the valence (outermost) electron of rubidium (Z=37) is",
+        "question_latex": "The correct set of four quantum numbers for the valence (outermost) electron of rubidium ($Z=37$) is",
+        "question_images": [],
+        "options": [
+            "A. $5, 1, 1, +1/2$",
+            "B. $5, 0, 0, +1/2$",
+            "C. $5, 1, 0, +1/2$",
+            "D. $5, 0, 1, +1/2$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Electronic configuration of $Rb (Z=37)$ is $[Kr]_{36} 5s^{1}$. For the last electron in $5s$ orbital: $n=5$, $l=0$, $m=0$, and $s=+1/2$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 55,
+        "chapter": "Structure Of Atom",
+        "question": "The number of vacant orbitals of element with atomic number 14 is:",
+        "question_latex": "The number of vacant orbitals of element with atomic number 14 is:",
+        "question_images": [],
+        "options": [
+            "A. 4",
+            "B. 2",
+            "|C. 5",
+            "D. 6"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Configuration of atomic number 14 (Silicon) is $1s^{2}, 2s^{2}, 2p^{6}, 3s^{2}, 3p^{2}$. In the valence shell ($n=3$), the $3p$ subshell has one vacant orbital and the $3d$ subshell has five vacant orbitals. Total vacant orbitals $= 1 + 5 = 6$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 56,
+        "chapter": "Structure Of Atom",
+        "question": "Given below are two statements. Statement-I: Rutherford's gold foil experiment cannot explain the line spectrum of hydrogen atom. Statement-II: Bohr's model of hydrogen atom contradicts Heisenberg's uncertainty principle. In the light of the above statements, choose the most appropriate answer from the options given below. (July 2021)",
+        "question_latex": "Given below are two statements. Statement-I: Rutherford's gold foil experiment cannot explain the line spectrum of hydrogen atom. Statement-II: Bohr's model of hydrogen atom contradicts Heisenberg's uncertainty principle. In the light of the above statements, choose the most appropriate answer from the options given below. (July 2021)",
+        "question_images": [],
+        "options": [
+            "A. Both statement-I and statement-II are true.",
+            "B. Both statement-I and statement-II are false.",
+            "C. Statement-I is true but statement-II is false.",
+            "D. Statement-I is false but statement-II is true."
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Statement-I is true because Rutherford's model couldn't explain stability or discrete spectra. Statement-II is true because Bohr's model defines fixed paths (orbits) with exact position and momentum, which contradicts Heisenberg's Principle.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 57,
+        "chapter": "Structure Of Atom",
+        "question": "An electron has principal quantum number 3. The number of its (i) subshells and (ii) orbitals would be respectively",
+        "question_latex": "An electron has principal quantum number 3. The number of its (i) subshells and (ii) orbitals would be respectively",
+        "question_images": [],
+        "options": [
+            "A. 3 and 5",
+            "B. 3 and 7",
+            "C. 3 and 9",
+            "D. 2 and 5"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "For principal quantum number $n$: (i) Number of subshells $= n = 3$. (ii) Number of orbitals $= n^{2} = 3^{2} = 9$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 58,
+        "chapter": "Structure Of Atom",
+        "question": "Zeeman effect refers to the",
+        "question_latex": "Zeeman effect refers to the",
+        "question_images": [],
+        "options": [
+            "A. Splitting up of the lines in an emission spectrum in the presence of an external electrostatic field",
+            "B. Random scattering of light by colloidal particles",
+            "C. Splitting up of the lines in an emission spectrum in a magnetic field",
+            "D. Emission of electrons from metals when light falls upon them"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Zeeman effect is the phenomenon of splitting of spectral lines under the influence of an external magnetic field.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 59,
+        "chapter": "Structure Of Atom",
+        "question": "The de-Broglie's wavelength of electron present in first Bohr orbit of 'H' atom is (Online 2018)",
+        "question_latex": "The de-Broglie's wavelength of electron present in first Bohr orbit of 'H' atom is (Online 2018)",
+        "question_images": [],
+        "options": [
+            "A. $4 \\times 0.529 \\text{ \\AA}$",
+            "B. $2\\pi \\times 0.529 \\text{ \\AA}$",
+            "C. $\\frac{0.529}{2\\pi} \\text{ \\AA}$",
+            "D. $0.529 \\text{ \\AA}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "According to Bohr's theory, $mvr = \\frac{nh}{2\\pi}$. De-Broglie wavelength $\\lambda = \\frac{h}{mv}$. Thus, $mv = \\frac{nh}{2\\pi r} \\Rightarrow \\lambda = \\frac{2\\pi r}{n}$. For $n=1$, $r = 0.529 \\text{ \\AA}$, so $\\lambda = 2\\pi \\times 0.529 \\text{ \\AA}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 60,
+        "chapter": "Structure Of Atom",
+        "question": "The orbital angular momentum of an electron in 2s orbital is",
+        "question_latex": "The orbital angular momentum of an electron in 2s orbital is",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{h}{2\\pi}$",
+            "B. Zero",
+            "C. $\\frac{h}{\\pi}$",
+            "D. $\\sqrt{2} \\frac{h}{2\\pi}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Orbital angular momentum is given by $\\sqrt{l(l+1)} \\frac{h}{2\\pi}$. For an $s$ orbital, $l=0$, hence orbital angular momentum is 0.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 61,
+        "chapter": "Structure Of Atom",
+        "question": "If uncertainty in position and momentum are equal, then uncertainty in velocity is:",
+        "question_latex": "If uncertainty in position and momentum are equal, then uncertainty in velocity is:",
+        "question_images": [],
+        "options": [
+            "A. $\\frac{1}{2m}\\sqrt{\\frac{h}{\\pi}}$",
+            "B. $\\sqrt{\\frac{h}{2\\pi}}$",
+            "C. $\\frac{1}{m}\\sqrt{\\frac{h}{\\pi}}$",
+            "D. $\\sqrt{\\frac{h}{\\pi}}$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "$\\Delta p \\cdot \\Delta x = \\frac{h}{4\\pi}$. Given $\\Delta p = \\Delta x$, so $(\\Delta p)^{2} = \\frac{h}{4\\pi} \\Rightarrow (m\\Delta v)^{2} = \\frac{h}{4\\pi} \\Rightarrow \\Delta v = \\sqrt{\\frac{h}{4\\pi m^{2}}} = \\frac{1}{2m}\\sqrt{\\frac{h}{\\pi}}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 62,
+        "chapter": "Structure Of Atom",
+        "question": "${}_{7}^{14}N + {}_{0}^{1}n \\rightarrow {}_{6}^{14}C + {}_{1}^{1}H$ is written as",
+        "question_latex": "${}_{7}^{14}N + {}_{0}^{1}n \\rightarrow {}_{6}^{14}C + {}_{1}^{1}H$ is written as",
+        "question_images": [],
+        "options": [
+            "A. ${}_{7}^{14}N(n, e){}_{1}^{1}H$",
+            "B. ${}_{7}^{14}N(p, n){}_{6}^{14}C$",
+            "C. ${}_{7}^{14}N(n, p){}_{6}^{14}C$",
+            "D. ${}_{6}^{14}C(p, n){}_{7}^{14}N$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In the notation Target(incoming, outgoing)Product: Neutron (n) is the incoming particle and Proton (p) is the outgoing particle. Thus, ${}_{7}^{14}N(n, p){}_{6}^{14}C$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 63,
+        "chapter": "Structure Of Atom",
+        "question": "Which of the following is false?",
+        "question_latex": "Which of the following is false?",
+        "question_images": [],
+        "options": [
+            "A. The angular momentum of an electron due to its spinning is given as $\\sqrt{s(s+1)}(\\frac{h}{2\\pi})$, where s can take a value of 1/2",
+            "B. The angular momentum of an electron due to its spinning is given as $m_s(\\frac{h}{2\\pi})$ where $m_s$ can take the value of +1/2",
+            "C. The azimuthal quantum number cannot have negative values",
+            "D. The potential energy of an electron in an orbit is twice in magnitude as compared to its kinetic energy"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The expression $m_s(\\frac{h}{2\\pi})$ represents the z-component of spin angular momentum, not the total spin angular momentum itself. The magnitude of potential energy is $2 \\times$ kinetic energy.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 64,
+        "chapter": "Structure Of Atom",
+        "question": "Given below are two statements: Statement-I: The orbitals having same energy are called as degenerate orbitals. Statement-II: In hydrogen atom, 3p and 3d orbitals are not degenerate orbitals. In the light of the above statements, choose the most appropriate answer from the options given [30 Jan, 2024 (Shift-I)]",
+        "question_latex": "Given below are two statements: Statement-I: The orbitals having same energy are called as degenerate orbitals. Statement-II: In hydrogen atom, $3p$ and $3d$ orbitals are not degenerate orbitals. In the light of the above statements, choose the most appropriate answer from the options given [30 Jan, 2024 (Shift-I)]",
+        "question_images": [],
+        "options": [
+            "A. Both Statement-I and Statement-II are true.",
+            "B. Statement-I is true but Statement-II is false",
+            "C. Statement-I is false but Statement-II is true",
+            "D. Both Statement-I and Statement-II are false"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Statement-I is true. Statement-II is false because for single-electron species like H, energy depends only on 'n'. Thus, $3s, 3p, 3d$ all have the same energy (degenerate).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 65,
+        "chapter": "Structure Of Atom",
+        "question": "Which is the correct schematic representation of the graph of black body radiation ($T_1 > T_2$).",
+        "question_latex": "Which is the correct schematic representation of the graph of black body radiation ($T_1 > T_2$).",
+        "question_images": [],
+        "options": [
+            "A. ",
+            "B. ",
+            "C. ",
+            "D. "
+        ],
+        "option_images": [
+            "q65optionA1",
+            "q65optionB1",
+            "q65optionC1",
+            "q65optionD1",
+            "65_opA_1.png",
+            "65_opB_1.png",
+            "65_opC_1.png",
+            "65_opD_1.png"
+        ],
+        "answer": "B",
+        "solution": "As temperature increases, the peak intensity increases and shifts towards shorter wavelengths (Wien's Displacement Law). Graph B correctly shows $T_1$ with higher intensity and peak at lower wavelength than $T_2$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 66,
+        "chapter": "Structure Of Atom",
+        "question": "The correct decreasing order of energy for the orbitals having following set of quantum numbers: (A) $n=3, l=0, m=0$ (B) $n=4, l=0, m=0$ (C) $n=3, l=1, m=0$ (D) $n=3, l=2, m=1$ (July 2022)",
+        "question_latex": "The correct decreasing order of energy for the orbitals having following set of quantum numbers: (A) $n=3, l=0, m=0$ (B) $n=4, l=0, m=0$ (C) $n=3, l=1, m=0$ (D) $n=3, l=2, m=1$ (July 2022)",
+        "question_images": [],
+        "options": [
+            "A. (D) > (B) > (C) > (A)",
+            "B. (B) > (D) > (C) > (A)",
+            "C. (C) > (B) > (D) > (A)",
+            "D. (B) > (C) > (D) > (A)"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Using $(n+l)$ rule: (A) $3+0=3$, (B) $4+0=4$, (C) $3+1=4$, (D) $3+2=5$. Order of energy: $D > B > C > A$. (Note: for same $n+l$, higher $n$ has higher energy).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 67,
+        "chapter": "Structure Of Atom",
+        "question": "The unstable nucleus ${}_{82}^{212}Pb$ decays with $\\beta$-particle emission, having a half-life of 10 h. From this it follows that: I. mass number of the product is 212 II. atomic number of the product is 81 III. fraction of the original isotope remaining after 20 h is 1/4 IV. Nucleus formed is stable. Select the correct alternate:",
+        "question_latex": "The unstable nucleus ${}_{82}^{212}Pb$ decays with $\\beta$-particle emission, having a half-life of 10 h. From this it follows that: I. mass number of the product is 212 II. atomic number of the product is 81 III. fraction of the original isotope remaining after 20 h is 1/4 IV. Nucleus formed is stable. Select the correct alternate:",
+        "question_images": [],
+        "options": [
+            "A. I, II and III",
+            "B. I and III",
+            "C. II and IV",
+            "D. IV"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "In $\\beta$ emission, mass number remains same (212) and atomic number increases by 1 ($82 \\rightarrow 83$). After 20h (2 half-lives), fraction left $= (1/2)^{2} = 1/4$. So I and III are correct.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 68,
+        "chapter": "Structure Of Atom",
+        "question": "Which type of radiation is attracted towards a positive plate?",
+        "question_latex": "Which type of radiation is attracted towards a positive plate?",
+        "question_images": [],
+        "options": [
+            "A. $\\alpha$",
+            "B. $\\beta$",
+            "C. $\\gamma$",
+            "D. $\\alpha$ and $\\beta$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "$\\beta$-particles are negatively charged electrons, hence they are attracted towards the positive plate in an electric field.",
+        "solution_images": [
+            "68_so_1.png"
+        ],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 69,
+        "chapter": "Structure Of Atom",
+        "question": "The radius of second Bohr's orbit is",
+        "question_latex": "The radius of second Bohr's orbit is",
+        "question_images": [],
+        "options": [
+            "A. 0.053 nm",
+            "B. $\\frac{0.053}{4}$ nm",
+            "C. $0.053 \\times 4$ nm",
+            "D. $0.053 \\times 20$ nm"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "$r_n = r_1 \\times \\frac{n^2}{Z}$. For $H$ atom, $r_1 = 0.529 \\text{ \\AA} = 0.0529 \\text{ nm} \\approx 0.053 \\text{ nm}$. For $n=2$, $r_2 = 0.053 \\times 2^{2} = 0.053 \\times 4 \\text{ nm}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 70,
+        "chapter": "Structure Of Atom",
+        "question": "The wave mechanical model of an atom is based upon which of the following equations?",
+        "question_latex": "The wave mechanical model of an atom is based upon which of the following equations?",
+        "question_images": [],
+        "options": [
+            "A. Schrodinger's equation",
+            "B. De Broglie's equation",
+            "C. Heisenberg's uncertainty principle",
+            "D. All the above"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The quantum/wave mechanical model incorporates de Broglie's wave nature, Heisenberg's uncertainty, and uses Schrodinger's wave equation to describe electron behavior.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 71,
+        "chapter": "Structure Of Atom",
+        "question": "Heisenberg uncertainty principle can be explained as",
+        "question_latex": "Heisenberg uncertainty principle can be explained as",
+        "question_images": [],
+        "options": [
+            "A. $\\Delta x \\ge \\frac{\\Delta P \\times h}{4\\pi}$",
+            "B. $\\Delta x \\times \\Delta P \\ge \\frac{h}{4\\pi}$",
+            "C. $\\Delta x \\times \\Delta P \\ge \\frac{h}{\\pi}$",
+            "D. $\\Delta P \\ge \\frac{\\pi h}{\\Delta x}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The principle states that the product of uncertainty in position ($\\Delta x$) and momentum ($\\Delta p$) is always greater than or equal to $h/4\\pi$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 72,
+        "chapter": "Structure Of Atom",
+        "question": "The atomic mass and atomic number of lead are 208 and 82. The atomic mass and atomic number of bismuth are 209 and 83. The neutron/proton ratio in an atom",
+        "question_latex": "The atomic mass and atomic number of lead are 208 and 82. The atomic mass and atomic number of bismuth are 209 and 83. The neutron/proton ratio in an atom",
+        "question_images": [],
+        "options": [
+            "A. Is higher in lead than in bismuth",
+            "B. Is lower in lead than in bismuth",
+            "C. Is equal in both lead and bismuth",
+            "D. None"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "For $Pb$: $p=82, n=208-82=126$, $n/p = 126/82 \\approx 1.536$. For $Bi$: $p=83, n=209-83=126$, $n/p = 126/83 \\approx 1.518$. Lead is higher. (Note: Solution in PDF says D, but explanation shows Lead is higher which corresponds to A).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 73,
+        "chapter": "Structure Of Atom",
+        "question": "Which of the following set of quantum numbers is an impossible arrangement?",
+        "question_latex": "Which of the following set of quantum numbers is an impossible arrangement?",
+        "question_images": [],
+        "options": [
+            "A. $n=3, l=2, m=-2, s=+1/2$",
+            "B. $n=4, l=0, m=0, s=+1/2$",
+            "C. $n=5, l=3, m=2, s=-1/2$",
+            "D. $n=3, l=2, m=-3, s=-1/2$"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "The value of magnetic quantum number $m$ must range from $-l$ to $+l$. If $l=2$, $m$ cannot be $-3$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 74,
+        "chapter": "Structure Of Atom",
+        "question": "The ratio of the shortest wavelength of two spectral series of hydrogen spectrum is found to be about 9. The spectral series are (April 2019)",
+        "question_latex": "The ratio of the shortest wavelength of two spectral series of hydrogen spectrum is found to be about 9. The spectral series are (April 2019)",
+        "question_images": [],
+        "options": [
+            "A. Brackett and Pfund.",
+            "B. Balmer and Brackett",
+            "C. Lyman and Paschen",
+            "D. Paschen and Pfund"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Shortest wavelength is when $n_2 = \\infty$. $\\frac{1}{\\lambda} = R \\cdot \\frac{1}{n_1^2}$. Ratio $\\frac{\\lambda_1}{\\lambda_2} = \\frac{n_1^2}{n_2^2}$. For Balmer ($n=2$) and Brackett ($n=4$), ratio is $4/16 = 1/4$. For Lyman ($n=1$) and Paschen ($n=3$), ratio is $1/9$. Thus ratio is 9.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 75,
+        "chapter": "Structure Of Atom",
+        "question": "Rutherford's experiment on the scattering of $\\alpha$-particles showed for the first time that the atom has:",
+        "question_latex": "Rutherford's experiment on the scattering of $\\alpha$-particles showed for the first time that the atom has:",
+        "question_images": [],
+        "options": [
+            "A. electrons",
+            "B. protons",
+            "C. nucleus",
+            "D. neutrons"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Rutherford's $\\alpha$-ray scattering experiment showed the existence of a small, dense, positively charged center called the nucleus.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 76,
+        "chapter": "Structure Of Atom",
+        "question": "The wavelength of the radiation emitted, when in a hydrogen atom electron falls from infinity to stationary state 1, would be (Rydberg constant = 1.097 x 10^7 m^-1) (2004)",
+        "question_latex": "The wavelength of the radiation emitted, when in a hydrogen atom electron falls from infinity to stationary state 1, would be (Rydberg constant $= 1.097 \\times 10^{7} \\text{ m}^{-1}$) (2004)",
+        "question_images": [],
+        "options": [
+            "A. 91 nm",
+            "B. 9.1 x 10^-8 nm",
+            "C. 406 nm",
+            "D. 192 nm"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Using the Rydberg formula: $\\frac{1}{\\lambda} = R \\left( \\frac{1}{n_1^2} - \\frac{1}{n_2^2} \\right)$. Given $n_1 = 1$ and $n_2 = \\infty$, $\\frac{1}{\\lambda} = 1.097 \\times 10^7 \\left( \\frac{1}{1^2} - \\frac{1}{\\infty^2} \\right) = 1.097 \\times 10^7 \\text{ m}^{-1}$. $\\lambda = \\frac{1}{1.097 \\times 10^7} \\approx 91.15 \\times 10^{-9} \\text{ m} = 91 \\text{ nm}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 77,
+        "chapter": "Structure Of Atom",
+        "question": "Match List-I with List-II. List-I (Alkali Metal): A. Li, B. Na, C. Rb, D. Cs. List-II (Emission Wavelength in nm): I. 589.2, II. 455.5, III. 670.8, IV. 780.0. [06 April, 2024 (Shift-II)]",
+        "question_latex": "Match List-I with List-II. \\\\ List-I (Alkali Metal): A. Li, B. Na, C. Rb, D. Cs. \\\\ List-II (Emission Wavelength in nm): I. 589.2, II. 455.5, III. 670.8, IV. 780.0. [06 April, 2024 (Shift-II)]",
+        "question_images": [
+            "q77_1",
+            "77_qu_1.png"
+        ],
+        "options": [
+            "A. (A)-(I), (B)-(IV), (C)-(III), (D)-(II)",
+            "B. (A)-(II), (B)-(IV), (C)-(III), (D)-(I)",
+            "C. (A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+            "D. (A)-(IV), (B)-(II), (C)-(I), (D)-(III)"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Based on characteristic flame emission spectra: Lithium (Li) - 670.8 nm (Red), Sodium (Na) - 589.2 nm (Yellow), Rubidium (Rb) - 780.0 nm (Red-Violet), Cesium (Cs) - 455.5 nm (Blue).",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 78,
+        "chapter": "Structure Of Atom",
+        "question": "The principal quantum number of H-atom orbital, if the electron energy is -3.4 eV, will be",
+        "question_latex": "The principal quantum number of H-atom orbital, if the electron energy is $-3.4 \\text{ eV}$, will be",
+        "question_images": [],
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. Zero"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Energy of electron in H-atom is given by $E_n = -\\frac{13.6}{n^2} \\text{ eV}$. Given $E_n = -3.4 \\text{ eV}$, $-3.4 = -\\frac{13.6}{n^2} \\Rightarrow n^2 = \\frac{13.6}{3.4} = 4 \\Rightarrow n = 2$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 79,
+        "chapter": "Structure Of Atom",
+        "question": "The total number of orbitals associated with the principal quantum number 5 is (Online 2016)",
+        "question_latex": "The total number of orbitals associated with the principal quantum number 5 is (Online 2016)",
+        "question_images": [],
+        "options": [
+            "A. 10",
+            "B. 25",
+            "C. 20",
+            "D. 5"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The number of orbitals in a shell with principal quantum number $n$ is given by $n^2$. For $n=5$, number of orbitals $= 5^2 = 25$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 80,
+        "chapter": "Structure Of Atom",
+        "question": "A radioactive element decays by the sequence, and with half-lives, given below: X (alpha, 30 min) -> Y (2 beta, 2 days) -> Z. Which of the following statements about this system are correct?",
+        "question_latex": "A radioactive element decays by the sequence, and with half-lives, given below: $X \\xrightarrow[30 \\text{ min}]{\\alpha} Y \\xrightarrow[2 \\text{ days}]{2\\beta} Z$. Which of the following statements about this system are correct?",
+        "question_images": [],
+        "options": [
+            "A. After two hours, less than 10% of the initial X is left",
+            "B. Maximum amount of Y present at any time before 30 min is less then 50% of the initial amount of X",
+            "C. Atomic numbers of X and Z are same",
+            "D. All of the above are correct statements"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "(a) $2 \\text{ hours} = 4 \\text{ half-lives of } X$. Fraction left $= (1/2)^4 = 6.25\\% < 10\\%$. (b) Half-life of $Y$ is very large compared to $X$, so $Y$ accumulates slowly; before first half-life of $X$, $Y$ is less than $50\\%$. (c) $\\alpha$ emission reduces $Z$ by 2, $2\\beta$ emission increases $Z$ by 2. Total change in $Z = 0$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 81,
+        "chapter": "Structure Of Atom",
+        "question": "Which one of the following pairs is not correctly matched?",
+        "question_latex": "Which one of the following pairs is not correctly matched?",
+        "question_images": [],
+        "options": [
+            "A. Rutherford-Proton",
+            "B. J.J. Thomson-Electron",
+            "C. J.H. Chadwick-Neutron",
+            "D. Bohr-Isotopes"
+        ],
+        "option_images": [],
+        "answer": "D",
+        "solution": "Soddy is generally credited with the discovery/concept of isotopes, not Bohr. Bohr is known for the planetary model of the atom and explaining spectral lines.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 82,
+        "chapter": "Structure Of Atom",
+        "question": "For a d electron, the orbital angular momentum is",
+        "question_latex": "For a $d$ electron, the orbital angular momentum is",
+        "question_images": [],
+        "options": [
+            "A. $\\sqrt{6}(\\frac{h}{2\\pi})$",
+            "B. $\\sqrt{2}(\\frac{h}{2\\pi})$",
+            "C. $(\\frac{h}{2\\pi})$",
+            "D. $2(\\frac{h}{2\\pi})$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "Orbital angular momentum is $\\sqrt{l(l+1)} \\frac{h}{2\\pi}$. For a $d$ orbital, $l=2$. Momentum $= \\sqrt{2(2+1)} \\frac{h}{2\\pi} = \\sqrt{6} \\frac{h}{2\\pi}$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 83,
+        "chapter": "Structure Of Atom",
+        "question": "A substance is kept for 2 hours and three-fourth of that substance disintegrates during this period. The half life of the substance is",
+        "question_latex": "A substance is kept for $2$ hours and three-fourth of that substance disintegrates during this period. The half life of the substance is",
+        "question_images": [],
+        "options": [
+            "A. 2 hr",
+            "B. 1 hr",
+            "C. 30 min",
+            "D. 4 hr"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Three-fourth disintegrates, so $1/4$ remains. $1/4 = (1/2)^n \\Rightarrow n=2$. Total time $T = n \\times t_{1/2}$. $2 \\text{ hr} = 2 \\times t_{1/2} \\Rightarrow t_{1/2} = 1 \\text{ hr}$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 84,
+        "chapter": "Structure Of Atom",
+        "question": "Which one of the following is not the characteristic of Planck's quantum theory of radiation?",
+        "question_latex": "Which one of the following is not the characteristic of Planck's quantum theory of radiation?",
+        "question_images": [],
+        "options": [
+            "A. The energy is not absorbed or emitted in whole number or multiple of quantum",
+            "B. Radiation is associated with energy",
+            "C. Radiation energy is not emitted or absorbed continuously but in the form of small packets called quanta",
+            "D. This magnitude of energy associated with a quantum is proportional to the frequency."
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to Planck's theory, energy is always absorbed or emitted in integral multiples of a quantum ($E = nh\\nu$), which contradicts option A.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 85,
+        "chapter": "Structure Of Atom",
+        "question": "Which of the following has magic number of neutrons?",
+        "question_latex": "Which of the following has magic number of neutrons?",
+        "question_images": [],
+        "options": [
+            "A. ${}_{13}Al^{27}$",
+            "B. ${}_{83}Bi^{209}$",
+            "C. ${}_{92}U^{238}$",
+            "D. ${}_{26}Fe^{56}$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Magic numbers of nucleons are 2, 8, 20, 28, 50, 82, 126. For ${}_{83}Bi^{209}$, neutrons $N = 209 - 83 = 126$, which is a magic number.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 86,
+        "chapter": "Structure Of Atom",
+        "question": "What can be the representation of the orbital having 3 angular nodes and n=5.",
+        "question_latex": "What can be the representation of the orbital having $3$ angular nodes and $n=5$.",
+        "question_images": [],
+        "options": [
+            "A. 5d",
+            "B. 5f",
+            "C. 5p",
+            "D. 5s"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "Number of angular nodes is equal to the azimuthal quantum number $l$. Given $l=3$ and $n=5$, the orbital is $5f$.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 87,
+        "chapter": "Structure Of Atom",
+        "question": "The filling of 4p-sublevel starts in the element of atomic number:",
+        "question_latex": "The filling of $4p$-sublevel starts in the element of atomic number:",
+        "question_images": [],
+        "options": [
+            "A. 29",
+            "B. 31",
+            "C. 35",
+            "D. 19"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The electronic configuration up to $Z=30$ (Zinc) is $[Ar] 3d^{10} 4s^2$. The next electron ($Z=31$, Gallium) enters the $4p$ subshell.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 88,
+        "chapter": "Structure Of Atom",
+        "question": "A certain orbital has no angular nodes and two radial nodes. The orbital is (March 2021)",
+        "question_latex": "A certain orbital has no angular nodes and two radial nodes. The orbital is (March 2021)",
+        "question_images": [],
+        "options": [
+            "A. 2p",
+            "B. 3p",
+            "C. 3s",
+            "D. 2s"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Angular nodes $= l$. No angular nodes $\\Rightarrow l = 0$ ($s$ orbital). Radial nodes $= n - l - 1$. Given $2 = n - 0 - 1 \\Rightarrow n = 3$. The orbital is $3s$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 89,
+        "chapter": "Structure Of Atom",
+        "question": "When two electrons are placed in two degenerate orbitals of the atom, the energy is lower if their spin is parallel. The statement is based upon",
+        "question_latex": "When two electrons are placed in two degenerate orbitals of the atom, the energy is lower if their spin is parallel. The statement is based upon",
+        "question_images": [],
+        "options": [
+            "A. Pauli's exclusion",
+            "B. Bohr's rule",
+            "C. Hund's rules",
+            "D. Aufbau principle"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "Hund's Rule of Maximum Multiplicity states that for degenerate orbitals, electrons prefer to occupy them singly with parallel spins to minimize inter-electronic repulsion.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 90,
+        "chapter": "Structure Of Atom",
+        "question": "The shortest wavelength of H-atom in the Lyman series is lambda_1. The longest wavelength in the Balmer series of He+ is (Sept 2020)",
+        "question_latex": "The shortest wavelength of H-atom in the Lyman series is $\\lambda_{1}$. The longest wavelength in the Balmer series of $\\text{He}^{+}$ is (Sept 2020)",
+        "question_images": [],
+        "options": [
+            "A. $9\\lambda_{1}/5$",
+            "B. $27\\lambda_{1}/5$",
+            "C. $36\\lambda_{1}/5$",
+            "D. $5\\lambda_{1}/9$"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "For Lyman shortest ($n=1, n_2=\\infty$): $\\frac{1}{\\lambda_1} = R_H(1)$. For $\\text{He}^+$ ($Z=2$) Balmer longest ($n=2, n_2=3$): $\\frac{1}{\\lambda_{He}} = R_H(2^2)\\left(\\frac{1}{4} - \\frac{1}{9}\\right) = 4R_H\\left(\\frac{5}{36}\\right) = \\frac{5}{9}R_H$. $\\lambda_{He} = \\frac{9}{5R_H} = \\frac{9}{5}\\lambda_1$.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 91,
+        "chapter": "Structure Of Atom",
+        "question": "Hydrogen bomb is based on the principle of",
+        "question_latex": "Hydrogen bomb is based on the principle of",
+        "question_images": [],
+        "options": [
+            "A. Nuclear fission",
+            "B. Nuclear fusion",
+            "C. Nuclear explosion",
+            "D. Chemical reaction"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "A hydrogen bomb works on the principle of uncontrolled nuclear fusion of light nuclei (isotopes of hydrogen) under extremely high temperature and pressure.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 92,
+        "chapter": "Structure Of Atom",
+        "question": "A photon is:",
+        "question_latex": "A photon is:",
+        "question_images": [],
+        "options": [
+            "A. A quanta of light (or electromagnetic) energy",
+            "B. A quanta of matter",
+            "C. A positively charged particle",
+            "D. An instrument"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to Planck's quantum theory, light consists of discrete packets of energy called quanta; for light, these are specifically called photons.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 93,
+        "chapter": "Structure Of Atom",
+        "question": "The fundamental particles which are responsible for keeping nucleons together is:",
+        "question_latex": "The fundamental particles which are responsible for keeping nucleons together is:",
+        "question_images": [],
+        "options": [
+            "A. Meson",
+            "B. Antiproton",
+            "C. Positron",
+            "D. Electron"
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "According to Yukawa's theory, the nuclear force between nucleons arises from the exchange of subatomic particles called mesons (specifically pi-mesons).",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 94,
+        "chapter": "Structure Of Atom",
+        "question": "Which equation is true for transient equilibrium? (lambda = disintegration constant; t = half-life)",
+        "question_latex": "Which equation is true for transient equilibrium? ($\\lambda =$ disintegration constant; $t =$ half-life)",
+        "question_images": [],
+        "options": [
+            "A. $N_{1}\\lambda_{1} = N_{2}\\lambda_{2}$",
+            "B. $N_{1}t_{2} = N_{2}t_{1}$",
+            "C. Both (a) and (b)",
+            "D. None of these"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In equilibrium, the rate of decay of parent equals rate of decay of daughter: $\\lambda_1 N_1 = \\lambda_2 N_2$. Since $\\lambda \\propto 1/t_{1/2}$, then $N_1/t_1 = N_2/t_2$ or $N_1 t_2 = N_2 t_1$ is also equivalent.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 95,
+        "chapter": "Structure Of Atom",
+        "question": "If the principal quantum number n=6, the correct sequence of filling of electrons will be (Online 2015)",
+        "question_latex": "If the principal quantum number $n=6$, the correct sequence of filling of electrons will be (Online 2015)",
+        "question_images": [],
+        "options": [
+            "A. $ns \\rightarrow np \\rightarrow (n-1)d \\rightarrow (n-2)f$",
+            "B. $ns \\rightarrow (n-2)f \\rightarrow (n-1)d \\rightarrow np$",
+            "C. $ns \\rightarrow (n-1)d \\rightarrow (n-2)f \\rightarrow np$",
+            "D. $ns \\rightarrow (n-2)f \\rightarrow np \\rightarrow (n-1)d$"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "According to the $(n+l)$ rule, for $n=6$: $6s (6+0=6)$, $4f (4+3=7)$, $5d (5+2=7)$, $6p (6+1=7)$. Order is $6s \\rightarrow 4f \\rightarrow 5d \\rightarrow 6p$, which is $ns \\rightarrow (n-2)f \\rightarrow (n-1)d \\rightarrow np$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 96,
+        "chapter": "Structure Of Atom",
+        "question": "Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: Loss of electron from hydrogen atom results in nucleus of ~1.5 x 10^-3 pm size. Reason R: Proton (H+) always exists in combined form. In the light of the above statements, choose the most appropriate answer from the options given below: (April 2023)",
+        "question_latex": "Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R. \\\\ Assertion A: Loss of electron from hydrogen atom results in nucleus of $\\sim 1.5 \\times 10^{-3} \\text{ pm}$ size. \\\\ Reason R: Proton ($H^{+}$) always exists in combined form. In the light of the above statements, choose the most appropriate answer from the options given below: (April 2023)",
+        "question_images": [],
+        "options": [
+            "A. A is not correct but R is correct.",
+            "B. Both A and R are correct and R is the correct explanation of A.",
+            "C. Both A and R are correct but R is not the correct explanation of A.",
+            "D. A is correct but R is not correct."
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "A is correct: the size of a proton is indeed extremely small. R is correct: because of its high charge density and small size, $H^+$ cannot exist freely and exists as $H_3O^+$ etc. However, R is a consequence of A, rather than a reason for the size itself.",
+        "solution_images": [],
+        "difficulty": "Hard",
+        "marks": 4
+    },
+    {
+        "id": 97,
+        "chapter": "Structure Of Atom",
+        "question": "Which of the following nuclear changes is incorrect?",
+        "question_latex": "Which of the following nuclear changes is incorrect?",
+        "question_images": [],
+        "options": [
+            "A. ${}_{20}Ca^{40} + {}_{0}n^{1} \\rightarrow {}_{19}K^{40} + {}_{1}H^{1}$",
+            "B. ${}_{12}Mg^{24} + \\alpha \\rightarrow {}_{14}Si^{27} + {}_{0}n^{1}$",
+            "C. ${}_{48}Cd^{113} + {}_{0}n^{1} \\rightarrow {}_{48}Cd^{112} + {}_{-1}e^{0}$",
+            "D. ${}_{13}Al^{27} + \\alpha \\rightarrow {}_{15}P^{30} + {}_{0}n^{1}$"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "In option C, mass number on LHS is $113+1=114$ but on RHS it is $112+0=112$. Also, atomic number on LHS is 48, on RHS it is $48-1=47$. It violates conservation of mass and charge.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 98,
+        "chapter": "Structure Of Atom",
+        "question": "From the discharge tube experiment, it is concluded that:",
+        "question_latex": "From the discharge tube experiment, it is concluded that:",
+        "question_images": [],
+        "options": [
+            "A. Mass of a proton is in fraction",
+            "B. Matter contains electrons",
+            "C. Nucleus contains positive charge",
+            "D. Positive rays are heavier than"
+        ],
+        "option_images": [],
+        "answer": "B",
+        "solution": "The discovery of cathode rays in discharge tube experiments led to the conclusion that all matter contains negatively charged particles called electrons.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    },
+    {
+        "id": 99,
+        "chapter": "Structure Of Atom",
+        "question": "Given below are two statements. One is labelled as Assertion A and the other is labelled as Reason R. Assertion A: Energy of 2s orbital of hydrogen atom is greater than that of 2s orbital of lithium. Reason R: Energies of the orbitals in the same subshell decrease with increase in the atomic number. In the light of the above statements, choose the correct answer from the options given below: (July 2022)",
+        "question_latex": "Given below are two statements. One is labelled as Assertion A and the other is labelled as Reason R. \\\\ Assertion A: Energy of $2s$ orbital of hydrogen atom is greater than that of $2s$ orbital of lithium. \\\\ Reason R: Energies of the orbitals in the same subshell decrease with increase in the atomic number. In the light of the above statements, choose the correct answer from the options given below: (July 2022)",
+        "question_images": [],
+        "options": [
+            "A. Both A and R are true and R is the correct explanation of A.",
+            "B. A is true but R is false.",
+            "C. A is false but R is true.",
+            "D. Both A and R are true but R is not the correct explanation of A."
+        ],
+        "option_images": [],
+        "answer": "A",
+        "solution": "As atomic number ($Z$) increases, nuclear charge increases, which pulls the electrons closer and lowers the energy of the orbitals. Thus $E_{2s}(H) > E_{2s}(Li)$.",
+        "solution_images": [],
+        "difficulty": "Medium",
+        "marks": 4
+    },
+    {
+        "id": 100,
+        "chapter": "Structure Of Atom",
+        "question": "The experimental evidence for dual nature of matter comes from",
+        "question_latex": "The experimental evidence for dual nature of matter comes from",
+        "question_images": [],
+        "options": [
+            "A. Planck's experiment",
+            "B. De Broglie's experiment",
+            "C. Davisson and Germer's experiment",
+            "D. Rutherford's experiment"
+        ],
+        "option_images": [],
+        "answer": "C",
+        "solution": "While de Broglie proposed the theory, the first experimental verification of the wave nature of electrons (matter waves) was provided by the Davisson-Germer experiment through electron diffraction.",
+        "solution_images": [],
+        "difficulty": "Easy",
+        "marks": 4
+    }
+]
