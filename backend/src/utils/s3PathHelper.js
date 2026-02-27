@@ -4,7 +4,12 @@ import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const LOCAL_IMAGE_DATA_PATH = path.join(__dirname, '..', '..', 'data', 'Questions_Image_Data');
+// Look in BOTH possible locations for the image data folder
+const LOCAL_IMAGE_DATA_PATH_PRIMARY = path.join(__dirname, '..', '..', '..', 'Questions_Image_Data');   // Project root
+const LOCAL_IMAGE_DATA_PATH_FALLBACK = path.join(__dirname, '..', '..', 'data', 'Questions_Image_Data'); // backend/data
+const LOCAL_IMAGE_DATA_PATH = fs.existsSync(LOCAL_IMAGE_DATA_PATH_PRIMARY)
+    ? LOCAL_IMAGE_DATA_PATH_PRIMARY
+    : LOCAL_IMAGE_DATA_PATH_FALLBACK;
 
 const chapterFolderMap = new Map();
 
